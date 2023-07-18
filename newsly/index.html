@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+
+<head>
+  <!-- Required meta tags always come first -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="shortcut icon" href="favicon.ico">
+  <title>Newsly</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-81613790-1');
+</script>
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Bootstrap core CSS -->
+  <link href="../css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="../css/mdb.min.css" rel="stylesheet">
+  <script src="../js/p5.js" type="text/javascript"></script>
+  <script src="../js/p5.dom.js" type="text/javascript"></script>
+  <!--<link href="../css/dots.css" rel="stylesheet"-->
+  <style>
+
+  .flex-1 {
+  flex: 1;
+  }
+  html,
+  body,
+  header,
+  .jarallax {
+    height: 600px;
+  }
+
+  @media (max-width: 740px) {
+    html,
+    body,
+    header,
+    .jarallax {
+      height: 100vh;
+    }
+  }
+
+   @media (min-width: 800px) and (max-width: 850px) {
+    html,
+    body,
+    header,
+    .jarallax {
+      height: 100vh;
+    }
+  }
+
+  @media (min-width: 560px) and (max-width: 660px) {
+    header .jarallax h5 {
+      display: none !important;
+    }
+  }
+
+  .page-footer {
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+
+  </style>
+</head>
+<body>
+
+  <nav class="navbar sticky-top navbar-dark grey">
+    <ul class="nav navbar-nav pull-left">
+      <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-folder-open"></i>Source</a>
+            <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
+              <!--<a target="_self" class="dropdown-item" href="api/ap/index.html">Associated Press</a>-->
+              <a target="_self" class="dropdown-item" href="api/aljazApi/index.html">Aljazeera</a>
+              <a target="_self" class="dropdown-item" href="api/arsTechnica/index.html">Ars Technica</a>
+              <a target="_self" class="dropdown-item" href="api/bbcApi/index.html">BBC</a>
+              <a target="_self" class="dropdown-item" href="api/bbcSport/index.html">BBC Sport</a>
+              <a target="_self" class="dropdown-item" href="api/huffington/index.html">Huff Post</a>
+              <a target="_self" class="dropdown-item" href="api/natGeo/index.html">Nat Geo</a>
+              <!---<a target="_self" class="dropdown-item" href="api2/nzherald/index.html">NZ Herald</a>-->
+              <a target="_self" class="dropdown-item" href="api/nytimes/index.html">NY Times</a>
+              <a target="_self" class="dropdown-item" href="api/reuters/index.html">Reuters</a>
+              <a target="_self" class="dropdown-item" href="api/vice/index.html">Vice</a>
+
+            </div>
+        </li>
+    </ul>
+
+
+    <a class="white-text navbar-brand" href="../index.html" data-toggle="tooltip" title="Home">
+      Home
+    </a>
+</nav>
+<div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url(); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+  <div class="mask rgba-grey-slight">
+    <div class="container h-100 d-flex justify-content-center align-items-center">
+      <div class="row pt-5 mt-3">
+        <div class="col-md-12 mb-3">
+          <div class="intro-info-content text-center">
+            <h1 class="display-3 white-text mb-5 wow fadeInDown" data-wow-delay="0.3s">
+              <a class="grey-text font-weight-bold" href="#" data-toggle="tooltip" title="When public funding pays for your business, charging for content is the middle finger.">Newsly</a>
+            </h1>
+
+            <!--<h5 class="text white-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s"></h5>-->
+          </div>
+          <!--<div class="card weather-card">
+            <div class="card-body pb-3">
+              <div class="d-flex justify-content-between">
+            <div id="results"></div>
+          </div>
+            </div>
+          </div>-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="row">
+    <!--Grid column-->
+
+</div>
+
+<div class="fixed-action-btn" style="bottom: 10px; right: 10px;">
+  <a class="btn-floating btn-sm grey" onclick="topFunction()" id="myBtn">
+    <i class="fa fa-chevron-up"></i>
+  </a>
+  <!--<ul class="list-unstyled">
+    <li><a class="btn-floating btn-sm red"><i class="fa fa-star"></i></a></li>
+    <li><a class="btn-floating btn-sm yellow darken-1"><i class="fa fa-user"></i></a></li>
+    <li><a class="btn-floating btn-sm green"><i class="fa fa-envelope"></i></a></li>
+    <li><a class="btn-floating btn-sm blue"><i class="fa fa-shopping-cart"></i></a></li>
+  </ul>-->
+</div>
+</div>
+
+<script>
+  new WOW().init();
+  // MDB Lightbox Init
+  $(function () {
+    $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
+  });
+  $(function () {
+$('[data-toggle="tooltip"]').tooltip()
+})
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+
+  <!--  SCRIPTS  -->
+  <!-- JQuery -->
+  <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="../js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="../js/mdb.min.js"></script>
+  <!--<script src="template.js" type="text/javascript"></script>-->
+
+
+</body>
+
+</html>

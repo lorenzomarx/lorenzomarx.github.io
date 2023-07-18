@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+
+<head>
+  <!-- Required meta tags always come first -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="shortcut icon" href="../../favicon.ico">
+  <title>Newsly</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-81613790-1');
+  </script>
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Bootstrap core CSS -->
+  <link href="../../../css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="../../../css/mdb.min.css" rel="stylesheet">
+  <script src="../../../js/p5.js" type="text/javascript"></script>
+  <script src="../../../js/p5.dom.js" type="text/javascript"></script>
+  <link href="../../../css/api.css" rel="stylesheet">
+</head>
+<body>
+
+  <nav class="navbar sticky-top navbar-dark indigo">
+    <ul class="nav navbar-nav pull-left">
+      <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-folder-open"></i>Sources</a>
+            <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
+              <a target="_self" class="dropdown-item" href="../ap/index.html">Associated Press</a>
+              <a target="_self" class="dropdown-item" href="../aljazApi/index.html">Al Jazeera</a>
+              <a target="_self" class="dropdown-item" href="../arsTechnica/index.html">Ars Technica</a>
+              <a target="_self" class="dropdown-item" href="../bbcApi/index.html">BBC</a>
+              <a target="_self" class="dropdown-item" href="../bbcSport/index.html">BBC Sport</a>
+              <a target="_self" class="dropdown-item" href="../colombia/index.html">Colombia</a>
+              <a target="_self" class="dropdown-item" href="../france/index.html">France</a>
+              <a target="_self" class="dropdown-item" href="../huffington/index.html">Huffington Post</a>
+              <a target="_self" class="dropdown-item" href="../natGeo/index.html">National Geographic</a>
+              <a target="_self" class="dropdown-item" href="../newZealand/index.html">New Zealand</a>
+              <a target="_self" class="dropdown-item" href="../reuters/index.html">Reuters</a>
+              <a target="_self" class="dropdown-item" href="../vice/index.html">Vice News</a>
+
+            </div>
+        </li>
+    </ul>
+    <a class="white-text navbar-brand" href="../../index.html" data-toggle="tooltip" title="Global News">
+      Home
+    </a>
+</nav>
+<div>
+  <!--Grid column-->
+<section class="section pb-3 text-center">
+  <div class="p-3 flex-1">
+<div class="col-md-6 mb-4">
+  <div class="card weather-card">
+    <div class="card-body pb-3">
+      <div class="d-flex justify-content-between">
+    <div id="result" class="card-body"></div>
+  </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</section>
+</div>
+
+<div class="fixed-action-btn" style="bottom: 10px; right: 10px;">
+  <a class="btn-floating btn-sm blue" onclick="topFunction()" id="myBtn">
+    <i class="fa fa-chevron-up"></i>
+  </a>
+  <!--<ul class="list-unstyled">
+    <li><a class="btn-floating btn-sm red"><i class="fa fa-star"></i></a></li>
+    <li><a class="btn-floating btn-sm yellow darken-1"><i class="fa fa-user"></i></a></li>
+    <li><a class="btn-floating btn-sm green"><i class="fa fa-envelope"></i></a></li>
+    <li><a class="btn-floating btn-sm blue"><i class="fa fa-shopping-cart"></i></a></li>
+  </ul>-->
+</div>
+</div>
+
+<script>
+  new WOW().init();
+  // MDB Lightbox Init
+  $(function () {
+    $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
+  });
+  $(function () {
+$('[data-toggle="tooltip"]').tooltip()
+})
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+
+  <!--  SCRIPTS  -->
+  <!-- JQuery -->
+  <script type="text/javascript" src="../../../js/jquery-3.3.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="../../../js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="../../../js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="../../../js/mdb.min.js"></script>
+  <script src="weather.js" type="text/javascript"></script>
+
+
+</body>
+
+</html>

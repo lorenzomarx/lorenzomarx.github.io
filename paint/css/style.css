@@ -1,0 +1,75 @@
+#bigger,#smaller,span{ float:right; }
+#clear{ margin-bottom:5px;}
+ul {
+  padding-left:0;
+  cursor:pointer;
+  margin-top:2px;
+}
+li{
+  list-style:none;
+  display:inline-block;
+  width:100px;
+  border-radius:20px;
+}
+
+#wrapper{
+  width:100%;
+  max-width:1010px;
+  overflow:hidden;
+  margin:0 auto;
+}
+body{
+  background-color:#edeeef;
+  font-size:0.7em;
+  font-family:sans-serif;
+  text-align: center;
+}
+h1{
+  font-family: paint;
+  text-shadow: 2px 2px #f20000;
+  font-size: 400%;
+}
+h2{
+  font-family: paint;
+  text-shadow: 2px 2px #f20000;
+  font-size: 200%;
+}
+button{
+  font-family: paint;
+}
+p{
+  text-align: center;
+  font-size: 15px;
+}
+*{ box-sizing:border-box;}
+
+li.Pein{
+  font-family: Pein;
+  font-size: 50px;
+}
+li.Paint{
+  font-family: paint;
+  font-size: 45px;
+  color: rgb(0,150,0);
+}
+li.Bomb{
+  font-family: bomb;
+  font-size: 50px;
+}
+li.NYFat{
+  font-family: NYFat;
+  font-size: 50px;
+}
+li.Urbandecay{
+  font-family: urbandecay;
+  font-size: 25px;
+  color: rgb(150,0,0);
+}
+li.Brock{
+  font-family: Brock;
+  font-size: 45px;
+}
+li.Gas{
+  font-family: Gas;
+  font-size: 80px;
+}

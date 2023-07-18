@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="favicon.ico">
+    <title>NOTW</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Material Design Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/mdb.min.css" rel="stylesheet">
+    <script src="../js/p5.js" type="text/javascript"></script>
+    <script src="../js/p5.dom.js" type="text/javascript"></script>
+
+    <style>
+    html {
+      height: 100%;
+    }
+    body {
+      margin:0;
+      padding:0;
+      font-family: sans-serif;
+    }
+
+    .accordion.accordion-3 {
+      border-radius: 3px; }
+      .accordion.accordion-3 p {
+        font-size: 1rem; }
+      .accordion.accordion-3 .fa.fa-angle-down {
+        margin-top: -10px; }
+
+    .accordion .animated-icon1 span {
+        background: #F44336;
+    }
+    .flex-1 {
+     flex: 1;
+    }
+    div.twee {
+      margin: auto;
+      text-align: center;
+      background: rgb(255,255,255);
+      padding: 10px;
+      box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.24), 0 5px 5px 0 rgba(0, 0, 0, 0.30);
+      vertical-align: top;
+      animation: zoom 500ms;
+      -webkit-animation: zoom 500ms;
+
+    }
+
+    .search-box {
+      position: absolute;
+      top: 50%;
+      left: 35%;
+      width: 50px;
+      padding: 10px;
+      transform: translate(-50%, -50%);
+    }
+    </style>
+
+
+</head>
+
+<body>
+
+
+    <nav class="navbar sticky-top grey">
+      <div class="form-inline mr-auto">
+          <input id="search" class="form-control" type="text" placeholder="Search" aria-label="Search">
+          <div class="search-box col-auto">
+              <button id="submit" class="d-flex btn btn-grey btn-rounded btn-md" type="submit">Search</button>
+         </div>
+      </div>
+
+        <a class="black-text navbar-brand" data-toggle="tooltip" title="Contact" href="../index.html" target="_self">
+            Home
+        </a>
+    </nav>
+    <!--Grid column-->
+
+    <div class="container">
+
+        <!--Section: Blog v.4-->
+        <section class="section section-blog-fw mt-5 pb-3 wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+            <!--Grid row-->
+            <div class="row">
+              <!--<div class="col-md-4">
+                  <div class="card card-cascade wider reverse">
+                      <div class="card-body card-body-cascade text-center">
+
+                          <div class="embed-responsive embed-responsive-16by9">
+                              <img class="embed-responsive-item" src="" frameborder="0" allowfullscreen=""></img>
+                          </div>
+                          <br>
+
+                      </div>
+                  </div>-->
+                  <!--Excerpt-->
+              </div>
+                <div class="col-md-8">
+                    <div class="card card-cascade wider reverse animated rotateInDownLeft">
+                        <div class="card-body card-body-cascade text-center" style="background-image: url('assets/akldnblogo.png'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+                          <div><p>Cocktail Search</p></div>
+
+                              <div id="results"></div>
+
+
+                            <br>
+
+                        </div>
+                        <!--Post data-->
+                    </div>
+                    <!--Excerpt-->
+                </div>
+                <br><br>
+
+                <!--<div class="col-md-4">
+                    <div class="card card-cascade wider reverse">
+                        <div class="card-body card-body-cascade text-center">
+
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <img class="embed-responsive-item" src="" frameborder="0" allowfullscreen=""></img>
+                            </div>
+                            <br>
+
+                        </div>
+                    </div>
+                </div>-->
+            </div>
+        </section>
+    </div>
+    </div>
+
+
+    <div class="fixed-action-btn" style="bottom: 10px; right: 10px;">
+        <a class="btn-floating btn-sm grey" onclick="topFunction()" id="myBtn">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+        <!--<ul class="list-unstyled">
+      <li><a class="btn-floating btn-sm red"><i class="fa fa-star"></i></a></li>
+      <li><a class="btn-floating btn-sm yellow darken-1"><i class="fa fa-user"></i></a></li>
+      <li><a class="btn-floating btn-sm green"><i class="fa fa-envelope"></i></a></li>
+      <li><a class="btn-floating btn-sm blue"><i class="fa fa-shopping-cart"></i></a></li>
+    </ul>-->
+    </div>
+    <script>
+        new WOW().init();
+        // MDB Lightbox Init
+        $(function() {
+            $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
+        });
+        $(function() {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+        window.onscroll = function() {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("myBtn").style.display = "block";
+            } else {
+                document.getElementById("myBtn").style.display = "none";
+            }
+        }
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+
+    </script>
+
+
+    <!--  SCRIPTS  -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="../js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="../js/mdb.min.js"></script>
+    <script>
+    let input;
+
+    function setup() {
+        noCanvas();
+        // Grab the input and button from HTML
+        input = select('#search');
+        let button = select('#submit');
+        // Attach a callback to button press
+        button.mousePressed(search);
+    }
+
+    // Run the API call
+    function search() {
+        let term = input.value();
+
+        // URL for querying wikipedia
+        let url = 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=' + term;
+
+
+        // 'jsonp' is needed for security
+        console.log(url);
+        loadJSON(url, gotData);
+    }
+    // We got the list of articles
+    function gotData(data) {
+        console.log(data.drinks);
+        var ALC = data.drinks;
+        for (var i = 0; i < ALC.length; i++) {
+            //createElement('h3',articles[i].section);
+            let strDrink = createElement('h1', ALC[i].strDrink);
+            strDrink.parent('results');
+
+            let strDrinkThumb = createImg(ALC[i].strDrinkThumb).addClass('img-fluid z-depth-5 p-3 flex-1 card');
+            strDrinkThumb.parent('results');
+
+            let strIngredient1 = createElement('ul', ALC[i].strMeasure1 + ['  '] + ALC[i].strIngredient1);
+            strIngredient1.parent('results');
+
+            let strIngredient2 = createElement('ul', ALC[i].strMeasure2 + ['  '] + ALC[i].strIngredient2);
+            strIngredient2.parent('results');
+
+            let strIngredient3 = createElement('ul', ALC[i].strMeasure3 + ['  '] + ALC[i].strIngredient3);
+            strIngredient3.parent('results');
+
+            let strIngredient4 = createElement('ul', ALC[i].strMeasure4 + ['  '] + ALC[i].strIngredient4);
+            strIngredient4.parent('results');
+
+            let strIngredient5 = createElement('ul', ALC[i].strMeasure5 + ['  '] + ALC[i].strIngredient5);
+            strIngredient5.parent('results');
+
+            let strIngredient6 = createElement('ul', ALC[i].strMeasure6 + ['  '] + ALC[i].strIngredient6);
+            strIngredient6.parent('results');
+
+            let strInstructions = createElement('h3', ALC[i].strInstructions).addClass('z-depth-3 flex-1 card');
+            strInstructions.parent('results');
+
+        }
+    }
+    </script>
+
+
+
+
+</body>
+
+</html>
