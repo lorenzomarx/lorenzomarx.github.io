@@ -1,4 +1,4 @@
-var urlNews = "https://arlidge.github.io/newsly/api/huffington/huff.json";
+var urlNews = "https://lorenzomarx.github.io/newsly/api/huffington/huff.json";
 
 
 function setup() {

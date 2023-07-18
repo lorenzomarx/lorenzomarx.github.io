@@ -1,4 +1,4 @@
-var urlNews = "https://arlidge.github.io/newsly/api/bbcApi/bbc.json";
+var urlNews = "https://lorenzomarx.github.io/newsly/api/bbcApi/bbc.json";
 
 
 function setup() {

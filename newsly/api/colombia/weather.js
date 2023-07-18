@@ -1,4 +1,4 @@
-var urlNews = "https://arlidge.github.io/newsly/api/colombia/colombia.json";
+var urlNews = "https://lorenzomarx.github.io/newsly/api/colombia/colombia.json";
 function setup() {
 
  loadJSON(urlNews, gotData);

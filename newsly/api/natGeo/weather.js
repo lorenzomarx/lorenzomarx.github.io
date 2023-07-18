@@ -1,4 +1,4 @@
-var urlNews = "https://arlidge.github.io/newsly/api/natGeo/natgeo.json";
+var urlNews = "https://lorenzomarx.github.io/newsly/api/natGeo/natgeo.json";
 
 
 function setup() {

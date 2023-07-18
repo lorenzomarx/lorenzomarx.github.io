@@ -1,4 +1,4 @@
-var urlNews = "https://arlidge.github.io/newsly/api/NZsport/nzsport.json";
+var urlNews = "https://lorenzomarx.github.io/newsly/api/NZsport/nzsport.json";
 
 
 function setup() {

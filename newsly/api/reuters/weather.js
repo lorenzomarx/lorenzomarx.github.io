@@ -1,4 +1,4 @@
-var urlNews = "https://arlidge.github.io/newsly/api/reuters/reuters.json";
+var urlNews = "https://lorenzomarx.github.io/newsly/api/reuters/reuters.json";
 
 
 function setup() {
