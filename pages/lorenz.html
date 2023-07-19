@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="">
 
 <head>
-    <!--  Required meta tags always come first  -->
+    <!-- Required meta tags always come first -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="favicon.ico">
     <title>Lorenz</title>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
     <script>
@@ -19,20 +20,14 @@
         gtag('config', 'UA-81613790-1');
     </script>
 
-    <!--  Font Awesome  -->
+    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="../css/mdb.min.css" rel="stylesheet">
-    <style>
-        div1 {
-            color: rgb(77, 101, 141);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
 
+    <style>
         .caller.active {
             background-color: rgb(120, 120, 120);
             border-color: rgb(120, 120, 120);
@@ -48,160 +43,74 @@
             border-color: rgb(150, 150, 150);
         }
     </style>
+
+
 </head>
 
-<body aria-busy="true">
+<body>
     <!--Main Navigation-->
-    <header>
+    <nav class="navbar sticky-top white">
+        <ul class="nav navbar-nav pull-left">
+            <li class="nav-item dropdown">
+                <a class="black-text navbar-brand" href="bio.html" target="_self">Bio</a>
+                <!--<a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-folder-open"></i>Projects</a>-->
+                <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
+                    <!--<a target="_self" class="dropdown-item" href="filterMe/index.html">Filter</a>-->
+                    <!--<a target="_self" class="dropdown-item" href="../artbot/artbot.html">Art Bot</a>
+                <a target="_self" class="dropdown-item" href="../newsly/index.html">Newsly</a>-->
 
-        <nav class="navbar sticky-top white">
-            <ul class="nav navbar-nav pull-left">
-                <li class="nav-item dropdown">
-                    <a class="black-text navbar-brand" href="../index.html" target="_self">Home</a>
-                    <!--<a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-folder-open"></i>Projects</a>-->
-                    <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
-                        <!--<a target="_self" class="dropdown-item" href="filterMe/index.html">Filter</a>-->
-                        <!--<a target="_self" class="dropdown-item" href="../artbot/artbot.html">Art Bot</a>
-                  <a target="_self" class="dropdown-item" href="../newsly/index.html">Newsly</a>-->
-
-
-                    </div>
-                </li>
-            </ul>
-            <a class="black-text navbar-brand" data-toggle="tooltip" title="Events" href="events.html" target="_self">Events</a>
-        </nav>
-
-    </header>
-    <!--Main Navigation-->
-    <!--<div class="container h-100 d-flex justify-content-center align-items-center">
-        <div class="row pt-5 mt-3">
-            <div class="justify-content-center align-items-center">
-
-                <div class="col-md-12 mb-3">
-                    <div class="intro-info-content text-center">
-                        <h4 class="display-3 mb-5 wow fadeInDown" data-wow-delay="0.3s">
-                          Bio
-                        </h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>-->
-
-    <!--Main Layout-->
-    <main>
-
-
-        <div class="container">
-
-            <!--Section: Blog v.4-->
-            <section class="section section-blog-fw mt-5 pb-3 wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
-                <!--Grid row-->
-                <div1 class="row">
-                    <div class="col-md-6">
-                        <!--Featured image-->
-                        <div class="card card-cascade wider reverse">
-                            <!--Post data-->
-                            <div class="card-body card-body-cascade text-center">
-
-                                <div class="embed-responsive embed-responsive-16by9">
-                                    <img class="embed-responsive-item" src="../assets/lorenz.png" frameborder="0" allowfullscreen=""></img>
-                                </div>
-                                <br>
-
-                            </div>
-                            <!--Post data-->
-                        </div>
-                        <!--Excerpt-->
-                    </div>
-                    <br><br>
-
-
-                </div1>
-            </section>
-        </div>
-
-        <div class="container">
-
-            <!--Section: Blog v.4-->
-            <section class="section section-blog-fw mt-5 pb-4" style="visibility: visible;">
-                <!--Grid row-->
-                <div class="row">
-                    <div class="col-md-8">
-                        <!--Featured image-->
-                        <div class="card card-cascade wider reverse">
-                            <!--Post data-->
-                            <div class="row">
-                                <div class="col-4">
-                                    <div class="list-group" id="list-tab" role="tablist">
-                                        <a class="list-group-item baller list-group-item-action active" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Bio</a>
-                                        <a class="list-group-item past list-group-item-action" id="list-upcoming-list" data-toggle="list" href="#list-upcoming" role="tab" aria-controls="Upcoming">Location</a>
-
-                                        <a class="list-group-item baller list-group-item-action" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">First CD</a>
-
-                                        <a class="list-group-item baller list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Style</a>
-
-                                    </div>
-                                </div>
-                                <div class="col-8">
-                                    <div class="tab-content" id="nav-tabContent">
-                                        <div class="tab-pane fade show active" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
-                                            <h2 class="text-center">Lorenz </h2>
-                                            <!--<a target="_blank" href="https://www.eventbrite.co.nz/e/sly-sundays-labour-weekend-tickets-124945710985?aff=ebdssbeac"><img src="../assets/sly.jpg" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>-->
-                                            <p class="text-center">Has been a club raver admiring some of the heavyweights in the
-                                                industry since 2007. In 2020 he tookthe Auckland heats for Rumble in
-                                                the Jungle securing him a slot at Northern Bass, New Zealands foremost bass culture festival.
-                                              </p>
-                                        </div>
-                                        <div class="tab-pane fade show" id="list-upcoming" role="tabpanel" aria-labelledby="list-upcoming-list">
-                                            <h2 class="text-center">Auckland, NZ</h2>
-                                            <!--<a target="_blank" href="https://www.eventbrite.co.nz/e/sly-sundays-labour-weekend-tickets-124945710985?aff=ebdssbeac"><img src="../assets/sly.jpg" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>-->
-                                            <p class="text-center">Second home is Neck Of The Woods on Karangahape Road</p>
-                                        </div>
-                                        <div class="tab-pane fade show" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
-                                            <h2 class="text-center">The Prodigy</h2>
-                                            <!--<a target="_blank" href="https://www.eventbrite.co.nz/e/sly-sundays-labour-weekend-tickets-124945710985?aff=ebdssbeac"><img src="../assets/sly.jpg" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>-->
-                                            <p class="text-center">Fat Of The Land</p>
-                                        </div>
-                                        <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
-                                            <h2 class="text-center">Drum and Bass</h2>
-                                            <!--<a target="_blank" href="https://www.eventbrite.co.nz/e/dimension-festival-tickets-112426741410"><img src="../assets/dimension.jpg" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>-->
-                                            <p class="text-center">His versatility shows in his mixes which span from liquid to tech rollers </p>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Post data-->
-                        </div>
-
-                    </div>
-                    <br>
 
                 </div>
-            </section>
-        </div>
-        <!--Grid row-->
+            </li>
+        </ul>
+        <a class="black-text navbar-brand" data-toggle="tooltip" title="Events" href="../index.html" target="_self">Home</a>
+    </nav>
 
-        <!--Section: Blog v.4-->
-    </main>
 
-    <!--<div class="view jarallax2" data-jarallax='{"speed": 0.5}' style="background-image: url(../assets/lorenz.png); background-repeat: no-repeat; background-size: cover; background-position: center center;">
-        <div class="">
-          <div class="container h-50 d-flex justify-content-center align-items-center">
+    <div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url(../assets/lorenz.png); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        <div class="container h-100 d-flex justify-content-center align-items-center mask rgba-black-slight">
             <div class="row pt-5 mt-3">
-              <div class="col-md-12 mb-3">
-                <div class="intro-info-content text-center">
+                <div class="justify-content-center align-items-center">
 
+                    <div class="col-md-12 mb-3">
+                        <div class="col-md-12 mb-3">
+                            <div class="intro-info-content text-center">
+                                <h1 class="display-3 white-text mb-5 wow fadeInDown" data-wow-delay="0.3s">
+                                    <a class="white-text" data-toggle="tooltip" data-placement="bottom" href="https://www.instagram.com/lo_r.enz/" target="_blank" title="Follow me on Instagram"></a>
+                                </h1>
+                                <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fl0renz%2Frumble-entry-2020%2F" frameborder="0"></iframe>
+                                <h5 class="text white-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s"></h5>
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">Welcome</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
             </div>
-          </div>
         </div>
-    </div>-->
+
+    </div>
+    <br>
 
 
+    <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
+        <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
+            <!--Content-->
+            <div class="modal-content">
+                <!--Body-->
+                <div class="modal-body">
+                    <div class="row d-flex justify-content-center align-items-center">
 
+                        <p class="pt-3 pr-2">Please disable any ad blockers to play my latest mix</p>
+                        <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fl0renz%2Fshow-us-your-mittz%2F" frameborder="0"></iframe>
+
+                        <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
+                        <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
+                    </div>
+                </div>
+            </div>
+            <!--/.Content-->
+        </div>
+    </div>
     <!--  SCRIPTS  -->
     <!-- JQuery -->
     <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
@@ -211,13 +120,16 @@
     <script type="text/javascript" src="../js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="../js/mdb.min.js"></script>
-    <div class="hiddendiv common"></div>
     <script>
         new WOW().init();
+        // MDB Lightbox Init
+        $(function() {
+            $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
+        });
+        $(function() {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
     </script>
-
-
-
 </body>
 
 </html>
