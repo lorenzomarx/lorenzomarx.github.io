@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="favicon.ico">
+    <title>Lorenz</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-81613790-1');
+    </script>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="../css/mdb.min.css" rel="stylesheet">
+
+    <style>
+        .caller.active {
+            background-color: rgb(179, 38, 38);
+            border-color: rgb(179, 38, 38);
+        }
+
+        .baller.active {
+            background-color: rgb(38, 178, 161);
+            border-color: rgb(38, 178, 161);
+        }
+
+        .past.active {
+            background-color: rgb(161, 10, 10);
+            border-color: rgb(161, 10, 10);
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <!--Main Navigation-->
+    <nav class="navbar sticky-top white">
+        <ul class="nav navbar-nav pull-left">
+            <li class="nav-item dropdown">
+
+                <!--<a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class=""></i>Content</a>-->
+                <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
+                    <!--<a target="_self" class="dropdown-item" href="filterMe/index.html">Filter</a>-->
+                    <!--<a target="_self" class="dropdown-item" href="../artbot/artbot.html">Art Bot</a>
+                <a target="_self" class="dropdown-item" href="../newsly/index.html">Newsly</a>-->
+
+
+                </div>
+            </li>
+        </ul>
+        <a class="black-text navbar-brand" data-toggle="tooltip" title="Home" href="../index.html" target="_self">
+            Home
+        </a>
+    </nav>
+
+
+    <div class="container h-100 d-flex justify-content-center align-items-center">
+        <div class="row pt-5 mt-3">
+            <div class="justify-content-center align-items-center">
+
+                <div class="col-md-12 mb-3">
+                    <div class="intro-info-content text-center">
+                        <h4 class="display-3 mb-5 wow fadeInDown" data-wow-delay="0.3s">
+                            Event Links
+                        </h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <!--Section: Blog v.4-->
+        <section class="section section-blog-fw mt-5 pb-4" style="visibility: visible;">
+            <!--Grid row-->
+            <div class="row">
+                <div class="col-md-12">
+                    <!--Featured image-->
+                    <div class="card card-cascade wider reverse">
+                        <!--Post data-->
+                        <div class="row">
+                            <div class="col-5">
+                                <div class="list-group" id="list-tab" role="tablist">
+                                    <a class="list-group-item baller list-group-item-action active" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Welcome</a>
+                                    <a class="list-group-item past list-group-item-action" id="list-upcoming-list" data-toggle="list" href="#list-upcoming" role="tab" aria-controls="Upcoming">Sly Sundays</a>
+
+                                    <a class="list-group-item past list-group-item-action" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="profile">Impossible Objects</a>
+                                    <a class="list-group-item baller list-group-item-action" id="list-northern-list" data-toggle="list" href="#list-northern" role="tab" aria-controls="messages">Northern Bass</a>
+
+                                    <a class="list-group-item baller list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Dimension Festival</a>
+
+                                </div>
+                            </div>
+                            <div class="col-7">
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
+                                        <h2 class="text-center"></h2>
+                                        <!--<a target="_blank" href=""><img src="assets/lorenz.png" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>-->
+                                        <p></p>
+                                    </div>
+                                    <div class="tab-pane fade show" id="list-upcoming" role="tabpanel" aria-labelledby="list-upcoming">
+                                        <h2 class="text-center">October 25th</h2>
+                                        <a target="_blank" href="https://www.eventbrite.co.nz/e/sly-sundays-labour-weekend-tickets-124945710985?aff=ebdssbeac"><img src="../assets/sly.jpg" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>
+                                        <p></p>
+                                    </div>
+                                    <div class="tab-pane fade" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
+                                        <h2 class="text-center">November 14th</h2>
+                                        <a target="_blank" href="https://www.facebook.com/events/1000264660445070/"><img src="../assets/impossible.jpg" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>
+                                        <br><br>
+                                        <p></p>
+                                    </div>
+                                    <div class="tab-pane fade" id="list-northern" role="tabpanel" aria-labelledby="list-northern-list">
+                                        <h2 class="text-center">December 29th</h2>
+                                        <a target="_blank" href="https://www.facebook.com/events/828118237690349"><img src="../assets/northern.jpg" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>
+                                        <br><br>
+                                        <p></p>
+                                    </div>
+                                    <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
+                                        <h2 class="text-center">February 5th</h2>
+                                        <a target="_blank" href="https://www.eventbrite.co.nz/e/dimension-festival-tickets-112426741410"><img src="../assets/dimension.jpg" alt="thumbnail" class="img-thumbnail img-fluid z-depth-4 mx-auto d-block" style="width: 500px"></a>
+                                        <p></p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!--Post data-->
+                    </div>
+
+                </div>
+                <br>
+
+            </div>
+        </section>
+    </div>
+    <!--  SCRIPTS  -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="../js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="../js/mdb.min.js"></script>
+    <script>
+        new WOW().init();
+        // MDB Lightbox Init
+        $(function() {
+            $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
+        });
+        $(function() {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+</body>
+
+</html>
