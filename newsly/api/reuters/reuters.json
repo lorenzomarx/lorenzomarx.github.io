@@ -1,12 +1,44 @@
 {
   "articles": [
     {
-      "author": "Sam Nussey",
-      "description": "Sony Group Corp <a href=\"https://www.reuters.com/markets/companies/6758.T\" target=\"_blank\">(6758.T)</a> has sold more than 40 million PlayStation 5 consoles, its gaming division said on Thursday, citing the easing of supply chain problems.",
-      "publishedAt": "2023-07-27T13:02:12Z",
-      "title": "Sony PlayStation 5 console sales pass 40 mln",
-      "url": "https://www.reuters.com/technology/sony-playstation-5-console-sales-pass-40-mln-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/resizer/QhnTe54vLDWeUr7SjDZBknx-7Eo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F6JLPPD7W5M25B5L36B6BMVPIU.jpg"
+      "author": "Carolina Mandl, Herbert Lash",
+      "description": "U.S. stocks ended lower on Thursday after news that the Bank of Japan will allow long-term interest rates to rise sent U.S. yields higher, snapping the longest winning streak for the Dow since 1987.",
+      "publishedAt": "2023-07-27T20:03:10Z",
+      "title": "Wall Street closes down, Dow snaps longest winning streak since 1987",
+      "url": "https://www.reuters.com/markets/us/nasdaq-futures-rise-after-meta-results-fed-optimism-2023-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/7ik5u5ADhGuAxo5UYhivSwP7lkY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFVORA4EWVMBZG4DSLTIQD5LBQ.jpg"
+    },
+    {
+      "author": "Luc Cohen",
+      "description": "The decision by U.S. prosecutors on Wednesday to drop a campaign finance charge against Sam Bankman-Fried may keep his trial focused on what the government considers his main crime: stealing billions of dollars from cryptocurrency customers at his now-bankrupt FTX exchange.",
+      "publishedAt": "2023-07-27T16:37:11Z",
+      "title": "Bankman-Fried campaign finance charge dropped, lessening trial's political focus",
+      "url": "https://www.reuters.com/legal/bankman-fried-campaign-finance-charge-dropped-lessening-trials-political-focus-2023-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/MWGEHQ3cTuWQvdlWEHpvzzDYFYU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IZIMXY3EONJC3I5AFIKZZBKG4Q.jpg"
+    },
+    {
+      "author": "Dietrich Knauth",
+      "description": "Bankrupt Lordstown Motors <a href=\"https://www.reuters.com/markets/companies/RIDEQ.PK\" target=\"_blank\">(RIDEQ.PK)</a> must face trial over a rival carmaker's claim that Lordstown vehicles include stolen technology, a U.S. judge ruled Thursday, dealing a blow to the company's hopes for a quick bankruptcy sale.",
+      "publishedAt": "2023-07-27T19:03:35Z",
+      "title": "Lordstown Motors stalls on the road to a quick bankruptcy sale",
+      "url": "https://www.reuters.com/business/autos-transportation/lordstown-motors-stalls-road-quick-bankruptcy-sale-2023-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/7u1eEKW3w_0kQkRevB8DktbyIZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JIP2JRJUB5NNHCYV42KKKBNETI.jpg"
+    },
+    {
+      "author": "Caroline Valetkevitch",
+      "description": "Shares of home and kitchen product maker Tupperware <a href=\"https://www.reuters.com/markets/companies/TUP.N\" target=\"_blank\">(TUP.N)</a> extended their sharp, unexplained gains on Thursday, rising about 50% and putting the stock up more than 300% during the last five trading days despite recent concerns about its business.",
+      "publishedAt": "2023-07-27T19:13:46Z",
+      "title": "Tupperware's stock extends recent rally, up 300% in 5 trading days",
+      "url": "https://www.reuters.com/business/retail-consumer/tupperwares-stock-extends-recent-rally-up-300-5-trading-days-2023-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/jJ-ynpYXQ8u6k4iTyn7qZc9GqNo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A7FMK4CORRPNZHRSJGMM5PWRLA.jpg"
+    },
+    {
+      "author": "Balazs Koranyi, Francesco Canepa",
+      "description": "The European Central Bank raised interest rates for the ninth consecutive time on Thursday but dialled up the possibility of a pause in September as stubbornly high inflation and recession worries pull policymakers in opposing directions.",
+      "publishedAt": "2023-07-27T16:50:06Z",
+      "title": "ECB fans talk of September pause after raising rates to 23-year high",
+      "url": "https://www.reuters.com/markets/rates-bonds/ecb-hike-rates-again-keep-options-open-september-2023-07-26/",
+      "urlToImage": "https://www.reuters.com/resizer/DP6ZfE6d0eGLqmTtPlT3MPv5hw0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HMO3DQN7IFLRHC6MGMZITNV6BE.jpg"
     },
     {
       "author": "Dmitry Zhdannikov, Nidhi Verma",
@@ -17,68 +49,36 @@
       "urlToImage": "https://www.reuters.com/resizer/fYrCcANnAr40vCF3hQqD-q-h7F0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QYSZT7QJ4VLJLPAWRJJ623MGKQ.jpg"
     },
     {
-      "author": "Timothy Gardner, Laura Sanicola",
-      "description": "The Biden administration is poised to increase outreach to western trading houses, insurers and tanker owners to remind them to abide by the Group of Seven's <a href=\"/business/energy/price-cap-russian-seaborne-crude-oil-2023-07-13/\">price cap</a> on Russian oil as the crude trades over that level, sources and experts said.",
-      "publishedAt": "2023-07-27T05:11:04Z",
-      "title": "As Russian oil crosses G7's price cap, US eyes soft enforcement",
-      "url": "https://www.reuters.com/business/energy/russian-oil-crosses-g7s-price-cap-us-eyes-soft-enforcement-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/resizer/4iVvFq3UBsUIHl4M5lgPMSAXmXs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7PMD6B5QVVOBXHFNQ5GEN5B53E.jpg"
+      "author": "Pete Schroeder",
+      "description": "U.S. regulators unveiled a sweeping overhaul Thursday that would direct banks to set aside billions more in capital to guard against risk, which was immediately slammed by the industry as \"misguided\".",
+      "publishedAt": "2023-07-27T15:55:54Z",
+      "title": "US regulators propose ordering banks to hold 16% more capital",
+      "url": "https://www.reuters.com/business/finance/us-regulators-unveil-plan-banks-build-cash-reserves-2023-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/wvtg18Fw4U-4LQIfmh2ZMWAQhVw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y73OBSYBIBLFVM6GWJHSE4PYZQ.jpg"
+    },
+    {
+      "author": "Sarah N. Lynch, Jacqueline Thomsen",
+      "description": "Donald Trump's attorneys met on Thursday with Justice Department officials investigating the Republican former president's attempts to overturn his 2020 election defeat, said Trump, the target of a Special Counsel investigation.",
+      "publishedAt": "2023-07-27T17:32:48Z",
+      "title": "Trump lawyers meet with US special counsel as second indictment looms",
+      "url": "https://www.reuters.com/world/us/trump-lawyers-arrive-office-us-special-counsel-abc-news-2023-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/rCcOGds99r4pSl0Rh3vkSQvq7yc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6BAGAYXS5NIQTGDZV7XWSCG6LU.jpg"
     },
     {
       "author": "Reuters",
-      "description": "EU antitrust regulators opened an investigation into Microsoft's <a href=\"https://www.reuters.com/markets/companies/MSFT.O\" target=\"_blank\">(MSFT.O)</a> tying of its chat and video app Teams with its Office product, saying that this could be anti-competitive.",
-      "publishedAt": "2023-07-27T09:47:32Z",
-      "title": "EU antitrust regulators to investigate Microsoft over Teams, Office tying",
-      "url": "https://www.reuters.com/technology/eu-antitrust-regulators-investigate-microsoft-over-teams-office-tying-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/resizer/mx4EjRtog34tJWJi52elRk-A_eE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ODKECJCTGJKVJGDHWPEBSA4MYU.jpg"
+      "description": "Russian President Vladimir Putin said on Wednesday that Ukraine had intensified its frontline attacks over the last few days while a Ukrainian official said Kyiv was making slow but steady progress in liberating its territory.",
+      "publishedAt": "2023-07-27T16:12:35Z",
+      "title": "Putin says Ukrainian attacks intensify as Kyiv touts steady gains",
+      "url": "https://www.reuters.com/world/europe/putin-says-ukrainian-attacks-intensify-kyiv-touts-steady-gains-2023-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/yZPMrnucgkCz8bQDa-5i424Khfs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y4G6M6XSR5KPDHVISE67APVR3Q.jpg"
     },
     {
-      "author": "Summer Zhen, Patturaja Murugaboopathy",
-      "description": "Global investors are increasingly choosing to bypass China's markets in favour of other emerging countries that are either gaining from the geopolitical and growth risks stalking the world's second-biggest economy or are far removed from them.",
-      "publishedAt": "2023-07-27T00:04:03Z",
-      "title": "Analysis: Investors dumping China load up on other emerging markets",
-      "url": "https://www.reuters.com/markets/asia/investors-dumping-china-load-up-other-emerging-markets-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/resizer/5gJtR8BiAB0fKQU_mXLn8GpqVlk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OFXKHPH2QNILLJULYKZ3IYNTOM.jpg"
-    },
-    {
-      "author": "Gilles Guillaume, Giulio Piovaccari",
-      "description": "Western automakers are fretting about an \"invasion\" of cheap Chinese electric cars in Europe, prompting France's Renault <a href=\"https://www.reuters.com/markets/companies/RENA.PA\" target=\"_blank\">(RENA.PA)</a> to say on Thursday it was aiming to slash production costs for its electric models by 40%.",
-      "publishedAt": "2023-07-27T10:31:20Z",
-      "title": "Western car makers look to slash EV costs to fight Chinese 'invasion'",
-      "url": "https://www.reuters.com/business/autos-transportation/western-car-makers-look-slash-ev-costs-fight-chinese-invasion-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/resizer/3rkx55WhjyaMTROqpD94ytoSXi0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/24BI6B6VLZJPDHHMP6JH5SZ4LY.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "The investment firm of Spanish billionaire Amancio Ortega, the founder of fashion giant Inditex <a href=\"https://www.reuters.com/markets/companies/ITX.MC\" target=\"_blank\">(ITX.MC)</a>, on Thursday reported a 2.8 billion-euro jump in the market value of its real estate assets last year, to 18.1 billion euros ($20.08 billion).",
-      "publishedAt": "2023-07-27T07:09:44Z",
-      "title": "Zara founder Ortega's real estate fortune hit $20 bln in 2022",
-      "url": "https://www.reuters.com/business/zara-founder-ortegas-real-estate-fortune-hit-20-bln-2022-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/resizer/1nOkinf73LHcmsrbXhXoh8dbj90=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WTDMIE2VCVKMLCN3GNIAC72PBY.jpg"
-    },
-    {
-      "author": "Special Reports",
-      "description": "About a decade ago, Tesla rigged the dashboard readouts in its electric cars to provide \u201crosy\u201d projections of how far owners can drive before needing to recharge, a source told Reuters.",
-      "publishedAt": "2023-07-27T10:00:00Z",
-      "title": "Tesla\u2019s secret team to suppress thousands of driving range complaints",
-      "url": "https://www.reuters.com/world/tesla-created-secret-team-suppress-thousands-driving-range-complaints-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/investigates/special-report/assets/tesla-batteries-range/mastheads/musk_main_share.jpg?v=485909270723"
-    },
-    {
-      "author": "Lucia Mutikani",
-      "description": "The U.S. economy grew faster than expected in the second quarter as labor market resilience underpinned consumer spending, while businesses boosted investment in equipment, potentially keeping a much-feared recession at bay.",
-      "publishedAt": "2023-07-27T12:42:51Z",
-      "title": "US economic growth accelerates in second quarter; weekly jobless claims fall",
-      "url": "https://www.reuters.com/markets/us/us-economic-growth-accelerates-second-quarter-weekly-jobless-claims-fall-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/resizer/tB4_YImpMxgEpnIR6TdBqM16Hrc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OHPJMVHOTRIOVGDPKA4JMSZLA4.jpg"
-    },
-    {
-      "author": "Maggie Fick",
-      "description": "The factory that fills the self-injection pens for booming weight-loss drug Wegovy has repeatedly breached U.S. sterile-safety rules in recent years and staff have failed to perform required quality checks, a Reuters review of regulatory documents shows.",
-      "publishedAt": "2023-07-27T12:28:32Z",
-      "title": "Insight: Wegovy weight-loss injection factory plagued by sterile-safety failures",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-injection-factory-plagued-by-sterile-safety-failures-2023-07-27/",
-      "urlToImage": "https://www.reuters.com/resizer/npmX3epKPxjSUIGBc5JVO_bdEkE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YOMY4EBJQBOBPORWW2Q4UJRT5I.jpg"
+      "author": "John Kruzel",
+      "description": "The U.S. Supreme Court on Thursday removed an obstacle to completing the long-delayed Mountain Valley Pipeline, dealing a blow to environmental groups opposed to the West Virginia-to-Virginia pipeline led by energy company Equitrans Midstream <a href=\"https://www.reuters.com/markets/companies/ETRN.N\" target=\"_blank\">(ETRN.N)</a>.",
+      "publishedAt": "2023-07-27T17:35:10Z",
+      "title": "US Supreme Court removes obstacle to Mountain Valley Pipeline",
+      "url": "https://www.reuters.com/legal/us-supreme-court-removes-obstacle-mountain-valley-pipeline-2023-07-27/",
+      "urlToImage": "https://www.reuters.com/resizer/eV3eUp3URqX5xkMzXL4yD6BbLE0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUX6YGIM4RP75EJ4WY5LALK4ZI.jpg"
     }
   ],
   "sortBy": "top",
