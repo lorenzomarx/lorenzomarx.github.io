@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Ron Amadeo",
+      "description": "Samsung is still suffering under a glut of unsold memory chips.",
+      "publishedAt": "2023-07-28T18:56:24+00:00",
+      "title": "Samsung\u2019s profits are down 95 percent for a second consecutive quarter",
+      "url": "https://arstechnica.com/gadgets/2023/07/samsungs-profits-are-down-95-percent-for-a-second-consecutive-quarter/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/samsung-flag-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Dev kits often have restrictive terms, but Vision Pro is above and beyond.",
+      "publishedAt": "2023-07-28T18:40:34+00:00",
+      "title": "Devs aren\u2019t allowed to let Apple\u2019s Vision Pro dev kits out of their sight",
+      "url": "https://arstechnica.com/gadgets/2023/07/here-are-the-rules-for-apples-new-vision-pro-dev-kit-your-family-cant-see-it/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/vision-pro-gradient-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "\"We're seeing more people coming back daily than I'd expected,\" Zuckerberg said.",
+      "publishedAt": "2023-07-28T18:07:20+00:00",
+      "title": "Most of the 100 million people who signed up for Threads stopped using it",
+      "url": "https://arstechnica.com/tech-policy/2023/07/zuck-says-threads-doing-better-than-expected-despite-losing-over-half-of-users/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/threads-app-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "The Voyagers were launched nearly half a century ago.",
+      "publishedAt": "2023-07-28T16:24:47+00:00",
+      "title": "NASA temporarily loses contact with one of its most distant spacecraft",
+      "url": "https://arstechnica.com/space/2023/07/nasa-temporarily-loses-contact-with-one-of-its-most-distant-spacecraft/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/pia21839-main-760x380.jpg"
+    },
+    {
+      "author": "Hazel Southwell",
+      "description": "Last-mile delivery EVs are in hot demand in 2023, but they're nothing new.",
+      "publishedAt": "2023-07-28T15:45:18+00:00",
+      "title": "The milk float was the first truly successful last-mile delivery EV",
+      "url": "https://arstechnica.com/cars/2023/07/the-milk-float-was-the-first-truly-successful-last-mile-delivery-ev/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-672881708-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "It's similar to the Face ID failures of the iPhone 13's screen, later fixed.",
+      "publishedAt": "2023-07-28T15:05:42+00:00",
+      "title": "Apple Pencils can\u2019t draw straight on third-party replacement iPad screens",
+      "url": "https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/ipad_drawing_top-760x380.png"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "There's strong ideological segregation, but proposed interventions didn't change attitudes.",
+      "publishedAt": "2023-07-28T14:14:32+00:00",
+      "title": "Did Facebook fuel political polarization during the 2020 election? It\u2019s complicated.",
+      "url": "https://arstechnica.com/science/2023/07/did-facebook-fuel-political-polarization-during-the-2020-election-its-complicated/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/facebook-the-social-megaphone-760x380.jpg"
+    },
+    {
       "author": "Matt Simon, WIRED.com",
       "description": "This summer's heat is only a preview of what's in store for our future.",
       "publishedAt": "2023-07-28T11:30:07+00:00",
@@ -23,62 +79,6 @@
       "title": "Formula E\u2019s first visit to a proper American racetrack saw packed stands",
       "url": "https://arstechnica.com/cars/2023/07/faster-cars-slower-tires-packed-grandstands-as-formula-e-visits-the-us/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/2023-Portland-ePrix-1-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Maybe the next Starship launch isn't all that far off.",
-      "publishedAt": "2023-07-28T11:00:13+00:00",
-      "title": "Rocket Report: Starbase comes alive again; China launches four times",
-      "url": "https://arstechnica.com/space/2023/07/rocket-report-starbase-comes-alive-again-china-launches-four-times/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/booster9roll-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "The chip is only launching in a single laptop from Asus, at least for now.",
-      "publishedAt": "2023-07-28T01:00:12+00:00",
-      "title": "AMD Ryzen 7945HX3D could be a fast, super-efficient choice for your new gaming laptop",
-      "url": "https://arstechnica.com/gadgets/2023/07/amd-extends-game-boosting-3d-v-cache-to-laptop-cpus-for-the-first-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/x3d-laptop-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "New SDXL 1.0 release allows hi-res AI image synthesis that can run on a local machine.",
-      "publishedAt": "2023-07-27T22:59:09+00:00",
-      "title": "Stability AI releases Stable Diffusion XL, its next-gen image synthesis model",
-      "url": "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sdxl_hero_4-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The allergy, called alpha-gal syndrome, came to light a little over a decade ago.",
-      "publishedAt": "2023-07-27T22:20:41+00:00",
-      "title": "Meat allergy from tick bites is on the rise\u2014and US doctors are in the dark",
-      "url": "https://arstechnica.com/health/2023/07/tick-bites-can-cause-meat-allergies-up-to-450000-people-in-us-may-be-affected/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-903399024-760x380.jpeg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Rebuke follows recent breach that exposed email accounts of US federal officials.",
-      "publishedAt": "2023-07-27T20:29:15+00:00",
-      "title": "US senator blasts Microsoft for \u201cnegligent cybersecurity practices\u201d",
-      "url": "https://arstechnica.com/security/2023/07/us-senator-blasts-microsoft-for-negligent-cybersecurity-practices/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/microsoft-760x380.jpeg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Google says its own tracker ecosystem is on hold until iOS has the same protection.",
-      "publishedAt": "2023-07-27T19:10:43+00:00",
-      "title": "Android phones can now tell you if there\u2019s an AirTag following you",
-      "url": "https://arstechnica.com/gadgets/2023/07/android-phones-can-now-tell-you-if-theres-an-airtag-following-you/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/android_tracking_alerts_top-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Inundated with complaints, Tesla created \"Diversion Team\" to cancel appointments.",
-      "publishedAt": "2023-07-27T18:43:36+00:00",
-      "title": "Tesla exaggerated EV range so much that drivers thought cars were broken",
-      "url": "https://arstechnica.com/tech-policy/2023/07/tesla-exaggerated-ev-range-so-much-that-drivers-thought-cars-were-broken/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/tesla-charger-760x380.jpg"
     }
   ],
   "sortBy": "top",
