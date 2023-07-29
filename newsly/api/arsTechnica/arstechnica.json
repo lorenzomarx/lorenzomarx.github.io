@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "The chip is only launching in a single laptop from Asus, at least for now.",
+      "publishedAt": "2023-07-28T01:00:12+00:00",
+      "title": "AMD Ryzen 7945HX3D could be a fast, super-efficient choice for your new gaming laptop",
+      "url": "https://arstechnica.com/gadgets/2023/07/amd-extends-game-boosting-3d-v-cache-to-laptop-cpus-for-the-first-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/x3d-laptop-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "New SDXL 1.0 release allows hi-res AI image synthesis that can run on a local machine.",
+      "publishedAt": "2023-07-27T22:59:09+00:00",
+      "title": "Stability AI releases Stable Diffusion XL, its next-gen image synthesis model",
+      "url": "https://arstechnica.com/information-technology/2023/07/stable-diffusion-xl-puts-ai-generated-visual-worlds-at-your-gpus-command/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/sdxl_hero_4-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The allergy, called alpha-gal syndrome, came to light a little over a decade ago.",
+      "publishedAt": "2023-07-27T22:20:41+00:00",
+      "title": "Meat allergy from tick bites is on the rise\u2014and US doctors are in the dark",
+      "url": "https://arstechnica.com/health/2023/07/tick-bites-can-cause-meat-allergies-up-to-450000-people-in-us-may-be-affected/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-903399024-760x380.jpeg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Rebuke follows recent breach that exposed email accounts of US federal officials.",
+      "publishedAt": "2023-07-27T20:29:15+00:00",
+      "title": "US senator blasts Microsoft for \u201cnegligent cybersecurity practices\u201d",
+      "url": "https://arstechnica.com/security/2023/07/us-senator-blasts-microsoft-for-negligent-cybersecurity-practices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/microsoft-760x380.jpeg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "Google says its own tracker ecosystem is on hold until iOS has the same protection.",
       "publishedAt": "2023-07-27T19:10:43+00:00",
@@ -44,41 +76,9 @@
       "author": "Stephen Clark",
       "description": "SpaceX will again launch a competitor's satellite, this time a 10-ton behemoth.",
       "publishedAt": "2023-07-27T12:15:08+00:00",
-      "title": "Launch of heavyweight commercial communications satellite reset for Thursday night [Updated]",
+      "title": "Launch of heavyweight commercial communications satellite reset for Friday night [Updated]",
       "url": "https://arstechnica.com/space/2023/07/worlds-heaviest-commercial-communications-satellite-will-launch-tonight/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/falcon9jupiter3pre1-760x380.jpeg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Commercial space industry argues for extension to moratorium on regulations.",
-      "publishedAt": "2023-07-27T11:00:37+00:00",
-      "title": "A nearly 20-year ban on human spaceflight regulations is set to expire",
-      "url": "https://arstechnica.com/space/2023/07/a-nearly-20-year-ban-on-human-spaceflight-regulations-is-set-to-expire/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1358501579-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Cause of Guillain-Barr\u00e9 cases is under investigation, but gut microbe suspected.",
-      "publishedAt": "2023-07-26T23:32:12+00:00",
-      "title": "Over 230 people get puzzling neurological disorder in Peru; emergency declared",
-      "url": "https://arstechnica.com/health/2023/07/puzzling-outbreak-of-paralyzing-neurological-disorder-erupts-in-peru-again/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-961929798-760x380.jpeg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "It's still based on Chromium, but the user experience is quite different.",
-      "publishedAt": "2023-07-26T22:46:42+00:00",
-      "title": "The Browser Company\u2019s unconventional browser, Arc, releases publicly on Mac",
-      "url": "https://arstechnica.com/gadgets/2023/07/the-browsing-companys-unconventional-browser-arc-releases-publicly-on-mac/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Arc-spaces-1-760x380.png"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Study offers four-point rebuttal to 2022 claim that they're a kind of eco-Turing pattern.",
-      "publishedAt": "2023-07-26T21:48:12+00:00",
-      "title": "Namibian fairy circle debate rages on: Sand termites or Turing mechanism? [Updated]",
-      "url": "https://arstechnica.com/science/2023/07/the-namibian-fairy-circle-debate-rages-on-could-it-be-sand-termites-after-all/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/fairyTOP-760x380.jpg"
     }
   ],
   "sortBy": "top",
