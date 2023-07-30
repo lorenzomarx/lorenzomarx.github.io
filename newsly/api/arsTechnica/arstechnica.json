@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Dell Cameron, WIRED.com",
+      "description": "The agency opposes an amendment that prevents it from using data brokers.",
+      "publishedAt": "2023-07-29T11:23:26+00:00",
+      "title": "Instead of obtaining a warrant, the NSA would like to keep buying your data",
+      "url": "https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2014/04/National_Security_Agency_2013-640x215.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Transplanting the 911 GT3's flat-six engine created a remarkable car.",
+      "publishedAt": "2023-07-29T11:00:29+00:00",
+      "title": "The 2023 Porsche Cayman GT4 RS is the best sports car on sale today",
+      "url": "https://arstechnica.com/cars/2023/07/the-2023-porsche-cayman-gt4-rs-is-the-best-sports-car-on-sale-today/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/09-2023-Porsche-Cayman-GT4-RS-760x380.jpg"
+    },
+    {
+      "author": "Eric Bangeman",
+      "description": "Stargaze with up to 10 of your friends no matter how bad the light pollution is.",
+      "publishedAt": "2023-07-29T10:30:19+00:00",
+      "title": "Communal stargazing using your phone: The Unistellar eQuinox 2, reviewed",
+      "url": "https://arstechnica.com/space/2023/07/communal-stargazing-using-your-phone-the-unistellar-equinox-2-reviewed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/rural-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "SpaceX has again launched a competitor's satellite, this time a 10-ton behemoth.",
+      "publishedAt": "2023-07-29T07:08:08+00:00",
+      "title": "SpaceX\u2019s Falcon Heavy launches world\u2019s most massive communications satellite [Updated]",
+      "url": "https://arstechnica.com/space/2023/07/worlds-heaviest-commercial-communications-satellite-will-launch-tonight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/IMG_0536-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\"This is quite unique, what we are doing here.\"",
       "publishedAt": "2023-07-28T23:50:27+00:00",
@@ -47,38 +79,6 @@
       "title": "Reddit calls for \u201ca few new mods\u201d after axing, polarizing some of its best",
       "url": "https://arstechnica.com/gadgets/2023/07/reddit-calls-for-a-few-new-mods-after-axing-polarizing-some-of-its-best/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1233984842-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "OCR isn't the only advanced technique used by \"CherryBlos\" apps.",
-      "publishedAt": "2023-07-28T20:31:22+00:00",
-      "title": "Android malware steals user credentials using optical character recognition",
-      "url": "https://arstechnica.com/security/2023/07/android-malware-uses-ocr-to-capture-credentials-displayed-on-phone-screens/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/smartphone-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "In the last outbreak, at least 87 people had signs of tuberculosis after spinal surgery.",
-      "publishedAt": "2023-07-28T20:01:24+00:00",
-      "title": "This company keeps selling TB-tainted bone grafts, causing deadly outbreaks",
-      "url": "https://arstechnica.com/health/2023/07/not-again-bone-grafts-linked-to-another-deadly-bizarre-tb-outbreak/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/03/5149398678_97948614ea_o-514x215.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Samsung is still suffering under a glut of unsold memory chips.",
-      "publishedAt": "2023-07-28T18:56:24+00:00",
-      "title": "Samsung\u2019s profits are down 95 percent for a second consecutive quarter",
-      "url": "https://arstechnica.com/gadgets/2023/07/samsungs-profits-are-down-95-percent-for-a-second-consecutive-quarter/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/samsung-flag-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Dev kits often have restrictive terms, but Apple gets very specific this time.",
-      "publishedAt": "2023-07-28T18:40:34+00:00",
-      "title": "Devs aren\u2019t allowed to let Apple\u2019s Vision Pro dev kits out of their sight",
-      "url": "https://arstechnica.com/gadgets/2023/07/here-are-the-rules-for-apples-new-vision-pro-dev-kit-your-family-cant-see-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/vision-pro-gradient-760x380.jpg"
     }
   ],
   "sortBy": "top",
