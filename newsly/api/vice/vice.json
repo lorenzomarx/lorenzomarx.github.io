@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Jenna Mahale, Ryan White",
+      "content": "",
+      "description": "One year since the megastar\u2019s retro-futurist vision dropped, here\u2019s all 16 tracks in order of greatness.",
+      "publishedAt": "2023-08-02T09:51:44Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Every track on Beyonc\u00e9's Renaissance, ranked",
+      "url": "https://i-d.vice.com/en/article/7k8kbx/every-track-on-beyonces-renaissance-ranked",
+      "urlToImage": "https://video-images.vice.com/articles/6304acaff380be0095f922aa/social_lede/1690821433490-beystar.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "Mahoro Seward, Roisin Lanigan, Mahoro Seward",
+      "content": "",
+      "description": "Your go-to guide for all this month's must-know beauty news.",
+      "publishedAt": "2023-08-02T08:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Prada makeup and the latte look: What\u2019s in Beauty?",
+      "url": "https://i-d.vice.com/en/article/ak378p/prada-makeup-and-the-latte-look-whats-in-beauty",
+      "urlToImage": "https://video-images.vice.com/articles/64c8e9d1da5f105f0568e023/lede/1690906447848-prada-makeup-collage3.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Annabel Gat, Sara David",
       "content": "August opens with the sun in dramatic fire sign Leo, plus a full moon in cool air sign Aquarius. We can be reconnecting with our heart\u2019s desires as Venus continues its retrograde in Leo, and a new mo\u2026 [+386 chars]",
       "description": "Welcome to Leo season!",
@@ -1197,19 +1223,6 @@
       "urlToImage": "https://video-images.vice.com/articles/64bfac776ffdcaad1699510a/lede/1690283621039-the-lovers-6.jpeg?image-resize-opts=Y3JvcD0xeHc6MC43NDkzeGg7MHh3LDAuMTg2MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
     },
     {
-      "author": "Matthew Gault, Jordan Pearson",
-      "content": "A friend texted me in the middle of his 70MM IMAX screening of Oppenheimer. \u201cHalfway through O. I think I\u2019m going to throw up,\u201d he said. \u201cIt\u2019s one thing to know we\u2019re on the brink. It\u2019s another to fe\u2026 [+4635 chars]",
-      "description": "Christopher Nolan\u2019s new picture has landed in a world once again on the nuclear brink, and indicts us all.",
-      "publishedAt": "2023-07-25T13:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "We Are All Oppenheimer",
-      "url": "https://www.vice.com/en/article/dy3ddx/we-are-all-oppenheimer",
-      "urlToImage": "https://video-images.vice.com/articles/64bed8ed2601c20635841785/lede/1690229141606-oppenheimer-cillian.jpeg?image-resize-opts=Y3JvcD0wLjkzMjF4dzowLjk5ODh4aDswLjAzN3h3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
-    },
-    {
       "author": "Becky Ferreira, Jason Koebler",
       "content": "Scientists have observed metal \u201chealing\u201d itself for the first time, an unexpected discovery that challenges basic tenets of materials science and could pave the way toward more durable metal structur\u2026 [+5261 chars]",
       "description": "The discovery of autonomous healing in platinum and copper was initially referred to as a \u201cBigfoot sighting\u201d because it was so unbelievable.",
@@ -1221,6 +1234,19 @@
       "title": "Scientists Discover That Metals Heal Themselves in 'Astonishing' Breakthrough",
       "url": "https://www.vice.com/en/article/7kx444/scientists-discover-astonishing-self-healing-metals-in-breakthrough",
       "urlToImage": "https://video-images.vice.com/articles/64bed659a7ef54e4bae523a7/lede/1690228362264-screenshot-2023-07-24-at-125236-pm.png?image-resize-opts=Y3JvcD0xeHc6MC44Nzk0eGg7MHh3LDAuMDY5MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
+      "author": "Matthew Gault, Jordan Pearson",
+      "content": "A friend texted me in the middle of his 70MM IMAX screening of Oppenheimer. \u201cHalfway through O. I think I\u2019m going to throw up,\u201d he said. \u201cIt\u2019s one thing to know we\u2019re on the brink. It\u2019s another to fe\u2026 [+4635 chars]",
+      "description": "Christopher Nolan\u2019s new picture has landed in a world once again on the nuclear brink, and indicts us all.",
+      "publishedAt": "2023-07-25T13:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "We Are All Oppenheimer",
+      "url": "https://www.vice.com/en/article/dy3ddx/we-are-all-oppenheimer",
+      "urlToImage": "https://video-images.vice.com/articles/64bed8ed2601c20635841785/lede/1690229141606-oppenheimer-cillian.jpeg?image-resize-opts=Y3JvcD0wLjkzMjF4dzowLjk5ODh4aDswLjAzN3h3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
     },
     {
       "author": "Digg Editors",
@@ -1273,34 +1299,8 @@
       "title": "The Secret History of Drill",
       "url": "https://www.vice.com/en/article/4a3x3m/secret-history-drill-music",
       "urlToImage": "https://video-images.vice.com/articles/6467cc9d72277e0b5296f51b/lede/1684538122526-larro-studio.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDAuMDI5MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-    },
-    {
-      "author": "Nicolette Accardi, Gregory Babcock, Hilary Pollack",
-      "content": "Picture this: You wake up one night looking for a midnight snack, and head to the kitchen (just a short walk away in your 300-square-foot studio apartment). Suddenly, you hear a series of crunches wi\u2026 [+5496 chars]",
-      "description": "Suffering from ants, fruit flies, roaches, or worse? Our editors swear by these gadgets for banishing bugs from your home.",
-      "publishedAt": "2023-07-24T23:19:27Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "The Best Tried-and-True Ways to Kill Bugs in Your House",
-      "url": "https://www.vice.com/en/article/xgwaa7/how-to-get-rid-of-bugs",
-      "urlToImage": "https://video-images.vice.com/articles/64bf02d2df43f4b4f488ef71/lede/1690240320180-gettyimages-522001422.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI1eGg7MHh3LDAuMDY3eGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Becca Blasdel, Gregory Babcock, Hilary Pollack",
-      "content": "We\u2019re getting to those dog days of summer, and if you\u2019re upset you\u2019re not off gallivanting about Europe, wipe your tears, king. Just because you\u2019re not raving in Ibiza or chugging spritzes in Amalfi \u2026 [+5521 chars]",
-      "description": "You don\u2019t have to be three margaritas deep to enjoy these outdoor games, but it never hurts (except if you miss while axe throwing).",
-      "publishedAt": "2023-07-24T21:32:54Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "The Best Yard Games (for Drunk Adults)",
-      "url": "https://www.vice.com/en/article/z3mzzw/best-yard-games",
-      "urlToImage": "https://video-images.vice.com/articles/64bee5c601226a27780a55b3/lede/1690232388891-yardgames.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
     }
   ],
   "status": "ok",
-  "totalResults": 322
+  "totalResults": 324
 }
