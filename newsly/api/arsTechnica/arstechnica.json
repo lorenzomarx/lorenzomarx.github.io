@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Azure looks like a house of cards collapsing under the weight of exploits and vulnerabilities.",
+      "publishedAt": "2023-08-02T23:09:19+00:00",
+      "title": "Microsoft comes under blistering criticism for \u201cgrossly irresponsible\u201d security",
+      "url": "https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Officials don't plan to broadcast a key Ariane 6 test-firing on its launch pad.",
+      "publishedAt": "2023-08-02T21:57:48+00:00",
+      "title": "ESA still seems shy about sharing news on Ariane 6 rocket testing",
+      "url": "https://arstechnica.com/space/2023/08/esa-still-seems-shy-about-sharing-news-on-ariane-6-rocket-testing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/ariane6testing-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "\"Coalition of RDOF Winners\" lobbies FCC but won't reveal its full member list.",
+      "publishedAt": "2023-08-02T21:18:16+00:00",
+      "title": "Internet providers that won FCC grants try to escape broadband commitments",
+      "url": "https://arstechnica.com/tech-policy/2023/08/internet-providers-that-won-fcc-grants-try-to-escape-broadband-commitments/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-abstract-broadband-network-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Meta's suite of three AI models can create sound effects and music from descriptions.",
+      "publishedAt": "2023-08-02T20:56:02+00:00",
+      "title": "Meta releases open source AI audio tools, AudioCraft",
+      "url": "https://arstechnica.com/information-technology/2023/08/open-source-audiocraft-can-make-dogs-bark-and-symphonies-soar-from-text-using-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/364044687_188110547422666_6558067645303623389_n-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "There's nothing official yet, but it might launch sometime this month.",
+      "publishedAt": "2023-08-02T20:40:26+00:00",
+      "title": "ChromeOS is splitting the browser from the OS, getting more Linux-y",
+      "url": "https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/chromebook13_7-640x215.jpg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "Small bits of material in the asteroid contain isotopes made in specific stars.",
+      "publishedAt": "2023-08-02T20:30:43+00:00",
+      "title": "Ryugu samples reveal traces of rock from before the Sun existed",
+      "url": "https://arstechnica.com/science/2023/08/ryugu-samples-reveal-traces-of-rock-from-before-the-sun-existed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/image-760x380.jpeg"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "Back-to-school deals on physical and digital storage to keep your life organized.",
+      "publishedAt": "2023-08-02T20:15:07+00:00",
+      "title": "Dealmaster: Back-to-school savings on tech, supplies, dorm essentials, and more",
+      "url": "https://arstechnica.com/shopping/2023/08/dealmaster-back-to-school-savings-on-tech-supplies-dorm-essentials-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/laptop-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "A once-perfect example of US-Russian space collaboration now highlights its loss.",
+      "publishedAt": "2023-08-02T19:46:14+00:00",
+      "title": "A flawless Cygnus launch brings eras to a close",
+      "url": "https://arstechnica.com/space/2023/08/a-flawless-cygnus-launch-brings-eras-to-a-close/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screen-Shot-2023-08-02-at-11.33.14-AM-1-760x380.png"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "1 million Pi models a month are being made until supplies return to normal.",
       "publishedAt": "2023-08-02T18:41:27+00:00",
@@ -15,70 +79,6 @@
       "title": "Infrared light reveals hidden portrait beneath 1943 Ren\u00e9 Magritte painting",
       "url": "https://arstechnica.com/science/2023/08/infrared-light-reveals-hidden-portrait-beneath-1943-rene-magritte-painting/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/magritte1-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "From verification symbol to source of shame: Paying users can hide blue checks.",
-      "publishedAt": "2023-08-02T16:32:51+00:00",
-      "title": "Embarrassed about paying Musk for Twitter Blue? You can hide the checkmark now",
-      "url": "https://arstechnica.com/tech-policy/2023/08/embarrassed-about-paying-musk-for-twitter-blue-you-can-hide-the-checkmark-now/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-musk-x-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "All documents will be digitized as soon as they arrive at the IRS.",
-      "publishedAt": "2023-08-02T16:12:12+00:00",
-      "title": "IRS vows to digitize all taxpayer documents by 2025 [Updated]",
-      "url": "https://arstechnica.com/tech-policy/2023/08/irs-vows-to-digitize-all-taxpayer-documents-by-2025/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1225249173-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Other municipalities might have soured on Musk's tunnels, but Las Vegas hasn't.",
-      "publishedAt": "2023-08-02T15:40:52+00:00",
-      "title": "The Boring Company will dig a 68-mile tunnel network under Las Vegas",
-      "url": "https://arstechnica.com/cars/2023/08/musks-boring-company-gets-ok-to-dig-68-miles-of-tunnels-under-las-vegas/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1311708478-2-760x380.jpg"
-    },
-    {
-      "author": "Will Knight, wired.com",
-      "description": "Adversarial attack involves using text strings and may be unstoppable.",
-      "publishedAt": "2023-08-02T13:22:24+00:00",
-      "title": "Researchers figure out how to make AI misbehave, serve up prohibited content",
-      "url": "https://www.wired.com/story/ai-adversarial-attacks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatbot-list-760x380.jpg"
-    },
-    {
-      "author": "Jason Marlin & Lee Hutchinson",
-      "description": "This time we discuss how we manage, update, and deploy the code that makes Ars work.",
-      "publishedAt": "2023-08-02T13:00:51+00:00",
-      "title": "Hosting Ars, part three: CI/CD, or how I learned to stop worrying and love DevOps",
-      "url": "https://arstechnica.com/information-technology/2023/08/ars-on-aws-03/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1367728715c-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "If you thought a factory reset wipes Wi-Fi passwords, you'd be wrong.",
-      "publishedAt": "2023-08-01T23:41:17+00:00",
-      "title": "Canon warns printer users to manually wipe Wi-Fi settings before discarding",
-      "url": "https://arstechnica.com/security/2023/08/canon-warns-printer-users-to-manually-wipe-wi-fi-settings-before-discarding/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/printer-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "WD believes it can wring a bit more capacity out of existing PMR and SMR tech.",
-      "publishedAt": "2023-08-01T22:19:33+00:00",
-      "title": "Western Digital HDD capacity hits 28TB as Seagate looks to 30TB and beyond",
-      "url": "https://arstechnica.com/gadgets/2023/08/western-digital-hdd-capacity-hits-28tb-as-seagate-looks-to-30tb-and-beyond/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/wd-hdds-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Can wind shear and sinking air hold historically high sea temperatures at bay?",
-      "publishedAt": "2023-08-01T20:32:16+00:00",
-      "title": "The Atlantic is frying, but so far hurricanes are dying. What\u2019s going on?",
-      "url": "https://arstechnica.com/science/2023/08/the-atlantic-is-frying-but-so-far-hurricanes-are-dying-whats-going-on/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/don1-760x380.jpg"
     }
   ],
   "sortBy": "top",
