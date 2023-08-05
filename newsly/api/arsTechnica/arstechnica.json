@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "NASA removed Epps from her first crew assignment in 2018 without explanation.",
+      "publishedAt": "2023-08-04T20:22:45+00:00",
+      "title": "Jeanette Epps will finally go to space six years after being pulled from flight",
+      "url": "https://arstechnica.com/space/2023/08/jeanette-epps-will-finally-go-to-space-six-years-after-being-pulled-from-flight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/crew8portrait-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "$75 low-income subsidy targets areas where ISPs face \"economic hardship.\"",
+      "publishedAt": "2023-08-04T19:54:44+00:00",
+      "title": "FCC prepares $75 monthly broadband subsidies for \u201chigh-cost\u201d areas",
+      "url": "https://arstechnica.com/tech-policy/2023/08/fcc-expands-broadband-discount-program-with-new-75-monthly-subsidy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "An \"upstream-first\" effort on a more familiar platform.",
+      "publishedAt": "2023-08-04T19:36:09+00:00",
+      "title": "Asahi Linux\u2019s new \u201cflagship\u201d distro for M-series Macs is a Fedora Remix",
+      "url": "https://arstechnica.com/gadgets/2023/08/asahi-linux-will-offer-a-flagship-fedora-remix-for-apple-silicon-macs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-04-at-3.12.49-PM-760x380.png"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "Cortana will remain in Teams and Outlook, for now, but is going away in Windows.",
       "publishedAt": "2023-08-04T17:19:06+00:00",
@@ -55,30 +79,6 @@
       "title": "Fisker debuts an entire range of new EVs, including one sub-$30,000",
       "url": "https://arstechnica.com/cars/2023/08/fisker-debuts-an-entire-range-of-new-evs-including-one-sub-30000/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/20230823-Product-Vision-Day-05-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Rumors are flying of confirmation, but the situation is still frustratingly vague.",
-      "publishedAt": "2023-08-04T14:07:48+00:00",
-      "title": "What\u2019s going on with the reports of a room-temperature superconductor?",
-      "url": "https://arstechnica.com/science/2023/08/whats-going-on-with-the-reports-of-a-room-temperature-superconductor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/LK-99_pellet-760x380.png"
-    },
-    {
-      "author": "John Hurdle, Inside Climate News",
-      "description": "Facking industry exempt from disclosure of 28 chemicals regulated by federal law.",
-      "publishedAt": "2023-08-04T13:45:55+00:00",
-      "title": "Frackers can use dangerous chemicals without disclosure due to \u201cHalliburton loophole\u201d",
-      "url": "https://insideclimatenews.org/news/04082023/halliburton-loophole-fracking-pennsylvania/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2012/07/fracking_rig-640x215.png"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "A winning combination of a hidden battery, smooth ride, and slick look.",
-      "publishedAt": "2023-08-04T13:32:46+00:00",
-      "title": "Velotric T1 e-bike review: Slick, barely-an-ebike look hides some real power",
-      "url": "https://arstechnica.com/cars/2023/08/velotric-t1-e-bike-review-low-key-and-sleek-yet-powerful-and-fun/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Velotric-T1-with-background-760x380.jpg"
     }
   ],
   "sortBy": "top",
