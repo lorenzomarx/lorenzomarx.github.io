@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Scam sites often pose as outlets selling non-fungible tokens.",
+      "publishedAt": "2023-08-05T15:01:13+00:00",
+      "title": "What are \u201cdrainer smart contracts\u201d and why is the FBI warning of them?",
+      "url": "https://arstechnica.com/security/2023/08/fbi-warns-nft-buyers-to-look-out-for-scam-sites-with-drainer-smart-contracts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/nft-non-fungible-token-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "A review of the book From the Earth to Mars.",
       "publishedAt": "2023-08-05T11:30:11+00:00",
@@ -9,7 +17,7 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/earth_to_mars_graphic_novel_full_ebook_jacket-760x380.jpg"
     },
     {
-      "author": "Lily Hay Newman",
+      "author": "Lily Hay Newman, wired.com",
       "description": "Points.com, used by major travel rewards programs, exposed user data... and more.",
       "publishedAt": "2023-08-05T10:52:28+00:00",
       "title": "Unlimited miles and nights: Vulnerability found in rewards programs",
@@ -71,14 +79,6 @@
       "title": "Cortana, once a flagship feature of Windows phones, is slowly being shut down",
       "url": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Plasma collisions in the outer edges of Jupiter's magnetosphere produce big waves.",
-      "publishedAt": "2023-08-04T17:11:36+00:00",
-      "title": "Dude, what are those humongous plasma waves in Jupiter\u2019s atmosphere?",
-      "url": "https://arstechnica.com/science/2023/08/dude-what-are-those-humongous-plasma-waves-in-jupiters-atmosphere/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/image-1-760x380.jpeg"
     }
   ],
   "sortBy": "top",
