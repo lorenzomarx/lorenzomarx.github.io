@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Lily Hay Newman",
+      "description": "Points.com, used by major travel rewards programs, exposed user data... and more.",
+      "publishedAt": "2023-08-05T10:52:28+00:00",
+      "title": "Unlimited miles and nights: Vulnerability found in rewards programs",
+      "url": "https://www.wired.com/story/points-travel-rewards-platform-flaws/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/airport-departure-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "X user quits paying for Twitter Blue to protest X commandeering his account.",
       "publishedAt": "2023-08-04T22:28:20+00:00",
@@ -71,14 +79,6 @@
       "title": "GameStop, citing \u201cregulatory uncertainty,\u201d winds down its crypto and NFT wallet",
       "url": "https://arstechnica.com/gaming/2023/08/gamestop-citing-regulatory-uncertainty-winds-down-its-crypto-and-nft-wallet/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/gamestop_nft-760x380.png"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "The joint venture will first target automotive, with IoT and mobile coming later.",
-      "publishedAt": "2023-08-04T16:10:25+00:00",
-      "title": "Qualcomm\u2014one of Arm\u2019s biggest customers\u2014starts a RISC-V joint venture",
-      "url": "https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/01/qualcomm-hq-2-stock-image-760x380.jpg"
     }
   ],
   "sortBy": "top",
