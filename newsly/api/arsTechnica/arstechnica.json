@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Mary Philip and Michael Rudloff, The Conversation",
+      "description": "Why do T cells become exhausted within a few hours of bumping into cancer?",
+      "publishedAt": "2023-08-06T11:42:49+00:00",
+      "title": "T cells burn out just a few hours after encountering cancer tumors",
+      "url": "https://theconversation.com/immune-cells-that-fight-cancer-become-exhausted-within-hours-of-first-encountering-tumors-new-research-210947",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/tcell-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "Technically it's a biopic, but it doesn't play like one.",
       "publishedAt": "2023-08-05T20:42:53+00:00",
@@ -71,14 +79,6 @@
       "title": "FCC prepares $75 monthly broadband subsidies for \u201chigh-cost\u201d areas",
       "url": "https://arstechnica.com/tech-policy/2023/08/fcc-expands-broadband-discount-program-with-new-75-monthly-subsidy/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "An \"upstream-first\" effort on a more familiar platform.",
-      "publishedAt": "2023-08-04T19:36:09+00:00",
-      "title": "Asahi Linux\u2019s new \u201cflagship\u201d distro for M-series Macs is a Fedora Remix",
-      "url": "https://arstechnica.com/gadgets/2023/08/asahi-linux-will-offer-a-flagship-fedora-remix-for-apple-silicon-macs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-04-at-3.12.49-PM-760x380.png"
     }
   ],
   "sortBy": "top",
