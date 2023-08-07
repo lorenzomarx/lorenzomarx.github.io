@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Technically it's a biopic, but it doesn't play like one.",
+      "publishedAt": "2023-08-05T20:42:53+00:00",
+      "title": "Review: Oppenheimer is pure visual poetry",
+      "url": "https://arstechnica.com/culture/2023/08/review-oppenheimer-is-pure-visual-poetry/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/oppie1-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Scam sites often pose as outlets selling non-fungible tokens.",
       "publishedAt": "2023-08-05T15:01:13+00:00",
@@ -71,14 +79,6 @@
       "title": "Asahi Linux\u2019s new \u201cflagship\u201d distro for M-series Macs is a Fedora Remix",
       "url": "https://arstechnica.com/gadgets/2023/08/asahi-linux-will-offer-a-flagship-fedora-remix-for-apple-silicon-macs/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-04-at-3.12.49-PM-760x380.png"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Cortana will remain in Teams and Outlook, for now, but is going away in Windows.",
-      "publishedAt": "2023-08-04T17:19:06+00:00",
-      "title": "Cortana, once a flagship feature of Windows phones, is slowly being shut down",
-      "url": "https://arstechnica.com/gadgets/2023/08/microsoft-shuts-down-windows-cortana-voice-assistant-as-it-chases-ai-ambitions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cortana-760x380.jpg"
     }
   ],
   "sortBy": "top",
