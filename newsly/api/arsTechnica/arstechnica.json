@@ -1,8 +1,56 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "Six claims dismissed ahead of the September trial.",
+      "publishedAt": "2023-08-07T19:02:45+00:00",
+      "title": "In win for Google, judge dismisses many claims in DOJ monopoly case",
+      "url": "https://arstechnica.com/tech-policy/2023/08/in-win-for-google-judge-dismisses-many-claims-in-doj-monopoly-case/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1246480383-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "US police departments continue to use the tech despite low accuracy and obvious mismatches.",
+      "publishedAt": "2023-08-07T18:39:07+00:00",
+      "title": "Innocent pregnant woman jailed amid faulty facial recognition trend",
+      "url": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/detroit-woman-false-facial-recognition-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
-      "description": "\"Reuse\" doesn't get as much attention as the other two Rs, but it's important.",
+      "description": "Mitigating factors include typing style, multi-case passwords, uncommon laptops.",
+      "publishedAt": "2023-08-07T18:17:14+00:00",
+      "title": "AI researchers claim 93% accuracy in detecting keystrokes over Zoom audio",
+      "url": "https://arstechnica.com/gadgets/2023/08/type-softly-researchers-can-guess-keystrokes-by-sound-with-93-accuracy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1174561644-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "The Kuiper test satellites were supposed to launch on ULA's first Vulcan rocket.",
+      "publishedAt": "2023-08-07T15:59:11+00:00",
+      "title": "Amazon shifts launch of its first Internet satellites to Atlas V rocket",
+      "url": "https://arstechnica.com/space/2023/08/amazons-first-internet-satellites-will-launch-on-atlas-v-rocket-not-vulcan/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/atlas501-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "We try the electroskeptical automaker's first purpose-built battery-electric vehicle.",
+      "publishedAt": "2023-08-07T15:42:13+00:00",
+      "title": "The 2023 Toyota bZ4x: A bouncy ride meets rather good efficiency",
+      "url": "https://arstechnica.com/cars/2023/08/the-2023-toyota-bz4x-review-not-as-bad-as-the-horror-stories-have-it/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/2023_bZ4X_XLE_FWD_WindChillPearl_034-scaled-1-760x380.jpg"
+    },
+    {
+      "author": "Tim Wilson and Alice Hancock, Financial Times",
+      "description": "Initial data shows an energy output greater than 3.5 megajoules.",
+      "publishedAt": "2023-08-07T14:41:36+00:00",
+      "title": "Physicists achieve fusion with net energy gain for second time",
+      "url": "https://www.ft.com/content/a9815bca-1b9d-4ba0-8d01-96ede77ba06a",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/fusion1-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Tinkering with the other side of an upgradeable laptop: the left-behind bits.",
       "publishedAt": "2023-08-07T11:00:08+00:00",
       "title": "Turning my Framework laptop into a tiny desktop was fun. Now it needs a job.",
       "url": "https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/",
@@ -31,54 +79,6 @@
       "title": "Review: Oppenheimer is pure visual poetry",
       "url": "https://arstechnica.com/culture/2023/08/review-oppenheimer-is-pure-visual-poetry/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/oppie1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Scam sites often pose as outlets selling non-fungible tokens.",
-      "publishedAt": "2023-08-05T15:01:13+00:00",
-      "title": "What are \u201cdrainer smart contracts\u201d and why is the FBI warning of them?",
-      "url": "https://arstechnica.com/security/2023/08/fbi-warns-nft-buyers-to-look-out-for-scam-sites-with-drainer-smart-contracts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/nft-non-fungible-token-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "A review of the book From the Earth to Mars.",
-      "publishedAt": "2023-08-05T11:30:11+00:00",
-      "title": "A look at the surprising history of the earliest rocket pioneers",
-      "url": "https://arstechnica.com/space/2023/08/a-look-at-the-surprising-history-of-the-earliest-rocket-pioneers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/earth_to_mars_graphic_novel_full_ebook_jacket-760x380.jpg"
-    },
-    {
-      "author": "Lily Hay Newman, wired.com",
-      "description": "Points.com, used by major travel rewards programs, exposed user data... and more.",
-      "publishedAt": "2023-08-05T10:52:28+00:00",
-      "title": "Unlimited miles and nights: Vulnerability found in rewards programs",
-      "url": "https://www.wired.com/story/points-travel-rewards-platform-flaws/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/airport-departure-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "X user quits paying for Twitter Blue to protest X commandeering his account.",
-      "publishedAt": "2023-08-04T22:28:20+00:00",
-      "title": "X user \u201csuper pissed\u201d that Musk ordered takeover of his @music account",
-      "url": "https://arstechnica.com/tech-policy/2023/08/x-user-super-pissed-that-musk-ordered-takeover-of-his-music-account/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1575074468-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "After sending the command, NASA had to wait 37 hours for a response.",
-      "publishedAt": "2023-08-04T21:19:07+00:00",
-      "title": "Voyager 2 phones home and says everything is cool",
-      "url": "https://arstechnica.com/space/2023/08/voyager-2-phones-home-and-says-everything-is-cool/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/38-The-FarthestVoyager-Construction-in-LabJPL-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "No security or feature updates, but selling as \"new.\"",
-      "publishedAt": "2023-08-04T21:14:55+00:00",
-      "title": "\u201cAbsurd\u201d: Google, Amazon rebuked over unsupported Chromebooks still for sale",
-      "url": "https://arstechnica.com/gadgets/2023/08/no-discounts-or-warnings-for-people-shopping-eol-chromebooks-on-amazon-walmart/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1169795042-760x380.jpg"
     }
   ],
   "sortBy": "top",
