@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Absolute numbers are low, but several indicators show pandemic virus is on the rise.",
+      "publishedAt": "2023-08-07T22:21:53+00:00",
+      "title": "New SARS-CoV-2 variant gains dominance in US amid mild summer COVID wave",
+      "url": "https://arstechnica.com/health/2023/08/covid-metrics-tick-up-in-mild-summer-wave-led-by-yet-another-new-variant/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1238557761-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"The design changes were, I would say, minimal.\"",
+      "publishedAt": "2023-08-07T21:07:45+00:00",
+      "title": "Starliner undergoing three independent investigations as flight slips to 2024",
+      "url": "https://arstechnica.com/space/2023/08/starliner-undergoing-three-independent-investigations-as-flight-slips-to-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/49258720052_edd4e323dd_c-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Zoom surprisingly decides its teams are more effective working in-office.",
+      "publishedAt": "2023-08-07T20:40:22+00:00",
+      "title": "Zoom has \u201cZoom fatigue,\u201d requires workers to return to the office",
+      "url": "https://arstechnica.com/tech-policy/2023/08/zoom-has-zoom-fatigue-requires-workers-to-return-to-the-office/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/zoom_hero_1-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "TSMC is said to eat the cost of defective chips so it can keep Apple's business.",
+      "publishedAt": "2023-08-07T20:35:52+00:00",
+      "title": "Report: Apple buys every 3 nm chip that TSMC can make for next-gen iPhones and Macs",
+      "url": "https://arstechnica.com/gadgets/2023/08/report-apple-is-saving-billions-on-chips-thanks-to-unique-deal-with-tsmc/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/waferr008_2520_hU4L_0-740x380.jpg"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "Get ready for dorm move-in day with savings on great tech!",
+      "publishedAt": "2023-08-07T20:29:25+00:00",
+      "title": "Dealmaster: Save on Apple gear, Lenovo laptops, PlayStation 5, and more",
+      "url": "https://arstechnica.com/shopping/2023/08/dealmaster-save-on-apple-gear-lenovo-laptops-playstation-5-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/2019-MacBook-Pro-20-760x380.jpeg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "Six claims dismissed ahead of the September trial.",
       "publishedAt": "2023-08-07T19:02:45+00:00",
@@ -39,46 +79,6 @@
       "title": "The 2023 Toyota bZ4x: A bouncy ride meets rather good efficiency",
       "url": "https://arstechnica.com/cars/2023/08/the-2023-toyota-bz4x-review-not-as-bad-as-the-horror-stories-have-it/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/2023_bZ4X_XLE_FWD_WindChillPearl_034-scaled-1-760x380.jpg"
-    },
-    {
-      "author": "Tim Wilson and Alice Hancock, Financial Times",
-      "description": "Initial data shows an energy output greater than 3.5 megajoules.",
-      "publishedAt": "2023-08-07T14:41:36+00:00",
-      "title": "Physicists achieve fusion with net energy gain for second time",
-      "url": "https://www.ft.com/content/a9815bca-1b9d-4ba0-8d01-96ede77ba06a",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/fusion1-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Tinkering with the other side of an upgradeable laptop: the left-behind bits.",
-      "publishedAt": "2023-08-07T11:00:08+00:00",
-      "title": "Turning my Framework laptop into a tiny desktop was fun. Now it needs a job.",
-      "url": "https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/slabtop2-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "There were positives and negatives to be taken away from the test firing.",
-      "publishedAt": "2023-08-06T20:55:09+00:00",
-      "title": "SpaceX conducts a mostly successful test of its Super Heavy booster",
-      "url": "https://arstechnica.com/space/2023/08/spacex-conducts-a-mostly-successful-test-of-its-super-heavy-booster/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/super-heavy-fire-760x380.jpg"
-    },
-    {
-      "author": "Mary Philip and Michael Rudloff, The Conversation",
-      "description": "Why do T cells become exhausted within a few hours of bumping into cancer?",
-      "publishedAt": "2023-08-06T11:42:49+00:00",
-      "title": "T cells burn out just a few hours after encountering cancer tumors",
-      "url": "https://theconversation.com/immune-cells-that-fight-cancer-become-exhausted-within-hours-of-first-encountering-tumors-new-research-210947",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/tcell-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Technically it's a biopic, but it doesn't play like one.",
-      "publishedAt": "2023-08-05T20:42:53+00:00",
-      "title": "Review: Oppenheimer is pure visual poetry",
-      "url": "https://arstechnica.com/culture/2023/08/review-oppenheimer-is-pure-visual-poetry/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/oppie1-760x380.jpg"
     }
   ],
   "sortBy": "top",
