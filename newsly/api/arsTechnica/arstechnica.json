@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "NASA's Orion spacecraft is taking a bit longer to prepare for its first crew flight.",
+      "publishedAt": "2023-08-09T00:25:09+00:00",
+      "title": "NASA\u2019s Artemis II crew meets their Moonship",
+      "url": "https://arstechnica.com/space/2023/08/nasas-artemis-ii-crew-meets-their-moonship/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Orion-Media-Day-Aug-8-2023-6-0436-copy-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Wireless-ish\u2014but TV and port box still need power cords.",
+      "publishedAt": "2023-08-08T21:33:45+00:00",
+      "title": "New LG TVs relegate I/O to a box you can set 30 feet from the screen",
+      "url": "https://arstechnica.com/gadgets/2023/08/lgs-wireless-ish-oled-tvs-start-at-7000/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/listing-wall-note-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Leprosy is not very contagious, and the CDC has not issued a travel advisory.",
+      "publishedAt": "2023-08-08T21:29:24+00:00",
+      "title": "Florida man gets unexplained leprosy case; doctors suspect local soil",
+      "url": "https://arstechnica.com/health/2023/08/florida-man-gets-unexplained-leprosy-case-doctors-suspect-local-soil/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1258654638-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Amazon resisted a removal request, citing lack of \"trademark registration numbers.\"",
+      "publishedAt": "2023-08-08T21:09:12+00:00",
+      "title": "Author discovers AI-generated counterfeit books written in her name on Amazon",
+      "url": "https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/AI_spew_hero_crop-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "The streamer promises you'll be able to use it to play games on your TV soon.",
+      "publishedAt": "2023-08-08T20:56:55+00:00",
+      "title": "With new Game Controller app, Netflix games move from mobile to the TV",
+      "url": "https://arstechnica.com/gaming/2023/08/with-new-game-controller-app-netflix-games-move-from-mobile-to-the-tv/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/IMG_4532-760x380.png"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Refurb units \"meet or even exceed performance standards of new retail units.\"",
+      "publishedAt": "2023-08-08T20:45:28+00:00",
+      "title": "Valve starts selling refurbished Steam Decks for up to $130 less than new models",
+      "url": "https://arstechnica.com/gadgets/2023/08/valve-starts-selling-refurbished-steam-decks-for-up-to-130-less-than-new-models/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/refurb-steam-deck-760x380.jpg"
+    },
+    {
       "author": "Anna Nicolaou and Madhumita Murgia, Financial Times",
       "description": "Prepare for more cover songs like Johnny Cash singing Barbie Girl.",
       "publishedAt": "2023-08-08T19:44:54+00:00",
@@ -31,54 +79,6 @@
       "title": "What does it take to get AI to work like a scientist?",
       "url": "https://arstechnica.com/science/2023/08/what-does-it-take-to-get-ai-to-work-like-a-scientist/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1430941321-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Compared to M2 Max, M3 Max could come with four more high-performance cores.",
-      "publishedAt": "2023-08-08T16:48:29+00:00",
-      "title": "Developer logs reveal more details about next-gen Apple M3 and M3 Max chips",
-      "url": "https://arstechnica.com/gadgets/2023/08/developer-logs-reveal-more-details-about-next-gen-apple-m3-and-m3-max-chips/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/IMG_1183-760x380.jpeg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Papal communiqu\u00e9 warns of AI produced \"at the expense of the most fragile and excluded.\"",
-      "publishedAt": "2023-08-08T16:16:36+00:00",
-      "title": "Pope warns of AI risks so \u201cviolence and discrimination does not take root\u201d",
-      "url": "https://arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/pope_francis_hero_5-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "FTC's lawsuit is likely to be filed in federal court this month.",
-      "publishedAt": "2023-08-08T15:36:47+00:00",
-      "title": "Amazon gets \u201clast rites\u201d from FTC as antitrust complaint looks imminent",
-      "url": "https://arstechnica.com/tech-policy/2023/08/amazons-final-talks-with-ftc-unlikely-to-thwart-antitrust-lawsuit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1513206857-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "A new Network Operations Center is aimed to bring ChargePoint close to 100% uptime.",
-      "publishedAt": "2023-08-08T15:04:50+00:00",
-      "title": "Here\u2019s how ChargePoint plans to increase EV charger reliability",
-      "url": "https://arstechnica.com/cars/2023/08/heres-how-chargepoint-plans-to-increase-ev-charger-reliability/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Maine_installation_6-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The helicopter worked as planned and executed an immediate landing.\"",
-      "publishedAt": "2023-08-08T14:50:48+00:00",
-      "title": "The helicopter on Mars just flew again after surviving an emergency landing",
-      "url": "https://arstechnica.com/space/2023/08/after-a-scare-nasas-mars-helicopter-safely-takes-to-the-skies-again/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/ingenuity-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Planets cast loose from their exosolar system are remarkably common.",
-      "publishedAt": "2023-08-08T14:35:23+00:00",
-      "title": "Lots of Earth-mass rogue planets could be found by NASA\u2019s Roman telescope",
-      "url": "https://arstechnica.com/science/2023/08/lots-of-earth-mass-rogue-planets-could-be-found-by-nasas-roman-telescope/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/image-760x380.png"
     }
   ],
   "sortBy": "top",
