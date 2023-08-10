@@ -1,36 +1,12 @@
 {
   "articles": [
     {
-      "author": null,
-      "description": "MELEKHOVO, Russia (AP) \u2014 A Russian court convicted imprisoned opposition leader Alexei Navalny on charges of extremism and sentenced him to 19 years in prison on Friday. Navalny is already serving a nine-year term on a variety of charges that he says were politically motivated.",
-      "publishedAt": "2023-08-04T08:51:56Z",
-      "title": "Kremlin critic Navalny convicted of extremism and sentenced to 19 years in prison",
-      "url": "https://apnews.com/b42769d2ba1beb99954279fbb93815d4",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7dc0036a06ac45b8b4f0ae52cdda73c0/3000.jpeg"
-    },
-    {
       "author": "JULIE CARR SMYTH and SAMANTHA HENDRICKSON",
       "description": "COLUMBUS, Ohio (AP) \u2014 Ohio voters on Tuesday resoundingly rejected a Republican-backed measure that would have made it more difficult to change the state\u2019s constitution, setting up a fall campaign that will become the nation\u2019s latest referendum on abortion rights since the U.S.",
       "publishedAt": "2023-08-08T04:04:47Z",
       "title": "Voters in Ohio reject GOP-backed proposal that would have made it tougher to protect abortion rights",
       "url": "https://apnews.com/227cde039f8d51723612878525164f1a",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/cbdc34f5de374e0fae8e0531c2cf889f/1920.jpeg"
-    },
-    {
-      "author": "MICHELLE L. PRICE and HOLLY RAMER",
-      "description": "WINDHAM, N.H. (AP) \u2014 Former President Donald Trump on Tuesday kept up his attacks on special counsel Jack Smith and vowed to continue talking about his criminal cases even as prosecutors sought a protective order to limit the evidence that Trump and his team could share.",
-      "publishedAt": "2023-08-08T22:04:23Z",
-      "title": "Trump vows to keep talking about criminal cases despite prosecutors pushing for protective order",
-      "url": "https://apnews.com/11cc4d1015c36e6ba078c00805d99838",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/54bc010f1eed45ab94a1b56b0347294a/3000.jpeg"
-    },
-    {
-      "author": "FABIANO MAISONNAVE and DAVID BILLER",
-      "description": "BELEM, Brazil (AP) \u2014 Eight Amazon nations called on industrialized countries to do more to help preserve the world's largest rainforest as they met at a major summit in Brazil to chart a common course on how to combat climate change.",
-      "publishedAt": "2023-08-09T04:09:27Z",
-      "title": "Amazon nations seek common voice on climate change, urge action from industrialized world",
-      "url": "https://apnews.com/314d7127864fbb6e709c1ffa0fab0b3e",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/086cfa98fbeb4ac5a447f1f020e0cfff/3000.jpeg"
     },
     {
       "author": "SETH BORENSTEIN",
@@ -41,44 +17,68 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/c22794e48e0c421e8455519a68c1e372/3000.jpeg"
     },
     {
+      "author": "JAN M. OLSEN",
+      "description": "COPENHAGEN, Denmark (AP) \u2014 Days of heavy rain triggered landslides and flooding in mountainous southern Norway, where authorities said Wednesday they were considering blowing up a dam at risk of bursting to prevent downstream communities from getting deluged.",
+      "publishedAt": "2023-08-09T08:58:36Z",
+      "title": "Heavy rain from unusual summer storm triggers landslides in Norway and floods Swedish harbor",
+      "url": "https://apnews.com/659d9554e1c8b4957076a1904c16f2ec",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a634b68ef34f4f56b98823ef00c34573/3000.jpeg"
+    },
+    {
+      "author": null,
+      "description": "ROME (AP) \u2014 Forty-one people are believed dead after a migrant boat capsized off Tunisia, Italian state RAI television reported, citing four survivors who were rescued and brought to land Wednesday.",
+      "publishedAt": "2023-08-09T09:27:33Z",
+      "title": "Italian state TV says 41 dead in migrant shipwreck according to 4 survivors who set off from Tunisia",
+      "url": "https://apnews.com/2f34218d67f1eff36189be7e75d9a9c0",
+      "urlToImage": ""
+    },
+    {
+      "author": "SAM MEDNICK",
+      "description": "NIAMEY, Niger (AP) \u2014 The military junta that seized power in Niger two weeks ago has named new ministers and barred most international mediators from the country, in what analysts described as an attempt to consolidate power in the face of international pressure.",
+      "publishedAt": "2023-08-09T07:23:13Z",
+      "title": "Niger's military junta digs in with Cabinet appointments and rejects talks",
+      "url": "https://apnews.com/28b2a1a1f8d6241d9a99f01d99045490",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/885a16720c204f379e3eb3a52d0fd00b/3000.jpeg"
+    },
+    {
+      "author": "DARIA LITVINOVA and EMMA BURROWS",
+      "description": "TALLINN, Estonia (AP) \u2014 An explosion Wednesday on the grounds a factory north of Moscow that makes optical equipment for Russia's security forces injured 45 people, six of them severely, officials said.",
+      "publishedAt": "2023-08-09T08:26:52Z",
+      "title": "Huge blast at Moscow area factory adds to Russian jitters as new drone attacks are blamed on Ukraine",
+      "url": "https://apnews.com/41bd8dd4d4ddc0c56baf39f45728ade3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/be761112d5fa4e39abf9fb0aa6cc235b/3000.jpeg"
+    },
+    {
       "author": "CHRIS MEGERIAN and JOSH BOAK",
       "description": "ALBUQUERQUE, N.M. (AP) \u2014 Bringing back factory jobs is one of the most popular of White House promises \u2014 regardless of who happens to be the president.Donald Trump said he'd do it with tariffs.",
       "publishedAt": "2023-08-09T04:03:21Z",
-      "title": "Biden pitching his economic policies as a key to manufacturing jobs revival",
+      "title": "Biden is pitching his economic policies as a key to a manufacturing jobs revival",
       "url": "https://apnews.com/95700c62f45c3a69b03e550ebdcfa01b",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/f05f12f502bf4c37941a4a536a56c2ba/3000.jpeg"
     },
     {
-      "author": "The Associated Press",
-      "description": "The numbers were drawn Tuesday night for an estimated $1.58 billion Mega Millions jackpot that is the third-largest in U.S.",
+      "author": "DEEPTI HAJELA",
+      "description": "NEW YORK (AP) \u2014 It was born in the break, all those decades ago \u2014 that moment when a song's vocals dropped, instruments quieted down and the beat took the stage. It was then that hip-hop came into the world, taking the moment and reinventing it.",
+      "publishedAt": "2023-08-09T10:02:14Z",
+      "title": "Hip-hop turns 50, reinventing itself and swaths of the world along the way",
+      "url": "https://apnews.com/fbedc18c6b2a0448e23e2656292b4045",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/34c1dc47ac8d4d249309bcb77508c292/3000.jpeg"
+    },
+    {
+      "author": null,
+      "description": "NEPTUNE BEACH, Fla. (AP) \u2014 A single ticket sold in Florida is good for a $1.58 billion Mega Millions jackpot, ending a stretch of lottery futility that had stretched for nearly four months.",
       "publishedAt": "2023-08-08T04:05:40Z",
-      "title": "Numbers drawn for giant $1.58 billion Mega Millions jackpot",
+      "title": "A Mega Millions ticket sold in Florida wins $1.58 billion jackpot, the third-largest in US history",
       "url": "https://apnews.com/8397543de852fc4c716cc2ce940d9eac",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9eeddc71ddbc46ef9ae08efbd619b2ad/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c493af48f01c41ca89fd3bc9f4906ee4/3000.jpeg"
     },
     {
-      "author": "KIM TONG-HYUNG",
-      "description": "SEOUL, South Korea (AP) \u2014 Dozens of flights and ferry services were grounded in South Korea on Wednesday ahead of a tropical storm that has dumped rain on Japan\u2019s southwestern islands for more than a week.",
-      "publishedAt": "2023-08-09T03:07:52Z",
-      "title": "Flights and ferries halted in South Korea ahead of storm that's dumped rain on Japan for a week",
-      "url": "https://apnews.com/a1fd5a9f5fcf852543f0b9b71d81aae6",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/52659e48e0c14e25a0a1d14a54d33c14/3000.jpeg"
-    },
-    {
-      "author": "MARK SHERMAN",
-      "description": "WASHINGTON (AP) \u2014 The Supreme Court is reinstating a regulation aimed at reining in the proliferation of ghost guns, firearms without serial numbers that have been turning up at crime scenes across the nation in increasing numbers.",
-      "publishedAt": "2023-08-08T16:46:37Z",
-      "title": "Supreme Court reinstates regulation of ghost guns, firearms without serial numbers",
-      "url": "https://apnews.com/46b871969dc6a7da35605c2ebc5385e5",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/10c70377e5a84042ad855fb6c66db241/3000.jpeg"
-    },
-    {
-      "author": "STEVE LeBLANC",
-      "description": "BOSTON (AP) \u2014 Massachusetts Gov. Maura Healey declared a state of emergency Tuesday, citing an influx of migrants seeking shelter at a time when the cost of housing \u2014 already in short supply \u2014 continues to rise.",
-      "publishedAt": "2023-08-08T20:56:43Z",
-      "title": "Massachusetts governor declares state of emergency amid influx of migrants seeking shelter",
-      "url": "https://apnews.com/3daeb96003779a2fe49def8e1f7b8975",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/62be49f094f741dda0620fd862cf73d9/2984.jpeg"
+      "author": "STEPHEN McGRATH and VADIM GHIRDA",
+      "description": "BUCHAREST, Romania (AP) \u2014 After receiving distressed text messages from a young man worried about the conditions his friend was living in at a social care home in central Romania, Georgiana Pascu arranged an impromptu visit to inspect the facility.",
+      "publishedAt": "2023-08-09T05:40:24Z",
+      "title": "Romanian care homes scandal spotlights abuse described as 'inhumane and degrading'",
+      "url": "https://apnews.com/788423586ca8a8c413f1af0d0b0c2819",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7870c6b0dbd244b9b9c5ca0fef77c04a/3000.jpeg"
     }
   ],
   "sortBy": "top",
