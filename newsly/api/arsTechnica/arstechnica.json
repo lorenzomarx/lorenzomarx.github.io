@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "NASA's Juno probe wasn't designed for this.",
+      "publishedAt": "2023-08-09T22:16:38+00:00",
+      "title": "Juno is bringing Jupiter\u2019s moon Io into sharper focus",
+      "url": "https://arstechnica.com/space/2023/08/juno-is-bringing-jupiters-moon-io-into-sharper-focus/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/iopj53-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Evidence appears to show a critical 0-day tracked as ProxyNotShell was exploited.",
+      "publishedAt": "2023-08-09T21:58:04+00:00",
+      "title": "How an unpatched Microsoft Exchange 0-day likely caused one of the UK\u2019s biggest hacks ever",
+      "url": "https://arstechnica.com/security/2023/08/how-an-unpatched-microsoft-exchange-0-day-likely-caused-one-of-the-uks-biggest-hacks-ever/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/microsoft-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Trump accused the DOJ of \"secretly attacking\" his Twitter account.",
+      "publishedAt": "2023-08-09T21:17:56+00:00",
+      "title": "Twitter held in contempt, fined $350K over Trump data delay",
+      "url": "https://arstechnica.com/tech-policy/2023/08/twitter-held-in-contempt-fined-350k-over-trump-data-delay/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-803546522-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "Apple's Supreme Court petition will decide if it can hold onto all app payments.",
       "publishedAt": "2023-08-09T20:13:37+00:00",
@@ -25,7 +49,7 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/DSC09738-760x380.jpg"
     },
     {
-      "author": "John Timmer",
+      "author": "Dhananjay Khadilkar",
       "description": "Companies are readying hardware but differ dramatically in how they're testing it.",
       "publishedAt": "2023-08-09T19:04:33+00:00",
       "title": "Hydrogen-powered planes almost ready for takeoff",
@@ -55,30 +79,6 @@
       "title": "Cadillac reveals the 2025 Escalade IQ, one excessive EV",
       "url": "https://arstechnica.com/cars/2023/08/cadillac-reveals-the-2025-escalade-iq-one-excessive-ev/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/2025-Cadillac-Escalade-IQ-1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "OSDP Secure Channel has yet to gain widespread usage, and it's already broken.",
-      "publishedAt": "2023-08-09T14:30:07+00:00",
-      "title": "Next-gen OSDP was supposed to make it harder to break in to secure facilities. It failed.",
-      "url": "https://arstechnica.com/security/2023/08/next-gen-osdp-was-supposed-to-make-it-harder-to-break-in-to-secure-facilities-it-failed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/access-control-security-checkpoint-760x380.jpg"
-    },
-    {
-      "author": "Michael Childress, The Conversation",
-      "description": "Coral reef nurseries are being moved to deeper waters\u2014or back into giant tanks on land.",
-      "publishedAt": "2023-08-09T13:57:21+00:00",
-      "title": "The race to save Florida\u2019s coral reef from hot ocean waters",
-      "url": "https://theconversation.com/the-heroic-effort-to-save-floridas-coral-reef-from-devastating-ocean-heat-210974",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/reef-rehab-760x380.jpg"
-    },
-    {
-      "author": "Lee Hutchinson",
-      "description": "We wrap up our four-part series by tying up loose ends and looking ahead.",
-      "publishedAt": "2023-08-09T13:00:21+00:00",
-      "title": "How we host Ars, the finale and the 64-bit future",
-      "url": "https://arstechnica.com/information-technology/2023/08/ars-on-aws-04/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/moonshark-over-new-york-760x380.jpg"
     }
   ],
   "sortBy": "top",
