@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "In his book, The Heat Will Kill You First, author Jeff Goodall documents the changes happening as the planet heats up.With wildfires and relentless heatwaves, 2023 is on track to become the hottest y\u2026 [+449 chars]",
+      "description": "In his book, The Heat Will Kill You First, author Jeff Goodall documents the changes happening as the planet heats up.",
+      "publishedAt": "2023-08-10T12:26:48Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Is an overheated planet the \u2018new normal\u2019?",
+      "url": "https://www.aljazeera.com/program/the-bottom-line/2023/8/10/is-an-overheated-planet-the-new-normal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/image-24.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "And so it begins again.\r\nThe new Premier League season kicks off on Friday with defending champions and treble-winning Manchester City facing Burnley as they start the chase of an unprecedented fourt\u2026 [+3680 chars]",
+      "description": "Man City launch proceedings against Burnley as they seek to be the first to win four straight English top-flight titles.",
+      "publishedAt": "2023-08-10T12:23:48Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "The Premier League is back. What to know about opening day of new season",
+      "url": "https://www.aljazeera.com/sports/2023/8/10/the-premier-league-is-back-what-to-know-about-opening-day-of-new-season",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP22281514431190-1684670567.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Kang-Chun Cheng",
       "content": "Nyeri, Kenya This March, rains returned to the Horn of Africa after 1,000 days of one of its most punishing droughts in four decades.\r\nIn Nyeri, just west of the Mount Kenya region, once expansive fo\u2026 [+8038 chars]",
       "description": "Five seasons of drought and clashes caused by herder migration have shrunk Kenya's forests on a large scale.",
@@ -1273,34 +1299,8 @@
       "title": "Canadian publishers seek antitrust probe of Meta blocking news",
       "url": "https://www.aljazeera.com/economy/2023/8/8/canadian-publishers-seek-antitrust-probe-of-meta-blocking-news",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22314014172029.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Aida Alami",
-      "content": "Rabat, Morocco In a cafe on a main avenue in a residential neighbourhood of Rabat, Moroccos capital, people were glued to the screen, captivated by their team playing France in the Womens World Cup l\u2026 [+4313 chars]",
-      "description": "Atlas Lionesses make history at World Cup, and despite 4-0 loss to France, Moroccans are optimistic about women's sport.",
-      "publishedAt": "2023-08-08T15:56:52Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Bittersweet emotions in Morocco as historic Women\u2019s World Cup run ends",
-      "url": "https://www.aljazeera.com/sports/2023/8/8/morocco-football-fans-womens-world-cup-run-france",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/AP23220474807162-1691508070.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Nigers military coup is disrupting humanitarian efforts by the United Nations as border and airspace closures threaten to cut off supplies of medicine and food, says a UN official.\r\nUN aid agencies a\u2026 [+3182 chars]",
-      "description": "UN aid agencies scramble to replace depleting aid stocks as regional sanctions start to kick in.",
-      "publishedAt": "2023-08-08T15:42:57Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Sanctions, airspace closures hamper UN humanitarian efforts in Niger",
-      "url": "https://www.aljazeera.com/news/2023/8/8/sanctions-airspace-closures-hamper-un-humanitarian-efforts-in-niger",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2005-07-01T000000Z_1419692550_RP6DRMTVAEAA_RTRMADP_3_NIGER-UN-HUNGER-1691505330.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1392
+  "totalResults": 1394
 }
