@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Organic-looking designs consolidate parts numbers and cut mass by up to 40 percent.",
+      "publishedAt": "2023-08-10T18:53:31+00:00",
+      "title": "3D printing isn\u2019t just for supercars, now it\u2019s for drone wings, too",
+      "url": "https://arstechnica.com/cars/2023/08/3d-printing-isnt-just-for-supercars-now-its-for-drone-wings-too/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Czinger-at-GFOS-4-760x380.jpg"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "These tech deals will help make your academic life easier",
+      "publishedAt": "2023-08-10T18:30:13+00:00",
+      "title": "Dealmaster: Save on back-to-school tech from Lenovo, HP, Apple, and more",
+      "url": "https://arstechnica.com/shopping/2023/08/dealmaster-save-on-back-to-school-tech-from-lenovo-hp-apple-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/2019-MacBook-Pro-17-760x380.jpeg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "SanDisk is ignoring lost data claims. It's time to ignore the company's SSDs.",
+      "publishedAt": "2023-08-10T17:42:22+00:00",
+      "title": "SanDisk\u2019s silence deafens as high-profile users say Extreme SSDs still broken",
+      "url": "https://arstechnica.com/gadgets/2023/08/sandisk-extreme-ssds-are-still-wiping-data-after-firmware-fix-users-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/sandisk-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Content pruning for SEO threatens web history, and experts say it is ill-advised.",
+      "publishedAt": "2023-08-10T16:49:24+00:00",
+      "title": "The Internet is not forever after all: CNET deletes old articles to game Google",
+      "url": "https://arstechnica.com/information-technology/2023/08/the-internet-is-not-forever-after-all-cnet-deletes-old-articles-to-game-google/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/CNET-logo-dissolving-760x380.jpg"
+    },
+    {
+      "author": "Amit Katwala, wired.com",
+      "description": "Automation means drug discovery process is less \"artisanal\" and more streamlined.",
+      "publishedAt": "2023-08-10T13:49:58+00:00",
+      "title": "Using AI to find antibodies is fast and produces unimagined molecules",
+      "url": "https://www.wired.com/story/labgenius-antibody-factory-machine-learning/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/labgenius-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "It must be a magical moment to float freely above the world.",
       "publishedAt": "2023-08-10T03:17:09+00:00",
@@ -39,46 +79,6 @@
       "title": "Supreme Court denies Epic\u2019s request to open up App Store payments during appeals",
       "url": "https://arstechnica.com/gadgets/2023/08/supreme-court-denies-epics-request-to-open-up-app-store-payments-during-appeals/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/app_store-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "It's an exciting find because wet/dry cycles may be central to pre-life chemistry.",
-      "publishedAt": "2023-08-09T19:34:03+00:00",
-      "title": "Mars rover finds signs of seasonal floods",
-      "url": "https://arstechnica.com/science/2023/08/mars-rover-finds-signs-of-seasonal-floods/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/image-4-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Researchers also disclosed a separate bug called \"Inception\" for newer AMD CPUs.",
-      "publishedAt": "2023-08-09T19:12:26+00:00",
-      "title": "\u201cDownfall\u201d bug affects years of Intel CPUs, can leak encryption keys and more",
-      "url": "https://arstechnica.com/information-technology/2023/08/data-leaking-downfall-bug-affects-six-generations-of-intel-pc-and-server-cpus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/DSC09738-760x380.jpg"
-    },
-    {
-      "author": "Dhananjay Khadilkar",
-      "description": "Companies are readying hardware but differ dramatically in how they're testing it.",
-      "publishedAt": "2023-08-09T19:04:33+00:00",
-      "title": "Hydrogen-powered planes almost ready for takeoff",
-      "url": "https://arstechnica.com/science/2023/08/hydrogen-powered-planes-almost-ready-for-takeoff/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/image-3-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Fifty unwanted Amazon packages arrived in two months, mostly containing shoes.",
-      "publishedAt": "2023-08-09T18:33:38+00:00",
-      "title": "Amazon won\u2019t stop sending tortured woman unwanted boxes of shoes",
-      "url": "https://arstechnica.com/tech-policy/2023/08/scam-victim-cant-stop-endless-stream-of-unwanted-amazon-packages/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1229912573-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Hogwarts Legacy must be conned to avoid crashing itself with XeSS upscaling.",
-      "publishedAt": "2023-08-09T17:57:09+00:00",
-      "title": "Getting AAA games working in Linux sometimes requires concealing your GPU",
-      "url": "https://arstechnica.com/gaming/2023/08/getting-aaa-games-working-in-linux-sometimes-requires-concealing-your-gpu/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hogwarts_legacy1-760x380.jpg"
     }
   ],
   "sortBy": "top",
