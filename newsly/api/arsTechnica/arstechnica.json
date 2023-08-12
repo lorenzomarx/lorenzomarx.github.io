@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "\"The new Delta class will be designed for much cheaper operations.\"",
+      "publishedAt": "2023-08-11T11:30:30+00:00",
+      "title": "Virgin Galactic just flew again, but is the company going anywhere?",
+      "url": "https://arstechnica.com/space/2023/08/virgin-galactic-just-flew-again-but-is-the-company-going-anywhere/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1233923032-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "What are Blue Origin's 11,000 employees doing?",
+      "publishedAt": "2023-08-11T11:00:37+00:00",
+      "title": "Rocket Report: Astra layoffs; next SLS core stage needs repairs",
+      "url": "https://arstechnica.com/space/2023/08/rocket-report-more-headwinds-for-astra-next-sls-core-stage-needs-repairs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/maf_20230311_cs2_esjoinbolt16_orig-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "Luna 25 will attempt to land on the Moon the same week as India's Chandrayaan 3 probe.",
       "publishedAt": "2023-08-11T02:28:36+00:00",
@@ -63,22 +79,6 @@
       "title": "Dealmaster: Save on back-to-school tech from Lenovo, HP, Apple, and more",
       "url": "https://arstechnica.com/shopping/2023/08/dealmaster-save-on-back-to-school-tech-from-lenovo-hp-apple-and-more/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/2019-MacBook-Pro-17-760x380.jpeg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "SanDisk is ignoring lost data claims. It's time to ignore the company's SSDs.",
-      "publishedAt": "2023-08-10T17:42:22+00:00",
-      "title": "SanDisk\u2019s silence deafens as high-profile users say Extreme SSDs still broken",
-      "url": "https://arstechnica.com/gadgets/2023/08/sandisk-extreme-ssds-are-still-wiping-data-after-firmware-fix-users-say/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/sandisk-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Content pruning for SEO threatens web history, and experts say it is ill-advised.",
-      "publishedAt": "2023-08-10T16:49:24+00:00",
-      "title": "The Internet is not forever after all: CNET deletes old articles to game Google",
-      "url": "https://arstechnica.com/information-technology/2023/08/the-internet-is-not-forever-after-all-cnet-deletes-old-articles-to-game-google/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/CNET-logo-dissolving-760x380.jpg"
     }
   ],
   "sortBy": "top",
