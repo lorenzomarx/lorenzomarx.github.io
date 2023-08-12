@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Exploitation is hard and patches are already out, but the potential risk is great.",
+      "publishedAt": "2023-08-11T20:42:49+00:00",
+      "title": "Microsoft finds vulnerabilities it says could be used to shut down power plants",
+      "url": "https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/industrial-control-system-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Judge also denied SBF's request to delay jail time.",
+      "publishedAt": "2023-08-11T20:25:41+00:00",
+      "title": "Sam Bankman-Fried is going to jail",
+      "url": "https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1258714385-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "States crack down on doxxing, but there's still no federal law.",
       "publishedAt": "2023-08-11T19:40:51+00:00",
@@ -63,22 +79,6 @@
       "title": "Cheap wind and solar could revolutionize the African grid",
       "url": "https://arstechnica.com/science/2023/08/cheap-wind-and-solar-could-revolutionize-the-african-grid/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-523687586-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Op-ed: Apps promised to free us from ad-supported subscription bundles. Oops!",
-      "publishedAt": "2023-08-11T13:00:01+00:00",
-      "title": "The TV streaming apps broke their promises, and now they\u2019re jacking up prices",
-      "url": "https://arstechnica.com/culture/2023/08/the-tv-streaming-apps-broke-their-promises-and-now-theyre-jacking-the-price/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cat-glitchy-hulu-tv-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The new Delta class will be designed for much cheaper operations.\"",
-      "publishedAt": "2023-08-11T11:30:30+00:00",
-      "title": "Virgin Galactic just flew again, but is the company going anywhere?",
-      "url": "https://arstechnica.com/space/2023/08/virgin-galactic-just-flew-again-but-is-the-company-going-anywhere/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1233923032-760x380.jpg"
     }
   ],
   "sortBy": "top",
