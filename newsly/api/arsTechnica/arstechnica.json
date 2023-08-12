@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "States crack down on doxxing, but there's still no federal law.",
+      "publishedAt": "2023-08-11T19:40:51+00:00",
+      "title": "Illinois just made it possible to sue people for doxxing attacks",
+      "url": "https://arstechnica.com/tech-policy/2023/08/illinois-just-made-it-possible-to-sue-people-for-doxxing-attacks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1134677003-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Vague ToS previously implied that customer data could be used for AI training.",
+      "publishedAt": "2023-08-11T18:49:09+00:00",
+      "title": "Zoom updates terms of service to clarify that it won\u2019t use your calls to train AI",
+      "url": "https://arstechnica.com/gadgets/2023/08/zoom-updates-terms-of-service-to-clarify-that-it-wont-use-your-calls-to-train-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/blog-global-email-760x380.png"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "\"This is how the spacecraft will get mounted onto the interface to the Falcon Heavy.\u201d",
+      "publishedAt": "2023-08-11T18:05:56+00:00",
+      "title": "Everything is coming together for launch of NASA\u2019s mission to a metal asteroid",
+      "url": "https://arstechnica.com/space/2023/08/everything-is-coming-together-for-launch-of-nasas-mission-to-a-metal-asteroid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/psyche1-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Evidence of high satisfaction among adults getting gender-affirming care.",
+      "publishedAt": "2023-08-11T16:16:05+00:00",
+      "title": "No regrets: Gender-affirming chest surgery in adults has long-term satisfaction",
+      "url": "https://arstechnica.com/health/2023/08/no-regrets-gender-affirming-chest-surgery-in-adults-has-long-term-satisfaction/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1259095554-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Most coveted item at Twitter's last auction went for $100,000.",
+      "publishedAt": "2023-08-11T15:33:58+00:00",
+      "title": "Musk dumps remaining Twitter-branded stuff in auction",
+      "url": "https://arstechnica.com/tech-policy/2023/08/musk-dumps-remaining-twitter-branded-stuff-in-auction/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1513210923-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The California Public Utilities Commission voted 3-1 to approve 24-hour service.",
+      "publishedAt": "2023-08-11T15:09:21+00:00",
+      "title": "California gives Waymo and Cruise the go-ahead to charge passengers",
+      "url": "https://arstechnica.com/cars/2023/08/robotaxis-get-ok-to-charge-for-rides-in-san-francisco/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/20210407_BaxTowner_Cruise_CamA_CHINATOWN_707356-760x380.jpg"
+    },
+    {
+      "author": "Amy Green, Inside Climate News",
+      "description": "El Ni\u00f1o is developing slower than anticipated and the ocean is extremely warm.",
+      "publishedAt": "2023-08-11T14:36:40+00:00",
+      "title": "After slow start, NOAA predicts rest of hurricane season to be \u201cabove normal\u201d",
+      "url": "https://insideclimatenews.org/news/11082023/noaa-upgrded-hurricane-forecast/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/sanibel-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Dams could help Africa go green, but many no longer make economic sense.",
+      "publishedAt": "2023-08-11T14:19:12+00:00",
+      "title": "Cheap wind and solar could revolutionize the African grid",
+      "url": "https://arstechnica.com/science/2023/08/cheap-wind-and-solar-could-revolutionize-the-african-grid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-523687586-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Op-ed: Apps promised to free us from ad-supported subscription bundles. Oops!",
+      "publishedAt": "2023-08-11T13:00:01+00:00",
+      "title": "The TV streaming apps broke their promises, and now they\u2019re jacking up prices",
+      "url": "https://arstechnica.com/culture/2023/08/the-tv-streaming-apps-broke-their-promises-and-now-theyre-jacking-the-price/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cat-glitchy-hulu-tv-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "\"The new Delta class will be designed for much cheaper operations.\"",
       "publishedAt": "2023-08-11T11:30:30+00:00",
       "title": "Virgin Galactic just flew again, but is the company going anywhere?",
       "url": "https://arstechnica.com/space/2023/08/virgin-galactic-just-flew-again-but-is-the-company-going-anywhere/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1233923032-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "What are Blue Origin's 11,000 employees doing?",
-      "publishedAt": "2023-08-11T11:00:37+00:00",
-      "title": "Rocket Report: Astra layoffs; next SLS core stage needs repairs",
-      "url": "https://arstechnica.com/space/2023/08/rocket-report-more-headwinds-for-astra-next-sls-core-stage-needs-repairs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/maf_20230311_cs2_esjoinbolt16_orig-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Luna 25 will attempt to land on the Moon the same week as India's Chandrayaan 3 probe.",
-      "publishedAt": "2023-08-11T02:28:36+00:00",
-      "title": "Russia heads back to the Moon with Luna 25",
-      "url": "https://arstechnica.com/space/2023/08/russia-heads-back-to-the-moon-with-luna-25/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/soyuz_luna25_2-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "With no skill in software exploitation or encryption busting, Lapsus$ wins anyway.",
-      "publishedAt": "2023-08-11T00:09:56+00:00",
-      "title": "How fame-seeking teenagers hacked some of the world\u2019s biggest targets",
-      "url": "https://arstechnica.com/security/2023/08/homeland-security-details-how-teen-hackers-breached-some-of-the-biggest-targets/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/system-hacked-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Conservative-leaning judges to decide if Biden can resume talks with platforms.",
-      "publishedAt": "2023-08-10T21:45:21+00:00",
-      "title": "Biden administration: We never coerced Big Tech into suppressing speech",
-      "url": "https://arstechnica.com/tech-policy/2023/08/biden-administration-we-never-coerced-big-tech-into-suppressing-speech/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1234059334-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "It features both split-screen and online multiplayer, new levels, and 4K.",
-      "publishedAt": "2023-08-10T21:08:07+00:00",
-      "title": "Quake II gets a remaster for PC and consoles\u2014and it\u2019s exactly what it needs to be",
-      "url": "https://arstechnica.com/gaming/2023/08/quake-ii-gets-a-remaster-for-pc-and-consoles-and-its-exactly-what-it-needs-to-be/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Quake-2-gameplay-1-760x380.png"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "It has told users to disable Dolby Atmos.",
-      "publishedAt": "2023-08-10T20:39:30+00:00",
-      "title": "Sonos has been unable to fix Arc soundbars\u2019 \u201cpop of death\u201d for over 2 years",
-      "url": "https://arstechnica.com/gadgets/2023/08/sonos-has-been-unable-to-fix-arc-soundbars-pop-of-death-for-over-2-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Sonos-Arc-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "New Zealand grocery chain bot suggests harmful things when given silly ingredients.",
-      "publishedAt": "2023-08-10T19:45:59+00:00",
-      "title": "AI-powered grocery bot suggests recipe for toxic gas, \u201cpoison bread sandwich\u201d",
-      "url": "https://arstechnica.com/information-technology/2023/08/ai-powered-grocery-bot-suggests-recipe-for-toxic-gas-poison-bread-sandwich/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/savey_bot_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Organic-looking designs consolidate parts numbers and cut mass by up to 40 percent.",
-      "publishedAt": "2023-08-10T18:53:31+00:00",
-      "title": "3D printing isn\u2019t just for supercars, now it\u2019s for drones, too",
-      "url": "https://arstechnica.com/cars/2023/08/3d-printing-isnt-just-for-supercars-now-its-for-drone-wings-too/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Czinger-at-GFOS-4-760x380.jpg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "These tech deals will help make your academic life easier",
-      "publishedAt": "2023-08-10T18:30:13+00:00",
-      "title": "Dealmaster: Save on back-to-school tech from Lenovo, HP, Apple, and more",
-      "url": "https://arstechnica.com/shopping/2023/08/dealmaster-save-on-back-to-school-tech-from-lenovo-hp-apple-and-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/2019-MacBook-Pro-17-760x380.jpeg"
     }
   ],
   "sortBy": "top",
