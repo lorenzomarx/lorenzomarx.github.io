@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Tenpenny lost her license for refusing to cooperate with a board investigation.",
+      "publishedAt": "2023-08-11T21:52:01+00:00",
+      "title": "Anti-magnetizing-vaccine doctor loses medical license",
+      "url": "https://arstechnica.com/health/2023/08/ohio-doc-who-said-vaccines-magnetized-people-loses-medical-license/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/tenpenny-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Restrictions don't apply to current OpenAI models, but will affect future versions.",
+      "publishedAt": "2023-08-11T21:22:34+00:00",
+      "title": "Sites scramble to block ChatGPT web crawler after instructions emerge",
+      "url": "https://arstechnica.com/information-technology/2023/08/openai-details-how-to-keep-chatgpt-from-gobbling-up-website-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Exploitation is hard and patches are already out, but the potential risk is great.",
       "publishedAt": "2023-08-11T20:42:49+00:00",
@@ -63,22 +79,6 @@
       "title": "California gives Waymo and Cruise the go-ahead to charge passengers",
       "url": "https://arstechnica.com/cars/2023/08/robotaxis-get-ok-to-charge-for-rides-in-san-francisco/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/20210407_BaxTowner_Cruise_CamA_CHINATOWN_707356-760x380.jpg"
-    },
-    {
-      "author": "Amy Green, Inside Climate News",
-      "description": "El Ni\u00f1o is developing slower than anticipated and the ocean is extremely warm.",
-      "publishedAt": "2023-08-11T14:36:40+00:00",
-      "title": "After slow start, NOAA predicts rest of hurricane season to be \u201cabove normal\u201d",
-      "url": "https://insideclimatenews.org/news/11082023/noaa-upgrded-hurricane-forecast/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/sanibel-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Dams could help Africa go green, but many no longer make economic sense.",
-      "publishedAt": "2023-08-11T14:19:12+00:00",
-      "title": "Cheap wind and solar could revolutionize the African grid",
-      "url": "https://arstechnica.com/science/2023/08/cheap-wind-and-solar-could-revolutionize-the-african-grid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-523687586-760x380.jpg"
     }
   ],
   "sortBy": "top",
