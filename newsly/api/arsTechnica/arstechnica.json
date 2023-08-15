@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Chuong Nguyen",
+      "description": "Save on tech from Apple laptops to Pixel phones and everything in between.",
+      "publishedAt": "2023-08-14T18:31:48+00:00",
+      "title": "Dealmaster: Early Labor Day savings on Apple, Lenovo, Kindle, and Google tech",
+      "url": "https://arstechnica.com/shopping/2023/08/dealmaster-early-labor-day-savings-on-apple-lenovo-kindle-and-google-tech/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/7-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Coupes have lost much popularity over the last decade but Lexus still makes one.",
+      "publishedAt": "2023-08-14T16:53:43+00:00",
+      "title": "The Lexus LC 500h hybrid\u2014an art deco interior and two transmissions",
+      "url": "https://arstechnica.com/cars/2023/08/the-lexus-lc-500h-has-great-craftsmanship-weird-hybrid-powertrain/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/2023-Lexus-LC500h-1-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "The paper of record pokes holes in the absorb-everything AI business model.",
+      "publishedAt": "2023-08-14T16:21:55+00:00",
+      "title": "The New York Times prohibits AI vendors from devouring its content",
+      "url": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/android_newspaper_hero2-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "\"I don't want to keep hyping something that will never happen,\" Zuckerberg says.",
+      "publishedAt": "2023-08-14T16:02:12+00:00",
+      "title": "Zuck/Musk cage match canceled; tech billionaires blame each other",
+      "url": "https://arstechnica.com/tech-policy/2023/08/zuck-musk-cage-match-canceled-tech-billionaires-blame-each-other/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1513199768-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "If you can't beat 'em, buy 'em.",
+      "publishedAt": "2023-08-14T15:16:32+00:00",
+      "title": "Rockstar Games acquires modding team that it previously banned",
+      "url": "https://arstechnica.com/gaming/2023/08/rockstar-games-acquires-modding-team-that-it-previously-banned/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/fivem-760x380.jpeg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "Critics warn KOSA could trigger widespread censorship, privacy concerns.",
       "publishedAt": "2023-08-14T11:00:54+00:00",
@@ -39,46 +79,6 @@
       "title": "Microsoft finds vulnerabilities it says could be used to shut down power plants",
       "url": "https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/industrial-control-system-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Judge also denied SBF's request to delay jail time.",
-      "publishedAt": "2023-08-11T20:25:41+00:00",
-      "title": "Sam Bankman-Fried is going to jail",
-      "url": "https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1258714385-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "States crack down on doxxing, but there's still no federal law.",
-      "publishedAt": "2023-08-11T19:40:51+00:00",
-      "title": "Illinois just made it possible to sue people for doxxing attacks",
-      "url": "https://arstechnica.com/tech-policy/2023/08/illinois-just-made-it-possible-to-sue-people-for-doxxing-attacks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1134677003-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Vague ToS previously implied that customer data could be used for AI training.",
-      "publishedAt": "2023-08-11T18:49:09+00:00",
-      "title": "Zoom updates terms of service to clarify that it won\u2019t use your calls to train AI",
-      "url": "https://arstechnica.com/gadgets/2023/08/zoom-updates-terms-of-service-to-clarify-that-it-wont-use-your-calls-to-train-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/blog-global-email-760x380.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"This is how the spacecraft will get mounted onto the interface to the Falcon Heavy.\u201d",
-      "publishedAt": "2023-08-11T18:05:56+00:00",
-      "title": "Everything is coming together for launch of NASA\u2019s mission to a metal asteroid",
-      "url": "https://arstechnica.com/space/2023/08/everything-is-coming-together-for-launch-of-nasas-mission-to-a-metal-asteroid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/psyche1-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Evidence of high satisfaction among adults getting gender-affirming care.",
-      "publishedAt": "2023-08-11T16:16:05+00:00",
-      "title": "No regrets: Gender-affirming chest surgery in adults has long-term satisfaction",
-      "url": "https://arstechnica.com/health/2023/08/no-regrets-gender-affirming-chest-surgery-in-adults-has-long-term-satisfaction/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1259095554-760x380.jpeg"
     }
   ],
   "sortBy": "top",
