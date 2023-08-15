@@ -2,83 +2,75 @@
   "articles": [
     {
       "author": "Reuters",
-      "description": "Shares of China's Country Garden <a href=\"https://www.reuters.com/markets/companies/2007.HK\" target=\"_blank\">(2007.HK)</a> plunged more than 12% on Monday morning after the real estate company suspended trading in 11 of its onshore bonds from Monday.",
-      "publishedAt": "2023-08-14T02:10:40Z",
-      "title": "Country Garden shares slump to record low after onshore bond trading halted",
-      "url": "https://www.reuters.com/markets/asia/country-garden-shares-slump-record-low-after-onshore-bond-trading-halted-2023-08-14/",
-      "urlToImage": "https://www.reuters.com/resizer/-WSf9ikTAO3NFKIojA3EI_Dlmuo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6ESVCYRWSFKTVIOJMUIHVF2IIA.jpg"
+      "description": "Shares of U.S. Steel <a href=\"https://www.reuters.com/markets/companies/X.N\" target=\"_blank\">(X.N)</a> jumped 29% in premarket trading on Monday, after the more-than-a-century old steelmaker rejected a $7.3 bln buyout offer from Cleveland-Cliffs and said it would review its options following \"multiple unsolicited proposals\".",
+      "publishedAt": "2023-08-14T10:50:27Z",
+      "title": "U.S. Steel shares jump after unsolicited bid from Cleveland-Cliffs",
+      "url": "https://www.reuters.com/markets/commodities/us-steel-shares-jump-after-unsolicited-bid-cleveland-cliffs-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/resizer/EXJrHY99CN_iGOnsxOYl6R2wisw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BXP3WWD5GRPY3FV5GYTW4UBG3U.jpg"
+    },
+    {
+      "author": "Dawn Chmielewski",
+      "description": "Hollywood's favorite parlor game of the week: What will Bob Iger do next?",
+      "publishedAt": "2023-08-14T10:04:21Z",
+      "title": "Disney's future, a hot topic among Hollywood elite",
+      "url": "https://www.reuters.com/business/media-telecom/disneys-future-hot-topic-among-hollywood-elite-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/resizer/Q_yw3MKJN5QMRBrHujgJoYIIAC8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LKSS7Y4ZFFLDZFJMZTI4JYVRJA.jpg"
+    },
+    {
+      "author": "Luc Cohen",
+      "description": "Sam Bankman-Fried will prepare for his fraud trial from a Brooklyn jail where inmates ranging from convicted sex trafficker Ghislaine Maxwell to Honduras' former president have complained of subpar conditions.",
+      "publishedAt": "2023-08-14T10:12:17Z",
+      "title": "Bankman-Fried heads to Brooklyn jail notorious for poor conditions",
+      "url": "https://www.reuters.com/legal/bankman-fried-heads-brooklyn-jail-notorious-poor-conditions-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/resizer/fMabLlrK-m-dr____rvnKhQRbKQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/526BMFOIL5IYHEPSZT5AYRULFQ.jpg"
+    },
+    {
+      "author": "Howard Schneider",
+      "description": "Pessimists watching the Federal Reserve battle inflation have focused on the so-called \"last-mile\" problem, convinced a full return to the U.S. central bank's 2% inflation target will require a recession and significant job losses to cool ongoing price rises.",
+      "publishedAt": "2023-08-14T10:05:53Z",
+      "title": "A smooth 'last mile' to 2% inflation may not be a stretch for Fed",
+      "url": "https://www.reuters.com/markets/us/smooth-last-mile-2-inflation-may-not-be-stretch-fed-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/resizer/hOkFT87A8ov7cuHkViXebQiJsZU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UGRX2TMRENMMNCHUROGN7GDO2M.jpg"
+    },
+    {
+      "author": "Yoruk Bahceli",
+      "description": "Financial markets barely flinched when Fitch stripped the United States of its top credit rating, but it served as a reminder of longer-term structural risks investors in government bonds are yet to grasp.",
+      "publishedAt": "2023-08-14T05:18:30Z",
+      "title": "Analysis: US loss of AAA badge a reminder of 'regime shift' for government debt",
+      "url": "https://www.reuters.com/markets/rates-bonds/us-loss-aaa-badge-reminder-regime-shift-government-debt-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/resizer/L883kr4HY_iyuVeUfDPLB2yVXkg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RVMXFQHCTZNFLFGHFPDAU4Z2XE.jpg"
+    },
+    {
+      "author": "Andrea Shalal",
+      "description": "The United States is working to build resilient, diversified clean energy supply chains to protect its economic security, while guarding against the risks posed by over-concentration in a handful of countries, U.S. Treasury Secretary Janet Yellen said in remarks prepared for an event in Las Vegas on Monday.",
+      "publishedAt": "2023-08-14T09:04:59Z",
+      "title": "Yellen warns of risks of over-concentration of clean energy supply chains",
+      "url": "https://www.reuters.com/business/energy/yellen-warns-risks-over-concentration-clean-energy-supply-chains-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/resizer/-9hDyG2om-W5JXWXD82FLwMQFhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VPZNTXRNHRI2JFFAC7X3MC4WRE.jpg"
+    },
+    {
+      "author": "Michael Erman",
+      "description": "A new COVID vaccine is due out next month, but health experts and analysts say it is likely to be coolly received even as hospitalizations from \"<a href=\"https://www.reuters.com/world/what-is-eris-new-covid-variant-2023-08-14/\" target=\"_blank\">Eris</a>\", a variant of the Omicron form of the coronavirus, rise around the country.",
+      "publishedAt": "2023-08-14T10:15:34Z",
+      "title": "New Covid vaccines are on the way as 'Eris' variant rises",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/new-covid-vaccines-are-way-eris-variant-rises-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/resizer/1Wi7JYGAE3l5GmbCQx0C7kwY6zU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IAGIIZRW2JKQHJPYYR3W4J26UA.jpg"
     },
     {
       "author": "Reuters",
-      "description": "Tesla Inc <a href=\"https://www.reuters.com/markets/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> has cut prices in China for its Model Y long-range and performance versions starting on Aug. 14, the company said in a notice on Monday.",
-      "publishedAt": "2023-08-14T01:21:47Z",
-      "title": "Tesla cuts prices in China for some Model Y versions",
-      "url": "https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-china-some-model-y-versions-2023-08-14/",
-      "urlToImage": "https://www.reuters.com/resizer/SoOuW6z0FcjECPZWbUJiKCXcgVg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XCZJ753B6JKHXLINDJFWH5NL24.jpg"
-    },
-    {
-      "author": "Echo Wang, Anirban Sen",
-      "description": "SoftBank Group Corp <a href=\"https://www.reuters.com/markets/companies/9984.T\" target=\"_blank\">(9984.T)</a> is in talks to acquire the 25% stake in Arm Ltd it does not directly own from Vision Fund 1 (VF1), a $100 billion investment fund it raised in 2017, according to people familiar with the matter, potentially delivering a win for investors who have waited years for strong returns.",
-      "publishedAt": "2023-08-13T22:39:24Z",
-      "title": "Exclusive: SoftBank in talks to buy Vision Fund's 25% stake in Arm -sources",
-      "url": "https://www.reuters.com/markets/deals/softbank-talks-buy-vision-funds-25-stake-arm-sources-2023-08-13/",
-      "urlToImage": "https://www.reuters.com/resizer/aaaLhYcU_1RfUMTvnPrx4u7c9NM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2IBGSEJGWZPOXLYLOQ6OODXWV4.jpg"
-    },
-    {
-      "author": "Navya Mittal",
-      "description": "Australia's Federal Court on Monday ordered Dell Technologies Inc's <a href=\"https://www.reuters.com/markets/companies/DELL.N\" target=\"_blank\">(DELL.N)</a> local unit to pay A$10 million ($6.46 million) in penalties for making misleading representations on its website about discounts for add-on computer monitors.",
-      "publishedAt": "2023-08-14T03:44:58Z",
-      "title": "Australian court fines Dell unit $6.5 mln for misleading customers on discounts",
-      "url": "https://www.reuters.com/technology/dells-aussie-arm-pay-65-mln-penalties-misleading-customers-2023-08-14/",
-      "urlToImage": "https://www.reuters.com/resizer/NnrrBfE94Wr51PoZNmsC59G6t3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K5LMNWXZRFMQNCLKKDDH2JWZX4.jpg"
-    },
-    {
-      "author": "Ankur Banerjee",
-      "description": "The yen was volatile on Monday after slipping to its lowest for the year against the dollar, breaching the key 145 level as traders warily looked for clues on possible intervention, while the dollar rose to touch a more than one month high.",
-      "publishedAt": "2023-08-14T02:07:22Z",
-      "title": "Yen breaks above 145/dlr level in choppy trading, dollar firm",
-      "url": "https://www.reuters.com/markets/currencies/yen-breaks-above-145dlr-level-choppy-trading-dollar-firm-2023-08-14/",
-      "urlToImage": "https://www.reuters.com/resizer/WWuJM7-0ISY0MZXuUXVwmyfdhnQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56QBJJJXBFO6VIIDHFENVJBYIA.jpg"
-    },
-    {
-      "author": "Daniel Leussink",
-      "description": "Japanese automakers are getting much-needed cover from an old standby, as the weaker yen helps prop up profits amid declining sales in China and the increasingly tough shift to electric vehicles.",
-      "publishedAt": "2023-08-13T23:01:53Z",
-      "title": "Weak yen gives Japan's automakers temporary relief from China pain",
-      "url": "https://www.reuters.com/business/autos-transportation/weak-yen-gives-japans-automakers-temporary-relief-china-pain-2023-08-13/",
-      "urlToImage": "https://www.reuters.com/resizer/YeyduIQIgbtj_hwpKnxczvT1DUY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2LYWKWH2L5O67IWXXQYW6OORTE.jpg"
-    },
-    {
-      "author": "Selena Li",
-      "description": "U.S. bank Citigroup <a href=\"https://www.reuters.com/markets/companies/C.N\" target=\"_blank\">(C.N)</a> has completed the sale and migration of its Taiwan consumer businesses to Singapore's DBS Group <a href=\"https://www.reuters.com/markets/companies/DBSM.SI\" target=\"_blank\">(DBSM.SI)</a>, it said on Monday.",
-      "publishedAt": "2023-08-14T02:29:05Z",
-      "title": "US bank Citi completes sale of Taiwan consumer unit to Singapore's DBS",
-      "url": "https://www.reuters.com/markets/deals/us-bank-citi-completes-sale-taiwan-consumer-unit-singapores-dbs-2023-08-14/",
-      "urlToImage": "https://www.reuters.com/resizer/ZnHMQ8xonq2LpxII1wu3ur-gZbM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VW5Z6RGOHZLKDART3JDA6EOXRU.jpg"
-    },
-    {
-      "author": "Nicol\u00e1s Misculin, Eliana Raszewski, Candelaria Grimberg",
-      "description": "Argentine voters punished the country's two main political forces in a primary election on Sunday, pushing a rock-singing libertarian outsider candidate into first place in a huge shake-up in the race towards presidential elections in October.",
-      "publishedAt": "2023-08-14T02:21:18Z",
-      "title": "Argentine far-right outsider Javier Milei takes shock lead in primary vote",
-      "url": "https://www.reuters.com/world/americas/argentina-set-primary-vote-with-ruling-peronists-fighting-survival-2023-08-13/",
-      "urlToImage": "https://www.reuters.com/resizer/Bsca2HgeaGR_nyysR0ieoN5Ls4Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NQMJTTF5WVNSVKLKHHFF4AU66M.jpg"
-    },
-    {
-      "author": "Jorge Garcia, Mike Blake",
-      "description": "The death toll from the Maui wildfires reached 93 on Sunday as relatives of the missing frantically searched for signs their loved ones may still be alive.",
-      "publishedAt": "2023-08-13T20:36:10Z",
-      "title": "Maui wildfires death toll hits 93 amid frantic search for the missing",
-      "url": "https://www.reuters.com/world/us/maui-like-war-zone-death-toll-wildfires-reaches-93-2023-08-13/",
-      "urlToImage": "https://www.reuters.com/resizer/DaRbgPPQMB_RHSorVCG8e4av7jY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/32NURJ3BUZMGXOUTW7VE53VKLE.jpg"
+      "description": "President Vladimir Putin's economic adviser rebuked the central bank on Monday as the rouble slid past 101 per U.S. dollar, blaming its 30% year-to-date slump on loose monetary policy and revealing growing discord among Russia's monetary authorities.",
+      "publishedAt": "2023-08-14T10:15:48Z",
+      "title": "Kremlin blames loose monetary policy as rouble slides past 101 vs dollar",
+      "url": "https://www.reuters.com/markets/currencies/rouble-falls-past-100-per-us-dollar-kremlin-blames-loose-monetary-policy-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/resizer/ohyu0FNMzqyBeYZ_84vnL5YgJE4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SPOYM5RAOJJ57MFKCBJJ45MGZU.jpg"
     },
     {
       "author": "Reuters",
-      "description": "Russia is in the process of equipping its new nuclear submarines with hypersonic Zircon missiles, the head of Russia's largest shipbuilder told the RIA state news agency in an interview published on Monday.",
-      "publishedAt": "2023-08-14T03:24:55Z",
-      "title": "Russia to equip new nuclear submarines with hypersonic missiles",
-      "url": "https://www.reuters.com/world/europe/russia-equip-new-nuclear-submarines-with-hypersonic-missiles-2023-08-14/",
-      "urlToImage": "https://www.reuters.com/resizer/yJ9vB-RhldIHtc6ro9mAZ_ToH0U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P2WL6XEKARNJ3KCTKN6INB7RMQ.jpg"
+      "description": "Two Russians accused of disseminating propaganda on behalf of the Wagner mercenary group in two Polish cities have been arrested and charged with espionage, Interior Minister Mariusz Kaminski said on Monday.",
+      "publishedAt": "2023-08-14T11:01:57Z",
+      "title": "Poland detains two Russians for distributing Wagner Group propaganda",
+      "url": "https://www.reuters.com/world/europe/poland-detains-2-russians-distributing-wagner-group-propaganda-2023-08-14/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=152"
     }
   ],
   "sortBy": "top",
