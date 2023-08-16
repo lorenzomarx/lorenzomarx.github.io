@@ -2,6 +2,19 @@
   "articles": [
     {
       "author": "Al Jazeera",
+      "content": "Israeli forces have killed two Palestinians during a raid on a refugee camp in the occupied West Bank city of Jericho, medical sources told the Reuters news agency.\r\nTwo young men were rushed to the \u2026 [+515 chars]",
+      "description": "Two young Palestinians killed as Israeli forces raid refugee camp in the occupied West Bank's Jericho city: Medics.",
+      "publishedAt": "2023-08-15T04:23:12Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israeli forces kills 2 Palestinians in raid on occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2023/8/15/israeli-forces-kills-two-palestinians-in-raid-on-occupied-west-bank",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-05-25T000831Z_2070646480_RC2C51AQ0U3P_RTRMADP_3_ISRAEL-PALESTINIANS-VIOLENCE-1692071829.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
       "content": "Air raid sirens were activated across most of Ukraine and explosions have been heard in the western Ukrainian region of Lviv bordering Poland, local officials and media reported.\r\nExplosions again in\u2026 [+955 chars]",
       "description": "Air raid siren activated across eastern, central and western Ukraine as air force warns of Russian missile threat.",
       "publishedAt": "2023-08-15T03:22:36Z",
@@ -1286,21 +1299,8 @@
       "title": "Biden\u2019s \u2018ticking time bomb\u2019 remark referred to China\u2019s economy: White House",
       "url": "https://www.aljazeera.com/news/2023/8/12/bidens-ticking-time-bomb-remark-referred-to-chinas-economy-white-house",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2022-11-14T195352Z_1185340475_RC2MLX9B0VZI_RTRMADP_3_G20-SUMMIT-BIDEN-XI-DEMOCRACY-1691811390.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "The death toll from wildfires on Hawaiis Maui has risen to 67 as search teams combed through the smouldering ruins of Lahaina town and officials sought determine to how the inferno spread so rapidly \u2026 [+4502 chars]",
-      "description": "Hawaii's attorney general opens investigation into official response to deadly wildfire.",
-      "publishedAt": "2023-08-12T02:49:47Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Hawaii wildfire death toll hits 67 as probe launched into blaze response",
-      "url": "https://www.aljazeera.com/news/2023/8/12/hawaii-wildfire-death-toll-hits-67-as-probe-launched-into-blaze-response",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/image-28.jpg?resize=1200%2C675"
     }
   ],
   "status": "ok",
-  "totalResults": 1306
+  "totalResults": 1307
 }
