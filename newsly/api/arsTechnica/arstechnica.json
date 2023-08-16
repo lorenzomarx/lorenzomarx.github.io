@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "Up to $1.2 billion in funding for handling \"legacy\" carbon emissions.",
+      "publishedAt": "2023-08-14T22:26:02+00:00",
+      "title": "US picks the first two sites for carbon-capture hubs",
+      "url": "https://arstechnica.com/science/2023/08/us-picks-the-first-two-sites-for-carbon-capture-hubs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1397892763-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "No estimate when crucial MLS listings provided by Rapattoni will be restored.",
+      "publishedAt": "2023-08-14T21:59:05+00:00",
+      "title": "Real estate markets scramble following cyberattack on listings provider",
+      "url": "https://arstechnica.com/security/2023/08/5-days-on-cyberattack-on-data-provider-stymies-realty-markets-throughout-the-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/multiple-listing-service-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Dell Australia is paying for something many of its peers are guilty of.",
+      "publishedAt": "2023-08-14T21:09:46+00:00",
+      "title": "Dell fined $6.5M after admitting it made overpriced monitors look discounted",
+      "url": "https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-497371776-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Some UK and Canadian subscribers can test the streaming giant's first titles.",
+      "publishedAt": "2023-08-14T20:21:19+00:00",
+      "title": "Netflix\u2019s test of streaming games is small, but it\u2019s poised to be a big deal",
+      "url": "https://arstechnica.com/gaming/2023/08/netflix-is-expanding-its-rapidly-growing-gaming-ambitions-to-tv-pc-and-mac/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/netflix-games-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Emotional testimony leads to plaintiffs' win in first youth-led climate trial.",
+      "publishedAt": "2023-08-14T19:59:44+00:00",
+      "title": "Montana loses fight against youth climate activists in landmark ruling",
+      "url": "https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1258643987-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "A microLED display and a thinner enclosure could headline the redesign.",
+      "publishedAt": "2023-08-14T19:38:09+00:00",
+      "title": "Report: \u201cApple Watch X\u201d will redesign the popular wearable for the first time",
+      "url": "https://arstechnica.com/gadgets/2023/08/report-apple-watch-x-will-redesign-the-popular-wearable-for-the-first-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Best-Apple-Watch-2023-3-800x534-1-760x380.jpg"
+    },
+    {
+      "author": "Lily Hay Newman, wired.com",
+      "description": "Background Task Manager can potentially miss malicious software on your machine.",
+      "publishedAt": "2023-08-14T18:52:52+00:00",
+      "title": "An Apple malware-flagging tool is \u201ctrivially\u201d easy to bypass",
+      "url": "https://www.wired.com/story/apple-mac-background-task-management-flaw/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/mac-laptop-760x380.jpeg"
+    },
+    {
       "author": "Chuong Nguyen",
       "description": "Save on tech from Apple laptops to Pixel phones and everything in between.",
       "publishedAt": "2023-08-14T18:31:48+00:00",
@@ -23,62 +79,6 @@
       "title": "The New York Times prohibits AI vendors from devouring its content",
       "url": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/android_newspaper_hero2-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "\"I don't want to keep hyping something that will never happen,\" Zuckerberg says.",
-      "publishedAt": "2023-08-14T16:02:12+00:00",
-      "title": "Zuck/Musk cage match canceled; tech billionaires blame each other",
-      "url": "https://arstechnica.com/tech-policy/2023/08/zuck-musk-cage-match-canceled-tech-billionaires-blame-each-other/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1513199768-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "If you can't beat 'em, buy 'em.",
-      "publishedAt": "2023-08-14T15:16:32+00:00",
-      "title": "Rockstar Games acquires modding team that it previously banned",
-      "url": "https://arstechnica.com/gaming/2023/08/rockstar-games-acquires-modding-team-that-it-previously-banned/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/fivem-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Critics warn KOSA could trigger widespread censorship, privacy concerns.",
-      "publishedAt": "2023-08-14T11:00:54+00:00",
-      "title": "The Kids Online Safety Act isn\u2019t all right, critics say",
-      "url": "https://arstechnica.com/tech-policy/2023/08/the-kids-online-safety-act-isnt-all-right-critics-say/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/kids-online-saftey-grinder-senators-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "What my brave warrior's death to a lowly goblin taught me about dice anarchy.",
-      "publishedAt": "2023-08-12T11:07:32+00:00",
-      "title": "The \u201cShove\u201d mechanic in Baldur\u2019s Gate 3 can ruin an encounter, and I love it",
-      "url": "https://arstechnica.com/gaming/2023/08/the-shove-mechanic-in-baldurs-gate-3-can-ruin-an-encounter-and-i-love-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-11-at-12.52.08-PM-760x380.png"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Tenpenny lost her license for refusing to cooperate with a board investigation.",
-      "publishedAt": "2023-08-11T21:52:01+00:00",
-      "title": "Anti-magnetizing-vaccine doctor loses medical license",
-      "url": "https://arstechnica.com/health/2023/08/ohio-doc-who-said-vaccines-magnetized-people-loses-medical-license/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/tenpenny-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Restrictions don't apply to current OpenAI models, but will affect future versions.",
-      "publishedAt": "2023-08-11T21:22:34+00:00",
-      "title": "Sites scramble to block ChatGPT web crawler after instructions emerge",
-      "url": "https://arstechnica.com/information-technology/2023/08/openai-details-how-to-keep-chatgpt-from-gobbling-up-website-data/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Exploitation is hard and patches are already out, but the potential risk is great.",
-      "publishedAt": "2023-08-11T20:42:49+00:00",
-      "title": "Microsoft finds vulnerabilities it says could be used to shut down power plants",
-      "url": "https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/industrial-control-system-760x380.jpg"
     }
   ],
   "sortBy": "top",
