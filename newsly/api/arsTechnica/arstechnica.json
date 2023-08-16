@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Evan Williams",
+      "description": "18 drivers and 18 hybrids and EVs, tested on the same day on the same route.",
+      "publishedAt": "2023-08-15T11:00:21+00:00",
+      "title": "What happens when you test the real-world efficiency of hybrids and EVs?",
+      "url": "https://arstechnica.com/cars/2023/08/many-evs-outperform-epa-estimates-in-this-real-world-efficiency-testing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/AJACday2-Kelowna_2-760x380.jpg"
+    },
+    {
       "author": "John Timmer",
       "description": "Up to $1.2 billion in funding for handling \"legacy\" carbon emissions.",
       "publishedAt": "2023-08-14T22:26:02+00:00",
@@ -71,14 +79,6 @@
       "title": "The Lexus LC 500h hybrid\u2014an art deco interior and two transmissions",
       "url": "https://arstechnica.com/cars/2023/08/the-lexus-lc-500h-has-great-craftsmanship-weird-hybrid-powertrain/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/2023-Lexus-LC500h-1-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "The paper of record pokes holes in the absorb-everything AI business model.",
-      "publishedAt": "2023-08-14T16:21:55+00:00",
-      "title": "The New York Times prohibits AI vendors from devouring its content",
-      "url": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/android_newspaper_hero2-760x380.jpg"
     }
   ],
   "sortBy": "top",
