@@ -1,10 +1,50 @@
 {
   "articles": [
     {
+      "author": "Chuong Nguyen",
+      "description": "Gear to help protect information from your ID, credit cards, and debit cards.",
+      "publishedAt": "2023-08-16T23:37:37+00:00",
+      "title": "Guidemaster: RFID-blocker cards and wallets to help keep your cards secure",
+      "url": "https://arstechnica.com/shopping/2023/08/guidemaster-rfid-blocker-cards-and-wallets-to-help-keep-your-cards-secure/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/RFID-blocking-wallets-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The ruling does not affect access to mifepristone; SCOTUS will decide the case.",
+      "publishedAt": "2023-08-16T22:15:52+00:00",
+      "title": "Appeals court reverses Texas ruling nullifying FDA approval of abortion pill",
+      "url": "https://arstechnica.com/health/2023/08/appeals-court-rules-on-abortion-pill-case-but-it-changes-nothing-for-now/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1241524154-760x380.jpeg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "CrossOver for Linux got some updates too\u2014but not DirectX 12.",
+      "publishedAt": "2023-08-16T22:01:26+00:00",
+      "title": "DirectX 12 support comes to CrossOver on Mac with latest update",
+      "url": "https://arstechnica.com/gadgets/2023/08/directx-12-support-comes-to-crossover-on-mac-with-latest-update/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/CrossOver-760x380.png"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Official: \"It is simply not feasible to read every book\" for depictions of sex.",
+      "publishedAt": "2023-08-16T21:34:44+00:00",
+      "title": "An Iowa school district is using ChatGPT to decide which books to ban",
+      "url": "https://arstechnica.com/information-technology/2023/08/an-iowa-school-district-is-using-chatgpt-to-decide-which-books-to-ban/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/banned_book_hero_2-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Gordon H. Pedersen of Utah was on the run from fraud charges for three years.",
+      "publishedAt": "2023-08-16T21:07:53+00:00",
+      "title": "Fugitive \u201csovereign citizen\u201d arrested for selling silver as bogus COVID cure",
+      "url": "https://arstechnica.com/health/2023/08/fda-finally-nabs-alleged-quack-who-claimed-silver-vibrations-cure-covid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/pedersen-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "Change comes as booksellers urge FTC to launch another Amazon antitrust inquiry.",
       "publishedAt": "2023-08-16T19:39:10+00:00",
-      "title": "Amazon pinches sellers: Use our costly logistics services or pay extra fee",
+      "title": "Amazon pinches sellers: Use our costly logistics services or pay extra fee [Updated]",
       "url": "https://arstechnica.com/tech-policy/2023/08/amazon-adds-extra-seller-fee-despite-intensifying-ftc-scrutiny/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-653189006-760x380.jpg"
     },
@@ -20,7 +60,7 @@
       "author": "Scharon Harding",
       "description": "Bank of Ireland says the problem wasn't connected to a cyberattack.",
       "publishedAt": "2023-08-16T19:15:49+00:00",
-      "title": "Tech error let people with empty bank accounts withdraw hundreds in cash",
+      "title": "Tech glitch let people with empty bank accounts withdraw hundreds in cash",
       "url": "https://arstechnica.com/information-technology/2023/08/tech-error-let-people-with-empty-bank-accounts-withdraw-hundreds-in-cash/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1419266114-760x380.jpg"
     },
@@ -39,46 +79,6 @@
       "title": "Windows feature that resets system clocks based on random data is wreaking havoc",
       "url": "https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/broken-clock-760x380.jpg"
-    },
-    {
-      "author": "Amanda Chu, Oliver Roeder, and Alex Irwin-Hunt, Financial Times",
-      "description": "Financial Times identified 110 large-scale manufacturing announcements.",
-      "publishedAt": "2023-08-16T17:17:19+00:00",
-      "title": "$220 billion is helping build US cleantech infrastructure. Here are the projects.",
-      "url": "https://www.ft.com/content/3b19c51d-462b-43fa-9e0e-3445640aabb5",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/getty-biden-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "\"I swear I thought that was my wall.\"",
-      "publishedAt": "2023-08-16T16:40:33+00:00",
-      "title": "AI chatbot scares Snapchat users by posting mysterious video",
-      "url": "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/snapchat_spoofy-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Deal ends with Intel paying a $353 million termination fee to Tower.",
-      "publishedAt": "2023-08-16T15:56:45+00:00",
-      "title": "China blocks Intel\u2019s $5.4B merger with Tower Semiconductor",
-      "url": "https://arstechnica.com/tech-policy/2023/08/china-blocks-intels-5-4b-merger-with-tower-semiconductor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1541925995-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Volta and Tesla Superchargers had the most satisfied customers, according to JD Power.",
-      "publishedAt": "2023-08-16T15:47:34+00:00",
-      "title": "Public EV charging keeps getting worse, according to new study",
-      "url": "https://arstechnica.com/cars/2023/08/public-ev-charging-keeps-getting-worse-according-to-new-study/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1232464216-760x380.jpg"
-    },
-    {
-      "author": "Howard Lee",
-      "description": "A chunk of Western Australia once raced across the globe at over 64 cm a year.",
-      "publishedAt": "2023-08-16T15:30:56+00:00",
-      "title": "Early plate tectonics was surprisingly speedy",
-      "url": "https://arstechnica.com/science/2023/08/early-plate-tectonics-was-surprisingly-speedy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/P1020589-760x380.jpeg"
     }
   ],
   "sortBy": "top",
