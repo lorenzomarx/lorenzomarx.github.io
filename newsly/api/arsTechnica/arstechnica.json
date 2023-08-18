@@ -2,6 +2,54 @@
   "articles": [
     {
       "author": "Chuong Nguyen",
+      "description": "Early Labor Day sales bring terrific savings on some of our tech favorites.",
+      "publishedAt": "2023-08-17T18:35:45+00:00",
+      "title": "Dealmaster: Early Labor Day deals on laptops, smartphones, and more",
+      "url": "https://arstechnica.com/shopping/2023/08/dealmaster-early-labor-day-deals-on-laptops-smartphones-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/pro-x-open-760x380.jpg"
+    },
+    {
+      "author": "Kimberly Fenn, The Conversation",
+      "description": "Lack of sleep harms memory and cognition, but our easy remedies can't fix everything.",
+      "publishedAt": "2023-08-17T18:06:57+00:00",
+      "title": "Can coffee or a nap make up for sleep deprivation?",
+      "url": "https://theconversation.com/can-coffee-or-a-nap-make-up-for-sleep-deprivation-a-psychologist-explains-why-theres-no-substitute-for-shut-eye-206847",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1147318074-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "OpenAI could be fined up to $150,000 for each piece of infringing content.",
+      "publishedAt": "2023-08-17T17:41:49+00:00",
+      "title": "Report: Potential NYT lawsuit could force OpenAI to wipe ChatGPT and start over",
+      "url": "https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hd_wipe_hero_2-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "This new electric SUV shares a lot with the Cadillac Lyriq.",
+      "publishedAt": "2023-08-17T16:00:42+00:00",
+      "title": "Acura unveils its first GM-based electric vehicle, the new ZDX",
+      "url": "https://arstechnica.com/cars/2023/08/acura-debuts-its-first-ev-the-zdx-starting-at-around-60k-in-early-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/01-2024-Acura-ZDX-Type-S-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Product shots also show off kickstand, large 8\" screen, and tons of buttons.",
+      "publishedAt": "2023-08-17T14:08:26+00:00",
+      "title": "Lenovo\u2019s answer to Steam Deck, Legion Go, sports Switch-like detachable controls",
+      "url": "https://arstechnica.com/gaming/2023/08/lenovos-answer-to-steam-deck-legion-go-sports-switch-like-detachable-controls/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/legiongo-760x380.jpg"
+    },
+    {
+      "author": "Diana Gitig",
+      "description": "People in a genetic database have segments of DNA in common unexpectedly often.",
+      "publishedAt": "2023-08-17T13:38:01+00:00",
+      "title": "Want to have your genes tested? It might be genetic",
+      "url": "https://arstechnica.com/science/2023/08/genetics-makes-some-people-more-likely-to-participate-in-genetic-studies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1285352700-760x380.jpg"
+    },
+    {
+      "author": "Chuong Nguyen",
       "description": "Gear to help protect information from your ID, credit cards, and debit cards.",
       "publishedAt": "2023-08-16T23:37:37+00:00",
       "title": "Guidemaster: RFID-blocker cards and wallets to help keep your cards secure",
@@ -18,7 +66,7 @@
     },
     {
       "author": "Samuel Axon",
-      "description": "CrossOver for Linux got some updates too\u2014but not DirectX 12.",
+      "description": "CrossOver for Linux got some updates, too\u2014but not DirectX 12.",
       "publishedAt": "2023-08-16T22:01:26+00:00",
       "title": "DirectX 12 support comes to CrossOver on Mac with latest update",
       "url": "https://arstechnica.com/gadgets/2023/08/directx-12-support-comes-to-crossover-on-mac-with-latest-update/",
@@ -31,54 +79,6 @@
       "title": "An Iowa school district is using ChatGPT to decide which books to ban",
       "url": "https://arstechnica.com/information-technology/2023/08/an-iowa-school-district-is-using-chatgpt-to-decide-which-books-to-ban/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/banned_book_hero_2-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Gordon H. Pedersen of Utah was on the run from fraud charges for three years.",
-      "publishedAt": "2023-08-16T21:07:53+00:00",
-      "title": "Fugitive \u201csovereign citizen\u201d arrested for selling silver as bogus COVID cure",
-      "url": "https://arstechnica.com/health/2023/08/fda-finally-nabs-alleged-quack-who-claimed-silver-vibrations-cure-covid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/pedersen-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Change comes as booksellers urge FTC to launch another Amazon antitrust inquiry.",
-      "publishedAt": "2023-08-16T19:39:10+00:00",
-      "title": "Amazon pinches sellers: Use our costly logistics services or pay extra fee [Updated]",
-      "url": "https://arstechnica.com/tech-policy/2023/08/amazon-adds-extra-seller-fee-despite-intensifying-ftc-scrutiny/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-653189006-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "PostScript Type 1 fonts are decades old, but apps supported them until recently.",
-      "publishedAt": "2023-08-16T19:34:55+00:00",
-      "title": "Adobe and Microsoft break some old files by removing PostScript font support",
-      "url": "https://arstechnica.com/gadgets/2023/08/microsoft-adobe-and-others-have-dropped-support-for-old-postscript-fonts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/apple-mac-laserwriter-760x380.jpeg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Bank of Ireland says the problem wasn't connected to a cyberattack.",
-      "publishedAt": "2023-08-16T19:15:49+00:00",
-      "title": "Tech glitch let people with empty bank accounts withdraw hundreds in cash",
-      "url": "https://arstechnica.com/information-technology/2023/08/tech-error-let-people-with-empty-bank-accounts-withdraw-hundreds-in-cash/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1419266114-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "X, formerly Twitter, \"confirmed the delay was removed but did not elaborate.\"",
-      "publishedAt": "2023-08-16T17:40:25+00:00",
-      "title": "X apparently added 5-second delay for links to sites Musk doesn\u2019t like",
-      "url": "https://arstechnica.com/tech-policy/2023/08/x-apparently-added-5-second-delay-for-links-to-sites-musk-doesnt-like/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-x-musk-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Windows Secure Time Seeding resets clocks months or years off the correct time.",
-      "publishedAt": "2023-08-16T17:23:29+00:00",
-      "title": "Windows feature that resets system clocks based on random data is wreaking havoc",
-      "url": "https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/broken-clock-760x380.jpg"
     }
   ],
   "sortBy": "top",
