@@ -1,8 +1,40 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "The space agency says its facilities are in an \"increasing state of decline.\"",
+      "publishedAt": "2023-08-17T22:55:20+00:00",
+      "title": "NASA\u2019s buildings are even older than its graying workforce",
+      "url": "https://arstechnica.com/space/2023/08/nasas-buildings-are-even-older-than-its-graying-workforce/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/312733main_vacuum_chamber_full-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Players will still be able to download previously purchased games.",
+      "publishedAt": "2023-08-17T21:20:25+00:00",
+      "title": "End of the road: The Xbox 360 game marketplace will shut down",
+      "url": "https://arstechnica.com/gaming/2023/08/the-xbox-360s-online-store-will-shut-down-next-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/07/xbox360-640x215.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "The suit is seeking class-action certification.",
+      "publishedAt": "2023-08-17T21:04:04+00:00",
+      "title": "Western Digital, SanDisk Extreme SSDs don\u2019t store data safely, lawsuit says",
+      "url": "https://arstechnica.com/gadgets/2023/08/lawsuit-takes-western-digital-to-task-over-sandisk-ssds-allegedly-erasing-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/SanDisk-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "A strange history has produced a helium-rich star with kilogauss magnetic fields.",
+      "publishedAt": "2023-08-17T20:36:19+00:00",
+      "title": "Heavy, highly magnetic star may be first magnetar precursor we\u2019ve seen",
+      "url": "https://arstechnica.com/science/2023/08/heavy-highly-magnetic-star-may-be-first-magnetar-precursor-weve-seen/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/image-1-760x380.png"
+    },
+    {
       "author": "Benj Edwards",
-      "description": "AI-penned Microsoft Travel article recommends food bank as a must-see landmark.",
+      "description": "AI-penned Microsoft Travel article recommends food bank as a must-see destination.",
       "publishedAt": "2023-08-17T20:14:17+00:00",
       "title": "Microsoft AI suggests food bank as a \u201ccannot miss\u201d tourist spot in Canada",
       "url": "https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/",
@@ -47,38 +79,6 @@
       "title": "Report: Potential NYT lawsuit could force OpenAI to wipe ChatGPT and start over",
       "url": "https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hd_wipe_hero_2-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "This new electric SUV shares a lot with the Cadillac Lyriq.",
-      "publishedAt": "2023-08-17T16:00:42+00:00",
-      "title": "Acura unveils its first GM-based electric vehicle, the new ZDX",
-      "url": "https://arstechnica.com/cars/2023/08/acura-debuts-its-first-ev-the-zdx-starting-at-around-60k-in-early-2024/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/01-2024-Acura-ZDX-Type-S-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Product shots also show off kickstand, large 8\" screen, and tons of buttons.",
-      "publishedAt": "2023-08-17T14:08:26+00:00",
-      "title": "Lenovo\u2019s answer to Steam Deck, Legion Go, sports Switch-like detachable controls",
-      "url": "https://arstechnica.com/gaming/2023/08/lenovos-answer-to-steam-deck-legion-go-sports-switch-like-detachable-controls/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/legiongo-760x380.jpg"
-    },
-    {
-      "author": "Diana Gitig",
-      "description": "People in a genetic database have segments of DNA in common unexpectedly often.",
-      "publishedAt": "2023-08-17T13:38:01+00:00",
-      "title": "Want to have your genes tested? It might be genetic",
-      "url": "https://arstechnica.com/science/2023/08/genetics-makes-some-people-more-likely-to-participate-in-genetic-studies/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1285352700-760x380.jpg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "Gear to help protect information from your ID, credit cards, and debit cards.",
-      "publishedAt": "2023-08-16T23:37:37+00:00",
-      "title": "Guidemaster: RFID-blocker cards and wallets to help keep your cards secure",
-      "url": "https://arstechnica.com/shopping/2023/08/guidemaster-rfid-blocker-cards-and-wallets-to-help-keep-your-cards-secure/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/RFID-blocking-wallets-760x380.jpg"
     }
   ],
   "sortBy": "top",
