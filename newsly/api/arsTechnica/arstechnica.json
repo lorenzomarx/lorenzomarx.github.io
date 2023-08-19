@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "New approach combines ECDSA with post-quantum algorithm called Dilithium.",
+      "publishedAt": "2023-08-18T20:01:25+00:00",
+      "title": "Google announces new algorithm that makes FIDO encryption safe from quantum computers",
+      "url": "https://arstechnica.com/security/2023/08/passkeys-are-great-but-not-safe-from-quantum-computers-dilithium-could-change-that/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/quantum-computer-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Ars cited in two SanDisk SSD failure lawsuits filed yesterday.",
       "publishedAt": "2023-08-18T19:25:23+00:00",
@@ -71,14 +79,6 @@
       "title": "It\u2019s time for Americans to embrace small cars",
       "url": "https://arstechnica.com/cars/2023/08/dont-supersize-me-the-case-for-small-electric-cars-instead-of-big-suvs/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Renault-5-Diamant-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The report from Stat looks at the outsize gains health care executives reap.",
-      "publishedAt": "2023-08-18T14:34:57+00:00",
-      "title": "Moderna CEO made $400M last year\u20142,435x the median salary of employees",
-      "url": "https://arstechnica.com/health/2023/08/moderna-ceo-made-400m-last-year-2435x-the-median-salary-of-employees/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1240911434-760x380.jpeg"
     }
   ],
   "sortBy": "top",
