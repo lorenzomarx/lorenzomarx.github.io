@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "i-D Staff, Nicole DeMarco",
+      "content": "",
+      "description": "Read, watch, wear, listen, see... how to spend your week, according to i-D.",
+      "publishedAt": "2023-08-21T11:24:33Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The GUi-DE: a beginner's guide to Ibiza",
+      "url": "https://i-d.vice.com/en/article/7kxwxd/guide-to-ibiza-clubs-hotels-restaurants",
+      "urlToImage": "https://video-images.vice.com/articles/64dce41c1e6a5796d1d293f9/lede/1692616294895-guide21aug.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Randon Rosenbohm, Sara David",
       "content": "We confront a seedy underbelly with grace as the moon in Libra clashes with power planet Pluto at 4:19 PM. Peace and calm come as the moon connects with the sun at 4:30 PM, connecting us to our happi\u2026 [+3330 chars]",
       "description": "The moon enters magical Scorpio.",
@@ -1286,21 +1299,8 @@
       "title": "HGTV Star's 'Biggest Flip Ever' Isn't Going Down Well With Current Tenants",
       "url": "https://www.vice.com/en/article/epvbjw/hgtv-stars-biggest-flip-ever-isnt-going-down-well-with-current-tenants",
       "urlToImage": "https://video-images.vice.com/articles/64d251d1b224be4575ebe0e4/lede/1691505106296-tarek.jpeg?image-resize-opts=Y3JvcD0wLjg1OXh3OjF4aDswLjA5MDN4dywweGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Mahoro Seward, Frankie Dunn",
-      "content": "",
-      "description": "From Loewe raffia baskets to Bottega Veneta Andiamo totes, here's the lowdown on the season's must-have beach bags.",
-      "publishedAt": "2023-08-08T13:10:13Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Fashion's biggest buyers on this summer's hottest It-bags",
-      "url": "https://i-d.vice.com/en/article/qjv37p/best-summer-bags-2023",
-      "urlToImage": "https://video-images.vice.com/articles/64d0fd49d2560930429f784c/lede/1691499445289-it-bag-collage2.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
     }
   ],
   "status": "ok",
-  "totalResults": 294
+  "totalResults": 283
 }
