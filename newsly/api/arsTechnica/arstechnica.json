@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Scharon Harding",
+      "description": "Bambu Lab says it will help with repairs, replacement parts.",
+      "publishedAt": "2023-08-22T18:25:04+00:00",
+      "title": "3D printers printing without consent is a cautionary tale on cloud reliance",
+      "url": "https://arstechnica.com/gadgets/2023/08/3d-printers-print-break-on-their-own-due-to-cloud-outage/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/bambu-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Visualization and analytics tools available in preview, but may be paywalled.",
+      "publishedAt": "2023-08-22T17:15:44+00:00",
+      "title": "Excel gets containerized, cloud-based Python analytics and visualization powers",
+      "url": "https://arstechnica.com/information-technology/2023/08/you-can-now-wield-python-analytics-inside-excel-but-microsoft-says-its-safe/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-22-at-12.11.30-PM-760x380.png"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The rule would apply to cars, trucks, and smaller buses.",
+      "publishedAt": "2023-08-22T16:46:39+00:00",
+      "title": "Passenger seat belt warnings should be mandatory, say feds",
+      "url": "https://arstechnica.com/cars/2023/08/passenger-seat-belt-warnings-should-be-mandatory-say-feds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-867247740-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "ART, the Android runtime, can bring Android 14 improvements to older devices.",
+      "publishedAt": "2023-08-22T16:07:32+00:00",
+      "title": "Google says its Android runtime makes apps faster, even without an OS update",
+      "url": "https://arstechnica.com/gadgets/2023/08/googles-android-updates-have-improved-app-startups-by-30-percent/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/android-google-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Higher reported clock speed for Arc A380 doesn't actually increase performance.",
+      "publishedAt": "2023-08-22T15:43:53+00:00",
+      "title": "Do Intel\u2019s new graphics drivers actually overclock its low-end GPUs?",
+      "url": "https://arstechnica.com/gadgets/2023/08/no-intel-isnt-overclocking-arc-graphics-cards-with-a-driver-update/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/arc-gpus-1-2-760x380.jpeg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "UK still needs to approve the new deal, which could extend far beyond Ubisoft+.",
+      "publishedAt": "2023-08-22T14:25:35+00:00",
+      "title": "New offer gives Ubisoft, not Microsoft, control of Activision game-streaming rights",
+      "url": "https://arstechnica.com/gaming/2023/08/to-appease-uk-regulators-microsoft-offers-activisions-streaming-rights-to-ubisoft/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/ubiplus-760x380.jpeg"
+    },
+    {
+      "author": "Will Knight, wired.com",
+      "description": "AI can be very easily harnessed to produce and disseminate misinformation.",
+      "publishedAt": "2023-08-22T13:21:52+00:00",
+      "title": "Crypto botnet on X is powered by ChatGPT",
+      "url": "https://www.wired.com/story/chat-gpt-crypto-botnet-scam/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/botnet-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Games will be presented \"without alteration\" to match \"creator's original vision.\"",
+      "publishedAt": "2023-08-22T12:27:21+00:00",
+      "title": "Konami warns players of \u201coutdated\u201d content in Metal Gear Solid collection",
+      "url": "https://arstechnica.com/gaming/2023/08/metal-gear-solid-re-release-features-disclaimer-for-outdated-content/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/mgs-760x380.jpeg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "No country besides China has successfully landed on the Moon since 1976.",
       "publishedAt": "2023-08-22T00:25:03+00:00",
@@ -15,70 +79,6 @@
       "title": "Political polarization toned down through anonymous online chats",
       "url": "https://arstechnica.com/science/2023/08/anonymous-online-conversations-can-cut-political-polarization/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1280843670-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Letter from 1475 contains proteins suggesting he suffered from hemolacria, respiratory problems.",
-      "publishedAt": "2023-08-21T21:58:15+00:00",
-      "title": "Scientists find evidence that Vlad the Impaler shed bloody tears",
-      "url": "https://arstechnica.com/science/2023/08/vlad-the-impaler-may-have-shed-tears-of-blood-study-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/vlad1-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"I\u2019m a public company, I can\u2019t make this shit up.\"",
-      "publishedAt": "2023-08-21T21:31:02+00:00",
-      "title": "Chris Kemp unplugged\u2014Astra\u2019s CEO dishes on the space company\u2019s struggles",
-      "url": "https://arstechnica.com/space/2023/08/chris-kemp-unplugged-astras-ceo-dishes-on-the-space-companys-struggles/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1241184763-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The variant has grabbed attention, but with such limited data, the risk is unclear.",
-      "publishedAt": "2023-08-21T20:17:10+00:00",
-      "title": "BA.2.86 shows just how risky slacking off on COVID monitoring is",
-      "url": "https://arstechnica.com/health/2023/08/ba-2-86-shows-just-how-risky-slacking-off-on-covid-monitoring-is/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-1358937247-760x380.jpeg"
-    },
-    {
-      "author": "Richard Waters and Qianer Liu, Financial Times",
-      "description": "Nvidia\u2019s weakened processors are still more powerful than the alternatives.",
-      "publishedAt": "2023-08-21T17:58:41+00:00",
-      "title": "China keeps buying hobbled Nvidia cards to train its AI models",
-      "url": "https://www.ft.com/content/47f7aefc-3ec0-4f66-80a1-24dcc551a845",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "\"US copyright law protects only works of human creation,\" judge writes.",
-      "publishedAt": "2023-08-21T17:37:41+00:00",
-      "title": "US judge: Art created solely by artificial intelligence cannot be copyrighted",
-      "url": "https://arstechnica.com/tech-policy/2023/08/us-judge-art-created-solely-by-artificial-intelligence-cannot-be-copyrighted/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/A_Recent_Entrance_to_Paradise-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"There is no place for modernization, there is only the mission of survival.\"",
-      "publishedAt": "2023-08-21T16:45:50+00:00",
-      "title": "The failure of Luna 25 cements Putin\u2019s role as a disastrous space leader",
-      "url": "https://arstechnica.com/space/2023/08/putin-wanted-to-make-russia-great-again-in-space-heres-why-he-failed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/04/Vladimir_Putin_in_Vostochny_Cosmodrome_2015-10-14_2-640x215.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "There have been 12 complaints of power loss following the software update.",
-      "publishedAt": "2023-08-21T15:34:13+00:00",
-      "title": "Ford\u2019s recall of Mustang Mach-Es in 2022 is under investigation by feds",
-      "url": "https://arstechnica.com/cars/2023/08/nhtsa-is-looking-into-a-ford-mustang-mach-e-recall-from-2022/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/2021-Ford-Mustang-Mach-E-6-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "After three decades in the role, Martinet won't appear in Super Mario Wonder.",
-      "publishedAt": "2023-08-21T15:24:21+00:00",
-      "title": "It\u2019s-a-no-longer me: Charles Martinet steps down as Mario\u2019s voice [Updated]",
-      "url": "https://arstechnica.com/gaming/2023/08/its-a-no-longer-me-charles-martinet-steps-down-as-marios-voice/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/martinet-400x380.jpeg"
     }
   ],
   "sortBy": "top",
