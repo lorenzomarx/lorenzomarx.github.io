@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "Eighteen suspected asylum seekers have been found dead in a forest in northeastern Greece where a wildfire had been raging, according to the fire department.\r\nThe bodies were found near the national \u2026 [+197 chars]",
+      "description": "Bodies found in region bordering Turkey that is a frequent entry point for migrants and refugees.",
+      "publishedAt": "2023-08-22T12:22:33Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Greek forest fire kills 18 suspected asylum seekers in Dadia region",
+      "url": "https://www.aljazeera.com/news/2023/8/22/greek-forest-fire-kills-18-suspected-asylum-seekers-in-dadia",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/32G4288-preview-1692706328.jpg?resize=1800%2C1200&quality=80"
+    },
+    {
       "author": "Sumayya Ismail",
       "content": "Johannesburg, South Africa Delegates from the worlds major emerging economies, and dozens of leaders from across the developing world, are meeting in Johannesburg for the BRICS summit starting Tuesda\u2026 [+8718 chars]",
       "description": "As the grouping of five emerging economies meets in South Africa, here\u2019s what to expect.",
@@ -1286,21 +1299,8 @@
       "title": "Spain beat England 1-0 to win first Women\u2019s World Cup title",
       "url": "https://www.aljazeera.com/sports/2023/8/20/spain-beat-england-1-0-2023-womens-world-cup-final",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/GettyImages-1626994942-1692527586.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Chris Muronzi",
-      "content": "Harare, Zimbabwe On August 23, six million registered Zimbabwean voters will go to the polls to choose the countrys president.\r\nWhile the focus is mostly on the high-stakes presidential contest, acro\u2026 [+5903 chars]",
-      "description": "Ahead of the August 23 election, multiple issues are at stake including Zimbabwe's long-running economic woes.",
-      "publishedAt": "2023-08-20T10:11:42Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Five key issues at stake in the Zimbabwe elections",
-      "url": "https://www.aljazeera.com/news/2023/8/20/five-key-issues-at-stake-in-the-zimbabwe-elections",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-07-16T000000Z_1773800468_RC2B42AIUE7E_RTRMADP_3_ZIMBABWE-ELECTION-1692184246.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1295
+  "totalResults": 1296
 }
