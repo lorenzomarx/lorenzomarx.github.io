@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Haomiao Huang",
+      "description": "Until recently, AI models were specialized tools. Modern LLMs are different.",
+      "publishedAt": "2023-08-23T11:30:59+00:00",
+      "title": "How ChatGPT turned generative AI into an \u201canything tool\u201d",
+      "url": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\u201cWe\u2019re humbled every time we learn something.\"",
       "publishedAt": "2023-08-22T23:53:09+00:00",
@@ -71,14 +79,6 @@
       "title": "Nvidia announces a community-made RTX remaster of Half-Life 2",
       "url": "https://arstechnica.com/gaming/2023/08/half-life-2-will-get-a-ray-tracing-remaster-using-rtx-remix/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Half-Life-2-RTX-on-760x380.png"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Meta aims for a universal translator like \"Babel Fish\" from Hitchhiker\u2019s Guide.",
-      "publishedAt": "2023-08-22T19:57:12+00:00",
-      "title": "Meta\u2019s \u201cmassively multilingual\u201d AI model translates up to 100 languages, speech or text",
-      "url": "https://arstechnica.com/information-technology/2023/08/metas-massively-multilingual-ai-model-translates-up-to-100-languages-speech-or-text/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/ai_translation_hero-760x380.jpg"
     }
   ],
   "sortBy": "top",
