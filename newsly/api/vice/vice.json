@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "author": "Frankie Dunn, Nicole DeMarco",
+      "content": "",
+      "description": "Photographer India Bharadwaj captured the best dressed at Boiler Room's historic event in West London's 'Little Punjab'.",
+      "publishedAt": "2023-08-23T10:02:53Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "A celebration of South Asian music in Southall",
+      "url": "https://i-d.vice.com/en/article/wxjzz9/southall-south-asian-underground-music-scene",
+      "urlToImage": "https://video-images.vice.com/articles/64e39f3c033559ba3848c97f/lede/1692639229257-southall.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45NzAxeGg7MHh3LDAuMDA2OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
+      "author": "Sam Moore, Ryan White",
+      "content": "",
+      "description": "From 'The Exorcist' to 'Cruising', five epics from Hollywood's late king of psychological thrillers.",
+      "publishedAt": "2023-08-23T07:50:55Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "How to get into... William Friedkin movies",
+      "url": "https://i-d.vice.com/en/article/epva5e/where-to-begin-with-william-friedkin-movies",
+      "urlToImage": "https://video-images.vice.com/articles/64e52c7f033559ba38492e78/lede/1692741230209-l-intro-1648583863.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "James Balmont, Roisin Lanigan",
+      "content": "",
+      "description": "The BFI's 'Acting Hard' series celebrates the works of some forgotten British cult classics.",
+      "publishedAt": "2023-08-23T07:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "6 vital films exploring working-class masculinity",
+      "url": "https://i-d.vice.com/en/article/g5yddq/6-vital-films-exploring-working-class-masculinity",
+      "urlToImage": "https://video-images.vice.com/articles/64e3389212db225893c3c88e/lede/1692612811034-sweet-sixteen-01-copy.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Mary Frances \"Francky\" Knapp, Hilary Pollack, Gregory Babcock",
       "content": "Smelling good is nice, but you know what\u2019s better? Smelling like a dewy sunrise in the Japanese countryside, or a rich person\u2019s home spa in Topanga Canyon. At this age, you deserve only the best body\u2026 [+5319 chars]",
       "description": "Whether you\u2019re on a Dr. Bronner\u2019s budget or splurging on Aesop, these body washes will leave your skin feeling fresh and hydrated.",
@@ -249,19 +288,6 @@
     },
     {
       "author": "Randon Rosenbohm, Sara David",
-      "content": "We confront a seedy underbelly with grace as the moon in Libra clashes with power planet Pluto at 4:19 PM. Peace and calm come as the moon connects with the sun at 4:30 PM, connecting us to our happi\u2026 [+3330 chars]",
-      "description": "The moon enters magical Scorpio.",
-      "publishedAt": "2023-08-20T21:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Daily Horoscope: August 21, 2023",
-      "url": "https://www.vice.com/en/article/4a3njb/daily-horoscope-august-21-2023",
-      "urlToImage": "https://video-images.vice.com/articles/64d138fce35804d1155f70a3/lede/1691433286213-5leovirgoweekly211920x1080.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Randon Rosenbohm, Sara David",
       "content": "We\u2019re acting with our best interests in mind as love planet Venus clashes with Jupiter on Tuesday, August 22, at 8:16 AM. We\u2019re making changes based on what feels good, and taking a first step.\r\nA li\u2026 [+10375 chars]",
       "description": "Welcome to Virgo season! Mercury is retrograde.",
       "publishedAt": "2023-08-20T21:00:00Z",
@@ -272,6 +298,19 @@
       "title": "Weekly Horoscope: August 21 - 27",
       "url": "https://www.vice.com/en/article/wxjzjn/weekly-horoscope-august-21-27",
       "urlToImage": "https://video-images.vice.com/articles/64dcc734fdc13638a8861f4f/lede/1692193291037-5virgoweekly31920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "Randon Rosenbohm, Sara David",
+      "content": "We confront a seedy underbelly with grace as the moon in Libra clashes with power planet Pluto at 4:19 PM. Peace and calm come as the moon connects with the sun at 4:30 PM, connecting us to our happi\u2026 [+3330 chars]",
+      "description": "The moon enters magical Scorpio.",
+      "publishedAt": "2023-08-20T21:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Daily Horoscope: August 21, 2023",
+      "url": "https://www.vice.com/en/article/4a3njb/daily-horoscope-august-21-2023",
+      "urlToImage": "https://video-images.vice.com/articles/64d138fce35804d1155f70a3/lede/1691433286213-5leovirgoweekly211920x1080.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
     },
     {
       "author": "Randon Rosenbohm, Sara David",
@@ -1260,47 +1299,8 @@
       "title": "Russia Will Launch Its First Mission to the Moon in Decades Tomorrow",
       "url": "https://www.vice.com/en/article/xgwv8d/russia-will-launch-its-first-mission-to-the-moon-in-decades-tomorrow",
       "urlToImage": "https://video-images.vice.com/articles/64d3f7a7c13cc5d7987b2dae/lede/1691613341661-gettyimages-525252284.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDIzeGg7MHh3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
-    },
-    {
-      "author": "Velvet Coke , Frankie Dunn",
-      "content": "",
-      "description": "Following its 20-year anniversary, Velvet Coke examines its cultural impact.",
-      "publishedAt": "2023-08-10T09:59:45Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "9 times The O.C. slayed so hard that slay lost all meaning",
-      "url": "https://i-d.vice.com/en/article/y3wb7y/the-oc-anniversary-cultural-impact",
-      "urlToImage": "https://video-images.vice.com/articles/64cd00d93463f3585bdc0da6/lede/1691594429982-cfgogejuiaeymdj.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45OTkyMTg3NXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Barry Pierce, Roisin Lanigan",
-      "content": "",
-      "description": "And more importantly, how do we stop it?",
-      "publishedAt": "2023-08-10T09:49:48Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "WTF is cornplating?",
-      "url": "https://i-d.vice.com/en/article/y3wnm5/what-is-cornplating-meaning",
-      "urlToImage": "https://video-images.vice.com/articles/64d35d66c13cc5d7987b10b6/lede/1691599558171-image-15.png?image-resize-opts=Y3JvcD0xeHc6MC45OTg3NjY5NTQzNzczMTJ4aDtjZW50ZXIsY2VudGVyJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-    },
-    {
-      "author": "Luis Chaparro, Deborah Bonello",
-      "content": "LA RUANA, Mexico\u2014A quiet morning in La Ruana, a tiny town in the troubled Mexican state of Michoac\u00e1n, was interrupted by a convoy of three white pickup trucks careening down the road at full speed.\u00a0\r\u2026 [+11808 chars]",
-      "description": "The killing of Hip\u00f3lito Mora in Mexico in June has raised questions about the future of a civil uprising against the cartels that began a decade ago.",
-      "publishedAt": "2023-08-10T09:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "He Started an Armed Revolt Against the Cartels. His Murder Could be the End of It.",
-      "url": "https://www.vice.com/en/article/g5ydpb/mexico-self-defense-hipolito-mora-killing",
-      "urlToImage": "https://video-images.vice.com/articles/64d3c2cf1e6a5796d1d1c6f8/lede/1691601732818-mexico-self-defense-hipolito-mora-killing6jpg7.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDMzeGg7MHh3LDAuMDUwN3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
     }
   ],
   "status": "ok",
-  "totalResults": 293
+  "totalResults": 296
 }
