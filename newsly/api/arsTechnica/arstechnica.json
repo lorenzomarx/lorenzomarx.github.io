@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "Child groups asked the FTC to investigate YouTube ad placements on kids' videos.",
+      "publishedAt": "2023-08-23T20:32:10+00:00",
+      "title": "YouTube may face billions in fines if FTC confirms child privacy violations",
+      "url": "https://arstechnica.com/tech-policy/2023/08/youtube-may-face-billions-in-fines-if-ftc-confirms-child-privacy-violations/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1229862685-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Developers can now bring their own data to customize GPT-3.5 Turbo outputs.",
+      "publishedAt": "2023-08-23T20:16:02+00:00",
+      "title": "You can now train ChatGPT on your own documents via API",
+      "url": "https://arstechnica.com/information-technology/2023/08/you-can-now-train-chatgpt-on-your-own-documents-via-api/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/robot_training-760x380.jpg"
+    },
+    {
       "author": "Ron Amadeo",
       "description": "After a decade in the market with nothing to show for it, here's the latest plan.",
       "publishedAt": "2023-08-23T20:00:40+00:00",
@@ -52,7 +68,7 @@
       "author": "Andrew Cunningham",
       "description": "Though thankfully, most features aren't in the \"just add ChatGPT to it\" genre.",
       "publishedAt": "2023-08-23T18:12:21+00:00",
-      "title": "Report: Microsoft is \u201cexperimenting\u201d with ways to work AI into bedrock Windows",
+      "title": "Report: Microsoft is \u201cexperimenting\u201d with working AI into bedrock Windows apps",
       "url": "https://arstechnica.com/gadgets/2023/08/windows-utilities-like-paint-and-snipping-tool-could-get-an-ai-infusion-soon/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/win11-dark-wallpaper-760x380.jpeg"
     },
@@ -63,22 +79,6 @@
       "title": "India becomes the fourth country to land a spacecraft on the Moon",
       "url": "https://arstechnica.com/space/2023/08/india-becomes-the-fourth-country-to-land-a-spacecraft-on-the-moon/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/c3landingsite-1-760x380.jpeg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Humans are still \"in the driver's seat,\" but it could make code more modular.",
-      "publishedAt": "2023-08-23T16:34:24+00:00",
-      "title": "IBM\u2019s generative AI tool aims to refactor ancient COBOL code for its mainframes",
-      "url": "https://arstechnica.com/information-technology/2023/08/ibms-generative-ai-tool-aims-to-refactor-ancient-cobol-code-for-its-mainframes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/cobol_73-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Previously known as \"PlayStation Q,\" the handheld is far from a new PlayStation Vita.",
-      "publishedAt": "2023-08-23T15:10:57+00:00",
-      "title": "Sony\u2019s $200 handheld \u201cPortal\u201d can stream games from your PS5 and, uh, that\u2019s it",
-      "url": "https://arstechnica.com/gaming/2023/08/sonys-200-handheld-portal-can-stream-games-from-your-ps5-and-uh-thats-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/psportal-760x380.jpeg"
     }
   ],
   "sortBy": "top",
