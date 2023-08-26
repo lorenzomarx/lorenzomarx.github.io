@@ -1,20 +1,12 @@
 {
   "articles": [
     {
-      "author": "JONATHAN J. COOPER",
-      "description": "A camera clicks. In a fraction of a second, the shutter opens and then closes, freezing forever the image in front of it.When the camera shutter blinked inside a jail in downtown Atlanta on Thursday, it both created and documented a tiny inflection point in American life.",
-      "publishedAt": "2023-08-25T01:25:19Z",
-      "title": "One image, one face, one American moment: The Donald Trump mug shot",
-      "url": "https://apnews.com/839920116a244df3e55bdedf33820a80",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/8a78038c24a84b58846d4024c2e25136/2700.jpeg"
-    },
-    {
       "author": "The Associated Press",
-      "description": "The Kremlin on Friday rejected allegations it was behind a plane crash that is presumed to have killed mercenary leader Yevgeny Prigozhin, whose brutal fighters were feared in Ukraine, Africa and Syria and conducted a brief but shocking mutiny in Russia two months ago.",
+      "description": "The Kremlin on Friday rejected allegations it was behind a plane crash that is presumed to have killed mercenary leader Yevgeny Prigozhin, who conducted a brief but shocking mutiny in Russia two months ago.",
       "publishedAt": "2023-08-25T09:28:55Z",
       "title": "Kremlin denies role in plane crash believed to have killed Russian mercenary leader Prigozhin",
       "url": "https://apnews.com/1237eb57870538e52938839bcaa6675f",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/41793bad9a7045c2990a8383fcee382e/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/64e68a6f5ade477999b027c2d2c9e5e4/1920.jpeg"
     },
     {
       "author": "DASHA LITVINOVA",
@@ -22,15 +14,47 @@
       "publishedAt": "2023-08-25T07:51:33Z",
       "title": "Nerve agents, poison and window falls. Over the years, Kremlin foes have been attacked or killed",
       "url": "https://apnews.com/5d4f8506b89bfa8848fd88529701db7c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/127334838e6844988f81fb78277550b1/3000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e7cd7b2feac3424bbf3c1283ca5ffc95/3000.jpeg"
+    },
+    {
+      "author": "JONATHAN J. COOPER",
+      "description": "A camera clicks. In a fraction of a second, the shutter opens and then closes, freezing forever the image in front of it.When the camera shutter blinked inside an Atlanta jail on Thursday, it both created and documented a tiny inflection point in American life.",
+      "publishedAt": "2023-08-25T01:25:19Z",
+      "title": "One image, one face, one American moment: The Donald Trump mug shot",
+      "url": "https://apnews.com/839920116a244df3e55bdedf33820a80",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/8a78038c24a84b58846d4024c2e25136/2700.jpeg"
+    },
+    {
+      "author": "CHRISTOPHER RUGABER",
+      "description": "JACKSON HOLE, Wyoming (AP) \u2014 The continued strength of the U.S. economy could require further interest rate increases, Federal Reserve Chair Jerome Powell said Friday in a closely watched speech that also highlighted the uncertain nature of the economic outlook.",
+      "publishedAt": "2023-08-25T04:01:30Z",
+      "title": "Economy's solid growth could require more Fed hikes to fight inflation, Powell says at Jackson Hole",
+      "url": "https://apnews.com/9a720711618c0cfd851b51b0786af4f0",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/69915e1cf351440bb5193ae4c9f40a49/3000.jpeg"
+    },
+    {
+      "author": null,
+      "description": "LAHAINA, Hawaii (AP) \u2014 Maui County released the names of 388 people still missing Thursday more than two weeks after the deadliest U.S.",
+      "publishedAt": "2023-08-25T11:18:23Z",
+      "title": "Maui has released the names of 388 people still missing after deadly wildfire",
+      "url": "https://apnews.com/f0b02f12fad83690d9dfcedfd414b726",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/54ef00c42cda48e09292c6baf190fdf9/3000.jpeg"
+    },
+    {
+      "author": "JAMES POLLARD",
+      "description": "COLUMBIA, S.C. (AP) \u2014 When the South Carolina Supreme Court upheld a ban on most abortions this week, the majority wrote that they were leaving \u201cfor another day\u201d a decision on when, exactly, the \u201cfetal heartbeat\u201d limit begins during pregnancy.",
+      "publishedAt": "2023-08-25T04:22:39Z",
+      "title": "South Carolina abortion ban with unclear 'fetal heartbeat' definition creates confusion, doctors say",
+      "url": "https://apnews.com/a2f515537739a0a4b16c049f90821a3f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/afb52dac02474d89816a70feedf9a111/3000.jpeg"
     },
     {
       "author": "JOSEPH WILSON",
-      "description": "BARCELONA, Spain (AP) \u2014 Facing his possible removal from office, the president of the Spanish soccer federation refused to resign Friday despite an uproar for kissing a player on the lips without her consent after the Women\u2019s World Cup final.",
+      "description": "BARCELONA, Spain (AP) \u2014 The embattled president of Spain\u2019s soccer federation defiantly refused to step down Friday after insisting that a kiss on the lips with Women's Soccer player Jenni Hermoso was consensual, an assertion that Hermoso strongly denied.",
       "publishedAt": "2023-08-25T05:42:41Z",
-      "title": "Spanish soccer president refuses to resign despite kissing a player on the lips at Women's World Cup",
+      "title": "Spanish soccer player says a kiss on the lips with federation president was not consensual",
       "url": "https://apnews.com/3be367f0de6fbf1984e4885df0dcb00c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d9ce6348a0e642c189d48d4a4a16d9d3/3000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5bca965bdaa94b90b5f30d09c7b6c5df/3000.jpeg"
     },
     {
       "author": "NATHAN ELLGREN and GARY FIELDS",
@@ -38,23 +62,7 @@
       "publishedAt": "2023-08-25T04:25:42Z",
       "title": "Visitors to Lincoln Memorial say America has its flaws but see gains made since March on Washington",
       "url": "https://apnews.com/3d293b2027b56094a906a6fac426d77f",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/345269e4beae47c59a88b929b61e73dc/3000.jpeg"
-    },
-    {
-      "author": "NASSER KARIMI and JON GAMBRELL",
-      "description": "TEHRAN, Iran (AP) \u2014 Seventy years after a CIA-orchestrated coup toppled Iran's prime minister, its legacy remains both contentious and complicated for the Islamic Republic as tensions stay high with the United States.",
-      "publishedAt": "2023-08-25T05:11:13Z",
-      "title": "A CIA-backed 1953 coup in Iran haunts the country with people still trying to make sense of it",
-      "url": "https://apnews.com/3d391c0255308a7c13d32d3c88e5f54f",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/54f4985235b641a3a79064a13e503ea9/3000.jpeg"
-    },
-    {
-      "author": "JENNIFER SINCO KELLEHER and GENE JOHNSON",
-      "description": "HONOLULU (AP) \u2014 Maui County sued Hawaiian Electric Company on Thursday over the fires that devastated Lahaina, saying the utility negligently failed to shut off power despite exceptionally high winds and dry conditions.",
-      "publishedAt": "2023-08-24T20:57:28Z",
-      "title": "Maui County sues power company, saying utility did not turn off electricity during deadly wildfires",
-      "url": "https://apnews.com/c3513c2f8e451df6dab2e59a6c2f670d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/75bd7f9f52284b30b474919d219cb504/3000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/976ff0d67f124d6bbaad3c052f2a8d63/1920.jpeg"
     },
     {
       "author": "COLLEEN LONG and LINLEY SANDERS",
@@ -65,20 +73,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/a04779b8bc394556b55669cf077c98c2/3000.jpeg"
     },
     {
-      "author": "KELVIN CHAN",
-      "description": "LONDON (AP) \u2014 Starting Friday, Europeans will see their online life change.People in the 27-nation European Union can alter some of what shows up when they search, scroll and share on the biggest social media platforms like TikTok, Instagram and Facebook and other tech giants like Google and Amazon.",
-      "publishedAt": "2023-08-25T04:57:33Z",
-      "title": "Europe is cracking down on Big Tech. This is what will change when you sign on",
-      "url": "https://apnews.com/0fa3146efd38b88383899f9560c0ee5a",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f89c3a053f5a41c6abef83bff3086b34/3000.jpeg"
-    },
-    {
-      "author": "KARL RITTER and JAN M. OLSEN",
-      "description": "STOCKHOLM (AP) \u2014 It's a common term these days, deployed to describe the bond that victims of kidnappings or hostage situations sometimes develop with their captors: \u201cStockholm syndrome.\u201d And it got its name 50 years ago this week, during a failed bank robbery in Sweden's capital.",
-      "publishedAt": "2023-08-25T04:49:21Z",
-      "title": "What is Stockholm syndrome? It all started with a bank robbery 50 years ago",
-      "url": "https://apnews.com/023ddcd3a14ac00a0ba88feb838574b3",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/bc71c86f29f0428e84e9e6e60e51f1c3/3000.jpeg"
+      "author": "The Associated Press",
+      "description": "A roundup of some of the most popular but completely untrue stories and visuals of the week. None of these are legit, even though they were shared widely on social media. The Associated Press checked them out.",
+      "publishedAt": "2023-08-25T16:30:43Z",
+      "title": "NOT REAL NEWS: A look at what didn't happen this week",
+      "url": "https://apnews.com/c6a87aa75d8474816a2f822e7e01e235",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/372ed27ed2a448178bb6b473e3df9da5/3000.jpeg"
     }
   ],
   "sortBy": "top",

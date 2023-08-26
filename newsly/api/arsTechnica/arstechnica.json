@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Highlights include a distinctive 3-cylinder burble and an adjustable torque-split.",
+      "publishedAt": "2023-08-25T17:54:45+00:00",
+      "title": "Not your average Toyota: The all-wheel drive GR Corolla, reviewed",
+      "url": "https://arstechnica.com/cars/2023/08/toyotas-rally-bred-hot-hatch-the-300-hp-awd-gr-corolla-reviewed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/2023-Toyota-GR-Corolla-1-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Gmail isn't a common carrier and is protected by Section 230, judge rules.",
+      "publishedAt": "2023-08-25T15:48:20+00:00",
+      "title": "Judge tears apart Republican lawsuit alleging bias in Gmail spam filter",
+      "url": "https://arstechnica.com/tech-policy/2023/08/judge-tears-apart-republican-lawsuit-alleging-bias-in-gmail-spam-filter/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/getty-spam-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "At $449 and $499, the cards both undercut Nvidia, at least for now.",
+      "publishedAt": "2023-08-25T15:30:37+00:00",
+      "title": "AMD Radeon RX 7700 XT and 7800 XT will go up against Nvidia\u2019s 4070 and 4060 Ti",
+      "url": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/7700-7800-1-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "FSR 3 is AMD's open, GPU-agnostic answer to Nvidia's DLSS Frame Generation.",
+      "publishedAt": "2023-08-25T15:30:34+00:00",
+      "title": "AMD\u2019s FPS-doubling FSR 3 is coming soon, and not just to Radeon graphics cards",
+      "url": "https://arstechnica.com/gaming/2023/08/amds-fps-doubling-fsr-3-is-coming-soon-and-not-just-to-radeon-graphics-cards/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/fsr-3-1-760x380.jpeg"
+    },
+    {
+      "author": "Rupendra Brahambhatt",
+      "description": "The material isn't especially efficient, but improvements should be possible.",
+      "publishedAt": "2023-08-25T14:54:02+00:00",
+      "title": "New material provides clean water and electricity using nothing but the Sun",
+      "url": "https://arstechnica.com/science/2023/08/new-material-provides-clean-water-and-electricity-using-nothing-but-the-sun/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1403097147-1.jpg"
+    },
+    {
+      "author": "Emily Mullin, wired.com",
+      "description": "New brain-computer interfaces are faster than existing solutions.",
+      "publishedAt": "2023-08-25T13:52:07+00:00",
+      "title": "AI-powered brain implants help paralyzed patients communicate faster than ever",
+      "url": "https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/implant-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "What's the point of locks when hackers can easily get the keys to unlock them?",
+      "publishedAt": "2023-08-25T13:17:24+00:00",
+      "title": "Microsoft signing keys keep getting hijacked, to the delight of Chinese threat actors",
+      "url": "https://arstechnica.com/security/2023/08/facing-failure-after-failure-microsofts-driver-signing-program-fails-yet-again/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/error-message-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "Elon Musk may again be in trouble for his social media posts.",
       "publishedAt": "2023-08-25T11:00:55+00:00",
@@ -23,62 +79,6 @@
       "title": "FDA cracks down on bogus anti-viral products from Amazon, Walmart",
       "url": "https://arstechnica.com/health/2023/08/fda-warns-amazon-to-stop-selling-bogus-anti-poxvirus-products-for-kids/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/196_lores-700x380.jpeg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "New system scans over 1,000 cameras for signs of smoke\u2014with 77 hits so far.",
-      "publishedAt": "2023-08-24T21:50:42+00:00",
-      "title": "California deploys AI-powered wildfire detection systems",
-      "url": "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/wildfiles_getty-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Scientists partially reconstruct debris drift path based on ocean temp data stored in shells.",
-      "publishedAt": "2023-08-24T21:37:09+00:00",
-      "title": "Barnacles could hold key to finding wreckage of Malaysia Airlines MH370",
-      "url": "https://arstechnica.com/science/2023/08/barnacles-could-hold-key-to-finding-wreckage-of-malaysia-airlines-mh370/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/flightTOP-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Everyone being friendly on Zoom stifles creativity, Zoom founder said.",
-      "publishedAt": "2023-08-24T20:28:38+00:00",
-      "title": "Zoom\u2019s CEO thinks Zoom sucks for building trust, leaked audio reveals",
-      "url": "https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1312119575-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "It's not the most exciting annual update, but there are some welcome additions.",
-      "publishedAt": "2023-08-24T20:16:45+00:00",
-      "title": "Parallels Desktop 19 gets Sonoma-ready, expands OpenGL and Linux support",
-      "url": "https://arstechnica.com/gadgets/2023/08/parallels-desktop-19-gets-sonoma-ready-expands-opengl-and-linux-support/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Windows-PD-19-760x380.png"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "\"Either let it be, or shut this thing down and get a real remaster going.\"",
-      "publishedAt": "2023-08-24T19:53:43+00:00",
-      "title": "Leaked Wipeout source code leads to near-total rewrite and remaster",
-      "url": "https://arstechnica.com/gaming/2023/08/developer-rewrites-original-wipeout-from-abysmal-leaked-windows-source/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-24-at-2.11.05-PM-760x380.png"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Starting Friday, the EU will require more transparency from platforms than ever.",
-      "publishedAt": "2023-08-24T19:16:26+00:00",
-      "title": "Big Tech isn\u2019t ready for landmark EU rules that take effect tomorrow [Updated]",
-      "url": "https://arstechnica.com/tech-policy/2023/08/big-tech-isnt-ready-for-landmark-eu-rules-that-take-effect-tomorrow/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1126061785-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Everybody wants GPUs for AI, and that's making Nvidia very happy (and rich).",
-      "publishedAt": "2023-08-24T19:03:56+00:00",
-      "title": "For Nvidia, it\u2019s AI or bust as it reports a record-breaking quarter",
-      "url": "https://arstechnica.com/information-technology/2023/08/nvidia-thinks-ai-boom-is-far-from-over-as-gpu-sales-drive-big-earnings-win/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/robot_victor_3-760x380.jpg"
     }
   ],
   "sortBy": "top",
