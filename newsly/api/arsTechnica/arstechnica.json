@@ -1,84 +1,84 @@
 {
   "articles": [
     {
-      "author": "Ron Amadeo",
-      "description": "The Fairphone 5 will keep on trucking until at least 2031.",
-      "publishedAt": "2023-08-30T10:30:07+00:00",
-      "title": "Fairphone 5 sets a new standard with 8-10 years of Android support",
-      "url": "https://arstechnica.com/gadgets/2023/08/fairphone-5-sets-a-new-standard-with-8-10-years-of-android-support/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Modularity-16x9-1-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Much of the drugs' costs are due to repeated price hikes over the years.",
-      "publishedAt": "2023-08-29T23:00:16+00:00",
-      "title": "The 10 drugs up for Medicare price negotiation have seen steep price hikes",
-      "url": "https://arstechnica.com/health/2023/08/the-10-drugs-up-for-medicare-price-negotiation-have-seen-steep-price-hikes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-520882250-760x380.jpg"
-    },
-    {
       "author": "Jon Brodkin",
-      "description": "X, n\u00e9e Twitter, greenlights wider range of political advertising.",
-      "publishedAt": "2023-08-29T21:13:49+00:00",
-      "title": "After Musk\u2019s mass layoffs, X says it\u2019s expanding safety and election teams",
-      "url": "https://arstechnica.com/tech-policy/2023/08/after-musks-mass-layoffs-x-says-its-expanding-safety-and-election-teams/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-twitter-x-logos-760x380.jpg"
+      "description": "Comcast and other ISPs asked FCC to ditch listing-every-fee rule. FCC says \"no.\"",
+      "publishedAt": "2023-08-30T18:28:37+00:00",
+      "title": "FCC says \u201ctoo bad\u201d to ISPs complaining that listing every fee is too hard",
+      "url": "https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-760x380.jpg"
     },
     {
-      "author": "Benj Edwards",
-      "description": "Google's new kitchen-sink AI branding is everything to everyone in every Workspace app.",
-      "publishedAt": "2023-08-29T20:27:02+00:00",
-      "title": "Google\u2019s $30-per-month \u201cDuet\u201d AI will craft awkward emails, images for you",
-      "url": "https://arstechnica.com/information-technology/2023/08/googles-30-per-month-duet-ai-will-craft-awkward-emails-images-for-you/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/google_duet_robot_3-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Public Knowledge and iFixit want the right to repair commercial kitchen gear.",
-      "publishedAt": "2023-08-29T20:08:23+00:00",
-      "title": "iFixit tears down a McDonald\u2019s ice cream machine, demands DMCA exemption for it",
-      "url": "https://arstechnica.com/gadgets/2023/08/mcdonalds-ice-cream-machine-teardown-shows-error-codes-dmca-keep-it-broken/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-29-at-2.59.49-PM-760x380.png"
+      "author": "Stephen Clark",
+      "description": "\"I'm not sure who thought it was a good idea to put up CubeSats with Artemis I.\"",
+      "publishedAt": "2023-08-30T18:12:18+00:00",
+      "title": "NASA officials sound alarm over future of the Deep Space Network",
+      "url": "https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/50956743932_5a9e5d990b_k-760x380.jpg"
     },
     {
       "author": "Ashley Belanger",
-      "description": "Court\u2019s order is not yet finalized but could significantly reduce damages.",
-      "publishedAt": "2023-08-29T19:46:40+00:00",
-      "title": "Google escapes Play Store class action after finding more persuasive expert",
-      "url": "https://arstechnica.com/tech-policy/2023/08/google-escapes-play-store-class-action-after-finding-more-persuasive-expert/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1235737290-760x380.jpg"
+      "description": "Authors claim generative AI is just a \"grift\" that repackages original works.",
+      "publishedAt": "2023-08-30T17:31:05+00:00",
+      "title": "OpenAI disputes authors\u2019 claims that every ChatGPT response is a derivative work",
+      "url": "https://arstechnica.com/tech-policy/2023/08/openai-disputes-authors-claims-that-every-chatgpt-response-is-a-derivative-work/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-526187182-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "When UNC4841 infected gov't and military networks, it was just getting started.",
+      "publishedAt": "2023-08-30T17:31:04+00:00",
+      "title": "Barracuda thought it drove 0-day hackers out of customers\u2019 networks. It was wrong.",
+      "url": "https://arstechnica.com/security/2023/08/barracuda-thought-it-drove-0-day-hackers-out-of-customers-networks-it-was-wrong/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/china-inside-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Pop-up isn't just a notification, runs as separate .exe in Windows 10 and 11.",
+      "publishedAt": "2023-08-30T17:15:50+00:00",
+      "title": "Microsoft-signed \u201cBGAUpsell.exe\u201d pushes Bing on Windows and Chrome users",
+      "url": "https://arstechnica.com/gadgets/2023/08/microsoft-rolls-out-then-pauses-pop-up-that-asked-chrome-users-to-switch-to-bing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/win11-bing-popup-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The $26,795 van is filled with audio and video recorders, radios, and cameras.",
+      "publishedAt": "2023-08-30T16:52:11+00:00",
+      "title": "Ex-NASA surveillance van with retractable roof cameras goes on sale",
+      "url": "https://arstechnica.com/cars/2023/08/ex-nasa-surveillance-van-with-retractable-roof-cameras-goes-on-sale/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/c9f7f492c53ae1656147cad1691ee5e601bab140-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Two years on a Pixel Pass was supposed to get you a new phone.",
+      "publishedAt": "2023-08-30T16:37:57+00:00",
+      "title": "Google kills two-year \u201cPixel Pass\u201d subscription after just 22 months",
+      "url": "https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chrome_WcXfVjnIRy-760x380.png"
     },
     {
       "author": "John Timmer",
-      "description": "Theories dating back to World War I put to the test with Australian meat ants.",
-      "publishedAt": "2023-08-29T19:34:44+00:00",
-      "title": "Age of Empires and live ants used to test theoretical ideas on combat",
-      "url": "https://arstechnica.com/science/2023/08/age-of-empires-and-live-ants-used-to-test-theoretical-ideas-on-combat/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-532401687-760x380.jpg"
+      "description": "Neptune-sized planet has a density similar to pure silver.",
+      "publishedAt": "2023-08-30T15:55:48+00:00",
+      "title": "Non-gas giant has 73 times Earth\u2019s mass, bewildering its discoverers",
+      "url": "https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/image-8-760x380.jpeg"
     },
     {
-      "author": "Jon Brodkin",
-      "description": "UFC, NBA, NFL want bigger crackdown on pirated streams of live sports.",
-      "publishedAt": "2023-08-29T18:26:48+00:00",
-      "title": "Sports leagues ask US for \u201cinstantaneous\u201d DMCA takedowns and website blocking",
-      "url": "https://arstechnica.com/tech-policy/2023/08/sports-leagues-ask-us-for-instantaneous-dmca-takedowns-and-website-blocking/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-basketball-hoop-760x380.jpg"
+      "author": "Eric Berger",
+      "description": "\"You basically had this really awesome algorithm, this crazy automation.\"",
+      "publishedAt": "2023-08-30T15:29:12+00:00",
+      "title": "SpaceX\u2019s VP of launch shares the company\u2019s special \u201calgorithm\u201d for innovation",
+      "url": "https://arstechnica.com/space/2023/08/spacexs-vp-of-launch-shares-the-companys-special-algorithm-for-innovation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/payload-fairing-760x380.jpg"
     },
     {
-      "author": "Jennifer Ouellette",
-      "description": "Ruth Marie Terry was killed by her husband, Guy Muldavin, who died in 2002.",
-      "publishedAt": "2023-08-29T18:17:33+00:00",
-      "title": "We now know who killed the \u201cLady of the Dunes\u201d",
-      "url": "https://arstechnica.com/science/2023/08/case-closed-killer-of-lady-of-the-dunes-finally-identified/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/dunelady-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Apple's new flagship phones will make their debut on September 12.",
-      "publishedAt": "2023-08-29T17:47:33+00:00",
-      "title": "Invitation sent: Apple will debut the iPhone 15 in September livestream",
-      "url": "https://arstechnica.com/gadgets/2023/08/invitation-sent-apple-will-debut-the-iphone-15-in-september-livestream/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Screenshot-2023-08-29-at-12.23.34-PM-760x380.png"
+      "author": "Will Knight, wired.com",
+      "description": "AI makes it cheap and easy to create propaganda at scale.",
+      "publishedAt": "2023-08-30T13:51:36+00:00",
+      "title": "Researcher builds anti-Russia AI disinformation machine for $400",
+      "url": "https://www.wired.com/story/400-dollars-to-build-an-ai-disinformation-machine/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/disinfo-760x380.jpg"
     }
   ],
   "sortBy": "top",
