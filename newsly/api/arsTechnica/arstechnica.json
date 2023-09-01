@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Chuong Nguyen",
+      "description": "It's a good time to buy a Steelcase office chair, which is now 15% off.",
+      "publishedAt": "2023-08-30T23:44:20+00:00",
+      "title": "Dealmaster: Labor Day discounts on Steelcase chairs, LG OLED TVs, Lenovo laptops, and more",
+      "url": "https://arstechnica.com/shopping/2023/08/dealmaster-labor-day-discounts-on-steelcase-chairs-lg-oled-tvs-lenovo-laptops-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/gesture_gallery-05.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "For the bazillionth time, vaccines do not cause autism\u2014and dog autism is not a thing.",
+      "publishedAt": "2023-08-30T23:07:31+00:00",
+      "title": "Dog autism? 37% of US dog owners buy into anti-vaccine nonsense",
+      "url": "https://arstechnica.com/health/2023/08/dog-autism-37-of-us-dog-owners-buy-into-anti-vaccine-nonsense/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1240267829-760x380.jpeg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Before linking an account, be sure the app you're using is legit.",
+      "publishedAt": "2023-08-30T22:09:14+00:00",
+      "title": "Google removes fake Signal and Telegram apps hosted on Play",
+      "url": "https://arstechnica.com/security/2023/08/google-removes-fake-signal-and-telegram-apps-hosted-on-play/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/google-play-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Should AI-created works be copyrighted? US regulators want to know what you think.",
+      "publishedAt": "2023-08-30T21:34:49+00:00",
+      "title": "Thorny AI ownership questions have Copyright Office seeking public input",
+      "url": "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/homemade_robot_hero-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Cartridge-based microcontroller is easy to move from keyboard to keyboard.",
+      "publishedAt": "2023-08-30T21:08:43+00:00",
+      "title": "The mechanical keyboard that runs on Game Boy cartridge shells",
+      "url": "https://arstechnica.com/gadgets/2023/08/the-mechanical-keyboard-that-runs-on-game-boy-cartridge-shells/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/keyboard-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "You can avoid the price hikes if you tack years onto plans before September 6.",
+      "publishedAt": "2023-08-30T20:29:56+00:00",
+      "title": "Sony wants up to $40 more per year for PlayStation Plus subscriptions",
+      "url": "https://arstechnica.com/gaming/2023/08/playstation-plus-raising-annual-prices-by-up-to-40-later-this-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/psplus-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "USB-C, obviously\u2014but there's more.",
+      "publishedAt": "2023-08-30T20:22:24+00:00",
+      "title": "What to expect from the iPhone 15 and more on September 12",
+      "url": "https://arstechnica.com/gadgets/2023/08/what-to-expect-from-the-iphone-15-and-more-on-september-12/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/IMG_0856-1440x960-1-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Comcast and other ISPs asked FCC to ditch listing-every-fee rule. FCC says \"no.\"",
       "publishedAt": "2023-08-30T18:28:37+00:00",
@@ -23,62 +79,6 @@
       "title": "OpenAI disputes authors\u2019 claims that every ChatGPT response is a derivative work",
       "url": "https://arstechnica.com/tech-policy/2023/08/openai-disputes-authors-claims-that-every-chatgpt-response-is-a-derivative-work/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-526187182-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "When UNC4841 infected gov't and military networks, it was just getting started.",
-      "publishedAt": "2023-08-30T17:31:04+00:00",
-      "title": "Barracuda thought it drove 0-day hackers out of customers\u2019 networks. It was wrong.",
-      "url": "https://arstechnica.com/security/2023/08/barracuda-thought-it-drove-0-day-hackers-out-of-customers-networks-it-was-wrong/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/china-inside-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Pop-up isn't just a notification, runs as separate .exe in Windows 10 and 11.",
-      "publishedAt": "2023-08-30T17:15:50+00:00",
-      "title": "Microsoft-signed \u201cBGAUpsell.exe\u201d pushes Bing on Windows and Chrome users",
-      "url": "https://arstechnica.com/gadgets/2023/08/microsoft-rolls-out-then-pauses-pop-up-that-asked-chrome-users-to-switch-to-bing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/win11-bing-popup-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The $26,795 van is filled with audio and video recorders, radios, and cameras.",
-      "publishedAt": "2023-08-30T16:52:11+00:00",
-      "title": "Ex-NASA surveillance van with retractable roof cameras goes on sale",
-      "url": "https://arstechnica.com/cars/2023/08/ex-nasa-surveillance-van-with-retractable-roof-cameras-goes-on-sale/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/c9f7f492c53ae1656147cad1691ee5e601bab140-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Two years on a Pixel Pass was supposed to get you a new phone.",
-      "publishedAt": "2023-08-30T16:37:57+00:00",
-      "title": "Google kills two-year \u201cPixel Pass\u201d subscription after just 22 months",
-      "url": "https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chrome_WcXfVjnIRy-760x380.png"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Neptune-sized planet has a density similar to pure silver.",
-      "publishedAt": "2023-08-30T15:55:48+00:00",
-      "title": "Non-gas giant has 73 times Earth\u2019s mass, bewildering its discoverers",
-      "url": "https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/image-8-760x380.jpeg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"You basically had this really awesome algorithm, this crazy automation.\"",
-      "publishedAt": "2023-08-30T15:29:12+00:00",
-      "title": "SpaceX\u2019s VP of launch shares the company\u2019s special \u201calgorithm\u201d for innovation",
-      "url": "https://arstechnica.com/space/2023/08/spacexs-vp-of-launch-shares-the-companys-special-algorithm-for-innovation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/payload-fairing-760x380.jpg"
-    },
-    {
-      "author": "Will Knight, wired.com",
-      "description": "AI makes it cheap and easy to create propaganda at scale.",
-      "publishedAt": "2023-08-30T13:51:36+00:00",
-      "title": "Researcher builds anti-Russia AI disinformation machine for $400",
-      "url": "https://www.wired.com/story/400-dollars-to-build-an-ai-disinformation-machine/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/disinfo-760x380.jpg"
     }
   ],
   "sortBy": "top",
