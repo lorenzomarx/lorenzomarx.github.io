@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Timothy B. Lee",
+      "description": "I learned a lot by reading dozens of Waymo and Cruise crash reports.",
+      "publishedAt": "2023-09-01T11:30:21+00:00",
+      "title": "Are self-driving cars already safer than human drivers?",
+      "url": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/self-driving-hud-analysis-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"What we found out is that fairings float pretty well.\"",
+      "publishedAt": "2023-09-01T11:00:43+00:00",
+      "title": "Rocket Report: Firefly enters \u201chot standby phase\u201d; SpaceX\u2019s superfluity of fairings",
+      "url": "https://arstechnica.com/space/2023/09/rocket-report-firefly-enters-hot-standby-phase-spacexs-superfluity-of-fairings/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/starship-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "These images from the Moon are a crowning achievement for India's space program.",
       "publishedAt": "2023-09-01T00:32:18+00:00",
@@ -63,22 +79,6 @@
       "title": "Russia targets Ukraine with new Android backdoor, intel agencies say",
       "url": "https://arstechnica.com/security/2023/08/russia-targets-ukraine-with-new-android-backdoor-intel-agencies-say/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/ukrainian-military-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Texas was supposed to start enforcing the law tomorrow.",
-      "publishedAt": "2023-08-31T19:37:57+00:00",
-      "title": "Texas law requiring age verification on porn sites ruled unconstitutional [Updated]",
-      "url": "https://arstechnica.com/tech-policy/2023/08/pornhub-wins-injunction-that-blocks-texas-age-verification-law/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/texas-peach-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "JBL's speaker runs both assistants, but aren't both of these products in trouble?",
-      "publishedAt": "2023-08-31T19:15:25+00:00",
-      "title": "Alexa and Google Assistant fall on hard times, agree to be speaker roommates",
-      "url": "https://arstechnica.com/gadgets/2023/08/alexa-and-google-assistant-fall-on-hard-times-agree-to-be-speaker-roommates/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/2-2-760x380.jpg"
     }
   ],
   "sortBy": "top",
