@@ -1,20 +1,36 @@
 {
   "articles": [
     {
+      "author": "JEFF MARTIN and ISABELLA O'MALLEY",
+      "description": "ATLANTA (AP) \u2014 In the final hours before Hurricane Idalia struck Florida the storm had grown into a Category 4 beast lurking off the state\u2019s west coast, and the forecast called for it to continue intensifying up until landfall.",
+      "publishedAt": "2023-09-01T04:39:02Z",
+      "title": "In final hours before landfall, Hurricane Idalia stopped intensifying and turned from Tallahassee",
+      "url": "https://apnews.com/bd627422701eb57c7789911509dd557a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3ec239268c744d00bf4c716d88ea7fd6/3000.jpeg"
+    },
+    {
+      "author": "AUDREY McAVOY and JENNIFER SINCO KELLEHER",
+      "description": "HONOLULU (AP) \u2014 Hawaii Gov. Josh Green said Thursday his administration has opened several investigations into people who have allegedly made unsolicited offers for property in the fire-stricken Maui town of Lahaina in violation of a new emergency order.",
+      "publishedAt": "2023-09-01T03:49:14Z",
+      "title": "Hawaii investigates unsolicited land offers as the state tries to keep Lahaina in local hands",
+      "url": "https://apnews.com/5c4db4072dc4237da4213800444f4f17",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/328311744be549889d5fc0597bdd7ab4/3000.jpeg"
+    },
+    {
+      "author": "NICOLE WINFIELD and SARUUL ENKHBOLD",
+      "description": "ULAANBAATAR, Mongolia (AP) \u2014 Pope Francis arrived in Mongolia on Friday morning on a visit to encourage one of the world\u2019s smallest and newest Catholic communities. It's the first time a pope has visited the landlocked Asian country and comes at a time when the Vatican\u2019s relations with Mongolia\u2019s two powerful neighbors, Russia and China, are once again strained.",
+      "publishedAt": "2023-08-31T16:43:22Z",
+      "title": "Pope arrives on first visit to Mongolia as Vatican relations with Russia and China remain strained",
+      "url": "https://apnews.com/605975020cf2e4979d1387e8b4616e53",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3453c22834f1462a8fb6e78bfb4161cd/2892.jpeg"
+    },
+    {
       "author": "MICHAEL KUNZELMAN and LINDSAY WHITEHURST",
       "description": "WASHINGTON (AP) \u2014 Two former leaders of the far-right Proud Boys extremist group were sentenced to more than a decade each in prison Thursday for spearheading an attack on the U.S.",
       "publishedAt": "2023-08-31T16:43:02Z",
       "title": "Two ex-Proud Boys leaders get some of longest sentences in Jan. 6 Capitol attack",
       "url": "https://apnews.com/5c8bf8a8e5dc6381e7387e31e554cee6",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/fe453f688b0146d8a1c60d9667c7f27c/2446.jpeg"
-    },
-    {
-      "author": "MARK SHERMAN",
-      "description": "WASHINGTON (AP) \u2014 Supreme Court Justice Clarence Thomas acknowledged Thursday that he took three trips last year aboard a private plane owned by Republican megadonor Harlan Crow even as he rejected criticism over his failure to report trips in previous years.",
-      "publishedAt": "2023-08-31T14:35:19Z",
-      "title": "Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year",
-      "url": "https://apnews.com/08ec6e88a7c29c55c9d3991903ca0db7",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e80ecd78a03848fc8490d3242ab91352/1920.jpeg"
     },
     {
       "author": "MICHAEL R. SISAK",
@@ -33,12 +49,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/17dc7e6ad6a24d6bb0113d78c6d25115/3000.jpeg"
     },
     {
-      "author": "REBECCA BLACKWELL and LAURA BARGFELD",
-      "description": "HORSESHOE BEACH, Fla. (AP) \u2014 Florida and Georgia residents living along Hurricane Idalia's path of destruction on Thursday picked through piles of rubble where homes once stood, threw tarps over ripped-apart roofs and gingerly navigated streets left underwater or clogged with fallen trees and dangerous electric wires.",
-      "publishedAt": "2023-08-31T05:54:09Z",
-      "title": "Residents pick through the rubble of lost homes and scattered belongings in Hurricane Idalia's wake",
-      "url": "https://apnews.com/6fcf457b3c1da43c208730bb998cdd0f",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/354eb1cf48a1451b89d781da3a8ed899/1920.jpeg"
+      "author": "GERALD IMRAY and MOGOMOTSI MAGOME",
+      "description": "JOHANNESBURG (AP) \u2014 A nighttime fire ripped through a rundown apartment building mainly occupied by homeless people and squatters in Johannesburg early Thursday, leaving at least 74 dead, officials said.",
+      "publishedAt": "2023-08-31T05:23:04Z",
+      "title": "At least 74 are dead, many of them homeless, as fire rips through a rundown building in South Africa",
+      "url": "https://apnews.com/a365fc66541584e61ec5cd3e7b375e67",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7cf7d73945b640879b8776f9a3982588/1920.jpeg"
     },
     {
       "author": "JENNIFER PELTZ",
@@ -49,36 +65,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/8030e816db5c4ae1bca4bd01263c9319/3000.jpeg"
     },
     {
-      "author": "JIM VERTUNO",
-      "description": "AUSTIN, Texas (AP) \u2014 The Texas Supreme Court allowed a new state law banning gender-affirming care for minors to take effect on Friday, setting up Texas to be the most populous state with such restrictions on transgender children.",
-      "publishedAt": "2023-08-31T17:08:50Z",
-      "title": "Texas high court allows law banning gender-affirming care for transgender minors to take effect",
-      "url": "https://apnews.com/302e7a15c0442ce3eee6aacdcdf02b80",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7d265531b4194d67917b21ed8756f1d8/3000.jpeg"
+      "author": "PAUL J. WEBER, ACACIA CORONADO and KENDRIA LaFLEUR",
+      "description": "AUSTIN, Texas (AP) \u2014 A vision of armed officers at every school in Texas is crashing into the reality of not enough money or police as a new mandate took effect Friday, showing how a goal more states are embracing in response to America's cycle of mass killings is proving unworkable in many communities.",
+      "publishedAt": "2023-09-01T04:33:03Z",
+      "title": "Texas wanted armed officers at every school after Uvalde. Many can't meet that standard",
+      "url": "https://apnews.com/9a68ff8935fa376965ad754056de1673",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5c35ba5377de48b3ac48b65358d71117/3000.jpeg"
     },
     {
-      "author": "NICOLE WINFIELD and SARUUL ENKHBOLD",
-      "description": "ULAANBAATAR, Mongolia (AP) \u2014 Pope Francis arrived in Mongolia on Friday morning on a visit to encourage one of the world\u2019s smallest and newest Catholic communities. It's the first time a pope has visited the landlocked Asian country and comes at a time when the Vatican\u2019s relations with Mongolia\u2019s two powerful neighbors, Russia and China, are once again strained.",
-      "publishedAt": "2023-08-31T16:43:22Z",
-      "title": "Pope arrives on first visit to Mongolia as Vatican relations with Russia and China remain strained",
-      "url": "https://apnews.com/605975020cf2e4979d1387e8b4616e53",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3453c22834f1462a8fb6e78bfb4161cd/2892.jpeg"
-    },
-    {
-      "author": "LINDSAY WHITEHURST",
-      "description": "WASHINGTON (AP) \u2014 The Biden administration is proposing a rule that would require thousands more firearms dealers to run background checks, in an effort to combat rising gun violence nationwide.",
-      "publishedAt": "2023-08-31T17:28:47Z",
-      "title": "Biden administration proposes rule that would require more firearms dealers to run background checks",
-      "url": "https://apnews.com/d53441dc0242c515b6b1478ab27a5dac",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1d4a3250cf5e41988b7d6ec9ad5a9d4e/3000.jpeg"
-    },
-    {
-      "author": "ANDREW DALTON",
-      "description": "LOS ANGELES (AP) \u2014 A pair of spinoffs of \u201cThe Walking Dead\u201d and the next season of \u201cInterview With the Vampire\u201d can resume production despite the ongoing Hollywood strikes after reaching an agreement with the actors' union.",
-      "publishedAt": "2023-09-01T00:16:07Z",
-      "title": "'Walking Dead' spinoffs, 'Interview With the Vampire' can resume with actors' union approval",
-      "url": "https://apnews.com/6bed4fac1135c2e21b8c8359f2d4ce99",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/11d6ddaaaa8b402ab05503de1e39fd92/3000.jpeg"
+      "author": "PAUL WISEMAN",
+      "description": "WASHINGTON (AP) \u2014 Slowly and steadily, an overheated American job market is returning to room temperature.The Labor Department is expected to report Friday that U.S. employers \u2014 companies, nonprofits and government agencies combined \u2014 added 170,000 jobs last month, according to a survey of forecasters by the data firm FactSet.",
+      "publishedAt": "2023-09-01T04:01:21Z",
+      "title": "US jobs report for August could point to a moderating pace of hiring as economy gradually slows",
+      "url": "https://apnews.com/9a0309b7644eb10f4069d9cab0d66687",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a0be5d7abe504bd4ad78b00553ee9e4d/3000.jpeg"
     }
   ],
   "sortBy": "top",
