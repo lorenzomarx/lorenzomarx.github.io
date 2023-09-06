@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Attackers already had credentials. Now, they just needed to bypass 2FA protections.",
+      "publishedAt": "2023-09-05T20:28:28+00:00",
+      "title": "4 Okta customers hit by campaign that gave attackers super admin control",
+      "url": "https://arstechnica.com/security/2023/09/4-okta-customers-hit-by-campaign-that-gave-attackers-super-admin-control/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/multi-factor-authentication-mfa-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "YouTube had the discretion to take down content that harmed users, judge said.",
+      "publishedAt": "2023-09-05T20:08:16+00:00",
+      "title": "YouTube under no obligation to host anti-vaccine advocate\u2019s videos, court says",
+      "url": "https://arstechnica.com/tech-policy/2023/09/anti-vaccine-advocate-mercola-loses-lawsuit-over-youtube-channel-removal/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1237714593-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Meanwhile, readers say that some AI-penned articles switch languages halfway through.",
+      "publishedAt": "2023-09-05T19:57:36+00:00",
+      "title": "\u201cAI took my job, literally\u201d\u2014Gizmodo fires Spanish staff amid switch to AI translator",
+      "url": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_hero-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Nonprofit Museum of Classic Chicago TV fights termination of YouTube channel.",
+      "publishedAt": "2023-09-05T19:45:51+00:00",
+      "title": "Sony copyright claims for Bewitched spell trouble for group that preserves old TV",
+      "url": "https://arstechnica.com/tech-policy/2023/09/sony-copyright-claims-for-bewitched-spell-trouble-for-group-that-preserves-old-tv/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Bewitched-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "But full DLSS3 support is hidden behind a Patreon paywall.",
+      "publishedAt": "2023-09-05T19:22:45+00:00",
+      "title": "Starfield\u2019s missing Nvidia DLSS support has been added by a free mod",
+      "url": "https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/starfield-760x380.png"
+    },
+    {
       "author": "Chuong Nguyen",
       "description": "From wearables to laptops, there are plenty of savings in this latest Dealmaster.",
       "publishedAt": "2023-09-05T18:11:52+00:00",
@@ -39,46 +79,6 @@
       "title": "Four-person crew returns to Earth aboard SpaceX\u2019s Dragon capsule",
       "url": "https://arstechnica.com/space/2023/09/four-person-crew-returns-to-earth-aboard-spacexs-dragon-capsule/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/crew6splash-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The price? It\u2019s better to speak about them with our customers.\"",
-      "publishedAt": "2023-09-05T16:29:14+00:00",
-      "title": "European official on Ariane 6 debut: \u201cPlease allow me to not speculate at this time\u201d",
-      "url": "https://arstechnica.com/space/2023/09/no-firm-date-on-ariane-6s-debut-and-no-public-talk-on-prices-either/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Ariane_6_upper_stage_testing-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "WordPad is one of the few built-in apps not to be updated in Windows 11.",
-      "publishedAt": "2023-09-05T14:47:00+00:00",
-      "title": "For the first time in 40 years, Windows will ship without built-in word processor",
-      "url": "https://arstechnica.com/gadgets/2023/09/microsoft-is-killing-wordpad-windows-28-year-old-built-in-word-processor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-05-at-9.22.33\u202fAM-760x380.jpeg"
-    },
-    {
-      "author": "Javier Espinoza, Financial Times",
-      "description": "Companies would have to offer users alternatives to iMessage, Bing.",
-      "publishedAt": "2023-09-05T13:47:03+00:00",
-      "title": "\u201cWe\u2019re not \u2018gatekeepers,\u2019\u201d Apple and Microsoft tell European Union",
-      "url": "https://www.ft.com/content/137d655b-c264-460f-bbe8-a269f0a3d8ac",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/msft-apple-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Concerns of Redditor safety, jeopardized research amid new mods and API rules.",
-      "publishedAt": "2023-09-04T11:30:02+00:00",
-      "title": "Reddit faces content quality concerns after its Great Mod Purge",
-      "url": "https://arstechnica.com/gadgets/2023/09/are-reddits-replacement-mods-fit-to-fight-misinformation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Snoos-760x380.jpg"
-    },
-    {
-      "author": "Carolyn Wilke, Knowable Magazine",
-      "description": "Animals' \"active\" sleep phases look very much like REM.",
-      "publishedAt": "2023-09-02T11:47:26+00:00",
-      "title": "A look into the REM dreams of the animal kingdom",
-      "url": "https://arstechnica.com/science/2023/09/a-look-into-the-rem-dreams-of-the-animal-kingdom/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-516781896-760x380.jpg"
     }
   ],
   "sortBy": "top",
