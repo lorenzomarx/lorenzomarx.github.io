@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Chuong Nguyen",
+      "description": "From wearables to laptops, there are plenty of savings in this latest Dealmaster.",
+      "publishedAt": "2023-09-05T18:11:52+00:00",
+      "title": "Dealmaster: Garmin watches, Lenovo ThinkPads, Apple MacBooks, and more",
+      "url": "https://arstechnica.com/shopping/2023/09/dealmaster-garmin-watches-lenovo-thinkpads-apple-macbooks-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/Garmin-Venu-2-2S-Ars-Technica-4-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"What I'm about to tell you is going to be hard to believe. Again.\"",
+      "publishedAt": "2023-09-05T17:38:56+00:00",
+      "title": "Around and around and around through time we go in new teaser for Loki S2",
+      "url": "https://arstechnica.com/culture/2023/09/a-time-slipping-loki-struggles-to-fix-the-timelines-in-new-loki-s2-teaser/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/loki5-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Nest Cam users will have to pay a higher monthly fee to record video.",
+      "publishedAt": "2023-09-05T17:31:19+00:00",
+      "title": "Google Nest Cams will start charging 25%-33% more per month to record video",
+      "url": "https://arstechnica.com/gadgets/2023/09/google-nest-cameras-get-a-25-33-subscription-price-hike/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/nest-cam-760x380.webp"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Musk claimed that ADL could be \"on the hook\" for $22B in X losses.",
+      "publishedAt": "2023-09-05T17:25:17+00:00",
+      "title": "As X bleeds cash, Musk threatens Anti-Defamation League with defamation lawsuit",
+      "url": "https://arstechnica.com/tech-policy/2023/09/as-x-bleeds-cash-musk-threatens-anti-defamation-league-with-defamation-lawsuit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1550763049-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "SpaceX has now completed its original commercial crew contract with NASA.",
+      "publishedAt": "2023-09-05T17:17:26+00:00",
+      "title": "Four-person crew returns to Earth aboard SpaceX\u2019s Dragon capsule",
+      "url": "https://arstechnica.com/space/2023/09/four-person-crew-returns-to-earth-aboard-spacexs-dragon-capsule/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/crew6splash-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"The price? It\u2019s better to speak about them with our customers.\"",
+      "publishedAt": "2023-09-05T16:29:14+00:00",
+      "title": "European official on Ariane 6 debut: \u201cPlease allow me to not speculate at this time\u201d",
+      "url": "https://arstechnica.com/space/2023/09/no-firm-date-on-ariane-6s-debut-and-no-public-talk-on-prices-either/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Ariane_6_upper_stage_testing-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "WordPad is one of the few built-in apps not to be updated in Windows 11.",
+      "publishedAt": "2023-09-05T14:47:00+00:00",
+      "title": "For the first time in 40 years, Windows will ship without built-in word processor",
+      "url": "https://arstechnica.com/gadgets/2023/09/microsoft-is-killing-wordpad-windows-28-year-old-built-in-word-processor/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-05-at-9.22.33\u202fAM-760x380.jpeg"
+    },
+    {
+      "author": "Javier Espinoza, Financial Times",
+      "description": "Companies would have to offer users alternatives to iMessage, Bing.",
+      "publishedAt": "2023-09-05T13:47:03+00:00",
+      "title": "\u201cWe\u2019re not \u2018gatekeepers,\u2019\u201d Apple and Microsoft tell European Union",
+      "url": "https://www.ft.com/content/137d655b-c264-460f-bbe8-a269f0a3d8ac",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/msft-apple-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Concerns of Redditor safety, jeopardized research amid new mods and API rules.",
       "publishedAt": "2023-09-04T11:30:02+00:00",
@@ -15,70 +79,6 @@
       "title": "A look into the REM dreams of the animal kingdom",
       "url": "https://arstechnica.com/science/2023/09/a-look-into-the-rem-dreams-of-the-animal-kingdom/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-516781896-760x380.jpg"
-    },
-    {
-      "author": "Lily Hay Newman, wired.com",
-      "description": "Safety groups remain concerned about child sexual abuse material scanning and user reporting.",
-      "publishedAt": "2023-09-02T10:33:25+00:00",
-      "title": "Apple details reasons to abandon CSAM-scanning tool, more controversy ensues",
-      "url": "https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1462322900-760x380.jpg"
-    },
-    {
-      "author": "Tim Stevens",
-      "description": "Innovations making it to production include a full-screen heads-up display and e-ink.",
-      "publishedAt": "2023-09-02T08:30:24+00:00",
-      "title": "BMW\u2019s Neue Klasse points to a radical reinvention for future sedans",
-      "url": "https://arstechnica.com/cars/2023/09/bmws-neue-klasse-points-to-a-radical-reinvention-for-future-sedans/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/P90519766-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham & Lee Hutchinson",
-      "description": "The Wheel turns, and new seasons come and pass, leaving reviews that become legend.",
-      "publishedAt": "2023-09-01T21:40:49+00:00",
-      "title": "Two book readers recap a very non-book-ish Wheel of Time season 2 premiere",
-      "url": "https://arstechnica.com/gaming/2023/09/andrew-and-lee-jump-into-wheel-of-time-season-twos-3-episode-blowout-premiere/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/WOFT_S2_FG_00432915_Still01-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Enzymes that break down a polymer in wood can also handle polyethylene.",
-      "publishedAt": "2023-09-01T19:18:59+00:00",
-      "title": "Fungi could be the answer to breaking down plastic junk",
-      "url": "https://arstechnica.com/science/2023/09/fungi-could-be-the-answer-to-breaking-down-plastic-junk/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1398115768-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Study claims 99% of human ancestors died off 930,000 years ago.",
-      "publishedAt": "2023-09-01T18:56:15+00:00",
-      "title": "New analysis suggests human ancestors nearly died out",
-      "url": "https://arstechnica.com/science/2023/09/did-our-ancestors-become-an-endangered-species-a-million-years-ago/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1169221357-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "We've said it before; we'll say it again: Don't put credentials in publicly available code.",
-      "publishedAt": "2023-09-01T18:17:54+00:00",
-      "title": "Hacker gains admin control of Sourcegraph and gives free access to the masses",
-      "url": "https://arstechnica.com/security/2023/09/pii-leaked-after-sourcegraph-an-ai-driven-service-for-code-development-is-hacked/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/broken-padlock-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "It was the most serious cheating scandal since 2006 World Chess Championship (\"Toiletgate\").",
-      "publishedAt": "2023-09-01T17:58:28+00:00",
-      "title": "Chess.com, Hans Niemann have made their peace over 2022 cheating scandal",
-      "url": "https://arstechnica.com/gaming/2023/09/chess-com-hans-niemann-have-made-their-peace-over-2022-cheating-scandal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Hans-Niemann-chess-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "$50 price cut only makes the 16GB 4060 Ti marginally more palatable than before.",
-      "publishedAt": "2023-09-01T17:43:30+00:00",
-      "title": "Nvidia quietly cuts price of poorly reviewed 16GB 4060 Ti ahead of AMD launch",
-      "url": "https://arstechnica.com/gadgets/2023/09/nvidia-quietly-cuts-price-of-poorly-reviewed-16gb-4060-ti-ahead-of-amd-launch/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1072-760x380.jpeg"
     }
   ],
   "sortBy": "top",
