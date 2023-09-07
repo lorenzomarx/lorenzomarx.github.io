@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Upfront grant costs are \"too steep for all but the best-funded ISPs,\" groups claim.",
+      "publishedAt": "2023-09-06T18:50:55+00:00",
+      "title": "US broadband grant rules shut out small ISPs and municipalities, advocates say",
+      "url": "https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Sweden's BIS Records is known for early and contemporary classical music.",
+      "publishedAt": "2023-09-06T18:01:44+00:00",
+      "title": "Apple buys 50-year-old record label to grow Apple Music Classical app",
+      "url": "https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Apple-Music-Classical-Listen-Now-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "App developers like Epic Games did not agree to the settlement.",
+      "publishedAt": "2023-09-06T16:39:32+00:00",
+      "title": "After class action revoked, Google tentatively settles with 21M Play Store users",
+      "url": "https://arstechnica.com/tech-policy/2023/09/google-tentatively-settles-play-store-monopoly-case-with-30-states-21m-users/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-914596234-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Data privacy protections are almost nonexistent when it comes to automobiles.",
+      "publishedAt": "2023-09-06T15:41:17+00:00",
+      "title": "Connected cars are a \u201cprivacy nightmare,\u201d Mozilla Foundation says",
+      "url": "https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-692837788-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "During this test flight, Starship will carry no payloads.",
+      "publishedAt": "2023-09-06T14:51:58+00:00",
+      "title": "Starship is stacked and ready to make its second launch attempt",
+      "url": "https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/starship-760x380.jpg"
+    },
+    {
+      "author": "Emily Mullin, wired.com",
+      "description": "Semaglutide reduces heart failure symptoms by bringing down body weight.",
+      "publishedAt": "2023-09-06T13:42:56+00:00",
+      "title": "Weight-loss drugs Ozempic and Wegovy also protect your heart",
+      "url": "https://www.wired.com/story/weight-loss-drugs-ozempic-and-wegovy-can-also-protect-the-heart/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/semaglutide-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "It's hard to get excited about yesterday's performance at yesterday's prices.",
+      "publishedAt": "2023-09-06T13:00:25+00:00",
+      "title": "Review: AMD\u2019s Radeon RX 7700 XT and 7800 XT are almost great",
+      "url": "https://arstechnica.com/gadgets/2023/09/amd-rx-7700-xt-and-7800-xt-review-closing-out-the-fine-i-guess-gpu-generation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_1384-760x380.jpeg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "It's faster, more efficient, and a lot more fun to drive.",
+      "publishedAt": "2023-09-06T12:00:30+00:00",
+      "title": "Polestar 2 gets new motor and battery for MY24 refresh, and it\u2019s a winner",
+      "url": "https://arstechnica.com/cars/2023/09/now-rear-wheel-drive-the-single-motor-polestar-2-is-better-than-ever/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/2024-Polestar-2-1-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "You are still not a horse, but FDA will go to court over its authority to advise you.",
       "publishedAt": "2023-09-05T22:54:36+00:00",
@@ -15,70 +79,6 @@
       "title": "Here\u2019s what we know about a mysterious launch from Florida this week",
       "url": "https://arstechnica.com/security/2023/09/heres-what-we-know-about-a-mysterious-launch-from-florida-this-week/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/lrhw1-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "A peek inside the Strong Museum of Play's latest history-focused expansion.",
-      "publishedAt": "2023-09-05T21:00:30+00:00",
-      "title": "Seeing this Pong chip has me finding excuses to visit Rochester\u2019s Strong Museum",
-      "url": "https://arstechnica.com/gaming/2023/09/seeing-this-pong-chip-has-me-finding-excuses-to-visit-rochesters-strong-museum/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/High-Score-World-Video-Game-Hall-of-Fame-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Attackers already had credentials. Now, they just needed to bypass 2FA protections.",
-      "publishedAt": "2023-09-05T20:28:28+00:00",
-      "title": "4 Okta customers hit by campaign that gave attackers super admin control",
-      "url": "https://arstechnica.com/security/2023/09/4-okta-customers-hit-by-campaign-that-gave-attackers-super-admin-control/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/multi-factor-authentication-mfa-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "YouTube had the discretion to take down content that harmed users, judge said.",
-      "publishedAt": "2023-09-05T20:08:16+00:00",
-      "title": "YouTube under no obligation to host anti-vaccine advocate\u2019s videos, court says",
-      "url": "https://arstechnica.com/tech-policy/2023/09/anti-vaccine-advocate-mercola-loses-lawsuit-over-youtube-channel-removal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1237714593-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Meanwhile, readers say that some AI-penned articles switch languages halfway through.",
-      "publishedAt": "2023-09-05T19:57:36+00:00",
-      "title": "\u201cAI took my job, literally\u201d\u2014Gizmodo fires Spanish staff amid switch to AI translator",
-      "url": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_hero-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Nonprofit Museum of Classic Chicago TV fights termination of YouTube channel.",
-      "publishedAt": "2023-09-05T19:45:51+00:00",
-      "title": "Sony copyright claims for Bewitched spell trouble for group that preserves old TV [Updated]",
-      "url": "https://arstechnica.com/tech-policy/2023/09/sony-copyright-claims-for-bewitched-spell-trouble-for-group-that-preserves-old-tv/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Bewitched-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "But full DLSS3 support is hidden behind a Patreon paywall.",
-      "publishedAt": "2023-09-05T19:22:45+00:00",
-      "title": "Starfield\u2019s missing Nvidia DLSS support has been added by a free mod",
-      "url": "https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/starfield-760x380.png"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "From wearables to laptops, there are plenty of savings in this latest Dealmaster.",
-      "publishedAt": "2023-09-05T18:11:52+00:00",
-      "title": "Dealmaster: Garmin watches, Lenovo ThinkPads, Apple MacBooks, and more",
-      "url": "https://arstechnica.com/shopping/2023/09/dealmaster-garmin-watches-lenovo-thinkpads-apple-macbooks-and-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/Garmin-Venu-2-2S-Ars-Technica-4-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"What I'm about to tell you is going to be hard to believe. Again.\"",
-      "publishedAt": "2023-09-05T17:38:56+00:00",
-      "title": "Around and around and around through time we go in new teaser for Loki S2",
-      "url": "https://arstechnica.com/culture/2023/09/a-time-slipping-loki-struggles-to-fix-the-timelines-in-new-loki-s2-teaser/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/loki5-760x380.jpg"
     }
   ],
   "sortBy": "top",
