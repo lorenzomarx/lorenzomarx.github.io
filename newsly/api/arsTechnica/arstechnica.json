@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Three preliminary studies suggest BA.2.86 may not be the scary subvariant some feared.",
+      "publishedAt": "2023-09-06T23:11:46+00:00",
+      "title": "BA.2.86 fears fizzle as other variants drive up hospitalizations, deaths",
+      "url": "https://arstechnica.com/health/2023/09/ba-2-86-fears-fizzle-as-other-variants-drive-up-hospitalizations-deaths/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1389964232-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "AI-generated financial advice also arrives in Credit Karma, QuickBooks, and Mailchimp.",
+      "publishedAt": "2023-09-06T22:19:27+00:00",
+      "title": "TurboTax-maker Intuit offers an AI agent that provides financial tips",
+      "url": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_piggybank-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "\"A race against time to protect the children of our country from the dangers of AI.\"",
+      "publishedAt": "2023-09-06T21:48:14+00:00",
+      "title": "AI-generated child sex imagery has every US attorney general calling for action",
+      "url": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Other failures along the way included a signing key improperly appearing in a crash dump.",
+      "publishedAt": "2023-09-06T21:11:07+00:00",
+      "title": "Microsoft finally explains cause of Azure breach: An engineer\u2019s account was hacked",
+      "url": "https://arstechnica.com/security/2023/09/hack-of-a-microsoft-corporate-account-led-to-azure-breach-by-chinese-hackers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/microsoft-760x380.jpeg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "\"Not caused by a cyberattack.\"",
+      "publishedAt": "2023-09-06T20:42:32+00:00",
+      "title": "Toyota\u2019s Japanese production was halted due to insufficient disk space",
+      "url": "https://arstechnica.com/information-technology/2023/09/insufficient-disk-space-caused-2-day-shutdown-of-toyotas-japanese-factories/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1244662876-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Beeswax, plant oils, animal fats, bitumen, coniferous resins, coumarin, and benzoic acid.",
+      "publishedAt": "2023-09-06T20:27:52+00:00",
+      "title": "Scent of the afterlife? Scientists re-create recipe for Egyptian mummification balm",
+      "url": "https://arstechnica.com/science/2023/09/scent-of-the-afterlife-scientists-recreate-recipe-for-egyptian-mummification-balm/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/perfume3-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "When it comes to handheld AAA spacefaring, you should ground your expectations.",
+      "publishedAt": "2023-09-06T20:09:22+00:00",
+      "title": "Yes, you can play Starfield on Steam Deck, but really, you shouldn\u2019t",
+      "url": "https://arstechnica.com/gaming/2023/09/yes-you-can-play-starfield-on-steam-deck-but-really-you-shouldnt/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/deck_starfield2-1-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Conveniently, Google still sells video content through YouTube, Android TV, and Google TV.",
+      "publishedAt": "2023-09-06T19:56:32+00:00",
+      "title": "Google is killing Play Movies & TV, will only have three video stores left",
+      "url": "https://arstechnica.com/gadgets/2023/09/google-is-killing-play-movies-tv-will-only-have-three-video-stores-left/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/play-movies-tv-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "We have good explanations for why a chemical called LK-99 behaved the way it did.",
+      "publishedAt": "2023-09-06T19:47:00+00:00",
+      "title": "The room-temperature superconductor that wasn\u2019t",
+      "url": "https://arstechnica.com/science/2023/09/the-room-temperature-superconductor-that-wasnt/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-530299927-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Upfront grant costs are \"too steep for all but the best-funded ISPs,\" groups claim.",
       "publishedAt": "2023-09-06T18:50:55+00:00",
       "title": "US broadband grant rules shut out small ISPs and municipalities, advocates say",
       "url": "https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Sweden's BIS Records is known for early and contemporary classical music.",
-      "publishedAt": "2023-09-06T18:01:44+00:00",
-      "title": "Apple buys 50-year-old record label to grow Apple Music Classical app",
-      "url": "https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Apple-Music-Classical-Listen-Now-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "App developers like Epic Games did not agree to the settlement.",
-      "publishedAt": "2023-09-06T16:39:32+00:00",
-      "title": "After class action revoked, Google tentatively settles with 21M Play Store users",
-      "url": "https://arstechnica.com/tech-policy/2023/09/google-tentatively-settles-play-store-monopoly-case-with-30-states-21m-users/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-914596234-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Data privacy protections are almost nonexistent when it comes to automobiles.",
-      "publishedAt": "2023-09-06T15:41:17+00:00",
-      "title": "Connected cars are a \u201cprivacy nightmare,\u201d Mozilla Foundation says",
-      "url": "https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-692837788-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "During this test flight, Starship will carry no payloads.",
-      "publishedAt": "2023-09-06T14:51:58+00:00",
-      "title": "Starship is stacked and ready to make its second launch attempt",
-      "url": "https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/starship-760x380.jpg"
-    },
-    {
-      "author": "Emily Mullin, wired.com",
-      "description": "Semaglutide reduces heart failure symptoms by bringing down body weight.",
-      "publishedAt": "2023-09-06T13:42:56+00:00",
-      "title": "Weight-loss drugs Ozempic and Wegovy also protect your heart",
-      "url": "https://www.wired.com/story/weight-loss-drugs-ozempic-and-wegovy-can-also-protect-the-heart/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/semaglutide-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "It's hard to get excited about yesterday's performance at yesterday's prices.",
-      "publishedAt": "2023-09-06T13:00:25+00:00",
-      "title": "Review: AMD\u2019s Radeon RX 7700 XT and 7800 XT are almost great",
-      "url": "https://arstechnica.com/gadgets/2023/09/amd-rx-7700-xt-and-7800-xt-review-closing-out-the-fine-i-guess-gpu-generation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_1384-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "It's faster, more efficient, and a lot more fun to drive.",
-      "publishedAt": "2023-09-06T12:00:30+00:00",
-      "title": "Polestar 2 gets new motor and battery for MY24 refresh, and it\u2019s a winner",
-      "url": "https://arstechnica.com/cars/2023/09/now-rear-wheel-drive-the-single-motor-polestar-2-is-better-than-ever/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/2024-Polestar-2-1-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "You are still not a horse, but FDA will go to court over its authority to advise you.",
-      "publishedAt": "2023-09-05T22:54:36+00:00",
-      "title": "Conservative judges revive case on FDA\u2019s \u201cyou are not a horse\u201d ivermectin posts",
-      "url": "https://arstechnica.com/health/2023/09/conservative-judges-revive-case-on-fdas-you-are-not-a-horse-ivermectin-posts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-1232983095-760x380.jpeg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "The Pentagon is mum about this test launch from Cape Canaveral.",
-      "publishedAt": "2023-09-05T22:32:43+00:00",
-      "title": "Here\u2019s what we know about a mysterious launch from Florida this week",
-      "url": "https://arstechnica.com/security/2023/09/heres-what-we-know-about-a-mysterious-launch-from-florida-this-week/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/lrhw1-760x380.jpg"
     }
   ],
   "sortBy": "top",
