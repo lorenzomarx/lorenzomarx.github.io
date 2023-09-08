@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "The hottest Northern Hemisphere summer on record follows climate-driven heat waves.",
+      "publishedAt": "2023-09-07T20:08:31+00:00",
+      "title": "It\u2019s really f---ing hot, and it\u2019s really our fault",
+      "url": "https://arstechnica.com/science/2023/09/yes-this-year-is-as-hot-as-you-think-it-is/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1403489802-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Lawsuits won\u2019t end the #StopToxicTwitter pressure campaign on X advertisers.",
+      "publishedAt": "2023-09-07T19:40:54+00:00",
+      "title": "Musk calling shots on X content explains advertiser exodus, former exec says",
+      "url": "https://arstechnica.com/tech-policy/2023/09/musks-content-policy-to-blame-for-brands-abandoning-x-former-ad-exec-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1499013036-760x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "\"Atari is now taking its retro-related IP seriously,\" says AtariAge founder.",
       "publishedAt": "2023-09-07T19:19:01+00:00",
@@ -63,22 +79,6 @@
       "title": "Demeo is one of the first \u201cimmersive\u201d games announced for Apple Vision Pro",
       "url": "https://arstechnica.com/gaming/2023/09/can-demeo-jumpstart-apple-vision-pro-game-development/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/visionpro-760x380.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Honda EVs will start adding North American Charging Standard ports in 2025.",
-      "publishedAt": "2023-09-07T13:57:48+00:00",
-      "title": "Honda is the latest automaker to switch EV charging plugs",
-      "url": "https://arstechnica.com/cars/2023/09/honda-is-the-latest-automaker-to-switch-ev-charging-plugs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/03-2024-Acura-ZDX-Type-S-Reveal-Event-at-Monterey-Car-Week-2023-760x380.jpg"
-    },
-    {
-      "author": "Andy Greenberg, wired.com",
-      "description": "If your company operates in China, it must reveal all hackable bugs to government.",
-      "publishedAt": "2023-09-07T13:14:52+00:00",
-      "title": "How China gets free intel on tech companies\u2019 vulnerabilities",
-      "url": "https://www.wired.com/story/china-vulnerability-disclosure-law/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/china-hax-760x380.jpg"
     }
   ],
   "sortBy": "top",
