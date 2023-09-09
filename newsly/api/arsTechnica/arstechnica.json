@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Guns remains the leading cause of death among American children and teens.",
+      "publishedAt": "2023-09-07T23:00:28+00:00",
+      "title": "Gun deaths among US kids continue to rise; Southern states have worst rates",
+      "url": "https://arstechnica.com/health/2023/09/gun-deaths-among-us-children-reached-new-record-high-in-2021-study-finds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1495421117-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "\"BLASTPASS\" bug can install malware without user interaction.",
+      "publishedAt": "2023-09-07T22:47:27+00:00",
+      "title": "Apple patches \u201cclickless\u201d 0-day image processing vulnerability in iOS, macOS",
+      "url": "https://arstechnica.com/gadgets/2023/09/apple-patches-clickless-0-day-image-processing-vulnerability-in-ios-macos/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/iphone-14-hero-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Chrome now directly tracks users, generates a \"topic\" list it shares with advertisers.",
+      "publishedAt": "2023-09-07T22:35:52+00:00",
+      "title": "Google gets its way, bakes a user-tracking ad platform directly into Chrome",
+      "url": "https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/3-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Google researchers say currently unfixed vulnerability affects a popular software package.",
+      "publishedAt": "2023-09-07T22:05:27+00:00",
+      "title": "North Korea-backed hackers target security researchers with 0-day",
+      "url": "https://arstechnica.com/security/2023/09/north-korea-backed-hackers-target-security-researchers-with-0-day/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/north-korea-hacker-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "With up to 905 hp, the Emeya will reach 62 mph in under 2.8 seconds.",
+      "publishedAt": "2023-09-07T22:00:27+00:00",
+      "title": "Lotus is the latest to show off a high-powered electric sedan\u2014the Emeya",
+      "url": "https://arstechnica.com/cars/2023/09/lotus-is-the-latest-to-show-off-a-high-powered-electric-sedan-the-emeya/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/2024-Lotus-Emeya-1-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "SpaceX aims to ramp up to a dozen launches per month next year.",
+      "publishedAt": "2023-09-07T21:24:14+00:00",
+      "title": "SpaceX broke its record for number of launches in a year",
+      "url": "https://arstechnica.com/space/2023/09/spacex-broke-its-record-for-number-of-launches-in-a-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/F46RylwbAAECF-8-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Infection activates gene expression for pigmentation, suppresses immune response.",
+      "publishedAt": "2023-09-07T21:02:02+00:00",
+      "title": "How these parasitic worms turn brown shrimp into bright orange \u201czombies\u201d",
+      "url": "https://arstechnica.com/science/2023/09/how-these-parasitic-worms-turn-brown-shrimp-into-bright-orange-zombies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/shrimp1CROP-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"At current cost levels the SLS program is unsustainable.\"",
+      "publishedAt": "2023-09-07T20:21:31+00:00",
+      "title": "NASA finally admits what everyone already knows: SLS is unaffordable",
+      "url": "https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/SLS-Mar-17-2022-2546-760x380.jpg"
+    },
+    {
       "author": "John Timmer",
       "description": "The hottest Northern Hemisphere summer on record follows climate-driven heat waves.",
       "publishedAt": "2023-09-07T20:08:31+00:00",
@@ -15,70 +79,6 @@
       "title": "Musk calling shots on X content explains advertiser exodus, former exec says",
       "url": "https://arstechnica.com/tech-policy/2023/09/musks-content-policy-to-blame-for-brands-abandoning-x-former-ad-exec-says/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1499013036-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "\"Atari is now taking its retro-related IP seriously,\" says AtariAge founder.",
-      "publishedAt": "2023-09-07T19:19:01+00:00",
-      "title": "Atari doubles down on retro, buys beloved Atari homebrew maker",
-      "url": "https://arstechnica.com/gaming/2023/09/zap-atari-acquires-beloved-retro-homebrew-vendor-atariage/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/atari_hero_6-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Anna Gomez confirmation means \"FCC can act swiftly to restore net neutrality.\"",
-      "publishedAt": "2023-09-07T19:11:00+00:00",
-      "title": "Senate confirms Biden FCC pick as 5 Republicans join Democrats in 55-43 vote",
-      "url": "https://arstechnica.com/tech-policy/2023/09/senate-confirms-biden-fcc-nominee-finally-giving-democrats-a-3-2-majority/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/01/getty-fcc-seal-760x380.jpg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "Great savings on tools to help you get to work and stay productive.",
-      "publishedAt": "2023-09-07T18:53:56+00:00",
-      "title": "Dealmaster: Save on Apple, Dell, Lenovo laptops, Steelcase chairs, and more",
-      "url": "https://arstechnica.com/shopping/2023/09/dealmaster-save-on-apple-dell-lenovo-laptops-steelcase-chairs-and-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/gesture-chair-new-sitting-experience-13-0004210-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "It has pastel colors, a longer menu, and not a single sharp corner.",
-      "publishedAt": "2023-09-07T17:51:32+00:00",
-      "title": "Chrome turns 15 and is getting a big redesign",
-      "url": "https://arstechnica.com/gadgets/2023/09/chrome-is-getting-a-big-redesign-with-rounded-corners-material-you-colors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Chrome-design-Material-You-760x380.png"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "New details on how Musk thwarted Ukraine's submarine drone attack near Crimea.",
-      "publishedAt": "2023-09-07T17:22:15+00:00",
-      "title": "Musk shut off Starlink to prevent Ukraine attack on Russian ships, report says",
-      "url": "https://arstechnica.com/tech-policy/2023/09/how-am-i-in-this-war-book-details-musks-doubts-on-starlink-in-ukraine/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/getty-starlink-ukraine-1-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "DLSS, ray-tracing support could be in the cards for the new console in 2024.",
-      "publishedAt": "2023-09-07T16:22:21+00:00",
-      "title": "Reports: Powered-up \u201cSwitch 2\u201d being demoed with high-res Breath of the Wild",
-      "url": "https://arstechnica.com/gaming/2023/09/nintendo-reportedly-showing-devs-switch-2-with-upscaled-breath-of-the-wild/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/4kbotw-760x380.png"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "In-person event will have livestreamed keynote, show company's \"latest work.\"",
-      "publishedAt": "2023-09-07T15:16:07+00:00",
-      "title": "OpenAI\u2019s first-ever dev conference hopes to draw \u201chundreds of developers\u201d in November",
-      "url": "https://arstechnica.com/information-technology/2023/09/openai-to-host-its-first-developer-conference-on-november-6-in-san-francisco/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/openai_robots-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "VR/MR gaming on the headset has been an afterthought for Apple, developers.",
-      "publishedAt": "2023-09-07T15:00:40+00:00",
-      "title": "Demeo is one of the first \u201cimmersive\u201d games announced for Apple Vision Pro",
-      "url": "https://arstechnica.com/gaming/2023/09/can-demeo-jumpstart-apple-vision-pro-game-development/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/visionpro-760x380.png"
     }
   ],
   "sortBy": "top",
