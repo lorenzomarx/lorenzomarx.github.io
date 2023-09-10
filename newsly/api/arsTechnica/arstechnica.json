@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "\"Some customers are concerned about the risk of IP infringement claims,\" says Microsoft.",
+      "publishedAt": "2023-09-08T22:40:56+00:00",
+      "title": "Microsoft offers legal protection for AI copyright infringement challenges",
+      "url": "https://arstechnica.com/information-technology/2023/09/microsoft-offers-legal-protection-for-ai-copyright-infringement-challenges/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/protection_1-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The hot pepper linked to teen's death can cause arteries in the brain to spasm.",
+      "publishedAt": "2023-09-08T22:16:32+00:00",
+      "title": "Teen\u2019s death after eating a single chip highlights risks of ultra-spicy foods",
+      "url": "https://arstechnica.com/health/2023/09/teens-death-after-eating-a-single-chip-highlights-risks-of-ultra-spicy-foods/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1431486082-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"If you come with me, you'll know everything, I promise.\"",
+      "publishedAt": "2023-09-08T21:53:45+00:00",
+      "title": "The MonsterVerse comes to Apple TV+ with Monarch: Legacy of Monsters teaser",
+      "url": "https://arstechnica.com/culture/2023/09/godzilla-roars-his-way-onto-apple-tv-in-monarch-legacy-of-monsters-teaser/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/monarch1CROP-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "X decried law's \"draconian financial penalties\" up to $15K per violation per day.",
+      "publishedAt": "2023-09-08T21:45:12+00:00",
+      "title": "X sues Calif. to avoid revealing how it makes \u201ccontroversial\u201d content decisions",
+      "url": "https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1563274899-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Intuit plans appeal, slams FTC's \"predetermined decision.\"",
+      "publishedAt": "2023-09-08T20:59:07+00:00",
+      "title": "FTC judge rules Intuit broke law, must stop advertising TurboTax as \u201cfree\u201d",
+      "url": "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-tax-form-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "For $20 a month, Claude fans can get 5x higher usage limits, early access to new features.",
+      "publishedAt": "2023-09-08T20:37:39+00:00",
+      "title": "The AI-assistant wars heat up with Claude Pro, a new ChatGPT Plus rival",
+      "url": "https://arstechnica.com/information-technology/2023/09/the-ai-assistant-wars-heat-up-with-claude-pro-a-new-chatgpt-plus-rival/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/claude_pro_hero_3-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Runner is a modern-day John Henry, just 0.35 seconds from tool-assisted speedrun mark.",
+      "publishedAt": "2023-09-08T20:17:31+00:00",
+      "title": "Record-breaking Super Mario Bros. speedrun approaches robotic perfection",
+      "url": "https://arstechnica.com/gaming/2023/09/record-breaking-super-mario-bros-speedrun-approaches-robotic-perfection/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/smbspeed2-760x380.png"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "With no patch available yet, users must enable workarounds. The best: enforce MFA.",
+      "publishedAt": "2023-09-08T19:50:26+00:00",
+      "title": "Cisco security appliance 0-day is under attack by ransomware crooks",
+      "url": "https://arstechnica.com/security/2023/09/ransomware-crooks-exploit-unpatched-0-day-in-cisco-security-appliances/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/cisco-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "The federal regulator says SpaceX must implement 63 corrective actions.",
       "publishedAt": "2023-09-08T19:40:18+00:00",
@@ -15,70 +79,6 @@
       "title": "The most interesting keyboard released this week is also the cheapest",
       "url": "https://arstechnica.com/gadgets/2023/09/the-most-interesting-keyboard-released-this-week-is-also-the-cheapest/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Keychron-C3-Pro-01-760x380.jpg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "From espresso to Nespresso, we share our favorite coffee setups.",
-      "publishedAt": "2023-09-08T18:45:33+00:00",
-      "title": "Gears Technica: Favorite coffee-making setups from the Ars Technica staff",
-      "url": "https://arstechnica.com/staff/2023/09/gears-technica-favorite-coffee-making-setups-from-the-ars-technica-staff/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/kevin_coffee1-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Read the letter urging regulators to end Musk\u2019s dream of turning X into a bank.",
-      "publishedAt": "2023-09-08T18:34:17+00:00",
-      "title": "X \u201cunfit\u201d for banking because of complicity in Saudi spying, lawyers argue",
-      "url": "https://arstechnica.com/tech-policy/2023/09/x-unfit-for-banking-because-of-complicity-in-saudi-spying-lawyers-argue/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1350704130-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Ryan Salame hit with $1.6B judgment, but US accepts $6M and forfeited property.",
-      "publishedAt": "2023-09-08T18:20:19+00:00",
-      "title": "4th FTX exec pleads guilty, agrees to forfeit Porsche and other property",
-      "url": "https://arstechnica.com/tech-policy/2023/09/4th-ftx-exec-pleads-guilty-agrees-to-forfeit-porsche-and-other-property/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ryan-salame-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "After a few leaks, Google just went ahead and made these devices official.",
-      "publishedAt": "2023-09-08T18:10:15+00:00",
-      "title": "Google shows off the Pixel 8 and Pixel Watch 2 ahead of launch",
-      "url": "https://arstechnica.com/google/2023/09/google-shows-off-the-pixel-8-and-pixel-watch-2-ahead-of-launch/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/chrome_2UUasaIVal-760x380.png"
-    },
-    {
-      "author": "Andy Greenberg, WIRED.com",
-      "description": "Russia\u2019s cyberattacks against civilian infrastructure in Ukraine may be the first case.",
-      "publishedAt": "2023-09-08T17:23:40+00:00",
-      "title": "The International Criminal Court will now prosecute cyberwar crimes",
-      "url": "https://www.wired.com/story/icc-cyberwar-crimes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1496684411-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Restraining order also issued due to threats and harassment of Bungie employees.",
-      "publishedAt": "2023-09-08T15:57:54+00:00",
-      "title": "Judge issues legal permaban, $500K judgment against serial Destiny 2 cheater",
-      "url": "https://arstechnica.com/gaming/2023/09/judge-issues-legal-permaban-500k-judgment-against-serial-destiny-2-cheater/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/destiny2-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "No detectors \"reliably distinguish between AI-generated and human-generated content.\"",
-      "publishedAt": "2023-09-08T15:42:03+00:00",
-      "title": "OpenAI confirms that AI writing detectors don\u2019t work",
-      "url": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham & Lee Hutchinson",
-      "description": "Bad things are afoot\u2014the Shadow gets its act together as our heroes flail in darkness.",
-      "publishedAt": "2023-09-08T15:00:42+00:00",
-      "title": "The Daughter of the Night walks the land in this week\u2019s Wheel of Time",
-      "url": "https://arstechnica.com/culture/2023/09/the-daughter-of-the-night-walks-the-land-in-this-weeks-wheel-of-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/WOFT_S2_UT_211019_THIJAN_00562_1_3000-760x380.jpg"
     }
   ],
   "sortBy": "top",
