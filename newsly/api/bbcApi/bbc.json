@@ -2,11 +2,43 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Day one of the Delhi summit saw the African Union take a seat at the G20 table.",
+      "publishedAt": null,
+      "title": "G20: Leaders head to Gandhi memorial after historic first day",
+      "url": "http://www.bbc.co.uk/news/live/world-asia-india-66766445",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png"
+    },
+    {
+      "author": "BBC News",
       "description": "Leaders meeting in Delhi issue an ambiguous statement on the conflict, drawing criticism from Kyiv.",
       "publishedAt": null,
       "title": "G20 laments war in Ukraine but avoids blaming Russia",
       "url": "http://www.bbc.co.uk/news/world-asia-india-66763836",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B9B8/production/_131044574_gettyimages-1653679975.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Ukraine's capital is showered in debris from intercepted Russian drones, city officials say.",
+      "publishedAt": null,
+      "title": "Ukraine war: Kyiv foils big Russian drone attack, officials say",
+      "url": "http://www.bbc.co.uk/news/world-europe-66766541",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2624/production/_131046790_mediaitem131046789.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The terror suspect was caught by a plain-clothes officer on Saturday, four days after escaping from prison.",
+      "publishedAt": null,
+      "title": "Daniel Khalife: Escaped terror suspect in police custody after arrest",
+      "url": "http://www.bbc.co.uk/news/uk-66766478",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23A4/production/_131042190_5d6b137066b6e31c95d1f90d6fd5fc72ef2b8dd4.jpg"
+    },
+    {
+      "author": "BBC Sport",
+      "description": "Coco Gauff fulfils the potential she has long promised by landing her first Grand Slam title with a fightback win over Aryna Sabalenka in New York.",
+      "publishedAt": null,
+      "title": "Gauff wins US Open to land first major title",
+      "url": "http://www.bbc.co.uk/sport/tennis/66761135",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/D650/production/_131046845_gettyimages-1670502800.jpg"
     },
     {
       "author": "BBC News",
@@ -18,35 +50,27 @@
     },
     {
       "author": "BBC News",
-      "description": "The 21-year-old is recaptured by plain clothes police four days after escaping from Wandsworth prison.",
+      "description": "The audience stomp, clap and wave flags of every denomination as the eight-week Proms season ends.",
       "publishedAt": null,
-      "title": "Escaped terror suspect Daniel Khalife arrested in north-west London",
-      "url": "http://www.bbc.co.uk/news/uk-66763054",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148A6/production/_131043148_f4c8b808-e40f-48bd-a8fd-937215a5d631.jpg"
+      "title": "Last night of the Proms: Sweltering heat fails to dampen the audience's spirits",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-66765201",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12CA4/production/_131046967_whatsappimage2023-09-09at21.43.47.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Russia congratulates Kim Jong Un amid rumours of a possible meeting between him and Vladimir Putin.",
+      "description": "The story of a world turned to ash by a forest fire that burned for weeks in northern Greece.",
       "publishedAt": null,
-      "title": "Kim Jong Un marks North Korea's anniversary with parade",
-      "url": "http://www.bbc.co.uk/news/world-asia-66762981",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7944/production/_131044013_06c122e9bec699f1e6c641d95566d66ec695f5b0.jpg"
+      "title": "Inside the horror of Europe's biggest wildfire",
+      "url": "https://www.bbc.co.uk/news/extra/ifgej14zt1/greece-wildfire",
+      "urlToImage": "https://news.files.bbci.co.uk/include/extra/shorthand/assets/news/ifgej14zt1/assets/91tWvwVStU/evros-greece_5_dk_frame-0ms-1920x1080.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Watch the flag-waving, sing-alongs, and stars of classical music live from the Royal Albert Hall.",
+      "description": "It comes as the Sunday Times reports one man is a parliamentary researcher accused of spying for China.",
       "publishedAt": null,
-      "title": "BBC Proms: First 'full' Last Night of the Proms since 2019 under way",
-      "url": "http://www.bbc.co.uk/news/live/entertainment-arts-66722746",
-      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png"
-    },
-    {
-      "author": "BBC Sport",
-      "description": "England's winning run in their Euro 2024 qualifying campaign comes to a halt as they are held to a draw by Ukraine in Wroclaw.",
-      "publishedAt": null,
-      "title": "England winning run halted by draw with Ukraine",
-      "url": "http://www.bbc.co.uk/sport/football/66692946",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/7188/production/_131046092_gettyimages-1670044448.jpg"
+      "title": "Two men arrested under Official Secrets Act - Met Police",
+      "url": "http://www.bbc.co.uk/news/uk-66765759",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ED5C/production/_131046706_4ec4f2a5ea799d97c580df38d99e59fb7ad29a880_825_7918_44561000x563.jpg"
     },
     {
       "author": "BBC News",
@@ -55,30 +79,6 @@
       "title": "Georgia grand jury recommended charging three US senators",
       "url": "http://www.bbc.co.uk/news/world-us-canada-66755825",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1D31/production/_131037470_5fea3d168119ccf0009581874224411082b5c9fe0_250_4800_27011000x563.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Eddie Irizarry was killed by police officer Mark Dial, who is now charged with murder.",
-      "publishedAt": null,
-      "title": "Eddie Irizarry: Philadelphia officer charged with fatal shooting of motorist",
-      "url": "http://www.bbc.co.uk/news/world-us-canada-66758436",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13636/production/_131041497_microsoftteams-image-42.png"
-    },
-    {
-      "author": "BBC Sport",
-      "description": "Brazil's Neymar hits two goals in his side's 5-1 win over Bolivia to become the country's all-time men's top scorer, overtaking the legendary Pele's record.",
-      "publishedAt": null,
-      "title": "Brazil's Neymar overtakes Pele goals record",
-      "url": "http://www.bbc.co.uk/sport/football/66761401",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1506C/production/_131042168_gettyimages-1653678948.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The ruling against Mark Meadows means the case by Fulton County prosecutors survived its first test.",
-      "publishedAt": null,
-      "title": "Mark Meadows: Trump aide fails to have Georgia case moved",
-      "url": "http://www.bbc.co.uk/news/world-us-canada-66759234",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11372/production/_131041507_gettyimages-1620723958-1.jpg"
     }
   ],
   "sortBy": "top",
