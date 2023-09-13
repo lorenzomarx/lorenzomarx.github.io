@@ -1,52 +1,60 @@
 {
   "articles": [
     {
+      "author": "Shadia Nasralla, Ron Bousso",
+      "description": "BP CEO Bernard Looney has stepped down after less than four years in office following several allegations of personal relationships with colleagues, the company said in a statement on Tuesday.",
+      "publishedAt": "2023-09-12T18:58:53Z",
+      "title": "BP CEO Looney to resign after personal relationships with colleagues",
+      "url": "https://www.reuters.com/business/energy/bp-ceo-bernard-looney-resign-ft-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/PcIVQXsRPOiREzEntnb3xJEduEA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRTIAYCDIBL7VI625UTYM2UNYE.jpg"
+    },
+    {
+      "author": "David Shepardson",
+      "description": "Talks between the Detroit Three automakers and United Auto Workers union are nearing a Thursday night deadline to reach a deal on a new contract before a potential walkout by 146,000 U.S. autoworkers.",
+      "publishedAt": "2023-09-12T17:21:38Z",
+      "title": "US auto labor talks intensify near strike deadline",
+      "url": "https://www.reuters.com/business/autos-transportation/us-auto-labor-talks-intensify-near-strike-deadline-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/N-hF5nbayVtFZz4os6-N23Vvrc0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQ6ESK5CU5NJLEZUZGLUSVFL3U.jpg"
+    },
+    {
+      "author": "Noel Randewich, Ankika Biswas",
+      "description": "The S&P 500 and Nasdaq fell on Tuesday as a jump in oil prices deepened worries about persistent price pressures ahead of crucial inflation readings this week, while Oracle slumped after its downbeat forecast and results.",
+      "publishedAt": "2023-09-12T18:14:56Z",
+      "title": "S&P 500 dips as oil prices fan inflation fear, Oracle slumps on weak forecast",
+      "url": "https://www.reuters.com/markets/us/futures-ease-after-rally-key-inflation-data-awaited-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/J5dME-ZiMzXTb9XLjWqly_JCUy8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CSNZBKWAPFL7POZ7DZDH5STP6M.jpg"
+    },
+    {
       "author": "Stephen Nellis",
-      "description": "Apple <a href=\"https://www.reuters.com/markets/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> on Tuesday is expected to unveil a new iPhone 15 lineup as questions about market access in China and competition hang over the world's most valuable listed company.",
-      "publishedAt": "2023-09-12T10:10:42Z",
-      "title": "Apple's iPhone 15 launch clouded by China problems",
-      "url": "https://www.reuters.com/technology/apples-iphone-15-launch-clouded-by-china-problems-2023-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/xdTDWs5jbSxrcBMD6dTTt5yAji4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EUB6PB7YZNNSTC5E6QMIQXGJ4Y.jpg"
+      "description": "Apple <a href=\"https://www.reuters.com/markets/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> on Tuesday said that three of its Apple Watch models will come in what it calls carbon-neutral versions sporting a new green logo on their boxes, and the biggest change is that more of the transportation will be by boat instead of planes.",
+      "publishedAt": "2023-09-12T18:37:55Z",
+      "title": "Apple has a plan for climate-friendlier watches: cut plane travel",
+      "url": "https://www.reuters.com/technology/apple-has-plan-climate-friendlier-watches-cut-plane-travel-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/E0PWBirjSnDsW_7g-rd5f5HYxuU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ULRSQ4WW7RL3LNTVJQPWINNYN4.jpg"
     },
     {
-      "author": "Reuters",
-      "description": "Russian President Vladimir Putin on Tuesday said increasing inflation had forced the central bank to hike interest rates to 12% last month, warning that Russia's economy would suffer if price rises were allowed to get out of control.",
-      "publishedAt": "2023-09-12T07:52:03Z",
-      "title": "Putin warns of economic strife should inflation rise uncontrollably",
-      "url": "https://www.reuters.com/world/europe/putin-warns-economic-strife-should-inflation-rise-uncontrollably-2023-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/xNc9wUBAdGwhmRja8y_wGbFAxyg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRG7TNY6ZZMFDKRA3LJE2Q6RY4.jpg"
+      "author": "Rajesh Singh, Abhijith Ganapavaram, Valerie Insinna",
+      "description": "Aerospace suppliers and airlines around the world warned of rising costs and a squeeze on plane capacity after U.S. engine maker RTX <a href=\"https://www.reuters.com/markets/companies/RTX.N\" target=\"_blank\">(RTX.N)</a> disclosed that a rare manufacturing flaw could ground hundreds of Airbus <a href=\"https://www.reuters.com/markets/companies/AIR.PA\" target=\"_blank\">(AIR.PA)</a> jets in coming years.",
+      "publishedAt": "2023-09-12T18:43:44Z",
+      "title": "RTX jet engine problem ripples across global aerospace industry",
+      "url": "https://www.reuters.com/business/aerospace-defense/airlines-suppliers-warn-hit-rtx-engine-snag-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/uDDN0FJeYr6VCDeuJvJrjnBrWv8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75QC2F2CHBOMVHKIES2VHELF7U.jpg"
     },
     {
-      "author": "Reuters",
-      "description": "A British union that represents workers at Barclays <a href=\"https://www.reuters.com/markets/companies/BARC.L\" target=\"_blank\">(BARC.L)</a> said on Tuesday that the bank was cutting around 450 staff, as the lender cuts costs as it weighs a wider strategy overhaul.",
-      "publishedAt": "2023-09-12T11:52:27Z",
-      "title": "Barclays cutting around 450 staff, UK trade union says",
-      "url": "https://www.reuters.com/world/uk/barclays-laying-off-over-450-staff-uk-trade-union-says-2023-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/MBAgiU2ttIQdCgYsSsqniNzkhuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LRH7ADX77NKJXHONQGUAOL55GU.jpg"
+      "author": "Katherine Masters",
+      "description": "Nike investors voted against two shareholder-led proposals during the sportswear giant\u2019s annual meeting on Tuesday, according to a preliminary tally by the company.",
+      "publishedAt": "2023-09-12T18:51:06Z",
+      "title": "Nike investors reject pay equity, human rights proposals",
+      "url": "https://www.reuters.com/sustainability/nike-investors-reject-pay-equity-human-rights-proposals-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/GXz2W1orU_5ymd4pk3FpNtTi0-Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TVEX5SBS3FM4JFOQ6FBCITJOHM.jpg"
     },
     {
-      "author": "Reuters",
-      "description": "TikTok has officially rolled out its e-commerce business in the United States after months of testing, according to a blog post on Tuesday, as its Chinese-owner ByteDance looks to capitalize on the popularity of the social media app.",
-      "publishedAt": "2023-09-12T10:52:03Z",
-      "title": "TikTok launches online shopping in the US",
-      "url": "https://www.reuters.com/technology/tiktok-launches-online-shopping-us-2023-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/UF-i2PrL4cw6hbl8e95wCog7OOM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5F2LS3Y7KZJWXIPYKWZEPAHRIY.jpg"
-    },
-    {
-      "author": "Diane Bartz",
-      "description": "Adobe <a href=\"https://www.reuters.com/markets/companies/ADBE.O\" target=\"_blank\">(ADBE.O)</a>, IBM <a href=\"https://www.reuters.com/markets/companies/IBM.N\" target=\"_blank\">(IBM.N)</a>, Nvidia <a href=\"https://www.reuters.com/markets/companies/NVDA.O\" target=\"_blank\">(NVDA.O)</a> and five other firms have signed President Joe Biden's voluntary commitments governing artificial intelligence, which requires steps such as watermarking AI-generated content, the White House said.",
-      "publishedAt": "2023-09-12T10:16:32Z",
-      "title": "Adobe, others join White House's voluntary commitments on AI",
-      "url": "https://www.reuters.com/sustainability/adobe-others-join-white-houses-voluntary-commitments-ai-2023-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/5QadR1JrXztMf6qCwGXTIcmN-1g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SE3ENTDM5BJQHDZQV4RPP672YA.jpg"
-    },
-    {
-      "author": "Rajendra Jadhav, Polina Devitt",
-      "description": "Russian companies have ceased offering fertiliser such as di-ammonium phosphate (DAP) to India at discounted prices due to tightening global supplies after becoming the biggest suppliers to the country last year, three industry sources told Reuters.",
-      "publishedAt": "2023-09-12T09:26:29Z",
-      "title": "Exclusive: Russian sellers stop fertiliser discounts to India",
-      "url": "https://www.reuters.com/world/india/russian-sellers-stop-fertiliser-discounts-india-sources-2023-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/AkRhsUvpoXjcgYwXYXLSHurxRoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CDYOJY7JE5NLJHTO4U2DZ3WFPI.jpg"
+      "author": "Blake Brittain, Katie Paul",
+      "description": "A group of writers including Pulitzer Prize winner Michael Chabon sued Meta Platforms <a href=\"https://www.reuters.com/markets/companies/META.O\" target=\"_blank\">(META.O)</a> in San Francisco federal court on Tuesday, accusing the tech giant of misusing their works to train its Llama artificial-intelligence software.",
+      "publishedAt": "2023-09-12T18:13:09Z",
+      "title": "Pulitzer winner Chabon, other authors sue Meta over AI program",
+      "url": "https://www.reuters.com/technology/pulitzer-winner-chabon-other-authors-sue-meta-over-ai-program-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/tar4hS5W1sTupvAH__ajxAkqZHY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R3SYUOT6RZP2JDKHZOBOAOT7LQ.jpg"
     },
     {
       "author": "Ayman Werfali",
@@ -57,20 +65,20 @@
       "urlToImage": "https://www.reuters.com/resizer/LHR4mj9pU7F5vUxwwCwqUZ7Z8mA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75Z7WDMTU5NQLN5XVOCLGTUJKE.jpg"
     },
     {
-      "author": "Josh Smith",
-      "description": "The <a href=\"/world/north-koreas-kim-jong-un-russia-amid-us-warnings-not-sell-arms-2023-09-12/\">coming meetings</a> between Russian President Vladimir Putin and North Korean leader Kim Jong Un could help reshape how the reclusive and distrustful North has dealt with its partners in Moscow and Beijing, analysts say.",
-      "publishedAt": "2023-09-12T08:54:54Z",
-      "title": "With Putin summit, North Korea charts new course in fraught Russia relationship",
-      "url": "https://www.reuters.com/world/with-putin-summit-north-korea-charts-new-course-fraught-russia-relationship-2023-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/AgL4o74QxOo2G_EQM-0HBrolgJ4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVVZ6POQIBMDZHWWI4LDJX5FYQ.jpg"
+      "author": "Diane Bartz",
+      "description": "The United States argued on Tuesday that Google <a href=\"https://www.reuters.com/markets/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> did not play by the rules in its efforts to keep its <a href=\"/legal/why-is-us-suing-google-antitrust-violations-2023-09-11/\">dominance in online search</a>, paying billions of dollars to ensure that <a href=\"/legal/googles-rivals-get-day-court-momentous-us-antitrust-trial-begins-2023-09-11/\">smaller rivals</a> never got traction.",
+      "publishedAt": "2023-09-12T14:16:50Z",
+      "title": "US lays out how Google dominated search in much-anticipated antitrust trial",
+      "url": "https://www.reuters.com/legal/transactional/us-takes-google-much-anticipated-antitrust-trial-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/Mnq-P_1Lv9ll-i74OkhYQhmrUVc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KE6JJYSFBVLEFIKRQF7HJ2FQ5A.jpg"
     },
     {
-      "author": "John Kruzel",
-      "description": "The U.S. Consumer Financial Protection Bureau is currently pursuing nearly two dozen lawsuits accusing prominent defendants including Fifth Third Bank <a href=\"https://www.reuters.com/markets/companies/FITB.O\" target=\"_blank\">(FITB.O)</a>, TransUnion <a href=\"https://www.reuters.com/markets/companies/TRU.N\" target=\"_blank\">(TRU.N)</a> and Moneygram of financial misconduct. But the watchdog's future may be in peril thanks to <a href=\"/legal/us-supreme-court-hear-consumer-watchdog-agencys-appeal-2023-02-27/\">a case</a> now before the U.S. Supreme Court.",
-      "publishedAt": "2023-09-12T10:23:56Z",
-      "title": "Conservatives hope Supreme Court defangs US consumer watchdog",
-      "url": "https://www.reuters.com/world/us/conservatives-hope-supreme-court-defangs-us-consumer-watchdog-2023-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/WOjLG8isQo_Xq_h40FqGBNIR0tc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LG454RA3HZLYDHWSBP6LZW3A5E.jpg"
+      "author": "Reuters",
+      "description": "A federal grand jury has indicted five former Memphis police officers in the killing of Tyre Nichols, a Black man who died after being beaten by police in January, according to a court document filed on Tuesday.",
+      "publishedAt": "2023-09-12T18:48:28Z",
+      "title": "Five former Memphis police officers indicted in Tyre Nichols killing",
+      "url": "https://www.reuters.com/world/us/five-former-memphis-police-officers-indicted-over-tyre-nichols-death-filing-2023-09-12/",
+      "urlToImage": "https://www.reuters.com/resizer/mn-Pz6HNFF4hFurY2UvSzpR9978=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JHI4WHTCJJIEFAAELHUCUM2RBM.jpg"
     }
   ],
   "sortBy": "top",
