@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Banseka Kayembe, Roisin Lanigan",
+      "content": "",
+      "description": "Should we be worried? Probably, yeah.",
+      "publishedAt": "2023-09-12T07:09:06Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The age of AI dating is here",
+      "url": "https://i-d.vice.com/en/article/z3mqba/ai-dating-apps-technology",
+      "urlToImage": "https://video-images.vice.com/articles/64f70ba112db225893c6941d/lede/1694502523075-202ea61f0c7043149cea0e50db12d40f.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Adam Rothbarth, Gregory Babcock, Hilary Pollack",
       "content": "Baldness is a complex thing, because there are lots of different reasons to not have hair. Maybe you once had a luscious mane, but time has robbed you of it, or perhaps you\u2019re dealing with illness an\u2026 [+5295 chars]",
       "description": "Though it\u2019s not named for Mr. Worldwide, the Pitbull head shaver will have you looking as slick as the eggheaded superstar.",
@@ -1286,21 +1299,8 @@
       "title": "Monthly Horoscope: Aries, September 2023",
       "url": "https://www.vice.com/en/article/k7zgjn/monthly-horoscope-aries-september-2023",
       "urlToImage": "https://video-images.vice.com/articles/64ee27951e6a5796d1d47e1f/lede/1693413174812-6virgolibramonthly21920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Douglas Greenwood, Ashley Tyner",
-      "content": "",
-      "description": "His film that 'isn't a film' is, instead, a loving and inspired ode to his favourite author.",
-      "publishedAt": "2023-09-01T17:29:50Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "The Wonderful Story of Henry Sugar is a fresh start for Wes Anderson",
-      "url": "https://i-d.vice.com/en/article/wxjzvm/the-wonderful-story-of-henry-sugar-review-wes-anderson",
-      "urlToImage": "https://video-images.vice.com/articles/64f1f76512db225893c638eb/lede/1693589377352-80102-thewonderfulstoryofhenrysugar-actorbenedictcumberbatchcreditsnetflix.jpeg?image-resize-opts=Y3JvcD0xeHc6MC43OTI0eGg7MHh3LDAuMDk1OXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
     }
   ],
   "status": "ok",
-  "totalResults": 278
+  "totalResults": 279
 }
