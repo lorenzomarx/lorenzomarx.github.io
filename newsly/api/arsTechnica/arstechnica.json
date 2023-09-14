@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Tie-in Coca-Cola mobile app uses Stable Diffusion to modify your photos.",
+      "publishedAt": "2023-09-12T22:41:55+00:00",
+      "title": "Coca-Cola embraces controversial AI image generator with new \u201cY3000\u201d flavor",
+      "url": "https://arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/coke_y3000-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Air bubbles, oil droplets are the primary factors, plus emulsifiers for extra chewiness",
+      "publishedAt": "2023-09-12T22:14:28+00:00",
+      "title": "The physics of saltwater taffy",
+      "url": "https://arstechnica.com/science/2023/09/the-physics-of-salt-water-taffy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/taffyTOP-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Not everyone is at the same risk, but advisors called for simplicity and equity.",
+      "publishedAt": "2023-09-12T22:04:34+00:00",
+      "title": "Everyone should get a COVID booster this fall, CDC says",
+      "url": "https://arstechnica.com/health/2023/09/everyone-should-get-a-covid-booster-this-fall-cdc-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1207345889-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "The $1,400 device never ran a current version of Android.",
+      "publishedAt": "2023-09-12T21:49:23+00:00",
+      "title": "RIP to the Microsoft Surface Duo\u2019s support window, an unmitigated disaster",
+      "url": "https://arstechnica.com/gadgets/2023/09/microsoft-puts-the-surface-duo-1-out-of-its-misery-ends-support/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Surface-Feature-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "One-handed phones are a dying breed. It makes sense, but it's also a bummer.",
+      "publishedAt": "2023-09-12T21:25:17+00:00",
+      "title": "The iPhone 13 mini is dead, leaving small phone lovers in a lurch",
+      "url": "https://arstechnica.com/gadgets/2023/09/the-iphone-13-mini-is-dead-leaving-small-phone-lovers-in-a-lurch/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/iPhone-13-mini-760x380.jpeg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "It's not too late to check if a Linux device you use was targeted.",
       "publishedAt": "2023-09-12T19:34:27+00:00",
@@ -39,46 +79,6 @@
       "title": "iOS 17 hits supported devices on September 18",
       "url": "https://arstechnica.com/gadgets/2023/09/ios-17-hits-supported-devices-on-september-18/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/1-3-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding and Samuel Axon",
-      "description": "iPhone 15 starts at $799, iPhone 15 Plus starts at $899. Available September 22.",
-      "publishedAt": "2023-09-12T18:12:01+00:00",
-      "title": "Apple\u2019s iPhone 15 adds Dynamic Island and switches to USB-C",
-      "url": "https://arstechnica.com/gadgets/2023/09/apples-iphone-15-replaces-the-notch-and-switches-to-usb-c/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.38.20-PM-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham & Samuel Axon",
-      "description": "iPhone 15 Pro still starts at $999, Pro Max at $1,199, available September 22.",
-      "publishedAt": "2023-09-12T17:59:55+00:00",
-      "title": "Apple\u2019s new iPhone 15 Pro gets new chips, better cameras, and a titanium frame",
-      "url": "https://arstechnica.com/gadgets/2023/09/apples-new-iphone-15-pro-gets-new-chips-better-cameras-and-a-titanium-frame/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-1.55.19-PM-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "It's a modest update spearheaded by a super-bright new display.",
-      "publishedAt": "2023-09-12T17:38:34+00:00",
-      "title": "Apple announces the Apple Watch Ultra 2, with a blazing 3,000-nit display",
-      "url": "https://arstechnica.com/gadgets/2023/09/apple-announces-the-apple-watch-ultra-2-with-a-blazing-3000-nit-display/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.29.31-PM-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "New models are $399, available Sept. 22, with new \"Double Tap\" finger gestures.",
-      "publishedAt": "2023-09-12T17:15:32+00:00",
-      "title": "New Apple Watch Series 9 improves Siri processing, iPhone-finding, and more",
-      "url": "https://arstechnica.com/gadgets/2023/09/new-apple-watch-series-9-improves-siri-processing-iphone-finding-and-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.11.31-PM-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Variations linked to fertility, survival still present in a small population.",
-      "publishedAt": "2023-09-12T16:57:48+00:00",
-      "title": "Researchers sequence genomes of rare parrot to help it thrive",
-      "url": "https://arstechnica.com/science/2023/09/genomes-could-help-enigmatic-endangered-nocturnal-parrot-make-a-comeback/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1287134021-760x380.jpg"
     }
   ],
   "sortBy": "top",
