@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "With 70 zero-days uncovered so far this year, 2023 is on track to set a new record.",
+      "publishedAt": "2023-09-13T22:11:21+00:00",
+      "title": "With 0-days hitting Chrome, iOS, and dozens more this month, is no software safe?",
+      "url": "https://arstechnica.com/security/2023/09/with-0-days-hitting-chrome-ios-and-dozens-more-this-month-is-no-software-safe/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/zeroday-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Google plans to slow down hiring, and that means fewer recruiters.",
+      "publishedAt": "2023-09-13T21:22:47+00:00",
+      "title": "Even more Google layoffs: This time it\u2019s \u201csignificant\u201d cuts to recruiting",
+      "url": "https://arstechnica.com/google/2023/09/even-more-google-layoffs-this-time-its-significant-cuts-to-recruiting/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Musicians: Speak now or forever hold your beats.",
+      "publishedAt": "2023-09-13T20:59:17+00:00",
+      "title": "AI can now generate CD-quality music from text, and it\u2019s only getting better",
+      "url": "https://arstechnica.com/information-technology/2023/09/ai-can-now-generate-cd-quality-music-from-text-and-its-only-getting-better/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_singing_3-760x380.jpg"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "We have the usual tech stuff and some extras for making the day-to-day easier.",
+      "publishedAt": "2023-09-13T19:56:45+00:00",
+      "title": "Dealmaster: Coffee gear, iPhone 15 accessory discounts, and more",
+      "url": "https://arstechnica.com/shopping/2023/09/dealmaster-coffee-gear-iphone-15-accessory-discounts-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.38.20-PM-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "Repair shops must disclose if they're using \"non-authorized\" parts.",
       "publishedAt": "2023-09-13T19:30:11+00:00",
@@ -47,38 +79,6 @@
       "title": "Unity\u2019s new \u201cper-install\u201d pricing enrages the game development community",
       "url": "https://arstechnica.com/gaming/2023/09/game-developers-unite-against-unitys-new-per-install-pricing-structure/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/unity-blow-up-760x380.jpg"
-    },
-    {
-      "author": "Kenna Hughes-Castleberry",
-      "description": "The birds can associate images with distinct reward probabilities.",
-      "publishedAt": "2023-09-13T15:04:26+00:00",
-      "title": "For the first time, research reveals crows use statistical logic",
-      "url": "https://arstechnica.com/science/2023/09/for-the-first-time-research-reveals-crows-use-statistical-logic/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-503103398-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "10 percent of F-150 sales are hybrid; Ford wants that to be 20 percent for MY24.",
-      "publishedAt": "2023-09-13T14:37:30+00:00",
-      "title": "Ford wants to double sales of hybrid F-150 pickup trucks, cuts price",
-      "url": "https://arstechnica.com/cars/2023/09/ford-wants-to-double-sales-of-hybrid-f-150-pickup-trucks-cuts-price/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/f-150-lariat-grille-red-2254x1523-1-760x380.jpeg"
-    },
-    {
-      "author": "Jacek\u00a0Krywko",
-      "description": "We're getting closer to bioregenerative life-support systems for astronauts.",
-      "publishedAt": "2023-09-13T11:00:43+00:00",
-      "title": "What would it take to build a self-sustaining astronaut ecosystem on Mars?",
-      "url": "https://arstechnica.com/science/2023/09/what-would-it-take-to-build-a-self-sustaining-astronaut-ecosystem-on-mars/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/biology-habitats-on-mars-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Tie-in Coca-Cola mobile app uses Stable Diffusion to modify your photos.",
-      "publishedAt": "2023-09-12T22:41:55+00:00",
-      "title": "Coca-Cola embraces controversial AI image generator with new \u201cY3000\u201d flavor",
-      "url": "https://arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/coke_y3000-760x380.jpg"
     }
   ],
   "sortBy": "top",
