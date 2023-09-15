@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Tom Cassauwers",
+      "content": "When the Titan submersible, carrying five sightseers to the wreck of the Titanic, blew up thousands of metres under the ocean surface in June, it underscored why humanity knows more about the surface\u2026 [+11220 chars]",
+      "description": "Autonomous, unmanned, perpetually operating submersibles could be a safer and smarter route to the ocean's secrets.",
+      "publishedAt": "2023-09-14T04:36:27Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Titan implosion: Is AI the future of deep-sea exploration?",
+      "url": "https://www.aljazeera.com/features/2023/9/14/titan-implosion-is-ai-the-future-of-deep-sea-exploration",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/story_37_final_NEW-1694656026.jpg?resize=1620%2C1080&quality=80"
+    },
+    {
       "author": "Al Jazeera",
       "content": "Russian President Vladimir Putin has accepted an invitation from Kim Jong Un to visit North Korea after the two leaders held their first face-to-face summit in four years.\r\nKim is in Russias far east\u2026 [+4546 chars]",
       "description": "Kim is continuing his tour of eastern Russia after his summit with Putin at the Vostochny Cosmodrome.",
@@ -1286,21 +1299,8 @@
       "title": "India vigilante Monu Manesar, accused of inciting Haryana riots, arrested",
       "url": "https://www.aljazeera.com/news/2023/9/12/india-vigilante-monu-manesar-accused-of-inciting-haryana-riots-arrested",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/F3UJfFLaEAIdmaC-1-1691998340.jpg?resize=1200%2C675"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "The expansion of industrial-scale mines that extract cobalt and copper for rechargeable batteries has led to forced evictions and human rights abuses, including sexual assault, in the Democratic Repu\u2026 [+1635 chars]",
-      "description": "Expansion of industrial-scale mines has led to forced evictions, Amnesty International says.",
-      "publishedAt": "2023-09-12T10:42:27Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Mining of cobalt, copper in DRC leading to human rights abuses: Report",
-      "url": "https://www.aljazeera.com/news/2023/9/12/mining-of-cobalt-copper-in-drc-leading-to-human-rights-abuses-report",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2016-07-04T120000Z_1912488098_S1AETNRGJDAA_RTRMADP_3_CONGO-MINING-1694510898.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1460
+  "totalResults": 1461
 }
