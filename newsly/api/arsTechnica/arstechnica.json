@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "San Francisco HQ and Austin office closed through Friday, CEO town hall delayed.",
+      "publishedAt": "2023-09-14T19:59:02+00:00",
+      "title": "Unity shuts two offices, citing threats after controversial pricing changes",
+      "url": "https://arstechnica.com/gaming/2023/09/potential-threat-shuts-two-unity-offices-after-per-install-fee-announcement/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/09/unity-760x380.png"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Why is this $500 tablet full of so much empty space?",
+      "publishedAt": "2023-09-14T19:49:44+00:00",
+      "title": "The Pixel Tablet is actually just a few spare parts in a half-empty body",
+      "url": "https://arstechnica.com/gadgets/2023/09/the-pixel-tablet-is-actually-just-a-few-spare-parts-in-a-half-empty-body/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/5-1-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "\"We don't 'lock up'... our customers,\" and \"we do not 'leverage' anything.\"",
       "publishedAt": "2023-09-14T18:26:54+00:00",
@@ -63,22 +79,6 @@
       "title": "A phone call to helpdesk was likely all it took to hack MGM",
       "url": "https://www.ft.com/content/e7445618-c7b3-4299-8213-140e1225723c",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/bellagio-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "17-inch bendy OLED with an i7, 12th-gen chip will be available at the end of October.",
-      "publishedAt": "2023-09-14T12:00:46+00:00",
-      "title": "HP\u2019s $5,000 Spectre Foldable PC has a lot to prove",
-      "url": "https://arstechnica.com/gadgets/2023/09/hps-5000-spectre-foldable-pc-has-a-lot-to-prove/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/listing-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "With 70 zero-days uncovered so far this year, 2023 is on track to set a new record.",
-      "publishedAt": "2023-09-13T22:11:21+00:00",
-      "title": "With 0-days hitting Chrome, iOS, and dozens more this month, is no software safe?",
-      "url": "https://arstechnica.com/security/2023/09/with-0-days-hitting-chrome-ios-and-dozens-more-this-month-is-no-software-safe/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/zeroday-760x380.jpg"
     }
   ],
   "sortBy": "top",
