@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "With 14 of 22 attendees being CEOs, some experts say key voices were missing.",
+      "publishedAt": "2023-09-14T22:25:24+00:00",
+      "title": "Private AI summit with senators, titans of tech garners controversy",
+      "url": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/zuckerberg_insight_hero-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "The award ceremony features miniature operas, scientific demos, and the 24/7 lectures.",
+      "publishedAt": "2023-09-14T22:00:20+00:00",
+      "title": "Meet the winners of the 2023 Ig Nobel Prizes",
+      "url": "https://arstechnica.com/science/2023/09/meet-the-winners-of-the-2023-ig-nobel-prizes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobles-2022-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "But other measures of intelligence, like learning associations, are unconnected.",
+      "publishedAt": "2023-09-14T21:51:52+00:00",
+      "title": "Birds\u2019 problem-solving skills linked to song complexity",
+      "url": "https://arstechnica.com/science/2023/09/birds-problem-solving-skills-linked-to-song-complexity/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-522664604-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Automatic Chromebook expiration dates still \"fundamentally flawed,\" critics say.",
+      "publishedAt": "2023-09-14T20:52:22+00:00",
+      "title": "Google extends Chromebook support from 8 years to 10 after heightened backlash",
+      "url": "https://arstechnica.com/gadgets/2023/09/google-extends-chromebook-support-from-8-years-to-10-after-heightened-backlash/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-115746295-760x380.jpg"
+    },
+    {
       "author": "Kyle Orland",
       "description": "San Francisco HQ and Austin office closed through Friday, CEO town hall delayed.",
       "publishedAt": "2023-09-14T19:59:02+00:00",
@@ -47,38 +79,6 @@
       "title": "Autopsy of a star reveals what was eviscerated by a monster black hole",
       "url": "https://arstechnica.com/science/2023/09/autopsy-of-a-star-reveals-what-was-eviscerated-by-a-monster-black-hole/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/image-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"I don't know what lies ahead. But we can't leave our children a world without hope.\"",
-      "publishedAt": "2023-09-14T16:46:25+00:00",
-      "title": "Black Manta is out for revenge in trailer for Aquaman and the Lost Kingdom",
-      "url": "https://arstechnica.com/culture/2023/09/black-manta-is-out-for-revenge-in-trailer-for-aquaman-and-the-lost-kingdom/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/aquamanLIST-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "At 103 miles/kWh, the car is 25 times more efficient than any EV on sale.",
-      "publishedAt": "2023-09-14T16:07:18+00:00",
-      "title": "This EV smashed the world record for distance on a single charge",
-      "url": "https://arstechnica.com/cars/2023/09/1600-miles-on-a-single-charge-student-built-ev-sets-new-world-record/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/1720514-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple already sells standard USB-C devices, and the iPhone is no different.",
-      "publishedAt": "2023-09-14T15:31:46+00:00",
-      "title": "Contrary to rumors, the iPhone 15 has a standard, by-the-book USB-C port",
-      "url": "https://arstechnica.com/gadgets/2023/09/contrary-to-rumors-the-iphone-15-has-a-standard-by-the-book-usb-c-port/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/iphone-usb-c-760x380.jpeg"
-    },
-    {
-      "author": "Mehul Srivastava and Hannah Murphy, Financial Times",
-      "description": "Slot machines and hotel room key cards stopped working at MGM casinos on the Strip.",
-      "publishedAt": "2023-09-14T13:11:13+00:00",
-      "title": "A phone call to helpdesk was likely all it took to hack MGM",
-      "url": "https://www.ft.com/content/e7445618-c7b3-4299-8213-140e1225723c",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/bellagio-760x380.jpg"
     }
   ],
   "sortBy": "top",
