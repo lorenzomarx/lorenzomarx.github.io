@@ -1,12 +1,60 @@
 {
   "articles": [
     {
+      "author": "ALEXANDRA OLSON",
+      "description": "NEW YORK (AP) \u2014 It\u2019s been a central argument for the United Auto Workers union: If Detroit's three automakers raised CEO pay by 40% over the past four years, workers should get similar raises.UAW President Shawn Fain has repeatedly cited the figure, contrasting it with the 6% pay raises autoworkers have received since their last contract in 2019.",
+      "publishedAt": "2023-09-17T13:14:01Z",
+      "title": "UAW justifies wage demands by pointing to CEO pay raises. So how high were they?",
+      "url": "https://apnews.com/dacdfe9ec0736f4fbf3ce7ee38b4bcf4",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2a83c3193cf54db3bf3c98b94a29b5fe/3000.jpeg"
+    },
+    {
       "author": "KIM TONG-HYUNG, HYUNG-JIN KIM and ELISE MORTON",
       "description": "SEOUL, South Korea (AP) \u2014 North Korean leader Kim Jong Un is on his way home Sunday from Russia, ending a six-day trip that triggered global concerns about weapons transfer deals between the two countries locked in separate standoffs with the West.",
       "publishedAt": "2023-09-17T01:26:16Z",
       "title": "North Korean leader Kim Jong Un on his way home after concluding a trip to Russia's Far East",
       "url": "https://apnews.com/7f9fad83f4e56c684c11b9fffbd047e8",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/a039d237e06945beb7690357672a1de2/3000.jpeg"
+    },
+    {
+      "author": "ROBERT F. BUKATY and DAVID SHARP",
+      "description": "BAR HARBOR, Maine (AP) \u2014 Atlantic storm Lee \u2014 which made landfall at near-hurricane strength, bringing destructive winds and torrential rains to New England and Maritime Canada \u2014 kept weakening Sunday after officials withdrew warnings and predicted the storm would disappear early this week.",
+      "publishedAt": "2023-09-17T05:27:49Z",
+      "title": "Atlantic storm Lee delivers high winds and rain before forecasters call off all warnings",
+      "url": "https://apnews.com/b40d9806887070c318487ecd1f81ef13",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/880f6cf6cbc94d409e9876e30754a17c/1920.jpeg"
+    },
+    {
+      "author": "EDITH M. LEDERER",
+      "description": "UNITED NATIONS (AP) \u2014 The war in Ukraine and its visiting president take center stage at the United Nations this week, but developing countries will be vying for the spotlight as well as they push for faster action on poverty and inequality at the first full-on meeting of world leaders since the COVID-19 pandemic disrupted travel three years ago.",
+      "publishedAt": "2023-09-17T19:06:52Z",
+      "title": "Ukraine is the spotlight at UN leaders' gathering, but is there room for other global priorities?",
+      "url": "https://apnews.com/27e5e572b91d2598d4249c6cc029bfa0",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/163cc0f9d61d4b11a93bb20dfbb16719/3000.jpeg"
+    },
+    {
+      "author": "CLAIRE RUSH and LAURA UNGAR",
+      "description": "Alisha Alderson placed her folded clothes and everything she needed for the last month of her pregnancy in various suitcases. She never imagined she would have to leave the comfort of her home in rural eastern Oregon just weeks before her due date.",
+      "publishedAt": "2023-09-17T14:08:43Z",
+      "title": "Rural hospitals are closing maternity wards. People are seeking options to give birth closer to home",
+      "url": "https://apnews.com/e67a91d927eb545459e83bc7b2b95a0d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5d1ae76470c04653840647f672e5833b/3000.jpeg"
+    },
+    {
+      "author": "MARK KENNEDY",
+      "description": "NEW YORK (AP) \u2014 Drew Barrymore, who drew criticism for taping new episodes of her daytime talk show despite the ongoing writers and actors strikes, now says she'll wait until the labor issues are resolved.",
+      "publishedAt": "2023-09-17T14:43:22Z",
+      "title": "Drew Barrymore and 'The Talk' postpone their daytime talk shows until after the Hollywood strikes",
+      "url": "https://apnews.com/92e4ded590fb2c75f08d4ea94224bd96",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3a994ca614864e089e1816d63bd15736/3000.jpeg"
+    },
+    {
+      "author": "MICHELLE L. PRICE",
+      "description": "NEW YORK (AP) \u2014 Former President Donald Trump repeatedly declined in an interview aired Sunday to answer questions about whether he watched the Capitol riot unfold on television, saying he would \u201ctell people later at an appropriate time.\u201d",
+      "publishedAt": "2023-09-17T14:22:25Z",
+      "title": "Trump refuses to say in a TV interview how he watched the Jan. 6 attack unfold at the US Capitol",
+      "url": "https://apnews.com/59460113ce82ce6f6140d47856261a56",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/728b67fccc794c769e76b256b44a2f7f/2811.jpeg"
     },
     {
       "author": "HAZEM TURKIA and JACK JEFFERY",
@@ -17,68 +65,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/fd2717167f89414ebafd775f71a5a19f/3000.jpeg"
     },
     {
-      "author": "ROBERT F. BUKATY and DAVID SHARP",
-      "description": "BAR HARBOR, Maine (AP) \u2014 Atlantic storm Lee made landfall at near-hurricane strength Saturday, bringing destructive winds, rough surf and torrential rains to New England and Maritime Canada.",
-      "publishedAt": "2023-09-17T05:27:49Z",
-      "title": "Atlantic storm Lee delivers high winds and rain before forecasters call off warnings in some areas",
-      "url": "https://apnews.com/b40d9806887070c318487ecd1f81ef13",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/880f6cf6cbc94d409e9876e30754a17c/1920.jpeg"
-    },
-    {
-      "author": "PAUL J. WEBER and JUAN A. LOZANO",
-      "description": "AUSTIN, Texas (AP) \u2014 Newly acquitted of impeachment charges, Texas Attorney General Ken Paxton is back on the job and getting back to the usual. Promises to keep dragging the Biden administration into court.",
-      "publishedAt": "2023-09-17T07:08:32Z",
-      "title": "Texas AG Ken Paxton is back on job after acquittal but Republicans aren't done attacking each other",
-      "url": "https://apnews.com/2b2fae98e0552b4e1da554c0752b9ddd",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/acdc903c1e2c496b80d93349ebdacf7e/1920.jpeg"
-    },
-    {
-      "author": "DAVID KOENIG",
-      "description": "DALLAS (AP) \u2014 Car shoppers are heading for a new round of sticker shock if the strike by the United Auto Workers doesn\u2019t end soon, particularly for popular vehicles that are already in short supply.",
-      "publishedAt": "2023-09-16T13:41:07Z",
-      "title": "The auto workers strike will drive up car prices, but not right away \u2014 unless consumers panic",
-      "url": "https://apnews.com/98905c8e0fcf633d21a1f83183f9fd49",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7e66cd1c35084a619783a2d6d1578194/3000.jpeg"
-    },
-    {
-      "author": "HANNA ARHIROVA",
-      "description": "KRAMATORSK, Ukraine (AP) \u2014 In a basement in one of the front-line cities in Ukraine's Donetsk region, people gather three times a week in the morning for yoga to alleviate the stress caused by the constant shelling from Russian artillery.",
-      "publishedAt": "2023-09-17T04:07:55Z",
-      "title": "Yoga in a basement helps people in a Ukrainian front-line city cope with Russia's constant shelling",
-      "url": "https://apnews.com/97d87e2fd0ed2e882b5db5ded8080fa6",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e556bae95ef547329c4aaac7ac0540ff/3000.jpeg"
-    },
-    {
-      "author": "SAM METZ and MOSA'AB EL SHAMY",
-      "description": "AMIZMIZ, Morocco (AP) \u2014 With their arms around each other, three boys walked through the streets of their town at the foot of Morocco\u2019s Atlas Mountains.It could have been a scene like millions around the world that day.",
-      "publishedAt": "2023-09-17T04:05:00Z",
-      "title": "AP PHOTOS: Moroccan earthquake shattered thousands of lives",
-      "url": "https://apnews.com/920c39947f895cdfc3448e5431df7562",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7477d6096bbb4193b5683ec917bb0b5f/3000.jpeg"
-    },
-    {
-      "author": "WILL WEISSERT and THOMAS BEAUMONT",
-      "description": "DES MOINES, Iowa (AP) \u2014 Hoping to cut into Donald Trump's support at a major Iowa gathering of evangelical Christians, several of his top rivals on Saturday mostly avoided direct criticism of him on abortion and other issues key to social conservatives.",
-      "publishedAt": "2023-09-16T16:13:02Z",
-      "title": "Donald Trump's GOP rivals try to attract social conservatives in Iowa at an event he skipped",
-      "url": "https://apnews.com/4fa52a5cfbb003e29d0c9a57ace0edd7",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2d56f62fd6074f078f113ba8eb8f8bb2/3000.jpeg"
-    },
-    {
       "author": null,
-      "description": "PALMDALE, Calif. (AP) \u2014 A Los Angeles County Sheriff's Department deputy died after he was shot in his patrol car Saturday evening by an unknown assailant and an investigation is underway that the sheriff said will press all of the department\u2019s resources into action.",
-      "publishedAt": "2023-09-17T05:08:53Z",
-      "title": "Los Angeles County sheriff's deputy dies after being shot in his patrol car by an unknown assailant",
-      "url": "https://apnews.com/353f2e537c78b62a98136f7bcb1df789",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f32597ed9b6f40c3bc3ad38deb516d73/1080.jpeg"
+      "description": "KYIV, Ukraine (AP) \u2014 Two cargo ships arrived in one of Ukraine's ports over the weekend, using a temporary Black Sea corridor established by Kyiv following Russia's withdrawal from a wartime agreement designed to ensure safe grain exports from the invaded country\u2019s ports.",
+      "publishedAt": "2023-09-17T12:57:59Z",
+      "title": "First two cargo ships arrive in Ukrainian port after Russia's exit from grain deal",
+      "url": "https://apnews.com/ace7685703cbc19f00d4107b97f84fef",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/70f61e99c19b48d5a368889f0ad04d48/3000.jpeg"
     },
     {
-      "author": null,
-      "description": "LOS ANGELES (AP) \u2014 An armed man accused of impersonating a federal officer was taken into custody outside a Robert F. Kennedy Jr. campaign event in Los Angeles.A Los Angeles Police Department statement said police received a call Friday afternoon that a man with a loaded gun and holster and wearing a U.S.",
-      "publishedAt": "2023-09-17T00:05:48Z",
-      "title": "Armed man accused of impersonating officer detained at Kennedy campaign event in LA",
-      "url": "https://apnews.com/dcd6a12a95ea4ba46df649989edecb2d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c24204649766469393fb5832d052bd4b/3000.jpeg"
+      "author": "GARY FIELDS and ADRIANA GOMEZ LICON",
+      "description": "WASHINGTON (AP) \u2014 The Supreme Court\u2019s decision siding with Black voters in an Alabama redistricting case gave Democrats and voting rights activists a surprising opportunity before the 2024 elections.",
+      "publishedAt": "2023-09-17T11:53:18Z",
+      "title": "A Supreme Court redistricting ruling gave hope to Black voters. They're still waiting for new maps",
+      "url": "https://apnews.com/af60cdd8d71c5b102a950623bd31e555",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5485380f8c164dd09af6d2cf56aafaf7/3000.jpeg"
     }
   ],
   "sortBy": "top",
