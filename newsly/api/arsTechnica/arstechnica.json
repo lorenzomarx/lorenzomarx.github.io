@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "SprySOCKS borrows from open source Windows malware and adds new tricks.",
+      "publishedAt": "2023-09-18T23:25:04+00:00",
+      "title": "Chinese hackers have unleashed a never-before-seen Linux backdoor",
+      "url": "https://arstechnica.com/security/2023/09/never-before-seen-linux-backdoor-is-a-windows-malware-knockoff/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/trojan-backdoor-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "There's a sharp partisan divide, but interest blows away uptake of the last booster.",
+      "publishedAt": "2023-09-18T22:17:04+00:00",
+      "title": "More than half of Americans plan to get updated COVID shot",
+      "url": "https://arstechnica.com/health/2023/09/more-than-half-of-americans-plan-to-get-updated-covid-shot/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1666317109-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "The DOJ objected when the court removed the public from the Google trial on Monday.",
+      "publishedAt": "2023-09-18T21:49:45+00:00",
+      "title": "Keeping Google\u2019s search secrets protects its monopoly, DOJ argues in court",
+      "url": "https://arstechnica.com/tech-policy/2023/09/keeping-googles-search-secrets-protects-its-monopoly-doj-argues-in-court/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1444475597-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "The cycling drama came to a head on top of the most demanding mountain in Europe.",
+      "publishedAt": "2023-09-18T21:16:52+00:00",
+      "title": "A water carrier just won the hardest cycling race on the planet",
+      "url": "https://arstechnica.com/culture/2023/09/a-water-carrier-just-won-the-hardest-cycling-race-on-the-planet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1687219336-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "A production pause could let GM solve a battery cell manufacturing headache.",
+      "publishedAt": "2023-09-18T20:02:03+00:00",
+      "title": "Autoworker strike could give GM breathing room to fix battery production",
+      "url": "https://arstechnica.com/cars/2023/09/autoworker-strike-could-give-gm-breathing-room-to-fix-battery-production/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/2022-GMC-HUMMER-EV-Ultium-054-inside-ultium-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Engine maker may also eliminate \"retroactive\" install counts for minimum thresholds.",
+      "publishedAt": "2023-09-18T19:44:42+00:00",
+      "title": "Report: Unity considering revenue-based fee caps, self-reported install numbers",
+      "url": "https://arstechnica.com/gaming/2023/09/report-unity-considering-revenue-based-fee-caps-self-reported-install-numbers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ricci-760x380.png"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "Israeli prime minister praised Musk's \"opposition to antisemitism\" in X chat.",
       "publishedAt": "2023-09-18T19:39:54+00:00",
@@ -31,54 +79,6 @@
       "title": "Dealmaster: Early Amazon Prime Big Day deals, Lenovo laptop savings, and more",
       "url": "https://arstechnica.com/shopping/2023/09/amazon-prime-big-day-deals-2023/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/2022-13-inch-MacBook-Pro-top-1440x787-1-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple once had higher hopes for what has stubbornly remained a TV-streaming box.",
-      "publishedAt": "2023-09-18T18:22:45+00:00",
-      "title": "tvOS 17\u2019s extra column of icons is its most useful new feature in years",
-      "url": "https://arstechnica.com/gadgets/2023/09/tvos-17s-extra-column-of-icons-is-its-most-useful-new-feature-in-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Apple-TV-4K-Siri-Remote-close-up-221018-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "The transition to Squarespace apparently started a few days ago.",
-      "publishedAt": "2023-09-18T17:44:09+00:00",
-      "title": "Google Domains halts registrations as it waits for the Google Grim Reaper",
-      "url": "https://arstechnica.com/google/2023/09/google-domains-halts-registrations-as-it-waits-for-the-google-grim-reaper/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/google-web-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Fixing damaged rear glass on a Pro phone used to cost half as much as a new one.",
-      "publishedAt": "2023-09-18T16:52:54+00:00",
-      "title": "Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro",
-      "url": "https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-1.59.20-PM-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple Watch gets a big overhaul, while most other updates focus on refinements.",
-      "publishedAt": "2023-09-18T16:18:10+00:00",
-      "title": "Apple releases most of 2023\u2019s big software updates today\u2014is your device supported?",
-      "url": "https://arstechnica.com/gadgets/2023/09/ios-17-ipados-17-watchos-10-and-tvos-17-are-all-available-to-download-now/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/apple-OSes-2023-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Statement comes as publishers threaten boycotts, developers move to other engines.",
-      "publishedAt": "2023-09-18T15:29:37+00:00",
-      "title": "Unity promises \u201cchanges\u201d to install fee plans as developer fallout continues",
-      "url": "https://arstechnica.com/gaming/2023/09/unity-promises-changes-to-install-fee-plans-as-developer-fallout-continues/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/unitylogo-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Will be replaced by Yusuf Mehdi, who has been leading the way on AI efforts.",
-      "publishedAt": "2023-09-18T15:20:28+00:00",
-      "title": "Panos Panay, leader of the Surface and Windows teams, is leaving Microsoft",
-      "url": "https://arstechnica.com/gadgets/2023/09/panos-panay-leader-of-the-surface-and-windows-teams-is-leaving-microsoft/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_0575-760x380.jpeg"
     }
   ],
   "sortBy": "top",
