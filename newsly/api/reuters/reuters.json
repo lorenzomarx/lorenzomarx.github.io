@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "David Shepardson, Joseph White",
+      "description": "Detroit's Big Three automakers and the United Auto Workers remained far apart in labor negotiations on Wednesday, less than 48 hours before the union's deadline to make significant progress or escalate a strike with new work stoppages.",
+      "publishedAt": "2023-09-20T18:29:52Z",
+      "title": "UAW, Detroit Three in standoff as wider strike looms",
+      "url": "https://www.reuters.com/business/autos-transportation/canadian-union-unifor-reaches-tentative-agreement-with-ford-2023-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/-FLD3ewma59hApsNimjAwwqI8Yk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JL6CY42BONJIFNQBBWUBQ74ICM.jpg"
+    },
+    {
+      "author": "Leroy Leo, Khushi Mandowara",
+      "description": "U.S. employers are bracing for the largest increase in health insurance costs in a decade next year, according forecasts from healthcare consultants, but workers may be somewhat spared this time around in a tight labor market.",
+      "publishedAt": "2023-09-20T18:12:01Z",
+      "title": "US employers to see biggest healthcare cost jump in a decade in 2024",
+      "url": "https://www.reuters.com/world/us/us-employers-see-biggest-healthcare-cost-jump-decade-2024-2023-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/PexSP4Fx23CXs-Z_SrZfmcKWXrg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M5NX723BRVP4TNEMXGYRQ6H34I.jpg"
+    },
+    {
+      "author": "Dawn Chmielewski",
+      "description": "Walt Disney <a href=\"https://www.reuters.com/markets/companies/DIS.N\" target=\"_blank\">(DIS.N)</a> CEO Bob Iger told investors the company will \"quiet the noise\" in a culture war that has pitted social conservatives against the global media and entertainment conglomerate, according to an analyst note on Wednesday.",
+      "publishedAt": "2023-09-20T16:51:46Z",
+      "title": "Disney CEO says company will 'quiet the noise' in culture wars, according to analyst note",
+      "url": "https://www.reuters.com/business/media-telecom/disney-ceo-says-company-will-quiet-noise-culture-wars-analyst-2023-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/yxe8CmOViDM_l4H42ejUiJHW8w0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GARFKQAZLNLQJDR3WLTUQCYDM4.jpg"
+    },
+    {
       "author": "Byron Kaye",
       "description": "Australia's Qantas Airways said its former CEO took a pay increase of 872% as he collected years' worth of long-term incentives on the way out, but added it was cutting and withholding hefty bonuses amid damaging lawsuits.",
       "publishedAt": "2023-09-20T07:44:22Z",
@@ -9,52 +33,36 @@
       "urlToImage": "https://www.reuters.com/resizer/wOEAFeM60Itgd_iwaL90zNZ5OB4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HT3NHZSYBFLONAZGAMKRYZTQ3Q.jpg"
     },
     {
+      "author": "Reuters",
+      "description": "France on Wednesday published new eligibility rules for electric car incentives to exclude EVs made in China, even though carmakers in Europe do not have more affordable rival models on the French market.",
+      "publishedAt": "2023-09-20T17:25:36Z",
+      "title": "Explainer: How France aims to discourage buying of Chinese EVs",
+      "url": "https://www.reuters.com/business/autos-transportation/how-france-aims-discourage-buying-chinese-evs-2023-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/Ffw7MlR9Lfb7wjBkY5NEE6dZBEo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XH56IPYBQZMLNBJXKDYCYYBGM4.jpg"
+    },
+    {
+      "author": "Greg Bensinger",
+      "description": "Amazon.com Inc <a href=\"https://www.reuters.com/markets/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> on Wednesday unveiled a slate of new and refreshed devices and updated its Alexa voice assistant with generative artificial intelligence to attract users to the unprofitable product as competition grows from chatbots like Google's Bard.",
+      "publishedAt": "2023-09-20T17:56:05Z",
+      "title": "Amazon plays catch-up with Alexa generative AI, shows off new, refreshed hardware",
+      "url": "https://www.reuters.com/technology/amazon-plays-catch-up-with-alexa-generative-ai-shows-off-refreshed-hardware-2023-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/us97s2qdQ75UFnvbb77rzn720Eg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZDTVUX3PK5I4LHTCXSQZEIMGTI.jpg"
+    },
+    {
+      "author": "Valerie Volcovici",
+      "description": "Former New York City Mayor Michael Bloomberg announced on Wednesday he will pump $500 million into the next phase of his energy transition campaign, aiming to shut down \"every last\" coal plant in the United States and slash gas-fired capacity in half by 2030.",
+      "publishedAt": "2023-09-20T16:32:28Z",
+      "title": "Michael Bloomberg pumps $500 million into bid to close all US coal plants",
+      "url": "https://www.reuters.com/business/energy/michael-bloomberg-pumps-500-million-into-bid-close-all-us-coal-plants-2023-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/Y5u2M365C2rLeJehScgoA7BjYNo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6KSPGMHJ6FIZNJPAXXZD6MRGEI.jpg"
+    },
+    {
       "author": "Howard Schneider",
-      "description": "Confident the Federal Reserve will leave interest rates unchanged, investors are far more focused on the release of new forecasts on Wednesday that will reveal how much U.S. central bank policymakers buy into the prospect of an economic \"soft landing\" and what rate environment will prevail alongside it.",
-      "publishedAt": "2023-09-20T10:08:27Z",
-      "title": "Fed projections to show if 'soft landing' is new baseline ... or baseless",
+      "description": "The U.S. Federal Reserve held interest rates steady on Wednesday but stiffened its hawkish stance, with another rate increase projected by the end of the year and monetary policy kept significantly tighter through 2024 than previously expected.",
+      "publishedAt": "2023-09-20T18:51:17Z",
+      "title": "Fed leaves interest rates unchanged, sees tighter policy through 2024",
       "url": "https://www.reuters.com/markets/rates-bonds/fed-projections-show-if-soft-landing-is-new-baseline-or-baseless-2023-09-20/",
       "urlToImage": "https://www.reuters.com/resizer/FFeGacUh5wrGMdogvpgohUCo5JI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BDL3ET27EZPSPDW2SBDCWR7ULU.jpg"
-    },
-    {
-      "author": "Sarah Wu",
-      "description": "Tesla supplier Hota Industrial Mfg. Co <a href=\"https://www.reuters.com/markets/companies/1536.TW\" target=\"_blank\">(1536.TW)</a> will invest $99 million to build its first plant outside of Asia in the U.S. state of New Mexico, the Taiwanese company said on Wednesday, citing greater emphasis on regional production in supply chains.",
-      "publishedAt": "2023-09-20T10:07:32Z",
-      "title": "Tesla supplier Hota to build first US factory in New Mexico",
-      "url": "https://www.reuters.com/business/autos-transportation/tesla-supplier-hota-build-first-us-factory-new-mexico-2023-09-20/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=157"
-    },
-    {
-      "author": "Huw Jones, Sinead Cruise",
-      "description": "When London\u2019s Lord Mayor called recently for the creation of a new council to lead reform of Britain's flagging financial services sector, a deep sense of deja vu eclipsed the City.",
-      "publishedAt": "2023-09-20T05:18:54Z",
-      "title": "'Talking shops' and too little action hamper City of London reboot",
-      "url": "https://www.reuters.com/world/uk/talking-shops-too-little-action-hamper-city-london-reboot-2023-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/ODSPzLiaGLVcQEWZiwa7xBcIFe0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HE3YOSJCRFNFJMGKN3HSU52ATI.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "Unions at the Apple <a href=\"https://www.reuters.com/markets/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> France stores have called for a strike on Friday and Saturday ahead of the iPhone 15 launch, demanding better pay and working conditions.",
-      "publishedAt": "2023-09-20T11:34:02Z",
-      "title": "Apple France workers call strike ahead of iPhone 15 launch",
-      "url": "https://www.reuters.com/technology/apple-france-workers-call-strike-ahead-iphone-15-launch-2023-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/J4nyctmcB6-r3Q-P779FFYJfoiY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NNFAEAL3SFKNJL2CY7IN7MM5TE.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "Grocery delivery app Instacart's stock <a href=\"https://www.reuters.com/markets/companies/CART.O\" target=\"_blank\">(CART.O)</a> fell nearly 5% in premarket trading on Wednesday, on course to join other new stock market entrants in failing to keep up with their strong gains on debut.",
-      "publishedAt": "2023-09-20T12:00:11Z",
-      "title": "Instacart stock subdued as debut enthusiasm loses steam",
-      "url": "https://www.reuters.com/markets/us/instacart-stock-subdued-debut-enthusiasm-loses-steam-2023-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/-nJlPnuJQihvfYlza1Uy5zHqArk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZE6R6IIQPRJJ5LYHCPHGZQOARA.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "China kept benchmark lending rates unchanged at a monthly fixing on Wednesday, matching market expectations, as fresh signs of economic stabilisation and a weakening yuan reduced the need for immediate monetary easing.",
-      "publishedAt": "2023-09-20T01:51:13Z",
-      "title": "China leaves benchmark lending rates unchanged, as expected",
-      "url": "https://www.reuters.com/markets/rates-bonds/china-leaves-benchmark-lending-rates-unchanged-expected-2023-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/GV4TZGBCHauP5KBlF9tKVY4GaqM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LLGDOKLP2NJIRIKGBE2PBNNWXU.jpg"
     },
     {
       "author": "Felix Light",
@@ -65,20 +73,12 @@
       "urlToImage": "https://www.reuters.com/resizer/tMrtXXFq-B5e1ZgWxHZcaMFmtPE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IH7NDE7IF5PBTMORV2BFOW5NCQ.jpg"
     },
     {
-      "author": "Rajesh Prabhuswamy",
-      "description": "India's main opposition Congress party backed on Wednesday the government's rejection of Canada's suspicions that New Delhi's agents had links to the murder of a Sikh separatist leader, and urged a stand against threats to the country's sovereignty.",
-      "publishedAt": "2023-09-20T08:03:05Z",
-      "title": "India's opposition Congress dismisses Canada's suspicions on Sikh leader's murder",
-      "url": "https://www.reuters.com/world/india/indias-opposition-congress-dismisses-canadas-suspicions-sikh-leaders-murder-2023-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/lUOOrFHgH7YPmpw1PZqWTPwiYik=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/44DKRXLEBZLWDOEQWH6EB2LY2A.jpg"
-    },
-    {
-      "author": "Tom Hals",
-      "description": "The father of a woman who died in <a href=\"/world/us/how-did-hawaii-wildfires-start-what-know-about-maui-big-island-blazes-2023-08-11/\">the Hawaii wildfires</a> last month has launched a novel lawsuit against three major landowners, seeking to hold them responsible even though they did not start the fire and the blaze ignited on land they do not own.",
-      "publishedAt": "2023-09-20T10:10:12Z",
-      "title": "Maui fire lawsuit blames landowners for wild grass growth",
-      "url": "https://www.reuters.com/world/us/novel-lahaina-wildfire-lawsuit-asks-when-is-wild-grass-inherently-dangerous-2023-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/y_Ypww-BBliGpgRdVQgcDRkmv0E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IJYKESBSZJIBPKKLD6GYDIXVRY.jpg"
+      "author": "Brad Brooks",
+      "description": "Opening statements were due to begin Wednesday in the first of three trials over the 2019 death of Elijah McClain, a Black man who was not suspected of any crime when Colorado police confronted him, placed him in a choke hold and called paramedics who gave him a sedative overdose.",
+      "publishedAt": "2023-09-20T18:14:07Z",
+      "title": "Colorado police face trial over death of Elijah McClain",
+      "url": "https://www.reuters.com/legal/colorado-police-face-trial-over-ketamine-killing-elijah-mcclain-2023-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/gm_mSKxEg1HeF1lt4LuhPsHsnhM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AATISH3UNBMXDO5MGBIDF6F3SI.jpg"
     }
   ],
   "sortBy": "top",
