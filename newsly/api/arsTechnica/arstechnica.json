@@ -1,10 +1,50 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "The FAA says Varda launched its vehicle into space without a reentry license.",
+      "publishedAt": "2023-09-20T23:02:27+00:00",
+      "title": "Permission denied for reentry of Varda\u2019s orbiting experiment capsule",
+      "url": "https://arstechnica.com/space/2023/09/permission-denied-for-reentry-of-vardas-orbiting-experiment-capsule/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/vardacapsule1-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "With better response to details and text, DALL-E 3 hopes to make prompt engineering obsolete.",
+      "publishedAt": "2023-09-20T22:35:55+00:00",
+      "title": "OpenAI\u2019s new AI image generator pushes the limits in detail and prompt fidelity",
+      "url": "https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/dalle_2_hero-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Linux's six-year long-term support was meant to help embedded devices.",
+      "publishedAt": "2023-09-20T22:02:38+00:00",
+      "title": "Linux gives up on 6-year LTS kernels, says they\u2019re too much work",
+      "url": "https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2013/09/linux-penguin-640x215.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "The lancet liver fluke controls infected ants with a temperature-based on/off switch.",
+      "publishedAt": "2023-09-20T20:33:03+00:00",
+      "title": "Move over, Cordyceps, there\u2019s a new \u201czombie\u201d parasite to haunt our dreams",
+      "url": "https://arstechnica.com/science/2023/09/move-over-cordyceps-theres-a-new-zombie-parasite-to-haunt-our-dreams/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/zombie2-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "T-Mobile blames \"temporary system glitch\" during planned update.",
+      "publishedAt": "2023-09-20T20:28:18+00:00",
+      "title": "T-Mobile users saw other customers\u2019 personal data due to \u201csystem glitch\u201d",
+      "url": "https://arstechnica.com/tech-policy/2023/09/t-mobile-screwup-caused-customers-to-see-other-users-billing-information/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "Authors claim ChatGPT wouldn\u2019t exist without their books.",
       "publishedAt": "2023-09-20T19:44:54+00:00",
-      "title": "Grisham, Martin join authors suing OpenAI: \u201cThere is nothing fair about this\u201d",
+      "title": "Grisham, Martin join authors suing OpenAI: \u201cThere is nothing fair about this\u201d [Updated]",
       "url": "https://arstechnica.com/tech-policy/2023/09/george-r-r-martin-joins-authors-suing-openai-over-copyright-infringement/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1472008063-760x380.jpg"
     },
@@ -39,46 +79,6 @@
       "title": "Intel\u2019s biggest laptop CPU update in years is a huge departure from past designs",
       "url": "https://arstechnica.com/gadgets/2023/09/intels-meteor-lake-cpus-bring-a-much-faster-gpu-radically-new-chip-design/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Intel-Core-Ultra-Meteor-Lake-1-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The trial aims to help people with quadriplegia control a computer cursor or keyboard.",
-      "publishedAt": "2023-09-20T17:35:47+00:00",
-      "title": "Musk\u2019s Neuralink seeks volunteers for brain implants\u2014who\u2019s in?",
-      "url": "https://arstechnica.com/health/2023/09/musks-neuralink-seeks-volunteers-for-brain-implants-whos-in/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Screen-Shot-2022-12-01-at-4.23.21-PM-760x380.png"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "Shop early for the best savings on Amazon\u2019s second Prime Day event of 2023.",
-      "publishedAt": "2023-09-20T17:01:01+00:00",
-      "title": "Dealmaster: Early Amazon Prime Big Deal Days sales continue, Garmin deals, and more",
-      "url": "https://arstechnica.com/shopping/2023/09/dealmaster-early-amazon-prime-big-deal-days-sales-continue-garmin-deals-and-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/07/prime-day-2016-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "SpaceX has continued its trend toward a minimalist broadcast approach.",
-      "publishedAt": "2023-09-20T16:19:55+00:00",
-      "title": "SpaceX breaks another booster reuse record, but did anyone see it?",
-      "url": "https://arstechnica.com/space/2023/09/spacex-breaks-another-booster-reuse-record-but-did-anyone-see-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/starlink6-17-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Spencer: Real plans have \"evolved\" from what's in docs Microsoft accidentally shared.",
-      "publishedAt": "2023-09-20T15:39:05+00:00",
-      "title": "Xbox exec says leaked \u201cold emails and documents\u201d have \u201coutdated\u201d info",
-      "url": "https://arstechnica.com/gaming/2023/09/xbox-exec-says-leaked-old-emails-and-documents-have-outdated-info/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/02/dice_spencer-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The Korean automaker now wants to start production in Georgia in 2024.",
-      "publishedAt": "2023-09-20T15:24:47+00:00",
-      "title": "Hyundai hurries to finish factory in Georgia to meet US EV demand",
-      "url": "https://arstechnica.com/cars/2023/09/hyundai-hurries-to-finish-factory-in-georgia-to-meet-us-ev-demand/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/hyundai-ioniq-6-driving-experience-0323-exterior-16-760x380.jpg"
     }
   ],
   "sortBy": "top",
