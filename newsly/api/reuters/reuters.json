@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Ankika Biswas, Shristi A",
+      "description": "Nasdaq led declines in key Wall Street indexes on Thursday as a jump in Treasury yields knocked down growth stocks after the Federal Reserve signaled that another rate hike was in the offing this year.",
+      "publishedAt": "2023-09-21T14:47:44Z",
+      "title": "Nasdaq slides over 1% as growth stocks fall after hawkish Fed drives up yields",
+      "url": "https://www.reuters.com/markets/us/futures-drop-treasury-yields-rise-after-feds-hawkish-pause-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/I9YoMrZqfMq_hOe-MzHLnQsBC8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FE4FCC5N25O37OMC62U73J5CDA.jpg"
+    },
+    {
+      "author": "Karen Brettell",
+      "description": "Benchmark 10-year U.S. Treasury yields rose to 16-year highs on Thursday, a day after the Federal Reserve surprised investors by flagging the potential for an additional rate hike, and an expectation for fewer cuts next year.",
+      "publishedAt": "2023-09-21T13:55:19Z",
+      "title": "10-year yields hit 16-year peak as Fed seen higher for longer",
+      "url": "https://www.reuters.com/markets/rates-bonds/10-year-yields-hit-16-year-peak-fed-seen-higher-longer-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/h2cIom_yu8DfpugkaX7PVtHrRak=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KSUIXF3ZG5PXPDEWMJVTRXNAGQ.jpg"
+    },
+    {
+      "author": "Hyunjoo Jin",
+      "description": "The United Auto Workers (UAW) and the Detroit Three automakers were still at loggerheads with Friday's deadline looming for a threatened expansion of the union's U.S. strikes.",
+      "publishedAt": "2023-09-21T16:04:30Z",
+      "title": "Detroit Three under pressure to progress UAW talks, avoid wider auto strikes",
+      "url": "https://www.reuters.com/business/autos-transportation/detroit-three-under-pressure-progress-uaw-talks-avoid-wider-auto-strikes-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/p7KRMtE85RmqfePUfYvGoEEhpo0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZMEAWKDDNPFRB2PIES5OL62UM.jpg"
+    },
+    {
       "author": "Reuters",
       "description": "Cisco Systems <a href=\"https://www.reuters.com/markets/companies/CSCO.O\" target=\"_blank\">(CSCO.O)</a> on Thursday agreed to acquire cybersecurity company Splunk <a href=\"https://www.reuters.com/markets/companies/SPLK.O\" target=\"_blank\">(SPLK.O)</a> for about $28 billion, in its biggest acquisition ever that would bolster its network security business.",
       "publishedAt": "2023-09-21T12:10:43Z",
@@ -10,11 +34,19 @@
     },
     {
       "author": "Reuters",
-      "description": "As China's stock market struggles to recover, regulators have started to probe some hedge funds and brokerages on quantitative trading strategies amid a growing outcry against a sector able to profit from share price falls and volatility, sources said.",
-      "publishedAt": "2023-09-21T05:21:52Z",
-      "title": "Exclusive: China scrutinizes quant strategies as market weakness stokes public anger - sources",
-      "url": "https://www.reuters.com/world/china/china-scrutinizes-quant-strategies-market-weakness-stokes-public-anger-sources-2023-09-21/",
-      "urlToImage": "https://www.reuters.com/resizer/tHTXiu-F9WE2ihNeF2gkUUqDRPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QSJRHDNRVVI6PKH3HCRHSAN5KA.jpg"
+      "description": "The number of Americans filing new claims for unemployment benefits unexpectedly fell last week, but could rebound in the weeks ahead as a partial strike by the United Auto Workers (UAW) union forces automobile manufacturers to temporarily lay off workers because of shortages of some materials.",
+      "publishedAt": "2023-09-21T12:44:56Z",
+      "title": "US weekly jobless claims unexpectedly fall",
+      "url": "https://www.reuters.com/markets/us/us-weekly-jobless-claims-unexpectedly-fall-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/f3o0y6ez6JXtZiw-9hAb1fdjRVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KGYP5AMFYJJTVFTE352A5TT7FI.jpg"
+    },
+    {
+      "author": "Lewis Krauskopf",
+      "description": "Some of the shine is wearing off shares of Nvidia <a href=\"https://www.reuters.com/markets/companies/NVDA.O\" target=\"_blank\">(NVDA.O)</a> and other U.S. semiconductor companies after a stunning 2023 rally, as investors weigh steep valuations, rising Treasury yields and signs of industry unease.",
+      "publishedAt": "2023-09-21T15:32:45Z",
+      "title": "Nvidia, other US chip stocks stall over valuation, industry worries",
+      "url": "https://www.reuters.com/technology/nvidia-other-us-chip-stocks-stall-over-valuation-industry-worries-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/NL3uQqy7FCzEWQ6tmFS9QGN-7Lo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JRIZOQMFUVMMZI77GLTKPN6JI4.jpg"
     },
     {
       "author": "Tom Hals",
@@ -25,60 +57,28 @@
       "urlToImage": "https://www.reuters.com/resizer/A3eJ0pcYAgcCFRBFzV8nfeJxUcU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TIFN5BBPAFLTFOMAHI5I55MXZY.jpg"
     },
     {
-      "author": "Rajesh Singh",
-      "description": "Travel boom has delivered bumper earnings for U.S. carriers, but no-frills airlines such as Frontier <a href=\"https://www.reuters.com/markets/companies/ULCC.O\" target=\"_blank\">(ULCC.O)</a> and Spirit <a href=\"https://www.reuters.com/markets/companies/SAVE.N\" target=\"_blank\">(SAVE.N)</a> are struggling to return to sustainable profitability.",
-      "publishedAt": "2023-09-21T10:19:48Z",
-      "title": "Focus: Travel boom not enough to drive profits at US budget airlines Frontier, Spirit",
-      "url": "https://www.reuters.com/business/aerospace-defense/travel-boom-not-enough-drive-profits-us-budget-airlines-frontier-spirit-2023-09-21/",
-      "urlToImage": "https://www.reuters.com/resizer/7hbMTTAkMVICDz0mkIfNYlZrBSc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VVBPNM77FMD3ML4SPWV4QRHC4.jpg"
+      "author": "Patricia Zengerle, Makini Brice",
+      "description": "Ukrainian President Volodymyr Zelenskiy arrived at the U.S. Capitol on Thursday as Republican skeptics question whether Congress should approve a new round of aid for his country despite slow progress fighting Russian invaders.",
+      "publishedAt": "2023-09-21T13:05:43Z",
+      "title": "Ukraine's Zelenskiy arrives at US Capitol to address skeptical Republicans",
+      "url": "https://www.reuters.com/world/ukraines-zelenskiy-press-skeptical-republicans-aid-washington-visit-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/nTzb42gYErtzcOYD_v0tvaohHt4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C7CEYTVJVFJFXEG2EJERZKFJUA.jpg"
     },
     {
-      "author": "Yena Park, Jihoon Lee, Cynthia Kim",
-      "description": "South Korea's major exporters of cars and smartphones are bringing home a bigger chunk of their earnings this year to enjoy new tax breaks, and their 'reshoring' has become one rare source of support for a depreciating currency.",
-      "publishedAt": "2023-09-21T10:36:52Z",
-      "title": "As Samsung and Hyundai repatriate more earnings, weak won gets some reprieve",
-      "url": "https://www.reuters.com/markets/currencies/samsung-hyundai-repatriate-more-earnings-weak-won-gets-some-reprieve-2023-09-21/",
-      "urlToImage": "https://www.reuters.com/resizer/PLsLl5FRLGz-h8YMfcuiXu2obJ4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AKBPXCIGN5MBXCSRFCKYYVJVEA.jpg"
+      "author": "Reuters",
+      "description": "Media mogul Rupert Murdoch has stepped down as the chairman of Fox Corp <a href=\"https://www.reuters.com/markets/companies/FOXA.O\" target=\"_blank\">(FOXA.O)</a> and News Corp <a href=\"https://www.reuters.com/markets/companies/NWSA.O\" target=\"_blank\">(NWSA.O)</a>, the companies said on Thursday.",
+      "publishedAt": "2023-09-21T13:11:58Z",
+      "title": "Rupert Murdoch steps down as chairman of Fox, News Corp",
+      "url": "https://www.reuters.com/business/media-telecom/rupert-murdoch-steps-down-chairman-fox-news-corp-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/VRAukFhCnBPlicadU0ErSztkU4s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXL3L7WIQ5K5XKMLOL22QWPCCM.jpg"
     },
     {
-      "author": "Steven Scheer",
-      "description": "Financial markets are hoping Prime Minister Benjamin Netanyahu keeps Bank of Israel Governor Amir Yaron for a second term to safeguard the bank's independence and provide reassuring stability to an economy rattled by political turmoil this year.",
-      "publishedAt": "2023-09-21T12:32:42Z",
-      "title": "Analysis: Amid Israel turmoil, markets want continuity at central bank helm",
-      "url": "https://www.reuters.com/world/middle-east/amid-israel-turmoil-markets-want-continuity-central-bank-helm-2023-09-21/",
-      "urlToImage": "https://www.reuters.com/resizer/UtTo36ScbrPSZ4SywUKuyN6nrL0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2UEJA3MINZLITNQXFW5BGPZFII.jpg"
-    },
-    {
-      "author": "Kevin Yao",
-      "description": "China's economic slowdown is polarising government advisers over the best way forward, with advocates of structural reforms now emerging from the shadows in a challenge to others calling for more state spending to shore up faltering growth.",
-      "publishedAt": "2023-09-21T06:35:03Z",
-      "title": "Analysis: China's economic woes embolden calls for deeper reforms",
-      "url": "https://www.reuters.com/world/china/chinas-economic-woes-embolden-calls-deeper-reforms-2023-09-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v-1GgMB2ev_fzamOZVg8cNAvTPQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YJLMJWM44FLLXOVXUA7XULKISM.jpg"
-    },
-    {
-      "author": "Special Reports",
-      "description": "The United States Navy is carrying out the biggest overhaul of its top-secret undersea surveillance network since the end of the Cold War in an effort to contain the threat of China\u2019s submarines. Beijing has similar plans of its own.",
-      "publishedAt": "2023-09-21T11:00:00Z",
-      "title": "U.S. revives Cold War submarine spy program to counter China",
-      "url": "https://www.reuters.com/world/us-revives-cold-war-submarine-spy-program-counter-china-2023-09-21/",
-      "urlToImage": "https://www.reuters.com/investigates/special-report/assets/usa-china-tech-surveillance/mastheads/share_image.jpg?v=594322200923"
-    },
-    {
-      "author": "Lisa Richwine",
-      "description": "\"Set decorator for 20 years. Single mom of 15-year-old twins,\" said the sign above a table of cupcakes, cookies and other baked goods for sale. \"Struggling to pay bills, especially my mortgage.\"",
-      "publishedAt": "2023-09-21T10:11:16Z",
-      "title": "Hollywood workers resort to flea markets, bake sales as strikes drag on",
-      "url": "https://www.reuters.com/world/us/hollywood-workers-resort-flea-markets-bake-sales-strikes-drag-2023-09-21/",
-      "urlToImage": "https://www.reuters.com/resizer/BzONUVdllL2ulWrFVaOxSpCjZ5I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QT4SGFNK2ZKRPHCUCNBXRNUNPU.jpg"
-    },
-    {
-      "author": "Joe Cash",
-      "description": "Syrian President Bashar al-Assad has arrived in China's eastern city of Hangzhou, kicking off his first visit to the Asian nation since 2004 as he makes further strides to end more than a decade of diplomatic isolation amid Western sanctions.",
-      "publishedAt": "2023-09-21T09:37:26Z",
-      "title": "Syria's Assad in China, seeks exit from diplomatic isolation",
-      "url": "https://www.reuters.com/sports/syrias-assad-arrives-china-opening-event-asian-games-2023-09-21/",
-      "urlToImage": "https://www.reuters.com/resizer/rGXBGf2t-Xd5_VKL9Q2jJs3e4IQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D3ZUPNO6MRIV3NKN7SBBI5FMKE.jpg"
+      "author": "Reuters",
+      "description": "A bus crashed on a highway in New York state on Thursday in what authorities described as a \"mass casualty\" incident, and CNN reported at least one person was killed. CNN and local media outlets said the bus was carrying members of a high school band.",
+      "publishedAt": "2023-09-21T19:04:20Z",
+      "title": "Bus crashes on highway in New York state; officials report 'mass casualty' event",
+      "url": "https://www.reuters.com/world/us/bus-crashes-highway-new-york-state-officials-report-mass-casualty-event-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=157"
     }
   ],
   "sortBy": "top",
