@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "\"MSR was established with unrealistic budget and schedule expectations from the beginning.\"",
+      "publishedAt": "2023-09-21T20:33:07+00:00",
+      "title": "Independent reviewers find NASA Mars Sample Return plans are seriously flawed",
+      "url": "https://arstechnica.com/space/2023/09/independent-review-finds-mars-sample-return-mission-important-but-broken/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/09/mars_2-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Any object you create can be thrown back into a coffee grinder and reused on a new object.",
+      "publishedAt": "2023-09-21T20:20:20+00:00",
+      "title": "Don\u2019t throw out those used coffee grounds\u2014use them for 3D printing instead",
+      "url": "https://arstechnica.com/science/2023/09/dont-throw-out-those-used-coffee-grounds-use-them-for-3d-printing-instead/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/coffee1-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Plus: Amazon announced last week that two fake review brokers were arrested.",
+      "publishedAt": "2023-09-21T20:05:20+00:00",
+      "title": "Yelp names and shames businesses paying for 5-star reviews",
+      "url": "https://arstechnica.com/tech-policy/2023/09/yelp-names-and-shames-businesses-paying-for-5-star-reviews/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-868593170-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Company's power is a \"market failure\" with \"significant vendor lock risk\" for devs.",
+      "publishedAt": "2023-09-21T19:44:48+00:00",
+      "title": "EU game devs ask regulators to look at Unity\u2019s \u201canti-competitive\u201d bundling",
+      "url": "https://arstechnica.com/gaming/2023/09/eu-game-devs-ask-regulators-to-look-at-unitys-anti-competitive-bundling/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/egdf-760x350.png"
+    },
+    {
       "author": "Ron Amadeo",
       "description": "All the displays, cameras, batteries, and back plate are now for sale.",
       "publishedAt": "2023-09-21T19:06:57+00:00",
@@ -12,7 +44,7 @@
       "author": "Benj Edwards",
       "description": "\"In order to help protect against abuse, we are lowering the volume limits we have in place.\"",
       "publishedAt": "2023-09-21T18:57:36+00:00",
-      "title": "AI-generated books force Amazon to cap ebook publications to 3 per day",
+      "title": "AI-generated books force Amazon to cap e-book publications to 3 per day",
       "url": "https://arstechnica.com/information-technology/2023/09/ai-generated-books-force-amazon-to-cap-ebook-publications-to-3-per-day/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/not_a_robot_hero-760x380.jpg"
     },
@@ -47,38 +79,6 @@
       "title": "Microsoft\u2019s new Surface Laptop Go 3 is officially no longer a budget PC",
       "url": "https://arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-go-gets-much-better-specs-and-a-200-price-hike/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_8420-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Passkeys, Paint, Backup, and other app updates make this a significant release.",
-      "publishedAt": "2023-09-21T16:21:43+00:00",
-      "title": "Next major Windows update is available September 26, with new AI (and not-AI) features",
-      "url": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_8402-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Jaguars will sport native North American Charging Standard plugs from 2025.",
-      "publishedAt": "2023-09-21T16:06:24+00:00",
-      "title": "Jaguar jettisions CCS charger plug, negotiates Tesla Supercharger access",
-      "url": "https://arstechnica.com/cars/2023/09/jaguar-jettisions-ccs-charger-plug-negotiates-tesla-supercharger-access/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Hero-Image-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Google continues fight to block public access to key facts in monopoly trial.",
-      "publishedAt": "2023-09-21T15:45:37+00:00",
-      "title": "Judge \u201cin a pickle\u201d after Google demands DOJ stop sharing public trial exhibits",
-      "url": "https://arstechnica.com/tech-policy/2023/09/google-fights-to-hide-embarrassing-but-not-confidential-doj-trial-exhibit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1676852593-760x380.jpg"
-    },
-    {
-      "author": "Alice Callahan, Knowable Magazine",
-      "description": "Researchers are figuring out the features of these foods that harm our health.",
-      "publishedAt": "2023-09-21T15:03:54+00:00",
-      "title": "What can we do about ultraprocessed foods?",
-      "url": "https://knowablemagazine.org/article/food-environment/2023/what-can-we-do-about-ultraprocessed-foods",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/cereal-760x380.jpg"
     }
   ],
   "sortBy": "top",
