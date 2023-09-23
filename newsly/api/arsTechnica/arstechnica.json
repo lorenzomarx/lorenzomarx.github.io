@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "Interview: \"It was not our intent to nickel-and-dime it, but it came across that way.\"",
+      "publishedAt": "2023-09-22T22:08:28+00:00",
+      "title": "Unity exec tells Ars he\u2019s on a mission to earn back developer trust",
+      "url": "https://arstechnica.com/gaming/2023/09/unity-exec-tells-ars-hes-on-a-mission-to-earn-back-developer-trust/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/unitylogo-760x380.jpeg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Connect an Android \"webcam\" to Windows, Mac, Linux, or even another Android phone.",
+      "publishedAt": "2023-09-22T20:46:43+00:00",
+      "title": "Android phones get PC webcam capabilities in the latest beta",
+      "url": "https://arstechnica.com/gadgets/2023/09/android-phones-get-pc-webcam-capabilities-in-the-latest-beta/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-5-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Multiple rats in Atlanta test positive for calamitous, rapidly spreading parasite.",
+      "publishedAt": "2023-09-22T20:34:04+00:00",
+      "title": "Worm that jumps from rats to slugs to human brains has invaded Southeast US",
+      "url": "https://arstechnica.com/health/2023/09/worm-that-jumps-from-rats-to-slugs-to-human-brains-has-invaded-southeast-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/04/Angiostrongylus_cantonensis-287x380.png"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Pro model shipments are backed up for weeks.",
+      "publishedAt": "2023-09-22T19:55:33+00:00",
+      "title": "Apple\u2019s new iPhone 15 and 15 Pro reach doorsteps and store shelves",
+      "url": "https://arstechnica.com/gadgets/2023/09/iphone-15-and-iphone-15-pro-launch-today-if-you-can-find-one/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.38.20-PM-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "No fees for Personal tier or old/current projects, new 2.5% revenue cap, and more.",
+      "publishedAt": "2023-09-22T19:37:09+00:00",
+      "title": "Unity makes major changes to controversial install-fee program",
+      "url": "https://arstechnica.com/gaming/2023/09/unity-makes-major-changes-to-controversial-install-fee-program/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/unitysplash.png"
+    },
+    {
+      "author": "Andrew Cunningham & Lee Hutchinson",
+      "description": "Recap: The shadow rises, the Seanchan strengthen, and our characters face desperation.",
+      "publishedAt": "2023-09-22T19:25:58+00:00",
+      "title": "Depredations and depravities reign in this week\u2019s Wheel of Time",
+      "url": "https://arstechnica.com/culture/2023/09/depredations-and-depravities-reign-in-this-weeks-wheel-of-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/WOFT_S2_UT_205_220316_THIJAN_01089_1_700-700x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "New rules make it a bit harder for VoIP providers to access numbering system.",
+      "publishedAt": "2023-09-22T19:13:07+00:00",
+      "title": "FCC closing loophole that gave robocallers easy access to US phone numbers",
+      "url": "https://arstechnica.com/tech-policy/2023/09/fcc-closing-loophole-that-gave-robocallers-easy-access-to-us-phone-numbers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/robocallers-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Prime Video subscribers will see ads unless they pay extra.",
       "publishedAt": "2023-09-22T16:52:59+00:00",
@@ -23,62 +79,6 @@
       "title": "iOS 16.7 arrives for older iPhones and people who don\u2019t want to upgrade",
       "url": "https://arstechnica.com/gadgets/2023/09/ios-16-7-arrives-for-older-iphones-and-people-who-dont-want-to-upgrade/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Apple-WWDC22-iOS16-3up-hero-220606-760x380.jpg"
-    },
-    {
-      "author": "Paresh Dave, wired.com",
-      "description": "With no audio or video, a handful of activists try to ensure world knows what's happening.",
-      "publishedAt": "2023-09-22T13:21:11+00:00",
-      "title": "Law geeks shine a light on secretive Google antitrust trial",
-      "url": "https://www.wired.com/story/law-geeks-exposing-google-secretive-antitrust-trial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/google_lens-640x215.jpg"
-    },
-    {
-      "author": "Eric Bangeman",
-      "description": "Ride around town in style on this $1,999 e-bike.",
-      "publishedAt": "2023-09-22T11:33:23+00:00",
-      "title": "Rolling in style: The Priority E-Coast beach cruiser",
-      "url": "https://arstechnica.com/cars/2023/09/rolling-in-style-the-priority-e-coast-beach-cruiser/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/priority-bike-fence-760x380.jpg"
-    },
-    {
-      "author": "Timothy B. Lee",
-      "description": "A rule against copyrighting AI art will be unworkable.",
-      "publishedAt": "2023-09-22T11:07:17+00:00",
-      "title": "Opinion: The Copyright Office is making a mistake on AI-generated art",
-      "url": "https://arstechnica.com/tech-policy/2023/09/opinion-dont-exclude-ai-generated-art-from-copyright/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "This wasn't a great week for small launch vehicles.",
-      "publishedAt": "2023-09-22T11:00:06+00:00",
-      "title": "Rocket Report: Two small launchers fail in flight; Soyuz crew flies to ISS",
-      "url": "https://arstechnica.com/space/2023/09/rocket-report-soyuz-crew-flies-to-iss-ariane-6-faces-another-delay/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/53193245961_88f2a67330_k-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "No one mentioned that libwebp, a library found in millions of apps, was a 0-day origin.",
-      "publishedAt": "2023-09-21T22:19:58+00:00",
-      "title": "Incomplete disclosures by Apple and Google create \u201chuge blindspot\u201d for 0-day hunters",
-      "url": "https://arstechnica.com/security/2023/09/incomplete-disclosures-by-apple-and-google-create-huge-blindspot-for-0-day-hunters/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "On Monday, households can order 4 free tests with shipments expected to start Oct. 2.",
-      "publishedAt": "2023-09-21T20:54:18+00:00",
-      "title": "US to again offer free COVID tests ahead of respiratory virus season",
-      "url": "https://arstechnica.com/health/2023/09/starting-monday-you-can-order-free-covid-tests-from-the-feds-again/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1242555716-760x380.jpeg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"MSR was established with unrealistic budget and schedule expectations from the beginning.\"",
-      "publishedAt": "2023-09-21T20:33:07+00:00",
-      "title": "Independent reviewers find NASA Mars Sample Return plans are seriously flawed",
-      "url": "https://arstechnica.com/space/2023/09/independent-review-finds-mars-sample-return-mission-important-but-broken/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/09/mars_2-760x380.jpg"
     }
   ],
   "sortBy": "top",
