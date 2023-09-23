@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Eric Bangeman",
+      "description": "Ride around town in style on this $1,999 beach cruiser.",
+      "publishedAt": "2023-09-22T11:33:23+00:00",
+      "title": "Rolling in style: The Priority E-Coast beach cruiser",
+      "url": "https://arstechnica.com/cars/2023/09/rolling-in-style-the-priority-e-coast-beach-cruiser/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/priority-bike-fence-760x380.jpg"
+    },
+    {
+      "author": "Timothy B. Lee",
+      "description": "A rule against copyrighting AI art will be unworkable.",
+      "publishedAt": "2023-09-22T11:07:17+00:00",
+      "title": "Opinion: The Copyright Office is making a mistake on AI-generated art",
+      "url": "https://arstechnica.com/tech-policy/2023/09/opinion-dont-exclude-ai-generated-art-from-copyright/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "This wasn't a great week for small launch vehicles.",
+      "publishedAt": "2023-09-22T11:00:06+00:00",
+      "title": "Rocket Report: Two small launchers fail in flight; Soyuz crew flies to ISS",
+      "url": "https://arstechnica.com/space/2023/09/rocket-report-soyuz-crew-flies-to-iss-ariane-6-faces-another-delay/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/53193245961_88f2a67330_k-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "No one mentioned that libwebp, a library found in millions of apps, was a 0-day origin.",
       "publishedAt": "2023-09-21T22:19:58+00:00",
@@ -55,30 +79,6 @@
       "title": "The Pixel Fold\u2019s screen repair will cost $900",
       "url": "https://arstechnica.com/gadgets/2023/09/the-pixel-folds-screen-repair-will-cost-900/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/7-1-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "\"In order to help protect against abuse, we are lowering the volume limits we have in place.\"",
-      "publishedAt": "2023-09-21T18:57:36+00:00",
-      "title": "AI-generated books force Amazon to cap e-book publications to 3 per day",
-      "url": "https://arstechnica.com/information-technology/2023/09/ai-generated-books-force-amazon-to-cap-ebook-publications-to-3-per-day/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/not_a_robot_hero-760x380.jpg"
-    },
-    {
-      "author": "Ars Contributors",
-      "description": "Yet another look into how alcohol influences interactions with the desired sex.",
-      "publishedAt": "2023-09-21T18:45:47+00:00",
-      "title": "New study looks again at how alcohol influences attraction",
-      "url": "https://arstechnica.com/science/2023/09/new-study-looks-again-at-how-alcohol-influences-attraction/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-861257242-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Google allegedly gave drivers bridge route for years despite correction requests.",
-      "publishedAt": "2023-09-21T17:17:15+00:00",
-      "title": "Google sued over fatal Google Maps error after man drove off broken bridge",
-      "url": "https://arstechnica.com/tech-policy/2023/09/lawsuit-says-man-died-after-google-maps-directed-him-over-collapsed-bridge/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/bridge-to-nowhere.jpg"
     }
   ],
   "sortBy": "top",
