@@ -1,0 +1,18 @@
+has_screenshot:true port:554
+'title:"NETSurveillance WEB"'
+"Siemens, SIMATIC" port:161
+"authentication disabled" "RFB 003.008"
+"\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00"
+title:"Weave Scope" http.favicon.hash:567176827
+"dnsmasq-pi-hole" "Recursion: enabled"
+"Android Debug Bridge" "Device" port:5555
+"x-owa-version" "IE=EmulateIE7" http.favicon.hash:442749392
+ssl:"Xerox Generic Root"
+"Set-Cookie: iomega=" -"manage/login.html" -http.title:"Log In"
+"Authentication: disabled" port:445 "Documents"
+ssl.cert.subject.CN:polycom
+"Chromecast:" port:8008
+http.title:"Index of /" http.html:".js"
+http.html:"* The wp-config.php creation script uses this file"
+"Server: AV_Receiver" "HTTP/1.1 406"
+net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24
