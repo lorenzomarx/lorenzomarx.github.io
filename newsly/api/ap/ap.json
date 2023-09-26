@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": null,
+      "description": "LOS ANGELES (AP) \u2014 Tentative deal reached to end the Hollywood writers strike. No deal yet for actors.",
+      "publishedAt": "2023-09-25T02:19:36Z",
+      "title": "Tentative deal reached to end the Hollywood writers strike. No deal yet for actors",
+      "url": "https://apnews.com/c9a04dd456ca8d9d02144afb9309aab5",
+      "urlToImage": ""
+    },
+    {
       "author": "LAURA UNGAR and JONATHAN MATTISE",
       "description": "Nearly a day after being downgraded from a tropical storm, Ophelia still threatened parts of the Northeast on Sunday with coastal flooding, life-threatening waves and heavy rain from Washington to New York City, the National Hurricane Center said.",
       "publishedAt": "2023-09-24T05:22:41Z",
@@ -9,12 +17,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/7a4d00dda3ba4290b5a18c54c46a02d9/2000.jpeg"
     },
     {
-      "author": null,
-      "description": "PARIS (AP) \u2014 President Emmanuel Macron announced Sunday that France will end its military presence in Niger and pull its ambassador out of the country after its democratically elected president was deposed in a coup.",
+      "author": "ANGELA CHARLTON and DALATOU MAMANE",
+      "description": "PARIS (AP) \u2014 President Emmanuel Macron announced Sunday that France will end its military presence in Niger and pull its ambassador out of the country as a result of the coup that removed the democratically elected president.",
       "publishedAt": "2023-09-24T18:43:24Z",
       "title": "President Macron says France will end its military presence in Niger, pull its ambassador after coup",
       "url": "https://apnews.com/0e866135cd49849ba4eb4426346bffd5",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/3c9ee59e6cdc4a91b556fd16326d4863/3000.jpeg"
+    },
+    {
+      "author": "MARCIA DUNN",
+      "description": "NASA\u2019s first asteroid samples fetched from deep space parachuted into the Utah desert Sunday to cap a seven-year journey.",
+      "publishedAt": "2023-09-24T11:22:16Z",
+      "title": "NASA's first asteroid samples land on Earth after release from spacecraft",
+      "url": "https://apnews.com/9918c2c13b689e01800de4ea42d60188",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ca0b4f6c4a0542518da422a3c24da5d4/3000.jpeg"
     },
     {
       "author": "LISA MASCARO and FARNOUSH AMIRI",
@@ -25,20 +41,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/f58ba0500e394a5d93caef0eb66ef7cf/3000.jpeg"
     },
     {
+      "author": "JENNIFER SINCO KELLEHER",
+      "description": "HONOLULU (AP) \u2014 From just outside the burn zone in Lahaina, Jes Claydon can see the ruins of the rental home where she lived for 13 years and raised three children. Little remains recognizable beyond the jars of sea glass that stood outside the front door.",
+      "publishedAt": "2023-09-24T13:02:25Z",
+      "title": "Residents prepare to return to sites of homes demolished in Lahaina wildfire 7 weeks ago",
+      "url": "https://apnews.com/9de9c29fb633c9aaba618ad066af998c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/43270ce9e2da433b9c259d08768edd14/3000.jpeg"
+    },
+    {
       "author": "HANNA ARHIROVA",
       "description": "KRAMATORSK, Ukraine (AP) \u2014 Among the hundreds of trains criss-crossing Ukraine\u2019s elaborate railway network every day, the Kyiv-Kramatorsk train stands apart, shrouded in solemn silence as passengers anticipate their destination.",
       "publishedAt": "2023-09-24T04:14:27Z",
       "title": "A Ukrainian train is a lifeline connecting the nation's capital with the front line",
       "url": "https://apnews.com/4e0547023d456e9f1a0c33372704cdf3",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/27252625e34849f0be618821f14a570e/3000.jpeg"
-    },
-    {
-      "author": "AAMER MADHANI",
-      "description": "WASHINGTON (AP) \u2014 President Joe Biden is set to establish diplomatic relations Monday with two South Pacific nations, the Cook Islands and Niue, as his administration aims to show to Pacific Island leaders that it is committed to increasing American presence in the region.",
-      "publishedAt": "2023-09-24T09:00:35Z",
-      "title": "US will establish diplomatic ties with the Cook Islands and Niue as Biden hosts Pacific leaders",
-      "url": "https://apnews.com/c07493a9c05893e1477d991cf07b9ffb",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d2351b9a8e4448629b829ec1206c58b3/3000.jpeg"
     },
     {
       "author": "JULIE WATSON",
@@ -55,22 +71,6 @@
       "title": "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them",
       "url": "https://apnews.com/62002360f2e3be32ccc7df020239efea",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/672da93283644fea8ec881450554538e/3000.jpeg"
-    },
-    {
-      "author": "JIM SALTER",
-      "description": "ST. LOUIS (AP) \u2014 Ben Phillips\u2019 childhood memories include basketball games with friends, and neighbors gathering in the summer shade at their St. Louis housing complex. He also remembers watching men in hazmat suits scurry on the roofs of high-rise buildings as a dense material poured into the air.",
-      "publishedAt": "2023-09-24T12:05:02Z",
-      "title": "Government should pay compensation for secretive Cold War-era testing, St. Louis victims say",
-      "url": "https://apnews.com/40f14597ceb9810fb4cdfba296221859",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4f18d2ada3c84a63b209d13fa138c87a/3000.jpeg"
-    },
-    {
-      "author": "MARCIA DUNN",
-      "description": "NASA\u2019s first asteroid samples fetched from deep space parachuted into the Utah desert Sunday to cap a seven-year journey.",
-      "publishedAt": "2023-09-24T11:22:16Z",
-      "title": "NASA's first asteroid samples land on Earth after release from spacecraft",
-      "url": "https://apnews.com/9918c2c13b689e01800de4ea42d60188",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ca0b4f6c4a0542518da422a3c24da5d4/3000.jpeg"
     },
     {
       "author": "RALPH D. RUSSO",
