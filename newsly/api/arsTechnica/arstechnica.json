@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "A previously unknown compression side channel in GPUs can expose images thought to be private.",
+      "publishedAt": "2023-09-26T17:40:53+00:00",
+      "title": "GPUs from all major suppliers are vulnerable to new pixel-stealing attack",
+      "url": "https://arstechnica.com/security/2023/09/gpus-from-all-major-suppliers-are-vulnerable-to-new-pixel-stealing-attack/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/pixels-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "If at first you don't create usable desktop widgets, try, try again.",
+      "publishedAt": "2023-09-26T17:08:40+00:00",
+      "title": "macOS 14 Sonoma: The Ars Technica review",
+      "url": "https://arstechnica.com/gadgets/2023/09/macos-14-sonoma-the-ars-technica-review/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/sonoma-light-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "23H2 resets the support clock, but all the new features are coming to 22H2.",
+      "publishedAt": "2023-09-26T17:00:07+00:00",
+      "title": "Windows 11 23H2\u2019s new features and version number are arriving separately",
+      "url": "https://arstechnica.com/gadgets/2023/09/windows-11-23h2-update-is-coming-later-this-year-but-wont-actually-do-anything/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Screen-Shot-2021-08-30-at-11.34.41-PM-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "FTC: Amazon \"extracts enormous monopoly rents from everyone within its reach.\"",
+      "publishedAt": "2023-09-26T16:45:54+00:00",
+      "title": "FTC files \u201cthe big one,\u201d a lawsuit alleging Amazon illegally maintains monopoly",
+      "url": "https://arstechnica.com/tech-policy/2023/09/ftc-files-the-big-one-a-lawsuit-alleging-amazon-illegally-maintains-monopoly/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-lina-khan-1-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Incorrect AI-generated answers are forming a feedback loop of misinformation online.",
+      "publishedAt": "2023-09-26T15:43:00+00:00",
+      "title": "Can you melt eggs? Quora\u2019s AI says \u201cyes,\u201d and Google is sharing the result",
+      "url": "https://arstechnica.com/information-technology/2023/09/can-you-melt-eggs-quoras-ai-says-yes-and-google-is-sharing-the-result/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/egg_hero_1-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Meanwhile, major game devs say fee structure changes haven't won them back.",
+      "publishedAt": "2023-09-26T15:35:55+00:00",
+      "title": "Oldest Unity game developer group breaks up over lack of trust in the company",
+      "url": "https://arstechnica.com/gaming/2023/09/oldest-unity-game-developer-group-breaks-up-over-lack-of-trust-in-the-company/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/bugend-760x380.png"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\"It would stand to reason that same philosophy would extend into space.\"",
       "publishedAt": "2023-09-26T00:25:20+00:00",
@@ -31,54 +79,6 @@
       "title": "SEC obtains Wall Street firms\u2019 private chats in probe of WhatsApp, Signal use",
       "url": "https://arstechnica.com/tech-policy/2023/09/sec-obtains-wall-street-firms-private-chats-in-probe-of-whatsapp-signal-use/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-whatsapp-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "LG's 17-inch foldable OLED arrives October 4 for 4.99 million won (~$3,726).",
-      "publishedAt": "2023-09-25T18:51:00+00:00",
-      "title": "The first foldable PC era is unfolding",
-      "url": "https://arstechnica.com/gadgets/2023/09/the-first-foldable-pc-era-is-unfolding/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/laptop-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Image recognition and voice features aim to make the AI bot's interface more intuitive.",
-      "publishedAt": "2023-09-25T18:38:26+00:00",
-      "title": "ChatGPT update enables its AI to \u201csee, hear, and speak,\u201c according to OpenAI",
-      "url": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/cyber_eyeball_hero-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Just about everything has leaked about the $699 Pixel 8 and $999 8 Pro.",
-      "publishedAt": "2023-09-25T18:27:04+00:00",
-      "title": "Pixel 8 leak promises 7 years of OS updates\u2014even more than an iPhone",
-      "url": "https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/10-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Controversial injunction stayed until Wednesday while SCOTUS mulls US motion.",
-      "publishedAt": "2023-09-25T17:40:37+00:00",
-      "title": "Supreme Court considers limits on White House contacts with social media",
-      "url": "https://arstechnica.com/tech-policy/2023/09/supreme-court-considers-limits-on-white-house-contacts-with-social-media/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Adding more power often adds little to the EV experience, but we like this one.",
-      "publishedAt": "2023-09-25T17:28:03+00:00",
-      "title": "The 2024 BMW i7 M70\u2014electric luxury turned up to 11",
-      "url": "https://arstechnica.com/cars/2023/09/the-2024-bmw-i7-m70-electric-luxury-turned-up-to-11/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/2024-BMW-i7-M70-first-drive-3-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"I don't believe in destiny, but if destiny exists, then it is heading for Donna Noble.\"",
-      "publishedAt": "2023-09-25T16:29:07+00:00",
-      "title": "Donna Noble is back and ready for a fight in trailer for Doctor Who specials",
-      "url": "https://arstechnica.com/culture/2023/09/donna-noble-is-back-and-ready-for-a-fight-in-trailer-for-doctor-who-specials/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/docwho1-760x380.jpg"
     }
   ],
   "sortBy": "top",
