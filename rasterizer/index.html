@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+
+	<head>
+		<title> Rasterizer </title>
+
+		<!-- CSS -->
+		<link href="css/style.css" rel="stylesheet" type="text/css">
+
+		<!-- JS -->
+		<script type="text/javascript" src="js/libs/dat.gui.min.js"></script>
+		<script type="text/javascript" src="js/Rasterizer.js"></script>
+
+	</head>
+
+	<body>
+
+		<!-- Header -->
+		<div id="info-tab">
+    		<div class="info first">
+        		<b>Rasterizer</b> expores image rasterization styles and techniques using colors gathered from the image.
+
+    		</div>
+    		<div class="info">
+        		This has been made using <i> Javascript </i>
+
+   			</div>
+    		<div id="title">Rasterizer</div>
+		</div>
+		<div id="back">
+    		<a href="../index.html"> Home </a> <span>&lsaquo;</span>
+		</div>
+		<script type="text/javascript" src="js/header.js"></script>
+
+		<!-- App -->
+		<canvas id='canvas'></canvas>
+		<script>
+			Rasterizer.init();
+			var gui = new dat.GUI();
+
+			gui.add(Rasterizer, 'style', [ 'dots', 'squares', 'horizontal-lines', 'diagonal-lines' ] ).onFinishChange( function(value) { Rasterizer.draw() } );
+			gui.add(Rasterizer, 'intensity', 0.2, 3 ).onChange( function(value) { Rasterizer.draw() } );
+			gui.add(Rasterizer, 'invert').name( 'Invert' ).onFinishChange( function(value) { Rasterizer.draw() } );
+			gui.add(Rasterizer, 'useUnderlyingColors').name( 'Use Colors' ).onFinishChange( function(value) { Rasterizer.draw() } );
+			gui.add(Rasterizer, 'uploadImage').name( 'Upload an Image' );
+			gui.add(Rasterizer, 'save').name( 'Save' );
+		</script>
+
+		<!-- Misc -->
+		
+
+	</body>
+</html>
