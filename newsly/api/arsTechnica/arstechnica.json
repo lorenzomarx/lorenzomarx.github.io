@@ -2,83 +2,83 @@
   "articles": [
     {
       "author": "Dan Goodin",
+      "description": "Previous CVE submission failed to mention that thousands of apps were affected.",
+      "publishedAt": "2023-09-27T00:47:53+00:00",
+      "title": "Google quietly corrects previously submitted disclosure for critical webp 0-day",
+      "url": "https://arstechnica.com/security/2023/09/google-quietly-corrects-previously-submitted-disclosure-for-critical-webp-0-day/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "\"There is some black dust-like material that's visible. We're hoping that's from Bennu.\"",
+      "publishedAt": "2023-09-27T00:23:57+00:00",
+      "title": "Scientists just opened the lid to NASA\u2019s asteroid sample canister",
+      "url": "https://arstechnica.com/space/2023/09/scientists-get-first-glimpse-of-samples-returned-from-asteroid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/53216584499_3d53a00f6a_4k-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Fragments of wine glasses, bowls and animal bones offer evidence for their last meal",
+      "publishedAt": "2023-09-26T22:06:07+00:00",
+      "title": "Archaeologists: Roman soldiers used this built-in fridge to keep their wine cool",
+      "url": "https://arstechnica.com/science/2023/09/archaeologists-roman-soldiers-used-this-built-in-fridge-to-keep-their-wine-cool/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/fridgeTOP-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Merck's small-molecule molnupiravir linked to mutated viruses that spread in people.",
+      "publishedAt": "2023-09-26T21:41:19+00:00",
+      "title": "Anti-viral drug backfires: COVID drug linked to viral mutations that spread",
+      "url": "https://arstechnica.com/health/2023/09/covid-anti-viral-drug-is-actively-helping-sars-cov-2-mutate-and-evolve/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1237805879-760x380.jpeg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "A thrilling roundup of the things Google has killed this week.",
+      "publishedAt": "2023-09-26T19:08:50+00:00",
+      "title": "This week\u2019s dead Google products: Google Podcasts, basic Gmail, and more!",
+      "url": "https://arstechnica.com/gadgets/2023/09/this-weeks-dead-google-products-google-podcasts-basic-gmail-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/google-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Democrats finally have 3-2 majority needed to regulate ISPs as common carriers.",
+      "publishedAt": "2023-09-26T18:47:55+00:00",
+      "title": "FCC details plan to restore the net neutrality rules repealed by Ajit Pai",
+      "url": "https://arstechnica.com/tech-policy/2023/09/fcc-details-plan-to-restore-the-net-neutrality-rules-repealed-by-ajit-pai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-rosenworcel-net-neutrality-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "As with placebo pills, time is making placebo magnetic stimulation more effective.",
+      "publishedAt": "2023-09-26T18:20:21+00:00",
+      "title": "In depression treatment trials, placebo effect is growing stronger",
+      "url": "https://arstechnica.com/science/2023/09/in-depression-treatment-trials-placebo-effect-is-growing-stronger/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-548557027-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "It's a tricky thing, telling customers that your stations are far from perfect.",
+      "publishedAt": "2023-09-26T18:08:42+00:00",
+      "title": "EVgo knows that DC fast charging is still rough, so it\u2019s fixing more stations",
+      "url": "https://arstechnica.com/cars/2023/09/evgo-knows-that-dc-fast-charging-is-still-rough-so-its-fixing-more-stations/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/evgo-Large-760x380.jpeg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Amazon recently locked some of Alexa's Guard security features behind a paywall.",
+      "publishedAt": "2023-09-26T17:59:46+00:00",
+      "title": "Amazon wants to charge a subscription fee for Alexa eventually",
+      "url": "https://arstechnica.com/gadgets/2023/09/amazon-wants-to-charge-a-subscription-fee-for-alexa-eventually/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1679327114-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
       "description": "A previously unknown compression side channel in GPUs can expose images thought to be private.",
       "publishedAt": "2023-09-26T17:40:53+00:00",
       "title": "GPUs from all major suppliers are vulnerable to new pixel-stealing attack",
       "url": "https://arstechnica.com/security/2023/09/gpus-from-all-major-suppliers-are-vulnerable-to-new-pixel-stealing-attack/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/pixels-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "If at first you don't create usable desktop widgets, try, try again.",
-      "publishedAt": "2023-09-26T17:08:40+00:00",
-      "title": "macOS 14 Sonoma: The Ars Technica review",
-      "url": "https://arstechnica.com/gadgets/2023/09/macos-14-sonoma-the-ars-technica-review/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/sonoma-light-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "23H2 resets the support clock, but all the new features are coming to 22H2.",
-      "publishedAt": "2023-09-26T17:00:07+00:00",
-      "title": "Windows 11 23H2\u2019s new features and version number are arriving separately",
-      "url": "https://arstechnica.com/gadgets/2023/09/windows-11-23h2-update-is-coming-later-this-year-but-wont-actually-do-anything/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Screen-Shot-2021-08-30-at-11.34.41-PM-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "FTC: Amazon \"extracts enormous monopoly rents from everyone within its reach.\"",
-      "publishedAt": "2023-09-26T16:45:54+00:00",
-      "title": "FTC files \u201cthe big one,\u201d a lawsuit alleging Amazon illegally maintains monopoly",
-      "url": "https://arstechnica.com/tech-policy/2023/09/ftc-files-the-big-one-a-lawsuit-alleging-amazon-illegally-maintains-monopoly/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-lina-khan-1-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Incorrect AI-generated answers are forming a feedback loop of misinformation online.",
-      "publishedAt": "2023-09-26T15:43:00+00:00",
-      "title": "Can you melt eggs? Quora\u2019s AI says \u201cyes,\u201d and Google is sharing the result",
-      "url": "https://arstechnica.com/information-technology/2023/09/can-you-melt-eggs-quoras-ai-says-yes-and-google-is-sharing-the-result/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/egg_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Meanwhile, major game devs say fee structure changes haven't won them back.",
-      "publishedAt": "2023-09-26T15:35:55+00:00",
-      "title": "Oldest Unity game developer group breaks up over lack of trust in the company",
-      "url": "https://arstechnica.com/gaming/2023/09/oldest-unity-game-developer-group-breaks-up-over-lack-of-trust-in-the-company/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/bugend-760x380.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"It would stand to reason that same philosophy would extend into space.\"",
-      "publishedAt": "2023-09-26T00:25:20+00:00",
-      "title": "Space Force chief says commercial satellites may need defending",
-      "url": "https://arstechnica.com/space/2023/09/space-force-chief-foresees-role-in-protecting-commercial-satellites/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1248268597-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"I am confident that Blue Origin's greatest achievements are still ahead of us.\"",
-      "publishedAt": "2023-09-25T22:04:17+00:00",
-      "title": "Jeff Bezos finally got rid of Bob Smith at Blue Origin",
-      "url": "https://arstechnica.com/space/2023/09/bob-smith-is-finally-gone-from-blue-origin-his-replacement-comes-from-amazon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1329735725-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The site was going to make lithium iron phosphate cells for electric vehicles.",
-      "publishedAt": "2023-09-25T21:30:53+00:00",
-      "title": "Ford pauses work on $3.5 billion battery factory in Michigan",
-      "url": "https://arstechnica.com/cars/2023/09/ford-pauses-work-on-3-5-billion-battery-factory-in-michigan/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Ford-Battery-6-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Execs' \"messages discussing business have been handed to the SEC,\" report says.",
-      "publishedAt": "2023-09-25T21:03:03+00:00",
-      "title": "SEC obtains Wall Street firms\u2019 private chats in probe of WhatsApp, Signal use",
-      "url": "https://arstechnica.com/tech-policy/2023/09/sec-obtains-wall-street-firms-private-chats-in-probe-of-whatsapp-signal-use/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-whatsapp-760x380.jpg"
     }
   ],
   "sortBy": "top",
