@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "A group of young activists is suing dozens of governments in Europe and beyond.A historic climate case has begun at the European Court of Human Rights in Strasbourg.\r\nYoung activists are taking on po\u2026 [+668 chars]",
+      "description": "A group of young activists is suing dozens of governments in Europe and beyond.",
+      "publishedAt": "2023-09-28T19:28:03Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Can a court force governments to act on climate change?",
+      "url": "https://www.aljazeera.com/program/inside-story/2023/9/28/can-a-court-force-governments-to-act-on-climate-change",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/image-91.jpg?resize=1200%2C675"
+    },
+    {
       "author": "Al Jazeera Staff",
       "content": "US Secretary of State Antony Blinken is meeting with his Indian counterpart in Washington, DC, as the United States has urged India to cooperate with Canadas investigation into the killing of a promi\u2026 [+5779 chars]",
       "description": "Canada PM says he received assurances that US will raise Hardeep Singh Nijjar's killing with Indian foreign minister.",
@@ -1286,21 +1299,8 @@
       "title": "China says drills around Taiwan to \u2018combat arrogance of separatists\u2019",
       "url": "https://www.aljazeera.com/news/2023/9/27/china-says-drills-around-taiwan-to-combat-arrogance-of-separatists",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-04-17T094604Z_31219740_RC2WE0ADE4XW_RTRMADP_3_JAPAN-CHINA-1695789734.jpg?resize=1200%2C630"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Scientists at the United States space agency NASA found black dust and debris when they opened the space capsule that recently returned to Earth with the largest asteroid sample ever brought back fro\u2026 [+3431 chars]",
-      "description": "Dark powder, sand-sized particles found as lid opened on Osiris-REx space probe which collected samples from asteroid.",
-      "publishedAt": "2023-09-27T04:15:57Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Asteroid \u2018dust, debris\u2019 likely found as returned NASA space capsule opened",
-      "url": "https://www.aljazeera.com/news/2023/9/27/asteroid-dust-debris-likely-found-as-returned-nasa-space-capsule-opened",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/afp.com-20230924-PH-GTY-1687008696-highres-1695787252.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1474
+  "totalResults": 1475
 }
