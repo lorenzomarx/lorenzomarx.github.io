@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Douglas Greenwood, Ryan White",
+      "content": "",
+      "description": "Patrick McMullan and his friend Nora Burns recall memories of the raucous times spent with friends like Tom Ford and Andy Warhol.",
+      "publishedAt": "2023-09-28T10:45:17Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Poignant photographs of love & friendship in pre-AIDS New York",
+      "url": "https://i-d.vice.com/en/article/88xvjg/patrick-mcmullan-new-york-photography-80s",
+      "urlToImage": "https://video-images.vice.com/articles/650b1b1796b390def54b8da4/lede/1695828552751-joe-on-couch-b-jun-82-01-29.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDcyeGg7MHh3LDAuMTExM3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
+      "author": "Joe Bobowicz, Tom George",
+      "content": "",
+      "description": "From peddling indie sleaze in the 00s to starting his own brand and manning Dior Homme, the designer looks back in a new book, '55 Collections'.",
+      "publishedAt": "2023-09-28T07:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Kris van Assche reflects on his era-defining archive",
+      "url": "https://i-d.vice.com/en/article/7kx79e/kris-van-assche-55-collections-book-interview",
+      "urlToImage": "https://video-images.vice.com/articles/65142362e35804d1156b1bc0/lede/1695820490205-kris-van-assche-55-collections-1.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Becca Blasdel, Hilary Pollack, Gregory Babcock",
       "content": "[AIR HORN BLAST] Attention, elite beverage enthusiasts: We interrupt your Wednesday to announce that the John Gotti (aka \u201cThe Don\u201d) of natural prebiotic sodas, Olipop, has officially launched a new f\u2026 [+1658 chars]",
       "description": "The world\u2019s oldest soda just got its first big makeover in over 100 years\u2014and now, it's prebiotic, baby.",
@@ -1273,34 +1299,8 @@
       "title": "Once and For All: Is Le Creuset\u2019s Cookware Worth It?",
       "url": "https://www.vice.com/en/article/qjvw9x/once-and-for-all-le-creuset",
       "urlToImage": "https://video-images.vice.com/articles/650b687f96b390def54b97ae/lede/1695246464352-lecreuset3.png?image-resize-opts=Y3JvcD0wLjk4NzY1NDMyMDk4NzY1NDR4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
-    },
-    {
-      "author": "Annabel Gat, Sara David",
-      "content": "The sun in Virgo connects with Pluto in Capricorn at 1:21 AM, promoting an atmosphere of transformation! The sun symbolizes ego and Pluto is the planet of rebirth: Letting go of the way things used t\u2026 [+3865 chars]",
-      "description": "The sun aligns with Pluto and the moon is in Sagittarius.",
-      "publishedAt": "2023-09-20T21:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Daily Horoscope: September 21, 2023",
-      "url": "https://www.vice.com/en/article/5d9w9x/daily-horoscope-september-21-2023",
-      "urlToImage": "https://video-images.vice.com/articles/64ff4c597b36521f55529668/lede/1694452857585-6virgodaily31920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Mary Frances \"Francky\" Knapp, Hilary Pollack, Gregory Babcock",
-      "content": "Weddings, anniversaries, Baby\u2019s first steps\u2014there are many moments in life that we\u2019ll never forget, including the day we sat on our first Cloud Sofa. When the now-GOATed Restoration Hardware couch fi\u2026 [+2766 chars]",
-      "description": "Cuddling? Smashing? Crying? Elevate your favorite indoor activities with Valyou Furniture's famously comfy Feathers sofa this cuffing season.",
-      "publishedAt": "2023-09-20T20:53:59Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Valyou's Internet-Famous, Ridiculously Comfy Cloud Sofa Dupe Is $1,000 Off",
-      "url": "https://www.vice.com/en/article/n7e4mg/valyou-furniture",
-      "urlToImage": "https://video-images.vice.com/articles/650a144678a6db9f46e33e7c/lede/1695241778584-valyou-feathers-couch-collection.jpeg?image-resize-opts=Y3JvcD0wLjk4NzY1NDMyMDk4NzY1NDR4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
     }
   ],
   "status": "ok",
-  "totalResults": 382
+  "totalResults": 384
 }
