@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Ron Amadeo",
+      "description": "Google's digital whiteboard for schools and businesses lasted 8 years.",
+      "publishedAt": "2023-09-28T22:11:11+00:00",
+      "title": "$5,000 Google Jamboard dies in 2024\u2014cloud-based apps will stop working, too",
+      "url": "https://arstechnica.com/gadgets/2023/09/5000-google-jamboard-dies-in-2024-cloud-based-apps-will-stop-working-too/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/1-760x380.webp"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Moderna developed its vaccine with the NIH and got $1.7 billion in federal grant money.",
+      "publishedAt": "2023-09-28T21:46:33+00:00",
+      "title": "US may pay 3x more than EU for Moderna\u2019s US-funded COVID shot",
+      "url": "https://arstechnica.com/health/2023/09/us-may-pay-3x-more-than-eu-for-modernas-us-funded-covid-shot/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1240911434-760x380.jpeg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "If your software package involves VP8 video encoding, it's likely vulnerable to attack.",
+      "publishedAt": "2023-09-28T21:23:15+00:00",
+      "title": "A new Chrome 0-day is sending the Internet into a new chapter of Groundhog Day",
+      "url": "https://arstechnica.com/security/2023/09/new-0-day-in-chrome-and-firefox-is-likely-to-plague-other-software/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "The enforcement is starting with Canada.",
+      "publishedAt": "2023-09-28T20:13:27+00:00",
+      "title": "Losing subscribers, Disney+ starts fighting password sharing, too",
+      "url": "https://arstechnica.com/gadgets/2023/09/disney-starts-crackdown-on-significant-amount-of-password-sharing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1238248875-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "WhatsApp, Instagram add animated AI chat avatars, including Snoop Dogg as dungeon master.",
+      "publishedAt": "2023-09-28T19:52:06+00:00",
+      "title": "Meta launches consumer AI chatbots with celebrity avatars in its social apps",
+      "url": "https://arstechnica.com/information-technology/2023/09/meta-launches-consumer-ai-chatbots-with-celebrity-avatars-in-its-social-apps/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/snoop_dungeon_master-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Analysis: Meta's VR software sales are comparable to Nintendo's failed console.",
+      "publishedAt": "2023-09-28T19:43:11+00:00",
+      "title": "Is the Meta Quest a Wii U-sized flop? Software numbers suggest it might be",
+      "url": "https://arstechnica.com/gaming/2023/09/meta-quest-struggles-to-outpace-the-wii-us-flaccid-software-sales/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/meta-wii-u.001-760x380.png"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "New SE allegedly comes out in 2025 and will continue to mix old and new parts.",
       "publishedAt": "2023-09-28T18:39:10+00:00",
@@ -31,54 +79,6 @@
       "title": "These solar-powered, origami-inspired robots can change shape mid-flight",
       "url": "https://arstechnica.com/science/2023/09/these-solar-powered-origami-inspired-robots-can-change-shape-mid-flight/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/microflier2-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Is compression equivalent to general intelligence? DeepMind digs up more potential clues.",
-      "publishedAt": "2023-09-28T15:43:05+00:00",
-      "title": "AI language models can exceed PNG and FLAC in lossless compression, says study",
-      "url": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/compression_clamp-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Production of the big EV will move to West Point, Georgia, in 2024.",
-      "publishedAt": "2023-09-28T15:15:19+00:00",
-      "title": "The three-row Kia EV9 SUV will cost $54,900, on sale later this year",
-      "url": "https://arstechnica.com/cars/2023/09/kia-reveals-electric-three-row-pricing-ev9-starts-at-54900/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/KIA_EV9-001_3600x2400-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Launch inventory is specifically held for individual buyers until 2024.",
-      "publishedAt": "2023-09-28T14:54:10+00:00",
-      "title": "Raspberry Pi 5, with upgraded everything, available for preorder today",
-      "url": "https://arstechnica.com/gadgets/2023/09/raspberry-pi-5-available-for-preorder-is-faster-and-has-a-custom-i-o-chip/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/pi5_3-760x380.png"
-    },
-    {
-      "author": "Gregory Barber, wired.com",
-      "description": "This hurricane season shows how machine-learning algorithms can improve weather forecasts.",
-      "publishedAt": "2023-09-28T13:50:57+00:00",
-      "title": "AI is getting better at hurricane forecasting",
-      "url": "https://www.wired.com/story/ai-hurricane-predictions-are-storming-the-world-of-weather-forecasting/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/Hurricane-Irma-760x380.png"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A convenient rating system to evaluate the threat posed by misinformation sources.",
-      "publishedAt": "2023-09-28T13:46:29+00:00",
-      "title": "Our new Ladapo scale rates misinformation merchants",
-      "url": "https://arstechnica.com/staff/2023/09/our-new-ladapo-scale-rates-misinformation-merchants/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ladapo-scale-misinformation-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The FDA previously found that no one is confused about where almond milk comes from.",
-      "publishedAt": "2023-09-27T23:04:34+00:00",
-      "title": "The dairy industry is trying to outlaw plant-based \u201cmilk\u201d labels\u2014again",
-      "url": "https://arstechnica.com/health/2023/09/big-dairy-still-sour-over-plant-based-milk-labels-tries-to-outlaw-them/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/02/GettyImages-506834862-760x380.jpg"
     }
   ],
   "sortBy": "top",
