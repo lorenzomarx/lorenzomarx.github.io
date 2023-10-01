@@ -2,6 +2,19 @@
   "articles": [
     {
       "author": "Al Jazeera",
+      "content": "Israeli soldiers have shot and killed at least one Palestinian man in the West Bank in the latest violence in the occupied territories.\r\nMuhammad Rumaneh from the Amari refugee camp in the occupied W\u2026 [+2069 chars]",
+      "description": "Israeli authorities are withholding the body, prompting Ramallah residents to hold a general strike to pay tribute.",
+      "publishedAt": "2023-09-30T11:25:51Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israel army kills Palestinian accused of throwing Molotov cocktail",
+      "url": "https://www.aljazeera.com/news/2023/9/30/israeli-army-kill-young-palestinian-accused-of-throwing-explosives",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-07-16T100817Z_355333495_RC2A42AJ5LDW_RTRMADP_3_ISRAEL-PALESTINIANS-VIOLENCE-1692452061.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
       "content": "Slovaks are voting in a closely contested parliamentary election between left-wing former Prime Minister Robert Fico, who has pledged to end military aid for neighbouring Ukraine, and pro-Western lib\u2026 [+3182 chars]",
       "description": "Voting begins in a closely contested election with support for Ukraine's defence against Russia's invasion a key issue.",
       "publishedAt": "2023-09-30T09:13:10Z",
@@ -1286,21 +1299,8 @@
       "title": "European companies dumping toxic ships on Bangladesh beaches, HRW says",
       "url": "https://www.aljazeera.com/news/2023/9/28/european-companies-dumping-toxic-ships-on-bangladesh-beaches-hrw-says",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2013-07-29T120000Z_1489789858_GM1E97T1NL801_RTRMADP_3_BANGLADESH-1695884989.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Taiwan has launched its first domestically built submarine in a milestone for the self-ruled islands defence capabilities.\r\nPresident Tsai Ing-wen launched the vessel named Haikun, meaning mythical s\u2026 [+2911 chars]",
-      "description": "Taiwan has plans to build eight submarines, which will be a key part of the island's strategy of deterrence.",
-      "publishedAt": "2023-09-28T07:03:05Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "All you need to know about Taiwan\u2019s new submarine in 500 words",
-      "url": "https://www.aljazeera.com/news/2023/9/28/all-you-need-to-know-about-taiwans-new-submarine-in-500-words",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23271174115759-1695884322.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1344
+  "totalResults": 1345
 }
