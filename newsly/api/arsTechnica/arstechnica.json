@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Hanks and other celebrities have recently become targets of AI-powered ad scams.",
+      "publishedAt": "2023-10-03T19:22:29+00:00",
+      "title": "Deepfake celebrities begin shilling products on social media, causing alarm",
+      "url": "https://arstechnica.com/information-technology/2023/10/tom-hanks-warns-of-ai-generated-doppelganger-in-instagram-plea/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tom_hanks_ai_hero_2-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Google's search dominance creates \"vicious cycle,\" Satya Nadella testified.",
+      "publishedAt": "2023-10-03T19:04:30+00:00",
+      "title": "Google\u2019s claim that search users have choice is \u201cbogus,\u201d Microsoft CEO tells judge",
+      "url": "https://arstechnica.com/tech-policy/2023/10/googles-claim-that-search-users-have-choice-is-bogus-microsoft-ceo-tells-judge/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1701653921-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "But there are some incompatibilities that a small indie team just can't fix.",
+      "publishedAt": "2023-10-03T18:36:10+00:00",
+      "title": "OpenCore Legacy Patcher project brings macOS Sonoma support to 16-year-old Macs",
+      "url": "https://arstechnica.com/gadgets/2023/10/opencore-legacy-patcher-project-brings-macos-sonoma-support-to-16-year-old-macs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/DSC06788-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Higher monthly fees for no ads to start in US, Canada, WSJ reports.",
+      "publishedAt": "2023-10-03T18:25:21+00:00",
+      "title": "Netflix waiting for strikes to end before jacking up prices",
+      "url": "https://arstechnica.com/gadgets/2023/10/netflix-raising-ad-free-prices-in-a-few-months/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/onepiece7-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "The point of it was never how it worked. Now it will struggle to work at all.",
       "publishedAt": "2023-10-03T18:06:42+00:00",
@@ -47,38 +79,6 @@
       "title": "Ad-free Facebook, Instagram access planned for $14 per month in Europe",
       "url": "https://www.ft.com/content/70f5468d-a10d-48fa-9b86-f874ed391cc8",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/facebook-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Marcin Wichary on his long quest to capture everything that shaped modern type.",
-      "publishedAt": "2023-10-03T11:30:06+00:00",
-      "title": "Shift Happens is a beautifully designed history of how keyboards got this way",
-      "url": "https://arstechnica.com/culture/2023/10/shift-happens-is-a-beautifully-designed-history-of-how-keyboards-got-this-way/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/olivetti-praxis-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "\"Yet another one of Elon Musk\u2019s reckless smears.\"",
-      "publishedAt": "2023-10-02T21:59:58+00:00",
-      "title": "College student sues Musk for falsely calling him a \u201cpsyop\u201d in neo-Nazi brawl",
-      "url": "https://arstechnica.com/tech-policy/2023/10/musk-sued-for-falsely-accusing-jewish-man-of-joining-a-neo-nazi-brawl/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1258663990-760x380.jpg"
-    },
-    {
-      "author": "Edmund S. Higgins, The Conversation",
-      "description": "Research delves into how the brain facilitates accelerated change.",
-      "publishedAt": "2023-10-02T21:11:36+00:00",
-      "title": "Psychedelics plus psychotherapy can trigger rapid changes in the brain",
-      "url": "https://theconversation.com/psychedelics-plus-psychotherapy-can-trigger-rapid-changes-in-the-brain-new-research-at-the-level-of-neurons-is-untangling-how-204442",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1306005226-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Lawsuit said Tesla and Elon Musk falsely marketed cars as self-driving.",
-      "publishedAt": "2023-10-02T20:19:04+00:00",
-      "title": "Judge upholds Tesla arbitration agreement that drivers called \u201cunconscionable\u201d",
-      "url": "https://arstechnica.com/tech-policy/2023/10/judge-upholds-tesla-arbitration-agreement-that-drivers-called-unconscionable/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-tesla-car-and-logo-760x380.jpg"
     }
   ],
   "sortBy": "top",
