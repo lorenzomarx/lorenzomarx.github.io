@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "The point of it was never how it worked. Now it will struggle to work at all.",
+      "publishedAt": "2023-10-03T18:06:42+00:00",
+      "title": "The $10,000-plus golden Apple Watch is now \u201cobsolete,\u201d according to Apple",
+      "url": "https://arstechnica.com/gadgets/2023/10/the-10000-plus-golden-apple-watch-is-now-obsolete-according-to-apple/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-566353087-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Based on a Beetle, there are differences between this 356 and those that followed.",
+      "publishedAt": "2023-10-03T17:42:49+00:00",
+      "title": "Driving a priceless, historic Porsche: Meet the very first 356 from 1948",
+      "url": "https://arstechnica.com/cars/2023/10/driving-a-priceless-historic-porsche-meet-the-very-first-356-from-1948/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/20230927-b-6650-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Old TV satellite's graveyard orbit isn't high enough, poses orbital debris risk.",
+      "publishedAt": "2023-10-03T16:31:48+00:00",
+      "title": "Dish botches satellite deorbit, gets hit with FCC\u2019s first space-debris fine",
+      "url": "https://arstechnica.com/tech-policy/2023/10/dish-botches-satellite-deorbit-gets-hit-with-fccs-first-space-debris-fine/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-satellite-in-space-760x380.jpg"
+    },
+    {
+      "author": "Kate Knibbs, wired.com",
+      "description": "Adding fake watermarks to real images, evading current watermarking methods is not hard.",
+      "publishedAt": "2023-10-03T15:01:55+00:00",
+      "title": "Researchers show how easy it is to defeat AI watermarks",
+      "url": "https://www.wired.com/story/artificial-intelligence-watermarking-issues/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-watermark-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Battery life is a sticking point, but the speed is generally worth it.",
+      "publishedAt": "2023-10-03T14:48:53+00:00",
+      "title": "Review: Framework Laptop finally gets an AMD Ryzen config\u2014and it\u2019s pretty good",
+      "url": "https://arstechnica.com/gadgets/2023/10/review-framework-laptop-finally-gets-an-amd-ryzen-config-and-its-pretty-good/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/IMG_1046-760x380.jpeg"
+    },
+    {
+      "author": "Javier Espinoza and Hannah Murphy, Financial Times",
+      "description": "Free version will remain but require consent for targeted advertising.",
+      "publishedAt": "2023-10-03T13:20:07+00:00",
+      "title": "Ad-free Facebook, Instagram access planned for $14 per month in Europe",
+      "url": "https://www.ft.com/content/70f5468d-a10d-48fa-9b86-f874ed391cc8",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/facebook-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Marcin Wichary on his long quest to capture everything that shaped modern type.",
+      "publishedAt": "2023-10-03T11:30:06+00:00",
+      "title": "Shift Happens is a beautifully designed history of how keyboards got this way",
+      "url": "https://arstechnica.com/culture/2023/10/shift-happens-is-a-beautifully-designed-history-of-how-keyboards-got-this-way/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/olivetti-praxis-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "\"Yet another one of Elon Musk\u2019s reckless smears.\"",
       "publishedAt": "2023-10-02T21:59:58+00:00",
@@ -23,62 +79,6 @@
       "title": "Judge upholds Tesla arbitration agreement that drivers called \u201cunconscionable\u201d",
       "url": "https://arstechnica.com/tech-policy/2023/10/judge-upholds-tesla-arbitration-agreement-that-drivers-called-unconscionable/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-tesla-car-and-logo-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "\"I'm sure it's a special love code that only you and your grandma know.\"",
-      "publishedAt": "2023-10-02T19:59:39+00:00",
-      "title": "Dead grandma locket request tricks Bing Chat\u2019s AI into solving security puzzle",
-      "url": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Vulnerability allows attackers to tamper with data stored in device memory.",
-      "publishedAt": "2023-10-02T19:37:17+00:00",
-      "title": "Vulnerable Arm GPU drivers under active exploitation. Patches may not be available",
-      "url": "https://arstechnica.com/security/2023/10/vulnerable-arm-gpu-drivers-under-active-exploitation-patches-may-not-be-available/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Katalin Karik\u00f3 and Drew Weissman awarded Nobel Prize in Physiology or Medicine.",
-      "publishedAt": "2023-10-02T19:06:09+00:00",
-      "title": "After being demoted and forced to retire, mRNA researcher wins Nobel",
-      "url": "https://arstechnica.com/health/2023/10/after-being-demoted-and-forced-to-retire-mrna-researcher-wins-nobel/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1701994937-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Key insights into influential factors could lead to better control of drying process.",
-      "publishedAt": "2023-10-02T18:17:31+00:00",
-      "title": "Paint drops form \u201cfried egg\u201d patterns if concentration, temp is just right",
-      "url": "https://arstechnica.com/science/2023/10/these-researchers-literally-watched-paint-dry-for-science/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/drypaint1-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Jury selection tomorrow; seven criminal charges with max sentence of 110 years.",
-      "publishedAt": "2023-10-02T16:52:41+00:00",
-      "title": "SBF trial to begin as judge says he faces \u201cvery long sentence\u201d if convicted",
-      "url": "https://arstechnica.com/tech-policy/2023/10/sbf-trial-to-begin-as-judge-says-he-faces-very-long-sentence-if-convicted/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-sbf-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "NASA has a lot riding on these initiatives.",
-      "publishedAt": "2023-10-02T16:40:44+00:00",
-      "title": "Northrop Grumman likely to end its bid for a commercial space station",
-      "url": "https://arstechnica.com/space/2023/10/northrop-grumman-likely-to-end-its-bid-for-a-commercial-space-station/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/cygnus-station-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "\"The investigators from Lyft found Tux!\"",
-      "publishedAt": "2023-10-02T16:24:00+00:00",
-      "title": "Tux the cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills",
-      "url": "https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/lost-cat-tux-sign-760x380.jpg"
     }
   ],
   "sortBy": "top",
