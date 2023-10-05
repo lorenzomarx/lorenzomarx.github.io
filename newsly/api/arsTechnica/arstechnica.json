@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Alex Goy",
+      "description": "It's lighter and more powerful than the original but only by a sensible amount.",
+      "publishedAt": "2023-10-04T08:00:46+00:00",
+      "title": "This EV restomod highlights the joys and flaws of the classic MGB",
+      "url": "https://arstechnica.com/cars/2023/10/this-ev-restomod-highlights-the-joys-and-flaws-of-the-classic-mgb/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/OL9_4868-Edit-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "Big tests loom in the months ahead for NASA's lander fleet.",
       "publishedAt": "2023-10-04T00:21:51+00:00",
@@ -71,14 +79,6 @@
       "title": "Google\u2019s claim that search users have choice is \u201cbogus,\u201d Microsoft CEO tells judge",
       "url": "https://arstechnica.com/tech-policy/2023/10/googles-claim-that-search-users-have-choice-is-bogus-microsoft-ceo-tells-judge/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1701653921-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "But there are some incompatibilities that a small indie team just can't fix.",
-      "publishedAt": "2023-10-03T18:36:10+00:00",
-      "title": "OpenCore Legacy Patcher project brings macOS Sonoma support to 16-year-old Macs",
-      "url": "https://arstechnica.com/gadgets/2023/10/opencore-legacy-patcher-project-brings-macos-sonoma-support-to-16-year-old-macs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/DSC06788-760x380.jpg"
     }
   ],
   "sortBy": "top",
