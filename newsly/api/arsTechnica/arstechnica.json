@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Studies of excised cat larynxes reveal role of connective tissues embedded in vocal folds.",
+      "publishedAt": "2023-10-05T18:46:00+00:00",
+      "title": "We now know how cats purr\u2014why they purr is still up for debate",
+      "url": "https://arstechnica.com/science/2023/10/we-now-know-how-cats-purr-why-they-purr-is-still-up-for-debate/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/catspurr3-760x380.jpg"
+    },
+    {
+      "author": "Kiona N. Smith",
+      "description": "That means people must have been in the Americas even longer than we thought.",
+      "publishedAt": "2023-10-05T18:00:23+00:00",
+      "title": "More evidence that humans were in North America over 20,000 years ago",
+      "url": "https://arstechnica.com/science/2023/10/theres-more-evidence-that-people-walked-at-white-sands-23000-years-ago/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Teenagers-left-their-footprints-in-the-mud_1-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "BMW's in-house performance division is waiting on 2025's Neue Klasse to arrive.",
+      "publishedAt": "2023-10-05T17:24:22+00:00",
+      "title": "When will we see an electric BMW M car? We speak to its boss to find out",
+      "url": "https://arstechnica.com/cars/2023/10/when-will-we-see-an-electric-bmw-m-car-we-speak-to-its-boss-to-find-out/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/P90463148_highRes_the-bmw-m4-csl-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Also coming soon: a medieval king, sieging a castle, on the back of a T. rex.",
+      "publishedAt": "2023-10-05T16:56:21+00:00",
+      "title": "Deep Rock Galactic: Rogue Core looks like a tougher, action-minded co-op dig",
+      "url": "https://arstechnica.com/gaming/2023/10/deep-rock-galactic-is-getting-a-roguelite-spin-off-but-core-game-remains/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/DRG_RC_Screenshot_03-760x380.png"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Links on Musk-led platform now display article images without headlines.",
+      "publishedAt": "2023-10-05T16:32:39+00:00",
+      "title": "Twitter/X strips headlines out of news links: \u201cIt\u2019s something Elon wants\u201d",
+      "url": "https://arstechnica.com/tech-policy/2023/10/musk-makes-news-links-on-twitter-aka-x-less-useful-by-removing-headlines/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-musk-x-760x380.jpg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "The red planet has white ice caps that retreat and expand with the seasons.",
+      "publishedAt": "2023-10-05T14:13:50+00:00",
+      "title": "The snow forecast for Mars: Dry ice and a meter a year",
+      "url": "https://arstechnica.com/science/2023/10/the-snow-forecast-for-mars-dry-ice-and-a-meter-a-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/image-760x380.jpeg"
+    },
+    {
+      "author": "Matt Simon, wired.com",
+      "description": "Last month was so hot, scientists are struggling to find words for it.",
+      "publishedAt": "2023-10-05T13:35:24+00:00",
+      "title": "September\u2019s record-setting temps were \u201cabsolutely gobsmackingly bananas\u201d",
+      "url": "https://www.wired.com/story/september-record-shattering-heat-climate-change/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/heat-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Hyundai EVs that still have the CCS1 plug will get access in 2025 with an adapter.",
+      "publishedAt": "2023-10-05T12:05:12+00:00",
+      "title": "Hyundai is switching to Tesla-style NACS plugs for its EVs in late 2024",
+      "url": "https://arstechnica.com/cars/2023/10/hyundai-is-switching-to-tesla-style-nacs-plugs-for-its-evs-in-late-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Large-57352-HyundaiElectricVehiclestoAddNorthAmericanChargingStandard-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "This launcher would replace the H3 rocket, which hasn't yet become operational.",
       "publishedAt": "2023-10-05T00:13:27+00:00",
@@ -15,70 +79,6 @@
       "title": "Vulnerabilities in Supermicro BMCs could allow for unkillable server rootkits",
       "url": "https://arstechnica.com/security/2023/10/vulnerabilities-in-supermicro-bmcs-could-allow-for-unkillable-server-rootkits/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/chip-based-rootkit-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Moungi G. Bawendi, Louis E. Brus, and Alexei I. Ekimov laid a vital nanotech foundation.",
-      "publishedAt": "2023-10-04T21:33:31+00:00",
-      "title": "Colorful quantum dots snag 2023 Nobel Prize in Chemistry",
-      "url": "https://arstechnica.com/science/2023/10/this-years-nobel-prize-in-chemistry-honors-discovery-of-quantum-dots/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/dots4-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Report reveals details about Amazon's secret algorithm redacted in FTC complaint.",
-      "publishedAt": "2023-10-04T20:50:21+00:00",
-      "title": "Report: Amazon made $1B with secret algorithm for spiking prices Internet-wide",
-      "url": "https://arstechnica.com/tech-policy/2023/10/report-amazon-made-1b-with-secret-algorithm-for-spiking-prices-internet-wide/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1678221463-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Some third-party apps will also need to be updated to address overheating issue.",
-      "publishedAt": "2023-10-04T20:12:07+00:00",
-      "title": "Apple fixes overheating problems and 0-day security flaw with iOS 17.0.3 update",
-      "url": "https://arstechnica.com/gadgets/2023/10/apple-releases-ios-17-0-3-update-to-help-fix-iphone-15-pro-overheating/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple-WWDC23-iOS-17-iPhone-14-Pro-3-up-230605-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "We can all use help finding connections between gear.",
-      "publishedAt": "2023-10-04T20:01:04+00:00",
-      "title": "Google might have a great idea for smart home automation\u2014if it sticks to it",
-      "url": "https://arstechnica.com/gadgets/2023/10/setting-up-home-automation-is-rough-google-shockingly-has-good-ideas-for-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-466700725-760x380.jpg"
-    },
-    {
-      "author": "Joshua Oliver and Joe Miller, Financial Times",
-      "description": "FTX founder's fraud trial kicks off with opening statements.",
-      "publishedAt": "2023-10-04T19:42:14+00:00",
-      "title": "Sam Bankman-Fried lawyer complains US portrays him as \u201ccartoon villain\u201d",
-      "url": "https://www.ft.com/content/20b1b717-c1f0-486f-a072-0f574424f368",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/bankman-sketch-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Japanese startup Tsubame has 5 units up for preorder.",
-      "publishedAt": "2023-10-04T19:25:23+00:00",
-      "title": "Archax is a $2.7 million pilotable robot for the ultra-wealthy",
-      "url": "https://arstechnica.com/gadgets/2023/10/you-can-pilot-your-own-15-foot-tall-mecha-robot-for-2-7-million/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/inside-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Gmail users can reply with emoji. Everyone else will get an additional email.",
-      "publishedAt": "2023-10-04T18:56:01+00:00",
-      "title": "Gmail unleashes \u201cemail emoji reactions\u201d onto an unsuspecting world",
-      "url": "https://arstechnica.com/gadgets/2023/10/gmail-unleashes-email-emoji-reactions-onto-an-unsuspecting-world/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/gmail-emojis-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Instagram, Messenger AI feature goes viral for potentially offensive user-created stickers.",
-      "publishedAt": "2023-10-04T17:07:03+00:00",
-      "title": "Facebook\u2019s new AI stickers can generate Elmo with a knife",
-      "url": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-760x380.jpg"
     }
   ],
   "sortBy": "top",
