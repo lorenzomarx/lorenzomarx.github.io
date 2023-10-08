@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Rene Ebersole, Undark Magazine",
+      "description": "Avian flu vaccines are being used on birds for the first time in the US.",
+      "publishedAt": "2023-10-07T11:20:08+00:00",
+      "title": "Vaccine may save endangered California condors from succumbing to bird flu",
+      "url": "https://undark.org/2023/10/04/condors-bird-flu/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/condor-760x380.jpg"
+    },
+    {
       "author": "Matt Burgess, wired.com",
       "description": "Somehow, advanced Triada malware was added to devices before reaching resellers.",
       "publishedAt": "2023-10-07T10:32:20+00:00",
@@ -71,14 +79,6 @@
       "title": "Visually stunning The Creator is a rare piece of original sci-fi filmmaking",
       "url": "https://arstechnica.com/culture/2023/10/visually-stunning-the-creator-is-a-rare-piece-of-original-sci-fi-filmmaking/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/creator2-760x380.jpg"
-    },
-    {
-      "author": "Eric Bangeman",
-      "description": "This foldable e-bike looks the part but is tough to recommend.",
-      "publishedAt": "2023-10-06T18:28:40+00:00",
-      "title": "Fast times and loose steering: The Heybike Tyson e-bike reviewed",
-      "url": "https://arstechnica.com/cars/2023/10/the-heybike-tyson-e-bike-is-janky-fun-and-sometimes-dangerous/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tyson-list-760x380.jpg"
     }
   ],
   "sortBy": "top",
