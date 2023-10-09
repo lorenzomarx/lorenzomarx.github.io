@@ -2,19 +2,19 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Tensions had recently risen in Gaza - but this attack was unexpected on a Jewish holiday.",
+      "publishedAt": null,
+      "title": "Hamas attack shocks Israel, but what comes next?",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-67043563",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6406/production/_131360652_1aa751a4f0c3cab8c999f75534d7c2dc0beb9f83.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "The 6.3 magnitude quake struck about 40km from the western city of Herat on Saturday morning.",
       "publishedAt": null,
       "title": "Afghanistan earthquake: At least 14 killed and 78 injured in 6.3 quake",
       "url": "http://www.bbc.co.uk/news/world-asia-67039463",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D1B/production/_131357258_gettyimages-1711427184.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Barriers have been a feature of every recent US presidential administration's border policies.",
-      "publishedAt": null,
-      "title": "US border walls are controversial - but are they effective?",
-      "url": "http://www.bbc.co.uk/news/world-us-canada-67024002",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/176A1/production/_131350959_gettyimages-1253742715.jpg"
     },
     {
       "author": "BBC News",
@@ -26,30 +26,6 @@
     },
     {
       "author": "BBC News",
-      "description": "Both Steve Scalise and Jim Jordan are staunch conservatives - but have wildly different styles.",
-      "publishedAt": null,
-      "title": "House Republicans face choice between chaos and convention",
-      "url": "http://www.bbc.co.uk/news/world-us-canada-67036642",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/129DF/production/_131355267_microsoftteams-image-26.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "\"I need to focus on my health first,\" the rapper said, adding that he suffers from stomach issues.",
-      "publishedAt": null,
-      "title": "Rapper Drake taking break from music to focus on health",
-      "url": "http://www.bbc.co.uk/news/world-us-canada-67035523",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "The FTX co-founder tells court that Sam Bankman-Fried's public claims about FTX did not match reality.",
-      "publishedAt": null,
-      "title": "Tweet saying FTX was \"fine\" was false, court hears",
-      "url": "http://www.bbc.co.uk/news/business-67035976",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/60A9/production/_131354742_cfd0c9582ee72ba16daa8687b907adb56a45d077.jpg"
-    },
-    {
-      "author": "BBC News",
       "description": "Davies died at home after a short illness, his manager has said.",
       "publishedAt": null,
       "title": "Terence Davies: Screenwriter and film director dies aged 77",
@@ -58,11 +34,19 @@
     },
     {
       "author": "BBC News",
-      "description": "Colorado officials say he is \"always hungry\" and \"loves his belly scratches\".",
+      "description": "Legendary guitarist Lokassa ya Mbongo's family say they have been unable to give him a \"worthy\" send-off.",
       "publishedAt": null,
-      "title": "180kg Fred caught after going wild in the city",
-      "url": "http://www.bbc.co.uk/news/world-us-canada-67036162",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5E5B/production/_131355142_pig-2.jpg"
+      "title": "Lokassa ya Mbongo: Family's pain as Congo star lies unburied for seven months",
+      "url": "http://www.bbc.co.uk/news/world-africa-67027929",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6968/production/_131348962_lokasa2.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Poland's upcoming elections have been called the most important since the fall of communism in 1989.",
+      "publishedAt": null,
+      "title": "Polish elections: When are they and why is Europe watching closely?",
+      "url": "http://www.bbc.co.uk/news/world-europe-66992738",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A534/production/_131329224_polandindex.png"
     },
     {
       "author": "BBC Sport",
@@ -74,11 +58,27 @@
     },
     {
       "author": "BBC News",
-      "description": "From high numbers of migrants to different points of entry - the key factors shaping the recent wave.",
+      "description": "Right-wing parties look set to make big gains in state elections in Germany's wealthy south.",
       "publishedAt": null,
-      "title": "Three points to understand this US migration wave",
-      "url": "http://www.bbc.co.uk/news/world-us-canada-67036742",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EC27/production/_131355406_p0gk04zt.jpg"
+      "title": "Bavaria election: Toxic campaign heralds big vote for Germany's populists",
+      "url": "http://www.bbc.co.uk/news/world-europe-67018486",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C89/production/_131352298_afdback.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "A court in London has thrown out a legal case brought by a former lover of the ex-king of Spain.",
+      "publishedAt": null,
+      "title": "Juan Carlos: Court throws out ex-lover's \u20ac145m legal case",
+      "url": "http://www.bbc.co.uk/news/world-europe-67036622",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62A7/production/_131355252_481321db1310660cd5503b0212bc6ed2f1a642ce0_226_4869_27394869x2739.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Ankara vows to continue targeting Kurdish groups but the US calls for more coordination between the Nato allies.",
+      "publishedAt": null,
+      "title": "Talks after US fighter jet shoots down armed Turkish drone in Syria",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-67034560",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EFAB/production/_131355316_gettyimages-1703626941-1.jpg"
     }
   ],
   "sortBy": "top",
