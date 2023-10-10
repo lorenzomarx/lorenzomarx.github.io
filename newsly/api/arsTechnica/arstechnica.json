@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "At an estimated 4 cents per ChatGPT query, OpenAI looks for cheaper AI chip solutions.",
+      "publishedAt": "2023-10-09T16:17:55+00:00",
+      "title": "Tired of shortages, OpenAI considers making its own AI chips",
+      "url": "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/openai_glowing_blue-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Further walkouts at GM factories were averted after the automaker made its offer.",
+      "publishedAt": "2023-10-09T16:05:05+00:00",
+      "title": "Striking UAW workers win key battery plant concession from General Motors",
+      "url": "https://arstechnica.com/cars/2023/10/striking-uaw-workers-win-key-battery-plant-concession-from-general-motors/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1683415244-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"This launch culminates over 12 years of relentless effort.\"",
+      "publishedAt": "2023-10-09T15:49:56+00:00",
+      "title": "Spanish company\u2019s success comes at a critical time for Europe\u2019s launch industry",
+      "url": "https://arstechnica.com/space/2023/10/spanish-companys-success-comes-at-a-critical-time-for-europes-launch-industry/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/pld1-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "We dig deep into how Supreme Court's \"major questions doctrine\" could affect FCC.",
+      "publishedAt": "2023-10-09T14:26:27+00:00",
+      "title": "Net neutrality\u2019s court fate depends on whether broadband is \u201ctelecommunications\u201d",
+      "url": "https://arstechnica.com/tech-policy/2023/10/is-net-neutrality-doomed-at-supreme-court-fcc-and-isps-prepare-for-epic-battle/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-jessica-rosenworcel-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "The film remains an under-appreciated gem of \u201890s comedy/action flicks.",
       "publishedAt": "2023-10-08T18:35:57+00:00",
@@ -47,38 +79,6 @@
       "title": "US government considers protecting octopuses used in research",
       "url": "https://arstechnica.com/science/2023/10/us-government-considers-protecting-octopuses-used-in-research/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/image-1-750x380.jpeg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Records reportedly belong to millions of users who opted in to a relative-search feature.",
-      "publishedAt": "2023-10-06T23:58:11+00:00",
-      "title": "23andMe says private user data is up for sale after being scraped",
-      "url": "https://arstechnica.com/security/2023/10/private-23andme-user-data-is-up-for-sale-after-online-scraping-spree/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/23andme-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "An expert witness testified hydrazine was likely formed during an electrolysis process.",
-      "publishedAt": "2023-10-06T22:41:59+00:00",
-      "title": "\u201cReal Water\u201d that poisoned dozens contained chemical from rocket fuel",
-      "url": "https://arstechnica.com/health/2023/10/jury-awards-229m-to-victims-of-real-water-tainted-with-rocket-fuel-chemical/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/FDA_REalWaterJug-CROPPED-614x380.jpeg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "We're betting it'll rake in a few eddies.",
-      "publishedAt": "2023-10-06T21:48:25+00:00",
-      "title": "A live-action Cyberpunk 2077 adaptation has been announced",
-      "url": "https://arstechnica.com/gaming/2023/10/a-live-action-cyberpunk-2077-adaptation-has-been-announced/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/06/Screen-Shot-2019-06-09-at-1.23.17-PM-760x380.png"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "A 24-inch Windows PC weighing 9 pounds.",
-      "publishedAt": "2023-10-06T20:32:27+00:00",
-      "title": "HP wireless all-in-one has 83 Wh rechargeable battery, handle for portability",
-      "url": "https://arstechnica.com/gadgets/2023/10/hp-wireless-all-in-one-has-83-wh-rechargeable-battery-handle-for-portability/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/listing-760x380.jpg"
     }
   ],
   "sortBy": "top",
