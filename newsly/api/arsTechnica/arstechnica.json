@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Highlights from Caroline Ellison testimony in Sam Bankman-Fried's criminal trial.",
+      "publishedAt": "2023-10-13T19:24:12+00:00",
+      "title": "SBF\u2019s dream of being US president and other weird anecdotes from FTX trial",
+      "url": "https://arstechnica.com/tech-policy/2023/10/sbfs-dream-of-being-us-president-and-other-weird-anecdotes-from-ftx-trial/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-sbf-1-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "New policy covers training data and AI output\u2014but no mention of Bard.",
+      "publishedAt": "2023-10-13T19:12:53+00:00",
+      "title": "Google will shield AI users from copyright challenges, within limits",
+      "url": "https://arstechnica.com/information-technology/2023/10/google-will-shield-ai-users-from-copyright-challenges-within-limits/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/google_colors_gavel_2-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"NASA\u2019s aspirational goal to achieve a cost savings of 50 percent is highly unrealistic.\"",
+      "publishedAt": "2023-10-13T19:07:05+00:00",
+      "title": "NASA should consider commercial alternatives to SLS, inspector general says",
+      "url": "https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/SLS-Apr-21-2022-8868-1-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Report: US weighing new export controls to block China's access to AI chips.",
+      "publishedAt": "2023-10-13T18:43:23+00:00",
+      "title": "TSMC, Samsung seeking permanent US licenses to operate China chip plants",
+      "url": "https://arstechnica.com/tech-policy/2023/10/us-may-permanently-extend-authorizations-for-key-chipmakers-operating-in-china/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1616659127-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "A nice VR upgrade also offers a glimpse of a mixed-reality future.",
+      "publishedAt": "2023-10-13T17:58:28+00:00",
+      "title": "Meta Quest 3 hands-on review: VR rejoins the real world",
+      "url": "https://arstechnica.com/gaming/2023/10/meta-quest-3-review-mixed-reality-version-0-5/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/quest3_1jpg-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Psyche is going to a metal world with plasma engines and lasers. It's not sci-fi.",
+      "publishedAt": "2023-10-13T17:56:20+00:00",
+      "title": "NASA just launched the Psyche mission\u2014no one knows what it will find",
+      "url": "https://arstechnica.com/space/2023/10/nasa-is-about-to-launch-a-mission-of-pure-discovery-to-a-metal-asteroid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Psyche-13-760x380.jpg"
+    },
+    {
       "author": "Ron Amadeo",
       "description": "The mobile app has a \"Google Discover\" newsfeed, so the homepage should, too?",
       "publishedAt": "2023-10-13T17:23:09+00:00",
@@ -31,54 +79,6 @@
       "title": "Dealmaster: Amazon Prime Day is over but these tech deals are still active",
       "url": "https://arstechnica.com/shopping/2023/10/dealmaster-amazon-prime-day-is-over-but-these-tech-deals-are-still-active/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/d25e1d3d-7e68-46f5-98ab-dabeb93c098c_1.4417493938756f7e331de1842ea77dce-760x380.jpeg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Activision CEO Bobby Kotick can now look forward to his next $375M chapter.",
-      "publishedAt": "2023-10-13T16:05:02+00:00",
-      "title": "Microsoft completes $69B Activision Blizzard deal, its biggest merger ever",
-      "url": "https://arstechnica.com/gaming/2023/10/microsoft-finally-owns-candy-crush-as-it-closes-69b-activision-blizzard-deal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/image-2-760x380.png"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "\"Netflix and chill\" may take on new meaning.",
-      "publishedAt": "2023-10-13T15:44:35+00:00",
-      "title": "Netflix is opening physical stores in 2025 as marketing ploy",
-      "url": "https://arstechnica.com/culture/2023/10/netflixs-new-physical-stores-could-include-squid-game-obstacle-course/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/squid-game-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Psyche is going to a metal world with plasma engines and lasers. It's not sci-fi.",
-      "publishedAt": "2023-10-13T13:42:20+00:00",
-      "title": "NASA just launched the Psyche mission\u2014no one knows what it will find",
-      "url": "https://arstechnica.com/space/2023/10/nasa-is-about-to-launch-a-mission-of-pure-discovery-to-a-metal-asteroid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Psyche-13-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Mike Flanagan knocks it out of the park with his last limited series for Netflix.",
-      "publishedAt": "2023-10-13T13:17:22+00:00",
-      "title": "Review: The Fall of the House of Usher is a gloriously Gothic horror delight",
-      "url": "https://arstechnica.com/culture/2023/10/review-the-fall-of-the-house-of-usher-is-a-gloriously-gothic-horror-delight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/usher1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "More than 8 years after the adoption of HTTP/2, DDoSers devise rapid reset attack.",
-      "publishedAt": "2023-10-13T12:50:32+00:00",
-      "title": "Biggest DDoSes of all time generated by protocol 0-day in HTTP/2",
-      "url": "https://arstechnica.com/security/2023/10/how-ddosers-used-the-http-2-protocol-to-deliver-attacks-of-unprecedented-size/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/server-ddos-storm-surge-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "This week, Intelsat signaled confidence in Relativity Space's Terran R rocket.",
-      "publishedAt": "2023-10-13T11:00:51+00:00",
-      "title": "Rocket Report: European rockets finally fly; Artemis II core stage issues",
-      "url": "https://arstechnica.com/space/2023/10/rocket-report-european-rockets-finally-fly-artemis-ii-rocket-issues/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/vv23-760x380.jpeg"
     }
   ],
   "sortBy": "top",
