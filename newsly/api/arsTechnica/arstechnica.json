@@ -1,10 +1,42 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "Schreier: Kotick will depart after 33 years, employees are \"very excited.\"",
+      "publishedAt": "2023-10-13T21:49:47+00:00",
+      "title": "CEO Bobby Kotick will leave Activision Blizzard on January 1, 2024",
+      "url": "https://arstechnica.com/gaming/2023/10/ceo-bobby-kotick-will-leave-activision-blizzard-on-january-1-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1259162962-760x380.jpg"
+    },
+    {
+      "author": "Saqib Rahim, WIRED.com",
+      "description": "Climate change is robbing some hydro dams of water while oversupplying others.",
+      "publishedAt": "2023-10-13T20:19:01+00:00",
+      "title": "Hydro dams are struggling to handle the world\u2019s intensifying weather",
+      "url": "https://www.wired.com/story/hydro-dams-climate-change-weather-forecasting/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1621378124-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The people sickened range in age from 2 to 73.",
+      "publishedAt": "2023-10-13T20:07:56+00:00",
+      "title": "Raw milk outbreak sickens 14 in Utah\u2014a state with loose laws, bad track record",
+      "url": "https://arstechnica.com/health/2023/10/raw-milk-outbreak-sickens-14-in-utah-a-state-with-loose-laws-bad-track-record/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1038813590-760x380.jpeg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Packed with sensors, it's a 4K VA panel that can make 2D look like 3D.",
+      "publishedAt": "2023-10-13T19:35:57+00:00",
+      "title": "Acer\u2019s 27-inch monitor has headphones-free 3D audio, glasses-free 3D screen",
+      "url": "https://arstechnica.com/gadgets/2023/10/head-tracking-eye-tracking-monitor-promises-3d-sounds-and-sights-acer-claims/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Acer-SpatialLabs-View-Pro-27-Front-760x380.png"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Highlights from Caroline Ellison testimony in Sam Bankman-Fried's criminal trial.",
       "publishedAt": "2023-10-13T19:24:12+00:00",
-      "title": "SBF\u2019s dream of being US president and other weird anecdotes from FTX trial",
+      "title": "Bankman-Fried didn\u2019t believe in rules like \u201cdon\u2019t steal,\u201d star witness says",
       "url": "https://arstechnica.com/tech-policy/2023/10/sbfs-dream-of-being-us-president-and-other-weird-anecdotes-from-ftx-trial/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-sbf-1-760x380.jpg"
     },
@@ -47,38 +79,6 @@
       "title": "NASA just launched the Psyche mission\u2014no one knows what it will find",
       "url": "https://arstechnica.com/space/2023/10/nasa-is-about-to-launch-a-mission-of-pure-discovery-to-a-metal-asteroid/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Psyche-13-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "The mobile app has a \"Google Discover\" newsfeed, so the homepage should, too?",
-      "publishedAt": "2023-10-13T17:23:09+00:00",
-      "title": "Google.com tests a news-filled homepage, just like Bing and Yahoo",
-      "url": "https://arstechnica.com/gadgets/2023/10/google-com-tests-a-news-filled-homepage-just-like-bing-and-yahoo/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Google-Home-page-760x380.webp"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The misdiagnosis is a global problem that could worsen as malaria territory expands.",
-      "publishedAt": "2023-10-13T17:17:54+00:00",
-      "title": "In the US, malaria can easily masquerade as an endemic parasite",
-      "url": "https://arstechnica.com/health/2023/10/in-the-us-malaria-can-easily-masquerade-as-an-endemic-parasite/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/612-760x380.png"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "In a changed environment, jellyfish change their response to potential collisions.",
-      "publishedAt": "2023-10-13T16:54:26+00:00",
-      "title": "Even with no brains, jellyfish can learn from their mistakes",
-      "url": "https://arstechnica.com/science/2023/10/even-with-no-brains-jellyfish-can-learn-from-their-mistakes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/image-2-760x380.jpeg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "These leftovers are still worth checking out.",
-      "publishedAt": "2023-10-13T16:36:31+00:00",
-      "title": "Dealmaster: Amazon Prime Day is over but these tech deals are still active",
-      "url": "https://arstechnica.com/shopping/2023/10/dealmaster-amazon-prime-day-is-over-but-these-tech-deals-are-still-active/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/d25e1d3d-7e68-46f5-98ab-dabeb93c098c_1.4417493938756f7e331de1842ea77dce-760x380.jpeg"
     }
   ],
   "sortBy": "top",
