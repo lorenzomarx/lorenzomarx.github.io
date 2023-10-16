@@ -1,6 +1,84 @@
 {
   "articles": [
     {
+      "author": "BuzzFeed Shopping",
+      "content": "Promising reviews: \"OMG! The smell is amazing! I've had people follow me to ask what I'm wearing. The scent lasts most of the day. No need for perfume. Yes, it's a great moisturizer, but it's the sce\u2026 [+496 chars]",
+      "description": "Freshly baked 5-star reviews coming at ya. Watch out, they're hot!",
+      "publishedAt": "2023-10-15T09:45:09Z",
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "title": "24 Products So Good Someone Just Wrote A 5-Star Review This Week",
+      "url": "https://www.huffpost.com/entry/five-star-products_l_652018e4e4b091a3dc270d35",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65201f712400001900321e74.png?cache=8p0eIxm2Yi&ops=1200_630"
+    },
+    {
+      "author": "Martha Tuber",
+      "content": "These Walmart sneakers offer high-end vibes for a very reasonable price.\r\nHuffPost receives compensation from one or more retailers on this page, and HuffPost and its publishing partners may also rec\u2026 [+3267 chars]",
+      "description": "These minimal sneakers resemble some much fancier ones \u2014 and inventory is rapidly dwindling.",
+      "publishedAt": "2023-10-15T09:45:09Z",
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "title": "These Designer-Lookalike Sneakers Are On The Brink Of Selling Out",
+      "url": "https://www.huffpost.com/entry/walmart-designer-sneakers_l_652980bce4b0230cfe81d340",
+      "urlToImage": "https://img.huffingtonpost.com/asset/652982442300007500287f89.png?cache=aogEUMdd0r&ops=1200_630"
+    },
+    {
+      "author": "Laura White",
+      "content": "Bellfield upholstered chair\r\nHuffPost receives compensation from one or more retailers on this page, and HuffPost and its publishing partners may also receive a commission for purchases made via link\u2026 [+2347 chars]",
+      "description": "\u201cI saw this chair in the store and fell in love,\u201d wrote a Target reviewer of the cozy armchair.",
+      "publishedAt": "2023-10-15T09:45:09Z",
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "title": "This Velvet Accent Chair Will Have Your Home Feeling Like An Autumnal Paradise",
+      "url": "https://www.huffpost.com/entry/target-upholstered-chair_l_652a1693e4b00565b6202860",
+      "urlToImage": "https://img.huffingtonpost.com/asset/652a1885230000650054a5dc.png?cache=RhaukQJQbL&ops=1200_630"
+    },
+    {
+      "author": "BuzzFeed Shopping",
+      "content": "These containers are magnetized, so they'll stick together in your toiletries bag. They're designed to be sturdy and leak-proof, and also work for a few days' worth of vitamins or holding small jewel\u2026 [+1257 chars]",
+      "description": "You'll be the best-prepared passenger in the security line.",
+      "publishedAt": "2023-10-15T09:45:09Z",
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "title": "Make Your Next TSA Experience A Piece Of Cake With These 28 Travel Essentials",
+      "url": "https://www.huffpost.com/entry/travel-essentials-ano_l_65282d50e4b0a304ff6f697a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/650a536022000020005f74ee.png?cache=9fD22ldIbB&ops=1200_630"
+    },
+    {
+      "author": "BuzzFeed Shopping",
+      "content": "It has a cooling effect, is soft on skin, and creates less friction for hair especially important when cold, dry weather is already making it prone to breakage. Check out a TikTok of the Kitsch satin\u2026 [+695 chars]",
+      "description": "Time to buy your annual cozy autumnal blanket to add to the collection.",
+      "publishedAt": "2023-10-15T09:45:09Z",
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "title": "31 TikTok Products To Make Your Fall Even Cozier",
+      "url": "https://www.huffpost.com/entry/tiktok-products-cozy-fall_l_6527047be4b09f4b8d42e395",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65271917230000650054a346.png?cache=cwl9SJdU0N&ops=1200_630"
+    },
+    {
+      "author": "Beth Krietsch",
+      "content": "Youre heading out on a camping trip for the weekend and everything is good to go. Your tent, sleeping bags and camping mats are neatly packed in your trunk alongside your camping chairs. Youve triple\u2026 [+6637 chars]",
+      "description": "When you don't have a working toilet nearby, the last thing you want is food poisoning. Here's how to avoid it.",
+      "publishedAt": "2023-10-15T09:45:09Z",
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "title": "The Best Foods To Pack For Camping, According To Food Safety Experts",
+      "url": "https://www.huffpost.com/entry/the-best-foods-to-pack-for-camping-according-to-food-safety-experts-goog_l_6511a24fe4b072e567b8cc78",
+      "urlToImage": "https://img.huffingtonpost.com/asset/64c0327e2400005b00785063.jpeg?ops=1200_630"
+    },
+    {
       "author": "AP",
       "content": "Jews in communities far from Israel gathered at synagogues this weekend for Shabbat services held amid the ongoing war ignited by Hamas militants attack on Israel a week earlier. Rabbis led prayers o\u2026 [+10152 chars]",
       "description": "Jews in communities far from Israel gathered at synagogues this weekend for their Shabbat services, held in the aftermath of Hamas militants' attack on Israel that ignited an ongoing war.",
@@ -51,84 +129,6 @@
       "title": "Palestinians Struggle To Flee South In Gaza After Israeli Evacuation Order",
       "url": "https://www.huffpost.com/entry/palestinians-struggling-to-flee-south-in-gaza-after-israeli-evacuation-order_n_652a9c75e4b00565b62033c2",
       "urlToImage": "https://img.huffingtonpost.com/asset/652a9d442300006f00287fdc.jpeg?ops=1200_630"
-    },
-    {
-      "author": "Pocharapon Neammanee",
-      "content": "A Florida resident is accused of fatally shooting another woman who she believed was having an affair with her boyfriend, according to arrest documents obtained by HuffPost.\r\nJoyce Ann Small, 64, was\u2026 [+2359 chars]",
-      "description": "Joyce Ann Small was arrested after opening fire outside a library and striking a homeless woman she'd previously helped, authorities said.",
-      "publishedAt": "2023-10-13T23:12:48Z",
-      "source": {
-        "id": "the-huffington-post",
-        "name": "The Huffington Post"
-      },
-      "title": "64-Year-Old Fatally Shot Woman She Thought Was 'Involved' With Boyfriend, Police Say",
-      "url": "https://www.huffpost.com/entry/miami-gardens-shooting-homeless-woman_n_65299332e4b0230cfe81dd10",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6529a9181e00006f00bfeb2b.png?cache=nnDCWYQEw7&ops=1200_630"
-    },
-    {
-      "author": "Sebastian Murdock",
-      "content": "A group yelling out anti-Palestine statements and waving an Israeli flag assaulted a Palestinian man in Brooklyn, the New York City Police Department said.\r\nThe man was with two friends Wednesday nig\u2026 [+1147 chars]",
-      "description": "Authorities said men in three cars were \"yelling out anti-Palestine statements\" before the attack.",
-      "publishedAt": "2023-10-13T22:11:43Z",
-      "source": {
-        "id": "the-huffington-post",
-        "name": "The Huffington Post"
-      },
-      "title": "Palestinian Man In New York Punched And Kicked By Group Waving Israeli Flag: Police",
-      "url": "https://www.huffpost.com/entry/palestinian-man-in-new-york-punched-and-kicked-by-group-waving-israeli-flag-police_n_6529940fe4b0230cfe81dd7e",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6529a9032300008700287f9c.jpeg?cache=PRjsEiuXc3&ops=1200_630"
-    },
-    {
-      "author": "Pocharapon Neammanee",
-      "content": "A Staten Island woman who was captured on video being dragged by her hair into the street says the incident took place after a deli cashier mistook her for being transgender.\r\nJasmine Adams, 35, on M\u2026 [+2445 chars]",
-      "description": "Video reviewed by HuffPost shows New York's Jasmine Adams being dragged into the street by her hair after the cashier allegedly called her a \"transvestite.\"",
-      "publishedAt": "2023-10-13T21:18:07Z",
-      "source": {
-        "id": "the-huffington-post",
-        "name": "The Huffington Post"
-      },
-      "title": "Woman Says Deli Clerk Assaulted Her After Mistaking Her As Transgender",
-      "url": "https://www.huffpost.com/entry/staten-island-deli-trans-lawsuit-alleged-assault_n_65283212e4b03ea0c0045c37",
-      "urlToImage": "https://img.huffingtonpost.com/asset/65296bb01f00004a001ba946.png?cache=0YE5ZsDyzK&ops=1200_630"
-    },
-    {
-      "author": "Nina Golgowski",
-      "content": "A Republican New York City council member is facing criminal charges after she openly carried a handgun to a pro-Palestinian rally at a local college on Thursday, police said.\r\nCouncil Member Inna Ve\u2026 [+3131 chars]",
-      "description": "Inna Vernikov was filmed walking around with the handgun at Brooklyn College while accusing people protesting Israel's retaliatory airstrikes of being terrorists.",
-      "publishedAt": "2023-10-13T18:25:15Z",
-      "source": {
-        "id": "the-huffington-post",
-        "name": "The Huffington Post"
-      },
-      "title": "NYC Council Member Arrested After Carrying Gun At College's Palestinian Rally",
-      "url": "https://www.huffpost.com/entry/inna-vernikov-arrested-gun-brooklyn-college-palestine-rally_n_65283acee4b0a304ff6f77ce",
-      "urlToImage": "https://img.huffingtonpost.com/asset/65296b621e00005500bfeadf.jpeg?cache=oliOdwwRIG&ops=1200_630"
-    },
-    {
-      "author": "AP",
-      "content": "Close up of the NYPD logo on a police car.\r\nNEW YORK (AP) A New York City police officer lost his left ring finger up to the first knuckle when a reckless driving suspect bit him, prosecutors said We\u2026 [+1472 chars]",
-      "description": "The suspect could be sentenced to 25 years in prison.",
-      "publishedAt": "2023-10-13T18:13:37Z",
-      "source": {
-        "id": "the-huffington-post",
-        "name": "The Huffington Post"
-      },
-      "title": "Prosecutors Say A Reckless Driving Suspect Bit An NYPD Officer\u2019s Finger Tip Off",
-      "url": "https://www.huffpost.com/entry/nypd-officer-finger-bitten-off_n_65297edae4b0a304ff70189f",
-      "urlToImage": "https://img.huffingtonpost.com/asset/652987f61f000029071ba97a.jpeg?cache=Ia1ucOtISX&ops=1200_630"
-    },
-    {
-      "author": "David Moye",
-      "content": "A Pennsylvania state senator attempted to score culture-war points by criticizing Olivia RodrigosiPhone commercial but only managed to arouse the singers fans into battle.\r\nSen. John DiSanto (R) took\u2026 [+1727 chars]",
-      "description": "Bad idea, right?",
-      "publishedAt": "2023-10-13T18:12:28Z",
-      "source": {
-        "id": "the-huffington-post",
-        "name": "The Huffington Post"
-      },
-      "title": "GOP State Senator Unwittingly Unleashes The Wrath Of Olivia Rodrigo Fans",
-      "url": "https://www.huffpost.com/entry/olivia-rodrigo-john-di-santo-culture-war-tweet_n_65296ae0e4b03ea0c004f0b7",
-      "urlToImage": "https://img.huffingtonpost.com/asset/65296c991f000065061ba94b.jpeg?cache=DCaHnmPZ3K&ops=1200_630"
     }
   ],
   "status": "ok",
