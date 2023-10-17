@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Comcast renamed its whole network \"Xfinity 10G\" despite cable's slower speeds.",
+      "publishedAt": "2023-10-16T18:14:57+00:00",
+      "title": "Comcast resists call to stop its misleading \u201c10G Network\u201d claims",
+      "url": "https://arstechnica.com/tech-policy/2023/10/comcast-should-stop-advertising-slower-speeds-as-10g-industry-group-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-xfinity-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Nissan has been able to satisfy the IRS's domestic battery component requirement.",
+      "publishedAt": "2023-10-16T16:16:28+00:00",
+      "title": "A cheaper EV? The Nissan Leaf is now eligible for a $3,750 tax credit",
+      "url": "https://arstechnica.com/cars/2023/10/the-nissan-leaf-now-qualifies-for-a-partial-ev-tax-credit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/2023-Nissan-LEAF-38-source-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "New console will be FPGA-based but won't support other openFPGA cores.",
+      "publishedAt": "2023-10-16T16:06:12+00:00",
+      "title": "Analogue\u2019s next project is an accurate, hardware-emulated Nintendo 64 replica",
+      "url": "https://arstechnica.com/gaming/2023/10/analogues-hardware-emulated-nintendo-64-fpga-console-will-arrive-in-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/4-Analogue-3D-Hi-Res-760x380.jpeg"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "Gear up for gift-giving season with these early holiday tech deals.",
+      "publishedAt": "2023-10-16T15:38:19+00:00",
+      "title": "Dealmaster: Save on laptops, Lego, CPUs, GPUs, and more",
+      "url": "https://arstechnica.com/shopping/2023/10/dealmaster-save-on-laptops-lego-cpus-gpus-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/iPad-Air-back-760x380.jpeg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Apex Legends also among the games affected by overzealous DLL alterations.",
+      "publishedAt": "2023-10-16T15:00:13+00:00",
+      "title": "AMD pulls graphics driver after \u201cAnti-Lag+\u201d triggers Counter-Strike 2 bans",
+      "url": "https://arstechnica.com/gaming/2023/10/amd-pulls-graphics-driver-after-anti-lag-triggers-counter-strike-2-bans/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/cs2-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Agreement for funding from UAE fell through after Russia invaded Ukraine.",
+      "publishedAt": "2023-10-16T14:11:03+00:00",
+      "title": "After six decades, \u2018Gagarin\u2019s Start\u2019 will meet its end as a launch pad",
+      "url": "https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/39113478671_8a56afdeff_k-760x380.jpg"
+    },
+    {
+      "author": "Rupendra Brahambhatt",
+      "description": "Some insects' wings flap without brain input. Robots help us understand how.",
+      "publishedAt": "2023-10-16T12:33:49+00:00",
+      "title": "Scientists combine evolution, physics, and robotics to decode insect flight",
+      "url": "https://arstechnica.com/science/2023/10/scientists-combine-evolution-physics-and-robotics-to-decode-insect-flight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-885968136-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "From the 550 Spyder to the Le Mans-winning 919 Hybrid and beyond.",
+      "publishedAt": "2023-10-16T12:27:00+00:00",
+      "title": "10 examples of technology going from the racetrack to the road",
+      "url": "https://arstechnica.com/cars/2023/10/10-ways-that-porsches-race-cars-made-road-cars-better/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Rennsport-Reunion-7-1-760x380.jpg"
+    },
+    {
       "author": "Delphine Farmer, The Conversation",
       "description": "There are ways to clean it up, however.",
       "publishedAt": "2023-10-15T11:00:04+00:00",
@@ -15,70 +79,6 @@
       "title": "Plant-based cheese may be getting more appetizing",
       "url": "https://arstechnica.com/science/2023/10/plant-based-cheese-may-be-getting-more-appetizing/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1453783531-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "It's likely that something stripped the outer layers off a once-rocky exoplanet.",
-      "publishedAt": "2023-10-14T09:00:32+00:00",
-      "title": "This exoplanet might literally be the most metal planet out there",
-      "url": "https://arstechnica.com/science/2023/10/this-exoplanet-might-literally-be-the-most-metal-planet-out-there/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Screen-Shot-2023-10-13-at-3.17.40-PM-760x380.png"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Schreier: Kotick will depart after 33 years, employees are \"very excited.\"",
-      "publishedAt": "2023-10-13T21:49:47+00:00",
-      "title": "CEO Bobby Kotick will leave Activision Blizzard on January 1, 2024",
-      "url": "https://arstechnica.com/gaming/2023/10/ceo-bobby-kotick-will-leave-activision-blizzard-on-january-1-2024/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1259162962-760x380.jpg"
-    },
-    {
-      "author": "Saqib Rahim, WIRED.com",
-      "description": "Climate change is robbing some hydro dams of water while oversupplying others.",
-      "publishedAt": "2023-10-13T20:19:01+00:00",
-      "title": "Hydro dams are struggling to handle the world\u2019s intensifying weather",
-      "url": "https://www.wired.com/story/hydro-dams-climate-change-weather-forecasting/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1621378124-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The people sickened range in age from 2 to 73.",
-      "publishedAt": "2023-10-13T20:07:56+00:00",
-      "title": "Raw milk outbreak sickens 14 in Utah\u2014a state with loose laws, bad track record",
-      "url": "https://arstechnica.com/health/2023/10/raw-milk-outbreak-sickens-14-in-utah-a-state-with-loose-laws-bad-track-record/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1038813590-760x380.jpeg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Packed with sensors, it's a 4K VA panel that can make 2D look like 3D.",
-      "publishedAt": "2023-10-13T19:35:57+00:00",
-      "title": "Acer\u2019s 27-inch monitor has headphones-free 3D audio, glasses-free 3D screen",
-      "url": "https://arstechnica.com/gadgets/2023/10/head-tracking-eye-tracking-monitor-promises-3d-sounds-and-sights-acer-claims/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Acer-SpatialLabs-View-Pro-27-Front-760x380.png"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Highlights from Caroline Ellison testimony in Sam Bankman-Fried's criminal trial.",
-      "publishedAt": "2023-10-13T19:24:12+00:00",
-      "title": "Bankman-Fried didn\u2019t believe in rules like \u201cdon\u2019t steal,\u201d star witness says",
-      "url": "https://arstechnica.com/tech-policy/2023/10/sbfs-dream-of-being-us-president-and-other-weird-anecdotes-from-ftx-trial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-sbf-1-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "New policy covers training data and AI output\u2014but no mention of Bard.",
-      "publishedAt": "2023-10-13T19:12:53+00:00",
-      "title": "Google will shield AI users from copyright challenges, within limits",
-      "url": "https://arstechnica.com/information-technology/2023/10/google-will-shield-ai-users-from-copyright-challenges-within-limits/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/google_colors_gavel_2-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"NASA\u2019s aspirational goal to achieve a cost savings of 50 percent is highly unrealistic.\"",
-      "publishedAt": "2023-10-13T19:07:05+00:00",
-      "title": "NASA should consider commercial alternatives to SLS, inspector general says",
-      "url": "https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/SLS-Apr-21-2022-8868-1-760x380.jpg"
     }
   ],
   "sortBy": "top",
