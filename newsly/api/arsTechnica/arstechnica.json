@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Samuel Axon",
+      "description": "Will we see an iPad Air refresh, a new Pencil, or nothing this fall?",
+      "publishedAt": "2023-10-16T22:37:09+00:00",
+      "title": "What to expect amid the bevy of conflicting iPad rumors",
+      "url": "https://arstechnica.com/gadgets/2023/10/what-to-expect-amid-the-bevy-of-conflicting-ipad-rumors/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/2022-iPad-Air-front-on-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "NYT asked the court to intervene and unseal secretive testimony in its entirety.",
+      "publishedAt": "2023-10-16T21:37:43+00:00",
+      "title": "Google, DOJ still blocking public access to monopoly trial docs, NYT says",
+      "url": "https://arstechnica.com/tech-policy/2023/10/dozens-of-google-antitrust-trial-docs-are-still-hidden-from-public-nyt-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Google-Monopoly-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Computer science student Luke Farritor won $40,000 from the Vesuvius Challenge.",
+      "publishedAt": "2023-10-16T21:16:58+00:00",
+      "title": "AI helps decipher first text of \u201cunreadable\u201d ancient Herculaneum scroll",
+      "url": "https://arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/scrollTOP-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "The popular developer forum is still hunting for a \"path to profitability.\"",
+      "publishedAt": "2023-10-16T20:44:28+00:00",
+      "title": "After ChatGPT disruption, Stack Overflow lays off 28 percent of staff",
+      "url": "https://arstechnica.com/gadgets/2023/10/after-chatgpt-disruption-stack-overflow-lays-off-28-percent-of-staff/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/stack-overflow-760x380.png"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "An unknown threat actor is exploiting the vulnerability to create admin accounts.",
+      "publishedAt": "2023-10-16T20:31:47+00:00",
+      "title": "Actively exploited Cisco 0-day with maximum 10 severity gives full network control",
+      "url": "https://arstechnica.com/security/2023/10/actively-exploited-cisco-0-day-with-maximum-10-severity-gives-full-network-control/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/cisco-data-switch-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "A sound so iconic, it was embedded into The Empire Strikes Back.",
       "publishedAt": "2023-10-16T19:18:46+00:00",
@@ -39,46 +79,6 @@
       "title": "Analogue\u2019s next project is an accurate, hardware-emulated Nintendo 64 replica",
       "url": "https://arstechnica.com/gaming/2023/10/analogues-hardware-emulated-nintendo-64-fpga-console-will-arrive-in-2024/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/4-Analogue-3D-Hi-Res-760x380.jpeg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "Gear up for gift-giving season with these early holiday tech deals.",
-      "publishedAt": "2023-10-16T15:38:19+00:00",
-      "title": "Dealmaster: Save on laptops, Lego, CPUs, GPUs, and more",
-      "url": "https://arstechnica.com/shopping/2023/10/dealmaster-save-on-laptops-lego-cpus-gpus-and-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/iPad-Air-back-760x380.jpeg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Apex Legends also among the games affected by overzealous DLL alterations.",
-      "publishedAt": "2023-10-16T15:00:13+00:00",
-      "title": "AMD pulls graphics driver after \u201cAnti-Lag+\u201d triggers Counter-Strike 2 bans",
-      "url": "https://arstechnica.com/gaming/2023/10/amd-pulls-graphics-driver-after-anti-lag-triggers-counter-strike-2-bans/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/cs2-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Agreement for funding from UAE fell through after Russia invaded Ukraine.",
-      "publishedAt": "2023-10-16T14:11:03+00:00",
-      "title": "After six decades, \u2018Gagarin\u2019s Start\u2019 will meet its end as a launch pad",
-      "url": "https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/39113478671_8a56afdeff_k-760x380.jpg"
-    },
-    {
-      "author": "Rupendra Brahambhatt",
-      "description": "Some insects' wings flap without brain input. Robots help us understand how.",
-      "publishedAt": "2023-10-16T12:33:49+00:00",
-      "title": "Scientists combine evolution, physics, and robotics to decode insect flight",
-      "url": "https://arstechnica.com/science/2023/10/scientists-combine-evolution-physics-and-robotics-to-decode-insect-flight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-885968136-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "From the 550 Spyder to the Le Mans-winning 919 Hybrid and beyond.",
-      "publishedAt": "2023-10-16T12:27:00+00:00",
-      "title": "10 examples of technology going from the racetrack to the road",
-      "url": "https://arstechnica.com/cars/2023/10/10-ways-that-porsches-race-cars-made-road-cars-better/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Rennsport-Reunion-7-1-760x380.jpg"
     }
   ],
   "sortBy": "top",
