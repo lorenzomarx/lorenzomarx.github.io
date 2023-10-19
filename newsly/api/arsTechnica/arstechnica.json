@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "The new price is not set, but one analyst suggested it could be up to 5x higher.",
+      "publishedAt": "2023-10-17T22:16:29+00:00",
+      "title": "COVID antiviral Paxlovid to see price increase following 400% vaccine hike",
+      "url": "https://arstechnica.com/health/2023/10/covid-antiviral-paxlovid-to-see-price-increase-following-400-vaccine-hike/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1387450683-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "FCC received blank pages, a Windows Printer Test, and an \"indiscernible object.\"",
+      "publishedAt": "2023-10-17T20:59:12+00:00",
+      "title": "The most insane \u201crobocall mitigation plans\u201d that telcos filed with the FCC",
+      "url": "https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/getty-robot-phone-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "A cheaper option is welcome, but Apple's Pencil lineup is now a bit confusing.",
+      "publishedAt": "2023-10-17T19:54:58+00:00",
+      "title": "Apple introduces a new Pencil for the iPad\u2014its cheapest yet",
+      "url": "https://arstechnica.com/gadgets/2023/10/apple-introduces-a-new-pencil-for-the-ipad-its-cheapest-yet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple-Pencil-USB-C-sliding-cap-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Financial risk too great for dev working \"in my spare time to help others.\"",
+      "publishedAt": "2023-10-17T19:47:51+00:00",
+      "title": "Mazda\u2019s DMCA takedown kills a hobbyist\u2019s smart car API tool",
+      "url": "https://arstechnica.com/cars/2023/10/mazdas-dmca-takedown-kills-a-hobbyists-smart-car-api-tool/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/mazda_mx30-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "An unknown threat actor is exploiting the vulnerability to create admin accounts.",
       "publishedAt": "2023-10-17T18:40:47+00:00",
@@ -47,38 +79,6 @@
       "title": "Nikon Small World 2023 photo microscopy contest: Meet this year\u2019s top 20 winners",
       "url": "https://arstechnica.com/science/2023/10/nikon-small-world-2023-photo-microscopy-contest-meet-this-years-top-20-winners/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/nikon1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\u201cLicensing at this point for Starship is a critical path item for the Artemis program.\"",
-      "publishedAt": "2023-10-17T14:09:48+00:00",
-      "title": "Citing slow Starship reviews, SpaceX urges FAA to double licensing staff",
-      "url": "https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/starship-stacked-760x380.jpg"
-    },
-    {
-      "author": "Christopher Grimes, Financial Times",
-      "description": "New audiences for Suits and Ballers, but licensing costs may squeeze profits.",
-      "publishedAt": "2023-10-17T13:34:39+00:00",
-      "title": "\u201cNetflix effect\u201d is back as studios license old shows to competitors again",
-      "url": "https://www.ft.com/content/fd84f6bb-b3e1-4691-9b90-f6f90c16bae6",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/getty-tv-and-remote-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "New papers claim to link evolution to other physics, but neither really succeeds.",
-      "publishedAt": "2023-10-17T11:30:35+00:00",
-      "title": "Can selection tie evolution more closely to physics?",
-      "url": "https://arstechnica.com/science/2023/10/can-selection-tie-evolution-more-closely-to-physics/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1349020801-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Will we see an iPad Air refresh, a new Pencil, or nothing this fall?",
-      "publishedAt": "2023-10-16T22:37:09+00:00",
-      "title": "What to expect amid the bevy of conflicting iPad rumors",
-      "url": "https://arstechnica.com/gadgets/2023/10/what-to-expect-amid-the-bevy-of-conflicting-ipad-rumors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/2022-iPad-Air-front-on-760x380.jpeg"
     }
   ],
   "sortBy": "top",
