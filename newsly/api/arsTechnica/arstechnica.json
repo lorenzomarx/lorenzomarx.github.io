@@ -1,84 +1,84 @@
 {
   "articles": [
     {
-      "author": "Beth Mole",
-      "description": "The new price is not set, but one analyst suggested it could be up to 5x higher.",
-      "publishedAt": "2023-10-17T22:16:29+00:00",
-      "title": "COVID antiviral Paxlovid to see price increase following 400% vaccine hike",
-      "url": "https://arstechnica.com/health/2023/10/covid-antiviral-paxlovid-to-see-price-increase-following-400-vaccine-hike/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1387450683-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "FCC received blank pages, a Windows Printer Test, and an \"indiscernible object.\"",
-      "publishedAt": "2023-10-17T20:59:12+00:00",
-      "title": "The most insane \u201crobocall mitigation plans\u201d that telcos filed with the FCC",
-      "url": "https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/getty-robot-phone-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "A cheaper option is welcome, but Apple's Pencil lineup is now a bit confusing.",
-      "publishedAt": "2023-10-17T19:54:58+00:00",
-      "title": "Apple introduces a new Pencil for the iPad\u2014its cheapest yet",
-      "url": "https://arstechnica.com/gadgets/2023/10/apple-introduces-a-new-pencil-for-the-ipad-its-cheapest-yet/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple-Pencil-USB-C-sliding-cap-760x380.jpg"
-    },
-    {
       "author": "Kevin Purdy",
-      "description": "Financial risk too great for dev working \"in my spare time to help others.\"",
-      "publishedAt": "2023-10-17T19:47:51+00:00",
-      "title": "Mazda\u2019s DMCA takedown kills a hobbyist\u2019s smart car API tool",
-      "url": "https://arstechnica.com/cars/2023/10/mazdas-dmca-takedown-kills-a-hobbyists-smart-car-api-tool/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/mazda_mx30-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "An unknown threat actor is exploiting the vulnerability to create admin accounts.",
-      "publishedAt": "2023-10-17T18:40:47+00:00",
-      "title": "\u201cCisco buried the lede.\u201d >10,000 network devices backdoored through unpatched 0-day",
-      "url": "https://arstechnica.com/security/2023/10/actively-exploited-cisco-0-day-with-maximum-10-severity-gives-full-network-control/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/cisco-data-switch-760x380.jpg"
+      "description": "Tokens based on subreddit reputation saw dips over 85% after the announcement.",
+      "publishedAt": "2023-10-18T18:41:34+00:00",
+      "title": "Reddit\u2019s blockchain-based \u201cCommunity Points\u201d rewards crash after sunsetting",
+      "url": "https://arstechnica.com/gadgets/2023/10/reddits-blockchain-based-community-points-rewards-crash-after-sunsetting/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1299869307-760x380.jpg"
     },
     {
       "author": "Ron Amadeo",
-      "description": "Qualcomm and Google project will enable more RISC-V Android devices in the future.",
-      "publishedAt": "2023-10-17T17:34:54+00:00",
-      "title": "Qualcomm announces first-ever mass-market RISC-V Android SoC",
-      "url": "https://arstechnica.com/gadgets/2023/10/qualcomm-announces-first-ever-mass-market-risc-v-android-soc/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/01/qualcomm-hq-2-stock-image-760x380.jpg"
+      "description": "Sideloaded app installs can be delayed by a fullscreen virus-scanner interface.",
+      "publishedAt": "2023-10-18T18:32:18+00:00",
+      "title": "Android will now scan sideloaded apps for malware at install time",
+      "url": "https://arstechnica.com/gadgets/2023/10/android-will-now-scan-sideloaded-apps-for-malware-at-install-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GPP-real-time-scanning-3-760x380.png"
     },
     {
       "author": "Andrew Cunningham",
-      "description": "New generation has relatively little to offer, though Core i7 is interesting.",
-      "publishedAt": "2023-10-17T16:54:34+00:00",
-      "title": "Intel\u2019s 14th-gen desktop CPUs are a tiny update even by modern standards",
-      "url": "https://arstechnica.com/gadgets/2023/10/intels-14th-gen-desktop-cpus-are-a-tiny-update-even-by-modern-standards/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/14THGENDESKTOP-760x380.jpeg"
+      "description": "Leaked internal data claims Windows 11 is running on 400 million active PCs.",
+      "publishedAt": "2023-10-18T18:21:06+00:00",
+      "title": "Windows 11\u2019s adoption continues to lag Windows 10\u2019s, but it\u2019s hard to compare",
+      "url": "https://arstechnica.com/gadgets/2023/10/windows-11s-adoption-continues-to-lag-windows-10s-but-its-hard-to-compare/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/win11-pc-2023-760x380.jpeg"
     },
     {
-      "author": "Kyle Orland",
-      "description": "An engrossing, expanded NYC makes up for some hackneyed storytelling.",
-      "publishedAt": "2023-10-17T15:43:01+00:00",
-      "title": "Spider-Man 2 review: Best-in-class comic-action melodrama",
-      "url": "https://arstechnica.com/gaming/2023/10/spider-man-2-review-best-in-class-comic-action-melodrama/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Marvels-Spider-Man-2_20231014173117-760x380.jpg"
+      "author": "Chuong Nguyen",
+      "description": "From toys to a new laptop, there's an assortment of practical, fun, and tech deals.",
+      "publishedAt": "2023-10-18T17:25:05+00:00",
+      "title": "Dealmaster: Lenovo deals, sales on charging solutions, and more",
+      "url": "https://arstechnica.com/shopping/2023/10/dealmaster-lenovo-deals-sales-on-charging-solutions-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/20_Thinkpad_P1_Specialty_Logos-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "\"It is not a profit driver,\" X says.",
+      "publishedAt": "2023-10-18T17:22:46+00:00",
+      "title": "Elon Musk launches test to see if users are willing to pay $1 a year for X",
+      "url": "https://arstechnica.com/tech-policy/2023/10/elon-musk-launches-test-to-see-if-users-are-willing-to-pay-1-a-year-for-x/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-6228-000931-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "IRS Direct File pilot in 2024 is for taxpayers with simple returns in 13 states.",
+      "publishedAt": "2023-10-18T16:34:18+00:00",
+      "title": "IRS to offer free tax filing in competition against much-criticized TurboTax",
+      "url": "https://arstechnica.com/tech-policy/2023/10/irs-to-offer-free-tax-filing-in-competition-against-much-criticized-turbotax/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-tax-protest-760x380.jpg"
     },
     {
       "author": "Jonathan M. Gitlin",
-      "description": "EV sales have grown as price cuts and production increases take effect.",
-      "publishedAt": "2023-10-17T15:22:19+00:00",
-      "title": "EV sales jumped 50 percent in Q3\u2014which brands are celebrating?",
-      "url": "https://arstechnica.com/cars/2023/10/tesla-is-losing-market-share-as-ev-adoption-grows-and-prices-fall/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-651424159-760x380.jpg"
+      "description": "The online retailer has doubled its number of EV vans since July.",
+      "publishedAt": "2023-10-18T15:51:03+00:00",
+      "title": "Amazon now has 10,000 Rivian electric delivery vans in service",
+      "url": "https://arstechnica.com/cars/2023/10/amazon-adds-its-10000th-rivian-electric-delivery-van-to-its-fleet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Amazon-EDV6-760x380.jpg"
     },
     {
       "author": "Jennifer Ouellette",
-      "description": "Your annual reminder that science can be beautiful as well as informative.",
-      "publishedAt": "2023-10-17T15:00:57+00:00",
-      "title": "Nikon Small World 2023 photo microscopy contest: Meet this year\u2019s top 20 winners",
-      "url": "https://arstechnica.com/science/2023/10/nikon-small-world-2023-photo-microscopy-contest-meet-this-years-top-20-winners/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/nikon1-760x380.jpg"
+      "description": "Conclusions are based on re-analysis of a cave lion skeleton and recently found claws.",
+      "publishedAt": "2023-10-18T15:45:54+00:00",
+      "title": "This may be the earliest evidence that Neanderthals hunted cave lions",
+      "url": "https://arstechnica.com/science/2023/10/this-may-be-the-earliest-evidence-that-neanderthals-hunted-cave-lions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/lion1CROP-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Also on tap for India: A space station and a Venus orbiter.",
+      "publishedAt": "2023-10-18T15:28:45+00:00",
+      "title": "India sets sights on a Moon landing in 2040, but is it realistic?",
+      "url": "https://arstechnica.com/space/2023/10/india-sets-sights-on-a-moon-landing-in-2040-but-is-it-realistic/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/c3orbit-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Court ruling may incentivize cops to push the envelope on novel surveillance tactics.",
+      "publishedAt": "2023-10-18T15:17:05+00:00",
+      "title": "Court downplayed privacy risks to uphold cops\u2019 keyword warrant, experts say",
+      "url": "https://arstechnica.com/tech-policy/2023/10/cops-may-expand-use-of-dragnet-warrants-of-google-search-data-experts-warn/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-91572962-760x380.jpg"
     }
   ],
   "sortBy": "top",
