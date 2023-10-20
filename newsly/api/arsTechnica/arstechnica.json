@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Ron Amadeo",
+      "description": "40-45 jobs are cut, one employee says. \"We're definitely worse off without them.\"",
+      "publishedAt": "2023-10-19T19:46:17+00:00",
+      "title": "More Google layoffs: Google News cuts dozens of jobs",
+      "url": "https://arstechnica.com/gadgets/2023/10/more-google-layoffs-google-news-cuts-dozens-of-jobs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/Google-News-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "\"Toughest hurdle\" for Google? Defending high cost of default deals, expert says.",
       "publishedAt": "2023-10-19T17:34:07+00:00",
@@ -71,14 +79,6 @@
       "title": "There\u2019s a new way to flip bits in DRAM, and it works against the latest defenses",
       "url": "https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/data-corruption-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Google-verified advertiser + legit-looking URL + valid TLS cert = convincing lookalike.",
-      "publishedAt": "2023-10-19T04:50:35+00:00",
-      "title": "Google-hosted malvertising leads to fake Keepass site that looks genuine",
-      "url": "https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/warning-760x380.jpg"
     }
   ],
   "sortBy": "top",
