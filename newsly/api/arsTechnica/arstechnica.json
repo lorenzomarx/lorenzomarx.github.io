@@ -1,8 +1,48 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Nonprofit hospitals got $28 billion in tax breaks\u2014which made up 44% of their net income.",
+      "publishedAt": "2023-10-19T23:12:38+00:00",
+      "title": "Nonprofit hospitals skimp on charity while CEOs reap millions, report finds",
+      "url": "https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-450235452-760x380.jpeg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Current policies cut emissions in half\u2014can we keep cutting?",
+      "publishedAt": "2023-10-19T22:55:18+00:00",
+      "title": "Report: US needs much more than the IRA to get to net zero by 2050",
+      "url": "https://arstechnica.com/science/2023/10/national-academies-the-ira-is-nice-but-we-need-climate-policy-beyond-2030/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1447440317-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "If you run a Netscaler ADC or Gateway, assume it's compromised and take action ... fast.",
+      "publishedAt": "2023-10-19T21:56:32+00:00",
+      "title": "The latest high-severity Citrix vulnerability under attack isn\u2019t easy to fix",
+      "url": "https://arstechnica.com/security/2023/10/the-latest-high-severity-citrix-vulnerability-under-attack-isnt-easy-to-fix/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/it-administrator-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Why medieval painter Jean Fouquet chose to depict Acheulean hand ax remains a mystery.",
+      "publishedAt": "2023-10-19T21:28:50+00:00",
+      "title": "Mysterious rock depicted in 15th century painting is most likely a Stone Age tool",
+      "url": "https://arstechnica.com/science/2023/10/mysterious-rock-depicted-in-15th-century-painting-is-most-likely-a-stone-age-tool/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/diptych1-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "\u201cIt\u2019s always been in the plan, but we definitely accelerated this.\u201d",
+      "publishedAt": "2023-10-19T21:15:35+00:00",
+      "title": "Varda looks to Australia after delays in obtaining US reentry approval",
+      "url": "https://arstechnica.com/space/2023/10/varda-looks-to-australia-after-delays-in-obtaining-us-reentry-approval/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/vardaentryart-760x380.jpg"
+    },
+    {
       "author": "Ron Amadeo",
-      "description": "40-45 jobs are cut, one employee says. \"We're definitely worse off without them.\"",
+      "description": "40\u201345 jobs are cut, one employee says. \"We're definitely worse off without them.\"",
       "publishedAt": "2023-10-19T19:46:17+00:00",
       "title": "More Google layoffs: Google News cuts dozens of jobs",
       "url": "https://arstechnica.com/gadgets/2023/10/more-google-layoffs-google-news-cuts-dozens-of-jobs/",
@@ -39,46 +79,6 @@
       "title": "Pfizer hikes price of COVID antiviral Paxlovid from $530 to nearly $1,400",
       "url": "https://arstechnica.com/health/2023/10/pfizer-more-than-doubles-price-of-life-saving-covid-antiviral-paxlovid/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1387450683-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "At 239 g, this giant foldable is lighter than an iPhone 14 Pro Max (240 g).",
-      "publishedAt": "2023-10-19T15:00:28+00:00",
-      "title": "The OnePlus Open is a 7.8-inch foldable that\u2019s lighter than some slab phones",
-      "url": "https://arstechnica.com/gadgets/2023/10/oneplus-first-foldable-has-a-lightweight-body-1699-price-tag/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Key-Visuals-White-Background-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The Tesla CEO said he wanted to \"temper expectations\" during Q3 results call.",
-      "publishedAt": "2023-10-19T15:00:13+00:00",
-      "title": "Elon Musk talks Tesla: \u201cWe dug our own grave with the Cybertruck\u201d",
-      "url": "https://arstechnica.com/cars/2023/10/elon-musk-talks-tesla-we-dug-our-own-grave-with-the-cybertruck/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1183845621-760x380.jpg"
-    },
-    {
-      "author": "Anna Nicolaou, Financial Times",
-      "description": "Chatbot not only offers up lyrics but incorporates them into replies to prompts.",
-      "publishedAt": "2023-10-19T13:37:24+00:00",
-      "title": "Universal Music sues AI start-up Anthropic for scraping song lyrics",
-      "url": "https://www.ft.com/content/0965d962-5c54-4fdc-aef8-18e4ef3b9df5",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/eilish-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The company will start delivering preordered cable upgrade kits in November.",
-      "publishedAt": "2023-10-19T12:49:49+00:00",
-      "title": "ChargePoint starts rolling out Tesla-style NACS plugs for its customers",
-      "url": "https://arstechnica.com/cars/2023/10/chargepoint-starts-rolling-out-tesla-style-nacs-plugs-for-its-customers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ChargePoint_DC-Fast_NACS_Model-3_143-high-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "New technique produces lots of bitflips and could one day help form an attack.",
-      "publishedAt": "2023-10-19T12:30:00+00:00",
-      "title": "There\u2019s a new way to flip bits in DRAM, and it works against the latest defenses",
-      "url": "https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/data-corruption-760x380.jpg"
     }
   ],
   "sortBy": "top",
