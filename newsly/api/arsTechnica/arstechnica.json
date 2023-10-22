@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Ramin Skibba, WIRED.com",
+      "description": "Mining in space might be less environmentally harmful than mining asteroids on Earth.",
+      "publishedAt": "2023-10-21T11:47:48+00:00",
+      "title": "Space is starting to look like the better mining operation",
+      "url": "https://www.wired.com/story/things-are-looking-up-for-asteroid-mining/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-582868298-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "It's a deep simulation, a retro throwback, and a funny few hours at a time.",
+      "publishedAt": "2023-10-21T11:25:20+00:00",
+      "title": "Space Wreck is a hardcore, combat-optional, break-the-game RPG that clicks",
+      "url": "https://arstechnica.com/gaming/2023/10/space-wreck-is-the-2d-fallout-successor-we-never-got-just-shorter-and-stronger/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Shotcut_00_00_37_167-760x380.png"
+    },
+    {
+      "author": "Jamie Smyth, Financial Times",
+      "description": "Navigator CO\u2082 says regulatory hurdles are too much to overcome.",
+      "publishedAt": "2023-10-21T11:15:55+00:00",
+      "title": "Carbon capture pipeline nixed after widespread opposition",
+      "url": "https://www.ft.com/content/99b44428-59b7-4500-a79e-6eb73aba1931",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/no2co2-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "One is fatally hacked, the other shut down in international police dragnet.",
       "publishedAt": "2023-10-20T23:09:07+00:00",
@@ -55,30 +79,6 @@
       "title": "Thanks to AI, the future of programming may involve YELLING IN ALL CAPS",
       "url": "https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/man_talking_to_computer_hero-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "New \"computational food\" design incorporates electrowetting on dielectric technology.",
-      "publishedAt": "2023-10-20T18:59:51+00:00",
-      "title": "This 3D-printed plate lets food droplets magically move without being touched",
-      "url": "https://arstechnica.com/science/2023/10/go-ahead-and-play-with-your-food-with-this-electrode-enhanced-3d-printed-plate/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/dancing_delicacies_dish-760x380.webp"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A very unusual chip design provides a distinct approach to cutting AI's energy cost.",
-      "publishedAt": "2023-10-20T18:31:53+00:00",
-      "title": "IBM has made a new, highly efficient AI processor",
-      "url": "https://arstechnica.com/science/2023/10/ibm-has-made-a-new-highly-efficient-ai-processor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/image-3-760x380.png"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Report: 74% of X's most viral misinformation posts are from \"verified\" users.",
-      "publishedAt": "2023-10-20T17:42:02+00:00",
-      "title": "Top Israel/Hamas misinformation spreaders use Elon Musk\u2019s paid \u201cverification\u201d",
-      "url": "https://arstechnica.com/tech-policy/2023/10/musks-paid-checkmarks-help-fuel-xs-spread-of-israel-hamas-misinformation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-musk-x-1-760x380.jpg"
     }
   ],
   "sortBy": "top",
