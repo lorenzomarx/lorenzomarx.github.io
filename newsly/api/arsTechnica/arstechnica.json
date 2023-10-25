@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "Around a half-dozen full-timers and a few part-timers are keeping Voyager alive.",
+      "publishedAt": "2023-10-24T00:15:12+00:00",
+      "title": "NASA wants the Voyagers to age gracefully, so it\u2019s time for a software patch",
+      "url": "https://arstechnica.com/space/2023/10/nasa-wants-the-voyagers-to-age-gracefully-so-its-time-for-a-software-patch/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/PIA21736-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "TV series will be part of games' official canon, Amazon says.",
+      "publishedAt": "2023-10-23T21:27:42+00:00",
+      "title": "Amazon\u2019s Fallout TV series gets a 2024 release date",
+      "url": "https://arstechnica.com/gaming/2023/10/amazons-fallout-tv-series-gets-a-2024-release-date/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/FalloutDate-760x380.png"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "This was a test of the launch abort system for India's Gaganyaan spacecraft.",
+      "publishedAt": "2023-10-23T21:12:35+00:00",
+      "title": "India celebrates \u201cfirst major milestone\u201d on path to launching astronauts",
+      "url": "https://arstechnica.com/space/2023/10/india-celebrates-first-major-milestone-on-path-to-launching-astronauts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tvd1abort-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "1Password CTO says investigation found no compromise of user data or sensitive systems.",
+      "publishedAt": "2023-10-23T20:56:49+00:00",
+      "title": "1Password detects \u201csuspicious activity\u201d in its internal Okta account",
+      "url": "https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/1password-760x380.png"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Tesla SEC filing on Monday revealed that the DOJ is investigating the EV maker.",
+      "publishedAt": "2023-10-23T20:24:14+00:00",
+      "title": "Tesla\u2019s misleading driving range claims trigger DOJ probe",
+      "url": "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1250863346-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Researchers say \"most transparent\" AI model scores only 54% on their index.",
+      "publishedAt": "2023-10-23T19:59:50+00:00",
+      "title": "Stanford researchers challenge OpenAI, others on AI transparency in new report",
+      "url": "https://arstechnica.com/information-technology/2023/10/stanford-researchers-challenge-openai-others-on-ai-transparency-in-new-report/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_windshield_1-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "After battling third-party apps, Reddit threatens generative AI firms, WaPo reports.",
+      "publishedAt": "2023-10-23T19:48:57+00:00",
+      "title": "Reddit finally takes its API war where it belongs: to AI companies",
+      "url": "https://arstechnica.com/gadgets/2023/10/reddit-may-block-search-if-it-cant-reach-an-ai-deal-with-google-microsoft/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1438051262-760x380.jpg"
+    },
+    {
       "author": "Ron Amadeo",
       "description": "For the second year in a row, there's an even bigger graphite thermal pad.",
       "publishedAt": "2023-10-23T18:29:22+00:00",
@@ -23,62 +79,6 @@
       "title": "Dev sets up \u201cgoatse\u201d trap for sites that steal his free web game",
       "url": "https://arstechnica.com/gaming/2023/10/dev-sets-up-goatse-trap-for-sites-that-steal-his-free-web-game/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/sqword-goat-trap-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Ursula Vernon, aka T. Kingfisher, won a Hugo for her dark fairy tale, Nettle and Bone.",
-      "publishedAt": "2023-10-23T17:22:22+00:00",
-      "title": "Yes, this beetle runs out of a frog\u2019s anus to survive being swallowed alive",
-      "url": "https://arstechnica.com/science/2023/10/hugo-winner-reminds-us-all-about-that-beetle-that-escapes-out-of-a-frogs-anus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/2dEgPmWp5Av2zsdrmM9FHY-1200-80-760x380.gif"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Earliest lawsuits reveal how AI giants likely plan to dodge defamation claims.",
-      "publishedAt": "2023-10-23T16:46:45+00:00",
-      "title": "Will ChatGPT\u2019s hallucinations be allowed to ruin your life?",
-      "url": "https://arstechnica.com/tech-policy/2023/10/will-chatgpts-hallucinations-be-allowed-to-ruin-your-life/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/openai-lies-rebus-760x380.png"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Supreme Court issues stay and will hear case on US contacts with social networks.",
-      "publishedAt": "2023-10-23T16:29:11+00:00",
-      "title": "SCOTUS blocks order that said Biden admin can\u2019t \u201ccoerce\u201d social media firms",
-      "url": "https://arstechnica.com/tech-policy/2023/10/scotus-biden-admin-can-keep-pressuring-social-media-firms-to-remove-content/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-biden-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Overzealous DLL alterations have been suspended in a subsequent driver update.",
-      "publishedAt": "2023-10-23T15:10:13+00:00",
-      "title": "Valve begins reversing CS2 bans caused by AMD\u2019s \u201cAnti-Lag+\u201d driver",
-      "url": "https://arstechnica.com/gaming/2023/10/amd-pulls-graphics-driver-after-anti-lag-triggers-counter-strike-2-bans/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/cs2-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Long wait times for 13- and 14/16-inch MacBook Pros are also suggestive.",
-      "publishedAt": "2023-10-23T15:04:44+00:00",
-      "title": "Report: Apple has a refreshed Apple Silicon iMac coming as soon as next week",
-      "url": "https://arstechnica.com/gadgets/2023/10/apple-will-reportedly-squeeze-in-a-new-imac-refresh-later-this-month/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/apple_new-imac-spring21_hero_04202021-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "The southern United States should see some beneficial rain.",
-      "publishedAt": "2023-10-23T14:14:01+00:00",
-      "title": "We\u2019re entering a pretty strong El Ni\u00f1o\u2014here\u2019s what that means for a US winter",
-      "url": "https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/IMAGE-winteroutlook_seasonal_precipitation_2023-101923-760x380.gif"
-    },
-    {
-      "author": "Edward White and Kathrin Hille, Financial Times",
-      "description": "Foxconn founder Terry Gou is currently running for president of Taiwan.",
-      "publishedAt": "2023-10-23T14:01:27+00:00",
-      "title": "China targets iPhone-maker Foxconn with probe into tax, land use",
-      "url": "https://www.ft.com/content/e6abcb86-1c80-4914-ae54-c7df94d7a9e0",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/foxconn-sign-760x380.jpg"
     }
   ],
   "sortBy": "top",
