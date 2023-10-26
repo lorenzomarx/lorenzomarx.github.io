@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Scharon Harding",
+      "description": "The best budget mechanical keyboard I've ever used.",
+      "publishedAt": "2023-10-24T21:53:14+00:00",
+      "title": "I used a $28 mechanical keyboard for a month\u2014maybe you should, too",
+      "url": "https://arstechnica.com/gadgets/2023/10/i-used-a-28-mechanical-keyboard-for-a-month-maybe-you-should-too/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/listing-3-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Nvidia tried to end-run restrictions with new designs, but US govt said not so fast.",
+      "publishedAt": "2023-10-24T21:07:12+00:00",
+      "title": "US surprises Nvidia by speeding up new AI chip export ban",
+      "url": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Bogus homeopathic products based on pseudoscience will remain on shelves.",
+      "publishedAt": "2023-10-24T20:48:00+00:00",
+      "title": "CVS ditches common cold meds after FDA advisers say they\u2019re useless",
+      "url": "https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1661265589-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Meta repeatedly chose not to design platforms safe for kids, states allege.",
+      "publishedAt": "2023-10-24T20:12:54+00:00",
+      "title": "41 states sue Meta for allegedly addicting kids to Facebook and Instagram",
+      "url": "https://arstechnica.com/tech-policy/2023/10/41-states-sue-meta-for-allegedly-addicting-kids-to-facebook-and-instagram/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1268299173-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Rare evening presentation is most likely to focus on refreshed Macs, say rumors.",
+      "publishedAt": "2023-10-24T19:52:56+00:00",
+      "title": "\u201cScary Fast\u201d: Apple will stream a new product event on October 30",
+      "url": "https://arstechnica.com/gadgets/2023/10/scary-fast-apple-will-stream-a-new-product-event-on-october-30/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Screenshot-2023-10-24-at-3.21.10\u202fPM-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "\"Fines go uncollected, and the company dissolves and moves assets elsewhere.\"",
+      "publishedAt": "2023-10-24T19:17:37+00:00",
+      "title": "FCC robocall enforcement does little to stop illegal calls, Senate hears",
+      "url": "https://arstechnica.com/tech-policy/2023/10/many-robocallers-dont-pay-fines-as-fcc-still-lacks-legal-power-to-collect/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-spam-call-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Qualcomm's new chip has an X4 ARM Cortex CPU, typical yearly performance claims.",
+      "publishedAt": "2023-10-24T19:00:58+00:00",
+      "title": "Qualcomm\u2019s Snapdragon 8 Gen 3 promises 30 percent faster CPU",
+      "url": "https://arstechnica.com/gadgets/2023/10/qualcomms-snapdragon-8-gen-3-promises-30-percent-faster-cpu/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Snapdragon-8-Gen-3_Chip-Fingertip-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Snapdragon X Elite PCs should begin to arrive in mid-2024, but obstacles remain.",
+      "publishedAt": "2023-10-24T19:00:27+00:00",
+      "title": "Qualcomm Snapdragon X Elite looks like the Windows world\u2019s answer to Apple Silicon",
+      "url": "https://arstechnica.com/gadgets/2023/10/qualcomm-snapdragon-x-elite-looks-like-the-windows-worlds-answer-to-apple-silicon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/x-elite-01-2-760x380.jpeg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "Mutations in the MAPT gene associated with tau proteins seem to play a significant role.",
       "publishedAt": "2023-10-24T18:50:10+00:00",
@@ -15,70 +79,6 @@
       "title": "Google falsely flags Samsung apps as \u201charmful,\u201d tells users to remove them",
       "url": "https://arstechnica.com/gadgets/2023/10/google-falsely-flags-samsung-apps-as-harmful-tells-users-to-remove-them/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Play-protect-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "PimEyes is \"still perfecting\" its AI age-detection system.",
-      "publishedAt": "2023-10-24T18:04:11+00:00",
-      "title": "Search engine that scans billions of faces tries blocking kids from results",
-      "url": "https://arstechnica.com/tech-policy/2023/10/search-engine-that-scans-billions-of-faces-tries-blocking-kids-from-results/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1439774778-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A startup company has upped its qubit count by an order of magnitude in two years.",
-      "publishedAt": "2023-10-24T14:02:54+00:00",
-      "title": "Atom Computing is the first to announce a 1,000+ qubit quantum computer",
-      "url": "https://arstechnica.com/science/2023/10/atom-computing-is-the-first-to-announce-a-1000-qubit-quantum-computer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/atom_array-760x380.jpg"
-    },
-    {
-      "author": "Kenza Bryan, Financial Times",
-      "description": "Apple is relying on carbon credits to claim Apple Watch is carbon neutral.",
-      "publishedAt": "2023-10-24T13:51:28+00:00",
-      "title": "Apple\u2019s \u201ccarbon neutral\u201d claims are facing increased scrutiny",
-      "url": "https://www.ft.com/content/90392004-97e0-4444-a5cd-82220fe52510",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/watch-carbon-neutral-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Come for the Moon, stay to learn about the Black Madonna statue.",
-      "publishedAt": "2023-10-24T12:00:23+00:00",
-      "title": "The Daily Telescope: A quarter Moon over Sicily reflects light from Earth",
-      "url": "https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tindari-642x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Around a half-dozen full-timers and a few part-timers are keeping Voyager alive.",
-      "publishedAt": "2023-10-24T00:15:12+00:00",
-      "title": "NASA wants the Voyagers to age gracefully, so it\u2019s time for a software patch",
-      "url": "https://arstechnica.com/space/2023/10/nasa-wants-the-voyagers-to-age-gracefully-so-its-time-for-a-software-patch/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/PIA21736-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "TV series will be part of games' official canon, Amazon says.",
-      "publishedAt": "2023-10-23T21:27:42+00:00",
-      "title": "Amazon\u2019s Fallout TV series gets a 2024 release date",
-      "url": "https://arstechnica.com/gaming/2023/10/amazons-fallout-tv-series-gets-a-2024-release-date/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/FalloutDate-760x380.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "This was a test of the launch-abort system for India's Gaganyaan spacecraft.",
-      "publishedAt": "2023-10-23T21:12:35+00:00",
-      "title": "India celebrates \u201cfirst major milestone\u201d on path to launching astronauts",
-      "url": "https://arstechnica.com/space/2023/10/india-celebrates-first-major-milestone-on-path-to-launching-astronauts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tvd1abort-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "1Password CTO says investigation found no compromise of user data or sensitive systems.",
-      "publishedAt": "2023-10-23T20:56:49+00:00",
-      "title": "1Password detects \u201csuspicious activity\u201d in its internal Okta account",
-      "url": "https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/1password-760x380.png"
     }
   ],
   "sortBy": "top",
