@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "The United Nations Security Council has held its first open debate on the Israel-Gaza war, with most members calling for an immediate ceasefire to allow humanitarian aid to reach Palestinians under r\u2026 [+6530 chars]",
+      "description": "First open debate on conflict hears repeated calls for immediate ceasefire amid humanitarian crisis in Gaza.",
+      "publishedAt": "2023-10-25T03:36:26Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "US resists ceasefire call in UN Security Council debate on Israel-Gaza war",
+      "url": "https://www.aljazeera.com/news/2023/10/25/us-resists-ceasefire-call-in-un-security-council-debate-on-israel-gaza-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/33Z3942-highres-1698203069.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Linah Alsaafin, Ashraf Amra",
       "content": "Deir el-Balah, Gaza Strip Al Aqsa Martyrs Hospital, the only hospital still functioning in the central Gaza Strip, reached full capacity days ago. Injured people lie on the hospital floors, medical t\u2026 [+8158 chars]",
       "description": "At central Gaza's only working hospital, kidney dialysis patients have doubled to 300 \u2014 but it has just 24 machines.",
@@ -1286,21 +1299,8 @@
       "title": "At least seven injured as Israeli tank \u2018accidentally\u2019 hits Egyptian border",
       "url": "https://www.aljazeera.com/news/2023/10/22/at-least-seven-injured-as-israeli-tank-accidentally-hits-egyptian-border",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-22T150823Z_1265205640_RC2QX3AWXFPV_RTRMADP_3_ISRAEL-PALESTINIANS-EGYPT-1697994803.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Virat Kohli hit 95 as India chased down its target of 274 to beat New Zealand in a match between the only two unbeaten teams at the Cricket World Cup.\r\nTournament host India won by four wickets on Su\u2026 [+1881 chars]",
-      "description": "Virat Kohli hits 95 as India chase down a target of 274 to win by four wickets and hand the Black Caps their first loss.",
-      "publishedAt": "2023-10-22T17:14:52Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Kohli shines as undefeated India beat New Zealand at Cricket World Cup",
-      "url": "https://www.aljazeera.com/sports/2023/10/22/kohli-shines-as-undefeated-india-beat-new-zealand-at-cricket-world-cup",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/AP23295586354972-1697994406.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1279
+  "totalResults": 1280
 }
