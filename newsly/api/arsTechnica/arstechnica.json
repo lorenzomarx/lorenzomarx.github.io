@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Plumbonacrite has previously been found in later works by Rembrandt.",
+      "publishedAt": "2023-10-25T22:50:25+00:00",
+      "title": "Leonardo da Vinci used toxic pigments when he painted the Mona Lisa",
+      "url": "https://arstechnica.com/science/2023/10/leonardo-da-vinci-used-toxic-pigments-when-he-painted-the-mona-lisa/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/monalisaTOP-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Previously unknown XSS in Roundcube let Winter Vivern steal government emails.",
+      "publishedAt": "2023-10-25T22:21:49+00:00",
+      "title": "Pro-Russia hackers target inboxes with 0-day in webmail app used by millions",
+      "url": "https://arstechnica.com/security/2023/10/pro-russia-hackers-target-inboxes-with-0-day-in-webmail-app-used-by-millions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/system-hacked-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The spider was nesting on her eardrum\u2014and there's video.",
+      "publishedAt": "2023-10-25T21:57:24+00:00",
+      "title": "Teeny jumping spider found in woman\u2019s ear after days of torturous racket",
+      "url": "https://arstechnica.com/science/2023/10/a-wee-spider-needed-a-safe-place-to-molt-it-chose-a-womans-ear-canal/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/nejmicm2307942_f1-1-760x380.jpeg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "The Apple One bundle is getting pricier, too.",
+      "publishedAt": "2023-10-25T21:39:49+00:00",
+      "title": "Apple raises prices of Apple TV+ and other services",
+      "url": "https://arstechnica.com/gadgets/2023/10/apple-raises-prices-of-apple-tv-and-other-services/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/foundation21-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Altered images could destroy AI model training efforts that scrape art without consent.",
+      "publishedAt": "2023-10-25T21:21:23+00:00",
+      "title": "University of Chicago researchers seek to \u201cpoison\u201d AI art generators with Nightshade",
+      "url": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/robot_poison_hero-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Devices as old as the iPhone 6S and iPad Air 2 are still getting patches.",
+      "publishedAt": "2023-10-25T19:31:05+00:00",
+      "title": "Apple releases iOS 16.7.2 and iOS 15.8 security updates to patch old hardware",
+      "url": "https://arstechnica.com/gadgets/2023/10/apple-releases-ios-16-7-2-and-ios-15-8-security-updates-to-patch-old-hardware/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple_iPhone12Pro-iOS15-3up_060721-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Repair advocates say Apple's move is beneficial, but also strategic.",
+      "publishedAt": "2023-10-25T19:19:31+00:00",
+      "title": "Apple backs national right-to-repair bill, offering parts, manuals, and tools",
+      "url": "https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Screenshot-2023-10-25-at-2.28.51\u202fPM-760x380.png"
+    },
+    {
       "author": "John Timmer",
       "description": "Economics, policies will revolutionize energy, still stick us with over 2\u00b0 C warming.",
       "publishedAt": "2023-10-25T19:05:00+00:00",
@@ -23,62 +79,6 @@
       "title": "Motorola demos smartphone that can wrap around your wrist (again)",
       "url": "https://arstechnica.com/gadgets/2023/10/motorola-demos-smartphone-that-can-wrap-around-your-wrist-again/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/wrist-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Rest assured we haven't signed any fixed-price development contracts, nor intend to.\"",
-      "publishedAt": "2023-10-25T18:07:07+00:00",
-      "title": "Boeing says it can\u2019t make money with fixed-price contracts",
-      "url": "https://arstechnica.com/space/2023/10/boeing-says-it-cant-make-money-with-fixed-price-contracts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/49258468286_be52c160ec_k-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Pichai told Congress users could \"clearly see\" what data Google is collecting.",
-      "publishedAt": "2023-10-25T17:49:55+00:00",
-      "title": "Even Google CEO Sundar Pichai doesn\u2019t understand Google\u2019s privacy controls",
-      "url": "https://arstechnica.com/gadgets/2023/10/even-google-ceo-sundar-pichai-doesnt-understand-googles-privacy-controls/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "France's iPhone 12 radiation concerns are also addressed in this release.",
-      "publishedAt": "2023-10-25T17:22:47+00:00",
-      "title": "iOS 17.1, macOS 14.1, and other Apple updates arrive with a few new tricks",
-      "url": "https://arstechnica.com/gadgets/2023/10/ios-17-1-macos-14-1-and-other-apple-updates-arrive-with-a-few-new-tricks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ios_standby-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "A layer of molten rock above the core led to confusing seismic signals.",
-      "publishedAt": "2023-10-25T17:21:12+00:00",
-      "title": "Mars hides a core of molten iron deep inside",
-      "url": "https://arstechnica.com/science/2023/10/mars-hides-a-core-of-molten-iron-deep-inside/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/mars4-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Registration system may be tied to DMCA protection for drive firmware.",
-      "publishedAt": "2023-10-25T17:19:55+00:00",
-      "title": "PS5 Slim\u2019s new external disc drive requires online \u201cpairing\u201d before use",
-      "url": "https://arstechnica.com/gaming/2023/10/ps5-slims-new-external-disc-drive-requires-online-pairing-before-use/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ps5slimdrive-760x380.png"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "iLeakage is practical and requires minimal resources. A patch isn't (yet) available.",
-      "publishedAt": "2023-10-25T17:00:39+00:00",
-      "title": "Hackers can force iOS and macOS browsers to divulge passwords and much more",
-      "url": "https://arstechnica.com/security/2023/10/hackers-can-force-ios-and-macos-browsers-to-divulge-passwords-and-a-whole-lot-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ileakage-password-demo-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The platform was to use GM's Ultium batteries.",
-      "publishedAt": "2023-10-25T15:25:55+00:00",
-      "title": "Honda cancels plan for cheap electric vehicles, ending collaboration with GM",
-      "url": "https://arstechnica.com/cars/2023/10/honda-cancels-plan-for-cheap-electric-vehicles-ending-collaboration-with-gm/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/UltiumCells09-760x380.jpg"
     }
   ],
   "sortBy": "top",
