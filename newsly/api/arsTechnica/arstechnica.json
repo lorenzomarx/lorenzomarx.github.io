@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "\u201cFrom the get-go, this feature was useless,\u201d researcher says of feature put into iOS 14.",
+      "publishedAt": "2023-10-26T21:48:04+00:00",
+      "title": "iPhones have been exposing your unique MAC despite Apple\u2019s promises otherwise",
+      "url": "https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/private-wi-fi-address-700x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "SBF said he thought loans were legal but didn't fully read FTX terms of service.",
+      "publishedAt": "2023-10-26T20:54:45+00:00",
+      "title": "Sam Bankman-Fried testifies, says he \u201cskimmed over\u201d FTX terms of service",
+      "url": "https://arstechnica.com/tech-policy/2023/10/sam-bankman-fried-begins-testifying-in-risky-bid-to-beat-ftx-fraud-charges/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-sbf-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Cryptosporidium cases link to travel and swimming, but at unusually high rate.",
+      "publishedAt": "2023-10-26T20:10:58+00:00",
+      "title": "Unprecedented diarrheal outbreak erupts in UK as cases spike 3x above usual",
+      "url": "https://arstechnica.com/health/2023/10/the-uk-is-bursting-with-diarrheal-disease-cases-3x-higher-than-usual/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1628171108-760x380.jpeg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "Here\u2019s the link to all the Google trial evidence unlocked by media.",
       "publishedAt": "2023-10-26T19:04:44+00:00",
@@ -55,30 +79,6 @@
       "title": "Why Unity felt the need to \u201crush out\u201d its controversial install-fee program",
       "url": "https://arstechnica.com/gaming/2023/10/behind-the-scenes-of-unitys-rushed-out-install-fee-program/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/unityis-760x380.jpg"
-    },
-    {
-      "author": "Matt Lanza, The Eyewall",
-      "description": "It feels like this was a combination of bad luck, bad timing, and bad placement.",
-      "publishedAt": "2023-10-26T15:17:37+00:00",
-      "title": "Trying to make sense of why Otis exploded en route to Acapulco this week",
-      "url": "https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/otis-1-1024x746-1-760x380.jpg"
-    },
-    {
-      "author": "Michael Teo Van Runkle",
-      "description": "OVC builds recreations of 1960s Mustangs\u2014we help test a Peter Brock-designed hood.",
-      "publishedAt": "2023-10-26T14:59:18+00:00",
-      "title": "Old-school problems, old-school solutions: We help aero-test a Mustang",
-      "url": "https://arstechnica.com/cars/2023/10/1960s-style-aero-testing-with-an-old-school-mustang-restomod/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/OVC-Mustangs-Willow-Springs-Aero-Testing-2-760x380.jpg"
-    },
-    {
-      "author": "Evan Williams",
-      "description": "But an internal combustion engine-powered commercial van is going into production.",
-      "publishedAt": "2023-10-26T14:10:23+00:00",
-      "title": "Toyota shows electric concepts at Tokyo show, but it may never build them",
-      "url": "https://arstechnica.com/cars/2023/10/toyota-shows-electric-concepts-at-tokyo-show-but-it-may-never-build-them/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/jms_toyota_13-760x380.jpg"
     }
   ],
   "sortBy": "top",
