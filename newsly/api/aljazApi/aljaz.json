@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "Holit, Israel In the early morning of October 7, fighters affiliated with the armed wing of Hamas broke out of the Gaza Strip and launched a surprise attack on southern Israel.\r\nAt a small kibbutz, j\u2026 [+1788 chars]",
+      "description": "Al Jazeera visited Holit, a kibbutz near Gaza which was attacked by Hamas fighters on October 7.",
+      "publishedAt": "2023-10-27T11:27:09Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israeli volunteers clean up kibbutz attacked by Hamas fighters on October 7",
+      "url": "https://www.aljazeera.com/gallery/2023/10/27/israeli-volunteers-clean-up-kibbutz-attacked-by-hamas-on-october-7",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/DSCF9130-1698394315.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Aseel Mousa",
       "content": "Al-Maghazi, Gaza Strip Days after a UNRWA school in the central Gaza Strip was hit by Israel, killing at least six people, clothes and blankets still hang from the windows and balconies of its other \u2026 [+6888 chars]",
       "description": "More than half a million displaced Palestinians are sheltering in 150 UNRWA facilities and in poor conditions.",
@@ -1286,21 +1299,8 @@
       "title": "Russian defence minister visits Ukrainian front amid winter preparations",
       "url": "https://www.aljazeera.com/news/2023/10/25/russias-shoigu-makes-frontline-visit-amid-heavy-losses",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/33Z32BK-preview-1698226195.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Russian Defence Minister Sergei Shoigou has visited a command post near the front lines in eastern Ukraine as fighting in the region intensifies in advance of the harsh winter season.\r\nHe travelled t\u2026 [+2795 chars]",
-      "description": "Shoigou visited the 'Vostok' command post to be briefed on front-line developments and preparations for winter combat.",
-      "publishedAt": "2023-10-25T12:40:34Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Russian foreign minister visits Ukrainian front amid winter preparations",
-      "url": "https://www.aljazeera.com/news/2023/10/25/russias-shoigou-makes-frontline-visit-amid-heavy-losses",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/33Z32BK-preview-1698226195.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1297
+  "totalResults": 1298
 }
