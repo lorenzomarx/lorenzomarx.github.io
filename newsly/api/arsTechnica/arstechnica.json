@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "\u201cWe\u2019re building our landers to enable global landing capability on the Moon, day or night.\"",
+      "publishedAt": "2023-10-28T00:28:07+00:00",
+      "title": "Jeff Bezos shows off new Moon lander design for NASA",
+      "url": "https://arstechnica.com/space/2023/10/jeff-bezos-shows-off-new-moon-lander-design-for-nasa/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/bluemoonmk1-760x380.jpeg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "Lasers melt a regolith-like material into pavers that could be used for lunar roads.",
+      "publishedAt": "2023-10-27T23:38:32+00:00",
+      "title": "This is how we could possibly build paved roads on the Moon",
+      "url": "https://arstechnica.com/science/2023/10/this-is-how-we-could-possibly-build-paved-roads-on-the-moon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1497116264-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Octo Tempest employs tactics that many of its targets aren't prepared for.",
+      "publishedAt": "2023-10-27T23:20:36+00:00",
+      "title": "Microsoft profiles new threat group with unusual but effective practices",
+      "url": "https://arstechnica.com/security/2023/10/microsoft-profiles-new-threat-group-with-unusual-but-effective-practices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/10/getty-hacker-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Colchicine is centuries old, but the line between toxic and nontoxic is still blurry.",
+      "publishedAt": "2023-10-27T22:42:28+00:00",
+      "title": "Poison expert allegedly poisoned wife\u2014with a shockingly toxic gout drug",
+      "url": "https://arstechnica.com/health/2023/10/poison-expert-allegedly-poisoned-wife-with-a-shockingly-toxic-gout-drug/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Colchicine-from-xtal-Mercury-3D-balls-760x380.png"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "\"They've been relegated to pretty insignificant roles in the PC business.\"",
+      "publishedAt": "2023-10-27T21:58:48+00:00",
+      "title": "Intel doesn\u2019t think that Arm CPUs will make a dent in the laptop market",
+      "url": "https://arstechnica.com/gadgets/2023/10/intels-ceo-doesnt-seem-worried-about-arm-chips-from-qualcomm-nvidia-or-amd/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Intel-Core-Ultra-Meteor-Lake-1-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
-      "description": "CEO Sundar Pichai testifies Monday, as Google mounts its defense.",
+      "description": "FTX co-founder scolded for making up his own definition of market manipulation.",
+      "publishedAt": "2023-10-27T21:40:06+00:00",
+      "title": "Sam Bankman-Fried repeatedly told to \u201cstop talking\u201d during rambling testimony",
+      "url": "https://arstechnica.com/tech-policy/2023/10/sam-bankman-fried-repeatedly-told-to-stop-talking-during-rambling-testimony/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1556770792-760x380.jpg"
+    },
+    {
+      "author": "Ryan Waniata",
+      "description": "Sweet TVs, ergonomic office chairs, and Apple discounts top today's Dealmaster.",
+      "publishedAt": "2023-10-27T20:26:00+00:00",
+      "title": "Dealmaster: Sparkling TVs, noise canceling cans, Lenovo laptops, and much more",
+      "url": "https://arstechnica.com/shopping/2023/10/dealmaster-sparkling-tvs-noise-canceling-cans-lenovo-laptops-and-much-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Samsung-S90C-Amazon-Pic-600x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Meanwhile, a quarter of the country's wastewater testing sites are offline.",
+      "publishedAt": "2023-10-27T19:47:22+00:00",
+      "title": "Fall COVID shot uptake is an \u201cabysmal\u201d 7%; wastewater testing impaired",
+      "url": "https://arstechnica.com/health/2023/10/fall-covid-shot-uptake-is-an-abysmal-7-wastewater-testing-impaired/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1743149206-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Kolumbo underwater volcano's 1650 eruption killed 70 people on Santorini Island, Greece.",
+      "publishedAt": "2023-10-27T19:29:54+00:00",
+      "title": "What caused the volcanic tsunami that devastated a Greek island 373 years ago?",
+      "url": "https://arstechnica.com/science/2023/10/what-caused-the-volcanic-tsunami-that-devastated-a-greek-island-373-years-ago/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/kolumbo5-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "CEO Sundar Pichai testifies Monday as Google mounts its defense.",
       "publishedAt": "2023-10-27T18:53:34+00:00",
       "title": "Google loses fight to hide 2021 money pit: $26B in default contracts",
       "url": "https://arstechnica.com/tech-policy/2023/10/google-paid-26b-for-default-contracts-in-2021-google-exec-testified/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1004833944-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Apple plans to appeal the ruling, which is under presidential review.",
-      "publishedAt": "2023-10-27T18:23:49+00:00",
-      "title": "Apple Watch facing potential ban after losing Masimo patent case",
-      "url": "https://arstechnica.com/tech-policy/2023/10/apple-watch-facing-potential-ban-after-losing-masimo-patent-case/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/apple-watch-6s-202009-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Users with multiple profiles are getting locked out of local storage and losing data.",
-      "publishedAt": "2023-10-27T18:11:00+00:00",
-      "title": "Android 14\u2019s user-profile data bug seems indistinguishable from ransomware",
-      "url": "https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2013/10/android-lockup-640x215.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Long mobile conversations with the AI assistant using AirPods echo the sci-fi film.",
-      "publishedAt": "2023-10-27T16:52:55+00:00",
-      "title": "People are speaking with ChatGPT for hours, bringing 2013\u2019s Her closer to reality",
-      "url": "https://arstechnica.com/information-technology/2023/10/people-are-speaking-with-chatgpt-for-hours-bringing-2013s-her-closer-to-reality/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/her_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "It was achieved through a combo of aero, tire, and powertrain improvements.",
-      "publishedAt": "2023-10-27T16:24:50+00:00",
-      "title": "A 50 percent more efficient big rig? Meet Super Truck II",
-      "url": "https://arstechnica.com/cars/2023/10/a-50-percent-more-efficient-big-rig-meet-super-truck-ii/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/5i8a5087-ret_rgb-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "X's success as an everything app will \"exceed\" China's WeChat, Musk says.",
-      "publishedAt": "2023-10-27T15:34:29+00:00",
-      "title": "Elon Musk wants your \u201centire financial life\u201d on X by 2024",
-      "url": "https://arstechnica.com/tech-policy/2023/10/elon-musk-wants-your-entire-financial-life-on-x-by-2024/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1663931480-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "The M11-P is the first camera to integrate Content Credentials.",
-      "publishedAt": "2023-10-27T13:58:53+00:00",
-      "title": "Leica camera has built-in defense against misleading AI, costs $9,125",
-      "url": "https://arstechnica.com/gadgets/2023/10/leicas-9125-camera-automatically-stores-authenticity-proving-metadata/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/list-760x380.jpg"
-    },
-    {
-      "author": "Kate Knibbs, wired.com",
-      "description": "There's no way to opt out, leading artists to believe Meta's system is badly broken.",
-      "publishedAt": "2023-10-27T13:38:52+00:00",
-      "title": "It\u2019s a \u201cfake PR stunt\u201d: Artists hate Meta\u2019s AI data deletion process",
-      "url": "https://www.wired.com/story/meta-artificial-intelligence-data-deletion/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/delete-key-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"So I didn't even make it back and it's already renamed to Sfera.\"",
-      "publishedAt": "2023-10-27T13:20:00+00:00",
-      "title": "Russia renamed its ambitious satellite program after Putin misspoke its name",
-      "url": "https://arstechnica.com/space/2023/10/russia-renamed-its-ambitious-satellite-program-after-putin-misspoke-its-name/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/07/GettyImages-962039264-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "The Squid Nebula is a recent discovery, first spotted in 2011.",
-      "publishedAt": "2023-10-27T12:00:12+00:00",
-      "title": "Daily Telescope: Meet the Flying Bat and Squid nebulae",
-      "url": "https://arstechnica.com/space/2023/10/daily-telescope-meet-the-flying-bat-and-squid-nebulae/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/FlamingBat_Squid-760x380.png"
     }
   ],
   "sortBy": "top",
