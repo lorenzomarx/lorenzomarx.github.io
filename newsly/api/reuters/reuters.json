@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "The families of Israeli hostages held by Hamas in the Gaza Strip have been racked with worry for their loved ones since the military stepped up ground assaults inside the Palestinian territory, a group lobbying for the families said on Saturday.",
+      "publishedAt": "2023-10-28T09:51:04Z",
+      "title": "'Anxiety' racks Israeli hostage families as army assaults Gaza",
+      "url": "https://www.reuters.com/world/middle-east/anxiety-racks-israeli-hostage-families-army-assaults-gaza-2023-10-28/",
+      "urlToImage": "https://www.reuters.com/resizer/DN6MCAoEf39DhoelXEPzXkiwsSI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HADE7CXV6JLJFCAD5CCJ474BPU.jpg"
+    },
+    {
+      "author": "Ece Toksabay, Dilara Senkaya",
+      "description": "President Tayyip Erdogan will join on Saturday what is expected to be one of the largest pro-Palestinian rallies since the Israel-Hamas war began, courting his Islamist political base a day ahead of the centenary of Turkey's secular republic.",
+      "publishedAt": "2023-10-28T09:59:08Z",
+      "title": "Erdogan to address pro-Palestinian rally on eve of Turkey's centenary",
+      "url": "https://www.reuters.com/world/middle-east/erdogan-address-pro-palestinian-rally-eve-turkeys-centenary-2023-10-28/",
+      "urlToImage": "https://www.reuters.com/resizer/wmLkT2XUYacuKpd5Mvm_LC8ydZ8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D76NP6MLU5OZFH7AF4GQJ4CXVY.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "Israel's military said on Saturday it had stopped a surface-to-air missile fired from Lebanon at one of its drones and the Lebanese authorities issued precautionary guidance in case it has to evacuate Beirut airport, as border tensions climb.",
+      "publishedAt": "2023-10-28T10:17:37Z",
+      "title": "Israel stops missile from Lebanon, as Beirut takes airport precautions",
+      "url": "https://www.reuters.com/world/middle-east/lebanon-issues-precautionary-guidance-airport-border-tensions-rise-2023-10-28/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=161"
+    },
+    {
       "author": "Ahmed Mohamed Hassan, Dan Williams",
       "description": "Drones caused explosions that rocked two Egyptian towns on the Red Sea on Friday, the Egyptian army said, while Israel said Yemen's Iran-backed Houthi movement sent them to strike Israel.",
       "publishedAt": "2023-10-27T21:19:32Z",
@@ -33,30 +57,6 @@
       "urlToImage": "https://www.reuters.com/resizer/ngGZTB374bJpuuWIEabswd2Ebwo=/706x369/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NLQ7MXUABVEYFDRCLBVKAPALSE.jpeg"
     },
     {
-      "author": "Gabrielle T\u00e9trault-Farber",
-      "description": "U.S. President Joe Biden has cast doubt on casualty figures provided by Palestinian officials in <a href=\"/world/middle-east/eu-calls-humanitarian-pauses-gaza-aid-israel-raids-enclave-2023-10-26/\">Gaza</a>, but international humanitarian agencies consider them broadly accurate and historically reliable.",
-      "publishedAt": "2023-10-27T11:17:16Z",
-      "title": "Despite Biden's doubts, humanitarian agencies consider Gaza toll reliable",
-      "url": "https://www.reuters.com/world/middle-east/despite-bidens-doubts-humanitarian-agencies-consider-gaza-toll-reliable-2023-10-27/",
-      "urlToImage": "https://www.reuters.com/resizer/KYVYzanQ1C0WRZ3dT-eifBK1ILQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KR3JKIGZOBNFNJDIPDLLVTLJ3A.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "The Israeli military accused the Islamist movement Hamas on Friday of using the main hospital in Gaza as a shield for its tunnels and operational centres.",
-      "publishedAt": "2023-10-27T15:00:48Z",
-      "title": "Israeli military says Hamas hiding tunnels, operations centres in Gaza hospital",
-      "url": "https://www.reuters.com/world/middle-east/israeli-military-says-hamas-hiding-tunnels-operations-centres-gaza-hospital-2023-10-27/",
-      "urlToImage": "https://www.reuters.com/resizer/9fJuKALdedczFtKO3zYZWICZFYU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7FPEAP5RFIODJ266NKQAGURYI.jpg"
-    },
-    {
-      "author": "Idrees Ali, Phil Stewart",
-      "description": "The U.S. military carried out strikes against two facilities in eastern Syria used by Iran's Islamic Revolutionary Guard Corps and groups it backs, the Pentagon said on Thursday, in response to a spate of attacks against U.S. forces in both Iraq and Syria.",
-      "publishedAt": "2023-10-27T21:18:08Z",
-      "title": "US strikes Iranian targets in Syria -Pentagon",
-      "url": "https://www.reuters.com/world/middle-east/us-carries-out-strikes-against-iranian-targets-syria-pentagon-2023-10-27/",
-      "urlToImage": "https://www.reuters.com/resizer/hh-THnkWRymiVDTHwzuxvbMX_Wc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ERQF5Q3HDVIQ5DUJJQOXH6DAUY.jpg"
-    },
-    {
       "author": "Nidal Al-Mughrabi",
       "description": "Israeli air and ground forces are stepping up operations in the Gaza Strip, Israel's chief military spokesperson said on Friday, amid reports of heavy bombing of the besieged enclave.",
       "publishedAt": "2023-10-27T18:06:15Z",
@@ -66,19 +66,19 @@
     },
     {
       "author": "Gabriella Borter",
-      "description": "The man suspected of killing 18 people and wounding 13 in a shooting rampage in Lewiston, Maine, was found dead on Friday, ending a 48-hour manhunt that followed the most lethal episode of gun violence in the state's history.",
-      "publishedAt": "2023-10-28T02:24:43Z",
-      "title": "Suspect in Lewiston massacre found dead, ending 48-hour manhunt",
-      "url": "https://www.reuters.com/world/us/maine-manhunt-lewiston-mass-shooter-extends-another-night-2023-10-27/",
-      "urlToImage": "https://www.reuters.com/resizer/_kbB9CzH-FKf91ElwtaLL-pUPDk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BEC2XKZ5ONJIHAD7KWYH6XC36Q.jpg"
+      "description": "A U.S. Army reservist accused of spraying a bowling alley and bar with gunfire in Lewiston, Maine, killing 18 people, was found dead after a 48-hour manhunt, restoring calm to communities unnerved by the bloodshed but leaving many questions unanswered.",
+      "publishedAt": "2023-10-28T10:12:16Z",
+      "title": "US army reservist suspected in Lewiston, Maine, shootings found dead, likely suicide",
+      "url": "https://www.reuters.com/world/us/us-army-reservist-suspected-lewiston-maine-shootings-found-dead-likely-suicide-2023-10-28/",
+      "urlToImage": "https://www.reuters.com/resizer/ei-4OxMFh8LUEqtZBHf78MPiArE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4KKKCXM3PFK25AD5OLS5QDEIIE.jpg"
     },
     {
-      "author": "Hyonhee Shin, Daewoung Kim",
-      "description": "South Korean and U.S. troops held joint future combat drills involving drones, an unmanned vehicle and wearable laser sensors this week as part of efforts to modernise their militaries, Seoul's army said on Saturday.",
-      "publishedAt": "2023-10-28T03:06:56Z",
-      "title": "South Korea, US troops hold drills with drones, laser sensors",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korea-us-troops-hold-drills-with-drones-laser-sensors-2023-10-28/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=161"
+      "author": "Reuters",
+      "description": "China's aviation regulator will increase domestic flights to 34% above pre-pandemic levels, state news agency Xinhua reported, a move that will further boost the post-pandemic recovery of Chinese airlines.",
+      "publishedAt": "2023-10-28T05:49:22Z",
+      "title": "Flights in China to increase 34% above pre-pandemic levels",
+      "url": "https://www.reuters.com/business/aerospace-defense/flights-china-increase-34-above-pre-pandemic-levels-2023-10-28/",
+      "urlToImage": "https://www.reuters.com/resizer/hQOiVFSkCNsdJwQsMtYlKDOyu90=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYTVV5Q6ZZLPFFXZT7WOSLYFCM.jpg"
     }
   ],
   "sortBy": "top",
