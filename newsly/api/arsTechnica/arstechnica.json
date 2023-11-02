@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "Artist suing Stability AI pushed to explain how Stable Diffusion actually works.",
+      "publishedAt": "2023-10-31T21:05:45+00:00",
+      "title": "Two artists suing AI image makers never registered works with Copyright Office",
+      "url": "https://arstechnica.com/tech-policy/2023/10/two-artists-suing-ai-image-makers-never-copyrighted-their-works/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1599173695-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "It's Autopilot's second big jury win in California this year.",
+      "publishedAt": "2023-10-31T20:03:08+00:00",
+      "title": "Tesla Autopilot not responsible for 2019 fatal crash, jury says",
+      "url": "https://arstechnica.com/cars/2023/10/tesla-autopilot-not-responsible-for-2019-fatal-crash-jury-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1006811190-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Speculative AI news poll presented three choices: murder, accident, or suicide.",
+      "publishedAt": "2023-10-31T19:53:37+00:00",
+      "title": "Inserted AI-generated Microsoft poll about woman\u2019s death rankles The Guardian",
+      "url": "https://arstechnica.com/information-technology/2023/10/inserted-ai-generated-microsoft-poll-about-womans-death-rankles-the-guardian/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "SolarWinds misled public about security while hackers accessed network, SEC says.",
+      "publishedAt": "2023-10-31T19:43:20+00:00",
+      "title": "SEC sues SolarWinds and CISO, says they ignored flaws that led to major hack",
+      "url": "https://arstechnica.com/tech-policy/2023/10/sec-sues-solarwinds-and-ciso-says-they-ignored-flaws-that-led-to-major-hack/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-lock-smashed-screen-760x380.jpg"
+    },
+    {
       "author": "Ron Amadeo",
       "description": "We've got RISC-V OS support, incoming chips, and soon, an app ecosystem.",
       "publishedAt": "2023-10-31T18:55:37+00:00",
@@ -47,38 +79,6 @@
       "title": "Facing 110 years in prison, Sam Bankman-Fried \u201ccan\u2019t recall\u201d what he did at FTX",
       "url": "https://arstechnica.com/tech-policy/2023/10/facing-110-years-in-prison-sam-bankman-fried-cant-recall-what-he-did-at-ftx/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-sbf-2-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple's is refreshing three Mac chips at once, in a total of six configurations.",
-      "publishedAt": "2023-10-31T15:40:47+00:00",
-      "title": "Apple introduces new M3 chip lineup, starting with the M3, M3 Pro, and M3 Max",
-      "url": "https://arstechnica.com/gadgets/2023/10/everything-to-know-about-apples-new-m3-m3-pro-and-m3-max-processors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple-M3-chip-series_screen-760x380.jpeg"
-    },
-    {
-      "author": "Evan Williams",
-      "description": "As the auto show tries to reinvent itself, Japan lets some interesting ideas loose.",
-      "publishedAt": "2023-10-31T14:57:05+00:00",
-      "title": "There was a heavy dose of the future at the 2023 Japan Mobility Show",
-      "url": "https://arstechnica.com/cars/2023/10/mechs-walkers-evtol-and-more-at-the-2023-japan-mobility-show/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tms-10-of-21-760x380.jpg"
-    },
-    {
-      "author": "Hannah Murphy, Financial Times",
-      "description": "Company is giving employees equity based on a share price of $45.",
-      "publishedAt": "2023-10-31T13:48:15+00:00",
-      "title": "One year after being bought for $44 billion, X is worth $19 billion",
-      "url": "https://www.ft.com/content/56cc3153-4862-4a3c-bc23-404a0810ab94",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-twitter-x-logos-760x380.jpg"
-    },
-    {
-      "author": "Tim Stevens",
-      "description": "Five minutes behind the wheel, and you'll be a believer.",
-      "publishedAt": "2023-10-31T12:57:36+00:00",
-      "title": "Toyota has built an EV with a fake transmission, and we\u2019ve driven it",
-      "url": "https://arstechnica.com/cars/2023/10/toyota-has-built-an-ev-with-a-fake-transmission-and-weve-driven-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Z8S_9029-760x380.jpg"
     }
   ],
   "sortBy": "top",
