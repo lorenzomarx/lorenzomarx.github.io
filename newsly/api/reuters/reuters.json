@@ -1,52 +1,60 @@
 {
   "articles": [
     {
-      "author": "Luc Cohen",
-      "description": "Sam Bankman-Fried's fraud trial has given an unprecedented window into how a group of graduates from elite U.S. universities in their late 20s and early 30s tried, and ultimately failed, to avert one of the biggest and swiftest corporate meltdowns ever.",
-      "publishedAt": "2023-11-02T10:13:34Z",
-      "title": "Sam Bankman-Fried trial gives jury inside view of FTX's final days",
-      "url": "https://www.reuters.com/legal/sam-bankman-fried-trial-gives-jury-inside-view-ftxs-final-days-2023-11-02/",
-      "urlToImage": "https://www.reuters.com/resizer/wenAT47zmfck1WD75nxCDMP2LOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQWC52NKBJINZBOG6DMQV4VSDA.jpg"
+      "author": "Diane Bartz, Arriana McLymore, David Shepardson",
+      "description": "Amazon.com used a series of illegal strategies to stay on top of online retailing while pushing up prices for buyers and extracting more revenue from independent sellers, the Federal Trade Commission (FTC) said on Thursday.",
+      "publishedAt": "2023-11-02T16:33:27Z",
+      "title": "Amazon made $1 billion through secret price raising algorithms -FTC",
+      "url": "https://www.reuters.com/legal/new-details-ftc-antitrust-lawsuit-against-amazon-made-public-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/N3ngL-yK6wu8kCW8_VWkhpGfCQg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6BT5YTNKWJLM3HYQIGTTWGDDPA.jpg"
+    },
+    {
+      "author": "Joseph White, David Shepardson",
+      "description": "Leaders of the United Auto Workers signaled the next step in their campaign to capitalize on the union's success in bargaining with the Detroit Three: launching organizing drives at Toyota <a href=\"https://www.reuters.com/markets/companies/7203.T\" target=\"_blank\">(7203.T)</a>, Tesla <a href=\"https://www.reuters.com/markets/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> and other nonunion U.S. auto factories.",
+      "publishedAt": "2023-11-02T17:10:13Z",
+      "title": "UAW gears up to organize Toyota, other nonunion automakers",
+      "url": "https://www.reuters.com/business/autos-transportation/uaw-gears-up-organize-toyota-other-nonunion-automakers-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/BackfbH7M_RnswwLQhJZVlM8PRA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OYI6DC4JMRPJNA6NTZ6BXAIHLM.jpg"
+    },
+    {
+      "author": "Savyata Mishra",
+      "description": "Cedar Fair <a href=\"https://www.reuters.com/markets/companies/FUN.N\" target=\"_blank\">(FUN.N)</a> and Six Flags Entertainment <a href=\"https://www.reuters.com/markets/companies/SIX.N\" target=\"_blank\">(SIX.N)</a> on Thursday agreed to merge to spur a post-pandemic recovery that smaller U.S. amusement park operators have been chasing as leisure spending remains low amid an uncertain economic outlook.",
+      "publishedAt": "2023-11-02T14:18:00Z",
+      "title": "Cedar Fair, Six Flags merge to spur post-pandemic recovery in theme parks",
+      "url": "https://www.reuters.com/markets/deals/us-theme-park-operators-cedar-fair-six-flags-merge-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/hJ8EycOtoYgMn1UbNPDwRtqAavo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WERGXZFEURLEVE6PUEE3PKYZ6U.jpg"
+    },
+    {
+      "author": "Martin Coulter, Paul Sandle",
+      "description": "Leading AI developers agreed to work with governments to test new frontier models before they are released, to help manage the risks of the rapidly developing technology, in a potentially landmark achievement at the UK's artificial intelligence summit.",
+      "publishedAt": "2023-11-02T18:04:04Z",
+      "title": "At UK's AI Summit developers and govts agree on testing to help manage risks",
+      "url": "https://www.reuters.com/world/uk/uk-pm-sunak-lead-ai-summit-talks-before-musk-meeting-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/kWTKbdH9pnFTBPwiideS6GaD3pM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VD4LVZQ4WNPLXALIA7C3FPVQBU.jpg"
+    },
+    {
+      "author": "Ananya Mariam Rajesh, Deborah Sophia",
+      "description": "U.S. holiday sales in 2023 are expected to rise at the slowest pace in five years, data from the National Retail Federation (NRF) showed on Thursday, as Americans grappling with sticky inflation think twice before splurging this shopping season.",
+      "publishedAt": "2023-11-02T16:40:06Z",
+      "title": "US holiday sales growth to slow as inflation pinches wallets - report",
+      "url": "https://www.reuters.com/markets/us/us-holiday-sales-grow-slower-pace-this-holiday-season-report-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/G0QXoELtx-H_i3Dl8E1z80V487M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4CZES4TJ6NONRFHIBK5QKHPRUU.jpg"
+    },
+    {
+      "author": "Maggie Fick, Bhanvi Satija",
+      "description": "Novo Nordisk <a href=\"https://www.reuters.com/markets/companies/NOVOb.CO\" target=\"_blank\">(NOVOb.CO)</a> and Eli Lilly <a href=\"https://www.reuters.com/markets/companies/LLY.N\" target=\"_blank\">(LLY.N)</a> both expect juggernaut sales for their diabetes and weight-loss drugs to extend into coming years - limited only by their availability.",
+      "publishedAt": "2023-11-02T17:17:42Z",
+      "title": "Novo Nordisk, Lilly see insatiable demand for weight-loss drugs",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-lilly-see-insatiable-demand-weight-loss-drugs-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/qR4YOnlSvTMyxDKl-vswMZ1SJdA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZPFZD22WZZKEZKMWXPV4O4OKAE.jpg"
     },
     {
       "author": "Reuters",
-      "description": "The euro zone is unlikely to see a new boom in consumption as savings accumulated during the COVID-19 pandemic are largely held by the richest households, the European Central Bank said in a blog posting on Thursday.",
-      "publishedAt": "2023-11-02T10:49:30Z",
-      "title": "ECB sees no consumption boom as rich have most of the savings",
-      "url": "https://www.reuters.com/markets/europe/ecb-sees-no-consumption-boom-rich-have-most-savings-2023-11-02/",
-      "urlToImage": "https://www.reuters.com/resizer/7ER_XSkZp3ojSXZAad-JZX4fPyc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZZYCG4ZKTNLGXPLGEONQUUROHQ.jpg"
-    },
-    {
-      "author": "Nia Williams, Maiya Keidan",
-      "description": "U.S. corporates and private equity firms are increasingly eyeing Canadian oil and gas companies for acquisition, drawn by lower valuations, ample fossil fuel reserves, and improving market access, according to dealmakers and analysts.",
-      "publishedAt": "2023-11-02T10:08:08Z",
-      "title": "Cheaper Canadian oil and gas valuations lure potential US buyers north",
-      "url": "https://www.reuters.com/business/energy/cheaper-canadian-oil-gas-valuations-lure-potential-us-buyers-north-2023-11-02/",
-      "urlToImage": "https://www.reuters.com/resizer/1tWvCZTN4K60draLReqGk4ToCFw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L7KQ2JQUGVKOJJJYPZGYIH7A5U.jpg"
-    },
-    {
-      "author": "Ross Kerber",
-      "description": "Swiss-based sustainability group Better Cotton said on Thursday it has added new functions to a platform that big retailers use to trace materials through their supply chains.",
-      "publishedAt": "2023-11-02T00:12:04Z",
-      "title": "Sustainable cotton group boosts tracking for top retailers",
-      "url": "https://www.reuters.com/markets/commodities/sustainable-cotton-group-boosts-tracking-top-retailers-2023-11-02/",
-      "urlToImage": "https://www.reuters.com/resizer/DLKB0GtT_ThXeRMwdzMey10382M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FXR5ZKP26BNCJNICQ5N6Q2PR7I.jpg"
-    },
-    {
-      "author": "Jonathan Stempel",
-      "description": "Uber <a href=\"https://www.reuters.com/markets/companies/UBER.N\" target=\"_blank\">(UBER.N)</a> and Lyft <a href=\"https://www.reuters.com/markets/companies/LYFT.O\" target=\"_blank\">(LYFT.O)</a> will pay a combined $328 million to settle claims by New York's attorney general that the ride-sharing companies systematically cheated drivers out of pay and benefits.",
-      "publishedAt": "2023-11-02T10:44:01Z",
-      "title": "Uber, Lyft to pay $328 million to settle New York wage theft claims",
-      "url": "https://www.reuters.com/business/autos-transportation/uber-lyft-pay-328-million-settle-new-york-wage-theft-claims-2023-11-02/",
-      "urlToImage": "https://www.reuters.com/resizer/yAVRtHhYtGohrII9vSYoO1lC4W0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QCAYFIS4ZBJFJPHIRIJR2HIYXQ.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "China's financial regulators are investigating a month-end liquidity crunch that saw short-term money rates surge to as much as 50%, asking some institutions to explain why they borrowed at extremely high rates, three sources said.",
-      "publishedAt": "2023-11-02T08:58:46Z",
-      "title": "China regulators probe liquidity stress that sent rates to record 50% - sources",
-      "url": "https://www.reuters.com/markets/asia/china-regulators-probe-liquidity-stress-that-sent-rates-record-50-sources-2023-11-02/",
-      "urlToImage": "https://www.reuters.com/resizer/j5JFlfIXpVp8m6oBSiosSKb8Js0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OYR7OROA6RJV5KRCRFQLMLLUU4.jpg"
+      "description": "SpaceX CEO Elon Musk said on Thursday the rocket company's satellite internet unit, Starlink, had achieved break even cash flow.",
+      "publishedAt": "2023-11-02T15:44:01Z",
+      "title": "Starlink achieves cash flow breakeven, says SpaceX CEO Musk",
+      "url": "https://www.reuters.com/technology/elon-musk-says-starlink-has-achieved-breakeven-cash-flow-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/bOIyLDirTZPS7Dkln668_RPLFg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QNXH2W24F5N4TBKD2Z4CF3FOSU.jpg"
     },
     {
       "author": "Nidal Al-Mughrabi, Dan Williams",
@@ -57,20 +65,20 @@
       "urlToImage": "https://www.reuters.com/resizer/vrqCr5WKkKNZ76tsrThSW1zSRSE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OZLFMCUQWZJQPARY4CUYD6TJTU.jpg"
     },
     {
-      "author": "Leika Kihara",
-      "description": "Bank of Japan Governor Kazuo Ueda will continue to dismantle the central bank's ultra-easy monetary policy settings and look to exit the decade-long accommodative regime sometime next year, an inherently risky plan that would require skilful execution.",
-      "publishedAt": "2023-11-02T08:49:23Z",
-      "title": "Exclusive: BOJ plans to exit from easy policy next year but needs some good fortune",
-      "url": "https://www.reuters.com/markets/asia/boj-plans-exit-easy-policy-next-year-needs-some-good-fortune-2023-11-02/",
-      "urlToImage": "https://www.reuters.com/resizer/ZsxxrHEeHDmwGv6F1n6El2RO0AA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VG3VWVCESZOFFKVGCFPKUWGWBY.jpg"
+      "author": "Reuters",
+      "description": "After almost two years of aggressive monetary tightening, the world's biggest central banks are taking time out before weighing up their next move.",
+      "publishedAt": "2023-11-02T13:48:42Z",
+      "title": "After aggressive rate hikes, big central banks take time out",
+      "url": "https://www.reuters.com/markets/after-aggressive-rate-hikes-big-central-banks-take-time-out-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/3tjkMrlO8nyzqUcACYUnOWW8Dhw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BUV4GUINIJOCHAUKRRZLOFATRY.jpg"
     },
     {
       "author": "Reuters",
-      "description": "President Vladimir Putin on Thursday signed off on a law revoking Russia's ratification of the Comprehensive Nuclear Test Ban Treaty, a move he says is designed to bring Moscow into line with the United States.",
-      "publishedAt": "2023-11-02T09:54:56Z",
-      "title": "Putin revokes Russia's ratification of nuclear test ban treaty",
-      "url": "https://www.reuters.com/world/europe/putin-revokes-russias-ratification-nuclear-test-ban-treaty-2023-11-02/",
-      "urlToImage": "https://www.reuters.com/resizer/3i1RoT1x47gODuPhXMrCns2TdA0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5QUWL54YUZI3XK4EBDELQNFBVA.jpg"
+      "description": "Civil rights leaders on Thursday called for a federal investigation into the case of Dexter Wade, a 37-year-old Black man from Mississippi who was reportedly struck and killed by police and buried without his family's knowledge.",
+      "publishedAt": "2023-11-02T18:21:02Z",
+      "title": "Calls mount for federal investigation of Mississippi police in Dexter Wade's death",
+      "url": "https://www.reuters.com/world/us/calls-mount-federal-investigation-mississippi-police-dexter-wades-death-2023-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/pnA6ReO99pUpZrSU_b1J9-Tz1rU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WUHM3O5CVZPABI66QOBZEU4UEY.jpg"
     }
   ],
   "sortBy": "top",
