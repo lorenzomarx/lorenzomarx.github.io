@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Samuel Axon",
+      "description": "$79 Pencil lowers the barrier to entry for drawing on an iPad.",
+      "publishedAt": "2023-11-01T20:28:36+00:00",
+      "title": "Apple\u2019s cheaper Pencil is available to buy now, but it has some limitations",
+      "url": "https://arstechnica.com/gadgets/2023/11/apples-cheaper-pencil-is-available-to-buy-now-but-it-has-some-limitations/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/Apple-Pencil-USB-C-sliding-cap-760x380.jpg"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "Hot TV deals, laptops galore, Apple gear, and more ahead of Black Friday.",
+      "publishedAt": "2023-11-01T20:20:31+00:00",
+      "title": "Dealmaster: Big early Black Friday display sale, Apple deals, and more",
+      "url": "https://arstechnica.com/shopping/2023/11/dealmaster-big-early-black-friday-display-sale-apple-deals-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/Odyssey-Neo-G8-Monitor-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Japanese publisher cites reputational damage, support costs of \"unauthorized\" mods.",
+      "publishedAt": "2023-11-01T19:34:19+00:00",
+      "title": "Why Capcom thinks PC game modding is akin to \u201ccheating\u201d",
+      "url": "https://arstechnica.com/gaming/2023/11/no-capcom-modding-pc-games-isnt-the-same-as-cheating/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/capcom-modding-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Chocolate is just not a big source of either lead or cadmium in diets.",
+      "publishedAt": "2023-11-01T19:06:12+00:00",
+      "title": "Despite spooky Consumer Reports\u2019 testing, metals in chocolates aren\u2019t scary",
+      "url": "https://arstechnica.com/health/2023/11/despite-spooky-consumer-reports-testing-metals-in-chocolates-arent-scary/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chocolate-heavy-metal-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Ad-tier improvement is rare good news for streaming subscribers.",
+      "publishedAt": "2023-11-01T18:32:53+00:00",
+      "title": "Amid price hikes, ads, & crackdowns, Netflix finally cuts subscribers a break",
+      "url": "https://arstechnica.com/gadgets/2023/11/amid-price-hikes-ads-crackdowns-netflix-finally-cuts-subscribers-a-break/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/onepiece-760x380.jpg"
+    },
+    {
       "author": "John Timmer",
       "description": "High-density material in the mantle may be remains of a Mars-sized planet.",
       "publishedAt": "2023-11-01T18:19:36+00:00",
@@ -39,46 +79,6 @@
       "title": "Cute, fun to ride, but does it have a future? The Honda Motocompacto",
       "url": "https://arstechnica.com/cars/2023/11/cute-fun-to-ride-but-does-it-have-a-future-the-honda-motocompacto/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/IMG_1298-760x380.jpg"
-    },
-    {
-      "author": "Morgan Meaker, wired.com",
-      "description": "Ban came after owner's research showed growing influence of far-right accounts.",
-      "publishedAt": "2023-11-01T12:53:53+00:00",
-      "title": "Major critic of X sues after being banned from platform",
-      "url": "https://www.wired.com/story/x-twitter-ban-critics/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/dartboard-x-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"I finally had 30 minutes or so to admire the spectacular view.\"",
-      "publishedAt": "2023-11-01T12:00:44+00:00",
-      "title": "Daily Telescope: A dazzling view of the Milky Way from southern Africa",
-      "url": "https://arstechnica.com/space/2023/11/daily-telescope-a-dazzling-view-of-the-milky-way-from-southern-africa/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/MilkyWayRising_1200x800_with-ICC-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\u201cPlunging into the ocean is awful. Landing on a runway is really nice.\"",
-      "publishedAt": "2023-11-01T11:00:15+00:00",
-      "title": "After decades of dreams, a commercial spaceplane is almost ready to fly",
-      "url": "https://arstechnica.com/space/2023/11/after-decades-of-dreams-a-commercial-spaceplane-is-almost-ready-to-fly/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/dc-101-factory-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Artist suing Stability AI pushed to explain how Stable Diffusion actually works.",
-      "publishedAt": "2023-10-31T21:05:45+00:00",
-      "title": "Two artists suing AI image makers never registered works with Copyright Office",
-      "url": "https://arstechnica.com/tech-policy/2023/10/two-artists-suing-ai-image-makers-never-copyrighted-their-works/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1599173695-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "It's Autopilot's second big jury win in California this year.",
-      "publishedAt": "2023-10-31T20:03:08+00:00",
-      "title": "Tesla Autopilot not responsible for 2019 fatal crash, jury says",
-      "url": "https://arstechnica.com/cars/2023/10/tesla-autopilot-not-responsible-for-2019-fatal-crash-jury-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1006811190-760x380.jpg"
     }
   ],
   "sortBy": "top",
