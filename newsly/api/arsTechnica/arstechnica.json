@@ -1,84 +1,84 @@
 {
   "articles": [
     {
-      "author": "Eric Berger",
-      "description": "\"It's definitely a money loser. Always has been.\"",
-      "publishedAt": "2023-11-03T16:06:27+00:00",
-      "title": "How long will Jeff Bezos continue to subsidize his New Shepard rocket?",
-      "url": "https://arstechnica.com/space/2023/11/as-virgin-galactic-soars-blue-origins-new-shepard-remains-grounded/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1329731025-1-760x380.jpg"
+      "author": "The Conversation",
+      "description": "As early as the 1970s, research showed that gas stoves produced indoor air pollution.",
+      "publishedAt": "2023-11-04T11:21:06+00:00",
+      "title": "When the natural gas industry used the playbook from Big Tobacco",
+      "url": "https://arstechnica.com/health/2023/11/when-the-natural-gas-industry-used-the-playbook-from-big-tobacco/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/gas-burner-760x380.jpg"
     },
     {
-      "author": "Kyle Orland",
-      "description": "Decompilation project adds mouse-and-keyboard controls, upscaled graphics and more.",
-      "publishedAt": "2023-11-03T15:57:03+00:00",
-      "title": "Perfect Dark finally gets the full-featured PC port it deserves",
-      "url": "https://arstechnica.com/gaming/2023/11/perfect-dark-finally-gets-the-full-featured-pc-port-it-deserves/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/pdpc2-760x380.jpeg"
+      "author": "John Timmer",
+      "description": "SWFT takes its price- and corner-cutting to a bike format that skews high-end.",
+      "publishedAt": "2023-11-04T11:08:41+00:00",
+      "title": "Hitting the trails with a low-priced e-mountain bike",
+      "url": "https://arstechnica.com/cars/2023/11/mountains-on-a-budget-swft-expands-its-e-bike-offerings/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_1251-760x380.jpeg"
     },
     {
-      "author": "Andrew Cunningham",
-      "description": "Intel stopped selling the last Itanium processors in 2021.",
-      "publishedAt": "2023-11-03T15:47:11+00:00",
-      "title": "Intel\u2019s failed 64-bit Itanium CPUs die another death as Linux support ends",
-      "url": "https://arstechnica.com/gadgets/2023/11/next-linux-kernel-will-dump-itanium-intels-ill-fated-64-bit-server-cpus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/badge-itanium-760x380.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Toyota has already given its workers a pay raise in response to the UAW contract.",
-      "publishedAt": "2023-11-03T15:34:29+00:00",
-      "title": "The UAW beat the big three; Elon Musk\u2019s Tesla is among its next targets",
-      "url": "https://arstechnica.com/cars/2023/11/the-uaw-beat-the-big-three-elon-musks-tesla-is-among-its-next-targets/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1348207100-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Reinforcement learning lets 3D printers exploit, not suppress, coiling instabilities.",
-      "publishedAt": "2023-11-03T15:19:01+00:00",
-      "title": "3D printers learn to paint like Jackson Pollock",
-      "url": "https://arstechnica.com/science/2023/11/3d-printers-learn-to-paint-like-jackson-pollock/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/pollockTOP-760x380.jpg"
-    },
-    {
-      "author": "Bob Berwyn, Inside Climate News",
-      "description": "Conclusion that decrease in aerosol pollution will drive temps higher sparks backlash.",
-      "publishedAt": "2023-11-03T15:08:18+00:00",
-      "title": "Former head of NASA\u2019s climate group issues dire warning on warming",
-      "url": "https://insideclimatenews.org/news/02112023/study-warns-of-spike-of-warming-divides-climate-scientists/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-503452266-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The fact that it is two makes it even more exciting.\"",
-      "publishedAt": "2023-11-03T12:00:11+00:00",
-      "title": "Daily Telescope: Lucy finds not one but two diamonds in the sky",
-      "url": "https://arstechnica.com/space/2023/11/daily-telescope-lucy-finds-not-one-but-two-diamonds-in-the-sky/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/dinkinesh-firstlook-llorri-760x380.webp"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Burn-in likelihood has to do with the user and OEM, not just OLED materials.",
-      "publishedAt": "2023-11-03T11:30:42+00:00",
-      "title": "Why OLED monitor burn-in isn\u2019t a huge problem anymore",
-      "url": "https://arstechnica.com/gadgets/2023/11/why-oled-monitor-burn-in-isnt-a-huge-problem-anymore/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/oled-fire-extinguisher-burn-in-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Our team has created an excellent piece of engineering.\"",
-      "publishedAt": "2023-11-03T11:00:51+00:00",
-      "title": "Rocket Report: ICBM test aborted after \u201canomaly\u201d; FAA wraps Starship safety review",
-      "url": "https://arstechnica.com/space/2023/11/rocket-report-chinese-firm-lands-rocket-vertically-vulcan-delays-cost-ula/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/F9nhpdWakAA5Z0O-760x380.jpg"
+      "author": "Dan Goodin",
+      "description": "If a transgression by a single employee breaches your network, you're doing it wrong.",
+      "publishedAt": "2023-11-04T00:31:12+00:00",
+      "title": "No, Okta, senior management, not an errant employee, caused you to get hacked",
+      "url": "https://arstechnica.com/information-technology/2023/11/no-okta-senior-management-not-an-errant-employee-caused-you-to-get-hacked/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/okta-760x380.jpg"
     },
     {
       "author": "Stephen Clark",
-      "description": "Virgin Galactic is finally settling into a routine after years of delays.",
-      "publishedAt": "2023-11-03T00:13:19+00:00",
-      "title": "After leading NASA\u2019s mission to Pluto, Alan Stern flies to space himself",
-      "url": "https://arstechnica.com/space/2023/11/after-leading-nasas-mission-to-pluto-alan-stern-flies-to-space-himself/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/galactic05space-760x380.jpeg"
+      "description": "SpaceX didn't stop at 10 or 15 flights per booster, and probably won't stop at 20.",
+      "publishedAt": "2023-11-04T00:11:10+00:00",
+      "title": "A historic Falcon 9 made a little more history Friday night",
+      "url": "https://arstechnica.com/space/2023/11/a-historic-falcon-9-is-about-to-make-a-little-more-history-tonight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/f9star626-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "SpaceX will again target a morning liftoff for the rocket.",
+      "publishedAt": "2023-11-03T21:49:57+00:00",
+      "title": "It\u2019s almost showtime for SpaceX\u2019s massive Starship rocket",
+      "url": "https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/F8mIsiSbEAABDMm-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Blizzard also announced three (yes, three) World of Warcraft expansions.",
+      "publishedAt": "2023-11-03T21:34:55+00:00",
+      "title": "Diablo IV will get its first expansion and WoW Classic will revisit Cataclysm",
+      "url": "https://arstechnica.com/gaming/2023/11/diablo-ivs-first-expansion-vessel-of-hatred-hits-next-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Screenshot-2023-11-03-at-4.17.48\u202fPM-760x380.png"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "BVO has largely been phased out of big-name sodas and was recently banned in CA.",
+      "publishedAt": "2023-11-03T21:13:53+00:00",
+      "title": "Soda additive linked to thyroid toxicity may finally get banned by FDA",
+      "url": "https://arstechnica.com/health/2023/11/50-years-later-fda-proposes-banning-a-food-additive-it-said-is-not-safe/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sundrop-760x380.jpeg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Digital Foundry reads the tea leaves for a deep dive full of informed speculation.",
+      "publishedAt": "2023-11-03T20:51:44+00:00",
+      "title": "What do we know about the Switch 2\u2019s hardware power?",
+      "url": "https://arstechnica.com/gaming/2023/11/what-do-we-know-about-the-switch-2s-hardware-power/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/t234-760x380.png"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "TVs, audio, headphones, and home entertainment take center stage in pre-Black Friday sales.",
+      "publishedAt": "2023-11-03T20:20:19+00:00",
+      "title": "Dealmaster: Pre-Black Friday deals on home entertainment, Herman Miller chairs, and laptops",
+      "url": "https://arstechnica.com/shopping/2023/11/dealmaster-pre-black-friday-deals-on-home-entertainment-audio-and-laptops/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/LG-OLED-760x380.png"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Already endangered, the leap second might have a practical successor soon.",
+      "publishedAt": "2023-11-03T20:10:10+00:00",
+      "title": "Leap seconds could become leap minutes, despite pushback from Russians, Vatican",
+      "url": "https://arstechnica.com/science/2023/11/leap-seconds-could-become-leap-minutes-despite-pushback-from-russians-vatican/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-515283780-760x380.jpg"
     }
   ],
   "sortBy": "top",
