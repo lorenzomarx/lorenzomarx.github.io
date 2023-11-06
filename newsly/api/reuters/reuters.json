@@ -2,11 +2,27 @@
   "articles": [
     {
       "author": "Reuters",
+      "description": "Police arrested a man and rescued a child at the centre of a hostage standoff at Hamburg airport on Sunday, ending a crisis that had forced authorities to close the busy air hub.",
+      "publishedAt": "2023-11-05T17:27:37Z",
+      "title": "Hamburg airport hostage standoff over, suspect arrested, police say",
+      "url": "https://www.reuters.com/world/hamburg-airport-remains-closed-police-deal-with-hostage-situation-2023-11-05/",
+      "urlToImage": "https://www.reuters.com/resizer/Etfk7nANFwn_NQfHYczcV4rKUKU=/928x486/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5VRGXIKDLZKFRHY2U54C2YRB74.jpg"
+    },
+    {
+      "author": "Reuters",
       "description": "Chechen leader Ramzan Kadyrov's 15-year-old son, who was shown beating a prisoner in custody this year, has been appointed to a senior role in his father's bodyguard, top Chechen security officials said on Sunday.",
       "publishedAt": "2023-11-05T09:26:02Z",
       "title": "Chechen leader's son, who beat a prisoner, made top bodyguard",
       "url": "https://www.reuters.com/world/europe/chechen-leaders-son-who-beat-prisoner-made-top-bodyguard-2023-11-05/",
       "urlToImage": "https://www.reuters.com/resizer/CBtyiQRO7butuodbCuv2Fx7uD9s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PADBT2KQNZN7NIZ4RCWVWOKBNY.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "Nearly 32,000 migrants have reached Spain's Canary Islands on fragile boats from west Africa this year, passing a previous record posted in 2006, regional authorities said on Sunday.",
+      "publishedAt": "2023-11-05T15:23:05Z",
+      "title": "Migrants reaching Spain's Canary Islands near 32,000 this year",
+      "url": "https://www.reuters.com/world/europe/migrants-reaching-spains-canary-islands-near-32000-this-year-2023-11-05/",
+      "urlToImage": "https://www.reuters.com/resizer/fvrSO6iIT4UBmwzfDusU2Vjjk-k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MAVK2Q26EFOIPMUMFOKGFY2RXU.jpg"
     },
     {
       "author": "Charlotte Greenfield",
@@ -41,22 +57,6 @@
       "urlToImage": "https://www.reuters.com/resizer/C-K_hmbQqK7GqkSLR42THtcfQRk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SCFUGCTFL5KU3NIPIITNGK6MYY.jpg"
     },
     {
-      "author": "Reuters",
-      "description": "Uruguay's interior minister and two other members of the government resigned on Saturday over a case that has already prompted the foreign minister to quit, involving a passport issued to an internationally wanted drug-trafficking suspect.",
-      "publishedAt": "2023-11-05T02:35:29Z",
-      "title": "Uruguay government members resign over passport\u00a0scandal probe",
-      "url": "https://www.reuters.com/world/americas/uruguay-government-members-resign-over-passport-scandal-probe-2023-11-05/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=161"
-    },
-    {
-      "author": "Reuters",
-      "description": "Police were hunting for a man who stabbed and wounded a Jewish woman in the French city of Lyon on Saturday, while a swastika was found graffitied at her home, police and the city's mayor said.",
-      "publishedAt": "2023-11-04T19:09:58Z",
-      "title": "French police hunt suspect in stabbing of Jewish woman",
-      "url": "https://www.reuters.com/world/europe/french-police-hunt-suspect-stabbing-jewish-woman-2023-11-04/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=161"
-    },
-    {
       "author": "Nidal Al-Mughrabi, Simon Lewis, Suleiman, Al-Khalidi",
       "description": "The United States and its Arab allies appeared divided over Israel's military offensive in Gaza to defeat Hamas, as Washington, alongside Israel, resisted pressure for an immediate ceasefire despite the rising death toll among Palestinian civilians.",
       "publishedAt": "2023-11-05T01:14:44Z",
@@ -65,12 +65,12 @@
       "urlToImage": "https://www.reuters.com/resizer/WhaRUORmZKQZkCl7WsIOV2xNhF8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARH4OJQZA5ICTMS3GNDTUNLRU4.jpg"
     },
     {
-      "author": "Maria Starkova",
-      "description": "Ukraine's defence minister ordered on Saturday an investigation into an alleged Russian ballistic missile attack on Ukrainian assault brigade, after reports that more than 20 soldiers were killed during an awards ceremony.",
-      "publishedAt": "2023-11-05T04:34:35Z",
-      "title": "Ukraine orders investigation into Russian attack on assault brigade",
-      "url": "https://www.reuters.com/world/europe/ukraine-orders-investigation-into-russian-attack-assault-brigade-2023-11-05/",
-      "urlToImage": "https://www.reuters.com/resizer/E4jQpi8uPo_fXiwJlJ-Y3XYK3R8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KIBQGBYRZBN7ZOKX257TIHG474.jpg"
+      "author": "Max Hunder",
+      "description": "In Ukraine's war-ravaged Donetsk region, soldiers dug in near the front line described how Russian artillery had intensified significantly in recent weeks, but said it remains below peaks seen a year ago as both sides struggle to advance.",
+      "publishedAt": "2023-11-05T15:15:30Z",
+      "title": "Near Donetsk front line, Ukraine artillery crew face intensifying fire",
+      "url": "https://www.reuters.com/world/europe/near-donetsk-front-line-ukraine-artillery-crew-face-intensifying-fire-2023-11-05/",
+      "urlToImage": "https://www.reuters.com/resizer/pskv18enmT3Bk4VBUsqvg4yE25g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4LJTTS565JJPZB4SHBEYIQYQ3M.jpg"
     },
     {
       "author": "Navesh Chitrakar, Yubaraj Sharma",
