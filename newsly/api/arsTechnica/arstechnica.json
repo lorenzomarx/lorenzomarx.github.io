@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Insights could help improve future designs of naval ships, seaplanes, or projectiles.",
+      "publishedAt": "2023-11-06T19:03:41+00:00",
+      "title": "Good news for clumsy divers: Physics holds the key to less-painful belly-flops",
+      "url": "https://arstechnica.com/science/2023/11/good-news-for-clumsy-divers-physics-holds-the-key-to-less-painful-belly-flops/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/belly2CROP-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Users can build and share custom-defined roles\u2014from math mentor to sticker designer.",
+      "publishedAt": "2023-11-06T18:21:30+00:00",
+      "title": "OpenAI introduces custom AI assistants called \u201cGPTs\u201d that play different roles",
+      "url": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chatgpt-roles_2-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Epic says Google puts up \"myriad contractual and technical barriers\" for sideloading.",
+      "publishedAt": "2023-11-06T18:11:40+00:00",
+      "title": "Why today\u2019s Epic v. Google trial is (and isn\u2019t) a repeat of Epic v. Apple",
+      "url": "https://arstechnica.com/gaming/2023/11/why-todays-epic-v-google-trial-is-and-isnt-a-repeat-of-epic-v-apple/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fortnite-android-800x450-1-760x380.jpg"
+    },
+    {
+      "author": "Alex Kalogiannis",
+      "description": "Counting our blessings after a crash course in vehicle safety.",
+      "publishedAt": "2023-11-06T17:34:55+00:00",
+      "title": "The brutality of this EV crash test was shocking, but both cars passed",
+      "url": "https://arstechnica.com/cars/2023/11/mercedes-benz-crashed-two-evs-into-each-other-so-you-dont-have-to/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/23C0350_011-760x380.jpg"
+    },
+    {
       "author": "Chuong Nguyen",
       "description": "A rare sale that takes up to 25 percent off the price of Herman Miller chairs.",
       "publishedAt": "2023-11-06T16:34:05+00:00",
@@ -47,38 +79,6 @@
       "title": "Daily Telescope: The sword of Orion contains a brilliant reflection nebula",
       "url": "https://arstechnica.com/space/2023/11/daily-telescope-chasing-the-running-man-in-the-stars/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/7BDD430A-DE13-4203-A107-6471A305AFD1-760x380.jpg"
-    },
-    {
-      "author": "Steven Ewing",
-      "description": "Volvo says the EX30's carbon footprint is 25 percent smaller than the C40 or XC40.",
-      "publishedAt": "2023-11-06T08:00:55+00:00",
-      "title": "Driving the Volvo EX30, a $36K EV that prioritizes sustainability",
-      "url": "https://arstechnica.com/cars/2023/11/driving-the-volvo-ex30-a-36k-ev-that-prioritizes-sustainability/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Volvo_EX30_CloudBlue_98-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "A seismic event that looked like an impact, but no craters to be seen.",
-      "publishedAt": "2023-11-05T12:03:50+00:00",
-      "title": "Most monstrous marsquake ever reveals where it came from",
-      "url": "https://arstechnica.com/science/2023/11/most-monstrous-marsquake-ever-reveals-where-it-came-from/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/image-760x380.jpeg"
-    },
-    {
-      "author": "The Conversation",
-      "description": "As early as the 1970s, research showed that gas stoves produced indoor air pollution.",
-      "publishedAt": "2023-11-04T11:21:06+00:00",
-      "title": "When the natural gas industry used the playbook from Big Tobacco",
-      "url": "https://arstechnica.com/health/2023/11/when-the-natural-gas-industry-used-the-playbook-from-big-tobacco/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/gas-burner-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "SWFT takes its price- and corner-cutting to a bike format that skews high-end.",
-      "publishedAt": "2023-11-04T11:08:41+00:00",
-      "title": "Hitting the trails with a low-priced e-mountain bike",
-      "url": "https://arstechnica.com/cars/2023/11/mountains-on-a-budget-swft-expands-its-e-bike-offerings/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_1251-760x380.jpeg"
     }
   ],
   "sortBy": "top",
