@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "It's an improvement, but not like the notable gains of previous \"slim\" models.",
+      "publishedAt": "2023-11-07T19:06:39+00:00",
+      "title": "PS5 \u201cSlim\u201d teardowns suggest same chip, not much shrinking, but nifty disc drive",
+      "url": "https://arstechnica.com/gaming/2023/11/ps5-slim-teardowns-suggest-same-chip-not-much-shrinking-but-nifty-disc-drive/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Screenshot-2023-11-07-at-1.41.02\u202fPM-760x380.png"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Google's \"solution\" can't do anything for bootlooping devices.",
+      "publishedAt": "2023-11-07T18:37:09+00:00",
+      "title": "Android 14\u2019s storage disaster gets patched, but your data might be gone",
+      "url": "https://arstechnica.com/gadgets/2023/11/android-14-patches-ransomware-storage-bug-but-some-users-will-lose-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2013/04/android-rage-out-640x215.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Bell claims it will cut fiber spending by $1 billion in protest of CRTC ruling.",
+      "publishedAt": "2023-11-07T18:27:13+00:00",
+      "title": "After big drop in ISP competition, Canada mandates fiber-network sharing",
+      "url": "https://arstechnica.com/tech-policy/2023/11/canada-forces-large-fiber-isps-to-share-networks-with-small-competitors/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-760x380.jpg"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "You'll want to update for security fixes, even if you don't care about features.",
       "publishedAt": "2023-11-07T18:11:37+00:00",
@@ -55,30 +79,6 @@
       "title": "The Ars Technica staff guide to the mobile apps we can\u2019t live without",
       "url": "https://arstechnica.com/gadgets/2023/11/ars-staff-mobile-apps/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1467438295-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"I liked the object so much I decided to give it a try.\"",
-      "publishedAt": "2023-11-07T13:05:24+00:00",
-      "title": "Daily Telescope: Pumping up the volume with the Headphones nebula",
-      "url": "https://arstechnica.com/space/2023/11/daily-telescope-pumping-up-the-volume-with-the-headphones-nebula/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Headphones-Final-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The feature combines geographic and traffic data with historical crash data.",
-      "publishedAt": "2023-11-07T13:00:37+00:00",
-      "title": "Waze will now warn drivers about crash dangers using historical data",
-      "url": "https://arstechnica.com/cars/2023/11/waze-will-now-warn-drivers-about-crash-dangers-using-historical-data/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Crash-History-Alerts_Still_2096x1182-760x380.png"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "The listing went down quickly, and Roddenberry's son is trying to track it down.",
-      "publishedAt": "2023-11-07T12:25:08+00:00",
-      "title": "After decades lost, Star Trek\u2019s original Enterprise model may have been found",
-      "url": "https://arstechnica.com/culture/2023/11/after-decades-lost-star-treks-original-enterprise-model-may-have-been-found/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/s-l1600-760x380.jpg"
     }
   ],
   "sortBy": "top",
