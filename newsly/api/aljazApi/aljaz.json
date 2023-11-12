@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "NewsFeed\r\nA 90-year-old Nakba survivor was displaced from her home in Gaza City to the south, covering 5 kilometres on foot as tens of thousands of Palestinians flee Israels air and ground attacks in\u2026 [+24 chars]",
+      "description": "A 90-year-old Nakba survivor was displaced from her home in Gaza City to the south, covering 5 kilometres on foot.",
+      "publishedAt": "2023-11-11T11:36:31Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Nakba survivor displaced in Gaza as tens of thousands flee south",
+      "url": "https://www.aljazeera.com/program/newsfeed/2023/11/11/nakba-survivor-displaced-in-gaza-as-tens-of-thousands-flee-south",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/Thumb-clean-1699702410.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "author": "Suad Hadi, Layla Aswad, Samir Shami",
       "content": "The residents of Gaza, who saw fit to turn the hospitals into terrorist nests in an attempt to take advantage of Western morality, are the ones who brought their destruction upon themselves terrorism\u2026 [+6961 chars]",
       "description": "We, Palestinian doctors in Israel, are forced to watch in silence massacres unfolding, encouraged by colleagues.",
@@ -1286,21 +1299,8 @@
       "title": "Middle East Roundup: Heading for tunnels \u2013 is Israeli assault faltering?",
       "url": "https://www.aljazeera.com/news/2023/11/9/middle-east-roundup",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/This-week-in-the-middle-east62_outisde-image-1500-x1000-1699526877.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Linah Alsaafin, Ruwaida Amer",
-      "content": "Gaza Strip \u00a0It was a long-awaited family reunion. In October, Reem Rasmi travelled from her home in Egypt to the Gaza Strip to visit her sisters family after five years. Her nephew was getting marrie\u2026 [+5792 chars]",
-      "description": "Hundreds of foreign nationals have exited Gaza through the Rafah crossing, but some Palestinian Egyptians are stranded.",
-      "publishedAt": "2023-11-09T11:19:38Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "\u2018We saw death\u2019: Egyptian nationals trying to leave Gaza stuck at Rafah",
-      "url": "https://www.aljazeera.com/features/2023/11/9/we-saw-death-egyptian-nationals-trying-to-leave-gaza-stuck-at-rafah",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/342E2NL-highres-1699375394.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1479
+  "totalResults": 1430
 }
