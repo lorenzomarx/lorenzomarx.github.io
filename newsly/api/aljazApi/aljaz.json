@@ -1,6 +1,84 @@
 {
   "articles": [
     {
+      "author": "Lyndal Rowlands",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nThe head of the Palestinian Red Crescent says Israel is deliberately targeting hospitals in Gaza.",
+      "description": "The head of the Palestinian Red Crescent says Israel is deliberately targeting hospitals in Gaza.",
+      "publishedAt": "2023-11-12T00:00:53Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israel-Gaza war live: Israeli army surrounding al-Quds hospital",
+      "url": "https://www.aljazeera.com/news/liveblog/2023/11/12/israel-gaza-war-live-israeli-army-surrounding-al-quds-hospital",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/34382KW-highres-1699744477.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Thousands of people have rallied in Tel Aviv, asking for the release of Israeli and foreign captives being held by Hamas in the Gaza Strip and criticising the Israeli government for the way it is dea\u2026 [+2610 chars]",
+      "description": "A smaller group of anti-government protesters defied a crackdown on anti-war voices and demanded a ceasefire.",
+      "publishedAt": "2023-11-11T23:10:31Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Thousands rally in Tel Aviv calling for release of captives",
+      "url": "https://www.aljazeera.com/news/2023/11/11/thousands-rally-in-tel-aviv-calling-for-release-of-captives",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/tel-aviv-1699738981.jpeg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "A Ukrainian special forces commander played a key role in sabotaging the Nord Stream gas pipelines in September last year, according to an investigation by two international newspapers.\r\nMystery has \u2026 [+3349 chars]",
+      "description": "President Zelenskyy has denied Ukraine was behind blasts that cut off major route for Russian gas exports to Europe.",
+      "publishedAt": "2023-11-11T22:36:27Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Ukraine military officer had key role in Nord Stream sabotage, reports say",
+      "url": "https://www.aljazeera.com/news/2023/11/11/ukraine-officer-had-key-role-in-nord-stream-sabotage-reports-say",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-10-19T161647Z_126926329_RC2AYS9FTFQF_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-GAS.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Members of a group of relatives of victims of enforced disappearances in Turkey held a vigil in central Istanbul without police intervention for the first time since 2018.\r\nKnown as the Saturday Moth\u2026 [+2591 chars]",
+      "description": "Relatives of victims of enforced disappearances in the 80s and 90s held a sit-in in Istanbul following a court ruling.",
+      "publishedAt": "2023-11-11T21:07:27Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Turkey\u2019s \u2018Saturday mothers\u2019 allowed to hold vigil for first time since 2018",
+      "url": "https://www.aljazeera.com/news/2023/11/11/turkeys-saturday-mothers-allowed-to-hold-vigil-for-first-time-since-2018",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/saturday-mothers-1699730783.jpeg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Two premature babies have died at Gazas al-Shifa Hospital after the\u00a0neonatal intensive care unit stopped working due to a lack of electricity, the facilitys director has said.\r\nThirty-seven other bab\u2026 [+4072 chars]",
+      "description": "Neonatal intensive care unit stops working at under-siege facility with power outages and no fuel.",
+      "publishedAt": "2023-11-11T20:56:43Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Two premature babies die, 37 under threat at Gaza\u2019s al-Shifa Hospital",
+      "url": "https://www.aljazeera.com/news/2023/11/11/37-babies-at-risk-of-dying-in-gaza-hospital-israel-says-to-aid-evacuation",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/AP23295570532886-1698036331.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Demonstrators the world over have rallied in solidarity with Palestinians in Gaza, condemning the high rate of civilian casualties in Israeli attacks and calling for an immediate ceasefire.\r\nMajor ci\u2026 [+667 chars]",
+      "description": "Across the world, demonstrators call for an immediate ceasefire and urgent humanitarian action in Gaza.",
+      "publishedAt": "2023-11-11T19:41:06Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "From Paris to Karachi, protesters rally in support of Palestine",
+      "url": "https://www.aljazeera.com/gallery/2023/11/11/photos-from-paris-to-karachi-protesters-rally-in-support-of-palestine",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/AP23315503574633-1699722453.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Al Jazeera",
       "content": "Journalists sign letter alleging pro-Israeli reporting and and dehumanisation of Palestinians.The worlds television screens, newspapers and online media have been filled with pictures of Israels war \u2026 [+874 chars]",
       "description": "Journalists sign letter alleging pro-Israeli reporting and dehumanisation of Palestinians.",
@@ -1221,86 +1299,8 @@
       "title": "Analysis: How would Israel find, map, take and keep Gaza\u2019s tunnels?",
       "url": "https://www.aljazeera.com/news/2023/11/9/analysis-how-would-israel-find-map-take-and-keep-gazas-tunnels",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/AP23298767608818-1698510783.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "New Zealand returned to winning ways at the Cricket World Cup following a four-match slump as they defeated Sri Lanka by five wickets at the M Chinnaswamy Stadium and all but secured their place in t\u2026 [+3708 chars]",
-      "description": "Trent Boult picks up 3-37 as the Kiwis win by five wickets and edge closer to the last remaining semifinal spot.",
-      "publishedAt": "2023-11-09T16:22:24Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "New Zealand crush Sri Lanka to put one foot in Cricket World Cup semifinals",
-      "url": "https://www.aljazeera.com/sports/2023/11/9/new-zealand-crush-sri-lanka-to-put-one-foot-in-cricket-world-cup-semifinals",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/AP23313362827281-1699526690.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Israel will begin four-hour pauses in northern Gaza to allow people to flee hostilities, the White House has announced, in what it called a step in the right direction.\r\nUS National Security Council \u2026 [+534 chars]",
-      "description": "White House says Israel commits to announcing each window at least three hours in advance.",
-      "publishedAt": "2023-11-09T15:56:23Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Israel to begin four-hour \u2018pauses\u2019 in Gaza, US says",
-      "url": "https://www.aljazeera.com/news/2023/11/9/breaking-israel-to-begin-four-hour-pauses-in-gaza-says-white-house",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news@2x.png?resize=1200%2C630"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "NewsFeed\r\nA group of Israeli soldiers were seen raising the Israeli flag on a beach in Gaza and singing the national anthem, according to video shared on social media.",
-      "description": "A group of Israeli soldiers were seen raising the Israeli flag on a beach in Gaza and singing the national anthem.",
-      "publishedAt": "2023-11-09T15:33:16Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Israeli soldiers raise flag and sing anthem on Gaza beach",
-      "url": "https://www.aljazeera.com/program/newsfeed/2023/11/9/israeli-soldiers-raise-flag-and-sing-anthem-on-gaza-beach",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/image-62.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "At least 10 Palestinians have been killed and 20 others injured during a raid by Israeli forces in Jenin city and refugee camp in the occupied West Bank, the Palestinian Ministry of Health has said.\r\u2026 [+3867 chars]",
-      "description": "At least 10 Palestinians have been killed and 20 wounded, including a paramedic, as Israeli army steps up raids.",
-      "publishedAt": "2023-11-09T15:22:26Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Deadly assault on Jenin refugee camp as West Bank raids intensify",
-      "url": "https://www.aljazeera.com/news/2023/11/9/deadly-assault-on-jenin-refugee-camp-as-west-bank-raids-intensify",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/11827777-1699524644.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Spains acting Prime Minister Pedro Sanchez is on the brink of securing another term in office after reaching a controversial agreement with the Catalan separatist Junts party by offering amnesty to t\u2026 [+3147 chars]",
-      "description": "Agreement has triggered protests and main opposition party condemns it as 'shameful and humiliating'.",
-      "publishedAt": "2023-11-09T15:05:57Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Spain\u2019s Sanchez set to stay PM after amnesty deal with Catalan separatists",
-      "url": "https://www.aljazeera.com/news/2023/11/9/spanish-pm-offers-amnesty-to-catalonian-separatists-in-coalition-deal",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/AP23313408517051-1699539362.jpg?resize=1200%2C675"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "NewsFeed\r\nThe Washington Post has taken down a cartoon thats been condemned as a racist depiction of Palestinians and Arabs.",
-      "description": "The Washington Post has taken down a cartoon that\u2019s been condemned as a racist depiction of Palestinians and Arabs.",
-      "publishedAt": "2023-11-09T14:52:57Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Washington Post cartoon on Gaza condemned as racist",
-      "url": "https://www.aljazeera.com/program/newsfeed/2023/11/9/washington-post-cartoon-on-gaza-condemned-as-racist",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/wide-clean-1699539409.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1422
+  "totalResults": 1428
 }
