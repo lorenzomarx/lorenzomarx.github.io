@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Several new policies aim to tackle realistic synthetic media head-on.",
+      "publishedAt": "2023-11-15T17:24:20+00:00",
+      "title": "YouTube cracks down on synthetic media with AI disclosure requirement",
+      "url": "https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fake_video_hero-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "\"We had an account issue that led us to falsely flag your account as fraud.\"",
+      "publishedAt": "2023-11-15T17:09:52+00:00",
+      "title": "Starlink\u2019s overzealous fraud detection locked users out of their accounts",
+      "url": "https://arstechnica.com/tech-policy/2023/11/starlinks-overzealous-fraud-detection-locked-users-out-of-their-accounts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/starlink-dish-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Beginner-friendly RPG is true to the original, but with new graphics and sound.",
+      "publishedAt": "2023-11-15T14:55:03+00:00",
+      "title": "Review: Switch\u2019s Super Mario RPG remake updates one of the SNES\u2019s weird gems",
+      "url": "https://arstechnica.com/gaming/2023/11/review-switchs-super-mario-rpg-remake-updates-one-of-the-sness-weird-gems/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/SuperMarioRPG_scrn_27-760x380.jpg"
+    },
+    {
+      "author": "Emily Mullin, wired.com",
+      "description": "Folks with hereditary high cholesterol would be able avoid lifelong medication.",
+      "publishedAt": "2023-11-15T14:37:34+00:00",
+      "title": "Crispr gene editing shown to permanently lower high cholesterol",
+      "url": "https://www.wired.com/story/a-single-infusion-of-a-gene-editing-treatment-lowered-high-cholesterol/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/artery-760x380.jpg"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "Bid farewell to phone cases and screen protectors, and say hello to these powerful tools.",
+      "publishedAt": "2023-11-15T14:00:25+00:00",
+      "title": "Guidemaster: The most interesting, odd smartphone accessories we could find",
+      "url": "https://arstechnica.com/shopping/2023/11/guidemaster-the-most-interesting-odd-smartphone-accessories-we-could-find/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/smartphone-gadget-juggling-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"I showed it this way because I have seen way too many sci-fi movies.\"",
+      "publishedAt": "2023-11-15T13:00:25+00:00",
+      "title": "Daily Telescope: Is that a seahorse or something more sinister in the sky?",
+      "url": "https://arstechnica.com/space/2023/11/daily-telescope-is-that-a-seahorse-or-something-more-sinister-in-the-sky/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/b150-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "I remember not liking this game, until I played this passion project version.",
       "publishedAt": "2023-11-15T00:06:22+00:00",
@@ -18,7 +66,7 @@
     },
     {
       "author": "Benj Edwards",
-      "description": "'Hyperrealism' bias has implications in robotics, medicine, and law enforcement.",
+      "description": "'Hyperrealism' bias may impact medicine and law enforcement. Can you spot the fakes?",
       "publishedAt": "2023-11-14T22:55:27+00:00",
       "title": "People think white AI-generated faces are more real than actual photos, study says",
       "url": "https://arstechnica.com/information-technology/2023/11/people-think-white-ai-generated-faces-are-more-real-than-actual-photos-study-says/",
@@ -31,54 +79,6 @@
       "title": "Google loses battle to redact confidential info leaked by final witness",
       "url": "https://arstechnica.com/tech-policy/2023/11/google-wraps-defense-by-arguing-its-search-dominance-benefits-everyone/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1683466969-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "This ancient wonder may have started out as a natural formation known as a yardang.",
-      "publishedAt": "2023-11-14T22:19:25+00:00",
-      "title": "Physics reveals secret of how nature helped sculpt the Great Sphinx of Giza",
-      "url": "https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sphinxTOP-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Among other things, bug allows code running inside a VM to crash hypervisors.",
-      "publishedAt": "2023-11-14T20:57:58+00:00",
-      "title": "Intel fixes high-severity CPU bug that causes \u201cvery strange behavior\u201d",
-      "url": "https://arstechnica.com/security/2023/11/intel-fixes-high-severity-cpu-bug-that-causes-very-strange-behavior/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/cpu-760x380.jpeg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "AI models may soon enable more accurate forecasts with higher speed and lower cost.",
-      "publishedAt": "2023-11-14T19:53:14+00:00",
-      "title": "AI outperforms conventional weather forecasting for the first time: Google study",
-      "url": "https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiona_weather_hero-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A new poll examines how the US public views science and scientists.",
-      "publishedAt": "2023-11-14T19:39:37+00:00",
-      "title": "Trust in science down; trends worst in minorities, Republicans",
-      "url": "https://arstechnica.com/science/2023/11/americans-trust-in-science-continues-declining-from-its-pandemic-peak/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1404416774-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Some affected Rivian EVs may require physical servicing to fix the problem.",
-      "publishedAt": "2023-11-14T18:59:56+00:00",
-      "title": "Rivian blames \u201cfat finger\u201d for infotainment-bricking software update",
-      "url": "https://arstechnica.com/cars/2023/11/rivian-apologizes-to-customers-after-infotainment-bricking-ota-update/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/rivian-bsod-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Google says DMCA fraudsters filed copyright takedown notices for 600,000+ URLs.",
-      "publishedAt": "2023-11-14T18:50:38+00:00",
-      "title": "Google sues people who \u201cweaponized\u201d DMCA to remove rivals\u2019 search results",
-      "url": "https://arstechnica.com/tech-policy/2023/11/google-sues-people-who-weaponized-dmca-to-remove-rivals-search-results/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/google-search-760x380.jpg"
     }
   ],
   "sortBy": "top",
