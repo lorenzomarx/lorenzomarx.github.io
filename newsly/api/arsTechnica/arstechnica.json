@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Microsoft blindsided by Altman firing; has \"utmost confidence\" in partner OpenAI.",
+      "publishedAt": "2023-11-18T00:31:17+00:00",
+      "title": "OpenAI President Greg Brockman quits as nervous employees hold all-hands meeting",
+      "url": "https://arstechnica.com/information-technology/2023/11/openai-president-greg-brockman-quits-as-nervous-employees-hold-all-hands-meeting/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/openai_red-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "New MP maps, widescreen/Steam Deck support, and more come amid \"free to keep\" weekend.",
+      "publishedAt": "2023-11-17T23:05:38+00:00",
+      "title": "Valve celebrates 25 years of Half-Life with feature-packed Steam update",
+      "url": "https://arstechnica.com/gaming/2023/11/valve-celebrates-25-years-of-half-life-with-feature-packed-steam-update/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/hl25-760x380.png"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Around 30 eye drop brands are recalled; FDA inspection report shows why.",
+      "publishedAt": "2023-11-17T22:57:18+00:00",
+      "title": "Barefoot workers, bacteria found at factory that made big-brand eye drops",
+      "url": "https://arstechnica.com/health/2023/11/barefoot-workers-bacteria-found-at-factory-that-made-big-brand-eye-drops/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1147956021-760x380.jpeg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "A successful Starship test flight would unlock a roadmap to even bigger tests.",
+      "publishedAt": "2023-11-17T22:42:31+00:00",
+      "title": "What NASA wants to see from SpaceX\u2019s second Starship test flight",
+      "url": "https://arstechnica.com/space/2023/11/what-nasa-wants-to-see-from-spacexs-second-starship-test-flight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/F_EPRK4akAA1Pme-760x380.jpeg"
+    },
+    {
+      "author": "Kyle Orland and Benj Edwards",
+      "description": "\"The board no longer has confidence in his ability to continue leading OpenAI.\"",
+      "publishedAt": "2023-11-17T21:20:09+00:00",
+      "title": "OpenAI fires CEO Sam Altman, citing less than \u201ccandid\u201d communications",
+      "url": "https://arstechnica.com/ai/2023/11/openai-fires-ceo-sam-altman-citing-less-than-candid-communications/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-sam-altman-760x380.jpg"
+    },
+    {
+      "author": "Dhananjay Khadilkar",
+      "description": "The brightest supernova ever detected altered the outer layers of Earth's atmosphere.",
+      "publishedAt": "2023-11-17T21:11:37+00:00",
+      "title": "Gamma-ray burst charged Earth\u2019s ionosphere from 2 billion light-years away",
+      "url": "https://arstechnica.com/science/2023/11/gamma-ray-burst-charged-earths-ionosphere-from-2-billion-light-years-away/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image-1-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Labeling newcomer TikTok as a gatekeeper defeats the purpose of DMA, TikTok says.",
+      "publishedAt": "2023-11-17T20:25:11+00:00",
+      "title": "Apple fights EU gatekeeper status to avoid opening up services to rivals",
+      "url": "https://arstechnica.com/tech-policy/2023/11/meta-tiktok-fight-eu-gatekeeper-status-to-avoid-opening-up-services-to-rivals/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1761091666-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "Also: Mastermind is not perfectly \"fair\" when it comes to determining the winner.",
       "publishedAt": "2023-11-17T18:39:04+00:00",
@@ -23,62 +79,6 @@
       "title": "Steam Deck system update greatly improves older LCD displays, too",
       "url": "https://arstechnica.com/gaming/2023/11/steam-deck-system-update-greatly-improves-older-lcd-displays-too/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/steamdeckcolor-760x380.png"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Musk accused of repeating lie behind most fatal antisemitic act in US history.",
-      "publishedAt": "2023-11-17T18:01:45+00:00",
-      "title": "White House condemns Elon Musk\u2019s antisemitic post; IBM halts X ads",
-      "url": "https://arstechnica.com/tech-policy/2023/11/white-house-condemns-elon-musks-antisemitic-post-ibm-halts-x-ads/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1768685410-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "From 2021 to 2022, measles deaths increased 43 percent.",
-      "publishedAt": "2023-11-17T17:29:57+00:00",
-      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm",
-      "url": "https://arstechnica.com/health/2023/11/global-measles-cases-deaths-rising-as-vaccination-still-low-after-covid-crash/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/measles-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Cambridge: \"When an artificial intelligence hallucinates, it produces false information.\"",
-      "publishedAt": "2023-11-17T17:01:48+00:00",
-      "title": "\u201cHallucinating\u201d AI models help coin Cambridge Dictionary\u2019s word of the year",
-      "url": "https://arstechnica.com/information-technology/2023/11/thanks-to-ai-hallucinate-is-cambridge-dictionarys-word-of-the-year-for-2023/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/halluncinate_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Grid fins have been essential to the landing of 230 rockets.",
-      "publishedAt": "2023-11-17T16:48:43+00:00",
-      "title": "Here\u2019s why SpaceX really needed to change out that part on Starship",
-      "url": "https://arstechnica.com/space/2023/11/heres-why-spacex-really-needed-to-change-out-that-part-on-starship/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/f9sch-interstage-from-right-760x380.jpg"
-    },
-    {
-      "author": "Cristina Criddle, Financial Times",
-      "description": "Viral social media trend uses pictures of family dogs to create realistic movie posters.",
-      "publishedAt": "2023-11-17T15:18:08+00:00",
-      "title": "AI-generated movie posters with Disney logos force Microsoft to alter Bing Image Creator",
-      "url": "https://www.ft.com/content/64958031-6d7b-4c2c-aeb3-d4df0b04ae32",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/disney-ai-poster-760x380.jpg"
-    },
-    {
-      "author": "Michael Teo Van Runkle",
-      "description": "We sample a mini with Tesla power, and another with a mid-mounted V6 motor.",
-      "publishedAt": "2023-11-17T13:50:56+00:00",
-      "title": "Massive power makes this electric restomod Mini Cooper a handful",
-      "url": "https://arstechnica.com/cars/2023/11/a-story-of-two-minis-driving-gildred-racings-super-coopers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Monterey-car-week-19-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"That region of nebulosity is definitely my favorite part.\"",
-      "publishedAt": "2023-11-17T13:00:11+00:00",
-      "title": "Daily Telescope: Traveling into the heart of the Heart Nebula",
-      "url": "https://arstechnica.com/space/2023/11/daily-telescope-traveling-into-the-heart-of-the-heart-nebula/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Heart-of-the-Heart-760x380.jpg"
     }
   ],
   "sortBy": "top",
