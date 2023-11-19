@@ -1,10 +1,18 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "SpaceX's giant Starship rocket is poised to head for space from South Texas.",
+      "publishedAt": "2023-11-18T08:59:39+00:00",
+      "title": "Five things to watch for when Starship takes off Saturday morning",
+      "url": "https://arstechnica.com/space/2023/11/five-things-to-watch-for-when-starship-takes-off-saturday-morning/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_3608-760x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
-      "description": "Microsoft blindsided by Altman firing; has \"utmost confidence\" in partner OpenAI.",
+      "description": "Details emerge in Sam Altman firing, which blindsided Microsoft and investors.",
       "publishedAt": "2023-11-18T00:31:17+00:00",
-      "title": "OpenAI President Greg Brockman quits as nervous employees hold all-hands meeting",
+      "title": "OpenAI President Greg Brockman quits as shocked employees hold all-hands meeting",
       "url": "https://arstechnica.com/information-technology/2023/11/openai-president-greg-brockman-quits-as-nervous-employees-hold-all-hands-meeting/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/openai_red-760x380.jpg"
     },
@@ -71,14 +79,6 @@
       "title": "OnePlus ships Android 14 to the OnePlus 11",
       "url": "https://arstechnica.com/gadgets/2023/11/oneplus-ships-android-14-to-the-oneplus-11/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/49-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "New settings let users adjust color vibrance, temperature.",
-      "publishedAt": "2023-11-17T18:19:52+00:00",
-      "title": "Steam Deck system update greatly improves older LCD displays, too",
-      "url": "https://arstechnica.com/gaming/2023/11/steam-deck-system-update-greatly-improves-older-lcd-displays-too/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/steamdeckcolor-760x380.png"
     }
   ],
   "sortBy": "top",
