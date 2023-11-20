@@ -2,11 +2,35 @@
   "articles": [
     {
       "author": "Reuters",
+      "description": "Two people were killed when a tree crushed their car as hurricanes with winds reaching 38 metres per second hit several regions in Russia's Siberia on Sunday.",
+      "publishedAt": "2023-11-19T10:39:25Z",
+      "title": "Two killed as hurricanes rage in Russia's Siberia",
+      "url": "https://www.reuters.com/world/europe/two-killed-hurricanes-rage-russias-siberia-2023-11-19/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=163"
+    },
+    {
+      "author": "SAURABH SHARMA",
+      "description": "Indian authorities were exploring five new plans to rescue workers trapped inside a collapsed tunnel in the Indian Himalayas after a week of failed attempts.",
+      "publishedAt": "2023-11-19T06:09:48Z",
+      "title": "Indian officials consider five new plans to rescue men trapped in tunnel",
+      "url": "https://www.reuters.com/world/india/indian-officials-consider-five-new-plans-rescue-men-trapped-tunnel-2023-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/yE29M0wfiMKtTHnICrkF7BXEH1A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F36DMBSJINMXZJHPN6J7GM4B3I.jpg"
+    },
+    {
+      "author": "Reuters",
       "description": "Igor Girkin, a prominent ultranationalist in custody in Russia awaiting trial on charges of inciting extremism, nominated himself to run for president in 2024 in an announcement read on his behalf on Saturday, the online SOTA news channel said.",
       "publishedAt": "2023-11-18T18:07:26Z",
       "title": "Jailed Russian nationalist nominates himself for president",
       "url": "https://www.reuters.com/world/europe/jailed-russian-nationalist-nominates-himself-president-2023-11-18/",
       "urlToImage": "https://www.reuters.com/resizer/LChazMUcWx-LkB-oBGzHYCj0eKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3KSCWMDDAVOTPMZ2L4WRWP72DM.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "More than two hundred Thai nationals trapped by the surge in fighting in northern Myanmar between junta soldiers and armed ethnic-minority groups are being evacuated to Thailand via China, the Thai foreign ministry said on Sunday.",
+      "publishedAt": "2023-11-19T09:06:21Z",
+      "title": "Hundreds of Thais to be evacuated from Myanmar via China amid heavy fighting",
+      "url": "https://www.reuters.com/world/asia-pacific/hundreds-thais-be-evacuated-myanmar-via-china-amid-heavy-fighting-2023-11-19/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=163"
     },
     {
       "author": "Raul Cadenas  Susana Vera",
@@ -33,30 +57,6 @@
       "urlToImage": "https://www.reuters.com/resizer/cCY3m7_ZOPzhs7N88BTq315aXrc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YTIONHZHQZNILKM7XWOLHKWWLE.jpg"
     },
     {
-      "author": "Anne Kauranen",
-      "description": "Dozens of migrants stood behind barriers at two crossings on Finland's border with Russia on Saturday, the Finnish Border Guard said, after Helsinki erected barricades to halt a flow of asylum seekers it says was instigated by Moscow.",
-      "publishedAt": "2023-11-18T18:18:49Z",
-      "title": "Dozens of migrants wait at Finland-Russia border after Helsinki blocks crossings",
-      "url": "https://www.reuters.com/world/europe/finland-closes-russia-border-posts-after-days-asylum-inflows-2023-11-17/",
-      "urlToImage": "https://www.reuters.com/resizer/Duf9mfx3KUDPzy-f_a_S5jd_vqU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y2Y54AZVK5IQLLSGNR5BE6TSY4.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "Colombian President Gustavo Petro, visiting Venezuela on Saturday, said he had proposed to the United States that it pay an \"economic stabilization\" bonus to Venezuelan migrants who stop in Colombia en route to the U.S.",
-      "publishedAt": "2023-11-19T00:36:44Z",
-      "title": "Colombia's Petro says he proposed U.S. pay bonuses to Venezuelan migrants",
-      "url": "https://www.reuters.com/world/americas/colombias-petro-says-he-proposed-us-pay-bonuses-venezuelan-migrants-2023-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/KyK4X0Xf8zN8u_m0VqKFBGdOVYk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WXA4ULUYENKEVBV7JAPPB2WAUY.jpg"
-    },
-    {
-      "author": "Timour Azhari",
-      "description": "Iraq's Kataeb Hezbollah (KH) militia, a powerful armed faction with close ties to Iran, brushed off U.S. sanctions on the group over attacks against U.S. forces in Iraq and Syria and said on Saturday such strikes aimed to \"drain the enemy\".",
-      "publishedAt": "2023-11-18T22:27:22Z",
-      "title": "Iraq's Kataeb Hezbollah says attacks aim to 'drain' US, sanctions 'ridiculous'",
-      "url": "https://www.reuters.com/world/middle-east/iraqs-kataeb-hezbollah-says-attacks-aim-drain-us-sanctions-ridiculous-2023-11-18/",
-      "urlToImage": "https://www.reuters.com/resizer/3c8mrZpi0syAe_X11PP8qGReg_k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5NA4TZRLY5LUBEDBGCY5WQMOTM.jpg"
-    },
-    {
       "author": "Nidal Al-Mughrabi, James Mackenzie",
       "description": "Israel prepared on Sunday to expand its offensive against <a href=\"/world/middle-east/what-is-palestinian-group-hamas-2023-10-30/\">Hamas</a> militants to southern Gaza after air strikes killed dozens of Palestinians, including civilians reported to be sheltering at two schools.",
       "publishedAt": "2023-11-19T00:35:10Z",
@@ -65,20 +65,20 @@
       "urlToImage": "https://www.reuters.com/resizer/CBE1lyoEr2olG9sqKWKjJ1y1r4s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IISXNNP7WZJOXCJ7CQKWC42HHM.jpg"
     },
     {
-      "author": "Maria Starkova, Elaine Monaghan",
-      "description": "President Volodymyr Zelenskiy has sanctioned 37 Russian groups and 108 people including a former prime minister and a former education minister and said he aimed to fight wartime abductions of children from Ukraine and other \"Russian terror\".",
-      "publishedAt": "2023-11-18T23:43:01Z",
-      "title": "Zelenskiy slaps sanctions on 108 people, 37 Russian groups",
-      "url": "https://www.reuters.com/world/europe/ukraines-zelenskiy-slaps-sanctions-108-people-37-russian-groups-2023-11-18/",
-      "urlToImage": "https://www.reuters.com/resizer/az7Jrpf2RCEEV3n0hp8l8Z_ZI_g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NAQVOV5KFVOSHLPTUM4HPXUJBE.jpg"
+      "author": "Reuters",
+      "description": "Russia launched several waves of drone attacks on Kyiv early on Sunday for the second night in row, stepping up its assaults on the Ukrainian capital after several weeks of pause, the city's military administration said.",
+      "publishedAt": "2023-11-19T07:23:06Z",
+      "title": "Russia launches drone attack on Kyiv 2nd night in row -Ukraine",
+      "url": "https://www.reuters.com/world/europe/russia-launches-drone-attack-kyiv-2nd-night-row-ukraine-2023-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/RuYTjxaRQj1nK_eAWyskwDaL3U8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KILFLNDFYBIATAJYBAHLZSZVGI.jpg"
     },
     {
-      "author": "Maximilian Heath",
-      "description": "Argentina will vote in a run-off <a href=\"/world/americas/argentina-knife-edge-presidential-election-offers-clashing-visions-future-2023-11-17/\">presidential election</a> on Sunday, with Peronist Economy Minister Sergio Massa taking on libertarian outsider Javier Milei to determine the future of the region's second largest economy.",
-      "publishedAt": "2023-11-17T18:43:43Z",
-      "title": "Explainer: What you need to know about Argentina's presidential election run-off",
-      "url": "https://www.reuters.com/world/americas/what-you-need-know-about-argentinas-presidential-election-run-off-2023-11-17/",
-      "urlToImage": "https://www.reuters.com/resizer/vcc-I4nsPlAFHZxeUedqE4Vl_a4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PP2PTGDH2VIMPEJVFSFHP2ZDBI.jpg"
+      "author": "Nathan Layne",
+      "description": "Donald Trump, the frontrunner for the Republican presidential nomination, said on Saturday that he would kill off a Pacific trade pact being advanced by U.S. President Joe Biden if he were to win the 2024 election and return to the White House.",
+      "publishedAt": "2023-11-19T00:58:59Z",
+      "title": "Trump vows to kill Asia trade deal being pursued by Biden if elected",
+      "url": "https://www.reuters.com/world/us/trump-vows-kill-asia-trade-deal-being-pursued-by-biden-if-elected-2023-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/JWasEl7bIdBya-MkAyGr6Lm2AZ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I3JK6LXS6RLDTHWJ5XQGF6W2PE.jpg"
     }
   ],
   "sortBy": "top",
