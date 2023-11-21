@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Scientists have identified a flavonol called quercetin as the most likely culprit.",
+      "publishedAt": "2023-11-20T19:04:23+00:00",
+      "title": "Study yields new insights into why some people get headaches from red wine",
+      "url": "https://arstechnica.com/science/2023/11/study-yields-new-insights-into-why-some-people-get-headaches-from-red-wine/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/redwineTOP-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "GM-owned Cruise \"failed to disclose\" full video and key crash details, DMV said.",
+      "publishedAt": "2023-11-20T18:07:29+00:00",
+      "title": "After robotaxi dragged pedestrian 20 feet, Cruise founder and CEO resigns",
+      "url": "https://arstechnica.com/tech-policy/2023/11/after-robotaxi-dragged-pedestrian-20-feet-cruise-founder-and-ceo-resigns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/kyle-vogt-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Games are more responsive on the OLED screen, even when running at 60 fps or below.",
+      "publishedAt": "2023-11-20T17:52:28+00:00",
+      "title": "Measured: Steam Deck OLED\u2019s major input lag improvements",
+      "url": "https://arstechnica.com/gaming/2023/11/measured-steam-deck-oleds-major-input-lag-improvements/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "On just its second flight, Starship now is arguably as successful as NASA's SLS rocket.",
       "publishedAt": "2023-11-20T16:16:23+00:00",
@@ -12,7 +36,7 @@
       "author": "Benj Edwards",
       "description": "Ilya Sutskever announces regret; 700+ OpenAI employees sign letter asking board to resign.",
       "publishedAt": "2023-11-20T15:29:35+00:00",
-      "title": "OpenAI employees revolt after board names new CEO and Altman heads to Microsoft",
+      "title": "OpenAI employees revolt after board names new CEO; Altman may head to Microsoft",
       "url": "https://arstechnica.com/information-technology/2023/11/openai-employees-revolt-after-board-names-new-ceo-and-altman-heads-to-microsoft/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/open_ai_logo_melting-760x380.jpg"
     },
@@ -55,30 +79,6 @@
       "title": "Sensible power output makes the DBA Mini eMastered a huge amount of fun",
       "url": "https://arstechnica.com/cars/2023/11/sensible-power-output-makes-the-dba-mini-emastered-a-huge-amount-of-fun/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/MINI_e_MASTERED_1-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Cleared of malfeasance, Altman's unpopular firing may be undone\u2014if he's interested.",
-      "publishedAt": "2023-11-19T00:36:43+00:00",
-      "title": "OpenAI board attempts to hit \u201cCtrl-Z\u201d in talks with Altman to return as CEO",
-      "url": "https://arstechnica.com/information-technology/2023/11/breaking-sam-altman-reportedly-in-talks-for-potential-return-as-openai-ceo/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/altman_header_4-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Starship reached a speed of 15,000 mph, then self-destructed over the Gulf of Mexico.",
-      "publishedAt": "2023-11-18T21:35:07+00:00",
-      "title": "Starship brought the thunder as it climbed into space for the first time",
-      "url": "https://arstechnica.com/space/2023/11/spacex-can-celebrate-three-big-wins-after-second-starship-test-flight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/starship-ift2-1-760x380.jpeg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "SIM swaps and port-out scams are a fact of life. New rules aren't likely to change that.",
-      "publishedAt": "2023-11-18T18:38:48+00:00",
-      "title": "The FCC says new rules will curb SIM swapping. I\u2019m pessimistic",
-      "url": "https://arstechnica.com/security/2023/11/the-fcc-says-new-rules-will-curb-sim-swapping-im-pessimistic/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/getty-esim-760x380.jpg"
     }
   ],
   "sortBy": "top",
