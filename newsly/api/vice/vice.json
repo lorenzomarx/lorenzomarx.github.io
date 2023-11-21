@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "i-D Staff, Ryan White",
+      "content": "",
+      "description": "Read, watch, wear, listen, see... how to spend your week, according to i-D.",
+      "publishedAt": "2023-11-20T10:56:14Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The GUi-DE: Aries sample sale & an ambient new London musician",
+      "url": "https://i-d.vice.com/en/article/epvqk4/aries-sample-sale",
+      "urlToImage": "https://video-images.vice.com/articles/653fe35e5132549f5dbdfc5b/lede/1700477256626-kiluguide.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "Becky Burgum, Zing Tsjeng",
+      "content": "Why let boring old social convention hold you back, hey?\r\nNovember 20, 2023, 9:00am\r\nPicture the scene: Youre in a not-particularly-fancy Italian restaurant and the people next to you get up from the\u2026 [+5370 chars]",
+      "description": "Why let boring old social convention hold you back, hey?",
+      "publishedAt": "2023-11-20T09:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Eating Strangers' Leftovers Is Fine. In Fact, Everyone Should Do It",
+      "url": "https://www.vice.com/en/article/xgwmwk/eating-strangers-leftover-food",
+      "urlToImage": "https://video-images.vice.com/articles/65579574076e1865725daa56/lede/1700239336894-goamerica4-71.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NTM2MzExMDUzOTg0NTc1eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
       "author": "Ashley Otero, Sara David",
       "content": "Were feeling testy and roused as the moon in Aquarius clashes with Mars and the sun in Scorpio at 4:38 AM and 5:50 AM, respectively. We might be lingering on past conversations (and arguments), remin\u2026 [+6459 chars]",
       "description": "The moon enters Pisces and the sun links up with Pluto.",
@@ -1273,34 +1299,8 @@
       "title": "Daily Horoscope: November 13, 2023",
       "url": "https://www.vice.com/en/article/wxj7vq/daily-horoscope-november-13-2023",
       "urlToImage": "https://video-images.vice.com/articles/654a67c39a53b786b2013a77/lede/1699375244290-7scorpiodaily71920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Randon Rosenbohm, Sara David",
-      "content": "The new moon in Scorpio falls on Monday, November 13, at 4:27 AM: Purity and inconvenient truths are part of the vibe. This new moon meets Mars and faces off with Uranus, so take a second to check in\u2026 [+8363 chars]",
-      "description": "There's a new moon in Scorpio...",
-      "publishedAt": "2023-11-12T22:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Weekly Horoscope: November 13 - 19",
-      "url": "https://www.vice.com/en/article/epvqyn/weekly-horoscope-november-13-19",
-      "urlToImage": "https://video-images.vice.com/articles/654a6b8c9a53b786b2013e68/lede/1699376045978-7scorpiodaily41920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Ashley Otero, Sara David",
-      "content": "Security and connection are the experiences we seek as the moon in Scorpio opposes Jupiter in Taurus at 7:09 AM. Empathy is running high, though it also means all the big emotions are more contagious\u2026 [+4353 chars]",
-      "description": "The moon sits opposite Jupiter.",
-      "publishedAt": "2023-11-11T22:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Daily Horoscope: November 12, 2023",
-      "url": "https://www.vice.com/en/article/qjvx7d/daily-horoscope-november-12-2023",
-      "urlToImage": "https://video-images.vice.com/articles/654a67be0480339e5c8b19e6/lede/1699375235489-7scorpiodaily61920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
     }
   ],
   "status": "ok",
-  "totalResults": 402
+  "totalResults": 404
 }
