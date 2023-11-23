@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Mack Lamoureux, Josh Visser",
+      "content": "Authorities are investigating a vehicle explosion that occurred at a busy border crossing between Canada and the United States Wednesday.\r\nThe explosion happened on Rainbow Bridge in Niagara Falls at\u2026 [+885 chars]",
+      "description": "Law enforcement has not indicated any sort of cause to the explosion yet.",
+      "publishedAt": "2023-11-22T19:22:49Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "FBI Investigating Vehicle Explosion at US-Canada Border",
+      "url": "https://www.vice.com/en/article/n7ek4d/rainbow-bridge-explosion",
+      "urlToImage": "https://video-images.vice.com/articles/655e53d251bdc621c64318c8/lede/1700680859870-rainbowbridge.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDM2NTkzMDM0NTA0OTk5eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
       "author": "Jordan Pearson, Jordan Pearson, Emily Lipstein",
       "content": "A test trench showing the depth of habitation debris. Image: Barry Molloy",
       "description": "The prehistoric peoples of Central Europe didn't disappear after their social order collapsed in 1600 BC. They spread, and thrived.",
@@ -1286,21 +1299,8 @@
       "title": "San Fancisco's Xi Homeless Sweep Was Cheered by the Right. It Was Also Illegal, Advocates Say",
       "url": "https://www.vice.com/en/article/g5ykqx/san-fanciscos-xi-homeless-sweep-was-cheered-by-the-right-it-was-also-illegal-advocates-say",
       "urlToImage": "https://video-images.vice.com/articles/6554d94a380917aa15b80eb8/lede/1700059768405-gettyimages-1779064546.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDAuMDg1eGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "i-D Staff, Roisin Lanigan",
-      "content": "",
-      "description": "The Tony nominated star chats to i-D ahead of the launch of the brand\u2019s \u201cLoves, unboxed\u201d holiday campaign.",
-      "publishedAt": "2023-11-15T14:26:16Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Emily in Paris\u2019s Ashley Park is Pandora\u2019s new brand ambassador",
-      "url": "https://i-d.vice.com/en/article/v7bx8d/pandora-gifting-ashley-park",
-      "urlToImage": "https://video-images.vice.com/articles/65437ab4514be3a56a0dedef/lede/1698922469928-231016shot07099v2a.jpeg?image-resize-opts=Y3JvcD0wLjk5OTkzMDk0Mzk5NTU4MDV4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
     }
   ],
   "status": "ok",
-  "totalResults": 428
+  "totalResults": 429
 }

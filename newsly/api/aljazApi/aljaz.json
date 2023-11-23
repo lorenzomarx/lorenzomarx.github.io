@@ -2,6 +2,19 @@
   "articles": [
     {
       "author": "Al Jazeera",
+      "content": "NewsFeed\r\nAs Palestinians await the start of an agreed four-day truce to be announced, Israel continues its bombardment on the Gaza Strip.",
+      "description": "As Palestinians await the start of an agreed four-day truce to be announced, Israel continues its bombardment on Gaza.",
+      "publishedAt": "2023-11-22T19:25:28Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israeli strikes continue on Gaza ahead of agreed truce",
+      "url": "https://www.aljazeera.com/program/newsfeed/2023/11/22/israeli-strikes-continue-on-gaza-ahead-of-agreed-truce",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/wide-clean-1700681041.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "author": "Al Jazeera",
       "content": "North Korea has carried out a suspected unsuccessful missile test, according to South Koreas military, a day after Pyongang said it successfully launched a spy satellite.\r\nSouth Koreas Joint Chiefs o\u2026 [+1734 chars]",
       "description": "South Korean military officials say the launch, directed at the East Sea, appears to be unsuccessful.",
       "publishedAt": "2023-11-22T19:11:43Z",
@@ -1286,21 +1299,8 @@
       "title": "OpenAI investors considering suing board after CEO Altman\u2019s firing: Sources",
       "url": "https://www.aljazeera.com/economy/2023/11/21/openai-investors-considering-suing-board-after-ceo-altmans-firing-sources",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-02-03T170323Z_1857262407_RC2R3Z9CIXVL_RTRMADP_3_OPENAI-CHATGPT-1695295210.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Ted Regencia",
-      "content": "blinking-dot\r\nLive updatesLive updates, \r\nGaza health ministry says 200 patients evacuated from Indonesian Hospital with Red Cross help, but hundreds remain.",
-      "description": "Gaza health ministry says 200 patients evacuated from Indonesian Hospital with Red Cross help, but hundreds remain.",
-      "publishedAt": "2023-11-21T00:00:13Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Israel-Hamas war live: Medics, patients remain trapped in Gaza hospitals",
-      "url": "https://www.aljazeera.com/news/liveblog/2023/11/21/israel-hamas-war-live-medics-patients-remain-trapped-in-gaza-hospitals",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/34484TL-highres-1700516924.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1480
+  "totalResults": 1481
 }
