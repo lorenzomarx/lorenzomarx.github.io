@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "LitterDrifter's means of self-propagation are simple. So why is it spreading so widely?",
+      "publishedAt": "2023-11-22T00:02:29+00:00",
+      "title": "USB worm unleashed by Russian state hackers spreads worldwide",
+      "url": "https://arstechnica.com/security/2023/11/normally-targeting-ukraine-russian-state-hackers-spread-usb-worm-worldwide/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/malicious-usb-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Binance CEO popularly known as CZ names successor in emotional X post.",
+      "publishedAt": "2023-11-21T23:29:11+00:00",
+      "title": "Binance slapped with $4B fine, accepts plea deal forcing CEO to resign",
+      "url": "https://arstechnica.com/tech-policy/2023/11/binance-ceo-changpeng-zhao-admits-to-money-laundering-in-plea-deal/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1795092396-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Can playing 16:9 content on a 21:9 screen impact burn-in risk? Apparently.",
+      "publishedAt": "2023-11-21T23:16:47+00:00",
+      "title": "Ultrawide monitors remind us there\u2019s still much to learn about OLED burn-in",
+      "url": "https://arstechnica.com/gadgets/2023/11/ultrawide-monitors-remind-us-theres-still-much-to-learn-about-oled-burn-in/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG-1818-760x380.jpg"
+    },
+    {
+      "author": "Steven Ewing",
+      "description": "Fake gearshifts and powertrain noises enhance Hyundai\u2019s electric hot hatch\u2014mostly.",
+      "publishedAt": "2023-11-21T23:01:21+00:00",
+      "title": "After driving the Hyundai Ioniq 5 N, I finally get EV \u201cengine\u201d sounds",
+      "url": "https://arstechnica.com/cars/2023/11/after-driving-the-hyundai-ioniq-5-n-i-finally-get-ev-engine-sounds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/72-dynamic-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Amazon has had a notoriously hard time making money from Alexa.",
+      "publishedAt": "2023-11-21T21:17:27+00:00",
+      "title": "Amazon lays off Alexa employees as 2010s voice-assistant boom gives way to AI",
+      "url": "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/echo-show-5-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "\"Altman would return only if the board members who fired him left,\" report says.",
+      "publishedAt": "2023-11-21T20:51:42+00:00",
+      "title": "Reports: Sam Altman in talks for OpenAI return; board members could be ousted",
+      "url": "https://arstechnica.com/tech-policy/2023/11/reports-sam-altman-in-talks-for-openai-return-board-members-could-be-ousted/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sam-altman-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "The \"Manifest V3\" rollout is back after letting tensions cool for a year.",
+      "publishedAt": "2023-11-21T20:35:34+00:00",
+      "title": "Google Chrome will limit ad blockers starting June 2024",
+      "url": "https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/google-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"Personally, I don't think that would be the end of the world.\"",
+      "publishedAt": "2023-11-21T20:21:40+00:00",
+      "title": "With budget cuts and an aging station, can NASA learn to love a gap in orbit?",
+      "url": "https://arstechnica.com/space/2023/11/with-budget-cuts-and-an-aging-station-can-nasa-learn-to-love-a-gap-in-orbit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/11/space_station_over_earth-640x215.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Respiratory virus season is in full swing as people ready for family gatherings.",
+      "publishedAt": "2023-11-21T19:58:57+00:00",
+      "title": "The infectious disease forecast for Thanksgiving is looking dicey",
+      "url": "https://arstechnica.com/health/2023/11/the-infectious-disease-forecast-for-thanksgiving-is-looking-dicey/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1794651551-760x380.jpeg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "The Z-machine allowed porting from mainframes to TRS-80, Apple II, and others.",
       "publishedAt": "2023-11-21T19:21:13+00:00",
       "title": "Infocom\u2019s ingenious code-porting tools for Zork and other games have been found",
       "url": "https://arstechnica.com/gaming/2023/11/infocoms-ingenious-code-porting-tools-for-zork-and-other-games-have-been-found/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/45897016062_e1c52b1dd9_k-760x380.jpg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "From Apple to Asus and Lenovo to HP, there are plenty of savings on a new laptop.",
-      "publishedAt": "2023-11-21T18:21:12+00:00",
-      "title": "Black Friday 2023 laptop deals from Dell, HP, Lenovo, Apple, Microsoft, and more",
-      "url": "https://arstechnica.com/shopping/2023/11/black-friday-2023-laptop-deals/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/Surface-Laptop-Family-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Anthropic CEO Dario Amodei quickly declined job offer and merger, reports say.",
-      "publishedAt": "2023-11-21T18:03:01+00:00",
-      "title": "Report: After Altman firing, OpenAI tried to merge with rival\u2014and was rejected",
-      "url": "https://arstechnica.com/tech-policy/2023/11/report-openai-tried-and-failed-to-hire-anthropic-ceo-to-replace-sam-altman/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-Dario-Amodei-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "In lawsuit, Musk says ads next to antisemitic posts are Media Matters' fault.",
-      "publishedAt": "2023-11-21T17:51:21+00:00",
-      "title": "Musk files lawsuit claiming Media Matters manipulated X by scrolling down",
-      "url": "https://arstechnica.com/tech-policy/2023/11/elon-musk-sues-media-matters-despite-admitting-x-paired-ads-with-nazi-content/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1782806753-760x380.jpg"
-    },
-    {
-      "author": "Roberto Baldwin",
-      "description": "The Korean automaker's latest facility is a test bed for new ideas.",
-      "publishedAt": "2023-11-21T15:43:20+00:00",
-      "title": "Small-batch EVs and plenty of robots\u2014Hyundai\u2019s new innovation center",
-      "url": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/CSC05707-760x380.jpg"
-    },
-    {
-      "author": "George Hammond and Madhumita Murgia, Financial Times",
-      "description": "OpenAI's future hangs in the balance as staff says they'll join former CEO at Microsoft.",
-      "publishedAt": "2023-11-21T14:19:20+00:00",
-      "title": "95% of OpenAI employees have threatened to quit in standoff with board",
-      "url": "https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/altman-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Webb reveals the Sagittarius C region of the Milky Way.",
-      "publishedAt": "2023-11-21T13:00:00+00:00",
-      "title": "Daily Telescope: A snapshot of 500,000 stars near the center of the galaxy",
-      "url": "https://arstechnica.com/space/2023/11/daily-telescope-peering-into-the-dense-center-of-our-galaxy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/weic2328a-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Want to play console-style games on your phone? These are your options.",
-      "publishedAt": "2023-11-21T12:30:29+00:00",
-      "title": "Guidemaster: A quick gaming iPhone gift guide",
-      "url": "https://arstechnica.com/shopping/2023/11/guidemaster-a-quick-gaming-smartphone-gift-guide/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Resident-Evil-on-iPhone-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Hybrid prototypes from Acura, BMW, Cadillac, and Porsche wowed the crowds.",
-      "publishedAt": "2023-11-21T12:00:43+00:00",
-      "title": "The return of GTP racing to IMSA gets a big thumbs-up from fans",
-      "url": "https://arstechnica.com/cars/2023/11/the-return-of-gtp-racing-to-imsa-gets-a-big-thumbs-up-from-fans/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1724609621-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Nothing promised end-to-end encryption, then stored texts publicly in plaintext.",
-      "publishedAt": "2023-11-20T23:11:41+00:00",
-      "title": "Nothing\u2019s iMessage app was a security catastrophe, taken down in 24 hours",
-      "url": "https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/100-760x380.jpg"
     }
   ],
   "sortBy": "top",
