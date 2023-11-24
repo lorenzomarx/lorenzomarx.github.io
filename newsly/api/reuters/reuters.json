@@ -1,68 +1,60 @@
 {
   "articles": [
     {
-      "author": "Caroline Valetkevitch",
-      "description": "U.S. stocks ended higher on Wednesday on optimism that the Federal Reserve may be done raising interest rates and that the economy is still resilient.",
-      "publishedAt": "2023-11-22T21:00:32Z",
-      "title": "Wall St ends up before holiday; investors optimistic Fed done raising rates",
-      "url": "https://www.reuters.com/markets/us/futures-muted-nvidia-slips-peak-rate-optimism-ebbs-2023-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/dvAUqLuD0Q44xP28vpB4miFMLn0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IOFI3HWZCBNZJAUMGFNY55KRVQ.jpg"
+      "author": "Reuters",
+      "description": "China's Zhongzhi Enterprise Group told investors it is heavily insolvent with liabilities of up to $64 billion, more than double its assets, as one of the country's leading wealth managers grapples with a deepening property sector crisis.",
+      "publishedAt": "2023-11-23T04:08:03Z",
+      "title": "China wealth manager Zhongzhi flags insolvency, liabilities of $64 bln",
+      "url": "https://www.reuters.com/world/china/china-wealth-manager-zhongzhi-flags-insolvency-liabilities-64-bln-2023-11-23/",
+      "urlToImage": "https://www.reuters.com/resizer/W_9kHMProTLjO83RG_uv9_2R0Jw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/COTF6XGPMJJ2NPOJGPWLFW6R5A.jpg"
     },
     {
-      "author": "Paul Carsten",
-      "description": "Oil prices tanked nearly 4% on Wednesday as OPEC+ producers delayed a meeting on output planned for Sunday, raising questions about the future course of crude production cuts.",
-      "publishedAt": "2023-11-22T13:35:11Z",
-      "title": "Oil tumbles nearly 4% as OPEC+ meeting delayed",
-      "url": "https://www.reuters.com/business/energy/oil-prices-little-changed-ahead-us-stocks-data-potential-opec-cuts-2023-11-22/",
+      "author": "Reuters",
+      "description": "Novo Nordisk plans to invest more than 16 billion Danish crowns ($2.34 billion) to boost production of its weight-loss drugs at a site in Chartres, France, scrambling to keep up with soaring demand.",
+      "publishedAt": "2023-11-23T10:32:22Z",
+      "title": "Novo Nordisk invests $2.3 million in France to boost obesity drug production",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-invests-23-mln-france-boost-output-2023-11-23/",
+      "urlToImage": "https://www.reuters.com/resizer/bSBAuAhjvrC6vIltibYtjvljSvk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VHZODZ64Y5KX3BNSNT4JKZ6BCM.jpg"
+    },
+    {
+      "author": "Selena Li",
+      "description": "Asian shares were flat on Thursday with markets holding onto their gains for the week as confidence grows that interest rates globally will head lower next year, while oil prices fell on the prospects for smaller-than-expected output cuts by OPEC+.",
+      "publishedAt": "2023-11-23T03:20:18Z",
+      "title": "Asia stocks hold recent gains as confidence grows on rate outlook",
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-11-23/",
+      "urlToImage": "https://www.reuters.com/resizer/Y1ILjhMt3ZY6DkBRaWVSnAZnv0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DUSI46GGSVKF5JHN3R7XLCCROE.jpg"
+    },
+    {
+      "author": "Naomi Rovnick, Samuel Indyk, Lucy Raitano, Harry Robertson",
+      "description": "Britain's finance minister on Wednesday announced a raft of measures aimed at reviving the sluggish economy without upsetting markets, but a degree of caution over the outlook for borrowing and inflation rattled bonds and sterling.",
+      "publishedAt": "2023-11-23T06:39:37Z",
+      "title": "UK budget winners and losers: the pound, bonds and brewers",
+      "url": "https://www.reuters.com/markets/europe/uk-budget-winners-losers-pound-bonds-brewers-2023-11-22/",
+      "urlToImage": "https://www.reuters.com/resizer/2gkR55CpOUBssGcHd9gkMx4DdBE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EWHY5NW3AVKENCOPOSDQ5EW74I.jpg"
+    },
+    {
+      "author": "Tito Correa, Nyasha Chingono, Miguel Lo Bianco",
+      "description": "From Zimbabwe's capital Harare to Quito in Ecuador, green bills circulating on the streets and in shops with images of U.S. presidents reflect a big choice that has been made: picking the dollar over the local currency to bring economic stability.",
+      "publishedAt": "2023-11-23T10:09:58Z",
+      "title": "In Quito and Harare, advice and warnings about dollarization for Argentina",
+      "url": "https://www.reuters.com/markets/currencies/quito-harare-advice-warnings-about-dollarization-argentina-2023-11-23/",
+      "urlToImage": "https://www.reuters.com/resizer/hkLplUYVDl0i4Bm5Nabc7MYHVsw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EJAYNIF4CFI2ZANXXCPCYYCRFA.jpg"
+    },
+    {
+      "author": "Muyu Xu",
+      "description": "The suspension of U.S. sanctions on Venezuelan oil has rattled its biggest customers, China's independent refiners, who are now holding off on making new purchases amid wide discrepancies in offer prices, trading sources say.",
+      "publishedAt": "2023-11-23T06:35:21Z",
+      "title": "China slows Venezuela crude buys as U.S. sanctions lifting triggers 'disarray'",
+      "url": "https://www.reuters.com/markets/commodities/china-slows-venezuela-crude-buys-us-sanctions-lifting-triggers-disarray-2023-11-23/",
+      "urlToImage": "https://www.reuters.com/resizer/PT9mseFbBI42Vzd-BfnfMfRDtPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U2XR6FVCAZJBPHAFXJAIFUWL4E.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "Oil prices fell by more than 1% on Thursday, extending losses from the previous session, after OPEC+ postponed a ministerial meeting, leading to speculation that producers might cut output less than earlier anticipated.",
+      "publishedAt": "2023-11-23T06:33:31Z",
+      "title": "Oil down more than 1% as uncertainty swirls over delayed OPEC+ meeting",
+      "url": "https://www.reuters.com/business/energy/oil-down-1-bearish-view-delayed-opec-meeting-2023-11-23/",
       "urlToImage": "https://www.reuters.com/resizer/kjjNR3SDWzGnS_axfImxeirydk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TVONMDV53BON3DGXTQ2RMRA4IQ.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "More than 400 Macy's <a href=\"https://www.reuters.com/markets/companies/M.N\" target=\"_blank\">(M.N)</a> workers in Washington state are planning a three-day strike from Black Friday through Sunday, alleging unfair labor practices and demanding better wages, according to UFCW Local 3000's website.",
-      "publishedAt": "2023-11-22T23:45:08Z",
-      "title": "Macy's workers in Washington state to strike for three days from Black Friday",
-      "url": "https://www.reuters.com/business/retail-consumer/macys-workers-washington-state-strike-three-days-black-friday-2023-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/ZbX6UKs_dMcRwahmq4YKkOEfjWY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4JQOEIKTHBORJDDMEBSART5XRI.jpg"
-    },
-    {
-      "author": "Arriana McLymore",
-      "description": "Upstart online retailers Temu.com and Shein are drawing millions of window-shoppers to their websites <a href=\"/business/retail-consumer/what-is-black-friday-will-shoppers-find-bargains-this-year-2023-11-16/\">this holiday season</a>, but they far lag market leader Amazon.com where it counts - turning those visits into actual sales.",
-      "publishedAt": "2023-11-22T19:11:34Z",
-      "title": "Temu, Shein far lag Amazon as online holiday shopping ramps up",
-      "url": "https://www.reuters.com/business/retail-consumer/temu-shein-far-lag-amazon-online-holiday-shopping-ramps-up-2023-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/Oe5xijX-1wmDnxr1DMzcYPfvPA4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2JHTHFCRGNMOPNJFHUVXYE6GNM.jpg"
-    },
-    {
-      "author": "Lewis Krauskopf",
-      "description": "A look at the day ahead in Asian markets from Lewis Krauskopf, markets correspondent.",
-      "publishedAt": "2023-11-22T21:48:34Z",
-      "title": "Morning Bid: Markets in a holiday mood",
-      "url": "https://www.reuters.com/markets/asia/global-markets-view-asia-graphics-pix-2023-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/plbj0K8WVeDi0hVRk3OxsAGsfu4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7N5GWOCIDBPY3MB2QYF4GEGROM.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "U.S. prosecutors pressed a federal judge on Wednesday to require Binance Holdings founder and former chief Changpeng Zhao to remain in the continental United States before his sentencing hearing on Feb. 23, 2024, according to a court filing.",
-      "publishedAt": "2023-11-22T23:43:12Z",
-      "title": "US prosecutors want Binance's Zhao to remain in US until sentencing -filing",
-      "url": "https://www.reuters.com/technology/us-prosecutors-want-binances-zhao-remain-us-until-sentencing-filing-2023-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/FvBmLuD4a7VNwslzMB-sVF6Nt9Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QOIXBBXF75I7ZE7CNA7J4WZ7ZQ.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "Britain needs a \"digital alternative\" to relying on Visa and Mastercard for card payments regardless of steps being taken by regulators, a report commissioned by the government said on Wednesday.",
-      "publishedAt": "2023-11-22T17:01:07Z",
-      "title": "UK payments report calls for alternatives to Mastercard and Visa",
-      "url": "https://www.reuters.com/technology/uk-payments-report-calls-alternatives-mastercard-visa-2023-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/vhQF3L4TBwfe0CxRxkLk5h8iUq4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4IS2AYBFCBNUPJOPSUMQYKFASE.jpg"
-    },
-    {
-      "author": "Anna Tong, Jeffrey Dastin, Krystal Hu",
-      "description": "Ahead of OpenAI CEO <a href=\"/technology/ousting-ceo-sam-altman-chatgpt-loses-its-best-fundraiser-2023-11-18/\">Sam Altman\u2019s four days in exile</a>, several staff researchers sent the board of directors a letter warning of a powerful artificial intelligence discovery that they said could threaten humanity, two people familiar with the matter told Reuters.",
-      "publishedAt": "2023-11-22T22:53:07Z",
-      "title": "Exclusive: Sam Altman's ouster at OpenAI was precipitated by letter to board about AI breakthrough -sources",
-      "url": "https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/5RF7i8zpqZaW90-xw5_tAdCCn-E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WRAGM7C3ONP4BO5NMF23ZGV2SA.jpg"
     },
     {
       "author": "Bassam Masoud, Emily Rose",
@@ -73,12 +65,20 @@
       "urlToImage": "https://www.reuters.com/resizer/AW0ggDwlzUMP3zNRg_eyKgvKC-4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YQXLFWQQ7JJODNBNDWXDO3D2LA.jpg"
     },
     {
-      "author": "Jonathan Stempel",
-      "description": "Cuba Gooding Jr was sued on Wednesday by two women whose sexual assault cases against the Oscar-winning actor underlay a criminal prosecution that ended with him pleading guilty but serving no jail time.",
-      "publishedAt": "2023-11-22T20:35:30Z",
-      "title": "Cuba Gooding Jr faces new sexual assault lawsuits",
-      "url": "https://www.reuters.com/legal/cuba-gooding-jr-faces-new-sexual-assault-lawsuits-2023-11-22/",
-      "urlToImage": "https://www.reuters.com/resizer/vnFg6ua9RBOeP4sTsR6y-FC1HUI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AHLM2V4W5BLSTD3KY5SYOKH5YM.jpg"
+      "author": "Anna Tong, Jeffrey Dastin, Krystal Hu",
+      "description": "Ahead of OpenAI CEO <a href=\"/technology/ousting-ceo-sam-altman-chatgpt-loses-its-best-fundraiser-2023-11-18/\">Sam Altman\u2019s four days in exile</a>, several staff researchers sent the board of directors a letter warning of a powerful artificial intelligence discovery that they said could threaten humanity, two people familiar with the matter told Reuters.",
+      "publishedAt": "2023-11-22T22:53:07Z",
+      "title": "Exclusive: Sam Altman's ouster at OpenAI was precipitated by letter to board about AI breakthrough -sources",
+      "url": "https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/",
+      "urlToImage": "https://www.reuters.com/resizer/5RF7i8zpqZaW90-xw5_tAdCCn-E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WRAGM7C3ONP4BO5NMF23ZGV2SA.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "The World Health Organization (WHO) has asked China for details on an increase in respiratory illnesses and reported clusters of pneumonia in children, which its China office on Thursday called a \"routine\" check.",
+      "publishedAt": "2023-11-23T05:45:34Z",
+      "title": "WHO asks China for details on outbreaks of respiratory illness",
+      "url": "https://www.reuters.com/world/china/who-asks-china-details-respiratory-illness-outbreaks-2023-11-23/",
+      "urlToImage": "https://www.reuters.com/resizer/4YGrbB3lyUvGLJOCoSr0kLrnpj8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3ZHEYNPWDZIDRPIAKCCJI2JEVQ.jpg"
     }
   ],
   "sortBy": "top",
