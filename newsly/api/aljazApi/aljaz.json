@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "Protesters in Dublin fought with police, torched vehicles and looted shops on Thursday after three children were injured in a knife attack outside a school.\r\nHere is what to know about the stabbing a\u2026 [+6263 chars]",
+      "description": "Violence breaks out in central Dublin after a knife attack injures children near a school.",
+      "publishedAt": "2023-11-24T11:32:36Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Dublin riots: What to know about the stabbing attack and clashes in Ireland",
+      "url": "https://www.aljazeera.com/news/2023/11/24/dublin",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/2023-11-23T220649Z_1288334945_RC27J4AADDMR_RTRMADP_3_IRELAND-STABBING-1700808445.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Al Jazeera Staff",
       "content": "Israel has said that northern Gaza is out of bounds as displaced Palestinians attempt to use the pause in fighting to return to their homes.\r\nLarge numbers of displaced people were attempting to retu\u2026 [+4127 chars]",
       "description": "With hostilities paused by the truce, displaced Palestinians are attempting to return to their homes across the enclave.",
@@ -1286,21 +1299,8 @@
       "title": "License to Kill: How \u2018stand your ground\u2019 lets shooters go free",
       "url": "https://www.aljazeera.com/program/fault-lines/2023/11/22/license-to-kill-how-stand-your-ground-lets-shooters-go-free",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/image-152.jpg?resize=1200%2C630"
-    },
-    {
-      "author": "Mouin Rabbani",
-      "content": "In the early hours of November 22, Qatar formally announced that an agreement had been reached for an Israeli-Palestinian exchange of captives. The available details suggest it largely reflects the p\u2026 [+6768 chars]",
-      "description": "The temporary ceasefire suggests Israel and the US are nowhere near \u2018wiping out\u2019 Hamas.",
-      "publishedAt": "2023-11-22T15:51:19Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Israeli failures, US charades and a negotiated truce",
-      "url": "https://www.aljazeera.com/opinions/2023/11/22/israeli-failures-us-charades-and-a-negotiated-truce",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/2023-11-10T071123Z_26638116_RC2294AOPEMZ_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-ANAESTHETICS-1700290880.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1523
+  "totalResults": 1524
 }
