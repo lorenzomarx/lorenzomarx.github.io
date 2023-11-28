@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Faults that should have been frustrating just seem to add character when it's an Alfa.",
+      "publishedAt": "2023-11-27T17:16:29+00:00",
+      "title": "The 2024 Alfa Romeo Tonale is a confoundingly charming plug-in hybrid",
+      "url": "https://arstechnica.com/cars/2023/11/the-2024-alfa-romeo-tonale-is-a-confoundingly-charming-plug-in-hybrid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/2024-Alfa-Romeo-Tonale-1-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Further research involves building a \"bat porn box\" to catch more mating acts on camera.",
+      "publishedAt": "2023-11-27T16:45:24+00:00",
+      "title": "Study: The serotine bat uses its super-large penis as an arm when mating",
+      "url": "https://arstechnica.com/science/2023/11/the-strange-sex-life-of-the-serotine-bat/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/batpenis2-760x380.jpg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "We don't really know what can cause repeated outbursts of this sort.",
+      "publishedAt": "2023-11-27T16:21:05+00:00",
+      "title": "\u201cTasmanian Devil\u201d event has the power of hundreds of billions of Suns",
+      "url": "https://arstechnica.com/science/2023/11/tasmanian-devil-event-has-the-power-of-hundreds-of-billions-of-suns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/image-3-760x380.jpeg"
+    },
+    {
+      "author": "Christian Elliott, Undark Magazine",
+      "description": "Educating local residents about the risks carries challenges.",
+      "publishedAt": "2023-11-27T14:42:05+00:00",
+      "title": "Complex, volatile coast makes preparing for tsunamis tough in Alaska",
+      "url": "https://undark.org/2023/11/27/alaska-tsunami/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/1964-3-760x380.jpg"
+    },
+    {
+      "author": "Chuong Nguyen",
+      "description": "Cyber Week is here, and these are the best deals on Apple, Dyson, Lenovo, Vitamix, and more.",
+      "publishedAt": "2023-11-27T12:30:03+00:00",
+      "title": "Cyber Monday 2023: The best deals on Lenovo, Herman Miller, Apple, Anker, Dyson, and more",
+      "url": "https://arstechnica.com/shopping/2023/11/cyber-monday-2023-deals/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/cyber-monday-hero-gen2-1-760x380.png"
+    },
+    {
       "author": "Chuong Nguyen",
       "description": "The best savings on tech from laptops to headphones, TVs, Herman Miller chairs, and more.",
       "publishedAt": "2023-11-25T23:15:51+00:00",
@@ -39,46 +79,6 @@
       "title": "These newest vacuums from 2023 clean up well, and they\u2019re on sale",
       "url": "https://arstechnica.com/shopping/2023/11/best-vacuum-deals-black-friday-2023/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Roborock-S8-Pro-Ultra-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "The Telescope Array in Utah's West Desert picked up a rare particle with 244 EeV energy.",
-      "publishedAt": "2023-11-23T19:00:34+00:00",
-      "title": "Meet \u201cAmaterasu\u201d: Astronomers detect highest energy cosmic ray since 1991",
-      "url": "https://arstechnica.com/science/2023/11/meet-amaterasu-astronomers-detect-highest-energy-cosmic-ray-since-1991/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/cosmicray1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"I conclude the objects are the spy satellite and the rocket upper stage.\"",
-      "publishedAt": "2023-11-23T12:00:13+00:00",
-      "title": "Rocket Report: Beyond Gravity to study fairing reuse; North Korea launches satellite",
-      "url": "https://arstechnica.com/space/2023/11/rocket-report-beyond-gravity-to-study-fairing-reuse-north-korea-launches-satellite/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_3809-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "After a launch in May, South Korea's navy recovered parts of North Korea's rocket.",
-      "publishedAt": "2023-11-22T21:01:25+00:00",
-      "title": "North Korea launched a satellite, then apparently blew up its booster",
-      "url": "https://arstechnica.com/space/2023/11/north-korea-launched-a-satellite-then-apparently-blew-up-its-booster/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1796532499-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Zenbooks accused of ripping off hinge, touchpad, and other inventions.",
-      "publishedAt": "2023-11-22T20:26:02+00:00",
-      "title": "Lenovo seeks halt of Asus laptop sales over alleged patent infringement",
-      "url": "https://arstechnica.com/gadgets/2023/11/lenovo-seeks-halt-of-asus-laptop-sales-over-alleged-patent-infringement/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/zenbook-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Data center revenue is up 279% from the same quarter last year.",
-      "publishedAt": "2023-11-22T19:51:01+00:00",
-      "title": "Nvidia\u2019s GeForce GPUs are selling well, but its AI GPU sales are ridiculous",
-      "url": "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia-ai-gpu-760x380.jpeg"
     }
   ],
   "sortBy": "top",
