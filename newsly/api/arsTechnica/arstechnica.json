@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "Playing Warcraft in a browser, using a controller, somehow feels\u2026 okay?",
+      "publishedAt": "2023-11-27T19:50:13+00:00",
+      "title": "DOS_deck offers free, all-timer DOS games in a browser, with controller support",
+      "url": "https://arstechnica.com/gaming/2023/11/dos_deck-offers-free-all-timer-dos-games-in-a-browser-with-controller-support/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Screenshot-2023-11-27-at-1.40.04\u202fPM-760x380.png"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Amazon Workspaces Thin Client is a Fire TV Cube with different software.",
+      "publishedAt": "2023-11-27T19:32:15+00:00",
+      "title": "Amazon\u2019s $195 thin clients are repurposed Fire TV Cubes",
+      "url": "https://arstechnica.com/information-technology/2023/11/amazons-195-thin-clients-are-repurposed-fire-tv-cubes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/amazon-thin-client-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Creators worried advertisers dropping X could hurt revenue-sharing payouts.",
+      "publishedAt": "2023-11-27T19:22:48+00:00",
+      "title": "Big brands keep dropping X over antisemitism; $75M loss, report estimates",
+      "url": "https://arstechnica.com/tech-policy/2023/11/x-may-lose-75m-in-ad-revenue-after-antisemitic-posts-report-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1757119710-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Display \"bumps\" are screw heads and other components pushing into the OLED panel.",
+      "publishedAt": "2023-11-27T19:04:17+00:00",
+      "title": "Google says bumpy Pixel 8 screens are nothing to worry about",
+      "url": "https://arstechnica.com/gadgets/2023/11/google-says-bumpy-pixel-8-screens-are-nothing-to-worry-about/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/43-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Microsoft's Surface didn't even use the Microsoft-developed security protocol.",
+      "publishedAt": "2023-11-27T18:52:07+00:00",
+      "title": "Researchers figure out how to bypass the fingerprint readers in most Windows PCs",
+      "url": "https://arstechnica.com/gadgets/2023/11/researchers-beat-windows-hello-fingerprint-sensors-with-raspberry-pi-and-linux/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_0323-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Newly unredacted suit cites internal documents, including report to Zuckerberg.",
+      "publishedAt": "2023-11-27T18:35:29+00:00",
+      "title": "Meta routinely ignored reports of kids under 13 on Instagram, states allege",
+      "url": "https://arstechnica.com/tech-policy/2023/11/states-say-meta-ignored-reports-of-underage-kids-kept-collecting-their-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-meta-apps-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "Faults that should have been frustrating just seem to add character when it's an Alfa.",
       "publishedAt": "2023-11-27T17:16:29+00:00",
@@ -31,54 +79,6 @@
       "title": "Complex, volatile coast makes preparing for tsunamis tough in Alaska",
       "url": "https://undark.org/2023/11/27/alaska-tsunami/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/1964-3-760x380.jpg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "Cyber Week is here, and these are the best deals on Apple, Dyson, Lenovo, Vitamix, and more.",
-      "publishedAt": "2023-11-27T12:30:03+00:00",
-      "title": "Cyber Monday 2023: The best deals on Lenovo, Herman Miller, Apple, Anker, Dyson, and more",
-      "url": "https://arstechnica.com/shopping/2023/11/cyber-monday-2023-deals/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/cyber-monday-hero-gen2-1-760x380.png"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "The best savings on tech from laptops to headphones, TVs, Herman Miller chairs, and more.",
-      "publishedAt": "2023-11-25T23:15:51+00:00",
-      "title": "Black Friday 2023: The latest tech deals on Apple, Lenovo, Dyson, Vitamix, and more",
-      "url": "https://arstechnica.com/shopping/2023/11/black-friday-2023-deals/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Black-Friday-2023-Header-Image-760x380.png"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Some of the bikes we've looked at over the last couple of years are now on sale.",
-      "publishedAt": "2023-11-24T22:20:27+00:00",
-      "title": "End-of-year e-bike deals: What can you now get for less cash?",
-      "url": "https://arstechnica.com/cars/2023/11/end-of-year-e-bike-deals-what-can-you-now-get-for-less-cash/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Velotric-T1-with-background-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette and Sean M. Carroll",
-      "description": "We picked 20 time-travel movies and rated them by scientific logic and entertainment value.",
-      "publishedAt": "2023-11-24T12:30:49+00:00",
-      "title": "The Ars guide to time travel in the movies",
-      "url": "https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/ars-time-travel-movie-wormhole-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "We also test out the optional\u2014and slightly odd\u2014active ride system.",
-      "publishedAt": "2023-11-24T12:30:46+00:00",
-      "title": "Porsche\u2019s third-gen Panamera plug-in hybrid pairs V8 with a big battery",
-      "url": "https://arstechnica.com/cars/2023/11/panamera-preview-we-sample-porsches-newest-plug-in-hybrid-sedan/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/2024-Porsche-Panamera-Turbo-E-Hybrid-preview-1-760x380.jpg"
-    },
-    {
-      "author": "Chuong Nguyen",
-      "description": "The best vacuums from Dyson, Roborock, and iRobot are on sale for Black Friday",
-      "publishedAt": "2023-11-23T19:17:11+00:00",
-      "title": "These newest vacuums from 2023 clean up well, and they\u2019re on sale",
-      "url": "https://arstechnica.com/shopping/2023/11/best-vacuum-deals-black-friday-2023/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Roborock-S8-Pro-Ultra-760x380.jpg"
     }
   ],
   "sortBy": "top",
