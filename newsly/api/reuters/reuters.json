@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Howard Schneider, Ann Saphir",
+      "description": "Federal Reserve policymakers look increasingly likely to end this year with interest rates on hold and begin 2024 mulling the timing of their first cut in borrowing costs as they try to engineer a \"soft landing\" for the economy.",
+      "publishedAt": "2023-11-28T16:59:11Z",
+      "title": "Fed likely done raising interest rates; Waller flags possible cut",
+      "url": "https://www.reuters.com/markets/us/feds-waller-increasingly-confident-policy-is-right-spot-2023-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/R2AyIAoLeKWUaKIJUYMXN6ooyBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4DE3AJOBKBIC3DWWTZDJGCYGW4.jpg"
+    },
+    {
+      "author": "Greg Bensinger",
+      "description": "Amazon <a href=\"https://www.reuters.com/markets/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> is trying to lure big corporate customers to it AWS cloud computing service with a new chatbot for businesses, and by offering to guard them against legal and reputational damage that can come from the output of artificial intelligence.",
+      "publishedAt": "2023-11-28T18:32:49Z",
+      "title": "Amazon's AWS appeals to corporate customers with new chatbot, AI safety measures",
+      "url": "https://www.reuters.com/technology/amazon-looks-lure-corporate-customers-with-generative-ai-safety-measures-2023-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/cpyMfpxrg0IWMdR92yClJfa9BzU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WM6XWNBBTJMMLEMOUOUBCH26YI.jpg"
+    },
+    {
       "author": "Andrew Chung",
       "description": "A <a href=\"/legal/us-supreme-court-decide-legality-sec-in-house-enforcement-2023-06-30/\">challenge</a> to the U.S. Securities and Exchange Commission's powers to protect investors from fraud comes before the Supreme Court on Wednesday in another in a series of legal attacks against federal agencies that regulate financial markets.",
       "publishedAt": "2023-11-28T11:13:15Z",
@@ -9,52 +25,36 @@
       "urlToImage": "https://www.reuters.com/resizer/u3xgefmZweiPYnuPk4Sj7hFE6wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/77HF5XA2VJMO7J3M4JGM22ERLY.jpg"
     },
     {
-      "author": "Lefteris Papadimas",
-      "description": "Greece will next month repay ahead of schedule 5.3 billion euros ($5.8 billion) of loans owed to euro zone countries under its first bailout, and hopes to repeat the move in 2024, finance ministry officials told Reuters on Tuesday.",
-      "publishedAt": "2023-11-28T11:32:40Z",
-      "title": "Exclusive: Greece to repay more euro zone bailout loans ahead of schedule",
-      "url": "https://www.reuters.com/markets/europe/greece-repay-more-euro-zone-bailout-loans-ahead-schedule-officials-2023-11-28/",
-      "urlToImage": "https://www.reuters.com/resizer/ZwiZqNuupxbq0mU3TuHBbapsQc4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NSZMPLTBEFMMXBINRMM32OGMPM.jpg"
-    },
-    {
-      "author": "Kane Wu, Anirban Sen",
-      "description": "Fashion company Shein has confidentially filed to go public in the United States, according to two sources familiar with the matter, in what is likely to be one of the most valuable China-founded companies to list in New York.",
-      "publishedAt": "2023-11-28T07:28:47Z",
-      "title": "China's Shein files for US IPO in major test for investor appetite - sources",
-      "url": "https://www.reuters.com/markets/deals/chinese-fast-fashion-shein-files-us-ipo-wsj-2023-11-27/",
-      "urlToImage": "https://www.reuters.com/resizer/F7xGqg2XAZmn33AKoH5q0PQlBuo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O2FMBEKGANO6LPZJNYZSVKRYOY.jpg"
+      "author": "Reuters",
+      "description": "U.S. consumer confidence rose in November after three straight monthly declines, though households continued to anticipate a recession over the next year, a survey showed on Tuesday.",
+      "publishedAt": "2023-11-28T15:26:51Z",
+      "title": "US consumer confidence rises in November",
+      "url": "https://www.reuters.com/markets/us/us-consumer-confidence-rises-november-2023-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/DnXly8Ll5C-fm5R3ql4-_qv6_B4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LOUW4BGV5NJLDLRE23WMQ5NE4Q.jpg"
     },
     {
       "author": "Reuters",
-      "description": "The rapid adoption of artificial intelligence could reduce wages, but so far is creating, not destroying jobs, especially for the young and highly-skilled, research published by the European Central Bank showed on Tuesday.",
-      "publishedAt": "2023-11-28T09:51:47Z",
-      "title": "AI threatens wages, not jobs - so far, ECB paper finds",
-      "url": "https://www.reuters.com/technology/ai-threatens-wages-not-jobs-so-far-ecb-paper-finds-2023-11-28/",
-      "urlToImage": "https://www.reuters.com/resizer/2h1-xQDDs2DmQbh8xW-N4HiC97I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QOQLNC3RQRJCBCBZYQGAIURBRM.jpg"
+      "description": "Bank of America <a href=\"https://www.reuters.com/markets/companies/BAC.N\" target=\"_blank\">(BAC.N)</a> will pay a $12 million penalty for submitting false mortgage lending information to the government, violating a federal law that lenders have routinely followed for decades, the U.S. Consumer Financial Protection Bureau said on Tuesday.",
+      "publishedAt": "2023-11-28T18:07:28Z",
+      "title": "Bank of America pays $12 mln fine for reporting false mortgage data",
+      "url": "https://www.reuters.com/business/bank-america-pays-12-mln-fine-reporting-false-mortgage-data-2023-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/LAnoZ7lucFla3UTcQZwM7w9_o2E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UHMAQ6P3BJJYBNPI6PJHDFNWPQ.jpg"
     },
     {
-      "author": "Suzanne McGee",
-      "description": "Despite growing excitement that spot bitcoin exchange-traded funds (ETFs) will soon win regulatory approval, some cryptocurrency ETF pioneers plan to sit out what is expected to be a fierce industry battle for market share.",
-      "publishedAt": "2023-11-28T11:06:18Z",
-      "title": "In spot bitcoin ETF race, some pioneers stick to the sidelines",
-      "url": "https://www.reuters.com/technology/spot-bitcoin-etf-race-some-pioneers-stick-sidelines-2023-11-28/",
-      "urlToImage": "https://www.reuters.com/resizer/HcptAJJkSp8HpHdex6n8Ks16WzA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CJ7MYCX2U5NHTNNZI4MMFWUTE4.jpg"
+      "author": "Reuters",
+      "description": "Meta Platforms <a href=\"https://www.reuters.com/markets/companies/META.O\" target=\"_blank\">(META.O)</a>, which owns WhatsApp, Instagram and Facebook, said on Tuesday it would appeal a judge's ruling that a U.S. regulator can seek to reduce the amount of money the social media company makes from users under 18.",
+      "publishedAt": "2023-11-28T18:58:24Z",
+      "title": "Meta says it will appeal US judge's ruling in privacy fight with FTC",
+      "url": "https://www.reuters.com/legal/meta-says-it-will-appeal-us-judges-ruling-privacy-fight-with-ftc-2023-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/Gu3b4eSYPNgOtJGBbaz_duv7Bp8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TNXJBQAHB5OZRKQYCGC4UJQQO4.jpg"
     },
     {
-      "author": "Clark Mindock",
-      "description": "A U.S. appeals court on Monday handed 3M <a href=\"https://www.reuters.com/markets/companies/MMM.N\" target=\"_blank\">(MMM.N)</a>, Corteva Inc <a href=\"https://www.reuters.com/markets/companies/CTVA.N\" target=\"_blank\">(CTVA.N)</a> subsidiary E.I. du Pont de Nemours and Co and other manufactures of toxic so-called \"forever chemicals\" a big win in their fight against legal liability for the substances, rejecting a lower court's ruling that would have allowed about 11.8 million Ohio residents to sue the companies as a group.",
-      "publishedAt": "2023-11-27T23:47:33Z",
-      "title": "3M, DuPont defeat massive class action over forever chemicals",
-      "url": "https://www.reuters.com/markets/commodities/3m-dupont-defeat-massive-class-action-over-forever-chemicals-2023-11-27/",
-      "urlToImage": "https://www.reuters.com/resizer/8RYp6eIpGSy_7VelpQS92n_ougs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5S27R36LAJKSJLRTCR6BNR7JIM.jpg"
-    },
-    {
-      "author": "Foo Yun Chee",
-      "description": "Meta Platforms' <a href=\"https://www.reuters.com/markets/companies/META.O\" target=\"_blank\">(META.O)</a> paid no-ads subscription service launched in Europe this month faced one of its biggest tests as advocacy group NOYB on Tuesday filed a complaint with an Austrian regulator, saying that it amounted to paying a fee to ensure privacy.",
-      "publishedAt": "2023-11-28T06:14:10Z",
-      "title": "Exclusive: Meta Platforms' paid ad-free service targeted in Austrian privacy complaint",
-      "url": "https://www.reuters.com/technology/meta-platforms-paid-ad-free-service-targeted-austrian-privacy-complaint-2023-11-28/",
-      "urlToImage": "https://www.reuters.com/resizer/qZVWNKF6WswDHOOWRhqvSIP41ns=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GRAMMYIM2BNI7HLU6CZSUSZDSU.jpg"
+      "author": "Reuters",
+      "description": "OPEC+ talks on oil policy are difficult, making a further delay to a meeting planned for Thursday possible and also making a rollover a possibility, four OPEC+ sources said on Tuesday.",
+      "publishedAt": "2023-11-28T13:34:49Z",
+      "title": "OPEC+ talks tough, further delay in meeting or rollover possible, sources say",
+      "url": "https://www.reuters.com/markets/commodities/opec-talks-tough-further-delay-meeting-or-rollover-possible-sources-say-2023-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/45XY-Ski1PHOxoPkOQINDaTmItA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OIPTI4NZMFKY3HLEIYSPSQGVDQ.jpg"
     },
     {
       "author": "Nidal Al-Mughrabi, Emily Rose",
@@ -65,20 +65,20 @@
       "urlToImage": "https://www.reuters.com/resizer/OOLnr1Y9Spo02mH5KRdMgE2_pDk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3R4ITXG2YVOTBIM7GADN5TTXH4.jpg"
     },
     {
-      "author": "Valerie Volcovici",
-      "description": "In Texas, oil and gas producer Occidental Petroleum <a href=\"https://www.reuters.com/markets/companies/OXY.N\" target=\"_blank\">(OXY.N)</a> is constructing a giant facility to suck 500,000 tonnes of carbon dioxide out of the atmosphere annually to keep it from warming the climate, a project backed by hundreds of millions of dollars from investment firm BlackRock <a href=\"https://www.reuters.com/markets/companies/BLK.N\" target=\"_blank\">(BLK.N)</a>.",
-      "publishedAt": "2023-11-28T11:29:39Z",
-      "title": "Two US projects highlight divide over carbon removal\u2019s role in climate fight",
-      "url": "https://www.reuters.com/sustainability/climate-energy/two-us-projects-highlight-divide-over-carbon-removals-role-climate-fight-2023-11-28/",
-      "urlToImage": "https://www.reuters.com/resizer/Ic68kPYVUgeePpk1eOdvgnxHjYA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARURQLSJ2NMVLNLS2FXRACOEDY.jpg"
+      "author": "Saurabh Sharma",
+      "description": "Indian rescuers on Tuesday pulled out all 41 construction workers trapped for 17 days inside a collapsed tunnel in the Himalayas, hours after drilling through the debris of rock, concrete and earth to reach them.",
+      "publishedAt": "2023-11-28T16:32:14Z",
+      "title": "All trapped Indian workers rescued from Himalayan tunnel, say officials",
+      "url": "https://www.reuters.com/world/india/indian-rescuers-say-very-close-reaching-41-men-trapped-tunnel-2023-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/zXnnietXTJ1DX4mBOrmo0am99YA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FVI5IFS2UNMX5BIEUJ724XQ65A.jpg"
     },
     {
-      "author": "Laurie Chen, Jessie Pang",
-      "description": "One year after \"white paper\" protests flared across China against stringent COVID restrictions, Yicheng Huang fears this rare show of public dissent may eventually be forgotten by the Chinese public amid state censorship.",
-      "publishedAt": "2023-11-28T10:43:38Z",
-      "title": "One year on, China's COVID protesters caught between hope and apathy",
-      "url": "https://www.reuters.com/world/china/one-year-chinas-covid-protesters-caught-between-hope-apathy-2023-11-28/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=163"
+      "author": "Reuters",
+      "description": "The wife of Ukraine's military intelligence chief has been poisoned with heavy metals, several Ukrainian media outlets reported on Tuesday, citing unnamed intelligence sources.",
+      "publishedAt": "2023-11-28T11:36:50Z",
+      "title": "Ukrainian spy chief's wife poisoned, media reports say",
+      "url": "https://www.reuters.com/world/europe/ukrainian-spy-chiefs-wife-poisoned-media-reports-say-2023-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/L2RsbadFaKPMNjSLr79j53aDHf4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7JYLW5KJEVPO7LUP5SCLTDUCQE.jpg"
     }
   ],
   "sortBy": "top",
