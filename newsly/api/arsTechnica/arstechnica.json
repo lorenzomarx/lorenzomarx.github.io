@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Downloader app suspended by DMCA notice that didn't list any copyrighted works.",
+      "publishedAt": "2023-11-27T23:10:47+00:00",
+      "title": "Google Play keeps banning the same web browser due to vague DMCA notices",
+      "url": "https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/downloader-browser-760x380.png"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Reports caused alarm, but experts say it looks like a post-COVID germ comeback.",
+      "publishedAt": "2023-11-27T23:03:28+00:00",
+      "title": "\u201cMystery\u201d pneumonia in China is mix of common respiratory germs, WHO says",
+      "url": "https://arstechnica.com/health/2023/11/chinas-mystery-outbreak-likely-a-post-covid-surge-of-common-winter-germs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1800064703-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Given GPU and patience, SVD can turn any image into a 2-second video clip.",
+      "publishedAt": "2023-11-27T20:28:30+00:00",
+      "title": "New \u201cStable Video Diffusion\u201d AI model can animate any still image",
+      "url": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/svd_hero_2-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "Playing Warcraft in a browser, using a controller, somehow feels\u2026 okay?",
       "publishedAt": "2023-11-27T19:50:13+00:00",
@@ -26,7 +50,7 @@
     },
     {
       "author": "Ron Amadeo",
-      "description": "Display \"bumps\" are screw heads and other components pushing into the OLED panel.",
+      "description": "Display \"bumps\" are components pushing into the OLED panel.",
       "publishedAt": "2023-11-27T19:04:17+00:00",
       "title": "Google says bumpy Pixel 8 screens are nothing to worry about",
       "url": "https://arstechnica.com/gadgets/2023/11/google-says-bumpy-pixel-8-screens-are-nothing-to-worry-about/",
@@ -55,30 +79,6 @@
       "title": "The 2024 Alfa Romeo Tonale is a confoundingly charming plug-in hybrid",
       "url": "https://arstechnica.com/cars/2023/11/the-2024-alfa-romeo-tonale-is-a-confoundingly-charming-plug-in-hybrid/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/2024-Alfa-Romeo-Tonale-1-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Further research involves building a \"bat porn box\" to catch more mating acts on camera.",
-      "publishedAt": "2023-11-27T16:45:24+00:00",
-      "title": "Study: The serotine bat uses its super-large penis as an arm when mating",
-      "url": "https://arstechnica.com/science/2023/11/the-strange-sex-life-of-the-serotine-bat/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/batpenis2-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "We don't really know what can cause repeated outbursts of this sort.",
-      "publishedAt": "2023-11-27T16:21:05+00:00",
-      "title": "\u201cTasmanian Devil\u201d event has the power of hundreds of billions of Suns",
-      "url": "https://arstechnica.com/science/2023/11/tasmanian-devil-event-has-the-power-of-hundreds-of-billions-of-suns/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/image-3-760x380.jpeg"
-    },
-    {
-      "author": "Christian Elliott, Undark Magazine",
-      "description": "Educating local residents about the risks carries challenges.",
-      "publishedAt": "2023-11-27T14:42:05+00:00",
-      "title": "Complex, volatile coast makes preparing for tsunamis tough in Alaska",
-      "url": "https://undark.org/2023/11/27/alaska-tsunami/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/1964-3-760x380.jpg"
     }
   ],
   "sortBy": "top",
