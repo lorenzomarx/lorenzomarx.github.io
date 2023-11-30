@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Easy-to-exploit flaw can give hackers passwords and cryptographic keys to vulnerable servers.",
+      "publishedAt": "2023-11-29T00:38:34+00:00",
+      "title": "ownCloud vulnerability with maximum 10 severity score comes under \u201cmass\u201d exploitation",
+      "url": "https://arstechnica.com/security/2023/11/owncloud-vulnerability-with-a-maximum-10-severity-rating-comes-under-mass-exploitation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Morton Allport acquired his specimens through networks and sometimes grave-robbing",
+      "publishedAt": "2023-11-29T00:01:55+00:00",
+      "title": "A Victorian naturalist traded aboriginal remains in a scientific quid pro quo",
+      "url": "https://arstechnica.com/science/2023/11/a-victorian-naturalist-traded-aboriginal-remains-in-a-scientific-quid-pro-quo/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/tasmania5CROP-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "AI applications like the Ekobot may help the people and the environment.",
+      "publishedAt": "2023-11-28T23:09:24+00:00",
+      "title": "Mother plucker: Steel fingers guided by AI pluck weeds rapidly and autonomously",
+      "url": "https://arstechnica.com/information-technology/2023/11/mother-plucker-steel-fingers-guided-by-ai-pluck-weeds-rapidly-and-autonomously/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/ekobot_hero_1-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Male organizer also accused of secretly running female coder Instagram account.",
+      "publishedAt": "2023-11-28T21:09:11+00:00",
+      "title": "Backlash over fake female speakers shuts down developer conference",
+      "url": "https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-157168572-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The US already lags far behind China and Europe, but we're going too fast, dealers say.",
+      "publishedAt": "2023-11-28T20:42:14+00:00",
+      "title": "Car dealers say they can\u2019t sell EVs, tell Biden to slow their rollout",
+      "url": "https://arstechnica.com/cars/2023/11/car-dealers-say-they-cant-sell-evs-tell-biden-to-slow-their-rollout/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sad-unplugged-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "USPS \"agreement with Amazon is interfering with timely deliveries,\" senator says.",
+      "publishedAt": "2023-11-28T20:33:13+00:00",
+      "title": "Amazon packages reportedly overwhelm small post offices, delaying other mail",
+      "url": "https://arstechnica.com/tech-policy/2023/11/amazon-packages-reportedly-overwhelm-small-post-offices-delaying-other-mail/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/amazon-post-office-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Google tells users to not delete local Drive profile data while it investigates.",
+      "publishedAt": "2023-11-28T19:05:30+00:00",
+      "title": "Google Drive users say Google lost their files; Google is investigating",
+      "url": "https://arstechnica.com/gadgets/2023/11/google-drive-is-investigating-sync-issues-as-users-complain-of-lost-files/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Google-Drive-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "\"Unnoticed and eternally active acts of theft and violence\" to be fixed soon.",
       "publishedAt": "2023-11-28T18:07:06+00:00",
@@ -23,62 +79,6 @@
       "title": "Microsoft\u2019s ugly sweater for 2023 is Windows XP\u2019s iconic default wallpaper",
       "url": "https://arstechnica.com/gadgets/2023/11/windows-xps-bliss-hill-is-on-this-years-ugly-microsoft-holiday-sweater/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Bliss-Ugly-Sweaters-Image-760x380.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Management says high costs and low productivity are a big problem.",
-      "publishedAt": "2023-11-28T14:48:40+00:00",
-      "title": "Job losses likely at VW as the people\u2019s car brand becomes uncompetitive",
-      "url": "https://arstechnica.com/cars/2023/11/job-losses-likely-at-vw-as-the-peoples-car-brand-becomes-uncompetitive/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/DB2021AL01060_medium-760x380.jpg"
-    },
-    {
-      "author": "Tim Bradshaw, Financial Times",
-      "description": "\u201cThe best data... suggests that there is not a global link between these factors.\"",
-      "publishedAt": "2023-11-28T14:27:24+00:00",
-      "title": "Study finds no \u201csmoking gun\u201d for mental health issues due to Internet usage",
-      "url": "https://www.ft.com/content/e5dcdbf4-a914-4216-b212-ec1b362692e2",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/teenager-smartphone-760x380.jpg"
-    },
-    {
-      "author": "Simon Nguyen",
-      "description": "Amp up your smartphone gaming experience with these game controllers.",
-      "publishedAt": "2023-11-28T14:00:08+00:00",
-      "title": "Guidemaster: Game controllers to turn your smartphone into a mobile gaming machine",
-      "url": "https://arstechnica.com/gadgets/2023/11/guidemaster-game-controllers-to-turn-your-smartphone-into-a-mobile-gaming-machine/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/kishi-v2-05-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "New data confirms the existence of a \"snow line\" in planet-forming disks.",
-      "publishedAt": "2023-11-28T13:00:48+00:00",
-      "title": "Data from NASA\u2019s Webb Telescope backs up ideas on planet formation",
-      "url": "https://arstechnica.com/science/2023/11/data-from-nasas-webb-telescope-backs-up-ideas-on-planet-formation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/image-4-760x380.jpeg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Chipmaker claims breach had no \"material adverse effect.\"",
-      "publishedAt": "2023-11-28T12:56:49+00:00",
-      "title": "Hackers spent 2+ years looting secrets of chipmaker NXP before being detected",
-      "url": "https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-760x380.jpeg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "This was one of the final exams for Ariane 6 before its long-delayed debut.",
-      "publishedAt": "2023-11-28T12:38:37+00:00",
-      "title": "Seven-minute hotfire test moves Europe\u2019s Ariane 6 rocket closer to flight",
-      "url": "https://arstechnica.com/space/2023/11/seven-minute-hotfire-test-moves-europes-ariane-6-rocket-closer-to-flight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/ariane6hotfire-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Downloader app suspended by DMCA notice that didn't list any copyrighted works.",
-      "publishedAt": "2023-11-27T23:10:47+00:00",
-      "title": "Google Play keeps banning the same web browser due to vague DMCA notices",
-      "url": "https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/downloader-browser-760x380.png"
     }
   ],
   "sortBy": "top",
