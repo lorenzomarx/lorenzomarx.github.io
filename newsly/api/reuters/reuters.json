@@ -1,12 +1,44 @@
 {
   "articles": [
     {
+      "author": "Shristi A, Amruta Khandekar",
+      "description": "Wall Street's three main indexes rose on Wednesday as U.S. Treasury yields slipped to multi-month lows on growing rate cut optimism, while latest data on economic growth fueled hopes of a soft landing.",
+      "publishedAt": "2023-11-29T15:51:41Z",
+      "title": "Wall St gains on rate cut prospects, soft landing hopes",
+      "url": "https://www.reuters.com/markets/us/futures-rise-growing-bets-rate-cuts-next-year-2023-11-29/",
+      "urlToImage": "https://www.reuters.com/resizer/J7WETHJIZUQQmBE06bsZCwxitvA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6YX5O3232NPZBJSC6IS5SU6Z4A.jpg"
+    },
+    {
+      "author": "Lucia Mutikani",
+      "description": "The U.S. economy grew faster than initially thought in the third quarter as businesses built more warehouses and accumulated machinery equipment, but momentum appears to have since waned as higher borrowing costs curb hiring and spending.",
+      "publishedAt": "2023-11-29T15:41:18Z",
+      "title": "US third-quarter growth revised higher; corporate profits rise strongly",
+      "url": "https://www.reuters.com/markets/us/us-third-quarter-economic-growth-revised-up-52-2023-11-29/",
+      "urlToImage": "https://www.reuters.com/resizer/QmDjsTkAcPRBBd-DBX1RqmcpVis=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/74QBYKVBCZIJTJ3DQYKT4KV3NE.jpg"
+    },
+    {
+      "author": "Martin Coulter",
+      "description": "Google DeepMind has used artificial intelligence (AI) to predict the structure of more than 2 million new materials, a breakthrough it said could soon be used to improve real-world technologies.",
+      "publishedAt": "2023-11-29T16:05:39Z",
+      "title": "Google DeepMind AI reveals potential for thousands of new materials",
+      "url": "https://www.reuters.com/technology/google-deepmind-ai-reveals-potential-thousands-new-materials-2023-11-29/",
+      "urlToImage": "https://www.reuters.com/resizer/gnw4be4MINSktPQFDoOAevFHNkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I3WWQHWNQVMJRMAD6E5N6O3YJE.jpg"
+    },
+    {
       "author": "David Shepardson",
       "description": "General Motors <a href=\"https://www.reuters.com/markets/companies/GM.N\" target=\"_blank\">(GM.N)</a> said on Wednesday it will buy back $10 billion in shares and boost its dividend by 33%, even as it cuts spending at its troubled robotaxi unit Cruise and lowered profit expectations following the lengthy auto workers' strike.",
       "publishedAt": "2023-11-29T11:39:50Z",
       "title": "GM to buy back $10 billion in shares, cut Cruise spending",
       "url": "https://www.reuters.com/business/autos-transportation/gm-buy-back-10-billion-shares-cut-cruise-spending-2023-11-29/",
       "urlToImage": "https://www.reuters.com/resizer/q4Wv6hu0TlyFbtwqd0ISVnB2JpQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LQGKMUQBHNPSBPUMSOFTO2NNMI.jpg"
+    },
+    {
+      "author": "Foo Yun Chee",
+      "description": "European Commission lawyers initially opposed sending a warning to Amazon <a href=\"https://www.reuters.com/markets/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> over its $1.4 billion acquisition of robot vacuum maker iRobot <a href=\"https://www.reuters.com/markets/companies/IRBT.O\" target=\"_blank\">(IRBT.O)</a>, three people with direct knowledge of the matter said on Wednesday.",
+      "publishedAt": "2023-11-29T17:46:32Z",
+      "title": "EU Commission lawyers initially opposed warning Amazon on iRobot deal - sources",
+      "url": "https://www.reuters.com/markets/deals/eu-commission-lawyers-initially-opposed-warning-amazon-irobot-deal-sources-2023-11-29/",
+      "urlToImage": "https://www.reuters.com/resizer/A4Io7XBCBaP4LxyFsa6Mz_gCpqM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VXOKSU5CDNOQNLM4PYHH323FPQ.jpg"
     },
     {
       "author": "Andrew Chung, John Kruzel",
@@ -17,44 +49,12 @@
       "urlToImage": "https://www.reuters.com/resizer/Jvdz88GffsNEn_2QQVw07wiimaU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AL4Y36Y4HROH7F5ASBV4JTQ2EI.jpg"
     },
     {
-      "author": "Reuters",
-      "description": "Philips <a href=\"https://www.reuters.com/markets/companies/PHG.AS\" target=\"_blank\">(PHG.AS)</a> shares fell more than 6% on Wednesday after the U.S. Food and Drug Administration <a href=\"https://www.fda.gov/medical-devices/safety-communications/carefully-monitor-philips-dreamstation-2-cpap-machines-signs-overheating-fda-safety-communication\" target=\"_blank\">said</a> it is alerting patients about a new safety issue with machines made by the group that are used for treatment of obstructive sleep apnea.",
-      "publishedAt": "2023-11-29T08:54:10Z",
-      "title": "US FDA flags new problem with Philips machines, shares fall",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-cautions-use-philips-sleep-apnea-machines-2023-11-28/",
-      "urlToImage": "https://www.reuters.com/resizer/btFNZ-w4qDXRbuHSYh9yqUBGuUc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DA5MMGAQMFJDLPXT657G6F7XUA.jpg"
-    },
-    {
-      "author": "Leigh Thomas",
-      "description": "The global economy will slow slightly next year but the risk of a hard landing has subsided despite high levels of debt and uncertainty over interest rates, the Organisation for Economic Cooperation and Development said on Wednesday.",
-      "publishedAt": "2023-11-29T10:08:51Z",
-      "title": "Global growth to slow but avoid a hard landing - OECD",
-      "url": "https://www.reuters.com/markets/global-growth-slow-avoid-hard-landing-oecd-2023-11-29/",
-      "urlToImage": "https://www.reuters.com/resizer/aMUjPYsqYafAu-5qZD2S3wwtEk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XI7MXELNE5JB7ALGINGDC7UFNA.jpg"
-    },
-    {
-      "author": "Julie Zhu, Zhuzhu Cui",
-      "description": "Huawei Technologies' (HWT.UL) new smart car software and components firm is set for a valuation of up to 250 billion yuan ($34.67 billion) after it sells stakes to investors including Changan Auto, three people with knowledge of the matter said.",
-      "publishedAt": "2023-11-29T06:43:57Z",
-      "title": "Exclusive: Huawei's new smart car firm valued up to $35 bln amid advanced stake talks -sources",
-      "url": "https://www.reuters.com/business/autos-transportation/huaweis-new-smart-car-firm-valued-up-35-bln-amid-advanced-stake-talks-sources-2023-11-29/",
-      "urlToImage": "https://www.reuters.com/resizer/5LY5sez9wCyjOWgx9PhDVC6mqWM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CZYX7KX6PVN7FBKH7FCYPMIGAY.jpg"
-    },
-    {
-      "author": "Maha Dahan, Olesya Astakhova, Alex Lawler",
-      "description": "OPEC+ is continuing to hold talks on 2024 oil policy, with no delay to a meeting scheduled for Thursday currently expected, two sources from the producer group said on Wednesday.",
-      "publishedAt": "2023-11-29T09:20:58Z",
-      "title": "OPEC+ talks continue, no meeting delay currently expected, sources say",
-      "url": "https://www.reuters.com/markets/commodities/opec-talks-continue-no-meeting-delay-currently-expected-sources-say-2023-11-29/",
-      "urlToImage": "https://www.reuters.com/resizer/siZNdjLPohYxtgFOTSsLldciUxg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/43CINHPW6NNZTARWMJKDQVB6RI.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "Uber <a href=\"https://www.reuters.com/markets/companies/UBER.N\" target=\"_blank\">(UBER.N)</a> will open up its platform to London's black cabs next year, the ride-hailing firm said on Wednesday, trying to win over the British capital's taxis after a decade of tensions.",
-      "publishedAt": "2023-11-29T09:06:49Z",
-      "title": "Uber tries to win over London black cabs",
-      "url": "https://www.reuters.com/business/autos-transportation/black-cab-u-turn-uber-partner-with-london-cabbies-after-decade-dispute-2023-11-29/",
-      "urlToImage": "https://www.reuters.com/resizer/Vc-k5K5MTRQbLErtQIlK3p8xE3c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T75SUTUBFVK53FC2E4E3ILNQIY.jpg"
+      "author": "Chibuike Oguh",
+      "description": "Shares of German sandal maker Birkenstock <a href=\"https://www.reuters.com/markets/companies/BIRK.N\" target=\"_blank\">(BIRK.N)</a> extended their gains on Wednesday, hitting the initial public offering price for the first time, following a buoyant holiday shopping season.",
+      "publishedAt": "2023-11-29T17:37:27Z",
+      "title": "Birkenstock shares extend rally, hit IPO price for first time",
+      "url": "https://www.reuters.com/markets/deals/birkenstock-shares-extend-rally-hit-ipo-price-first-time-2023-11-29/",
+      "urlToImage": "https://www.reuters.com/resizer/RKfv-M4m2WrAmLwoPGx_-sherQI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HDD4FEIRURPGPHI5SEADTDA3VM.jpg"
     },
     {
       "author": "Nidal Al-Mughrabi, Mohammemd Salem, Henriette Chacar",
@@ -73,11 +73,11 @@
       "urlToImage": "https://www.reuters.com/resizer/kQ-63cmPszkdLlgqTDq6qjzWZow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/REBEWSJBHNJURMCT5WJI5VXMYA.jpg"
     },
     {
-      "author": "Reuters",
-      "description": "A U.S. military Osprey aircraft crashed into the ocean near Japan's Yakushima island on Wednesday with eight people on board, Japan's coast guard said.",
-      "publishedAt": "2023-11-29T06:55:08Z",
-      "title": "US military aircraft crashes into ocean near Japan's Yakushima island - coast guard",
-      "url": "https://www.reuters.com/world/us-military-aircraft-crashes-into-ocean-near-japans-yakushima-island-jiji-2023-11-29/",
+      "author": "Luc Cohen",
+      "description": "The United States has charged an Indian national with conspiring to assassinate a U.S. citizen who advocated for a sovereign state for Sikhs, the U.S. attorney's office in Manhattan said on Wednesday.",
+      "publishedAt": "2023-11-29T15:34:09Z",
+      "title": "US charges Indian national with conspiracy to assassinate Sikh separatist",
+      "url": "https://www.reuters.com/world/us/us-charges-indian-national-with-conspiracy-assassinate-sikh-advocate-2023-11-29/",
       "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=163"
     }
   ],
