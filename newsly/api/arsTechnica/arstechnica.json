@@ -2,6 +2,70 @@
   "articles": [
     {
       "author": "Jon Brodkin",
+      "description": "Accused of violating kids' privacy, Facebook owner challenges FTC authority.",
+      "publishedAt": "2023-11-30T18:50:06+00:00",
+      "title": "Meta sues FTC, hoping to block ban on monetizing kids\u2019 Facebook data",
+      "url": "https://arstechnica.com/tech-policy/2023/11/meta-sues-ftc-hoping-to-block-ban-on-monetizing-kids-facebook-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/facebook-logo-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Meta's terms for data collection are still too vague, consumer groups allege.",
+      "publishedAt": "2023-11-30T18:37:31+00:00",
+      "title": "Meta\u2019s \u201coverpriced\u201d ad-free subscriptions make privacy a \u201cluxury good\u201d: EU suit",
+      "url": "https://arstechnica.com/tech-policy/2023/11/metas-overpriced-ad-free-subscriptions-make-privacy-a-luxury-good-eu-suit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1513207811-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Examining 365 days with OpenAI's bot: The good, the bad, the ugly\u2014and the productive?",
+      "publishedAt": "2023-11-30T17:01:19+00:00",
+      "title": "ChatGPT is one year old. Here\u2019s how it changed the world.",
+      "url": "https://arstechnica.com/information-technology/2023/11/chatgpt-was-the-spark-that-lit-the-fire-under-generative-ai-one-year-ago-today/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chatgpt-1-year-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The consumer advice publication tested 43 EVs to see which added the most miles fastest.",
+      "publishedAt": "2023-11-30T16:11:44+00:00",
+      "title": "Hyundai Ioniq 6 tops list of fastest-charging EVs; Chevy Bolt ranks last",
+      "url": "https://arstechnica.com/cars/2023/11/hyundais-ioniq-6-and-kias-ev6-are-fastest-fast-charging-evs-edmunds-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1182290682-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Altman forgives Sutskever; Microsoft will serve observer role on new OpenAI board.",
+      "publishedAt": "2023-11-30T14:37:58+00:00",
+      "title": "Sam Altman officially back as OpenAI CEO: \u201cWe didn\u2019t lose a single employee\u201d",
+      "url": "https://arstechnica.com/information-technology/2023/11/sam-altman-officially-back-as-openai-ceo-we-didnt-lose-a-single-employee/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/openai_iceblue_hero-760x380.jpg"
+    },
+    {
+      "author": "Qianer Liu, Financial Times",
+      "description": "China's flagship smartphone maker pulled off the feat despite sanctions.",
+      "publishedAt": "2023-11-30T14:37:39+00:00",
+      "title": "How Huawei made a cutting-edge chip in China and surprised the US",
+      "url": "https://www.ft.com/content/327414d2-fe13-438e-9767-333cdb94c7e1",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/huawei-9-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "It's not the first time the regulatory agency chided the chemical company for this.",
+      "publishedAt": "2023-11-30T13:13:27+00:00",
+      "title": "FDA warns chemical company not to mix brake cleaner into hand sanitizer",
+      "url": "https://arstechnica.com/health/2023/11/fda-warns-chemical-company-not-to-mix-brake-cleaner-into-hand-sanitizer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/getty-hand-soap-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Pendulumania is a testament to addictive game design and Windows app portability.",
+      "publishedAt": "2023-11-30T12:00:35+00:00",
+      "title": "My long quest to revive a \u201990s Windows gaming cult classic",
+      "url": "https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/pmaniabenj-760x380.png"
+    },
+    {
+      "author": "Jon Brodkin",
       "description": "Musk says X advertiser backlash is \"going to kill the company.\"",
       "publishedAt": "2023-11-30T00:53:46+00:00",
       "title": "Elon Musk on X antisemitism controversy: \u201cDon\u2019t advertise. Go f*** yourself\u201d",
@@ -10,75 +74,11 @@
     },
     {
       "author": "Dan Goodin",
-      "description": "The facilities, in Pennsylvania and Texas, serve more than 2 million residents.",
+      "description": "The facilities in Pennsylvania and Texas serve more than 2 million residents.",
       "publishedAt": "2023-11-30T00:42:01+00:00",
       "title": "2 municipal water facilities report falling to hackers in separate breaches",
       "url": "https://arstechnica.com/security/2023/11/2-municipal-water-facilities-report-falling-to-hackers-in-separate-breaches/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/municipal-water-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "No turning back? We can expect even more launches worldwide next year.",
-      "publishedAt": "2023-11-29T23:18:15+00:00",
-      "title": "2023 has been another year with a record number of orbital launches",
-      "url": "https://arstechnica.com/space/2023/11/2023-has-been-another-year-with-a-record-number-of-orbital-launches/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1661233331-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "US may take twice as long as Biden expects to build its own chip supply chain.",
-      "publishedAt": "2023-11-29T22:35:40+00:00",
-      "title": "Nvidia CEO: US chip independence may take 20 years to achieve",
-      "url": "https://arstechnica.com/tech-policy/2023/11/nvidia-ceo-us-chip-independence-may-take-20-years-to-achieve/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1820547400-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Package includes GTA 3, GTA Vice City, and GTA San Andreas.",
-      "publishedAt": "2023-11-29T22:14:04+00:00",
-      "title": "Netflix lands its first big-name games with Grand Theft Auto trilogy",
-      "url": "https://arstechnica.com/gaming/2023/11/netflix-lands-its-first-big-name-games-with-grand-theft-auto-trilogy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GTAT_TDE_Netflix_HorizontalArtwork_Texted_R01__1_-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Google previously threatened to remove Canadian news links from search and News.",
-      "publishedAt": "2023-11-29T21:47:18+00:00",
-      "title": "Google to pay Canada\u2019s \u201clink tax,\u201d drops threat of removing news from search",
-      "url": "https://arstechnica.com/tech-policy/2023/11/google-to-pay-canadas-link-tax-drops-threat-of-removing-news-from-search/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/canada-flag-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Even at home, SDXL Turbo can create detailed images with startling speed.",
-      "publishedAt": "2023-11-29T21:20:22+00:00",
-      "title": "Stable Diffusion XL Turbo can generate AI images as fast as you can type",
-      "url": "https://arstechnica.com/information-technology/2023/11/stable-diffusion-turbo-xl-accelerates-image-synthesis-with-one-step-generation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sdxl_turbo_4-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Study finds lower impact from widely spread-out teams, but is it cause or effect?",
-      "publishedAt": "2023-11-29T20:50:58+00:00",
-      "title": "Are big international teams leaving creativity out of science?",
-      "url": "https://arstechnica.com/science/2023/11/are-big-international-teams-leaving-creativity-out-of-science/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1370321269-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Brands demand transparency from Google after ads spotted in undesirable places.",
-      "publishedAt": "2023-11-29T20:29:20+00:00",
-      "title": "Google caught placing big-brand ads on hardcore porn sites, report says",
-      "url": "https://arstechnica.com/tech-policy/2023/11/google-caught-placing-big-brand-ads-on-sites-report-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-124952005-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Downloader app was suspended twice despite clear problems in DMCA notices.",
-      "publishedAt": "2023-11-29T19:31:49+00:00",
-      "title": "Web browser suspended because it can browse the web is back on Google Play",
-      "url": "https://arstechnica.com/tech-policy/2023/11/google-reverses-latest-ban-on-web-browser-after-another-bogus-dmca-takedown/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/google-logo-760x380.jpg"
     }
   ],
   "sortBy": "top",
