@@ -1,10 +1,74 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "Stars this small shouldn't make planets this big.",
+      "publishedAt": "2023-12-01T17:38:00+00:00",
+      "title": "Neptune-sized exoplanet is too big for its host star",
+      "url": "https://arstechnica.com/science/2023/12/neptune-sized-exoplanet-is-too-big-for-its-host-star/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Chris Hemsworth rocking his Aussie accent as a demented biker-gang warlord? Yes, please!",
+      "publishedAt": "2023-12-01T17:05:26+00:00",
+      "title": "What a lovely day: Furiosa: A Mad Max Saga trailer is so shiny and chrome",
+      "url": "https://arstechnica.com/culture/2023/12/furiosa-a-mad-max-saga-trailer-we-are-ready-to-witness-this-origin-story/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/furiosa1-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "\"Elon's interview was candid and profound,\" Yaccarino writes in memo to staff.",
+      "publishedAt": "2023-12-01T16:33:51+00:00",
+      "title": "X advertisers stay away as CEO defends Musk\u2019s \u201cgo f*** yourself\u201d interview",
+      "url": "https://arstechnica.com/tech-policy/2023/12/xs-yaccarino-calls-musk-candid-and-profound-after-go-f-yourself-tirade/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/linda-yaccarino-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "16.5% of new car sales are compact crossovers, but only 6% of those are EVs.",
+      "publishedAt": "2023-12-01T16:16:37+00:00",
+      "title": "Automakers must build cheaper, smaller EVs to spur adoption, report says",
+      "url": "https://arstechnica.com/cars/2023/12/automakers-must-build-cheaper-smaller-evs-to-spur-adoption-report-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1756050492-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "It moves the reduction gear and CV joint to the wheel hub.",
+      "publishedAt": "2023-12-01T15:46:53+00:00",
+      "title": "Hyundai and Kia completely rethink the EV drive unit with Uni Wheel idea",
+      "url": "https://arstechnica.com/cars/2023/12/hyundai-and-kia-completely-rethink-the-ev-drive-unit-with-uni-wheel-idea/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/57947-HyundaiMotorandKiaUnveilParadigm-ShiftingUniWheelDriveSystemtoTransformMobilityDesign-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Back away from your cantaloupe if you don't know the brand, the CDC warns.",
+      "publishedAt": "2023-12-01T15:32:24+00:00",
+      "title": "Severe outbreak tied to cantaloupe sickens 117 in 34 states; half hospitalized",
+      "url": "https://arstechnica.com/health/2023/12/cdc-warns-of-severe-cantaloupe-linked-outbreak-117-cases-in-34-states/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1330064011-760x380.jpeg"
+    },
+    {
+      "author": "Michael Acton, Financial Times",
+      "description": "Judge rules state was trying to target China rather than protect Montana residents.",
+      "publishedAt": "2023-12-01T14:35:21+00:00",
+      "title": "Montana\u2019s TikTok ban blocked by federal judge",
+      "url": "https://www.ft.com/content/0d394d9e-52a1-4b91-8f0a-8547d44e59f7",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1249959127-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Firefly Aerospace has announced a major milestone for its new medium-lift rocket.",
+      "publishedAt": "2023-12-01T12:00:43+00:00",
+      "title": "Rocket Report: A mysterious explosion in China; Firefly tests new engine",
+      "url": "https://arstechnica.com/space/2023/12/rocket-report-a-mysterious-explosion-in-china-firefly-tests-new-engine/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/explosion_jiuquan-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Discoveries made by Google's Threat Analysis Group, which tracks nation-state hacking.",
       "publishedAt": "2023-12-01T00:38:29+00:00",
-      "title": "Google researchers report critical zero-days in Chrome and all Apple OSes",
+      "title": "Google researchers report critical 0-days in Chrome and all Apple OSes",
       "url": "https://arstechnica.com/security/2023/11/google-researchers-report-critical-zero-days-in-chrome-and-all-apple-oses/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/zeroday-760x380.jpg"
     },
@@ -15,70 +79,6 @@
       "title": "Steam drops macOS Mojave support, effectively ending life for many 32-bit games",
       "url": "https://arstechnica.com/gadgets/2023/11/steam-drops-macos-mojave-support-effectively-ending-life-for-many-32-bit-games/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/Mojave-Day-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Solo inventor says he's not out to replace gears, just offer an alternative.",
-      "publishedAt": "2023-11-30T22:13:42+00:00",
-      "title": "Automatic bike transmission concept is wild and spiky\u2014and could be a big shift",
-      "url": "https://arstechnica.com/cars/2023/11/automatic-bike-transmission-concept-is-wild-and-spiky-and-could-be-a-big-shift/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Front-Assembly-Back-Side-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Tesla handed over the first 10 trucks to customers, with more deliveries in 2024.",
-      "publishedAt": "2023-11-30T21:51:41+00:00",
-      "title": "Elon\u2019s Edsel? The Tesla Cybertruck went on sale today",
-      "url": "https://arstechnica.com/cars/2023/11/the-tesla-cybertruck-finally-goes-on-sale-starting-at-60990/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/2024-Tesla-Cybertruck-in-a-showroom-1-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "\"Edit: Obligatory 'F--- Spez' for karma.\"",
-      "publishedAt": "2023-11-30T21:25:41+00:00",
-      "title": "Reddit updates look after rough 6 months and ahead of reported IPO",
-      "url": "https://arstechnica.com/gadgets/2023/11/reddit-updates-look-after-rough-6-months-and-ahead-of-reported-ipo/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/reddit_logo_before_after-2_2023-11-28-223727_cypp-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The rule could generate up to $34.8 billion in health benefits each year.",
-      "publishedAt": "2023-11-30T19:31:55+00:00",
-      "title": "Millions of lead pipes would finally be ripped out under proposed EPA rule",
-      "url": "https://arstechnica.com/health/2023/11/bidens-epa-proposes-water-rule-to-finally-ditch-lead-pipes-within-10-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1236146153-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple will be \"first and largest customer\" at new $2 billion packaging facility.",
-      "publishedAt": "2023-11-30T19:25:43+00:00",
-      "title": "New chip-packaging facility could save TSMC\u2019s Arizona fab from \u201cpaperweight\u201d status",
-      "url": "https://arstechnica.com/tech-policy/2023/11/new-chip-packaging-facility-could-save-tsmcs-arizona-fab-from-paperweight-status/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Apple-M3-chip-series_screen-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Any accounts lined up for deletion should have gotten warning emails by now.",
-      "publishedAt": "2023-11-30T18:59:11+00:00",
-      "title": "The Great Google Account Purge starts tomorrow for inactive users",
-      "url": "https://arstechnica.com/gadgets/2023/11/inactive-google-account-deletions-start-december-1/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/google-cloud-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Accused of violating kids' privacy, Facebook owner challenges FTC authority.",
-      "publishedAt": "2023-11-30T18:50:06+00:00",
-      "title": "Meta sues FTC, hoping to block ban on monetizing kids\u2019 Facebook data",
-      "url": "https://arstechnica.com/tech-policy/2023/11/meta-sues-ftc-hoping-to-block-ban-on-monetizing-kids-facebook-data/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/facebook-logo-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Meta's terms for data collection are still too vague, consumer groups allege.",
-      "publishedAt": "2023-11-30T18:37:31+00:00",
-      "title": "Meta\u2019s \u201coverpriced\u201d ad-free subscriptions make privacy a \u201cluxury good\u201d: EU suit",
-      "url": "https://arstechnica.com/tech-policy/2023/11/metas-overpriced-ad-free-subscriptions-make-privacy-a-luxury-good-eu-suit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1513207811-760x380.jpg"
     }
   ],
   "sortBy": "top",
