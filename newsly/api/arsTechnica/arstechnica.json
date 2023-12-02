@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Discoveries made by Google's Threat Analysis Group, which tracks nation-state hacking.",
+      "publishedAt": "2023-12-01T00:38:29+00:00",
+      "title": "Google researchers report critical zero-days in Chrome and all Apple OSes",
+      "url": "https://arstechnica.com/security/2023/11/google-researchers-report-critical-zero-days-in-chrome-and-all-apple-oses/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/zeroday-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "After February 15, all bets are off for Steam on High Sierra and Mojave Macs.",
+      "publishedAt": "2023-11-30T23:10:33+00:00",
+      "title": "Steam drops macOS Mojave support, effectively ending life for many 32-bit games",
+      "url": "https://arstechnica.com/gadgets/2023/11/steam-drops-macos-mojave-support-effectively-ending-life-for-many-32-bit-games/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/Mojave-Day-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Solo inventor says he's not out to replace gears, just offer an alternative.",
+      "publishedAt": "2023-11-30T22:13:42+00:00",
+      "title": "Automatic bike transmission concept is wild and spiky\u2014and could be a big shift",
+      "url": "https://arstechnica.com/cars/2023/11/automatic-bike-transmission-concept-is-wild-and-spiky-and-could-be-a-big-shift/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Front-Assembly-Back-Side-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Tesla handed over the first 10 trucks to customers, with more deliveries in 2024.",
+      "publishedAt": "2023-11-30T21:51:41+00:00",
+      "title": "Elon\u2019s Edsel? The Tesla Cybertruck went on sale today",
+      "url": "https://arstechnica.com/cars/2023/11/the-tesla-cybertruck-finally-goes-on-sale-starting-at-60990/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/2024-Tesla-Cybertruck-in-a-showroom-1-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "\"Edit: Obligatory 'F--- Spez' for karma.\"",
+      "publishedAt": "2023-11-30T21:25:41+00:00",
+      "title": "Reddit updates look after rough 6 months and ahead of reported IPO",
+      "url": "https://arstechnica.com/gadgets/2023/11/reddit-updates-look-after-rough-6-months-and-ahead-of-reported-ipo/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/reddit_logo_before_after-2_2023-11-28-223727_cypp-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The rule could generate up to $34.8 billion in health benefits each year.",
+      "publishedAt": "2023-11-30T19:31:55+00:00",
+      "title": "Millions of lead pipes would finally be ripped out under proposed EPA rule",
+      "url": "https://arstechnica.com/health/2023/11/bidens-epa-proposes-water-rule-to-finally-ditch-lead-pipes-within-10-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1236146153-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Apple will be \"first and largest customer\" at new $2 billion packaging facility.",
+      "publishedAt": "2023-11-30T19:25:43+00:00",
+      "title": "New chip-packaging facility could save TSMC\u2019s Arizona fab from \u201cpaperweight\u201d status",
+      "url": "https://arstechnica.com/tech-policy/2023/11/new-chip-packaging-facility-could-save-tsmcs-arizona-fab-from-paperweight-status/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Apple-M3-chip-series_screen-760x380.jpeg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Any accounts lined up for deletion should have gotten warning emails by now.",
+      "publishedAt": "2023-11-30T18:59:11+00:00",
+      "title": "The Great Google Account Purge starts tomorrow for inactive users",
+      "url": "https://arstechnica.com/gadgets/2023/11/inactive-google-account-deletions-start-december-1/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/google-cloud-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Accused of violating kids' privacy, Facebook owner challenges FTC authority.",
       "publishedAt": "2023-11-30T18:50:06+00:00",
@@ -15,70 +79,6 @@
       "title": "Meta\u2019s \u201coverpriced\u201d ad-free subscriptions make privacy a \u201cluxury good\u201d: EU suit",
       "url": "https://arstechnica.com/tech-policy/2023/11/metas-overpriced-ad-free-subscriptions-make-privacy-a-luxury-good-eu-suit/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1513207811-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Examining 365 days with OpenAI's bot: The good, the bad, the ugly\u2014and the productive?",
-      "publishedAt": "2023-11-30T17:01:19+00:00",
-      "title": "ChatGPT is one year old. Here\u2019s how it changed the world.",
-      "url": "https://arstechnica.com/information-technology/2023/11/chatgpt-was-the-spark-that-lit-the-fire-under-generative-ai-one-year-ago-today/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chatgpt-1-year-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The consumer advice publication tested 43 EVs to see which added the most miles fastest.",
-      "publishedAt": "2023-11-30T16:11:44+00:00",
-      "title": "Hyundai Ioniq 6 tops list of fastest-charging EVs; Chevy Bolt ranks last",
-      "url": "https://arstechnica.com/cars/2023/11/hyundais-ioniq-6-and-kias-ev6-are-fastest-fast-charging-evs-edmunds-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1182290682-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Altman forgives Sutskever; Microsoft will serve observer role on new OpenAI board.",
-      "publishedAt": "2023-11-30T14:37:58+00:00",
-      "title": "Sam Altman officially back as OpenAI CEO: \u201cWe didn\u2019t lose a single employee\u201d",
-      "url": "https://arstechnica.com/information-technology/2023/11/sam-altman-officially-back-as-openai-ceo-we-didnt-lose-a-single-employee/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/openai_iceblue_hero-760x380.jpg"
-    },
-    {
-      "author": "Qianer Liu, Financial Times",
-      "description": "China's flagship smartphone maker pulled off the feat despite sanctions.",
-      "publishedAt": "2023-11-30T14:37:39+00:00",
-      "title": "How Huawei made a cutting-edge chip in China and surprised the US",
-      "url": "https://www.ft.com/content/327414d2-fe13-438e-9767-333cdb94c7e1",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/huawei-9-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "It's not the first time the regulatory agency chided the chemical company for this.",
-      "publishedAt": "2023-11-30T13:13:27+00:00",
-      "title": "FDA warns chemical company not to mix brake cleaner into hand sanitizer",
-      "url": "https://arstechnica.com/health/2023/11/fda-warns-chemical-company-not-to-mix-brake-cleaner-into-hand-sanitizer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/getty-hand-soap-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Pendulumania is a testament to addictive game design and Windows app portability.",
-      "publishedAt": "2023-11-30T12:00:35+00:00",
-      "title": "My long quest to revive a \u201990s Windows gaming cult classic",
-      "url": "https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/pmaniabenj-760x380.png"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Musk says X advertiser backlash is \"going to kill the company.\"",
-      "publishedAt": "2023-11-30T00:53:46+00:00",
-      "title": "Elon Musk on X antisemitism controversy: \u201cDon\u2019t advertise. Go f*** yourself\u201d",
-      "url": "https://arstechnica.com/tech-policy/2023/11/elon-musk-on-x-antisemitism-controversy-dont-advertise-go-f-yourself/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/twitter-bird-burial-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "The facilities in Pennsylvania and Texas serve more than 2 million residents.",
-      "publishedAt": "2023-11-30T00:42:01+00:00",
-      "title": "2 municipal water facilities report falling to hackers in separate breaches",
-      "url": "https://arstechnica.com/security/2023/11/2-municipal-water-facilities-report-falling-to-hackers-in-separate-breaches/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/municipal-water-760x380.jpg"
     }
   ],
   "sortBy": "top",
