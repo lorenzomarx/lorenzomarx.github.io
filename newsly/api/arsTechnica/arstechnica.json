@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Ron Amadeo",
+      "description": "When ad blocking is a cat-and-mouse game, make the mouse slower.",
+      "publishedAt": "2023-12-01T23:30:46+00:00",
+      "title": "Chrome\u2019s next weapon in the War on Ad Blockers: Slower extension updates",
+      "url": "https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Google-Monopoly-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Jeff Bezos' rivalry with Elon Musk takes a back seat to Amazon's launch dilemma.",
+      "publishedAt": "2023-12-01T22:59:09+00:00",
+      "title": "A bitter pill: Amazon calls on rival SpaceX to launch Internet satellites",
+      "url": "https://arstechnica.com/space/2023/12/a-bitter-pill-amazon-calls-on-rival-spacex-to-launch-internet-satellites/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/f9preflight21-760x380.jpeg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Add to a charity haul that's already raised over $8,500 in less than a week.",
+      "publishedAt": "2023-12-01T22:23:43+00:00",
+      "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+      "url": "https://arstechnica.com/gaming/2023/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-10/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/charity2023-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Funding calls get increasingly urgent as program would run out of money in April.",
+      "publishedAt": "2023-12-01T21:34:47+00:00",
+      "title": "25M homes will lose broadband discounts if Congress keeps stalling, FCC warns",
+      "url": "https://arstechnica.com/tech-policy/2023/12/25m-homes-will-lose-broadband-discounts-if-congress-keeps-stalling-fcc-warns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-rosenworcel-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "AI chatbot deception paper suggests that some bots (and people) aren't very persuasive.",
+      "publishedAt": "2023-12-01T21:27:35+00:00",
+      "title": "1960s chatbot ELIZA beat OpenAI\u2019s GPT-3.5 in a recent Turing test study",
+      "url": "https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/turing_test_hero-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Broadcom hasn't said how many people will be affected, or much of anything else.",
+      "publishedAt": "2023-12-01T20:16:57+00:00",
+      "title": "Broadcom cuts at least 2,800 VMware jobs following $69 billion acquisition",
+      "url": "https://arstechnica.com/information-technology/2023/12/broadcom-cuts-at-least-2800-vmware-jobs-following-69-billion-acquisition/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/vmware-760x380.jpeg"
+    },
+    {
+      "author": "Kat Friedrich",
+      "description": "We can't experiment with the Universe, but we can make something that works like it.",
+      "publishedAt": "2023-12-01T20:04:05+00:00",
+      "title": "The Universe in a lab: Testing alternate cosmology using a cloud of atoms",
+      "url": "https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-1-760x380.jpeg"
+    },
+    {
       "author": "John Timmer",
       "description": "Stars this small shouldn't make planets this big.",
       "publishedAt": "2023-12-01T17:38:00+00:00",
@@ -23,62 +79,6 @@
       "title": "X advertisers stay away as CEO defends Musk\u2019s \u201cgo f*** yourself\u201d interview",
       "url": "https://arstechnica.com/tech-policy/2023/12/xs-yaccarino-calls-musk-candid-and-profound-after-go-f-yourself-tirade/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/linda-yaccarino-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "16.5% of new car sales are compact crossovers, but only 6% of those are EVs.",
-      "publishedAt": "2023-12-01T16:16:37+00:00",
-      "title": "Automakers must build cheaper, smaller EVs to spur adoption, report says",
-      "url": "https://arstechnica.com/cars/2023/12/automakers-must-build-cheaper-smaller-evs-to-spur-adoption-report-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1756050492-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "It moves the reduction gear and CV joint to the wheel hub.",
-      "publishedAt": "2023-12-01T15:46:53+00:00",
-      "title": "Hyundai and Kia completely rethink the EV drive unit with Uni Wheel idea",
-      "url": "https://arstechnica.com/cars/2023/12/hyundai-and-kia-completely-rethink-the-ev-drive-unit-with-uni-wheel-idea/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/57947-HyundaiMotorandKiaUnveilParadigm-ShiftingUniWheelDriveSystemtoTransformMobilityDesign-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Back away from your cantaloupe if you don't know the brand, the CDC warns.",
-      "publishedAt": "2023-12-01T15:32:24+00:00",
-      "title": "Severe outbreak tied to cantaloupe sickens 117 in 34 states; half hospitalized",
-      "url": "https://arstechnica.com/health/2023/12/cdc-warns-of-severe-cantaloupe-linked-outbreak-117-cases-in-34-states/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1330064011-760x380.jpeg"
-    },
-    {
-      "author": "Michael Acton, Financial Times",
-      "description": "Judge rules state was trying to target China rather than protect Montana residents.",
-      "publishedAt": "2023-12-01T14:35:21+00:00",
-      "title": "Montana\u2019s TikTok ban blocked by federal judge",
-      "url": "https://www.ft.com/content/0d394d9e-52a1-4b91-8f0a-8547d44e59f7",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/GettyImages-1249959127-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Firefly Aerospace has announced a major milestone for its new medium-lift rocket.",
-      "publishedAt": "2023-12-01T12:00:43+00:00",
-      "title": "Rocket Report: A mysterious explosion in China; Firefly tests new engine",
-      "url": "https://arstechnica.com/space/2023/12/rocket-report-a-mysterious-explosion-in-china-firefly-tests-new-engine/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/explosion_jiuquan-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Discoveries made by Google's Threat Analysis Group, which tracks nation-state hacking.",
-      "publishedAt": "2023-12-01T00:38:29+00:00",
-      "title": "Google researchers report critical 0-days in Chrome and all Apple OSes",
-      "url": "https://arstechnica.com/security/2023/11/google-researchers-report-critical-zero-days-in-chrome-and-all-apple-oses/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/zeroday-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "After February 15, all bets are off for Steam on High Sierra and Mojave Macs.",
-      "publishedAt": "2023-11-30T23:10:33+00:00",
-      "title": "Steam drops macOS Mojave support, effectively ending life for many 32-bit games",
-      "url": "https://arstechnica.com/gadgets/2023/11/steam-drops-macos-mojave-support-effectively-ending-life-for-many-32-bit-games/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/Mojave-Day-760x380.jpg"
     }
   ],
   "sortBy": "top",

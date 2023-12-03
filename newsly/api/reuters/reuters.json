@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Mike Scarcella",
+      "description": "Food giants Kraft <a href=\"https://www.reuters.com/markets/companies/KHC.O\" target=\"_blank\">(KHC.O)</a>, General Mills <a href=\"https://www.reuters.com/markets/companies/GIS.N\" target=\"_blank\">(GIS.N)</a>, Kellogg <a href=\"https://www.reuters.com/markets/companies/K.N\" target=\"_blank\">(K.N)</a> and Nestle <a href=\"https://www.reuters.com/markets/companies/NESN.S\" target=\"_blank\">(NESN.S)</a> on Friday won a $17.7 million damages verdict after persuading a Chicago federal jury that they were overcharged for egg products in a price-fixing conspiracy by the biggest U.S. egg producers and industry trade groups.",
+      "publishedAt": "2023-12-01T22:49:29Z",
+      "title": "US jury awards $17.7 mln to Kraft, other producers in egg price-fixing case",
+      "url": "https://www.reuters.com/legal/litigation/us-jury-awards-177-mln-kraft-other-producers-egg-price-fixing-case-2023-12-01/",
+      "urlToImage": "https://www.reuters.com/resizer/MC0Vg0ViPcpqlVFI-SVX-xDdLL4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MAGM22A7DFIJNFV7R2KQ4YBH6U.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "ChatGPT maker OpenAI has delayed the launch of its custom GPT store until early 2024, according to an internal memo seen by Reuters on Friday.",
+      "publishedAt": "2023-12-01T20:23:48Z",
+      "title": "OpenAI delays launch of custom GPT store to early 2024",
+      "url": "https://www.reuters.com/technology/openai-delays-custom-gpt-stores-launch-axios-2023-12-01/",
+      "urlToImage": "https://www.reuters.com/resizer/K6U9-hqyyyJ-y5rDJ9IulPrIYkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LM3JSCCX3FKSZPCNSQIKB55TGM.jpg"
+    },
+    {
+      "author": "Siddharth Cavale, Sheila Dang",
+      "description": "Walmart <a href=\"https://www.reuters.com/markets/companies/WMT.N\" target=\"_blank\">(WMT.N)</a> said on Friday it is not advertising on social media platform X, one of the latest brands to say it has dropped the Elon Musk-owned site.",
+      "publishedAt": "2023-12-01T19:08:20Z",
+      "title": "Walmart says it is not advertising on social platform X",
+      "url": "https://www.reuters.com/business/retail-consumer/walmart-says-it-is-not-advertising-social-platform-x-2023-12-01/",
+      "urlToImage": "https://www.reuters.com/resizer/OPF0mS7oIcPFy14mlpVY1371KJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z7SHS4CWB5OJ7OF4ZB5BFM7EB4.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "A SpaceX Falcon 9 rocket carried South Korea's first spy satellite into orbit on Friday from California's Vandenberg Space Force Base, after North Korea successfully launched its own military reconnaissance satellite last month.",
+      "publishedAt": "2023-12-01T22:03:38Z",
+      "title": "SpaceX launches South Korean spy satellite from California",
+      "url": "https://www.reuters.com/technology/space/spacex-launches-south-korean-spy-satellite-california-2023-12-01/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=165"
+    },
+    {
+      "author": "David Randall",
+      "description": "As U.S. stocks sit on hefty gains at the close of a rollercoaster year, investors are eyeing factors that could sway equities in the remaining weeks of 2023, including tax loss selling and the so-called Santa Claus rally.",
+      "publishedAt": "2023-12-02T00:03:23Z",
+      "title": "Wall St Week Ahead Tax-loss selling, 'Santa rally' could sway U.S. stocks after November melt-up",
+      "url": "https://www.reuters.com/markets/us/wall-st-week-ahead-tax-loss-selling-santa-rally-could-sway-us-stocks-after-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/Av-yhj-cWLYP8t9Xcy_EAI8-_qY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EHERIPYOSJMP7EABBHCIMB2GIQ.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "Amazon <a href=\"https://www.reuters.com/markets/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> has signed an agreement with SpaceX to launch three of Elon Musk's Falcon 9 rockets to support deployment plans for its Project Kuiper, the ecommerce giant said on Friday.",
+      "publishedAt": "2023-12-01T20:01:47Z",
+      "title": "Amazon to use Falcon 9 rockets of SpaceX for Project Kuiper",
+      "url": "https://www.reuters.com/technology/space/amazon-launch-three-falcon-9-rockets-spacex-2023-12-01/",
+      "urlToImage": "https://www.reuters.com/resizer/d9YlDPl4z35oMj5tO8iUanIk3RM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DPW5MVTXMJLQVDIKMM7GCRHZ34.jpg"
+    },
+    {
       "author": "Reuters",
       "description": "U.S. manufacturing remained subdued in November, according to a survey on Friday that also showed factory employment declining.",
       "publishedAt": "2023-12-01T15:29:23Z",
@@ -9,52 +57,12 @@
       "urlToImage": "https://www.reuters.com/resizer/ASk15TIWq6ox7eac9BdQyrHGX20=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QP67GMGGLRO5VJ4QUXUFECDJKE.jpg"
     },
     {
-      "author": "Samrhitha A, Chavi Mehta",
-      "description": "Tesla shares <a href=\"https://www.reuters.com/markets/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> fell more than 3% on Friday after the highly anticipated launch of its Cybertruck left analysts concerned about the electric vehicle's steep price tag and a longer wait for significant financial payoff.",
-      "publishedAt": "2023-12-01T14:27:52Z",
-      "title": "Tesla falls on long wait for Cybertruck payoff, hefty price tag",
-      "url": "https://www.reuters.com/business/autos-transportation/tesla-falls-long-wait-cybertruck-payoff-hefty-price-tag-2023-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/rAQecYI3Mba0FIjpP9kRqd5H0q8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RTAIDTHH3JLG3MAMUA6Q7VVHLY.jpg"
-    },
-    {
-      "author": "Deborah Sophia, Aishwarya Venugopal",
-      "description": "Retailers like Amazon.com and Foot Locker are signaling optimism for holiday season sales after stronger-than-expected figures during Black Friday and Cyber Monday, as heavy discounts lured budget-strained customers on the peak U.S. shopping days.",
-      "publishedAt": "2023-12-01T17:02:51Z",
-      "title": "Once-gloomy US retailers now signaling more holiday cheer after solid start to season",
-      "url": "https://www.reuters.com/business/retail-consumer/once-gloomy-us-retailers-now-signaling-more-holiday-cheer-after-solid-start-2023-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/1Hziv6xUhk3014TLnM7E1imcwDw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMU2J3OMRNOPBCWKNL7PQ74YPE.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "Some major banks expect global economic growth to ease further in 2024, squeezed by elevated interest rates, higher energy prices and a slowdown in the world's two largest economies.",
-      "publishedAt": "2023-12-01T14:16:14Z",
-      "title": "Global economy to slow down but likely avoid recession in 2024",
-      "url": "https://www.reuters.com/markets/global-economy-slow-down-likely-avoid-recession-2024-2023-11-16/",
-      "urlToImage": "https://www.reuters.com/resizer/5m5w8fFvuCq1mOr3p9KM63ciANo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKJN62CXK5ICBAVOO2OEYWCMO4.jpg"
-    },
-    {
-      "author": "David Shepardson, David Lawder",
-      "description": "The Biden administration on Friday issued-long awaited guidance that will limit Chinese content in batteries eligible for electric vehicle tax credits starting next year.",
-      "publishedAt": "2023-12-01T13:51:58Z",
-      "title": "US to limit Chinese firms, battery parts from winning EV tax credits",
-      "url": "https://www.reuters.com/business/autos-transportation/us-limit-chinese-firms-battery-parts-winning-ev-tax-credits-2023-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/jzTX8vyLrIHU9TxMdfxG9GiQytI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B5CCNPOGUNJNRM5S7C3OPMTBAE.jpg"
-    },
-    {
-      "author": "Mayela Armas",
-      "description": "Some retailers in Venezuela are turning to old-fashioned layaway purchase offers to help customers buy everything from home appliances to shoes and motorcycles, as sky-high inflation and tight credit restrictions cut off other avenues for shopping.",
-      "publishedAt": "2023-12-01T17:17:59Z",
-      "title": "Tight credit, high inflation push Venezuelans to layaway purchases",
-      "url": "https://www.reuters.com/world/americas/tight-credit-high-inflation-push-venezuelans-layaway-purchases-2023-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/ADejInm0qmQlhX2pTcffA0f8WfY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BJFNCUD2RRICVP6PND734WHLNM.jpg"
-    },
-    {
-      "author": "Sheila Dang, Chavi Mehta, Jaspreet Singh",
-      "description": "Social media company X faces the prospect of more advertisers fleeing and has no clear fix in sight, ad industry experts said, after billionaire owner Elon Musk lashed out at some of the biggest brands for dropping the platform.",
-      "publishedAt": "2023-12-01T16:57:10Z",
-      "title": "After Musk tirade, X faces prospect of more advertisers fleeing",
-      "url": "https://www.reuters.com/technology/analysts-predict-more-brands-will-flee-x-after-musk-tirade-2023-11-30/",
-      "urlToImage": "https://www.reuters.com/resizer/4g0cd2T5TYtCygeGA3ZqJOOKb_E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/76LXNPYTTJLZPMNQAU3EHE2FXM.jpg"
+      "author": "Suhaib Salem, Nidal Al-Mughrabi",
+      "description": "Renewed fighting in Gaza stretched into a second day on Saturday after talks to extend a <a href=\"/world/middle-east/israelhamas-war-hostage-deal-ceasefire-gaza-2023-11-22/\">week-old truce</a> with Hamas collapsed and mediators said Israeli bombardments were complicating attempts to again pause hostilities.",
+      "publishedAt": "2023-12-01T23:03:16Z",
+      "title": "Renewed Gaza fighting stretches into second day after Israel-Hamas truce collapses",
+      "url": "https://www.reuters.com/world/middle-east/renewed-gaza-fighting-stretches-into-second-day-after-israel-hamas-truce-2023-12-01/",
+      "urlToImage": "https://www.reuters.com/resizer/8z7b1o58vupe9T8P0zY2RTYuBrQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNRWF5XMSZKOPNKZLXBU3TS2GY.jpg"
     },
     {
       "author": "Chad Terhune, Robin Respaut",
@@ -63,14 +71,6 @@
       "title": "Maker of Wegovy, Ozempic showers money on U.S. obesity doctors",
       "url": "https://www.reuters.com/world/maker-wegovy-ozempic-showers-money-us-obesity-doctors-2023-12-01/",
       "urlToImage": "https://www.reuters.com/resizer/oxa62cZ86T_8Mbnib66o9sBVzo8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TY5X3DZD7ZE5TJNK6Y6XWESOAI.JPG"
-    },
-    {
-      "author": "Nidal Al-Mughrabi, Mohammad Salem, Humeyra Pamuk",
-      "description": "Israel's military said it intercepted a rocket fired from Gaza early on Friday while Hamas-affiliated media reported sounds of gunfire and explosions in the north of the coastal strip shortly before a deadline to extend a seven-day truce was set to expire.",
-      "publishedAt": "2023-12-01T04:27:58Z",
-      "title": "Israel intercepts rocket as gunfire, explosions in north Gaza reported",
-      "url": "https://www.reuters.com/world/middle-east/gaza-negotiators-try-get-israel-hamas-agree-extend-truce-again-2023-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/KixJ5A1fX4pQvUIqOTR_3VwrWRY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WQSW4PHGGRIXRHMIJHNQBFPM3M.jpg"
     },
     {
       "author": "Shristi A, Amruta Khandekar",
