@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Philip Georgiadis and Peggy Hollinger, Financial Times",
+      "description": "Branson's business empire \"no longer has the deepest pockets.\"",
+      "publishedAt": "2023-12-02T18:58:26+00:00",
+      "title": "No further investments in Virgin Galactic, says Richard Branson",
+      "url": "https://www.ft.com/content/9fbf47ef-cc9d-4f20-bbf9-24e2d11d4a83",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/12/IMG_02821-640x215.jpg"
+    },
+    {
+      "author": "Diana Gitig",
+      "description": "Some are related to DNA-cutting enzymes. Others are a complete mystery.",
+      "publishedAt": "2023-12-02T13:00:34+00:00",
+      "title": "New algorithm finds lots of gene-editing enzymes in environmental DNA",
+      "url": "https://arstechnica.com/science/2023/12/new-algorithm-finds-lots-of-gene-editing-enzymes-in-environmental-dna/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-760x380.png"
+    },
+    {
+      "author": "Bradley Iger",
+      "description": "The limited-production model focuses on driver involvement, not performance stats.",
+      "publishedAt": "2023-12-02T12:30:40+00:00",
+      "title": "Porsche summons old-school cool with the 2024 911 Sport Classic",
+      "url": "https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/01-2024-Porsche-911-Sport-Classic-760x380.jpg"
+    },
+    {
+      "author": "Matt Simon, wired.com",
+      "description": "Brood X made itself known in a way that could change how we monitor insect populations.",
+      "publishedAt": "2023-12-02T11:10:00+00:00",
+      "title": "Roar of cicadas was so loud, it was picked up by fiber-optic cables",
+      "url": "https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/17yearcicada-760x380.jpg"
+    },
+    {
       "author": "Ron Amadeo",
       "description": "When ad blocking is a cat-and-mouse game, make the mouse slower.",
       "publishedAt": "2023-12-01T23:30:46+00:00",
@@ -47,38 +79,6 @@
       "title": "Broadcom cuts at least 2,800 VMware jobs following $69 billion acquisition",
       "url": "https://arstechnica.com/information-technology/2023/12/broadcom-cuts-at-least-2800-vmware-jobs-following-69-billion-acquisition/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/vmware-760x380.jpeg"
-    },
-    {
-      "author": "Kat Friedrich",
-      "description": "We can't experiment with the Universe, but we can make something that works like it.",
-      "publishedAt": "2023-12-01T20:04:05+00:00",
-      "title": "The Universe in a lab: Testing alternate cosmology using a cloud of atoms",
-      "url": "https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-1-760x380.jpeg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Stars this small shouldn't make planets this big.",
-      "publishedAt": "2023-12-01T17:38:00+00:00",
-      "title": "Neptune-sized exoplanet is too big for its host star",
-      "url": "https://arstechnica.com/science/2023/12/neptune-sized-exoplanet-is-too-big-for-its-host-star/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Chris Hemsworth rocking his Aussie accent as a demented biker-gang warlord? Yes, please!",
-      "publishedAt": "2023-12-01T17:05:26+00:00",
-      "title": "What a lovely day: Furiosa: A Mad Max Saga trailer is so shiny and chrome",
-      "url": "https://arstechnica.com/culture/2023/12/furiosa-a-mad-max-saga-trailer-we-are-ready-to-witness-this-origin-story/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/furiosa1-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "\"Elon's interview was candid and profound,\" Yaccarino writes in memo to staff.",
-      "publishedAt": "2023-12-01T16:33:51+00:00",
-      "title": "X advertisers stay away as CEO defends Musk\u2019s \u201cgo f*** yourself\u201d interview",
-      "url": "https://arstechnica.com/tech-policy/2023/12/xs-yaccarino-calls-musk-candid-and-profound-after-go-f-yourself-tirade/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/linda-yaccarino-760x380.jpg"
     }
   ],
   "sortBy": "top",
