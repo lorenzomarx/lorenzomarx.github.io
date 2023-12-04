@@ -2,11 +2,35 @@
   "articles": [
     {
       "author": "Reuters",
+      "description": "Heavy snowfall in Bavaria prompted an all-day cancellation of flights and long-distance trains out of Munich, with Christmas markets closed, some ski lifts unable to run and a football match called off as the city battled with the icy conditions.",
+      "publishedAt": "2023-12-02T18:48:54Z",
+      "title": "Munich flights, trains cancelled as heavy snow blankets Bavaria",
+      "url": "https://www.reuters.com/world/europe/munich-flights-long-distance-trains-cancelled-due-snow-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/Y5E7ioTw2Ot3j_gkid8H6qFzFzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CKDQUDGWG5KIBOTX23DESC62IE.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "A Paraguayan lawmaker and three other people died in a plane crash in the South American country on Saturday, local police said.",
+      "publishedAt": "2023-12-02T23:48:02Z",
+      "title": "Paraguayan lawmaker and three others die in plane crash",
+      "url": "https://www.reuters.com/world/americas/paraguayan-lawmaker-three-others-die-plane-crash-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=165"
+    },
+    {
+      "author": "Reuters",
       "description": "A protester with a Palestinian flag self-immolated on Friday outside the Israeli consulate in Atlanta, authorities said.",
       "publishedAt": "2023-12-02T12:03:00Z",
       "title": "Protester self-immolates outside Israeli consulate in Atlanta",
       "url": "https://www.reuters.com/world/us/protester-self-immolates-outside-israeli-consulate-atlanta-2023-12-01/",
       "urlToImage": "https://www.reuters.com/resizer/hO7_8cBVMUS_dRv3JPAOI8B_Rtc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y7IPJC2AWBPGJA52NWO3L6LIPE.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "Samuel Garcia, one of the two main opposition hopefuls competing in Mexico's 2024 presidential election, has withdrawn from the contest to return to his post as governor of the northern state of Nuevo Leon, his party said on Saturday.",
+      "publishedAt": "2023-12-02T20:33:22Z",
+      "title": "Mexico's Samuel Garcia pulls out of 2024 presidential race",
+      "url": "https://www.reuters.com/world/americas/mexicos-samuel-garcia-pulls-out-2024-presidential-race-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/rzkEw_0RMGMIFyyYfJjGjb4Kvsw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NJJAM4G36FKSNLQQGKUOHZXQNU.jpg"
     },
     {
       "author": "Reuters",
@@ -18,6 +42,14 @@
     },
     {
       "author": "Reuters",
+      "description": "Guinea Bissau President Umaro Sissoco Embalo said on Saturday that gunfire and clashes that erupted in the capital of the West African nation on Friday were an attempted coup.",
+      "publishedAt": "2023-12-02T21:12:44Z",
+      "title": "Guinea-Bissau President Embalo says a coup was foiled on Friday",
+      "url": "https://www.reuters.com/world/africa/guinea-bissau-president-embalo-says-coup-was-foiled-friday-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/NjLmVDAOVg0VvaStiMUmr3SAPno=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KPJYUCRLGNJGNFJKC5UEGWGCXA.jpg"
+    },
+    {
+      "author": "Reuters",
       "description": "Nicaraguan police late on Friday charged the owner of the local Miss Universe franchise with conspiracy, money laundering and spreading fake news, just weeks after the Central American nation's first victory in the pageant.",
       "publishedAt": "2023-12-02T13:45:23Z",
       "title": "Nicaragua's Miss Universe franchise owner accused of conspiracy",
@@ -25,60 +57,28 @@
       "urlToImage": "https://www.reuters.com/resizer/o-5VB8dqdotRqe7OScorlh0b-s4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GAP6B6XBGBPNHH4OEJSJKITXNI.jpg"
     },
     {
-      "author": "Reuters",
-      "description": "The health of Pope Francis, who is suffering from a lung inflammation, is improving but he will read his Sunday message indoors from his residence to be on the safe side, the Vatican said on Saturday.",
-      "publishedAt": "2023-12-02T13:10:37Z",
-      "title": "Pope's condition improving but will stay indoors to be on safe side, Vatican says",
-      "url": "https://www.reuters.com/world/europe/popes-condition-improving-will-stay-indoors-be-safe-side-vatican-2023-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/NVDHFxcv3SLMXCyMABuZpSRswDI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BQVI57YEQZMYVOGZN3UT6W6VVY.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "Two Iranian Revolutionary Guards members who served as military advisers in Syria have been killed in an Israeli attack, Iranian state media reported on Saturday, in the first reported Iranian casualties during the ongoing war in Gaza.",
-      "publishedAt": "2023-12-02T12:27:23Z",
-      "title": "Iran says two revolutionary guards killed in Israeli attack in Syria",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-two-revolutionary-guards-killed-israeli-attack-syria-state-media-2023-12-02/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=165"
-    },
-    {
-      "author": "Reuters",
-      "description": "China's surge in <a href=\"/world/china/what-do-we-know-about-chinas-respiratory-illness-surge-2023-12-01/\">respiratory illness</a> is caused by known pathogens and there is no sign of new infectious diseases, a health official said on Saturday as the country faces its first full winter since lifting strict COVID-19 restrictions.",
-      "publishedAt": "2023-12-02T08:47:13Z",
-      "title": "China's respiratory illness rise due to known pathogens, official says",
-      "url": "https://www.reuters.com/world/china/no-new-infectious-diseases-found-investigations-chinas-national-health-2023-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/UrSEPpQavQErJh3G482NO8HLWhM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CS5KPIHRSZIU5B7L2OI2YOBITE.jpg"
-    },
-    {
       "author": "Suhaib Salem, Nidal Al-Mughrabi",
-      "description": "Renewed fighting in Gaza stretched into a second day on Saturday after talks to extend a <a href=\"/world/middle-east/israelhamas-war-hostage-deal-ceasefire-gaza-2023-11-22/\">week-old truce</a> with Hamas collapsed and mediators said Israeli bombardments were complicating attempts to again pause hostilities.",
-      "publishedAt": "2023-12-01T23:03:16Z",
-      "title": "Renewed Gaza fighting stretches into second day after Israel-Hamas truce collapses",
-      "url": "https://www.reuters.com/world/middle-east/renewed-gaza-fighting-stretches-into-second-day-after-israel-hamas-truce-2023-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/8z7b1o58vupe9T8P0zY2RTYuBrQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNRWF5XMSZKOPNKZLXBU3TS2GY.jpg"
+      "description": "Israel faced growing U.S. calls to avoid further harm to Palestinian civilians in its fight against Hamas militants in Gaza, as the warring sides on Sunday showed no sign of moving toward reviving their collapsed truce.",
+      "publishedAt": "2023-12-02T23:08:04Z",
+      "title": "Israel faces growing US calls for restraint amid renewed Gaza fighting",
+      "url": "https://www.reuters.com/world/middle-east/israel-faces-growing-us-calls-restraint-amid-renewed-gaza-fighting-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/k_MOZCy2gz8YQygfmAsmvQlrRTY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NULO5GABW5KBRKB77GGMSNSXTM.jpg"
+    },
+    {
+      "author": "Andrew Hay",
+      "description": "Muslim American leaders from six battleground states on Saturday vowed to mobilize their communities against President Joe Biden's reelection over his support of Israel's war in Gaza, but they have yet to settle on an alternative 2024 candidate.",
+      "publishedAt": "2023-12-02T21:35:59Z",
+      "title": "Muslim Americans face 'Abandon Biden' dilemma - then who?",
+      "url": "https://www.reuters.com/world/us/muslim-americans-face-abandon-biden-dilemma-then-who-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/WhYJM-P_Vesm45AqvJL3UQaMFjk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RRVYO4ZFBNMTPDQTXYUXXCXUOY.jpg"
     },
     {
       "author": "Reuters",
-      "description": "Donald Trump does not have immunity from criminal charges for actions he took as president, a U.S. judge ruled on Friday, rejecting his bid to toss out the case brought by Special Counsel Jack Smith accusing him of unlawfully trying to overturn his 2020 election loss.",
-      "publishedAt": "2023-12-02T01:36:47Z",
-      "title": "Judge rejects Trump immunity claim in federal 2020 election case",
-      "url": "https://www.reuters.com/world/us/judge-rejects-trump-immunity-claim-federal-2020-election-case-2023-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/ssqbZ20kJjZLKSgobuhAvdAkElk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CAUXKFISKVNJPLUV7DAZKTGCQI.jpg"
-    },
-    {
-      "author": "Max Hunder",
-      "description": "Ukraine's security service said on Saturday it had prevented former president Petro Poroshenko from leaving the country on grounds that Russia planned to exploit a planned meeting with Hungary's prime minister to hurt Ukrainian interests.",
-      "publishedAt": "2023-12-02T18:29:22Z",
-      "title": "Ukraine's security service alleges Russian plot involving ex-president",
-      "url": "https://www.reuters.com/world/europe/ukraines-security-service-alleges-russian-plot-involving-ex-president-2023-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/GDwcKw_QjmDaRueZQcylHCCQwww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OM6H2VVXJIXLCWAJLOTKIPF2Q.jpg"
-    },
-    {
-      "author": "Reuters",
-      "description": "An earthquake of magnitude 7.5 struck Mindanao, Philippines on Saturday, the European-Mediterranean Seismological Centre (EMSC) said.",
-      "publishedAt": "2023-12-02T14:55:58Z",
-      "title": "Magnitude 7.5 earthquake strikes Mindanao, Philippines",
-      "url": "https://www.reuters.com/world/asia-pacific/magnitude-76-earthquake-strikes-mindanao-philippines-emsc-2023-12-02/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=165"
+      "description": "Russian forces eased attacks on the beleaguered eastern Ukrainian town of Avdiivka on Saturday and unofficial reports from the region suggested they had failed to capture the devastated town of Maryinka to the southwest.",
+      "publishedAt": "2023-12-02T22:16:37Z",
+      "title": "Russians ease attacks in eastern Ukraine, Kyiv still may hold Maryinka",
+      "url": "https://www.reuters.com/world/europe/russians-ease-attacks-eastern-ukraine-shattered-town-may-still-be-held-by-kyiv-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/oR8UxaD7P4u0OU7k881u6PoDmus=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B7D6OQAAU5JI7NL24H7QPJMA5I.jpg"
     }
   ],
   "sortBy": "top",
