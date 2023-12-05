@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Ron Amadeo",
+      "description": "Gmail's spam filters can now understand \"adversarial text manipulations.\"",
+      "publishedAt": "2023-12-04T19:04:52+00:00",
+      "title": "Gmail\u2019s AI-powered spam detection is its biggest security upgrade in years",
+      "url": "https://arstechnica.com/gadgets/2023/12/gmails-ai-powered-spam-detection-is-its-biggest-security-upgrade-in-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-spam-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"This world has more secrets than we could possibly imagine.\"",
+      "publishedAt": "2023-12-04T17:10:34+00:00",
+      "title": "Two Titans team up to defeat a new foe in Godzilla x Kong: The New Empire trailer",
+      "url": "https://arstechnica.com/culture/2023/12/two-titans-team-up-to-defeat-a-new-foe-in-godzilla-x-kong-the-new-empire-trailer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/kong7-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "There's a valuable payload riding on the final Vega rocket launch.",
+      "publishedAt": "2023-12-04T16:27:34+00:00",
+      "title": "What happens in Vega didn\u2019t stay in Vega, as key rocket parts went missing",
+      "url": "https://arstechnica.com/space/2023/12/italian-rocket-maker-has-a-problem-key-parts-of-final-vega-booster-were-trashed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/vv23-760x380.jpeg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Company now expects useful error-corrected qubits by the end of the decade.",
+      "publishedAt": "2023-12-04T15:40:31+00:00",
+      "title": "IBM releases 1,000+ qubit processor, roadmap to error correction",
+      "url": "https://arstechnica.com/science/2023/12/ibm-adds-error-correction-to-updated-quantum-computing-roadmap/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/IBM_Quantum_Family_of_Processors-1-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "OEMs collect too much personal data and share it too freely, says Senator Markey.",
+      "publishedAt": "2023-12-04T15:20:09+00:00",
+      "title": "Automakers\u2019 data privacy practices \u201care unacceptable,\u201d says US senator",
+      "url": "https://arstechnica.com/cars/2023/12/automakers-data-privacy-practices-are-unacceptable-says-us-senator/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1327255013-760x380.jpg"
+    },
+    {
+      "author": "Robin Warner",
+      "description": "OBD-II was implemented to monitor emissions, but EVs don't have tailpipes.",
+      "publishedAt": "2023-12-04T15:07:40+00:00",
+      "title": "Why don\u2019t EVs have standard diagnostic ports\u2014and when will that change?",
+      "url": "https://arstechnica.com/cars/2023/12/why-dont-evs-have-standard-diagnostic-ports-and-when-will-that-change/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1192340004-760x380.jpg"
+    },
+    {
+      "author": "Daniel Thomas, Financial Times",
+      "description": "CEO Daniel Ek says the company's costs remain too high.",
+      "publishedAt": "2023-12-04T14:27:52+00:00",
+      "title": "Spotify to lay off 17% of workforce",
+      "url": "https://www.ft.com/content/7c654f95-8571-471c-8af5-9578cd254386",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-iphone-spotify-netflix-760x380.jpg"
+    },
+    {
+      "author": "Anna Washenko",
+      "description": "Yes, that really is Quark's voice you're hearing.",
+      "publishedAt": "2023-12-04T12:00:12+00:00",
+      "title": "The surprisingly robust careers of Star Trek stars who became video game voice actors",
+      "url": "https://arstechnica.com/gaming/2023/12/live-long-and-prosper-a-retrospective-of-video-game-roles-played-by-star-trek-actors/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/tng_original_costumes-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "\"There is no war so hateful to the gods as a war between kin.\"",
       "publishedAt": "2023-12-02T23:51:36+00:00",
@@ -15,70 +79,6 @@
       "title": "No further investments in Virgin Galactic, says Richard Branson",
       "url": "https://www.ft.com/content/9fbf47ef-cc9d-4f20-bbf9-24e2d11d4a83",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/12/IMG_02821-640x215.jpg"
-    },
-    {
-      "author": "Diana Gitig",
-      "description": "Some are related to DNA-cutting enzymes. Others are a complete mystery.",
-      "publishedAt": "2023-12-02T13:00:34+00:00",
-      "title": "New algorithm finds lots of gene-editing enzymes in environmental DNA",
-      "url": "https://arstechnica.com/science/2023/12/new-algorithm-finds-lots-of-gene-editing-enzymes-in-environmental-dna/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-760x380.png"
-    },
-    {
-      "author": "Bradley Iger",
-      "description": "The limited-production model focuses on driver involvement, not performance stats.",
-      "publishedAt": "2023-12-02T12:30:40+00:00",
-      "title": "Porsche summons old-school cool with the 2024 911 Sport Classic",
-      "url": "https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/01-2024-Porsche-911-Sport-Classic-760x380.jpg"
-    },
-    {
-      "author": "Matt Simon, wired.com",
-      "description": "Brood X made itself known in a way that could change how we monitor insect populations.",
-      "publishedAt": "2023-12-02T11:10:00+00:00",
-      "title": "Roar of cicadas was so loud, it was picked up by fiber-optic cables",
-      "url": "https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/17yearcicada-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "When ad blocking is a cat-and-mouse game, make the mouse slower.",
-      "publishedAt": "2023-12-01T23:30:46+00:00",
-      "title": "Chrome\u2019s next weapon in the War on Ad Blockers: Slower extension updates",
-      "url": "https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Google-Monopoly-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Jeff Bezos' rivalry with Elon Musk takes a back seat to Amazon's launch dilemma.",
-      "publishedAt": "2023-12-01T22:59:09+00:00",
-      "title": "A bitter pill: Amazon calls on rival SpaceX to launch Internet satellites",
-      "url": "https://arstechnica.com/space/2023/12/a-bitter-pill-amazon-calls-on-rival-spacex-to-launch-internet-satellites/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/f9preflight21-760x380.jpeg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Add to a charity haul that's already raised over $8,500 in less than a week.",
-      "publishedAt": "2023-12-01T22:23:43+00:00",
-      "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
-      "url": "https://arstechnica.com/gaming/2023/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-10/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/charity2023-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Funding calls get increasingly urgent as program would run out of money in April.",
-      "publishedAt": "2023-12-01T21:34:47+00:00",
-      "title": "25M homes will lose broadband discounts if Congress keeps stalling, FCC warns",
-      "url": "https://arstechnica.com/tech-policy/2023/12/25m-homes-will-lose-broadband-discounts-if-congress-keeps-stalling-fcc-warns/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-rosenworcel-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "AI chatbot deception paper suggests that some bots (and people) aren't very persuasive.",
-      "publishedAt": "2023-12-01T21:27:35+00:00",
-      "title": "1960s chatbot ELIZA beat OpenAI\u2019s GPT-3.5 in a recent Turing test study",
-      "url": "https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/turing_test_hero-760x380.jpg"
     }
   ],
   "sortBy": "top",
