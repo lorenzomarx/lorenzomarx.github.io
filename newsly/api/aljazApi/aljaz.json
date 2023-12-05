@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "Eleven climbers have been killed and 12 more are missing after the eruption of Indonesias Mount Merapi, local officials have said.\r\nSeventy-five people were in the area when the volcano in West Sumat\u2026 [+1254 chars]",
+      "description": "Authorities say 75 people were in the area when the West Sumatra volcano erupted on Sunday.",
+      "publishedAt": "2023-12-04T03:39:16Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "11 climbers dead, 12 missing after eruption of Indonesia\u2019s Mount Merapi",
+      "url": "https://www.aljazeera.com/news/2023/12/4/eleven-climbers-dead-twelve-missing-after-eruption-of-indonesias-mount-merapi",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/346W7JK-highres-1701657255.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Ted Regencia",
       "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsraels military widens its ground offensive in southern Gaza as Palestinian officials say more than 800 people killed since Saturday.",
       "description": "Israel widens its ground offensive in southern Gaza as Palestinian officials say over 800 people killed since Saturday.",
@@ -1286,21 +1299,8 @@
       "title": "\u2018My son was killed on October 6. There was no Hamas\u2019",
       "url": "https://www.aljazeera.com/features/2023/12/1/my-son-was-killed-on-october-6-there-was-no-hamas",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/IMG_5913-1701344340.jpeg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera Staff",
-      "content": "Welcome to Al Jazeeras Sport Weekly newsletter, which explores the intersection of sport with politics, culture and money. You can sign up\u00a0here.\r\nThis week British Gymnastics introduced new rules lim\u2026 [+2688 chars]",
-      "description": "This week Al Jazeera covers issues for child athletes, Eritrea's deserting footballers and scolded Pakistani cricketers.",
-      "publishedAt": "2023-12-01T11:40:15Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Sport Weekly: Child athletes on the joys and the perils of competing",
-      "url": "https://www.aljazeera.com/sports/2023/12/1/sport-weekly-child-athletes-on-the-joys-and-the-perils-of-competing",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/AlJazeera_Sport-weekly_Week8_outisde-image-1500-x1000-1701429339.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1428
+  "totalResults": 1429
 }
