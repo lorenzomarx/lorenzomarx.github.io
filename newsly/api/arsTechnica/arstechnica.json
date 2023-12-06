@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "First female protagonist and sun-soaked, satire-drenched tone on display.",
+      "publishedAt": "2023-12-05T00:25:12+00:00",
+      "title": "Grand Theft Auto VI trailer arrives early with a crime-crazy Florida",
+      "url": "https://arstechnica.com/gaming/2023/12/grand-theft-auto-vi-trailer-confirms-many-things-including-its-florida-vibes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-04-at-6.39.14\u202fPM-760x380.png"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "No surprise: SpaceX's lunar lander and Axiom's spacesuits pace the Artemis III schedule.",
+      "publishedAt": "2023-12-04T23:43:11+00:00",
+      "title": "Don\u2019t count on NASA to return humans to the Moon in 2025 or 2026, GAO says",
+      "url": "https://arstechnica.com/space/2023/12/government-watchdog-says-first-artemis-lunar-landing-may-slip-to-2027/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/52546840431_b80cb521d8_k-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Texas Attorney General Ken Paxton struggles with relative vs. absolute risk.",
+      "publishedAt": "2023-12-04T23:13:41+00:00",
+      "title": "Texas sues Pfizer with COVID anti-vax argument that is pure stupid",
+      "url": "https://arstechnica.com/health/2023/12/texas-sues-pfizer-with-covid-anti-vax-argument-that-is-pure-stupid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1259024760-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Majority of impacted users are now being notified, 23andMe confirmed.",
+      "publishedAt": "2023-12-04T22:48:27+00:00",
+      "title": "Hackers stole ancestry data of 6.9 million users, 23andMe finally confirmed",
+      "url": "https://arstechnica.com/tech-policy/2023/12/hackers-stole-ancestry-data-of-6-9-million-users-23andme-finally-confirmed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1230927570-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Supply and demand are syncing back up after years of GPU market turmoil.",
+      "publishedAt": "2023-12-04T21:57:40+00:00",
+      "title": "After a chaotic three years, GPU sales are starting to look normal-ish again",
+      "url": "https://arstechnica.com/gaming/2023/12/after-a-chaotic-three-years-gpu-sales-are-starting-to-look-normal-ish-again/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/IMG_1114-760x380.jpeg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "A full trailer and release date announcement are being promised for next summer.",
+      "publishedAt": "2023-12-04T20:25:54+00:00",
+      "title": "Dragon Age: Dreadwolf teaser proves EA hasn\u2019t forgotten about the game",
+      "url": "https://arstechnica.com/gaming/2023/12/new-teaser-reminds-us-that-dragon-age-dreadwolf-still-exists/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/dalocation-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "A West Virginia judge largely denied Amazon's motion to dismiss lawsuit.",
+      "publishedAt": "2023-12-04T20:16:55+00:00",
+      "title": "Judge: Amazon \u201ccannot claim shock\u201d that bathroom spycams were used as advertised",
+      "url": "https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1417525587-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Reliably good prices, libraries, and features would impress customers more.",
+      "publishedAt": "2023-12-04T19:36:16+00:00",
+      "title": "Streaming apps are trying to bundle their way out of customer disenchantment",
+      "url": "https://arstechnica.com/gadgets/2023/12/streaming-apps-are-trying-to-bundle-their-way-out-of-customer-disenchantment/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/flash3-760x380.jpg"
+    },
+    {
       "author": "Ron Amadeo",
       "description": "Gmail's spam filters can now understand \"adversarial text manipulations.\"",
       "publishedAt": "2023-12-04T19:04:52+00:00",
@@ -15,70 +79,6 @@
       "title": "Two Titans team up to defeat a new foe in Godzilla x Kong: The New Empire trailer",
       "url": "https://arstechnica.com/culture/2023/12/two-titans-team-up-to-defeat-a-new-foe-in-godzilla-x-kong-the-new-empire-trailer/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/kong7-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "There's a valuable payload riding on the final Vega rocket launch.",
-      "publishedAt": "2023-12-04T16:27:34+00:00",
-      "title": "What happens in Vega didn\u2019t stay in Vega, as key rocket parts went missing",
-      "url": "https://arstechnica.com/space/2023/12/italian-rocket-maker-has-a-problem-key-parts-of-final-vega-booster-were-trashed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/vv23-760x380.jpeg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Company now expects useful error-corrected qubits by the end of the decade.",
-      "publishedAt": "2023-12-04T15:40:31+00:00",
-      "title": "IBM releases 1,000+ qubit processor, roadmap to error correction",
-      "url": "https://arstechnica.com/science/2023/12/ibm-adds-error-correction-to-updated-quantum-computing-roadmap/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/IBM_Quantum_Family_of_Processors-1-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "OEMs collect too much personal data and share it too freely, says Senator Markey.",
-      "publishedAt": "2023-12-04T15:20:09+00:00",
-      "title": "Automakers\u2019 data privacy practices \u201care unacceptable,\u201d says US senator",
-      "url": "https://arstechnica.com/cars/2023/12/automakers-data-privacy-practices-are-unacceptable-says-us-senator/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1327255013-760x380.jpg"
-    },
-    {
-      "author": "Robin Warner",
-      "description": "OBD-II was implemented to monitor emissions, but EVs don't have tailpipes.",
-      "publishedAt": "2023-12-04T15:07:40+00:00",
-      "title": "Why don\u2019t EVs have standard diagnostic ports\u2014and when will that change?",
-      "url": "https://arstechnica.com/cars/2023/12/why-dont-evs-have-standard-diagnostic-ports-and-when-will-that-change/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1192340004-760x380.jpg"
-    },
-    {
-      "author": "Daniel Thomas, Financial Times",
-      "description": "CEO Daniel Ek says the company's costs remain too high.",
-      "publishedAt": "2023-12-04T14:27:52+00:00",
-      "title": "Spotify to lay off 17% of workforce",
-      "url": "https://www.ft.com/content/7c654f95-8571-471c-8af5-9578cd254386",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-iphone-spotify-netflix-760x380.jpg"
-    },
-    {
-      "author": "Anna Washenko",
-      "description": "Yes, that really is Quark's voice you're hearing.",
-      "publishedAt": "2023-12-04T12:00:12+00:00",
-      "title": "The surprisingly robust careers of Star Trek stars who became video game voice actors",
-      "url": "https://arstechnica.com/gaming/2023/12/live-long-and-prosper-a-retrospective-of-video-game-roles-played-by-star-trek-actors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/tng_original_costumes-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"There is no war so hateful to the gods as a war between kin.\"",
-      "publishedAt": "2023-12-02T23:51:36+00:00",
-      "title": "Tensions rise between Targaryens in first teaser for House of the Dragon S2",
-      "url": "https://arstechnica.com/culture/2023/12/tensions-rise-between-targaryens-in-first-teaser-for-house-of-the-dragon-s2/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/dragon2-760x380.jpg"
-    },
-    {
-      "author": "Philip Georgiadis and Peggy Hollinger, Financial Times",
-      "description": "Branson's business empire \"no longer has the deepest pockets.\"",
-      "publishedAt": "2023-12-02T18:58:26+00:00",
-      "title": "No further investments in Virgin Galactic, says Richard Branson",
-      "url": "https://www.ft.com/content/9fbf47ef-cc9d-4f20-bbf9-24e2d11d4a83",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/12/IMG_02821-640x215.jpg"
     }
   ],
   "sortBy": "top",
