@@ -1,20 +1,36 @@
 {
   "articles": [
     {
+      "author": "Amruta Khandekar, Shristi A",
+      "description": "Wall Street's main indexes fell on Tuesday as investors waited for a slew of data, including the crucial jobs report, to gauge whether the Federal Reserve will cut interest rates by early next year.",
+      "publishedAt": "2023-12-05T14:54:48Z",
+      "title": "Wall St slips as focus shifts to jobs data",
+      "url": "https://www.reuters.com/markets/us/futures-signal-further-losses-wall-st-ahead-jobs-data-2023-12-05/",
+      "urlToImage": "https://www.reuters.com/resizer/EykOxvBtFIhSqTGPNz6vvE34Htg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3O2AH4OBRRITXEV5OWMNBECRDU.jpg"
+    },
+    {
+      "author": "Andrew Chung, John Kruzel",
+      "description": "U.S. Supreme Court justices on Tuesday appeared hesitant to upend a tax on Americans who have invested in certain foreign corporations, as they pondered the meaning of \"income\" in a case that could undermine efforts by some Democratic lawmakers to impose a wealth tax on the very rich.",
+      "publishedAt": "2023-12-05T19:38:57Z",
+      "title": "US Supreme Court wary of upending tax on Americans' foreign earnings",
+      "url": "https://www.reuters.com/world/us/us-supreme-court-ponders-meaning-income-tax-dispute-2023-12-05/",
+      "urlToImage": "https://www.reuters.com/resizer/p-OWj5dC_ZnY56PUHfI-dP5lGso=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVJJ3JPAKVNTXBUYWA7RAE6DUA.jpg"
+    },
+    {
+      "author": "Nia Williams, Stephanie Kelly",
+      "description": "Canadian oil producers are bracing for further potential delays to the Trans Mountain pipeline expansion (TMX) that could cost them millions of dollars in lost revenues in coming months after they ramped up production ready to fill the expanded line, meant to <a href=\"/business/energy/trans-mountain-pipeline-expansion-likely-send-more-canadian-oil-us-not-asia-2023-07-04/\">unlock access to Asia</a>.",
+      "publishedAt": "2023-12-05T18:43:01Z",
+      "title": "Focus: Canada oil firms face losses as booming supply runs into Trans Mountain delays",
+      "url": "https://www.reuters.com/markets/commodities/canada-oil-firms-face-losses-booming-supply-runs-into-trans-mountain-delays-2023-12-05/",
+      "urlToImage": "https://www.reuters.com/resizer/WKBe162iycytTeH7LRFw4h-0t6o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IHEYJ77ONVLZ7HSHJX6WW7YW4M.jpg"
+    },
+    {
       "author": "Reuters",
       "description": "U.S. job openings dropped in October to the lowest level since early 2021, indicating that the labor market was easing as higher interest rates cool demand in the economy.",
       "publishedAt": "2023-12-05T15:15:43Z",
       "title": "US job openings in October lowest since 2021, well below forecasts",
       "url": "https://www.reuters.com/markets/us/us-job-openings-october-lowest-since-2021-well-below-forecasts-2023-12-05/",
       "urlToImage": "https://www.reuters.com/resizer/YQ39nd7pj730v-6oVceQ3W7ttVI=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BPKKEK5WA5MTRJ7JJWEWOUJGPU.jpg"
-    },
-    {
-      "author": "Saqib Ahmed",
-      "description": "An epic rally in U.S. stocks has sent Wall Street's fear gauge to a post-pandemic low. Options strategists believe market gyrations may stay subdued for some time - potentially smoothing the way for further gains in equities.",
-      "publishedAt": "2023-12-05T11:19:38Z",
-      "title": "Stock-hungry volatility funds, \u2018gamma-heavy' options dealers could buoy US equities",
-      "url": "https://www.reuters.com/markets/us/stock-hungry-volatility-funds-gamma-heavy-options-dealers-could-buoy-us-equities-2023-12-05/",
-      "urlToImage": "https://www.reuters.com/resizer/RXSrCPmTfyrkH7doyHM3oG0i_Go=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GEAC62ZAMZLJJGVJAKV5IPEWBU.jpg"
     },
     {
       "author": "Martin Coulter",
@@ -41,28 +57,12 @@
       "urlToImage": "https://www.reuters.com/resizer/WFIonjkvf-RqiThPr7k3NmM-0g8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KFAJWWAST5N7RK5QWKER2ZVTLU.jpg"
     },
     {
-      "author": "Vladimir Soldatkin, Dmitry Antonov",
-      "description": "Oil production cuts agreed by the OPEC+ group will take time to kick in, the Kremlin said on Tuesday as it confirmed that President Vladimir Putin would visit the United Arab Emirates and Saudi Arabia on Wednesday.",
-      "publishedAt": "2023-12-05T13:29:12Z",
-      "title": "Kremlin says OPEC+ cuts will kick in later, confirms Putin to visit Gulf",
-      "url": "https://www.reuters.com/world/putin-visit-uae-saudi-host-president-iran-2023-12-05/",
-      "urlToImage": "https://www.reuters.com/resizer/9RRBSirjrRA-BRB_Glxm_sBexY4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6BDDTE3BVLRFOMO6JG7FGHPMY.jpg"
-    },
-    {
-      "author": "Koh Qing",
-      "description": "Major life insurers are accessing cheap funding at record levels from a U.S. government-backed financing system, sapping billions of dollars meant to help increase affordable housing, interviews with industry executives and regulatory disclosures show.",
-      "publishedAt": "2023-12-05T11:16:00Z",
-      "title": "Life insurers binge on US financing aimed at helping housing",
-      "url": "https://www.reuters.com/markets/us/life-insurers-binge-us-financing-aimed-helping-housing-2023-12-05/",
-      "urlToImage": "https://www.reuters.com/resizer/2Ut1ABPV5GHiTl0gVhxK_5iLAzA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZO4HL2A3SBNXFJ7KXAGOZR254M.jpg"
-    },
-    {
-      "author": "Maayan Lubell, Emily Rose",
-      "description": "On Oct. 7, the day Hamas attacked, the Israeli military set up an impromptu morgue of refrigerated shipping containers at the Shura defence base in central Israel to identify and prepare the dead for burial. Of the 1,200 people killed that day, authorities said at least 300 were women.",
-      "publishedAt": "2023-12-05T12:53:37Z",
-      "title": "Accounts of sexual violence in Hamas attack mount but justice is remote for Israel's victims",
-      "url": "https://www.reuters.com/world/middle-east/accounts-sexual-violence-hamas-attack-mount-justice-is-remote-israels-victims-2023-12-05/",
-      "urlToImage": "https://www.reuters.com/resizer/CSTlXMJvjFNF6AKQF35LLEa2Hew=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EZQPUT72N5MMRLUARDGYPWXDFI.jpg"
+      "author": "Humeyra Pamuk, Jonathan Saul, Maggie Fick",
+      "description": "Facing a soaring death toll from Israel's renewed offensive in southern Gaza, the Biden administration is trying to pressure its ally to minimize civilian deaths while stopping well short of the kind of measures that might force it to listen, such as threatening to restrict military aid.",
+      "publishedAt": "2023-12-05T19:41:47Z",
+      "title": "Despite Gaza death toll soaring, U.S. unlikely to rethink weapons supplies to Israel",
+      "url": "https://www.reuters.com/world/middle-east/despite-gaza-death-toll-soaring-us-unlikely-rethink-weapons-supplies-israel-2023-12-05/",
+      "urlToImage": "https://www.reuters.com/resizer/dlFKFZ8z1QqKBadM6Pz-7UtJI18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5LH7A55WWNKK5IF7OKXTQUOHBU.jpg"
     },
     {
       "author": "Susan Heavey",
@@ -73,12 +73,12 @@
       "urlToImage": "https://www.reuters.com/resizer/qmOsiJPbj0PoL8SK8vvx1B0cvag=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MYFJY62VTVJT7MROLWN2MAXQVU.jpg"
     },
     {
-      "author": "Amruta Khandekar, Shristi A",
-      "description": "Wall Street's main indexes fell on Tuesday as investors waited for a slew of data, including the crucial jobs report, to gauge whether the Federal Reserve will cut interest rates by early next year.",
-      "publishedAt": "2023-12-05T14:54:48Z",
-      "title": "Wall St slips as focus shifts to jobs data",
-      "url": "https://www.reuters.com/markets/us/futures-signal-further-losses-wall-st-ahead-jobs-data-2023-12-05/",
-      "urlToImage": "https://www.reuters.com/resizer/EykOxvBtFIhSqTGPNz6vvE34Htg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3O2AH4OBRRITXEV5OWMNBECRDU.jpg"
+      "author": "Andrew Goudsward",
+      "description": "U.S. prosecutors trying Donald Trump on charges of trying to overturn his <a href=\"/world/us/judge-rejects-trump-immunity-claim-federal-2020-election-case-2023-12-02/\">2020 election defeat</a> will seek to show evidence of the former president's claims about voter fraud in 2012 and 2016, according a court document filed on Tuesday.",
+      "publishedAt": "2023-12-05T20:03:29Z",
+      "title": "US aims to show Trump's history of vote fraud claims at 2020 election trial",
+      "url": "https://www.reuters.com/legal/us-aims-show-trumps-history-vote-fraud-claims-2020-election-trial-2023-12-05/",
+      "urlToImage": "https://www.reuters.com/resizer/E87xkXzzy1zdwbrEqo_1J5zznKI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NI66SGHEHNJGVDZPGA3AGABV2M.jpg"
     }
   ],
   "sortBy": "top",
