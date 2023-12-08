@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Default E2EE rolling out now but will take months to reach all 1 billion users.",
+      "publishedAt": "2023-12-07T17:06:34+00:00",
+      "title": "Meta defies FBI opposition to encryption, brings E2EE to Facebook, Messenger",
+      "url": "https://arstechnica.com/tech-policy/2023/12/meta-defies-fbi-opposition-to-encryption-brings-e2ee-to-facebook-messenger/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-meta-apps-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "New Airs should arrive alongside redesigned iPad Pros and a 12.9-inch iPad Air.",
+      "publishedAt": "2023-12-07T16:57:19+00:00",
+      "title": "Report: Early 2024 will bring M3 MacBook Airs and first new iPads in over a year",
+      "url": "https://arstechnica.com/gadgets/2023/12/report-early-2024-will-bring-m3-macbook-airs-and-first-new-ipads-in-over-a-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_1134-760x380.jpeg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "The rapid disruption of smaller galaxies suggests they lack a bit of dark matter.",
+      "publishedAt": "2023-12-07T16:50:04+00:00",
+      "title": "The Milky Way will probably devour all the tiny galaxies that surround it",
+      "url": "https://arstechnica.com/science/2023/12/the-milky-way-will-probably-devour-all-the-tiny-galaxies-that-surround-it/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-2-760x380.jpeg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The bill would prevent the EPA from enforcing tougher new pollution standards.",
+      "publishedAt": "2023-12-07T16:46:06+00:00",
+      "title": "White House threatens to veto anti-EV bill just passed by US House",
+      "url": "https://arstechnica.com/cars/2023/12/white-house-threatens-to-veto-anti-ev-bill-just-passed-by-us-house/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1190300339-760x380.jpg"
+    },
+    {
+      "author": "Andy Greenberg, wired.com",
+      "description": "Binance and its customers will get \"24/7, 365-days-a-year financial colonoscopy.\"",
+      "publishedAt": "2023-12-07T14:28:46+00:00",
+      "title": "US regulators will now have access to years of Binance transaction data",
+      "url": "https://media.wired.com/photos/655e55765a9f03a94854e2cd/master/w_2240,c_limit/binance.jpg",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/binance-list-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "This nebula is found about 7,500 light-years from Earth.",
+      "publishedAt": "2023-12-07T13:00:23+00:00",
+      "title": "Daily Telescope: A colorful heart with a blue core",
+      "url": "https://arstechnica.com/space/2023/12/daily-telescope-journey-into-the-heart-nebula/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/heart-nebula-optimized-e1701969779670-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\"I was trying to mentally prepare myself to deal with a crashed capsule in the desert.\"",
       "publishedAt": "2023-12-06T23:08:03+00:00",
@@ -30,55 +78,7 @@
       "publishedAt": "2023-12-06T22:05:29+00:00",
       "title": "Quantum computer performs error-resistant operations with logical qubits",
       "url": "https://arstechnica.com/science/2023/12/quantum-computer-performs-error-resistant-operations-with-logical-qubits/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/QuEras-optical-layout-760x380.jpeg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "\"Imagine with Meta AI\" turns prompts into images, trained using public Facebook data.",
-      "publishedAt": "2023-12-06T21:52:14+00:00",
-      "title": "Meta\u2019s new AI image generator was trained on 1.1 billion Instagram and Facebook photos",
-      "url": "https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/meta_emu_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Anyone who fails to opt out \"will be deemed to have agreed to the new terms.\"",
-      "publishedAt": "2023-12-06T21:20:29+00:00",
-      "title": "After hack, 23andMe gives users 30 days to opt out of class-action waiver",
-      "url": "https://arstechnica.com/tech-policy/2023/12/23andme-changes-arbitration-terms-after-hack-impacting-millions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1230824302-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "iMessage isn't popular enough with businesses to force interoperability.",
-      "publishedAt": "2023-12-06T20:47:58+00:00",
-      "title": "iMessage will reportedly dodge EU regulations, won\u2019t have to open up",
-      "url": "https://arstechnica.com/apple/2023/12/imessage-will-reportedly-dodge-eu-regulations-wont-have-to-open-up/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/imessage-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"It turns out you can\u2019t cut corners if you want to achieve excellence.\u201d",
-      "publishedAt": "2023-12-06T20:40:50+00:00",
-      "title": "Study: Why a spritz of water before grinding coffee yields less waste, tastier espresso",
-      "url": "https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/coffee2-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Improved AI performance is this familiar-looking chip's main innovation.",
-      "publishedAt": "2023-12-06T20:00:19+00:00",
-      "title": "AMD\u2019s new Ryzen 8040 laptop chips look a lot like the Ryzen 7040 CPUs",
-      "url": "https://arstechnica.com/gadgets/2023/12/amds-new-ryzen-8040-laptop-chips-look-a-lot-like-the-ryzen-7040-cpus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ryzen-8040-01-2-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "ISPs are scared about the FCC's plan to measure broadband affordability.",
-      "publishedAt": "2023-12-06T18:58:19+00:00",
-      "title": "Cable lobby to FCC: Please don\u2019t look too closely at the prices we charge",
-      "url": "https://arstechnica.com/tech-policy/2023/12/cable-lobby-to-fcc-please-dont-look-too-closely-at-the-prices-we-charge/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-760x380.jpg"
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Harvard-lab-image-760x380.jpg"
     }
   ],
   "sortBy": "top",
