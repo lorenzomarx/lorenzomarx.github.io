@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "\"I was trying to mentally prepare myself to deal with a crashed capsule in the desert.\"",
+      "publishedAt": "2023-12-06T23:08:03+00:00",
+      "title": "Crossed wires led to high drama as NASA returned asteroid samples to Earth",
+      "url": "https://arstechnica.com/space/2023/12/nasas-asteroid-mission-struck-its-target-but-then-dodged-a-bullet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/53210646183_766f758413_k-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Fired exec suing Musk says he warned that budget cuts would harm FTC compliance.",
+      "publishedAt": "2023-12-06T22:33:24+00:00",
+      "title": "Ex-Twitter exec sues Musk, says he was fired for objecting to budget cuts",
+      "url": "https://arstechnica.com/tech-policy/2023/12/ex-twitter-exec-sues-musk-says-he-was-fired-for-objecting-to-budget-cuts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-twitter-x-logos-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "When it comes to recycling and rebranding old chips, no one's hands are clean.",
+      "publishedAt": "2023-12-06T22:19:17+00:00",
+      "title": "Intel, of all companies, knocks AMD\u2019s CPU numbering in now-deleted presentation",
+      "url": "https://arstechnica.com/gadgets/2023/12/intel-accuses-amd-of-selling-old-cpus-with-new-model-numbers-which-intel-also-does/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/intel-core-truths-02-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "QuEra gets ready for error correction, runs operations with over 40 logical qubits.",
+      "publishedAt": "2023-12-06T22:05:29+00:00",
+      "title": "Quantum computer performs error-resistant operations with logical qubits",
+      "url": "https://arstechnica.com/science/2023/12/quantum-computer-performs-error-resistant-operations-with-logical-qubits/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/QuEras-optical-layout-760x380.jpeg"
+    },
+    {
       "author": "Benj Edwards",
-      "description": "Google claims Gemini beats GPT-4 in \"30 of the 32 widely used academic benchmarks.\"",
-      "publishedAt": "2023-12-06T18:01:33+00:00",
-      "title": "Google launches Gemini\u2014a powerful AI model it says can surpass GPT-4",
-      "url": "https://arstechnica.com/information-technology/2023/12/google-launches-gemini-a-powerful-ai-model-it-says-can-surpass-gpt-4/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-760x380.jpg"
+      "description": "\"Imagine with Meta AI\" turns prompts into images, trained using public Facebook data.",
+      "publishedAt": "2023-12-06T21:52:14+00:00",
+      "title": "Meta\u2019s new AI image generator was trained on 1.1 billion Instagram and Facebook photos",
+      "url": "https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/meta_emu_hero_1-760x380.jpg"
     },
     {
       "author": "Ashley Belanger",
-      "description": "Apple to update transparency report to break out push notification data requests.",
-      "publishedAt": "2023-12-06T17:47:47+00:00",
-      "title": "Apple admits to secretly giving governments push notification data",
-      "url": "https://arstechnica.com/tech-policy/2023/12/apple-admits-to-secretly-giving-governments-push-notification-data/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1347264157-760x380.jpg"
+      "description": "Anyone who fails to opt out \"will be deemed to have agreed to the new terms.\"",
+      "publishedAt": "2023-12-06T21:20:29+00:00",
+      "title": "After hack, 23andMe gives users 30 days to opt out of class-action waiver",
+      "url": "https://arstechnica.com/tech-policy/2023/12/23andme-changes-arbitration-terms-after-hack-impacting-millions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1230824302-760x380.jpg"
     },
     {
-      "author": "Kevin Purdy",
-      "description": "Re-creating a candle's multi-angle glow requires a lot of small-scale soldering.",
-      "publishedAt": "2023-12-06T17:22:02+00:00",
-      "title": "Volumetric LED candle looks the same from any angle\u2014and looks like amazing work",
-      "url": "https://arstechnica.com/gadgets/2023/12/volumetric-candle-is-a-coin-battery-tiny-board-led-and-rapid-build-genius/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/mitxela2-760x380.jpg"
+      "author": "Ron Amadeo",
+      "description": "iMessage isn't popular enough with businesses to force interoperability.",
+      "publishedAt": "2023-12-06T20:47:58+00:00",
+      "title": "iMessage will reportedly dodge EU regulations, won\u2019t have to open up",
+      "url": "https://arstechnica.com/apple/2023/12/imessage-will-reportedly-dodge-eu-regulations-wont-have-to-open-up/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/imessage-760x380.jpg"
     },
     {
-      "author": "Scharon Harding",
-      "description": "Google \"indexing those malformed URLs and serving them instead of the correct ones.\"",
-      "publishedAt": "2023-12-06T17:03:19+00:00",
-      "title": "Google Search results are showing Reddit URLs altered to include a slur",
-      "url": "https://arstechnica.com/gadgets/2023/12/google-search-results-are-showing-reddit-urls-altered-to-include-a-slur/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1237940137-760x380.jpg"
+      "author": "Jennifer Ouellette",
+      "description": "\"It turns out you can\u2019t cut corners if you want to achieve excellence.\u201d",
+      "publishedAt": "2023-12-06T20:40:50+00:00",
+      "title": "Study: Why a spritz of water before grinding coffee yields less waste, tastier espresso",
+      "url": "https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/coffee2-760x380.jpg"
     },
     {
-      "author": "Dan Goodin",
-      "description": "UEFIs booting Windows and Linux devices can be hacked by malicious logo images.",
-      "publishedAt": "2023-12-06T15:02:41+00:00",
-      "title": "Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack",
-      "url": "https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/computer-power-button-760x380.jpg"
+      "author": "Andrew Cunningham",
+      "description": "Improved AI performance is this familiar-looking chip's main innovation.",
+      "publishedAt": "2023-12-06T20:00:19+00:00",
+      "title": "AMD\u2019s new Ryzen 8040 laptop chips look a lot like the Ryzen 7040 CPUs",
+      "url": "https://arstechnica.com/gadgets/2023/12/amds-new-ryzen-8040-laptop-chips-look-a-lot-like-the-ryzen-7040-cpus/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ryzen-8040-01-2-760x380.jpeg"
     },
     {
-      "author": "Qianer Liu and John Reed, Financial Times",
-      "description": "Apple is looking to diversify its supply chains amid growing geopolitical tension.",
-      "publishedAt": "2023-12-06T14:47:38+00:00",
-      "title": "Apple wants iPhone 16 batteries to come from India, not China",
-      "url": "https://www.ft.com/content/1eee7956-a5be-4df0-a9a9-139c573c4f8f",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.38.20-PM-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Molecules in the outflows from the young stars are excited by the turbulent conditions.",
-      "publishedAt": "2023-12-06T13:00:31+00:00",
-      "title": "Daily Telescope: A super-hot jet 1,000 light-years from Earth",
-      "url": "https://arstechnica.com/space/2023/12/daily-telescope-a-super-hot-jet-1000-light-years-from-earth/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/potm2311a-760x380.jpg"
-    },
-    {
-      "author": "Alex Goy",
-      "description": "The three-wheel convertible EV weighs little, so should actually be quite efficient.",
-      "publishedAt": "2023-12-06T09:00:33+00:00",
-      "title": "The Morgan XP-1 is an extremely eccentric English electric vehicle",
-      "url": "https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/XP-1_07-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "SpaceX appears on track for at least a preliminary propellant transfer test next year.",
-      "publishedAt": "2023-12-06T01:06:38+00:00",
-      "title": "NASA says SpaceX\u2019s next Starship flight could test refueling tech",
-      "url": "https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ship28-1-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "A large lemonade contains up to 390 mg of caffeine, nearly the FDA's daily safe limit.",
-      "publishedAt": "2023-12-05T22:57:39+00:00",
-      "title": "Man dies on way home from Panera after having three \u201ccharged\u201d lemonades",
-      "url": "https://arstechnica.com/health/2023/12/man-dies-on-way-home-from-panera-after-having-three-charged-lemonades/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1483135421-760x380.jpeg"
+      "author": "Jon Brodkin",
+      "description": "ISPs are scared about the FCC's plan to measure broadband affordability.",
+      "publishedAt": "2023-12-06T18:58:19+00:00",
+      "title": "Cable lobby to FCC: Please don\u2019t look too closely at the prices we charge",
+      "url": "https://arstechnica.com/tech-policy/2023/12/cable-lobby-to-fcc-please-dont-look-too-closely-at-the-prices-we-charge/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-760x380.jpg"
     }
   ],
   "sortBy": "top",
