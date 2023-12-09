@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "It's only one truck and one thermostat, but it could be the start of a V2H wave.",
+      "publishedAt": "2023-12-08T18:02:54+00:00",
+      "title": "Ford F-150 Lightnings will soon offer home AC power, possibly cheaper than grid",
+      "url": "https://arstechnica.com/cars/2023/12/ford-f-150-lightnings-will-soon-offer-home-ac-power-possibly-cheaper-than-grid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ford_charging_resize-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Musk's last-ditch effort to terminate settlement over \"funding secured\" tweets.",
+      "publishedAt": "2023-12-08T17:28:16+00:00",
+      "title": "After losing everywhere else, Elon Musk asks SCOTUS to get SEC off his back",
+      "url": "https://arstechnica.com/tech-policy/2023/12/musk-asks-supreme-court-to-toss-sec-settlement-claims-free-speech-violation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-musk-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Annual showcase highlights \"captivating science,\" \"breathtaking beauty\" of fluid motion.",
+      "publishedAt": "2023-12-08T17:20:23+00:00",
+      "title": "Marbled paper, frosty fireworks among 2023 Gallery of Fluid Motion winners",
+      "url": "https://arstechnica.com/science/2023/12/marbled-paper-frosty-fireworks-among-2023-gallery-of-fluid-motion-winners/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fluid1-760x380.jpg"
+    },
+    {
+      "author": "Diana Gitig",
+      "description": "A literal life-or-death balance, playing out at the level of individual genes.",
+      "publishedAt": "2023-12-08T16:55:26+00:00",
+      "title": "Gene variants that promote having more sex and kids diminish your life span",
+      "url": "https://arstechnica.com/science/2023/12/gene-variants-that-promote-having-more-sex-and-kids-diminish-your-life-span/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1438700451-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Google takes heat for a misleading AI demo video that hyped up its GPT-4 competitor.",
+      "publishedAt": "2023-12-08T15:33:09+00:00",
+      "title": "Google\u2019s best Gemini AI demo video was fabricated",
+      "url": "https://arstechnica.com/information-technology/2023/12/google-admits-it-fudged-a-gemini-ai-demo-video-which-critics-say-misled-viewers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_video_misleading-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"There I was, flat on my back on a sand berm, with the best camera I had.\"",
+      "publishedAt": "2023-12-08T13:00:39+00:00",
+      "title": "Daily Telescope: Seeing stars with an iPhone in the bottom of the Grand Canyon",
+      "url": "https://arstechnica.com/space/2023/12/daily-telescope-the-stars-at-night-are-big-and-bright-in-the-grand-canyon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/IMG_1337-760x380.jpg"
+    },
+    {
+      "author": "Timothy B. Lee",
+      "description": "OpenAI hasn't said what Q* is, but it has revealed plenty of clues.",
+      "publishedAt": "2023-12-08T12:45:04+00:00",
+      "title": "The real research behind the wild rumors about OpenAI\u2019s Q* project",
+      "url": "https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/openai-math-apples-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Build a town, direct its workers, and be pleasantly tranquil as it washes away.",
+      "publishedAt": "2023-12-08T12:30:54+00:00",
+      "title": "Against the Storm feels like WarCraft without the war, and it\u2019s weirdly calming",
+      "url": "https://arstechnica.com/gaming/2023/12/against-the-storm-feels-like-warcraft-without-the-war-and-its-weirdly-calming/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Advanced-Settlement-2-760x380.png"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"God willing, the suborbital tests of the new generation 'bio-capsule' will be completely Iranian.\"",
+      "publishedAt": "2023-12-08T12:00:53+00:00",
+      "title": "Rocket Report: The final space shuttle stack; SpaceX may extend booster lifetimes",
+      "url": "https://arstechnica.com/space/2023/12/rocket-report-the-final-space-shuttle-stack-spacex-may-extend-booster-lifetimes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Both-SRMs-side-by-side-in-the-Shuttle-Gallery_0-760x380.jpg"
+    },
+    {
       "author": "Elizabeth Rayne",
       "description": "What's the advantage of triggering ice formation? It's not entirely clear.",
       "publishedAt": "2023-12-07T23:08:09+00:00",
       "title": "Fungi join the list of organisms that can control when ice forms",
       "url": "https://arstechnica.com/science/2023/12/frosty-the-mushroom-fungus-make-proteins-that-can-help-ice-form/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-3-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "The fix will sift through app data for cached files, but users say it doesn't work.",
-      "publishedAt": "2023-12-07T22:26:51+00:00",
-      "title": "Google calls Drive data loss \u201cfixed,\u201d locks forum threads saying otherwise",
-      "url": "https://arstechnica.com/gadgets/2023/12/google-calls-drive-data-loss-fixed-locks-forum-threads-saying-otherwise/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Google-Drive-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Ample's technology replaces the existing EV battery pack to allow battery swaps.",
-      "publishedAt": "2023-12-07T20:44:50+00:00",
-      "title": "EV battery swaps will be tested with the Fiat 500e in 2024",
-      "url": "https://arstechnica.com/cars/2023/12/ev-battery-swaps-will-be-tested-with-the-fiat-500e-in-2024/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/Ample-84-1-2-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Opinion: HP's printer business practices have infuriated users for years.",
-      "publishedAt": "2023-12-07T20:32:35+00:00",
-      "title": "HP misreads room, awkwardly brags about its \u201cless hated\u201d printers",
-      "url": "https://arstechnica.com/gadgets/2023/12/hp-misreads-room-awkwardly-brags-about-its-less-hated-printers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hp-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Twitch: Network fees in Korea 10 times more expensive than in most countries.",
-      "publishedAt": "2023-12-07T20:15:56+00:00",
-      "title": "Twitch exit from S. Korea is latest fallout from \u201csending-party-pays\u201d model",
-      "url": "https://arstechnica.com/tech-policy/2023/12/twitch-exit-from-s-korea-is-latest-fallout-from-sending-party-pays-model/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-twitch-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Systemd is used by Debian, Arch, Fedora, Ubuntu, and many downstream distros.",
-      "publishedAt": "2023-12-07T19:22:44+00:00",
-      "title": "New systemd update will bring Windows\u2019 infamous Blue Screen of Death to Linux",
-      "url": "https://arstechnica.com/gadgets/2023/12/linux-distros-are-about-to-get-a-killer-windows-feature-the-blue-screen-of-death/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/bsod-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Default E2EE rolling out now but will take months to reach all 1 billion users.",
-      "publishedAt": "2023-12-07T17:06:34+00:00",
-      "title": "Meta defies FBI opposition to encryption, brings E2EE to Facebook, Messenger",
-      "url": "https://arstechnica.com/tech-policy/2023/12/meta-defies-fbi-opposition-to-encryption-brings-e2ee-to-facebook-messenger/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-meta-apps-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "New Airs should arrive alongside redesigned iPad Pros and a 12.9-inch iPad Air.",
-      "publishedAt": "2023-12-07T16:57:19+00:00",
-      "title": "Report: Early 2024 will bring M3 MacBook Airs and first new iPads in over a year",
-      "url": "https://arstechnica.com/gadgets/2023/12/report-early-2024-will-bring-m3-macbook-airs-and-first-new-ipads-in-over-a-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_1134-760x380.jpeg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "The rapid disruption of smaller galaxies suggests they lack a bit of dark matter.",
-      "publishedAt": "2023-12-07T16:50:04+00:00",
-      "title": "The Milky Way will probably devour all the tiny galaxies that surround it",
-      "url": "https://arstechnica.com/science/2023/12/the-milky-way-will-probably-devour-all-the-tiny-galaxies-that-surround-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-2-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The bill would prevent the EPA from enforcing tougher new pollution standards.",
-      "publishedAt": "2023-12-07T16:46:06+00:00",
-      "title": "White House threatens to veto anti-EV bill just passed by US House",
-      "url": "https://arstechnica.com/cars/2023/12/white-house-threatens-to-veto-anti-ev-bill-just-passed-by-us-house/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1190300339-760x380.jpg"
     }
   ],
   "sortBy": "top",
