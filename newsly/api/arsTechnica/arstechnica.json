@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Diana Gitig",
+      "description": "A Kenyan tinkerer and Stanford engineer team up to make maxi pads from agave fibers.",
+      "publishedAt": "2023-12-09T13:08:52+00:00",
+      "title": "A locally grown solution for period poverty",
+      "url": "https://arstechnica.com/science/2023/12/a-locally-grown-solution-for-period-poverty/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-523716194-760x380.jpg"
+    },
+    {
+      "author": "Gregory Barber, Wired.com",
+      "description": "Sprinkling rock dust on farmland to soak up atmospheric carbon will be tested at large scale.",
+      "publishedAt": "2023-12-09T12:07:07+00:00",
+      "title": "The quest to turn basalt dust into a viable climate solution",
+      "url": "https://www.wired.com/story/rock-dust-soak-up-carbon-emissions-climate-experiment/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Basalt-Dust-Stockpile-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "NASA is still evaluating Hubble servicing studies from SpaceX and other companies.",
       "publishedAt": "2023-12-09T01:30:36+00:00",
@@ -63,22 +79,6 @@
       "title": "Verizon fell for fake \u201csearch warrant,\u201d gave victim\u2019s phone data to stalker",
       "url": "https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/06/getty-verizon-logo-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Krasue infects telecom firms in Thailand using techniques for staying under the radar.",
-      "publishedAt": "2023-12-08T20:54:09+00:00",
-      "title": "Stealthy Linux rootkit found in the wild after going undetected for 2 years",
-      "url": "https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/trojan-backdoor-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "The butt even grows its own eyes, antennae, and brain.",
-      "publishedAt": "2023-12-08T19:53:48+00:00",
-      "title": "Worm\u2019s rear end develops its own head, wanders off to mate",
-      "url": "https://arstechnica.com/science/2023/12/bizarre-worm-can-detach-its-own-butt-and-make-it-swim-away/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screen-Shot-2023-12-08-at-2.30.22-PM-760x380.jpeg"
     }
   ],
   "sortBy": "top",
