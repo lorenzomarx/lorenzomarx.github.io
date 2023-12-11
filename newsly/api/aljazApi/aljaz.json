@@ -2,6 +2,19 @@
   "articles": [
     {
       "author": "Al Jazeera",
+      "content": "Violence has escalated at Lebanons border with Israel as Hezbollah launched explosive drones and missiles at Israeli positions, and Israeli air strikes rocked several towns and villages in south Leba\u2026 [+2753 chars]",
+      "description": "Hezbollah fires explosive drones and missiles at Israeli positions as Israeli strikes hit several south Lebanon areas.",
+      "publishedAt": "2023-12-10T19:35:11Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Violence escalates between Israel and Lebanon\u2019s Hezbollah amid Gaza assault",
+      "url": "https://www.aljazeera.com/news/2023/12/10/violence-escalates-between-israel-and-lebanons-hezbollah-amid-gaza-assault",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-12-10T104907Z_1147404096_RC2AU4AW5N2I_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1702236454.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
       "content": "Central Gaza Strip \u00a0In the town of az-Zawayda in central Gaza, neighbours have been working since Sunday morning, collecting the body parts of dozens of people that used to live in the Nisman family \u2026 [+1833 chars]",
       "description": "About 45 members of Nisman family, who sheltered displaced relatives, targeted in latest Israeli attack.",
       "publishedAt": "2023-12-10T18:07:42Z",
@@ -1286,21 +1299,8 @@
       "title": "Netanyahu warns Hezbollah after cross-border attack kills Israeli civilian",
       "url": "https://www.aljazeera.com/news/2023/12/8/netanyahu-threatens-hezbollah-after-cross-border-attack-kills-civilian",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/343M7VP-highres-1699970836.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Two months have passed since the October 7 cross-border attack on Israel by Hamas fighters. During this period, relentless Israeli strikes and ground attacks have killed at least 17,000 Palestinians \u2026 [+2162 chars]",
-      "description": "Hundreds of Palestinians have been killed and thousands injured and detained in occupied West Bank since October 7.",
-      "publishedAt": "2023-12-08T08:23:35Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Occupied West Bank faces growing Israeli aggression amid Gaza war",
-      "url": "https://www.aljazeera.com/gallery/2023/12/8/photos-two-months-of-gaza-warwest-bank-faces-onslaught-of-israeli",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/34738LN-highres-1702012588.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1370
+  "totalResults": 1371
 }
