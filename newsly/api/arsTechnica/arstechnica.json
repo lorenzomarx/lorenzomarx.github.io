@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "Does Jeff Bezos's heavy-lift rocket really have a shot at launching next year?",
+      "publishedAt": "2023-12-13T02:25:51+00:00",
+      "title": "Blue Origin sure seems confident it will launch New Glenn in 2024",
+      "url": "https://arstechnica.com/space/2023/12/blue-origin-sure-seems-confident-it-will-launch-new-glenn-in-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/blueoriginksc1-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "The people, scenery, and oddities that made E3 part trade show, part theme park.",
+      "publishedAt": "2023-12-12T23:18:59+00:00",
+      "title": "E3 memory lane: Ars\u2019 favorite moments from the show\u2019s over-the-top past",
+      "url": "https://arstechnica.com/gaming/2023/12/e3-memory-lane-ars-favorite-moments-from-the-shows-over-the-top-past/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/e3-crowd-phones-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Eye drops are uniquely risky because the eye is an immune-privileged site.",
+      "publishedAt": "2023-12-12T22:52:57+00:00",
+      "title": "Every homeopathic eye drop should be pulled off the market, FDA says",
+      "url": "https://arstechnica.com/science/2023/12/every-homeopathic-eye-drop-should-be-pulled-off-the-market-fda-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-129375242-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"This is a form of power that our world has not yet seen.\"",
+      "publishedAt": "2023-12-12T22:19:01+00:00",
+      "title": "The future of Arrakis is at stake in latest trailer for Dune: Part Two",
+      "url": "https://arstechnica.com/culture/2023/12/love-blooms-in-the-midst-of-war-in-latest-trailer-for-dune-part-two/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/duneTOP-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Already-purchased licenses can still be used but will eventually lose support.",
+      "publishedAt": "2023-12-12T22:04:00+00:00",
+      "title": "Broadcom ends VMware perpetual license sales, testing customers and partners",
+      "url": "https://arstechnica.com/information-technology/2023/12/broadcom-ends-vmware-perpetual-license-sales-testing-customers-and-partners/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1247615915-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "FCC accused of violating congressional resolution that nullified privacy rules.",
+      "publishedAt": "2023-12-12T21:27:45+00:00",
+      "title": "Ted Cruz wants to stop the FCC from updating data-breach notification rules",
+      "url": "https://arstechnica.com/tech-policy/2023/12/ted-cruz-wants-to-stop-the-fcc-from-updating-data-breach-notification-rules/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-ted-cruz-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Eating, tipping, LGBTQ+ advice, and Mandarin for \"Self-Flashing\" and \"RGB.\"",
+      "publishedAt": "2023-12-12T20:41:07+00:00",
+      "title": "A New Essential Guide to Electronics by Naomi Wu details a different Shenzen",
+      "url": "https://arstechnica.com/gadgets/2023/12/a-new-essential-guide-to-electronics-by-naomi-wu-details-a-different-shenzen/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/shenzen_guide1-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Lawmakers want HHS to revise health privacy law to require warrants.",
+      "publishedAt": "2023-12-12T20:31:44+00:00",
+      "title": "CVS, Rite Aid, Walgreens hand out medical records to cops without warrants",
+      "url": "https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1189373495-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "\"Mixture of experts\" Mixtral 8x7B helps open-weights AI punch above its weight class.",
+      "publishedAt": "2023-12-12T20:15:01+00:00",
+      "title": "Everybody\u2019s talking about Mistral, an upstart French challenger to OpenAI",
+      "url": "https://arstechnica.com/information-technology/2023/12/new-french-ai-model-makes-waves-by-matching-gpt-3-5-on-benchmarks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/french_robot_1-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "Taking some science and some postcards for a ride.",
       "publishedAt": "2023-12-12T18:36:28+00:00",
       "title": "After 15 months Blue Origin\u2019s New Shepard spacecraft will finally fly again",
       "url": "https://arstechnica.com/space/2023/12/after-15-months-blue-origins-new-shepard-spacecraft-will-finally-fly-again/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Blue-Origin-First-Human-Flight-L0-New-Shepard-Launch-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Tesla fights DMV complaint that Autopilot is falsely advertised as autonomous.",
-      "publishedAt": "2023-12-12T17:56:42+00:00",
-      "title": "Tesla claims California false-advertising law violates First Amendment",
-      "url": "https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-tesla-cars-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Burnt offerings, including lots of horses, fill a courtyard at Casas de Turu\u00f1uelo.",
-      "publishedAt": "2023-12-12T17:44:49+00:00",
-      "title": "Ancient ruins were once a site for gruesome animal sacrifices",
-      "url": "https://arstechnica.com/science/2023/12/ancient-ruins-were-once-a-site-for-gruesome-animal-sacrifices/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/journal.pone_.0293654.g001-760x380.png"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Service starts in \"Kansas City, North Carolina\u2019s Triangle Region, Arizona, and Iowa.\"",
-      "publishedAt": "2023-12-12T17:00:45+00:00",
-      "title": "Google Fiber\u2019s 20-gig service is coming to these cities for $250 a month",
-      "url": "https://arstechnica.com/gadgets/2023/12/google-fibers-20-gig-service-is-coming-to-these-cities-for-250-a-month/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/20GigWifi7-1-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Direct online marketing, distribution made an expensive annual show unnecessary.",
-      "publishedAt": "2023-12-12T15:35:59+00:00",
-      "title": "E3 is officially dead, and so is the version of the industry it was made for",
-      "url": "https://arstechnica.com/gaming/2023/12/how-the-internet-killed-e3/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/internet-killed-e3-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Perhaps setting expectations of a $40,000 electric truck was a mistake.",
-      "publishedAt": "2023-12-12T14:02:55+00:00",
-      "title": "Ford tells suppliers it\u2019s halving F-150 Lightning production",
-      "url": "https://arstechnica.com/cars/2023/12/ford-will-cut-f-150-lightning-production-in-half-in-light-of-weaker-demand/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/REVC_1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "This image was captured from mountainous terrain in Poland.",
-      "publishedAt": "2023-12-12T13:00:04+00:00",
-      "title": "Daily Telescope: One of the few astronomical objects named after a woman",
-      "url": "https://arstechnica.com/space/2023/12/daily-telescope-one-of-the-few-astronomical-objects-named-after-a-woman/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/jones1-760x380.jpg"
-    },
-    {
-      "author": "Diane Hope",
-      "description": "Designed to study Pluto, the spacecraft\u2019s instruments are being repurposed.",
-      "publishedAt": "2023-12-12T12:27:36+00:00",
-      "title": "Deep into the Kuiper Belt, New Horizons is still doing science",
-      "url": "https://arstechnica.com/science/2023/12/squeezing-science-out-of-new-horizons-as-it-heads-out-of-the-solar-system/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1133641758-1-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Epic Games scores major court win; judge will decide remedies next month.",
-      "publishedAt": "2023-12-12T03:07:20+00:00",
-      "title": "Google\u2019s Android app store monopoly violates antitrust law, jury finds",
-      "url": "https://arstechnica.com/gaming/2023/12/googles-android-app-store-monopoly-violates-antitrust-law-jury-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/fortnitejump-760x360.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "SpaceX called off launch attempts Sunday and Monday. It's now set for Wednesday night.",
-      "publishedAt": "2023-12-12T02:16:04+00:00",
-      "title": "The US military\u2019s spaceplane is about to fly again\u2014it needs a bigger rocket",
-      "url": "https://arstechnica.com/space/2023/12/spacex-looks-primed-to-launch-military-spaceplane-higher-than-ever-before/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/fhussf52pre1-760x380.jpeg"
     }
   ],
   "sortBy": "top",
