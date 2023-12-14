@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Jordan Pearson, Emily Lipstein",
+      "content": "Heres some news you probably didnt expect to hear today: Scientists examining a unique society of mixed-species dolphins in Greece recently discovered a unique specimen with thumbs.\u00a0\r\nDolphins are in\u2026 [+2117 chars]",
+      "description": "I, for one, welcome our dolphin overlords.",
+      "publishedAt": "2023-12-13T19:29:56Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Red Alert: Scientists Have Discovered a Dolphin With Thumbs",
+      "url": "https://www.vice.com/en/article/wxjkdx/red-alert-scientists-have-discovered-a-dolphin-with-thumbs",
+      "urlToImage": "https://video-images.vice.com/articles/657a0501cbfd2c60e90c88d3/lede/1702495731224-your-paragraph-text-49.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Nathaniel Janowitz, Deborah Bonello",
       "content": "Prominent Hmong comedian and activist Tou Ger Xiong was found dead on Dec. 11 in the Colombian city of Medellin. He was reportedly killed after he went to meet a woman hed been chatting with online, \u2026 [+4222 chars]",
       "description": "Hmong comedian and activist Tou Ger Xiong was found dead in the city of Medellin.",
@@ -1286,21 +1299,8 @@
       "title": "'Buy Now, Pay Later' Giant To Shrink Human Workforce As It Goes All-In On AI",
       "url": "https://www.vice.com/en/article/pkavnv/buy-now-pay-later-giant-to-shrink-human-workforce-as-it-goes-all-in-on-ai",
       "urlToImage": "https://video-images.vice.com/articles/656f6ed851bdc621c6455e61/lede/1701803157959-gettyimages-1243719745.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDQyeGg7MHh3LDAuMDg5MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-    },
-    {
-      "author": "Matthew Gault, Jordan Pearson",
-      "content": "In every new generation, a Grand Theft Auto game is born, and a moral panic rises to meet it. So it is with Grand Theft Auto VI, the latest installment in the nearly 30-year-old franchise, which rele\u2026 [+6077 chars]",
-      "description": "A moral panic around a new Grand Theft Auto? We are so back.",
-      "publishedAt": "2023-12-05T18:15:57Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "\u2018GTA VI\u2019 Has Already Sparked a Bizarre Moral Panic Fit For Our Age",
-      "url": "https://www.vice.com/en/article/y3we8x/gta-vi-has-already-sparked-a-bizarre-moral-panic-fit-for-our-age",
-      "urlToImage": "https://video-images.vice.com/articles/656f666da2d523c3419397f2/lede/1701799880364-rockstar.png?image-resize-opts=Y3JvcD0wLjk1Njl4dzowLjk5ODV4aDswLjAyNjZ4dywwLjAwMTV4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
     }
   ],
   "status": "ok",
-  "totalResults": 386
+  "totalResults": 387
 }

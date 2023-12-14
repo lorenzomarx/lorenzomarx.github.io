@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "Some details moderate its impact, but it marks a major step.",
+      "publishedAt": "2023-12-13T19:01:27+00:00",
+      "title": "Back to reality: COP28 calls for getting fossil fuels out of energy",
+      "url": "https://arstechnica.com/tech-policy/2023/12/new-cop28-agreement-calls-for-transitioning-away-from-fossil-fuels/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1851686936-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "\"We are not Twitter any longer,\" X exec said.",
+      "publishedAt": "2023-12-13T18:23:11+00:00",
+      "title": "Elon Musk\u2019s X ad revenue reportedly fell $1.5B this year amid boycotts",
+      "url": "https://arstechnica.com/tech-policy/2023/12/stop-comparing-xs-dismal-ad-sales-to-twitters-past-success-x-exec-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1757077740-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Over 130K blind ratings show ChatGPT-4 Turbo outclassing the competition.",
+      "publishedAt": "2023-12-13T18:11:07+00:00",
+      "title": "Turing test on steroids: Chatbot Arena crowdsources ratings for 45 AI models",
+      "url": "https://arstechnica.com/ai/2023/12/turing-test-on-steroids-chatbot-arena-crowdsources-ratings-for-45-ai-models/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-152404829-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Lawyer David Schwartz must explain why a motion cited \"cases that do not exist.\"",
       "publishedAt": "2023-12-13T17:09:20+00:00",
@@ -55,30 +79,6 @@
       "title": "The 2024 Chevrolet Blazer first drive: GM\u2019s EV platform goes mainstream",
       "url": "https://arstechnica.com/cars/2023/12/the-2024-chevrolet-blazer-first-drive-gms-ev-platform-goes-mainstream/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/2024-Chevrolet-Blazer-EV-1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Amazon has been reticent to share details about its Kuiper satellites.",
-      "publishedAt": "2023-12-13T13:00:56+00:00",
-      "title": "Daily Telescope: A space-based camera spys a secretive Project Kuiper satellite",
-      "url": "https://arstechnica.com/space/2023/12/daily-telescope-an-in-situ-image-of-a-project-kuiper-satellite/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/kuiper-sat-760x380.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Does Jeff Bezos's heavy-lift rocket really have a shot at launching next year?",
-      "publishedAt": "2023-12-13T02:25:51+00:00",
-      "title": "Blue Origin sure seems confident it will launch New Glenn in 2024",
-      "url": "https://arstechnica.com/space/2023/12/blue-origin-sure-seems-confident-it-will-launch-new-glenn-in-2024/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/blueoriginksc1-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "The people, scenery, and oddities that made E3 part trade show, part theme park.",
-      "publishedAt": "2023-12-12T23:18:59+00:00",
-      "title": "E3 memory lane: Ars\u2019 favorite moments from the show\u2019s over-the-top past",
-      "url": "https://arstechnica.com/gaming/2023/12/e3-memory-lane-ars-favorite-moments-from-the-shows-over-the-top-past/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/e3-crowd-phones-760x380.jpg"
     }
   ],
   "sortBy": "top",
