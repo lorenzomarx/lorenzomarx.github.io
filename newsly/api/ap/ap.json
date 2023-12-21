@@ -1,10 +1,26 @@
 {
   "articles": [
     {
-      "author": "NAJIB JOBAIN and SAMY MAGDY",
-      "description": "RAFAH, Gaza Strip (AP) \u2014 Israeli forces raided one of the last functioning hospitals in Gaza\u2019s north and bombarded the south with airstrikes that killed at least 28 Palestinians, pressing ahead with their offensive Tuesday with renewed backing from the United States, despite rising international alarm.",
+      "author": "NICHOLAS RICCARDI",
+      "description": "DENVER (AP) \u2014 A divided Colorado Supreme Court on Tuesday declared former President Donald Trump ineligible for the White House under the U.S. Constitution\u2019s insurrection clause and removed him from the state\u2019s presidential primary ballot, setting up a likely showdown in the nation\u2019s highest court to decide whether the front-runner for the GOP nomination can remain in the race.",
+      "publishedAt": "2023-12-19T23:16:30Z",
+      "title": "Donald Trump banned from Colorado ballot in historic ruling by state's Supreme Court",
+      "url": "https://apnews.com/d16dd8f354eeaf450558378c65fd79a2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/811169873211483b9336b267bf5b6b3f/1920.jpeg"
+    },
+    {
+      "author": "HANNAH FINGERHUT and ALI SWENSON",
+      "description": "WATERLOO, Iowa (AP) \u2014 Former President Donald Trump on Tuesday defended his comments about migrants crossing the southern border \u201cpoisoning the blood\u201d of America, and he reinforced the message while denying any similarities to fascist writings others had noted.",
+      "publishedAt": "2023-12-20T02:03:44Z",
+      "title": "Trump defends controversial comments about immigrants poisoning the nation's blood at Iowa rally",
+      "url": "https://apnews.com/dff7f632948fa6511fb7d1955a28610c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/85950d13fb734af8982238decd77ca28/3000.jpeg"
+    },
+    {
+      "author": "NAJIB JOBAIN, SAMY MAGDY and JACK JEFFERY",
+      "description": "RAFAH, Gaza Strip (AP) \u2014 The Israeli army has raided and detained staff at two of the last functioning hospitals in Gaza\u2019s north, where the defense minister said Tuesday that troops were working to completely clear out Hamas militants.",
       "publishedAt": "2023-12-19T08:35:05Z",
-      "title": "Israel delivers deadly airstrikes in south Gaza and raids a hospital in the north",
+      "title": "Israeli airstrikes kill dozens more Palestinians across the Gaza Strip",
       "url": "https://apnews.com/226fdce935f5797ba8abc9ae4ad857cb",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/4277e2192ea240b79ec5ee8a4b886aa5/1920.jpeg"
     },
@@ -17,28 +33,36 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/575cb22fdf254898884de184fa3b31de/3000.jpeg"
     },
     {
-      "author": "LINDSAY WHITEHURST and SEUNG MIN KIM",
-      "description": "WASHINGTON (AP) \u2014 Justice Sandra Day O\u2019Connor, the Arizona rancher's daughter who became a voice of moderate conservatism as the first woman on the U.S.",
-      "publishedAt": "2023-12-19T05:05:09Z",
-      "title": "Sandra Day O\u2019Connor called a pioneer and 'iconic jurist' as she is memorialized by Biden, Roberts",
-      "url": "https://apnews.com/9113c9072894cdcbb4689d7ff56e98f2",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c26483ea6c074014bdd5907ea20a0d33/1920.jpeg"
-    },
-    {
       "author": "ACACIA CORONADO",
-      "description": "AUSTIN, Texas (AP) \u2014 Civil rights organizations on Tuesday filed a lawsuit challenging a new Texas law that would allow police to arrest migrants who cross the border illegally and permit local judges to order them to leave the country.",
+      "description": "AUSTIN, Texas (AP) \u2014 The White House and Mexico's president on Tuesday came out strongly against a new Texas law that would allow police to arrest migrants who illegally cross into the U.S.",
       "publishedAt": "2023-12-19T19:07:06Z",
       "title": "Groups sue over new Texas law that lets police arrest migrants who enter the US illegally",
       "url": "https://apnews.com/2be91001567623db8ad3171265d5e739",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/cf9b273a27404a18ab3b0f75016cc6ce/3000.jpeg"
     },
     {
-      "author": "MICHAEL LIEDTKE",
-      "description": "Google has agreed to pay $700 million and make several other concessions to settle allegations that it had been stifling competition against its Android app store \u2014 the same issue that went to trial in another case that could result in even bigger changes.",
-      "publishedAt": "2023-12-19T05:32:40Z",
-      "title": "Google to pay $700 million to US states, consumers in app store settlement",
-      "url": "https://apnews.com/e4e2f422baa846c66deac90c7866c5fd",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/314509efa833437a969d28146d3cea74/3000.jpeg"
+      "author": "ILLIA NOVIKOV",
+      "description": "KYIV, Ukraine (AP) \u2014 Ukrainian President Volodymyr Zelenskyy said Tuesday he's certain the United States will make good on its promise to provide billions of dollars in further aid for Kyiv to continue its fight against Russia, and he bluntly replied \u201cNo,\u201d to a question about whether his country might lose the war.",
+      "publishedAt": "2023-12-19T17:18:56Z",
+      "title": "Zelenskyy says he's confident Ukraine will get more U.S. support for its war with Russia",
+      "url": "https://apnews.com/5440b3d3034a34461d93d0740e0c1ae6",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6c9c13381888483590443a7ecfa8c82c/3000.jpeg"
+    },
+    {
+      "author": "MAYSOON KHAN",
+      "description": "ALBANY, N.Y. (AP) \u2014 New York state will create a commission tasked with considering reparations to address the persistent, harmful effects of slavery in the state, under a bill signed into law by Gov.",
+      "publishedAt": "2023-12-19T16:36:57Z",
+      "title": "New York will set up a commission to consider reparations for slavery",
+      "url": "https://apnews.com/18578dfe233c1faeccfc5213050b52d3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ac1c60c18c6a4b1997a4c06bbe046d6f/3000.jpeg"
+    },
+    {
+      "author": "SYLVIA HUI",
+      "description": "LONDON (AP) \u2014 Scientists anticipated the eruption of a volcano in southwestern Iceland for weeks, so when it happened on Monday night, it was no surprise.",
+      "publishedAt": "2023-12-19T15:11:37Z",
+      "title": "Will the eruption of the volcano in Iceland affect flights and how serious is it?",
+      "url": "https://apnews.com/83b44aeeefde4d6fee49739d47129d6e",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/405f00ed901e4d80a19279f620ceea3b/1920.jpeg"
     },
     {
       "author": "BIANCA V\u00c1ZQUEZ TONESS",
@@ -49,36 +73,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/20385c09930a4e8683172aa2b6c03cbf/3000.jpeg"
     },
     {
-      "author": "NICOLE WINFIELD",
-      "description": "ROME (AP) \u2014 Pope Francis\u2019 green light for Catholic priests to offer blessings to same-sex couples is in many ways a recognition of what has been going on in some European parishes for years.",
-      "publishedAt": "2023-12-19T15:29:48Z",
-      "title": "Pope's approval of gay blessings could have impact where rights are restricted, LGBTQ+ advocates say",
-      "url": "https://apnews.com/29b1c90f245170f7cfba81a0d1dadac0",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d6162a26325c4cb19c1aeae9d5258875/3000.jpeg"
-    },
-    {
-      "author": "MIKE SCHNEIDER",
-      "description": "ORLANDO, Fla. (AP) \u2014 South Carolina and Florida were the two fastest-growing states in the U.S., as the South dominated population gains in 2023, and the U.S. growth rate ticked upward slightly from the depths of the pandemic due to a drop in deaths, according to estimates released Tuesday by the U.S.",
-      "publishedAt": "2023-12-19T18:20:51Z",
-      "title": "South dominates US population gains as deaths drop",
-      "url": "https://apnews.com/a21094d38c216097c1ddd06164a133eb",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a12808c74af445edbef4c4908cbc6b71/2000.jpeg"
-    },
-    {
-      "author": "MELINA WALLING",
-      "description": "CHICAGO (AP) \u2014 Christmas tree breeder Jim Rockis knows what it looks like when one dies long before it can reach a buyer.Rockis farms trees in West Virginia and Pennsylvania, where he and other producers often grow their iconic evergreens outside their preferred habitat higher in the mountains.",
-      "publishedAt": "2023-12-19T17:49:50Z",
-      "title": "As climate warms, that perfect Christmas tree may depend on growers' ability to adapt",
-      "url": "https://apnews.com/90d88a843a07b5d6d943a98f11806cd5",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ebca094fed49414b9e0c0ddd64c2a37a/3000.jpeg"
-    },
-    {
-      "author": "TIM BOOTH",
-      "description": "SEATTLE (AP) \u2014 Kalen DeBoer landing the job at Washington two years ago seemed to be an unheralded transaction at the time.",
-      "publishedAt": "2023-12-19T17:02:05Z",
-      "title": "Washington's Kalen DeBoer is the AP coach of the year after leading undefeated Huskies to the CFP",
-      "url": "https://apnews.com/2911f015e8e942b36c612184be2cd8a4",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2344d848083645aa9f8709ff77fa735f/3000.jpeg"
+      "author": "ADAM BEAM",
+      "description": "SACRAMENTO, Calif. (AP) \u2014 When a toilet is flushed in California, the water can end up in a lot of places: An ice skating rink near Disneyland, ski slopes around Lake Tahoe, farmland in the Central Valley.",
+      "publishedAt": "2023-12-19T05:10:31Z",
+      "title": "Drought-prone California OKs new rules for turning wastewater directly into drinking water",
+      "url": "https://apnews.com/8b476dc83652af43c6aad52070b9d992",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e556c5767c494dd68ce9c73301a2723f/1920.jpeg"
     }
   ],
   "sortBy": "top",

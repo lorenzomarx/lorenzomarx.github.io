@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Data for almost 36 million customers now in the hands of unknown hackers.",
+      "publishedAt": "2023-12-19T23:14:40+00:00",
+      "title": "Xfinity waited 13 days to patch critical Citrix Bleed 0-day. Now it\u2019s paying the price",
+      "url": "https://arstechnica.com/security/2023/12/hack-of-unpatched-comcast-servers-results-in-stolen-personal-data-including-passwords/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-comcast-truck-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "An engine failure destroyed a New Shepard rocket on its previous flight.",
+      "publishedAt": "2023-12-19T22:21:25+00:00",
+      "title": "Blue Origin\u2019s suborbital rocket flies for first time in 15 months",
+      "url": "https://arstechnica.com/space/2023/12/blue-origins-suborbital-rocket-flies-for-first-time-in-15-months/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/1-4-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Future Ratchet & Clank, X-Men, and Spider-Man games exposed\u2014but it gets worse.",
+      "publishedAt": "2023-12-19T21:34:49+00:00",
+      "title": "Wolverine-developer Insomniac Games sees 1.67TB of secrets leaked in data breach",
+      "url": "https://arstechnica.com/gaming/2023/12/ransomware-attack-on-insomniac-games-exposes-employee-data-future-games-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-19-151709-760x380.png"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Beeper's iMessage access could depend on both Mac data and DOJ action.",
+      "publishedAt": "2023-12-19T20:42:26+00:00",
+      "title": "Beeper\u2019s esoteric fix for iMessage access suggests why it\u2019s pushing politically",
+      "url": "https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/mac_mini_beeper-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Windows 10 and 11 users noticed this bug earlier this month.",
+      "publishedAt": "2023-12-19T20:16:16+00:00",
+      "title": "Microsoft releases downloadable tool to fix phantom HP printer installations",
+      "url": "https://arstechnica.com/gadgets/2023/12/microsoft-releases-downloadable-tool-to-fix-phantom-hp-printer-installations/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hp-106-760x380.jpeg"
+    },
+    {
+      "author": "Diana Gitig",
+      "description": "Signaling molecules help modulate the brain's overall activity.",
+      "publishedAt": "2023-12-19T19:30:33+00:00",
+      "title": "Human brain cells put much more energy into signaling",
+      "url": "https://arstechnica.com/science/2023/12/human-brain-cells-put-much-more-energy-into-signaling/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-919436546-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Thune, Cruz complain that $30 discounts go to people who \"already had broadband.\"",
       "publishedAt": "2023-12-19T18:28:35+00:00",
@@ -31,54 +79,6 @@
       "title": "The Play Store preps remote app uninstall feature",
       "url": "https://arstechnica.com/google/2023/12/the-play-store-will-soon-let-you-uninstall-apps-from-remote-devices/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Google-Play-Store-logo-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "California and Nevada have approved a test of the new light color.",
-      "publishedAt": "2023-12-19T17:44:57+00:00",
-      "title": "Turquoise taillights tell you this Mercedes is driving autonomously",
-      "url": "https://arstechnica.com/cars/2023/12/turquoise-taillights-tell-you-this-mercedes-is-driving-autonomously/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/23C0434_004-source-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Novel Terrapin attack uses prefix truncation to downgrade the security of SSH channels.",
-      "publishedAt": "2023-12-19T17:35:09+00:00",
-      "title": "SSH protects the world\u2019s most sensitive networks. It just got a lot weaker",
-      "url": "https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/terrapin-data-attack-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\u201cWe\u2019re in another space race back to the Moon, and this time it\u2019s with China.\"",
-      "publishedAt": "2023-12-19T17:24:17+00:00",
-      "title": "US Congress recommends placing assets at Lagrange points to counter China",
-      "url": "https://arstechnica.com/space/2023/12/us-congress-recommends-placing-assets-at-lagrange-points-to-counter-china/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Lagrange-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Researchers compare a theorized behavior of dark matter to actual galaxies.",
-      "publishedAt": "2023-12-19T17:06:41+00:00",
-      "title": "Dark matter might be keeping an even darker secret",
-      "url": "https://arstechnica.com/science/2023/12/dark-matter-might-be-keeping-an-even-darker-secret/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-6-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Play Store users can expect at least $2 in \"unnecessary\" fees refunded.",
-      "publishedAt": "2023-12-19T15:38:52+00:00",
-      "title": "Google\u2019s loss to Epic Games leads to $700M settlement with users, states",
-      "url": "https://arstechnica.com/tech-policy/2023/12/most-of-googles-700m-antitrust-settlement-will-go-to-play-store-users/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1208999503-760x380.jpg"
-    },
-    {
-      "author": "Matt Simon, wired.com",
-      "description": "It's another sign of how plasticized our environment has become.",
-      "publishedAt": "2023-12-19T14:35:24+00:00",
-      "title": "Hurricane Larry dumped 100,000 microplastics per sq. meter on Newfoundland each day",
-      "url": "https://www.wired.com/story/oh-good-hurricanes-are-now-made-of-microplastics/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-760x380.jpg"
     }
   ],
   "sortBy": "top",
