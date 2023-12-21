@@ -1,6 +1,84 @@
 {
   "articles": [
     {
+      "author": "Janus Rose, Jordan Pearson",
+      "content": "Over 1,000 images of sexually abused children have been discovered inside the largest dataset used to train image-generating AI, shocking everyone except for the people who have warned about this exa\u2026 [+3879 chars]",
+      "description": "The LAION-5B dataset is the basis for numerous AI models. Researchers have long warned that massive training datasets are poorly audited.",
+      "publishedAt": "2023-12-20T19:15:57Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Child Sex Abuse Material Was Found In a Major AI Dataset. Researchers Aren\u2019t Surprised.",
+      "url": "https://www.vice.com/en/article/3aky5n/child-sex-abuse-material-was-found-in-a-major-ai-dataset-researchers-arent-surprised",
+      "urlToImage": "https://video-images.vice.com/articles/65833bae73422818afe92e74/lede/1703099696936-gettyimages-1801115698.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI4eGg7MHh3LDAuMDQ1NnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
+      "author": "VICE Staff, Joe Zadeh",
+      "content": "Weve published a hell of a lot of words about drugs this year. Our writers have ventured deep into the history of drug culture, gone on therapeutic retreats, interviewed world-leading experts, and un\u2026 [+5770 chars]",
+      "description": "Does ketamine therapy work? Why are people taking psychedelic toad venom? Answers to all these questions and more.",
+      "publishedAt": "2023-12-20T18:48:42Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The 17 Best Drug Stories We Published in 2023",
+      "url": "https://www.vice.com/en/article/m7b4g3/best-drug-stories-2023",
+      "urlToImage": "https://video-images.vice.com/articles/657b30256cc009e1e59ad56b/lede/1703085098714-best-of-vice-large.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45OTk5MDIxMTQzMzA0NjJ4aDtjZW50ZXIsY2VudGVyJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
+      "author": "Sophie Wilson, Mahoro Seward",
+      "content": "",
+      "description": "Whether coquette, balletcore or barbiecore, we've reached peak hyperfemininity. And yet, the top creative director jobs are still all going to men.",
+      "publishedAt": "2023-12-20T16:58:09Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "How feminist fashion evolved in 2023",
+      "url": "https://i-d.vice.com/en/article/bvjbd5/feminist-fashion-trend-coquette-balletcore-barbiecore",
+      "urlToImage": "https://video-images.vice.com/articles/6582c5d6c645e209ad790597/lede/1703073001491-feminist-fashion-2023.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "Deborah Bonello, Deborah Bonello, Josh Visser",
+      "content": "Rosalinda Gonz\u00e1lez Valencia, also known as la Jefa [the female boss], who married one of the DEAs most-wanted drug traffickers, Nemesio El Mencho Oseguera-Cervantes, was recently sentenced to five ye\u2026 [+3271 chars]",
+      "description": "Rosalinda Gonz\u00e1lez Valencia, who married the DEA's most-wanted trafficker \"El Mencho,\" was sentenced to five years behind bars in Mexico.",
+      "publishedAt": "2023-12-20T14:55:32Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Mexico is Punishing Narca Boss 'La Jefa' for her Dodgy Car Wash Transactions",
+      "url": "https://www.vice.com/en/article/5d9458/mexico-cjng-el-mencho-wife-sentenced-rosalinda-gonzalez-valencia",
+      "urlToImage": "https://video-images.vice.com/articles/6582ff42cbfd2c60e90dfe7e/lede/1703084018632-mexico-el-menchos-wife-sentenced.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "Manisha Krishnan, Josh Visser",
+      "content": "St. Louis, Missouri police crashed into a gay bar and then beat and arrested its owner early on Monday morning and charged him with felony assault, according to a lawyer representing the owner.\u00a0\r\nVid\u2026 [+3221 chars]",
+      "description": "Videos appear to contest the St. Louis police\u2019s version of events.",
+      "publishedAt": "2023-12-20T14:41:43Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Cops Crashed a Car Into a Gay Bar Then Beat and Arrested the Owner: Lawyer",
+      "url": "https://www.vice.com/en/article/4a3p4m/cops-crashed-a-car-into-a-gay-bar-then-beat-and-arrested-the-owner-lawyer",
+      "urlToImage": "https://video-images.vice.com/articles/6582f98ed7b360c4578b0f6a/lede/1703082454351-policing-stlouis-crash.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "Douglas Greenwood, Frankie Dunn",
+      "content": "",
+      "description": "From chocolatiers to lesbians up to no good, beachside orgies to controversy-stirring docs, these are the film highlights of this year.",
+      "publishedAt": "2023-12-20T11:50:28Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The 40 best movies of 2023",
+      "url": "https://i-d.vice.com/en/article/93kmyp/best-movies-2023",
+      "urlToImage": "https://video-images.vice.com/articles/6579c6c36cc009e1e59a8507/lede/1703072184193-film2023.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Nick Thompson, Zing Tsjeng",
       "content": "You would have noticed your Instagram experience this year was punctuated by accounts commentating on specific localities and the types of people found in them. 2023 saw the explosion of hyper-local \u2026 [+4136 chars]",
       "description": "When litty bessie and her yellow pillow boyfriend give you this/that look.",
@@ -1221,86 +1299,8 @@
       "title": "We Asked People Who Retired Young: How's It Going?",
       "url": "https://www.vice.com/en/article/m7b4qy/retiring-young-how-early-retirement-is-going",
       "urlToImage": "https://video-images.vice.com/articles/657328e6380917aa15bc28dc/lede/1702291988874-img4441.jpeg?image-resize-opts=Y3JvcD0xeHc6MC43NXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Alessandro Merola , Ryan White",
-      "content": "",
-      "description": "All we want for Christmas is a collection of thoughtful/sexy/arty/whimsical photobooks.",
-      "publishedAt": "2023-12-12T08:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "The photobooks to gift this Christmas",
-      "url": "https://i-d.vice.com/en/article/n7e5wq/the-photobooks-to-gift-this-christmas",
-      "urlToImage": "https://video-images.vice.com/articles/65772431380917aa15bc50ef/lede/1702307237572-1pollymaggoop500-501.jpeg?image-resize-opts=Y3JvcD0wLjkzMjh4dzowLjgyMjd4aDswLjAzMTJ4dywwLjAzOTF4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
-    },
-    {
-      "author": "Ashley Otero, Sara David",
-      "content": "Were feeling alert, though possibly with scattered focus as the moon and Mars meet up in Sagittarius at 5:05 AM, encouraging us to pace ourselves through the day and pay attention to whats in front o\u2026 [+7416 chars]",
-      "description": "There\u2019s a new moon in Sagittarius.",
-      "publishedAt": "2023-12-11T22:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Daily Horoscope: December 12, 2023",
-      "url": "https://www.vice.com/en/article/jg5kzb/daily-horoscope-december-12-2023",
-      "urlToImage": "https://video-images.vice.com/articles/656df22a076e186572608db8/lede/1701704306357-9sagittariusdaily91920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Jules Roscoe, Jordan Pearson",
-      "content": "The U.S. House Intelligence Committee has proposed a reform bill that privacy experts are warning would significantly expand the governments mass surveillance apparatus.\u00a0\r\nThe Foreign Intelligence Su\u2026 [+5588 chars]",
-      "description": "Privacy experts worry that a proposed reform bill would greatly widen how the government can surveil Americans\u2019 digital communications.",
-      "publishedAt": "2023-12-11T21:00:56Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "'Eyes Everywhere': Congress Is About to Vote to Expand Mass Surveillance of Americans, Experts Warn",
-      "url": "https://www.vice.com/en/article/qjvmpv/eyes-everywhere-congress-is-about-to-vote-to-expand-mass-surveillance-of-americans-experts-warn",
-      "urlToImage": "https://video-images.vice.com/articles/657777025ebd031509a03e84/lede/1702328435260-gettyimages-1409850965.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDN4aDsweHcsMC4wNTh4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
-    },
-    {
-      "author": "Matthew Gault, Jordan Pearson",
-      "content": "Republican Senator Tommy Tuberville is accidentally the most effective anti-Pentagon politician in recent history.\u00a0\r\nThe U.S. has troops and bases scattered across the world and outspends every other\u2026 [+4106 chars]",
-      "description": "Republican Senator Tommy Tuberville says he's pro-troop, his recent history says otherwise.",
-      "publishedAt": "2023-12-11T20:41:03Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Incredible: GOP Senator Doing More to Hamper U.S. Military Than Anyone In Living Memory",
-      "url": "https://www.vice.com/en/article/5d94p3/incredible-gop-senator-doing-more-to-hamper-us-military-than-anyone-in-living-memory",
-      "urlToImage": "https://video-images.vice.com/articles/657772635ebd031509a03e0b/lede/1702327238392-gettyimages-1768726061.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI2eGg7MHh3LDAuMDk0NnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-    },
-    {
-      "author": "Maxwell Strachan, Jordan Pearson",
-      "content": "The online sports gambling industry is coming under increasing scrutiny in the U.S. after years of rapid expansion cheered on by politicians at all levels of government and regular Americans.\r\nNow, t\u2026 [+5545 chars]",
-      "description": "Richard Daynard became famous for developing the legal strategy against Big Tobacco that ultimately led to a historic $206 billion settlement.\u00a0He sees \"uncanny\" similarities in online sports betting.",
-      "publishedAt": "2023-12-11T19:07:42Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "The Lawyer Who Took on Big Tobacco Is Now Fighting an Online Sports Betting Giant",
-      "url": "https://www.vice.com/en/article/y3wkgg/the-lawyer-who-took-on-big-tobacco-is-now-fighting-an-online-sports-betting-giant",
-      "urlToImage": "https://video-images.vice.com/articles/6577501cad1b933d64cb15a9/lede/1702319866940-gettyimages-469817348.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDIzeGg7MHh3LDAuMDAwNXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-    },
-    {
-      "author": "Tess Owen, Josh Visser, Deborah Bonello",
-      "content": "Conspiracy theorist Alex Jones says hes sorry, again, for spreading lies about the 2012 mass shooting at Sandy Hook Elementary School that left 20 young children dead.\u00a0\r\nJones doubled down on his apo\u2026 [+3169 chars]",
-      "description": "Jones apologized, again, for falsely claiming that the Sandy Hook school massacre was a hoax.",
-      "publishedAt": "2023-12-11T18:34:53Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Elon Musk Hosted Alex Jones For a Nice Chat About the Time He Defamed Dead Children",
-      "url": "https://www.vice.com/en/article/pkawdb/elon-musk-hosted-alex-jones-for-a-nice-chat-about-the-time-he-defamed-dead-children",
-      "urlToImage": "https://video-images.vice.com/articles/65775338054e8ecbd4b879da/lede/1702319422540-elon-musk-reinstates-alex-jones-twitter-x.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
     }
   ],
   "status": "ok",
-  "totalResults": 356
+  "totalResults": 362
 }

@@ -1,10 +1,58 @@
 {
   "articles": [
     {
+      "author": "Ron Amadeo",
+      "description": "Samsung's current S-series flagship and foldable phones are getting parts.",
+      "publishedAt": "2023-12-20T18:15:19+00:00",
+      "title": "Samsung expands repair program to more devices, now in 43 countries",
+      "url": "https://arstechnica.com/gadgets/2023/12/samsung-expands-repair-program-to-more-devices-now-in-43-countries/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Self-Repair-Program-Expansion_dl1-760x380.jpg"
+    },
+    {
+      "author": "Sethuraman Panchanathan and Tony Gonzales",
+      "description": "NSF Director joins a US Rep on Ars to argue that Science's benefits are widespread.",
+      "publishedAt": "2023-12-20T17:53:35+00:00",
+      "title": "NSF director: US Antarctic research has national impact",
+      "url": "https://arstechnica.com/science/2023/12/nsf-director-us-antarctic-research-has-national-impact/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/C-17-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The engine, which sold for $718,000, cannot be flown again.",
+      "publishedAt": "2023-12-20T17:05:05+00:00",
+      "title": "What would you do with a used Rolls-Royce Olympus engine from Concorde?",
+      "url": "https://arstechnica.com/cars/2023/12/concorde-engine-sells-on-ebay-may-end-up-as-bits-of-furniture/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-973344246-760x380.jpg"
+    },
+    {
+      "author": "Javier Espinoza and Patricia Nilsson, Financial Times",
+      "description": "Xvideos, Pornhub, and Stripchat face curbs on age verification, content moderation.",
+      "publishedAt": "2023-12-20T15:06:36+00:00",
+      "title": "EU will hold 3 major porn sites to same regulations as Meta, X",
+      "url": "https://www.ft.com/content/c44d9c06-a868-4516-8124-43d7e1ec5a54",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/xxx-keyboard-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Some familiar faces remain, along with a few new entrants.",
+      "publishedAt": "2023-12-20T13:00:14+00:00",
+      "title": "Our ranking of top US launch companies finds a familiar name on top",
+      "url": "https://arstechnica.com/space/2023/12/top-us-launch-companies-of-2023-the-ars-technica-power-ranking/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GPS-III-6-Jan-2023-0667-2-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "O Christmas tree, O Christmas tree, you stand in splendid beauty!",
+      "publishedAt": "2023-12-20T12:55:22+00:00",
+      "title": "Daily Telescope: A colorful Christmas tree in the night sky",
+      "url": "https://arstechnica.com/space/2023/12/daily-telescope-a-colorful-christmas-tree-in-the-night-sky/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Christmas-Tree-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Data for almost 36 million customers now in the hands of unknown hackers.",
       "publishedAt": "2023-12-19T23:14:40+00:00",
-      "title": "Xfinity waited 13 days to patch critical Citrix Bleed 0-day. Now it\u2019s paying the price",
+      "title": "Xfinity waited to patch critical Citrix Bleed 0-day. Now it\u2019s paying the price",
       "url": "https://arstechnica.com/security/2023/12/hack-of-unpatched-comcast-servers-results-in-stolen-personal-data-including-passwords/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-comcast-truck-760x380.jpg"
     },
@@ -31,54 +79,6 @@
       "title": "Beeper\u2019s esoteric fix for iMessage access suggests why it\u2019s pushing politically",
       "url": "https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/mac_mini_beeper-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Windows 10 and 11 users noticed this bug earlier this month.",
-      "publishedAt": "2023-12-19T20:16:16+00:00",
-      "title": "Microsoft releases downloadable tool to fix phantom HP printer installations",
-      "url": "https://arstechnica.com/gadgets/2023/12/microsoft-releases-downloadable-tool-to-fix-phantom-hp-printer-installations/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hp-106-760x380.jpeg"
-    },
-    {
-      "author": "Diana Gitig",
-      "description": "Signaling molecules help modulate the brain's overall activity.",
-      "publishedAt": "2023-12-19T19:30:33+00:00",
-      "title": "Human brain cells put much more energy into signaling",
-      "url": "https://arstechnica.com/science/2023/12/human-brain-cells-put-much-more-energy-into-signaling/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-919436546-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Thune, Cruz complain that $30 discounts go to people who \"already had broadband.\"",
-      "publishedAt": "2023-12-19T18:28:35+00:00",
-      "title": "Republicans slam broadband discounts for poor people, threaten to kill program",
-      "url": "https://arstechnica.com/tech-policy/2023/12/republicans-slam-broadband-discounts-for-poor-people-threaten-to-kill-program/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/John-Thune-760x380.jpeg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Cornell staff finish the job with new technology but keep Moog's work in place.",
-      "publishedAt": "2023-12-19T18:24:02+00:00",
-      "title": "Restored 478-key, 31-tone Moog synthesizer from 1968 sounds beautifully bizarre",
-      "url": "https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-19-120819-760x380.png"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Binance\u2019s former compliance-control officer must also pay a $1.5 million fine.",
-      "publishedAt": "2023-12-19T18:21:49+00:00",
-      "title": "Binance to pay $2.7 billion fine after hiding shady transactions from feds",
-      "url": "https://arstechnica.com/tech-policy/2023/12/binance-to-pay-2-7-billion-fine-after-hiding-shady-transactions-from-feds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1396534232-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Remote installs have been around forever; now you can go the other direction.",
-      "publishedAt": "2023-12-19T18:06:35+00:00",
-      "title": "The Play Store preps remote app uninstall feature",
-      "url": "https://arstechnica.com/google/2023/12/the-play-store-will-soon-let-you-uninstall-apps-from-remote-devices/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Google-Play-Store-logo-760x380.jpg"
     }
   ],
   "sortBy": "top",
