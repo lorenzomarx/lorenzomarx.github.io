@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "\"Coscientist\" AI checks references, reads hardware manuals, and sets up reactions.",
+      "publishedAt": "2023-12-20T19:14:43+00:00",
+      "title": "Multiple Chat GPT instances combine to figure out chemistry",
+      "url": "https://arstechnica.com/science/2023/12/large-language-models-can-figure-out-how-to-do-chemistry/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1445732386-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "The first of three major AAA game releases for the iPhone has arrived.",
+      "publishedAt": "2023-12-20T18:31:31+00:00",
+      "title": "First wave of AAA iPhone games sees a big new release\u2014and a notable delay",
+      "url": "https://arstechnica.com/gaming/2023/12/first-wave-of-aaa-iphone-games-sees-a-big-new-release-and-a-notable-delay/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-20-120340-760x380.png"
+    },
+    {
       "author": "Ron Amadeo",
       "description": "Samsung's current S-series flagship and foldable phones are getting parts.",
       "publishedAt": "2023-12-20T18:15:19+00:00",
@@ -63,22 +79,6 @@
       "title": "Blue Origin\u2019s suborbital rocket flies for first time in 15 months",
       "url": "https://arstechnica.com/space/2023/12/blue-origins-suborbital-rocket-flies-for-first-time-in-15-months/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/1-4-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Future Ratchet & Clank, X-Men, and Spider-Man games exposed\u2014but it gets worse.",
-      "publishedAt": "2023-12-19T21:34:49+00:00",
-      "title": "Wolverine-developer Insomniac Games sees 1.67TB of secrets leaked in data breach",
-      "url": "https://arstechnica.com/gaming/2023/12/ransomware-attack-on-insomniac-games-exposes-employee-data-future-games-and-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/Screenshot-2023-12-19-151709-760x380.png"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Beeper's iMessage access could depend on both Mac data and DOJ action.",
-      "publishedAt": "2023-12-19T20:42:26+00:00",
-      "title": "Beeper\u2019s esoteric fix for iMessage access suggests why it\u2019s pushing politically",
-      "url": "https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/mac_mini_beeper-760x380.jpeg"
     }
   ],
   "sortBy": "top",
