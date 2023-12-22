@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "author": "LEANNE ITALIE",
-      "description": "NEW YORK (AP) \u2014 \"I think it pisses God off if you walk by the color purple in a field somewhere and don\u2019t notice it,\u201d Shug tells Celie in Alice Walker's \u201cThe Color Purple.\u201dIn nature, among the priestly and royal, as a symbol of independence, pride and magic, purple is weighty in history and culture.",
-      "publishedAt": "2023-12-19T14:27:01Z",
-      "title": "The color purple: It's a new movie and an old hue that's rich in meaning and history",
-      "url": "https://apnews.com/ff51c888bf5c769e32f0ed908a6ff633",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3cfa07d5ec8c4e24a80082d500e877c8/3000.jpeg"
-    },
-    {
       "author": "JOSEF FEDERMAN, WAFAA SHURAFA and SAMY MAGDY",
       "description": "JERUSALEM (AP) \u2014 The Israeli military on Wednesday said it had uncovered a major Hamas command center in the heart of Gaza City, inflicting what it described as a serious blow to the Islamic militant group as pressure grows on Israel to scale back its devastating military offensive in the coastal enclave.",
       "publishedAt": "2023-12-20T08:47:04Z",
@@ -25,20 +17,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/8f4b4678271b49c79cf1b618f68af89b/1920.jpeg"
     },
     {
-      "author": "KEN MORITSUGU",
-      "description": "BEIJING (AP) \u2014 China\u2019s prospects for 2024 look uncertain, as a year that opened free of COVID-19 lockdowns winds down without the dreamed of robust recovery for the world\u2019s No. 2 economy.The wars in Gaza and Ukraine are straining China\u2019s ties with the West.",
-      "publishedAt": "2023-12-21T01:17:55Z",
-      "title": "China emerged from 'zero-COVID' in 2023 to confront new challenges in a changed world",
-      "url": "https://apnews.com/f6edc288b95099a415705a9203ea5ab5",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/dc23002cbaaf43118f64ea7de994a63f/3000.jpeg"
-    },
-    {
       "author": "JOSHUA GOODMAN, ERIC TUCKER and REGINA GARCIA CANO",
       "description": "MIAMI (AP) \u2014 The United States freed a close ally of Venezuelan President Nicol\u00e1s Maduro in exchange for the release of 10 Americans imprisoned in the South American country and the return of a fugitive defense contractor known as \u201cFat Leonard\u201d who is at the center of a massive Pentagon bribery scandal, the Biden administration announced Wednesday.",
       "publishedAt": "2023-12-20T14:04:10Z",
       "title": "US, Venezuela swap prisoners: Maduro ally for 10 Americans, plus fugitive contractor 'Fat Leonard'",
       "url": "https://apnews.com/d7148a34dd009d5bab3d5f50c28ed93e",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/1387369961734f9a95d235bb0bca66d7/1920.jpeg"
+    },
+    {
+      "author": "KEN MORITSUGU",
+      "description": "BEIJING (AP) \u2014 China\u2019s prospects for 2024 look uncertain, as a year that opened free of COVID-19 lockdowns winds down without the dreamed of robust recovery for the world\u2019s No. 2 economy.The wars in Gaza and Ukraine are straining China\u2019s ties with the West.",
+      "publishedAt": "2023-12-21T01:17:55Z",
+      "title": "China emerged from 'zero-COVID' in 2023 to confront new challenges in a changed world",
+      "url": "https://apnews.com/f6edc288b95099a415705a9203ea5ab5",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/dc23002cbaaf43118f64ea7de994a63f/3000.jpeg"
     },
     {
       "author": "JENNIFER PELTZ and DAVID A. LIEB",
@@ -66,9 +58,9 @@
     },
     {
       "author": "D\u00c9BORA REY and ALMUDENA CALATRAVA",
-      "description": "BUENOS AIRES, Argentina (AP) \u2014 Protests against austerity and deregulation measures announced by newly elected President Javier Milei went off relatively peacefully in Argentina's capital Wednesday, after a government warning against blocking streets.",
+      "description": "BUENOS AIRES, Argentina (AP) \u2014 President Javier Milei announced sweeping initiatives Wednesday to transform Argentina\u2019s struggling economy, including easing government regulation and allowing privatization of state-run industries as a way to boost exports and investment.",
       "publishedAt": "2023-12-20T05:05:28Z",
-      "title": "Thousands take to the streets to protest austerity measures of Argentina's new president",
+      "title": "Argentina\u2019s president announces economy deregulation as thousands protest against austerity",
       "url": "https://apnews.com/c1b7d6506769f1331c37db6e16fe29a1",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/825cd99836bd4320833cc4448c025895/3000.jpeg"
     },
@@ -79,6 +71,14 @@
       "title": "Health officials push to get schoolchildren vaccinated as more US parents opt out",
       "url": "https://apnews.com/e7015d8fd38ec80802eeae350755a402",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/1ee8b912371f469f9616dc961e94896f/3000.jpeg"
+    },
+    {
+      "author": "DAVID CRARY",
+      "description": "Repeatedly in recent years, the U.S. Conference of Catholic Bishops has stipulated that \u201cthe threat of abortion remains our preeminent priority.\u201d In the face of recent election setbacks for abortion opponents, leading bishops and their lay allies are reassessing how to move forward with that stance.",
+      "publishedAt": "2023-12-20T13:03:54Z",
+      "title": "US Catholic leadership foresees challenges after repeated election defeats for abortion opponents",
+      "url": "https://apnews.com/25da70c3dc0912df649744e2482414fc",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6a20e5f1f92f49c4a097d42a0c83f771/3000.jpeg"
     }
   ],
   "sortBy": "top",
