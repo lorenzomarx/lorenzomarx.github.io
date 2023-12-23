@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "Going from zero to billionaire to zero is no crypto bro's dream.",
+      "publishedAt": "2023-12-22T13:04:15+00:00",
+      "title": "From CZ to SBF, 2023 was the year of the fallen crypto bro",
+      "url": "https://arstechnica.com/tech-policy/2023/12/from-cz-to-sbf-2023-was-the-year-of-the-fallen-crypto-bro/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/crypto-bros-framed-760x380.jpg"
+    },
+    {
+      "author": "Matt Simon, wired.com",
+      "description": "Your $1,000 in the bank creates emissions equal to a flight from NYC to Seattle.",
+      "publishedAt": "2023-12-22T12:33:16+00:00",
+      "title": "Banks use your deposits to loan money to fossil-fuel, emissions-heavy firms",
+      "url": "https://www.wired.com/story/your-money-is-funding-fossil-fuels-without-you-knowing-it/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/atm-bank-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"We look forward to flying our next crewed flight soon.\"",
+      "publishedAt": "2023-12-22T12:00:29+00:00",
+      "title": "Rocket Report: Vulcan stacked for launch; Starship aces test ahead of third flight",
+      "url": "https://arstechnica.com/space/2023/12/rocket-report-electron-and-new-shepard-return-to-flight-uk-spaceport-gets-ok/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/rocket-lab-1-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "You likely didn't want these PCs this year, but they may impact your future devices.",
+      "publishedAt": "2023-12-22T11:45:06+00:00",
+      "title": "Laptops\u2019 2023 quantum leap: 5 computers we\u2019ll still be talking about in 2024",
+      "url": "https://arstechnica.com/gadgets/2023/12/laptops-2023-quantum-leap-5-computers-well-still-be-talking-about-in-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1199992530-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "WBD could have 2nd most streaming subscribers if reported meeting leads to deal.",
       "publishedAt": "2023-12-21T19:24:53+00:00",
@@ -47,38 +79,6 @@
       "title": "Government makes an app to cut down government\u2019s role in solar permitting",
       "url": "https://arstechnica.com/science/2023/12/government-makes-an-app-to-cut-down-governments-role-in-solar-permitting/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1389318072-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Model-year 2022 cars, crossovers, and yes, even SUVs are the most-efficient, ever.",
-      "publishedAt": "2023-12-21T15:24:37+00:00",
-      "title": "EVs and hybrids had a noticeable effect on US fuel consumption, says EPA",
-      "url": "https://arstechnica.com/cars/2023/12/2023-had-the-best-improvement-in-fuel-efficiency-in-9-years-says-epa/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1262374947-760x380.jpg"
-    },
-    {
-      "author": "Tim Bradshaw, Financial Times",
-      "description": "iPhone maker wants to catch up to its rivals when it comes to AI.",
-      "publishedAt": "2023-12-21T14:43:43+00:00",
-      "title": "Apple wants AI to run directly on its hardware instead of in the cloud",
-      "url": "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-1.59.20-PM-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Both the shape of a dog's head and cognitive ability determine degree of spatial bias.",
-      "publishedAt": "2023-12-21T14:19:14+00:00",
-      "title": "Study: \u201cSmarter\u201d dogs think more like humans to overcome their biases",
-      "url": "https://arstechnica.com/science/2023/12/study-smarter-dogs-think-more-like-humans-to-overcome-their-biases/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/doggoTOP-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Both the daytime and nighttime vistas there were just bloody marvelous.\"",
-      "publishedAt": "2023-12-21T13:00:57+00:00",
-      "title": "Daily Telescope: A simple shot of the Milky Way high above France and Spain",
-      "url": "https://arstechnica.com/space/2023/12/daily-telescope-the-milky-way-shines-bright-above-the-pyrenees/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/MilkyWayPyrenees-760x380.jpg"
     }
   ],
   "sortBy": "top",
