@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Elizabeth Rayne",
+      "description": "Birds show evidence that they lump temporary memories into categories.",
+      "publishedAt": "2023-12-23T15:00:28+00:00",
+      "title": "Corvids seem to handle temporary memories the way we do",
+      "url": "https://arstechnica.com/science/2023/12/some-bird-brains-can-remember-things-the-same-way-we-do/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1353855373-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Tabletop is bigger than ever. What's it like trying to get your game out there?",
+      "publishedAt": "2023-12-23T13:00:48+00:00",
+      "title": "PAX Unplugged 2023: How indie devs build and sell new board games",
+      "url": "https://arstechnica.com/gaming/2023/12/pax-unplugged-2023-watching-indie-game-devs-iterate-crowdfund-and-rally/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/pax_unplug_thumb-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Gadget makers, unsurprisingly, are hesitant to compete purely on device quality.",
+      "publishedAt": "2023-12-23T12:35:31+00:00",
+      "title": "Matter, set to fix smart home standards in 2023, stumbled in the real market",
+      "url": "https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/matter2-760x380.jpg"
+    },
+    {
+      "author": "Will Knight, wired.com",
+      "description": "Lawmakers fear the NIST will have to rely on companies developing the technology.",
+      "publishedAt": "2023-12-23T11:45:09+00:00",
+      "title": "US agency tasked with curbing risks of AI lacks funding to do the job",
+      "url": "https://www.wired.com/story/americas-ai-safety-plan-budget-crunch/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/02/ai-swarm-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "People are more understanding of the reasons for rejections than most of us think.",
       "publishedAt": "2023-12-22T19:00:16+00:00",
@@ -46,38 +78,6 @@
       "publishedAt": "2023-12-21T19:24:53+00:00",
       "title": "Debt-laden Warner Bros. Discovery and Paramount consider merger",
       "url": "https://arstechnica.com/?p=1992627",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "When AI can make assets and text for ads, you don't need humans to do it anymore.",
-      "publishedAt": "2023-12-21T17:54:23+00:00",
-      "title": "Google might already be replacing some Ad sales jobs with AI",
-      "url": "https://arstechnica.com/?p=1992648",
-      "urlToImage": null
-    },
-    {
-      "author": "Dhananjay Khadilkar",
-      "description": "These winds can drive gas out of galaxies, shaping their future evolution.",
-      "publishedAt": "2023-12-21T16:51:13+00:00",
-      "title": "Galaxy-scale winds spotted in the distant Universe",
-      "url": "https://arstechnica.com/science/2023/12/galaxy-scale-winds-spotted-in-the-distant-universe/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/image-7-760x380.jpeg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "This ticket to the Moon will probably go to a European or Japanese astronaut.",
-      "publishedAt": "2023-12-21T16:44:47+00:00",
-      "title": "US commits to landing an international astronaut on the Moon",
-      "url": "https://arstechnica.com/space/2023/12/us-commits-to-landing-an-international-astronaut-on-the-moon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/53410770051_a7295444a8_k-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "FTC seeking public comments on new rules to expand children's privacy law.",
-      "publishedAt": "2023-12-21T16:36:30+00:00",
-      "title": "FTC suggests new rules to shift parents\u2019 burden of protecting kids to websites",
-      "url": "https://arstechnica.com/?p=1992613",
       "urlToImage": null
     }
   ],
