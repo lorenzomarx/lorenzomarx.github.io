@@ -2,11 +2,27 @@
   "articles": [
     {
       "author": "Reuters",
-      "description": "An Israel-affiliated merchant vessel was struck by an uncrewed aerial vehicle off India's west coast, British maritime security firm Ambrey said on Saturday, in the first such known attack so far away from the Red Sea since the Gaza war.",
-      "publishedAt": "2023-12-23T13:31:41Z",
-      "title": "Israel-affiliated merchant vessel hit by aerial vehicle off India",
-      "url": "https://www.reuters.com/markets/commodities/israel-affiliated-merchant-vessel-hit-by-aerial-vehicle-off-india-uk-firm-2023-12-23/",
+      "description": "A drone launched from Iran struck a chemical tanker in the Indian ocean early on Saturday, the U.S. Department of Defense said.",
+      "publishedAt": "2023-12-24T00:10:20Z",
+      "title": "Pentagon says Iranian drone 'attack' hit chemical tanker near India",
+      "url": "https://www.reuters.com/world/pentagon-says-iranian-drone-attack-hit-chemical-tanker-near-india-2023-12-24/",
+      "urlToImage": "https://www.reuters.com/resizer/rEpeFtK4JihjA9569JPZl0iT8_U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NX5S7VEAI5IYHHJKAHGE4ZTOXY.jpg"
+    },
+    {
+      "author": "Reuters",
+      "description": "An earthquake of magnitude 4.6 struck off Taiwan's sparsely populated eastern coast on Sunday, the island's weather bureau said, but was barely felt on the land.",
+      "publishedAt": "2023-12-24T00:08:08Z",
+      "title": "Earthquake hits off Taiwan coast, no impact to island",
+      "url": "https://www.reuters.com/world/asia-pacific/earthquake-magnitude-63-strikes-taiwan-region-gfz-2023-12-23/",
       "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=168"
+    },
+    {
+      "author": "Fatos Bytyci",
+      "description": "Kosovo's Prime Minister Albin Kurti said on Saturday that armed men supported by Serbian security agencies were being trained to launch new attacks in his country after a September assault which left four dead. Serbia denied any such plan.",
+      "publishedAt": "2023-12-23T19:36:59Z",
+      "title": "Kosovo says gunmen from Serbia are planning more attacks",
+      "url": "https://www.reuters.com/world/kosovo-says-gunmen-serbia-are-planning-more-attacks-2023-12-23/",
+      "urlToImage": "https://www.reuters.com/resizer/fQALQLnggEqNwBcY1yiLZIVfotU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O3AA7MV4LBIJ7OGFICOIRGNII4.jpg"
     },
     {
       "author": "Reuters",
@@ -17,20 +33,28 @@
       "urlToImage": "https://www.reuters.com/resizer/fDKlsYdapXQ85TEBJIky1NJ0foA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/72RTEJJQGRJ45GFGWLJKA6YTMY.jpg"
     },
     {
-      "author": "Mohammed Ghobari",
-      "description": "The Saudi-backed Yemeni government and Iran-aligned Houthis have both committed to steps towards a ceasefire, the U.N. special envoy for Yemen said on Saturday.",
-      "publishedAt": "2023-12-23T19:03:25Z",
-      "title": "Yemen's warring parties commit to ceasefire steps - U.N. special envoy",
-      "url": "https://www.reuters.com/world/middle-east/yemens-warring-parties-commit-ceasefire-steps-un-special-envoy-2023-12-23/",
-      "urlToImage": "https://www.reuters.com/resizer/EvdqX2hh44vP3uOIIRx5WQCnYTw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6RNMQ5WTPVMO5K4G7KN3W2LYC4.jpg"
+      "author": "Reuters",
+      "description": "Large swaths of Australia on Sunday sweated through heat wave conditions as authorities warned of a high bushfire risk in many parts of the country's vast Western Australia state.",
+      "publishedAt": "2023-12-24T00:34:43Z",
+      "title": "Large parts of Australia endure heat wave, lifting bushfire risk",
+      "url": "https://www.reuters.com/world/asia-pacific/large-parts-australia-endure-heat-wave-lifting-bushfire-risk-2023-12-24/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=168"
     },
     {
-      "author": "Brad Brooks",
-      "description": "Two Colorado paramedics were found guilty of criminally negligent homicide by a jury on Friday for their role in the 2019 death of Elijah McClain, a young Black man who died after police roughly detained him, put him in a choke hold, and the medics injected him with a powerful sedative.",
-      "publishedAt": "2023-12-23T08:22:49Z",
-      "title": "Colorado paramedics found guilty in death of Elijah McClain",
-      "url": "https://www.reuters.com/legal/colorado-paramedics-found-guilty-death-elijah-mcclain-2023-12-23/",
-      "urlToImage": "https://www.reuters.com/resizer/MRc3iNti2t9eOqWxcKmoTdHMEws=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CT4MFN3GOJMD5CRE6AAFC37GFE.jpg"
+      "author": "Maria Caspani",
+      "description": "An Alabama woman with a rare congenital anomaly that results in her having two uteri gave birth to healthy twin girls earlier this week.",
+      "publishedAt": "2023-12-24T00:02:53Z",
+      "title": "Alabama woman with double uterus gives birth to rare twin girls",
+      "url": "https://www.reuters.com/world/us/alabama-woman-with-double-uterus-gives-birth-rare-twin-girls-2023-12-24/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=168"
+    },
+    {
+      "author": "Yassin Kombi, Sonia Rolley",
+      "description": "Moise Katumbi, one of the main opposition candidates in Democratic Republic of Congo's presidential election has added his voice to calls for the Dec. 20 vote to be annulled because of \"massive fraud,\" a statement from his campaign said on Saturday.",
+      "publishedAt": "2023-12-23T21:56:23Z",
+      "title": "Congo's Katumbi says election should be annulled as opposition plans protest",
+      "url": "https://www.reuters.com/world/africa/congo-opposition-candidates-plan-presidential-election-protest-2023-12-23/",
+      "urlToImage": "https://www.reuters.com/resizer/P7s4k-UN751GIrDYfm0Kh60d6w8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JXMQNLYTJNMUNC5W77D4MXXEOE.jpg"
     },
     {
       "author": "Michelle Nichols, Nidal Al-Mughrabi, Dan Williams",
@@ -50,35 +74,11 @@
     },
     {
       "author": "Reuters",
-      "description": "Bells rang across the Czech Republic on Saturday and flags flew at half mast as the country mourned victims of the country's worst mass shooting that killed 14 at a Prague university on Thursday.",
-      "publishedAt": "2023-12-23T12:44:37Z",
-      "title": "Bells ring across Czech Republic to mourn victims of mass shooting",
-      "url": "https://www.reuters.com/world/europe/bells-ring-across-czech-republic-mourn-victims-mass-shooting-2023-12-23/",
-      "urlToImage": "https://www.reuters.com/resizer/FAEKz-ofDk4m0Y5yP6WZnUUDyCY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4KFUSQDNTRMMZAH2TCMOSR3J6Y.jpg"
-    },
-    {
-      "author": "Mark Trevelyan",
-      "description": "Former TV journalist Yekaterina Duntsova was disqualified on Saturday as a candidate for Russia's next presidential election, preventing her from running against Vladimir Putin on a platform of opposition to the war in Ukraine.",
-      "publishedAt": "2023-12-23T15:17:28Z",
-      "title": "Yekaterina Duntsova barred from running against Putin in election",
-      "url": "https://www.reuters.com/world/europe/would-be-putin-challenger-duntsova-barred-running-election-campaign-team-2023-12-23/",
-      "urlToImage": "https://www.reuters.com/resizer/rpZqyt7Zdypg9zIPmQP-YwZSoYo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MPOG3JIXLZKXBM5GJXQIOWIOXQ.jpg"
-    },
-    {
-      "author": "Emma Rumney, Arriana McLymore",
-      "description": "Major distillers want American drinkers to sip their Old Fashioneds, Negronis and Espresso Martinis this holiday season. But no bartender is required: these cocktails come bottled.",
-      "publishedAt": "2023-12-23T12:31:39Z",
-      "title": "Don't shake or stir: drinks firms push bottled cocktails for the holidays",
-      "url": "https://www.reuters.com/business/retail-consumer/dont-shake-or-stir-drinks-firms-push-bottled-cocktails-holidays-2023-12-23/",
-      "urlToImage": "https://www.reuters.com/resizer/copHmqW6DdQwaVhnojmnlR6-QvU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IJ5W2DN3MVPIFAUMONDEY3TJO4.jpg"
-    },
-    {
-      "author": "Katherine Masters",
-      "description": "Last-minute shoppers looking for late deals ahead of Christmas may find smaller discounts and fewer items marked down at <a href=\"/business/retail-consumer/once-gloomy-us-retailers-now-signaling-more-holiday-cheer-after-solid-start-2023-12-01/\">major retailers</a> including Macy\u2019s <a href=\"https://www.reuters.com/markets/companies/M.N\" target=\"_blank\">(M.N)</a>, Target <a href=\"https://www.reuters.com/markets/companies/TGT.N\" target=\"_blank\">(TGT.N)</a> and Ulta Beauty , according to an analyst and two datasets measuring retailers' recent prices.",
-      "publishedAt": "2023-12-22T20:14:34Z",
-      "title": "Not so 'Super' Saturday: Retailers dangle fewer discounts for inflation-weary shoppers",
-      "url": "https://www.reuters.com/business/retail-consumer/not-so-super-saturday-retailers-dangle-fewer-discounts-inflation-weary-shoppers-2023-12-22/",
-      "urlToImage": "https://www.reuters.com/resizer/Ux8eB2K3cKU54NJ8pFkwrw4IIq4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RJJ3WPWIXVNY5KA5AKJCJ7N7NA.jpg"
+      "description": "German police said on Saturday they were heightening security at Cologne Cathedral following indications of an attack planned for New Year's Eve, a week after the interior minister warned of the rising threat of Islamist violence.",
+      "publishedAt": "2023-12-23T22:03:41Z",
+      "title": "Security hiked at Cologne cathedral for Christmas amid attack threat",
+      "url": "https://www.reuters.com/world/europe/security-hiked-cologne-cathedral-christmas-amid-attack-threat-2023-12-23/",
+      "urlToImage": "https://www.reuters.com/resizer/jMCr0lCtzpi2Lj3hTHMosFqeFHI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DWJ7STX4GNORROFDTYPCPILD2M.jpg"
     }
   ],
   "sortBy": "top",
