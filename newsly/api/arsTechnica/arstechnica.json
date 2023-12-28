@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "Shows evidence that GPT-based systems will reproduce Times articles if asked.",
+      "publishedAt": "2023-12-27T19:05:36+00:00",
+      "title": "NY Times sues Open AI, Microsoft over copyright infringement",
+      "url": "https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1621976654-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "Apple pulled the Watch Series 9 and Watch Ultra 2 from sale on December 21.",
       "publishedAt": "2023-12-27T17:27:26+00:00",
@@ -71,14 +79,6 @@
       "title": "No last-minute reprieve, US ban on some Apple Watch sales now in effect",
       "url": "https://www.ft.com/content/da0d88dd-a633-4192-b6db-14b359726863",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.29.31-PM-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Applying magnetic forces to single iron oxide-coated particles spurs strange collective motion.",
-      "publishedAt": "2023-12-26T14:00:00+00:00",
-      "title": "Watch sand defy gravity and flow uphill thanks to \u201cnegative friction\u201d",
-      "url": "https://arstechnica.com/science/2023/12/watch-sand-defy-gravity-and-flow-uphill-thanks-to-negative-friction/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sandTOP-760x380.jpg"
     }
   ],
   "sortBy": "top",
