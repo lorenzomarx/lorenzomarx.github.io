@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "author": null,
-      "description": "SEOUL, South Korea (AP) \u2014 Actor Lee Sun-kyun of Oscar-winning film 'Parasite' is dead, South Korean emergency office says.",
-      "publishedAt": "2023-12-27T03:29:38Z",
-      "title": "Actor Lee Sun-kyun of Oscar-winning film 'Parasite' is dead, South Korean emergency office says",
-      "url": "https://apnews.com/96d7637130fa14d521da105fe4bbcef9",
-      "urlToImage": ""
-    },
-    {
       "author": "NAJIB JOBAIN, WAFAA SHURAFA and SAMY MAGDY",
       "description": "RAFAH, Gaza Strip (AP) \u2014 Israeli forces on Tuesday expanded their ground offensive into urban refugee camps in central Gaza after bombarding the crowded Palestinian communities and ordering residents to evacuate.",
       "publishedAt": "2023-12-26T10:14:15Z",
@@ -17,68 +9,76 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/935e561b17da44df8f4f8d820897ae02/1920.jpeg"
     },
     {
-      "author": "WAFAA SHURAFA and JACK JEFFERY",
-      "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 The doctors gave Shaimaa Nabahin an impossible choice: lose your left leg or risk death. The 22-year-old had been hospitalized in Gaza for around a week, after her ankle was partially severed in an Israeli airstrike, when doctors told her she was suffering from blood poisoning.",
-      "publishedAt": "2023-12-26T05:11:24Z",
-      "title": "Lose a limb or risk death? Growing numbers among Gaza's thousands of war-wounded face hard decisions",
-      "url": "https://apnews.com/b5a452bbf2a27364aaff68cc71b51fc5",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4e87025fcc484e9e955a3b6435c7434f/3000.jpeg"
-    },
-    {
-      "author": "ANNE D\u2019INNOCENZIO and HALELUYA HADERO",
-      "description": "NEW YORK (AP) \u2014 Holiday sales rose this year and spending remained resilient during the shopping season even with Americans wrestling with higher prices in some areas and other financial worries, according to the latest measure.",
-      "publishedAt": "2023-12-26T15:50:32Z",
-      "title": "Americans ramped up spending during the holidays despite some financial anxiety and higher costs",
-      "url": "https://apnews.com/cc87e571ccffbae39110132a4c39a7c9",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6a278bea911140d7b9bfcdae1838592d/3000.jpeg"
-    },
-    {
-      "author": "ALI SWENSON and CHRISTINE FERNANDO",
-      "description": "NEW YORK (AP) \u2014 Nearly three years after rioters stormed the U.S. Capitol, the false election conspiracy theories that drove the violent attack remain prevalent on social media and cable news: suitcases filled with ballots, late-night ballot dumps, dead people voting.",
-      "publishedAt": "2023-12-26T16:37:16Z",
-      "title": "As social media guardrails fade and AI deepfakes go mainstream, experts warn of impact on elections",
-      "url": "https://apnews.com/6119ee6f498db10603b3664e9ad3e87e",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d2f59635ce6d462294fe62ac34c4afdc/3000.jpeg"
-    },
-    {
-      "author": "COLLEEN SLEVIN",
-      "description": "DENVER (AP) \u2014 Police said Tuesday they are investigating incidents directed at Colorado Supreme Court justices and providing extra patrols around their homes in Denver following the court's decision to remove former President Donald Trump from the state's presidential primary ballot.",
-      "publishedAt": "2023-12-26T18:34:08Z",
-      "title": "Police investigating incidents involving Colorado justices after Trump removed from state's ballot",
-      "url": "https://apnews.com/3f05d134f8cfa14368107fa9dff97117",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c1d5a7d98c3346338223696165d6f84b/3000.jpeg"
-    },
-    {
       "author": null,
-      "description": "SEOUL, South Korea (AP) \u2014 Actor Lee Sun-kyun of the Oscar-winning movie \u201cParasite\" has died, South Korea\u2019s emergency office said Wednesday.Lee was found dead at a car in a central Seoul park on Wednesday, it said.",
+      "description": "MEXICO CITY (AP) \u2014 A top U.S. delegation is to meet with Mexico's president Wednesday in what many see as a bid to get Mexico to do more to stem a surge of migrants reaching the U.S.",
+      "publishedAt": "2023-12-27T05:01:05Z",
+      "title": "A US delegation to meet with Mexican government for talks on the surge of migrants at border",
+      "url": "https://apnews.com/f39247c4848cb7cf1097fcbaa84edcbd",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/983be113daf54783bea742edc780f070/3000.jpeg"
+    },
+    {
+      "author": "JOSHUA GOODMAN AND ELLIOT SPAGAT",
+      "description": "MIAMI (AP) \u2014 Pedro Naranjo idolized his father growing up and followed him into the Venezuelan air force to fly helicopters. So deep was their bond that when the older Naranjo feared being jailed for plotting against Nicol\u00e1s Maduro\u2019s socialist government, father and son fled to the United States together.",
+      "publishedAt": "2023-12-27T05:34:27Z",
+      "title": "Deported by US, arrested in Venezuela: One family's saga highlights Biden's migration challenge",
+      "url": "https://apnews.com/ff26a7ca3143ef9603da9399ba8ecdf2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/adbecc8a05bd4bc795bf45718e5354ca/2000.jpeg"
+    },
+    {
+      "author": "NICHOLAS RICCARDI and LINLEY SANDERS",
+      "description": "WASHINGTON (AP) \u2014 With the GOP primary process just about to start, many Republicans aren't certain that votes will be counted correctly in their presidential primary contest, amid widespread pessimism about the future of both the Democratic and Republican parties, according to a new poll from The Associated Press-NORC Center for Public Affairs Research.",
+      "publishedAt": "2023-12-27T05:17:01Z",
+      "title": "Americans sour on the primary election process and major political parties, an AP-NORC poll says",
+      "url": "https://apnews.com/f2d3cca7c3b5803a28c06a85d7d8772b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1671e0fcbba34793b56ef20b42028671/3000.jpeg"
+    },
+    {
+      "author": "HYUNG-JIN KIM",
+      "description": "SEOUL, South Korea (AP) \u2014 Lee Sun-kyun, a popular South Korean actor best known for his role in the Oscar-winning movie \u201cParasite,\u201d was found dead in a car in Seoul on Wednesday, authorities said, after weeks of an intense police investigation into his alleged drug use.",
       "publishedAt": "2023-12-27T03:00:35Z",
-      "title": "Actor Lee Sun-kyun of Oscar-winning film 'Parasite' dies",
+      "title": "South Korean actor Lee Sun-kyun of Oscar-winning film 'Parasite' is found dead",
       "url": "https://apnews.com/2faacd7290f5b84b6a996705d8351cdf",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/7367a4d36f8a4d8ba319f2732aa323ea/2624.jpeg"
     },
     {
-      "author": "MIKE SCHNEIDER",
-      "description": "ORLANDO, Fla. (AP) \u2014 Disney has filed a lawsuit claiming that the oversight government for Walt Disney World, which was taken over by appointees of Gov.",
-      "publishedAt": "2023-12-26T20:42:50Z",
-      "title": "Disney says in lawsuit that DeSantis-appointed government is failing to release public records",
-      "url": "https://apnews.com/9b647df7816ef039eb1ec0085caa2242",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7b56a81f04744bea887296c88dbe6f11/3000.jpeg"
+      "author": "GENE JOHNSON, JENNIFER SINCO KELLEHER, MARK THIESSEN and LINDSEY WASSON",
+      "description": "LAHAINA, Hawaii (AP) \u2014 Sharlene Rabang and her calico cat fled the wildfire that destroyed her town on Maui and arrived at a family home on another Hawaii island after a 24-hour odyssey that included sleeping in a car.",
+      "publishedAt": "2023-12-27T06:06:10Z",
+      "title": "She died weeks after fleeing the Maui wildfire. Her family fought to have her listed as a victim.",
+      "url": "https://apnews.com/7c846f4d8e6a80e5c629d33347dc50e1",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1d1181c0966344e19ef278a4cb19867a/3000.jpeg"
     },
     {
-      "author": "EDGAR H. CLEMENTE",
-      "description": "HUIXTLA, Mexico (AP) \u2014 Under a beating sun, thousands of migrants in a caravan continued to trudge through southern Mexico on Tuesday, with some saying they expect nothing good from an upcoming meeting this week between American and Mexican officials about the migrant surge at the U.S.",
-      "publishedAt": "2023-12-26T19:22:33Z",
-      "title": "Migrant caravan slogs on through southern Mexico with no expectations from a US-Mexico meeting",
-      "url": "https://apnews.com/f1cdcb4edd299ea8f6c5c19b30e0d405",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/504d1fae672f44b1ad917b18932a108c/3000.jpeg"
+      "author": "MEG KINNARD",
+      "description": "GILBERT, S.C. (AP) \u2014 Standing inside a rustic barn a short drive from the state capital, Henry McMaster shocked many South Carolina Republicans seven years ago by backing Donald Trump for president.",
+      "publishedAt": "2023-12-27T05:17:39Z",
+      "title": "Nikki Haley has bet her 2024 bid on South Carolina. But much of her home state leans toward Trump",
+      "url": "https://apnews.com/56c0ceb5b1b93a46df87e9e88342f7f2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/19b88d2cd24441e5a1002b8be40ccdaa/3000.jpeg"
     },
     {
-      "author": "JILL LAWLESS",
-      "description": "LONDON (AP) \u2014 For holding a sign outside a courthouse reminding jurors of their right to acquit defendants, a retiree faces up to two years in prison. For hanging a banner reading \u201cJust Stop Oil\u201d off a bridge, an engineer got a three-year prison sentence.",
-      "publishedAt": "2023-12-26T05:20:22Z",
-      "title": "The right to protest is under threat in Britain, undermining a pillar of democracy",
-      "url": "https://apnews.com/616078b918e27d5098890be6f9967b14",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f673b1e064e84b36ab034ed8c3f2b106/3000.jpeg"
+      "author": "TRAVIS LOLLER",
+      "description": "NASHVILLE, Tenn. (AP) \u2014 On Dec. 28, 1973, President Richard Nixon signed the Endangered Species Act.",
+      "publishedAt": "2023-12-27T05:10:34Z",
+      "title": "As the Endangered Species Act turns 50, those who first enforced it reflect on its mixed legacy",
+      "url": "https://apnews.com/8274b017d3ca4c61eb571d610aa86d21",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/05128f112795442ab951d7d6b7d04973/1142.jpeg"
+    },
+    {
+      "author": "SCOTT SONNER",
+      "description": "RENO, Nev. (AP) \u2014 The blank canvass of desert wilderness in northern Nevada seemed the perfect place in 1992 for artistic anarchists to relocate their annual burning of a towering, anonymous effigy.",
+      "publishedAt": "2023-12-27T05:27:28Z",
+      "title": "Burning Man survived a muddy quagmire. Will the experiment last 30 more years?",
+      "url": "https://apnews.com/7d4a7d27907c39bb053ac9fef5dde662",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0cd7d8fc997846529c3073c64e2ad587/2000.jpeg"
+    },
+    {
+      "author": null,
+      "description": "BEIJING (AP) \u2014 China says it is banning a United States research company and two analysts who have reported extensively on claims of human rights abuses committed against Uyghurs and other Muslim minority groups native to the country\u2019s far northwestern region of Xinjiang.",
+      "publishedAt": "2023-12-27T09:04:31Z",
+      "title": "China sanctions a US research firm and 2 individuals over reports on human rights abuses in Xinjiang",
+      "url": "https://apnews.com/c61afd3492e384a4ff702b4ee4ba0e80",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e394a48c73664eb9883d3e88a587fef4/3000.jpeg"
     }
   ],
   "sortBy": "top",
