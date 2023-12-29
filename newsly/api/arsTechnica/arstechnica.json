@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Charge it every night and you may only ever run the engine on road trips.",
+      "publishedAt": "2023-12-28T17:38:08+00:00",
+      "title": "Daily range isn\u2019t a problem with the 2024 Mitsubishi Outlander PHEV",
+      "url": "https://arstechnica.com/cars/2023/12/the-2024-mitsubishi-outlanders-big-battery-makes-it-a-bev-alternative/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/2024-Mitsubishi-Outlander-PHEV-1-760x380.jpg"
+    },
+    {
+      "author": "Eric Bangeman",
+      "description": "2020 lawsuit accused Google of tracking incognito activity, tying it to users' profiles.",
+      "publishedAt": "2023-12-28T16:12:23+00:00",
+      "title": "Google agrees to settle Chrome incognito mode class action lawsuit",
+      "url": "https://arstechnica.com/tech-policy/2023/12/google-agrees-to-settle-in-chrome-incognito-mode-class-action-lawsuit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/incognito-760x380.jpg"
+    },
+    {
+      "author": "Anna Nicolaou and Christopher Grimes, Financial Times",
+      "description": "Disney, Warner, Comcast, and Paramount are contemplating cuts, possible mergers.",
+      "publishedAt": "2023-12-28T15:25:28+00:00",
+      "title": "It\u2019s \u201cshakeout\u201d time as losses of Netflix rivals top $5 billion",
+      "url": "https://www.ft.com/content/ec0f7996-fae9-4e80-baa9-020ad470c25a",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/comcast-peacock-hiding-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Xiaomi wants to be a top-5 automaker within the next 15-20 years.",
+      "publishedAt": "2023-12-28T15:20:28+00:00",
+      "title": "Chinese smartphone company says it wants to build a Porsche challenger",
+      "url": "https://arstechnica.com/cars/2023/12/chinese-smartphone-company-says-it-wants-to-build-a-porsche-challenger/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GCaH1Ycb0AA_PGt-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Balzer Vigil",
+      "description": "We've known about deep ocean vents for a while, but it's still hard to find them.",
+      "publishedAt": "2023-12-28T13:14:39+00:00",
+      "title": "Otherworldly mini-Yellowstone found in the deep sea",
+      "url": "https://arstechnica.com/science/2023/12/otherworldly-mini-yellowstone-found-in-the-deep-sea/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/FK230812-Dive571-Approved-NewVent-CrabTrail-760x380.jpg"
+    },
+    {
+      "author": "Lily Hay Newman, wired.com",
+      "description": "Solution relies in part on cryptography practice of secret sharing to maximize privacy.",
+      "publishedAt": "2023-12-28T13:00:57+00:00",
+      "title": "Researchers come up with better idea to prevent AirTag stalking",
+      "url": "https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/airtag-list-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "A new GPU generation did very little to change the speed you get for your money.",
+      "publishedAt": "2023-12-28T11:28:31+00:00",
+      "title": "2023 was the year that GPUs stood still",
+      "url": "https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/IMG_1072-760x380.jpeg"
+    },
+    {
       "author": "John Timmer",
       "description": "Shows evidence that GPT-based systems will reproduce Times articles if asked.",
       "publishedAt": "2023-12-27T19:05:36+00:00",
@@ -23,62 +79,6 @@
       "title": "4-year campaign backdoored iPhones using possibly the most advanced exploit ever",
       "url": "https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/omgiphonehax-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Subscribers will have to opt-in to a pricier ad-free plan.",
-      "publishedAt": "2023-12-27T16:26:08+00:00",
-      "title": "You\u2019ll be paying extra for ad-free Prime Video come January",
-      "url": "https://arstechnica.com/culture/2023/12/youll-be-paying-extra-for-ad-free-prime-video-come-january/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/amazon2-760x380.jpg"
-    },
-    {
-      "author": "George Hammond, Financial Times",
-      "description": "Microsoft, Google, and Amazon haved crowded out traditional Silicon Valley investors.",
-      "publishedAt": "2023-12-27T15:41:40+00:00",
-      "title": "Big Tech is spending more than VC firms on AI startups",
-      "url": "https://www.ft.com/content/c6b47d24-b435-4f41-b197-2d826cce9532",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/bt-sv-760x380.jpg"
-    },
-    {
-      "author": "Ivan Paul",
-      "description": "Tests in animals show the material works like the body's own system.",
-      "publishedAt": "2023-12-27T14:57:34+00:00",
-      "title": "Injection of \u201csmart insulin\u201d regulates blood glucose levels for one week",
-      "url": "https://arstechnica.com/health/2023/12/injection-of-smart-insulin-regulates-blood-glucose-levels-for-one-week/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1311601145-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "A unique group of cells pumps water into the kidneys to help harvest moisture from the air.",
-      "publishedAt": "2023-12-27T13:30:58+00:00",
-      "title": "Getting to the bottom of how red flour beetles absorb water through their butts",
-      "url": "https://arstechnica.com/science/2023/12/getting-to-the-bottom-of-how-red-flour-beetles-absorb-water-through-their-butts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/beetle-butt-TOP-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "2022's relative drought leads to an absolutely packed year of major epics.",
-      "publishedAt": "2023-12-27T12:30:07+00:00",
-      "title": "Ars Technica\u2019s best video games of 2023",
-      "url": "https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ars-games-of-2023-arcade-neon-760x380.jpg"
-    },
-    {
-      "author": "Ivan Paul",
-      "description": "Years after Kepler shut down, people are arguing over whether it spotted exomoons.",
-      "publishedAt": "2023-12-26T20:10:34+00:00",
-      "title": "More doubts raised over exomoon candidates",
-      "url": "https://arstechnica.com/science/2023/12/more-doubts-raised-over-exomoon-candidates/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/13087_exomoon_instagram.00001_print-760x380.jpg"
-    },
-    {
-      "author": "Michael Acton, Financial Times",
-      "description": "Watch Series 9 and Watch Ultra 2 blood oxygen sensors are patent-infringing.",
-      "publishedAt": "2023-12-26T15:26:14+00:00",
-      "title": "No last-minute reprieve, US ban on some Apple Watch sales now in effect",
-      "url": "https://www.ft.com/content/da0d88dd-a633-4192-b6db-14b359726863",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.29.31-PM-760x380.jpg"
     }
   ],
   "sortBy": "top",
