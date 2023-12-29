@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "Good news as natural gas, coal, and solar see the biggest changes.",
+      "publishedAt": "2023-12-28T19:12:06+00:00",
+      "title": "40% of US electricity is now emissions-free",
+      "url": "https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1414366794-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "Charge it every night and you may only ever run the engine on road trips.",
       "publishedAt": "2023-12-28T17:38:08+00:00",
@@ -71,14 +79,6 @@
       "title": "Appeals court pauses ban on patent-infringing Apple Watch imports",
       "url": "https://arstechnica.com/gadgets/2023/12/apple-appeals-trade-commission-ban-of-apple-watch-9-apple-watch-ultra-2/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-12.11.31-PM-1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "\"Triangulation\" infected dozens of iPhones belonging to employees of Moscow-based Kaspersky.",
-      "publishedAt": "2023-12-27T17:03:30+00:00",
-      "title": "4-year campaign backdoored iPhones using possibly the most advanced exploit ever",
-      "url": "https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/omgiphonehax-760x380.jpg"
     }
   ],
   "sortBy": "top",
