@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Elizabeth Rayne",
+      "description": "The honeyguide recognizes calls made by different human groups.",
+      "publishedAt": "2023-12-29T18:00:41+00:00",
+      "title": "This bird is like a GPS for honey",
+      "url": "https://arstechnica.com/science/2023/12/this-bird-is-like-a-gps-for-honey/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1348382666-760x380.jpg"
+    },
+    {
+      "author": "Christina Criddle, Financial Times",
+      "description": "Brands are turning to hyper-realistic, AI-generated influencers for promotions.",
+      "publishedAt": "2023-12-29T15:50:55+00:00",
+      "title": "AI-created \u201cvirtual influencers\u201d are stealing business from humans",
+      "url": "https://www.ft.com/content/e1f83331-ac65-4395-a542-651b7df0d454",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ai-influencers-760x380.jpg"
+    },
+    {
+      "author": "Ben Goldfarb, wired.com",
+      "description": "An algorithm can spot beaver ponds from satellite imagery.",
+      "publishedAt": "2023-12-29T13:38:47+00:00",
+      "title": "How watching beavers from space can help drought-ridden areas bounce back",
+      "url": "https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/beaver-760x380.jpg"
+    },
+    {
+      "author": "Kiley Price",
+      "description": "A hatchery and protected sanctuary in South Africa is boosting penguin numbers.",
+      "publishedAt": "2023-12-29T12:49:04+00:00",
+      "title": "Saving the African penguin from climate change and overfishing",
+      "url": "https://insideclimatenews.org/news/25122023/african-penguins-almost-wiped-out-by-overfishing-climate-change/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/african-penguin-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "EVs, hybrids, and a couple of sports cars\u2014here are the 10 best cars we drove in 2023.",
+      "publishedAt": "2023-12-29T12:30:40+00:00",
+      "title": "Here are the 10 best cars we drove in 2023",
+      "url": "https://arstechnica.com/cars/2023/12/here-are-the-10-best-cars-we-drove-in-2023/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ars-cars-of-2021-760x380.jpg"
+    },
+    {
+      "author": "Ars Staff",
+      "description": "Netflix, Apple TV+, and Hulu dominate this year's selections.",
+      "publishedAt": "2023-12-29T12:30:37+00:00",
+      "title": "TV Technica 2023: These were our favorite shows and binges of the year",
+      "url": "https://arstechnica.com/culture/2023/12/tv-technica-2023-these-were-our-favorite-shows-and-binges-of-the-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ars-tv-2023-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "Dubbed \"Juanita,\" the young woman was likely killed during a sacrificial ritual.",
       "publishedAt": "2023-12-29T01:40:41+00:00",
@@ -31,54 +79,6 @@
       "title": "Daily range isn\u2019t a problem with the 2024 Mitsubishi Outlander PHEV",
       "url": "https://arstechnica.com/cars/2023/12/the-2024-mitsubishi-outlanders-big-battery-makes-it-a-bev-alternative/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/2024-Mitsubishi-Outlander-PHEV-1-760x380.jpg"
-    },
-    {
-      "author": "Eric Bangeman",
-      "description": "2020 lawsuit accused Google of tracking incognito activity, tying it to users' profiles.",
-      "publishedAt": "2023-12-28T16:12:23+00:00",
-      "title": "Google agrees to settle Chrome incognito mode class action lawsuit",
-      "url": "https://arstechnica.com/tech-policy/2023/12/google-agrees-to-settle-in-chrome-incognito-mode-class-action-lawsuit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/incognito-760x380.jpg"
-    },
-    {
-      "author": "Anna Nicolaou and Christopher Grimes, Financial Times",
-      "description": "Disney, Warner, Comcast, and Paramount are contemplating cuts, possible mergers.",
-      "publishedAt": "2023-12-28T15:25:28+00:00",
-      "title": "It\u2019s \u201cshakeout\u201d time as losses of Netflix rivals top $5 billion",
-      "url": "https://www.ft.com/content/ec0f7996-fae9-4e80-baa9-020ad470c25a",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/comcast-peacock-hiding-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Xiaomi wants to be a top-5 automaker within the next 15-20 years.",
-      "publishedAt": "2023-12-28T15:20:28+00:00",
-      "title": "Chinese smartphone company says it wants to build a Porsche challenger",
-      "url": "https://arstechnica.com/cars/2023/12/chinese-smartphone-company-says-it-wants-to-build-a-porsche-challenger/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GCaH1Ycb0AA_PGt-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Balzer Vigil",
-      "description": "We've known about deep ocean vents for a while, but it's still hard to find them.",
-      "publishedAt": "2023-12-28T13:14:39+00:00",
-      "title": "Otherworldly mini-Yellowstone found in the deep sea",
-      "url": "https://arstechnica.com/science/2023/12/otherworldly-mini-yellowstone-found-in-the-deep-sea/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/FK230812-Dive571-Approved-NewVent-CrabTrail-760x380.jpg"
-    },
-    {
-      "author": "Lily Hay Newman, wired.com",
-      "description": "Solution relies in part on cryptography practice of secret sharing to maximize privacy.",
-      "publishedAt": "2023-12-28T13:00:57+00:00",
-      "title": "Researchers come up with better idea to prevent AirTag stalking",
-      "url": "https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/airtag-list-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "A new GPU generation did very little to change the speed you get for your money.",
-      "publishedAt": "2023-12-28T11:28:31+00:00",
-      "title": "2023 was the year that GPUs stood still",
-      "url": "https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/IMG_1072-760x380.jpeg"
     }
   ],
   "sortBy": "top",
