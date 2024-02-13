@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Hayden Vernon, Zing Tsjeng",
+      "content": "An AI-generated kitchen with a child-sized hob. Photo: Zoopla",
+      "description": "Estate agents and landlords are trying to make crappy apartments look better. Does it work?",
+      "publishedAt": "2024-02-12T08:45:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "What's Wrong With This Rental Listing? The Furniture Is AI.",
+      "url": "https://www.vice.com/en/article/xgwpmk/ai-generated-furniture-real-estate-listings",
+      "urlToImage": "https://video-images.vice.com/articles/65c4eda67761a980a5fbabb9/lede/1707493526821-untitled.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDYyeGg7MHh3LDAuMTA2N3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
       "author": "Ashley Otero, Sara David",
       "content": "A heavy dreamy state arrives as the moon and Neptune merge in Pisces at 2:11 AM, finding us immersed in highly imaginative spaces. Were ready for action, up to whatever challenges we might face as th\u2026 [+5434 chars]",
       "description": "The moon enters Aries.",
@@ -1286,21 +1299,8 @@
       "title": "Monthly Horoscope: Cancer, February 2024",
       "url": "https://www.vice.com/en/article/3ake8w/monthly-horoscope-cancer-february-2024",
       "urlToImage": "https://video-images.vice.com/articles/65a5beb8c645e209ad7b1618/lede/1705361327499-11capricornaquariusmonthly51920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-    },
-    {
-      "author": "Ashley Otero, Sara David",
-      "content": "Were faced with hard decisions that invite us to weigh the pros and cons as the moon in Libra clashes with Mercury in Capricorn at 4:03 AM. Emotional sensitivity gets turned up as the moon enters Sco\u2026 [+5676 chars]",
-      "description": "The moon enters Scorpio.",
-      "publishedAt": "2024-01-31T21:00:00Z",
-      "source": {
-        "id": "vice-news",
-        "name": "Vice News"
-      },
-      "title": "Daily Horoscope: February 1, 2024",
-      "url": "https://www.vice.com/en/article/xgwpqq/daily-horoscope-february-1-2024",
-      "urlToImage": "https://video-images.vice.com/articles/65a582e9d6831034107d10b8/lede/1705345824271-12aquariusdaily11920x1080.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
     }
   ],
   "status": "ok",
-  "totalResults": 292
+  "totalResults": 293
 }
