@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "\"You don't face your fears, you ride 'em.\"",
+      "publishedAt": "2024-02-13T01:58:17+00:00",
+      "title": "A new generation of storm chasers takes on Mother Nature in Twisters trailer",
+      "url": "https://arstechnica.com/culture/2024/02/a-new-generation-of-storm-chasers-takes-on-mother-nature-in-twisters-trailer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/twisters1-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "The wide range of employee roles targeted indicates attacker's multifaceted approach.",
+      "publishedAt": "2024-02-12T23:41:17+00:00",
+      "title": "Ongoing campaign compromises senior execs\u2019 Azure accounts, locks them using MFA",
+      "url": "https://arstechnica.com/security/2024/02/ongoing-campaign-compromises-senior-execs-azure-accounts-locks-them-using-mfa/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/account-takeover-logging-in-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "There's still a $5,000 prize for the original Japanese Satellaview broadcasts.",
+      "publishedAt": "2024-02-12T23:16:35+00:00",
+      "title": "F-Zero courses from a dead Nintendo satellite service restored using VHS and AI",
+      "url": "https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/fzero_deluxe_boxart-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "The person's cat was reportedly extremely ill and had a draining abscess.",
       "publishedAt": "2024-02-12T20:57:10+00:00",
@@ -55,30 +79,6 @@
       "title": "Wade Wilson is kidnapped by the TVA in Deadpool and Wolverine teaser",
       "url": "https://arstechnica.com/culture/2024/02/wade-wilson-joins-the-mcu-in-deadpool-and-wolverine-super-bowl-teaser/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/deadpool1-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "An autonomous Waymo met an untimely end thanks to an unruly mob.",
-      "publishedAt": "2024-02-12T18:20:57+00:00",
-      "title": "Mob sets Waymo car ablaze in San Francisco",
-      "url": "https://arstechnica.com/gadgets/2024/02/vandals-set-fire-to-waymo-car-during-lunar-new-year-celebration/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/OilZWRi1RK-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Musk defied subpoena but SEC lawsuit forces him to comply.",
-      "publishedAt": "2024-02-12T18:10:10+00:00",
-      "title": "Court orders Elon Musk to testify for SEC, rejects his claim of \u201charassment\u201d",
-      "url": "https://arstechnica.com/tech-policy/2024/02/court-orders-elon-musk-to-testify-for-sec-rejects-his-claim-of-harassment/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/getty-elon-musk-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Exploit works on PCs with discrete TPM chips, which are rarer in modern systems.",
-      "publishedAt": "2024-02-12T17:58:21+00:00",
-      "title": "Can a $10 Raspberry Pi break your PC\u2019s disk encryption? It\u2019s complicated.",
-      "url": "https://arstechnica.com/gadgets/2024/02/raspberry-pi-bitlocker-hack-is-a-new-spin-on-a-years-old-well-documented-exploit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/stacksmashing-bitlocker-760x380.jpg"
     }
   ],
   "sortBy": "top",
