@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "Pervasive volcanoes and distinct rock types may hint at key geological processes.",
+      "publishedAt": "2024-02-14T15:46:26+00:00",
+      "title": "Mars experienced a precursor to plate tectonics",
+      "url": "https://arstechnica.com/science/2024/02/mars-experienced-a-precursor-to-plate-tectonics/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/image-3-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"We\u2019re trying to create a marketplace where a marketplace does not exist.\"",
+      "publishedAt": "2024-02-14T15:41:54+00:00",
+      "title": "SpaceX and Intuitive Machines seek to blaze a new trail to the Moon",
+      "url": "https://arstechnica.com/space/2024/02/spacex-and-intuitive-machines-seek-to-blaze-a-new-trail-to-the-moon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/im-falcon-9-760x380.jpg"
+    },
+    {
+      "author": "Kurt Kleiner, Knowable Magazine",
+      "description": "A controversial analytic technique offers new answers for Indo-European languages.",
+      "publishedAt": "2024-02-14T15:20:00+00:00",
+      "title": "A new look at our linguistic roots",
+      "url": "https://knowablemagazine.org/content/article/society/2024/origin-spread-indo-european-languages",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/word-balloons-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Producing cars in Mexico would make it cheaper for BYD to sell cars in the US.",
+      "publishedAt": "2024-02-14T15:16:08+00:00",
+      "title": "BYD may build electric vehicle factory in Mexico for US market",
+      "url": "https://arstechnica.com/cars/2024/02/byd-may-build-electric-vehicle-factory-in-mexico-for-us-market/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1933820815-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "It's getting closer to mainstream parity, minus one major feature.",
+      "publishedAt": "2024-02-14T13:00:52+00:00",
+      "title": "DuckDuckGo\u2019s browser adds encrypted, privacy-minded syncing and backup",
+      "url": "https://arstechnica.com/gadgets/2024/02/duckduckgos-browser-adds-encrypted-privacy-minded-syncing-and-backup/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/List-of-synced-devices-DDG-Sync-Backup-760x380.png"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "If you're tired of Alexa and Google listening, a DIY option is possible.",
+      "publishedAt": "2024-02-14T11:30:46+00:00",
+      "title": "Can you manage your house with a local, no-cloud voice assistant? Mostly, yes.",
+      "url": "https://arstechnica.com/gadgets/2024/02/can-you-manage-your-house-with-a-local-no-cloud-voice-assistant-mostly-yes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/box3_3-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "Software's free version was a good fit for tinkerers and hobbyists.",
       "publishedAt": "2024-02-13T22:27:40+00:00",
@@ -31,54 +79,6 @@
       "title": "CDC to update its COVID isolation guidance, ditching 5-day rule: Report",
       "url": "https://arstechnica.com/science/2024/02/cdc-to-update-its-covid-isolation-guidance-ditching-5-day-rule-report/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1238557761-760x380.jpeg"
-    },
-    {
-      "author": null,
-      "description": "OpenAI plans to defeat authors' remaining claim at a \"later stage\" of the case.",
-      "publishedAt": "2024-02-13T21:29:38+00:00",
-      "title": "Judge rejects most ChatGPT copyright claims from book authors",
-      "url": "https://arstechnica.com/?p=2003126",
-      "urlToImage": null
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Bitcoin Latinum angry about quotes from fraud lawsuit and Star Trek reference.",
-      "publishedAt": "2024-02-13T20:26:26+00:00",
-      "title": "Cryptocurrency maker sues former Ars reporter for writing about fraud lawsuit",
-      "url": "https://arstechnica.com/tech-policy/2024/02/cryptocurrency-maker-sues-former-ars-reporter-for-writing-about-fraud-lawsuit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/bitcoin-latinum-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "New Windows version needs CPU features that became common in the late 00s.",
-      "publishedAt": "2024-02-13T19:51:11+00:00",
-      "title": "Windows 11 24H2 goes from \u201cunsupported\u201d to \u201cunbootable\u201d on some older PCs",
-      "url": "https://arstechnica.com/gadgets/2024/02/windows-11-24h2-goes-from-unsupported-to-unbootable-on-some-older-pcs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/DSC00363-1440x960-1-760x380.jpeg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The judge ruled that the court lacks jurisdiction.",
-      "publishedAt": "2024-02-13T19:38:22+00:00",
-      "title": "Judge tosses Big Pharma suit claiming drug price negotiation is unconstitutional",
-      "url": "https://arstechnica.com/science/2024/02/judge-tosses-big-pharma-suit-claiming-drug-price-negotiation-is-unconstitutional/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-849503162-760x380.jpeg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Microsoft's Edge browser, Bing search, and ad business also avoid regulations.",
-      "publishedAt": "2024-02-13T19:06:04+00:00",
-      "title": "Apple\u2019s iMessage is not a \u201ccore platform\u201d in EU, so it can stay walled off",
-      "url": "https://arstechnica.com/tech-policy/2024/02/apples-imessage-is-not-a-core-platform-in-eu-so-it-can-stay-walled-off/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1831276105-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Skiff users will lose their @skiff.com email addresses, need to export data ASAP.",
-      "publishedAt": "2024-02-13T18:41:48+00:00",
-      "title": "Encrypted email service Skiff gets acquired, will shut down in six months",
-      "url": "https://arstechnica.com/gadgets/2024/02/encrypted-email-service-skiff-gets-acquired-will-shut-down-in-six-months/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/12-760x380.jpg"
     }
   ],
   "sortBy": "top",
