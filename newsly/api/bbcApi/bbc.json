@@ -2,6 +2,14 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "The Israeli military says it has credible intelligence hostages were held in Nasser hospital in Khan Younis.",
+      "publishedAt": null,
+      "title": "Israel-Gaza war: IDF special forces enter besieged Nasser hospital",
+      "url": "https://www.bbc.co.uk/news/live/world-middle-east-68305045",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png"
+    },
+    {
+      "author": "BBC News",
       "description": "Three suspects are in custody following the shooting in Kansas City, Missouri, near the victory parade.",
       "publishedAt": null,
       "title": "Kansas City shooting: One dead and 21 injured near Super Bowl parade",
@@ -10,27 +18,59 @@
     },
     {
       "author": "BBC News",
-      "description": "The sudden flash of violence interrupted a day of celebration for the Kansas City Chiefs.",
+      "description": "Video shows people running for cover and a heavy police response as a Super Bowl celebration was ending.",
       "publishedAt": null,
-      "title": "Kansas City celebration turns to scene of chaos",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68302246",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149E7/production/_132655448_gettyimages-2003724767.jpg"
+      "title": "The moment gunfire erupts in Kansas City shooting",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68301474",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1841B/production/_132655399_p0hc01cb.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Elected officials have been targeted by dangerous pranks which saw heavily armed police sent to their homes.",
+      "description": "Intuitive Machines, a private Houston-based company, launches its first lunar lander from Cape Canaveral, Florida.",
       "publishedAt": null,
-      "title": "Swatting call an 'assassination attempt', says politician",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68297349",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17F61/production/_132654189_gettyimages-2682180.jpg"
+      "title": "SpaceX blasts private company's lunar lander into orbit",
+      "url": "https://www.bbc.co.uk/news/science-environment-68303377",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10275/production/_132656166_p0hc135h.jpg"
     },
     {
       "author": "BBC News",
-      "description": "French President Emmanuel Macron warns Israel the human cost of the war in Gaza is \"intolerable\".",
+      "description": "The US ex-leader may make a last-minute bid to get the case dismissed before it goes to trial in March.",
       "publishedAt": null,
-      "title": "Israel Gaza: Netanyahu vows to press ahead with Rafah offensive",
-      "url": "https://www.bbc.co.uk/news/world-middle-east-68302064",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18033/production/_132655389_55892478fb64dc764f8d34f2b191cbb2a167ba4c0_60_5500_30941000x563.jpg"
+      "title": "Donald Trump set to appear at hearing in hush money case",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68301308",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15EF5/production/_132654898_gettyimages-1479830181.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "It's a change in tune for the Russian leader, who praised Mr Trump during his first presidential run.",
+      "publishedAt": null,
+      "title": "US election 2024: Putin says he prefers Joe Biden over Donald Trump in the White House",
+      "url": "https://www.bbc.co.uk/news/world-europe-68302071",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D903/production/_132655555_gettyimages-1233498343.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "After months of heavy fighting, Russian forces appear close to surrounding the ruins of Avdiivka.",
+      "publishedAt": null,
+      "title": "Ukraine fights on in ruined Avdiivka despite severe weapons shortage",
+      "url": "https://www.bbc.co.uk/news/world-europe-68298854",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F0C3/production/_132653616_9c4cf79899519cef3cd470579295d6af3b2107fa.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "At least four people are reported killed in an air attack on the city of Belgorod, close to Ukraine.",
+      "publishedAt": null,
+      "title": "Ukraine war: Attack on Belgorod shopping centre in Russia near border",
+      "url": "https://www.bbc.co.uk/news/world-europe-68305049",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1842F/production/_132657399_baza.png"
+    },
+    {
+      "author": "BBC News",
+      "description": "A defendant has accused Ms Willis of an improper romantic relationship with a prosecutor she hired.",
+      "publishedAt": null,
+      "title": "Fani Willis: Judge considers removing Georgia attorney from Trump case",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68300224",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E3F/production/_132653951_gettyimages-1795064799.jpg"
     },
     {
       "author": "BBC News",
@@ -39,46 +79,6 @@
       "title": "Top Republican warns of 'serious' national security threat",
       "url": "https://www.bbc.co.uk/news/world-us-canada-68296879",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3039/production/_132654321_gettyimages-1991207226.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "An autobiographical musical rom-com action sci-fi? That's what the pop diva has made with her latest film This is Me\u2026 Now: A Love Story \u2013 and it's unlike anything else out there.",
-      "publishedAt": null,
-      "title": "This is Me\u2026 Now: A Love Story: Why J-Lo deserves respect for her 'bonkers' new musical movie",
-      "url": "https://www.bbc.com/culture/article/20240214-this-is-me-now-a-love-story-why-j-lo-deserves-respect-for-her-bonkers-new-musical-movie",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0hbwfts.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Autopsy reports obtained by the BBC show Elianna and Adam Wentz suffered gunshot wounds.",
-      "publishedAt": null,
-      "title": "Kimberlee Singler: Children of US mum arrested in London were shot",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68293458",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18428/production/_132186399_arrestedmum.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "It comes after a judge in Delaware annulled his $55.8bn pay package from electric carmaker Tesla.",
-      "publishedAt": null,
-      "title": "SpaceX's legal home moved to Texas, says Elon Musk",
-      "url": "https://www.bbc.co.uk/news/business-68302228",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1077F/production/_132655476_gettyimages-1852528022.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Prabowo Subianto, who is dogged by allegations of rights abuses, appears on course to win the presidency.",
-      "publishedAt": null,
-      "title": "Prabowo Subianto on track to win Indonesia presidential race - early results",
-      "url": "https://www.bbc.co.uk/news/world-asia-68293800",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F79/production/_132652804_gettyimages-2010492103.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Mr Santos put his New York district in the spotlight but this special election centred on policy.",
-      "publishedAt": null,
-      "title": "Democrat Tom Suozzi wins race to replace George Santos",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68291562",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11DD5/production/_132637137_84db983c-ee48-43bb-b6b8-a08eb738d959.jpg"
     }
   ],
   "sortBy": "top",
