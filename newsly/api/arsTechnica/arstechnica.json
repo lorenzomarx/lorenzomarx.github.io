@@ -1,12 +1,20 @@
 {
   "articles": [
     {
-      "author": "Andrew Cunningham",
+      "author": "Beth Mole",
+      "description": "There are a lot of COVID nasal sprays for sale, but little data to show they work.",
+      "publishedAt": "2024-02-14T23:37:56+00:00",
+      "title": "Can you sanitize the inside of your nose to prevent COVID? Nope, FDA says.",
+      "url": "https://arstechnica.com/science/2024/02/can-you-sanitize-the-inside-of-your-nose-to-prevent-covid-nope-fda-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/12mlBottle2020-Grey_product-thumb_01-760x380.jpeg"
+    },
+    {
+      "author": null,
       "description": "Newest driver supports the latest versions of OpenGL and OpenGL ES.",
       "publishedAt": "2024-02-14T22:00:16+00:00",
       "title": "Asahi Linux project\u2019s OpenGL support on Apple Silicon officially surpasses Apple\u2019s",
-      "url": "https://arstechnica.com/gadgets/2024/02/asahi-linux-projects-opengl-support-on-apple-silicon-officially-surpasses-apples/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/asahi-macbook-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2003456",
+      "urlToImage": null
     },
     {
       "author": "Kevin Purdy",
@@ -71,14 +79,6 @@
       "title": "Why walking around in public with Vision Pro makes no sense",
       "url": "https://arstechnica.com/gadgets/2024/02/why-walking-around-in-public-with-vision-pro-makes-no-sense/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_0087-760x380.png"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "From trucks in space to backpack management sims, and everything in between.",
-      "publishedAt": "2024-02-14T18:07:48+00:00",
-      "title": "Steam Next Fest: Eight game demos that stood out from the crowd",
-      "url": "https://arstechnica.com/gaming/2024/02/steam-next-fest-eight-game-demos-that-stood-out-from-the-crowd/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/steam-stats.jpeg"
     }
   ],
   "sortBy": "top",

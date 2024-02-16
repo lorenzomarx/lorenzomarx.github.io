@@ -2,14 +2,6 @@
   "articles": [
     {
       "author": null,
-      "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
-      "publishedAt": null,
-      "title": "Sports News | Breaking & Latest Sports News | Reuters",
-      "url": "https://www.reuters.com/sports/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=176"
-    },
-    {
-      "author": null,
       "description": "Find latest science news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
       "publishedAt": null,
       "title": "Science News | Today's Latest Science Headlines | Reuters",
@@ -62,15 +54,31 @@
       "publishedAt": null,
       "title": "Reuters Video",
       "url": "https://www.reuters.com/video/",
-      "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/65cb97a2e4b0c8955301dfaa-1707841565071"
+      "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/65ca4cdde4b07ebbc0660d46-1707756767529"
     },
     {
       "author": null,
-      "description": "The Top Coupon Codes & Shopping Deals. Find all the latest verified Coupons and bargains from popular brand names you know and love.",
-      "publishedAt": null,
-      "title": "The Newest Coupons & Sales | Reuters",
+      "description": "Reuters Plus, the commercial content studio at the heart of Reuters, builds campaign content that helps you to connect with your audiences in meaningful and hyper-targeted ways.",
+      "publishedAt": "2023-11-02T12:31:44Z",
+      "title": "Branded Content Studio | Reuters Plus",
       "url": "https://www.reuters.com/sponsored/",
-      "urlToImage": "https://www.reuters.com/coupons/vassets/dist/static/img/reuters-default.webp"
+      "urlToImage": "https://www.reutersagency.com/wp-content/uploads/2020/09/reuters-og.jpg"
+    },
+    {
+      "author": "Nidal Al-Mughrabi, Maayan Lubell",
+      "description": "Israel will press ahead with an offensive against Hamas in Rafah, the last refuge for displaced Palestinians in southern Gaza, after allowing civilians to vacate the area, Prime Minister Benjamin Netanyahu said on Wednesday.",
+      "publishedAt": "2024-02-14T21:12:46Z",
+      "title": "Israel vows action against Hamas in Rafah amid global calls for restraint",
+      "url": "https://www.reuters.com/world/middle-east/inconclusive-gaza-truce-talks-dent-hopes-palestinians-rafah-2024-02-14/",
+      "urlToImage": "https://www.reuters.com/resizer/d5fepgR5n4GHfr8L3ZgtWxLTCCY=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TQ6KS3H76FO2RDQPFQ24OAMWLI.jpg"
+    },
+    {
+      "author": "Lewis Jackson",
+      "description": "The leaders of Canada, Australia and New Zealand on Thursday called for an immediate humanitarian ceasefire in Gaza, according to a joint statement released in response to reports about Israel's planned military operation in Rafah.",
+      "publishedAt": "2024-02-15T02:04:04Z",
+      "title": "Canada, Australia, NZ call for immediate ceasefire in Gaza ahead of Rafah assault",
+      "url": "https://www.reuters.com/world/middle-east/canada-australia-new-zealand-call-immediate-ceasefire-gaza-2024-02-15/",
+      "urlToImage": "https://www.reuters.com/resizer/PfFQqN6RfHv3hKqR3bqw-Xlf8fw=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3ATDQ5T5IVJOFIC75HXFJQ2XLM.jpg"
     }
   ],
   "sortBy": "top",
