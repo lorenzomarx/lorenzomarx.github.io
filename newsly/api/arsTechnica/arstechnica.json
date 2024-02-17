@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Matt Simon, wired.com",
+      "description": "Shattered temperature records have grim implications for hurricane season.",
+      "publishedAt": "2024-02-16T14:53:26+00:00",
+      "title": "Skyrocketing ocean temperatures have scientists scratching their heads",
+      "url": "https://www.wired.com/story/ocean-temperatures-keep-shattering-records-and-stunning-scientists/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/beach-thermometer-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "Starship is fully stacked in South Texas for the rocket's third test flight.",
+      "publishedAt": "2024-02-16T12:00:07+00:00",
+      "title": "Rocket Report: Falcon 9 flies for 300th time; an intriguing launch from Russia",
+      "url": "https://arstechnica.com/?p=2003908",
+      "urlToImage": null
+    },
+    {
+      "author": "Lee Hutchinson",
+      "description": "Are you a sysadmin with control issues who needs a weekend project? Look no further!",
+      "publishedAt": "2024-02-16T11:30:16+00:00",
+      "title": "Doing DNS and DHCP for your LAN the old way\u2014the way that works",
+      "url": "https://arstechnica.com/information-technology/2024/02/doing-dns-and-dhcp-for-your-lan-the-old-way-the-way-that-works/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/lee-dns-robot-stomp-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "The long bones of the hind limbs appear to be genuine. The rest? Not so much.",
       "publishedAt": "2024-02-16T05:01:15+00:00",
@@ -22,11 +46,11 @@
       "publishedAt": "2024-02-15T22:58:08+00:00",
       "title": "After a decade and $1.2 billion, NASA reveals its booty from Bennu: 121 grams",
       "url": "https://arstechnica.com/space/2024/02/after-a-decade-and-1-2-billion-nasa-reveals-its-booty-from-bennu-121-grams/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/O-REx_PE_K-1_20240122.jpg"
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/O-REx_PE_K-1_20240122-resized-760x380.jpg"
     },
     {
       "author": "Stephen Clark",
-      "description": "These satellites will participate in joint missile tracking exercises later this year.",
+      "description": "These satellites will participate in joint missile-tracking exercises later this year.",
       "publishedAt": "2024-02-15T22:37:52+00:00",
       "title": "SpaceX launches military satellites tuned to track hypersonic missiles",
       "url": "https://arstechnica.com/space/2024/02/spacex-launches-military-satellites-tuned-to-track-hypersonic-missiles/",
@@ -55,30 +79,6 @@
       "title": "SpaceX takes a proactive step toward responsible behavior in orbit",
       "url": "https://arstechnica.com/space/2024/02/spacex-takes-a-proactive-step-toward-responsible-behavior-in-orbit/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/starlink-v2-mini-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Proposed settlement impacts millions using AMC apps like Shudder and AMC+.",
-      "publishedAt": "2024-02-15T20:56:56+00:00",
-      "title": "AMC to pay $8M for allegedly violating 1988 law with use of Meta Pixel",
-      "url": "https://arstechnica.com/tech-policy/2024/02/amc-to-pay-8m-for-allegedly-violating-1988-law-with-use-of-meta-pixel/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1437394389-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Google confusingly overshadows its own pro product a week after its last major AI launch.",
-      "publishedAt": "2024-02-15T20:45:37+00:00",
-      "title": "Google upstages itself with Gemini 1.5 AI launch, one week after Ultra 1.0",
-      "url": "https://arstechnica.com/information-technology/2024/02/google-upstages-itself-with-gemini-1-5-ai-launch-one-week-after-ultra-1-0/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemini_15-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "But Starfield and Indiana Jones are staying exclusive to Xbox and PC.",
-      "publishedAt": "2024-02-15T20:18:59+00:00",
-      "title": "After weeks of rumors, Microsoft says four games are going to \u201cother consoles\u201d",
-      "url": "https://arstechnica.com/gaming/2024/02/microsoft-says-its-taking-four-unnamed-xbox-games-to-the-other-consoles/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/psxbox-760x380.jpg"
     }
   ],
   "sortBy": "top",

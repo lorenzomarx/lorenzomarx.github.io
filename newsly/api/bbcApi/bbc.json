@@ -2,6 +2,14 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Russian opposition politician Alexei Navalny has died in jail, prison authorities say.",
+      "publishedAt": null,
+      "title": "Watch: Navalny seen in video link a day before his death",
+      "url": "https://www.bbc.co.uk/news/world-europe-68319164",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C202/production/_132666694_p0hccktp.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "Judge Arthur Engoron is expected to rule in Trump's civil fraud trial. The fine could be steep.",
       "publishedAt": null,
       "title": "Trump faces a $370m fine in New York fraud trial. How would he pay it?",
@@ -10,51 +18,11 @@
     },
     {
       "author": "BBC News",
-      "description": "The US and Ukraine admit Ukrainian troops are running out of ammunition in the eastern town of Avdiivka.",
+      "description": "The prince tells US TV he \"jumped on a plane\" as soon as possible to see his father following the diagnosis.",
       "publishedAt": null,
-      "title": "Ukraine Russia war: US warns Avdiivka could fall",
-      "url": "https://www.bbc.co.uk/news/world-europe-68313306",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BDA2/production/_132664584_smokereuters.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "BBC Verify has analysed the latest satellite image from the city in southern Gaza.",
-      "publishedAt": null,
-      "title": "Israel-Gaza war: Rafah images show huge blast craters close to camps",
-      "url": "https://www.bbc.co.uk/news/world-middle-east-68306915",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/71B2/production/_132660192_verify_15_feb_24-nc.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "Rescuers use drones and an airboat to save a man who went through the ice in Little Bay de Noc, Michigan.",
-      "publishedAt": null,
-      "title": "Watch: Airboat glides across ice to save trapped man",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68312209",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DC7E/production/_132664465_p0hc8bv2.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The informant allegedly lied about Joe Biden and his son receiving bribes from Burisma, a Ukrainian firm.",
-      "publishedAt": null,
-      "title": "Hunter Biden and Burisma: FBI source charged with lying about Biden bribe claims",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68313086",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13A3E/production/_132664408_gettyimages-96693524.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Screaming fans greeted the Hollywood heartthrobs at the world premiere of Dune: Part Two in London.",
-      "publishedAt": null,
-      "title": "Dune 2 stars Timoth\u00e9e Chalamet and Zendaya thrill fans at premiere",
-      "url": "https://www.bbc.co.uk/news/entertainment-arts-68284037",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7360/production/_132663592_gettyimages-2013247829.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Extremely potent greenhouse gas leaked from a Kazakh well for over six months.",
-      "publishedAt": null,
-      "title": "Kazakhstan: Methane mega-leak went on for months",
-      "url": "https://www.bbc.co.uk/news/world-asia-68166298",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/169CB/production/_132591629_methane_leak_promo_verify_v2-nc.png"
+      "title": "Prince Harry speaks for the first time about King's cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/uk-68314330",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12594/production/_132665157_gettyimages-2014051141.jpg"
     },
     {
       "author": "BBC News",
@@ -66,19 +34,51 @@
     },
     {
       "author": "BBC News",
-      "description": "Philippe Grumbach worked for the KGB for 35 years - while rubbing shoulders with the cr\u00e8me de la cr\u00e8me of French society.",
+      "description": "Fani Willis could be barred from the election interference case over a relationship with a lawyer she hired.",
       "publishedAt": null,
-      "title": "KGB spy who rubbed shoulders with French elite for decades",
-      "url": "https://www.bbc.co.uk/news/world-europe-68305050",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12EE0/production/_132663577_gettyimages-1437384222.jpg"
+      "title": "Fani Willis: Defiant Georgia prosecutor fights to stay on Trump case",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68300224",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E26/production/_132664418_gettyimages-2006237732.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Jon Stewart is back in the host chair on The Daily Show. Critics weigh in on whether this will revive viewership for late night or mark a step backwards.",
+      "description": "The US and Ukraine admit Ukrainian troops are running out of ammunition in the eastern town of Avdiivka.",
       "publishedAt": null,
-      "title": "Is Jon Stewart's return the best thing to happen to late night - or a sign that the industry is stuck?",
-      "url": "https://www.bbc.com/culture/article/20240214-will-jon-stewarts-return-increase-interest-in-late-night-tv",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0hbzg1n.jpg"
+      "title": "Ukraine Russia war: US warns Avdiivka could fall",
+      "url": "https://www.bbc.co.uk/news/world-europe-68313306",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BDA2/production/_132664584_smokereuters.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Further damage is reported at the Nasser, as Israel says it has captured 7 October attackers there.",
+      "publishedAt": null,
+      "title": "Gaza's Nasser hospital: Fears for patients as Israeli raid continues",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68315875",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17CD8/production/_132669479_nasser.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Extremely potent greenhouse gas leaked from a Kazakh well for over six months.",
+      "publishedAt": null,
+      "title": "Kazakhstan: Methane mega-leak went on for months",
+      "url": "https://www.bbc.co.uk/news/world-asia-68166298",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/169CB/production/_132591629_methane_leak_promo_verify_v2-nc.png"
+    },
+    {
+      "author": "BBC News",
+      "description": "The swing from Conservatives to Labour in Wellingborough is the second biggest in any post-war election.",
+      "publishedAt": null,
+      "title": "Wellingborough and Kingswood by-elections: Tories suffer two defeats with big swings to Labour",
+      "url": "https://www.bbc.co.uk/news/live/uk-politics-68277176",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png"
+    },
+    {
+      "author": "BBC News",
+      "description": "The informant allegedly lied about Joe Biden and his son receiving bribes from Burisma, a Ukrainian firm.",
+      "publishedAt": null,
+      "title": "Hunter Biden and Burisma: FBI source charged with lying about Biden bribe claims",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68313086",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10EEC/production/_132665396_gettyimages-96693524.jpg"
     }
   ],
   "sortBy": "top",
