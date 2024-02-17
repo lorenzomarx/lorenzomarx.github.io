@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "It's unclear how such egregiously bad images made it through peer-review.",
+      "publishedAt": "2024-02-15T23:16:23+00:00",
+      "title": "Scientists aghast at bizarre AI rat with huge genitals in peer-reviewed article",
+      "url": "https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-644049138-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "A long way, and a lot of money, for half a cup.",
+      "publishedAt": "2024-02-15T22:58:08+00:00",
+      "title": "After a decade and $1.2 billion, NASA reveals its booty from Bennu: 121 grams",
+      "url": "https://arstechnica.com/space/2024/02/after-a-decade-and-1-2-billion-nasa-reveals-its-booty-from-bennu-121-grams/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/O-REx_PE_K-1_20240122.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "These satellites will participate in joint missile tracking exercises later this year.",
       "publishedAt": "2024-02-15T22:37:52+00:00",
@@ -17,12 +33,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/zuck-loves-quest-pro-760x380.jpg"
     },
     {
-      "author": "Scharon Harding",
+      "author": null,
       "description": "Broadcom has cut VMware products, perpetual licenses, and its partner program.",
       "publishedAt": "2024-02-15T21:33:20+00:00",
       "title": "VMware admits sweeping Broadcom changes are worrying customers",
-      "url": "https://arstechnica.com/information-technology/2024/02/vmware-admits-sweeping-broadcom-changes-are-worrying-customers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1247615915-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2003720",
+      "urlToImage": null
     },
     {
       "author": "Eric Berger",
@@ -57,28 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/psxbox-760x380.jpg"
     },
     {
-      "author": "Kevin Purdy",
+      "author": null,
       "description": "Disagreement over security disclosures and bug-fixing priorities led to split.",
       "publishedAt": "2024-02-15T20:04:56+00:00",
       "title": "Nginx core developer quits project in security dispute, starts \u201cfreenginx\u201d fork",
-      "url": "https://arstechnica.com/information-technology/2024/02/nginx-key-developer-starts-a-freenginx-fork-after-dispute-with-parent-firm/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1154567277.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "New England and the Pacific tended to have lower rates of long COVID.",
-      "publishedAt": "2024-02-15T19:29:44+00:00",
-      "title": "First state-level look at long COVID reveals the seven hardest-hit states",
-      "url": "https://arstechnica.com/science/2024/02/first-state-level-look-at-long-covid-reveals-the-seven-hardest-hit-states/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1998844745-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Nvidia might soon be worth more than the world's biggest oil company.",
-      "publishedAt": "2024-02-15T19:08:01+00:00",
-      "title": "Nvidia passes Google\u2019s market cap, now world\u2019s fourth most valuable company",
-      "url": "https://arstechnica.com/gadgets/2024/02/nvidia-passes-googles-market-cap-now-worlds-fourth-most-valuable-company/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-2-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2003602",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
