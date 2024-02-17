@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "The long bones of the hind limbs appear to be genuine. The rest? Not so much.",
+      "publishedAt": "2024-02-16T05:01:15+00:00",
+      "title": "It\u2019s a fake: Mysterious 280 million-year-old fossil is mostly just black paint",
+      "url": "https://arstechnica.com/science/2024/02/its-a-fake-mysterious-280-million-year-old-fossil-is-mostly-just-black-paint/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/fakefossil1CROP-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "It's unclear how such egregiously bad images made it through peer-review.",
       "publishedAt": "2024-02-15T23:16:23+00:00",
@@ -71,14 +79,6 @@
       "title": "After weeks of rumors, Microsoft says four games are going to \u201cother consoles\u201d",
       "url": "https://arstechnica.com/gaming/2024/02/microsoft-says-its-taking-four-unnamed-xbox-games-to-the-other-consoles/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/psxbox-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Disagreement over security disclosures and bug-fixing priorities led to split.",
-      "publishedAt": "2024-02-15T20:04:56+00:00",
-      "title": "Nginx core developer quits project in security dispute, starts \u201cfreenginx\u201d fork",
-      "url": "https://arstechnica.com/?p=2003602",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
