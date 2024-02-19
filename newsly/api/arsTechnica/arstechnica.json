@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "SpaceX now plans at least four Starship launch pads, two in Texas and two in Florida.",
+      "publishedAt": "2024-02-18T01:27:01+00:00",
+      "title": "SpaceX wants to take over a Florida launch pad from rival ULA",
+      "url": "https://arstechnica.com/space/2024/02/spacex-wants-to-take-over-a-florida-launch-pad-from-rival-ula/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/starshipift3-760x380.jpeg"
+    },
+    {
       "author": "Jazmin Locke-Rodriguez and Krishnaswamy Jayachandran, The Conversation",
       "description": "Cut-flower farms could be a sustainable option for mitigating water pollution.",
       "publishedAt": "2024-02-17T12:08:43+00:00",
@@ -49,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/13-760x380.jpg"
     },
     {
-      "author": "Jon Brodkin",
+      "author": null,
       "description": "Apple says it can't secure home-screen web apps with third-party browser engines.",
       "publishedAt": "2024-02-16T18:40:27+00:00",
       "title": "Apple disables iPhone web apps in EU, says it\u2019s too hard to comply with rules",
-      "url": "https://arstechnica.com/tech-policy/2024/02/apple-disables-iphone-web-apps-in-eu-says-its-too-hard-to-comply-with-rules/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/iphone-icons-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2004114",
+      "urlToImage": null
     },
     {
       "author": "Kyle Orland",
@@ -71,14 +79,6 @@
       "title": "Car dealers step up opposition to White House fuel efficiency targets",
       "url": "https://arstechnica.com/cars/2024/02/car-dealers-step-up-opposition-to-white-house-fuel-efficiency-targets/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1017166138-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Hello, cultural singularity\u2014soon, every video you see online could be completely fake.",
-      "publishedAt": "2024-02-16T17:23:10+00:00",
-      "title": "OpenAI collapses media reality with Sora, a photorealistic AI video generator",
-      "url": "https://arstechnica.com/?p=2003861",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
