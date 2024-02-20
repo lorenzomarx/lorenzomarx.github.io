@@ -1,8 +1,48 @@
 {
   "articles": [
     {
+      "author": "John Timmer",
+      "description": "Webb measured isotopes at the edge of the Solar System, hinting at chemistry.",
+      "publishedAt": "2024-02-19T15:55:16+00:00",
+      "title": "Webb telescope spots hints that Eris, Makemake are geologically active",
+      "url": "https://arstechnica.com/science/2024/02/webb-telescope-spots-hints-that-eris-makemake-are-geologically-active/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/eris-makemake-icy-dwarf-planet-760x380.jpg"
+    },
+    {
+      "author": "Javier Espinoza, Financial Times",
+      "description": "EC accuses Apple of abusing its market position after complaint by Spotify.",
+      "publishedAt": "2024-02-19T15:03:34+00:00",
+      "title": "Report: Apple is about to be fined \u20ac500 million by the EU over music streaming",
+      "url": "https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/GettyImages-1141260483-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
-      "description": "SpaceX now plans at least four Starship launch pads, two in Texas and two in Florida.",
+      "description": "\"The H3 finally gave its first cry. The launch was a perfect success.\"",
+      "publishedAt": "2024-02-19T14:29:11+00:00",
+      "title": "Japan\u2019s new H3 rocket proved it works, but will it catch on anywhere else?",
+      "url": "https://arstechnica.com/space/2024/02/japans-new-h3-rocket-proved-it-works-but-will-it-catch-on-anywhere-else/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2009592715-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "What goes up must come down.",
+      "publishedAt": "2024-02-19T14:10:06+00:00",
+      "title": "A big European satellite will make an uncontrolled return to Earth Wednesday",
+      "url": "https://arstechnica.com/space/2024/02/a-large-european-satellite-will-come-crashing-back-to-earth-this-week/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ERS-2_satellite-813x1024-1-760x380.jpg"
+    },
+    {
+      "author": "Alex Goy",
+      "description": "Morgan is still best known for making throwback roadsters and for still using wood.",
+      "publishedAt": "2024-02-19T11:00:13+00:00",
+      "title": "That time the Morgan Motor Company designed a modern coupe, the Aeromax",
+      "url": "https://arstechnica.com/cars/2024/02/that-time-the-morgan-motor-company-designed-a-modern-coupe-the-aeromax/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/aeromax-photos-066-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "SpaceX now plans at least four Starship launch pads: Two in Texas and two in Florida.",
       "publishedAt": "2024-02-18T01:27:01+00:00",
       "title": "SpaceX wants to take over a Florida launch pad from rival ULA",
       "url": "https://arstechnica.com/space/2024/02/spacex-wants-to-take-over-a-florida-launch-pad-from-rival-ula/",
@@ -17,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Screenshot-2024-02-16-at-13-21-24-file-20240205-30-14awa7.jpg-AVIF-Image-1356-\u00d7-668-pixels-760x380.png"
     },
     {
-      "author": "Beth Mole",
+      "author": null,
       "description": "Injections over several months allowed people to tolerate larger doses of trigger foods.",
       "publishedAt": "2024-02-16T22:41:32+00:00",
       "title": "New FDA-approved drug makes severe food allergies less life-threatening",
-      "url": "https://arstechnica.com/science/2024/02/fda-approves-first-drug-to-lessen-food-allergies-before-accidental-eating/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1707716053-760x380.jpeg"
+      "url": "https://arstechnica.com/?p=2004231",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -39,46 +79,6 @@
       "title": "Microsoft fixes problem that let Edge replicate Chrome tabs without permission",
       "url": "https://arstechnica.com/gadgets/2024/02/microsoft-fixes-problem-that-let-edge-replicate-chrome-tabs-without-permission/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/microsoft-edge-760x380.jpeg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Company points to \"AWS partner\" for cameras disappearing from users' apps.",
-      "publishedAt": "2024-02-16T19:03:49+00:00",
-      "title": "Wyze outage leaves customers without camera coverage overnight",
-      "url": "https://arstechnica.com/gadgets/2024/02/wyze-outage-leaves-customers-without-camera-coverage-overnight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1312197346-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Low-level developer features include fs-verify support, more screen-sharing modes.",
-      "publishedAt": "2024-02-16T19:00:20+00:00",
-      "title": "Android 15 Developer Preview 1 is out for the Pixel 6 and up",
-      "url": "https://arstechnica.com/?p=2004059",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Apple says it can't secure home-screen web apps with third-party browser engines.",
-      "publishedAt": "2024-02-16T18:40:27+00:00",
-      "title": "Apple disables iPhone web apps in EU, says it\u2019s too hard to comply with rules",
-      "url": "https://arstechnica.com/?p=2004114",
-      "urlToImage": null
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Spencer talks up \"different form factors that allow people to play in different places.\"",
-      "publishedAt": "2024-02-16T18:24:04+00:00",
-      "title": "Microsoft sure seems to be thinking about some sort of portable Xbox",
-      "url": "https://arstechnica.com/gaming/2024/02/microsoft-sure-seems-to-be-thinking-about-some-sort-of-portable-xbox/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/xclouddemo-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "It's hard to buy a new EV if dealerships aren't interested in selling them.",
-      "publishedAt": "2024-02-16T18:02:58+00:00",
-      "title": "Car dealers step up opposition to White House fuel efficiency targets",
-      "url": "https://arstechnica.com/cars/2024/02/car-dealers-step-up-opposition-to-white-house-fuel-efficiency-targets/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1017166138-760x380.jpg"
     }
   ],
   "sortBy": "top",
