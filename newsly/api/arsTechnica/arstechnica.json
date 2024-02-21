@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Over 100 children at the school are susceptible to virus.",
+      "publishedAt": "2024-02-19T23:14:53+00:00",
+      "title": "Measles erupts in Florida school where 11% of kids are unvaccinated",
+      "url": "https://arstechnica.com/science/2024/02/measles-erupts-in-florida-school-where-11-of-kids-are-unvaccinated/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Flatter, simpler prototype system uses 5-10 times less power than smartphone tech.",
+      "publishedAt": "2024-02-19T22:53:52+00:00",
+      "title": "New compact facial-recognition system passes test on Michelangelo\u2019s David",
+      "url": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/david1CROP-760x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "If you've posted on Reddit, you're likely feeding the future of AI.",
       "publishedAt": "2024-02-19T21:10:30+00:00",
@@ -63,22 +79,6 @@
       "title": "Report: Apple is about to be fined \u20ac500 million by the EU over music streaming",
       "url": "https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/GettyImages-1141260483-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"The H3 finally gave its first cry. The launch was a perfect success.\"",
-      "publishedAt": "2024-02-19T14:29:11+00:00",
-      "title": "Japan\u2019s new H3 rocket proved it works, but will it catch on anywhere else?",
-      "url": "https://arstechnica.com/space/2024/02/japans-new-h3-rocket-proved-it-works-but-will-it-catch-on-anywhere-else/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2009592715-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "What goes up must come down.",
-      "publishedAt": "2024-02-19T14:10:06+00:00",
-      "title": "A big European satellite will make an uncontrolled return to Earth Wednesday",
-      "url": "https://arstechnica.com/?p=2004275",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
