@@ -1,12 +1,60 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "ADRAS-J is a precursor to future missions servicing satellites and clearing space junk.",
+      "publishedAt": "2024-02-20T15:31:52+00:00",
+      "title": "Before snagging a chunk of space junk, Astroscale must first catch up to one",
+      "url": "https://arstechnica.com/space/2024/02/before-snagging-a-chunk-of-space-junk-astroscale-must-first-catch-up-to-one/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/AS_c06_A_4K.0001-e1678414091452-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Actor pokes fun at 2023 AI video by eating spaghetti messily and claiming it's AI-generated.",
+      "publishedAt": "2024-02-20T14:50:37+00:00",
+      "title": "Will Smith parodies viral AI-generated video by actually eating spaghetti",
+      "url": "https://arstechnica.com/information-technology/2024/02/will-smith-parodies-viral-ai-generated-video-by-actually-eating-spaghetti/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/will_smith_parody_hero-760x380.jpg"
+    },
+    {
+      "author": "Tim Bradshaw, Financial Time",
+      "description": "Thousands of domains and servers seized from group responsible for thousands of attacks.",
+      "publishedAt": "2024-02-20T14:30:03+00:00",
+      "title": "LockBit ransomware group taken down in multinational operation",
+      "url": "https://www.ft.com/content/1e9864ee-e041-4b21-984b-2fd4e1008cd9",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/ransomware-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Historically closed bidding processes have been linked to corruption.",
+      "publishedAt": "2024-02-20T14:25:29+00:00",
+      "title": "Roscosmos seeks to obscure bidding process to evade US sanctions",
+      "url": "https://arstechnica.com/space/2024/02/roscosmos-seeks-to-obscure-bidding-process-to-evade-us-sanctions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1747243761-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The plan faced opposition from OEMs, car dealers, and the United Auto Workers.",
+      "publishedAt": "2024-02-20T14:07:01+00:00",
+      "title": "White House to weaken climate-fighting fuel efficiency targets for 2030",
+      "url": "https://arstechnica.com/cars/2024/02/white-house-to-weaken-climate-fighting-fuel-efficiency-targets-for-2030/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-157313230-760x380.jpg"
+    },
+    {
+      "author": "Timothy B. Lee and James Grimmelmann",
+      "description": "The AI community needs to take copyright lawsuits seriously.",
+      "publishedAt": "2024-02-20T14:05:15+00:00",
+      "title": "Why The New York Times might win its copyright lawsuit against OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2024/02/why-the-new-york-times-might-win-its-copyright-lawsuit-against-openai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/openai-copyright-juggle-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "Over 100 children at the school are susceptible to virus.",
       "publishedAt": "2024-02-19T23:14:53+00:00",
       "title": "Measles erupts in Florida school where 11% of kids are unvaccinated",
       "url": "https://arstechnica.com/science/2024/02/measles-erupts-in-florida-school-where-11-of-kids-are-unvaccinated/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-760x380.jpg"
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/measles-437x380.jpeg"
     },
     {
       "author": "Jennifer Ouellette",
@@ -31,54 +79,6 @@
       "title": "\u201cSo violated\u201d: Wyze cameras leak footage to strangers for 2nd time in 5 months",
       "url": "https://arstechnica.com/gadgets/2024/02/wyze-cameras-gave-13000-people-unauthorized-views-of-strangers-homes/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/wyze-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Modern plans get a 25 percent increase, while older plans double in price.",
-      "publishedAt": "2024-02-19T18:39:27+00:00",
-      "title": "International Nest Aware subscriptions jump in price, as much as 100%",
-      "url": "https://arstechnica.com/gadgets/2024/02/google-is-doubling-the-cost-of-some-nest-aware-subscriptions-internationally/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Nest_Cam_battery_Outdoor_16x9.max-2000x2000-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "iPhone compass app made with AI assistance locates the heart of the Milky Way.",
-      "publishedAt": "2024-02-19T18:15:29+00:00",
-      "title": "New app always points to the supermassive black hole at the center of our galaxy",
-      "url": "https://arstechnica.com/gadgets/2024/02/new-app-always-points-to-the-supermassive-black-hole-at-the-center-of-our-galaxy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/galactic_compass_header-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "TikTok becomes the second platform suspected of Digital Services Act breaches.",
-      "publishedAt": "2024-02-19T17:43:32+00:00",
-      "title": "EU accuses TikTok of failing to stop kids pretending to be adults",
-      "url": "https://arstechnica.com/tech-policy/2024/02/eu-accuses-tiktok-of-failing-to-stop-kids-pretending-to-be-adults/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1479771697-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Nintendo's publishing partners were reportedly told of new plans last week.",
-      "publishedAt": "2024-02-19T17:17:16+00:00",
-      "title": "Reports: Switch successor is now set for early 2025",
-      "url": "https://arstechnica.com/gaming/2024/02/multiple-reports-suggest-early-2025-launch-for-switch-2/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/02/newswitch-3-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Webb measured isotopes at the edge of the Solar System, hinting at chemistry.",
-      "publishedAt": "2024-02-19T15:55:16+00:00",
-      "title": "Webb telescope spots hints that Eris, Makemake are geologically active",
-      "url": "https://arstechnica.com/science/2024/02/webb-telescope-spots-hints-that-eris-makemake-are-geologically-active/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/eris-makemake-icy-dwarf-planet-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "EC accuses Apple of abusing its market position after complaint by Spotify.",
-      "publishedAt": "2024-02-19T15:03:34+00:00",
-      "title": "Report: Apple is about to be fined \u20ac500 million by the EU over music streaming",
-      "url": "https://arstechnica.com/?p=2004296",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
