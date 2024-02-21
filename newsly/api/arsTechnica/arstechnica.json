@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Authorities who took down the ransomware group brag about their epic hack.",
+      "publishedAt": "2024-02-20T21:29:33+00:00",
+      "title": "After years of losing, it\u2019s finally feds\u2019 turn to troll ransomware group",
+      "url": "https://arstechnica.com/security/2024/02/after-years-of-losing-its-finally-feds-turn-to-troll-ransomware-group/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/police-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Medical ethicists alarmed by Musk being \"sole source of information\" on patient.",
+      "publishedAt": "2024-02-20T20:55:00+00:00",
+      "title": "Musk claims Neuralink patient doing OK with implant, can move mouse with brain",
+      "url": "https://arstechnica.com/tech-policy/2024/02/musk-claims-neuralink-patient-doing-ok-with-implant-can-move-mouse-with-brain/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/neuralink-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Deal expected to close as soon as this summer.",
+      "publishedAt": "2024-02-20T20:44:31+00:00",
+      "title": "Walmart buying TV-brand Vizio for its ad-fueling customer data",
+      "url": "https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2008670650-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "IVF often produces more embryos than are needed or used.",
+      "publishedAt": "2024-02-20T20:15:44+00:00",
+      "title": "Frozen embryos are \u201cchildren,\u201d according to Alabama\u2019s Supreme Court",
+      "url": "https://arstechnica.com/science/2024/02/frozen-embryos-are-children-according-to-alabamas-supreme-court/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1953593706-760x380.jpeg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Google's first swing at this idea, \"Duet AI,\" was an extra $30 per user per month.",
+      "publishedAt": "2024-02-20T19:11:55+00:00",
+      "title": "Google plans \u201cGemini Business\u201d AI for Workspace users",
+      "url": "https://arstechnica.com/gadgets/2024/02/google-plans-gemini-business-ai-for-workspace-users/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "An accretion disk 7 light-years across powers an exceptionally bright galaxy.",
+      "publishedAt": "2024-02-20T18:59:33+00:00",
+      "title": "Newly spotted black hole has mass of 17 billion Suns, adding another daily",
+      "url": "https://arstechnica.com/science/2024/02/a-sun-a-day-brightest-quasar-found-yet-is-eating-a-lot/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/image-4-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Previous catalogs only listed about 15 percent of the naturalist's extensive collection.",
+      "publishedAt": "2024-02-20T17:08:37+00:00",
+      "title": "Darwin Online has virtually reassembled the naturalist\u2019s personal library",
+      "url": "https://arstechnica.com/science/2024/02/you-can-now-browse-charles-darwins-complete-personal-library-online/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/darwin1-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "ADRAS-J is a precursor to future missions servicing satellites and clearing space junk.",
       "publishedAt": "2024-02-20T15:31:52+00:00",
@@ -17,68 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/will_smith_parody_hero-760x380.jpg"
     },
     {
-      "author": "Tim Bradshaw, Financial Time",
+      "author": "Tim Bradshaw, Financial Times",
       "description": "Thousands of domains and servers seized from group responsible for thousands of attacks.",
       "publishedAt": "2024-02-20T14:30:03+00:00",
       "title": "LockBit ransomware group taken down in multinational operation",
       "url": "https://www.ft.com/content/1e9864ee-e041-4b21-984b-2fd4e1008cd9",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/ransomware-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Historically closed bidding processes have been linked to corruption.",
-      "publishedAt": "2024-02-20T14:25:29+00:00",
-      "title": "Roscosmos seeks to obscure bidding process to evade US sanctions",
-      "url": "https://arstechnica.com/space/2024/02/roscosmos-seeks-to-obscure-bidding-process-to-evade-us-sanctions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1747243761-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The plan faced opposition from OEMs, car dealers, and the United Auto Workers.",
-      "publishedAt": "2024-02-20T14:07:01+00:00",
-      "title": "White House to weaken climate-fighting fuel efficiency targets for 2030",
-      "url": "https://arstechnica.com/cars/2024/02/white-house-to-weaken-climate-fighting-fuel-efficiency-targets-for-2030/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-157313230-760x380.jpg"
-    },
-    {
-      "author": "Timothy B. Lee and James Grimmelmann",
-      "description": "The AI community needs to take copyright lawsuits seriously.",
-      "publishedAt": "2024-02-20T14:05:15+00:00",
-      "title": "Why The New York Times might win its copyright lawsuit against OpenAI",
-      "url": "https://arstechnica.com/tech-policy/2024/02/why-the-new-york-times-might-win-its-copyright-lawsuit-against-openai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/openai-copyright-juggle-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Over 100 children at the school are susceptible to virus.",
-      "publishedAt": "2024-02-19T23:14:53+00:00",
-      "title": "Measles erupts in Florida school where 11% of kids are unvaccinated",
-      "url": "https://arstechnica.com/science/2024/02/measles-erupts-in-florida-school-where-11-of-kids-are-unvaccinated/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/measles-437x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Flatter, simpler prototype system uses 5-10 times less power than smartphone tech.",
-      "publishedAt": "2024-02-19T22:53:52+00:00",
-      "title": "New compact facial-recognition system passes test on Michelangelo\u2019s David",
-      "url": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/david1CROP-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "If you've posted on Reddit, you're likely feeding the future of AI.",
-      "publishedAt": "2024-02-19T21:10:30+00:00",
-      "title": "Reddit sells training data to unnamed AI company ahead of IPO",
-      "url": "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1232875671-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "\"In some cases an Event Video was able to be viewed.\"",
-      "publishedAt": "2024-02-19T21:03:12+00:00",
-      "title": "\u201cSo violated\u201d: Wyze cameras leak footage to strangers for 2nd time in 5 months",
-      "url": "https://arstechnica.com/gadgets/2024/02/wyze-cameras-gave-13000-people-unauthorized-views-of-strangers-homes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/wyze-760x380.jpg"
     }
   ],
   "sortBy": "top",
