@@ -2,6 +2,46 @@
   "articles": [
     {
       "author": "Benj Edwards",
+      "description": "SD3 may bring DALL-E-like prompt fidelity to an open-weights image-synthesis model.",
+      "publishedAt": "2024-02-22T21:28:52+00:00",
+      "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator",
+      "url": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Removing little-used features also improved responsiveness and shrank the size.",
+      "publishedAt": "2024-02-22T21:11:51+00:00",
+      "title": "Nvidia\u2019s new app doesn\u2019t require you to log in to update your GPU driver",
+      "url": "https://arstechnica.com/gaming/2024/02/nvidias-new-app-doesnt-require-you-to-log-in-to-update-your-gpu-driver/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_app-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Section 230 shields Snapchat from minor\u2019s claims that algorithm enabled rape.",
+      "publishedAt": "2024-02-22T19:56:50+00:00",
+      "title": "Snapchat isn\u2019t liable for connecting 12-year-old to convicted sex offenders",
+      "url": "https://arstechnica.com/tech-policy/2024/02/snapchat-isnt-liable-for-connecting-12-year-old-to-convicted-sex-offenders/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-503572766-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Fubo: Media giants' anticompetitive tactics already killed PS Vue, other streamers.",
+      "publishedAt": "2024-02-22T17:56:39+00:00",
+      "title": "Does Fubo\u2019s antitrust lawsuit against ESPN, Fox, and WBD stand a chance?",
+      "url": "https://arstechnica.com/tech-policy/2024/02/does-fubos-antitrust-lawsuit-against-espn-fox-and-wbd-stand-a-chance/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2021283844-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"Drunkonyms fit in well with English linguistic and humorous traditions.\u201d",
+      "publishedAt": "2024-02-22T17:17:10+00:00",
+      "title": "Can any English word be turned into a synonym for \u201cdrunk\u201d? Not all, but many can.",
+      "url": "https://arstechnica.com/science/2024/02/british-comedian-inspires-linguistic-study-of-slang-synonyms-for-getting-drunk/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/01/art-End3-620x349-640x400-640x215.jpg"
+    },
+    {
+      "author": "Benj Edwards",
       "description": "Inserting depictions of diversity into AI images creates revisionist history, critics say.",
       "publishedAt": "2024-02-22T16:43:00+00:00",
       "title": "Google\u2019s hidden AI diversity prompts lead to outcry over historically inaccurate images",
@@ -36,49 +76,9 @@
       "author": "Kevin Purdy",
       "description": "Cause of outage is unknown, but some suspect it's network-to-network \"peering.\"",
       "publishedAt": "2024-02-22T14:18:25+00:00",
-      "title": "70,000 AT&T customers are without service across the US",
+      "title": "70,000 AT&T customers were without service this morning across the US",
       "url": "https://arstechnica.com/information-technology/2024/02/att-outage-leaves-more-than-70000-phones-without-service/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1950001319-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "In search of lost basement time, in a semi-review of Square's semi-remake.",
-      "publishedAt": "2024-02-22T14:01:47+00:00",
-      "title": "I tried to jump back into JRPGs with FFVII Rebirth, and that was a big mistake",
-      "url": "https://arstechnica.com/gaming/2024/02/i-tried-to-jump-back-into-jrpgs-with-ffvii-rebirth-and-that-was-a-big-mistake/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/EN_04_ff7rebirth_SS_0207_Int-copy-760x380.jpg"
-    },
-    {
-      "author": "Robin Warner",
-      "description": "The Honda Prologue uses General Motors' Ultium platform.",
-      "publishedAt": "2024-02-22T14:00:17+00:00",
-      "title": "Honda\u2019s first US-market EV is here\u2014the 2024 Prologue, driven",
-      "url": "https://arstechnica.com/cars/2024/02/heres-the-first-drive-of-hondas-new-ev-crossover-the-2024-prologue/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_1508-760x380.jpeg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "This Florida-based startup wants to fly thousands of customers up to 100,000 feet.",
-      "publishedAt": "2024-02-22T01:28:40+00:00",
-      "title": "Test flights on tap for Space Perspective\u2019s luxury high-altitude balloon",
-      "url": "https://arstechnica.com/space/2024/02/test-flights-on-tap-for-space-perspectives-luxury-high-altitude-balloon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Space_Perspective_Capsule_Front_on_Sunset_Landscape-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "How Kybers and ratcheting are boosting the resiliency of Apple's messaging app.",
-      "publishedAt": "2024-02-22T00:37:16+00:00",
-      "title": "iMessage gets a major makeover that puts it on equal footing with Signal",
-      "url": "https://arstechnica.com/security/2024/02/imessage-gets-a-major-makeover-that-puts-it-on-equal-footing-with-signal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/crypto-key-760x380.jpeg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "On Tuesday, nearly 20 percent of the school's 1,067 students were reportedly absent.",
-      "publishedAt": "2024-02-21T23:41:10+00:00",
-      "title": "Unvaccinated Florida kids exposed to measles can skip quarantine, officials say",
-      "url": "https://arstechnica.com/science/2024/02/unvaccinated-florida-kids-exposed-to-measles-can-skip-quarantine-officials-say/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1235442032-760x380.jpg"
     }
   ],
   "sortBy": "top",
