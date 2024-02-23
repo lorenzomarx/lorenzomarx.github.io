@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Inserting depictions of diversity into AI images creates revisionist history, critics say.",
+      "publishedAt": "2024-02-22T16:43:00+00:00",
+      "title": "Google\u2019s hidden AI diversity prompts lead to outcry over historically inaccurate images",
+      "url": "https://arstechnica.com/information-technology/2024/02/googles-hidden-ai-diversity-prompts-lead-to-outcry-over-historically-inaccurate-images/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemini_diversity_hero-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"They're looking at a pretty aggressive launch schedule this year.\"",
+      "publishedAt": "2024-02-22T16:09:44+00:00",
+      "title": "SpaceX seeks a waiver to launch Starship \u201cat least\u201d nine times this year",
+      "url": "https://arstechnica.com/space/2024/02/spacex-seeks-to-launch-starship-at-least-nine-times-this-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/starship2-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Even Europe won't be ready for EV-only sales in 2030, says M-B CEO Ola Kaellenius.",
+      "publishedAt": "2024-02-22T15:51:24+00:00",
+      "title": "Mercedes-Benz scales back electric ambitions as EV pessimism grows",
+      "url": "https://arstechnica.com/cars/2024/02/mercedes-benz-scales-back-electric-ambitions-as-ev-pessimism-grows/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/24C0008_066-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "\"I want to manufacture every AI chip in the industry,\" says Intel CEO Pat Gelsinger.",
+      "publishedAt": "2024-02-22T14:35:30+00:00",
+      "title": "Intel will make chips for Microsoft",
+      "url": "https://arstechnica.com/?p=2005196",
+      "urlToImage": null
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Cause of outage is unknown, but some suspect it's network-to-network \"peering.\"",
+      "publishedAt": "2024-02-22T14:18:25+00:00",
+      "title": "70,000 AT&T customers are without service across the US",
+      "url": "https://arstechnica.com/information-technology/2024/02/att-outage-leaves-more-than-70000-phones-without-service/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1950001319-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "In search of lost basement time, in a semi-review of Square's semi-remake.",
+      "publishedAt": "2024-02-22T14:01:47+00:00",
+      "title": "I tried to jump back into JRPGs with FFVII Rebirth, and that was a big mistake",
+      "url": "https://arstechnica.com/gaming/2024/02/i-tried-to-jump-back-into-jrpgs-with-ffvii-rebirth-and-that-was-a-big-mistake/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/EN_04_ff7rebirth_SS_0207_Int-copy-760x380.jpg"
+    },
+    {
+      "author": "Robin Warner",
+      "description": "The Honda Prologue uses General Motors' Ultium platform.",
+      "publishedAt": "2024-02-22T14:00:17+00:00",
+      "title": "Honda\u2019s first US-market EV is here\u2014the 2024 Prologue, driven",
+      "url": "https://arstechnica.com/cars/2024/02/heres-the-first-drive-of-hondas-new-ev-crossover-the-2024-prologue/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_1508-760x380.jpeg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "This Florida-based startup wants to fly thousands of customers up to 100,000 feet.",
       "publishedAt": "2024-02-22T01:28:40+00:00",
@@ -23,62 +79,6 @@
       "title": "Unvaccinated Florida kids exposed to measles can skip quarantine, officials say",
       "url": "https://arstechnica.com/science/2024/02/unvaccinated-florida-kids-exposed-to-measles-can-skip-quarantine-officials-say/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1235442032-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Anger and uncertainty spread in wake of Friday's ruling by the state's Supreme Court.",
-      "publishedAt": "2024-02-21T22:56:40+00:00",
-      "title": "Ala. hospital halts IVF after state\u2019s high court ruled embryos are \u201cchildren\u201d",
-      "url": "https://arstechnica.com/science/2024/02/ala-hospital-halts-ivf-after-states-high-court-ruled-embryos-are-children/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2018757987-760x380.jpeg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Pairing of two launch companies could provide more robust competition to SpaceX.",
-      "publishedAt": "2024-02-21T22:38:03+00:00",
-      "title": "Blue Origin has emerged as the likely buyer for United Launch Alliance",
-      "url": "https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/v001-02-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Google's AI features add a 3x increase over the usual Workspace bill.",
-      "publishedAt": "2024-02-21T22:21:39+00:00",
-      "title": "Google launches \u201cGemini Business\u201d AI, adds $20 to the $6 Workspace bill",
-      "url": "https://arstechnica.com/google/2024/02/google-launches-gemini-business-ai-adds-20-to-the-6-workspace-bill/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Hero_1_updated_B.width-1200.format-webp-760x380.webp"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Gemma chatbots can run locally, and they reportedly outperform Meta's Llama 2.",
-      "publishedAt": "2024-02-21T22:01:17+00:00",
-      "title": "Google goes \u201copen AI\u201d with Gemma, a free, open-weights chatbot family",
-      "url": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Hi-Fi Rush, Grounded, Pentiment, and Sea of Thieves are going multiplatform.",
-      "publishedAt": "2024-02-21T20:22:51+00:00",
-      "title": "Microsoft confirms which Xbox games are going to Switch, PlayStation",
-      "url": "https://arstechnica.com/gaming/2024/02/microsoft-confirms-which-xbox-games-are-going-to-switch-playstation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/xboxmulti-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Lina Khan: Musk demanded \"actions that would have violated the FTC's Order.\"",
-      "publishedAt": "2024-02-21T19:59:51+00:00",
-      "title": "Twitter security staff kept firm in compliance by disobeying Musk, FTC says",
-      "url": "https://arstechnica.com/?p=2005030",
-      "urlToImage": null
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Every currently sold iPhone makes the top seven, except the iPhone SE.",
-      "publishedAt": "2024-02-21T18:43:04+00:00",
-      "title": "The top 7 bestselling phone models of 2023 are all iPhones",
-      "url": "https://arstechnica.com/gadgets/2024/02/apple-takes-the-top-7-best-selling-phone-models-for-2023/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Apple-iPhone-14-iPhone-14-Plus-5up-hero-220907-760x380.jpg"
     }
   ],
   "sortBy": "top",
