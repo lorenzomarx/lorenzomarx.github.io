@@ -2,6 +2,14 @@
   "articles": [
     {
       "author": null,
+      "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "publishedAt": null,
+      "title": "Sports News | Breaking & Latest Sports News | Reuters",
+      "url": "https://www.reuters.com/sports/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=176"
+    },
+    {
+      "author": null,
       "description": null,
       "publishedAt": null,
       "title": "Science",
@@ -34,11 +42,27 @@
     },
     {
       "author": null,
+      "description": "Go straight to the source with a daily ten-minute news briefing by frontline journalists. Join host Kim Vinnell as she takes you around the world every weekday.",
+      "publishedAt": null,
+      "title": "Podcasts | Your world in 10 minutes | Reuters",
+      "url": "https://www.reuters.com/podcasts/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=176"
+    },
+    {
+      "author": null,
       "description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
       "publishedAt": null,
       "title": "Fact Check | Reuters",
       "url": "https://www.reuters.com/fact-check/",
       "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=176"
+    },
+    {
+      "author": "Reuters",
+      "description": "Reuters news in video: footage captured by award winning Reuters journalists from around the globe.",
+      "publishedAt": null,
+      "title": "Reuters Video",
+      "url": "https://www.reuters.com/video/",
+      "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/65d85ad5e4b0c8955301fe79-1708678082809"
     },
     {
       "author": null,
@@ -55,22 +79,6 @@
       "title": "After fleeing home, Ukrainians face uncertain future across Europe",
       "url": "https://www.reuters.com/world/europe/after-fleeing-war-ukrainians-face-uncertain-future-across-europe-2024-02-23/",
       "urlToImage": "https://www.reuters.com/resizer/Xj9ihhbngFeQ0XDu_Hwp6CTbs9I=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N2QGMMPXQVKOTKTVXNX3X5BP4I.jpg"
-    },
-    {
-      "author": "Andrew Gray",
-      "description": "As the war in Ukraine enters its third year, the conflict will be determined not just on the battlefield but also in Western capitals and other places far from the front lines.",
-      "publishedAt": "2024-02-22T11:16:26Z",
-      "title": "In third year of war, why Ukraine's fate hinges on West",
-      "url": "https://www.reuters.com/world/europe/third-year-war-why-ukraines-fate-hinges-west-2024-02-22/",
-      "urlToImage": "https://www.reuters.com/resizer/m6kRfdu4ezUXlI3oxs1zj9Z1W00=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L4Q4QRGG3NJDPNSBZOQIC3LLOI.jpg"
-    },
-    {
-      "author": "Max Hunder",
-      "description": "As the Ukraine war enters its third year, the infantry of 59th Brigade are confronting a bleak reality: they're running out of soldiers and ammunition to resist their Russian invaders.",
-      "publishedAt": "2024-02-21T20:22:31Z",
-      "title": "Ukraine outnumbered, outgunned, ground down by relentless Russia",
-      "url": "https://www.reuters.com/world/europe/ukraine-outnumbered-outgunned-ground-down-by-relentless-russia-2024-02-21/",
-      "urlToImage": "https://www.reuters.com/resizer/NVE7xKTSQqIcSBToZ7b-5nKDK1w=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4SG72R7NYZIKRHCWLZXOHGE7IM.jpg"
     }
   ],
   "sortBy": "top",
