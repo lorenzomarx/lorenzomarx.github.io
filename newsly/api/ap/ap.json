@@ -1,28 +1,44 @@
 {
   "articles": [
     {
+      "author": "HANNA ARHIROVA",
+      "description": "KYIV, Ukraine (AP) \u2014 Iryna Reva stares at her phone, replaying the last video her 25-year-old son Vladyslav sent her from the front line before the volunteer soldier disappeared 19 months ago in a battle with Russian forces in Ukraine\u2019s eastern Donetsk region.",
+      "publishedAt": "2024-02-23T05:07:39Z",
+      "title": "Thousands of Ukrainians live in agony and uncertainty as they search for their missing loved ones",
+      "url": "https://apnews.com/34e42072d806dd738b3bc31ce969224c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6c39d0059d3247dba71741865e24475f/3000.jpeg"
+    },
+    {
+      "author": "FATIMA HUSSEIN and ELLEN KNICKMEYER",
+      "description": "WASHINGTON (AP) \u2014 The Treasury Department plans to impose more than 500 new sanctions on Russia and its war machine on Friday as the U.S. vows to keep up its financial pressure on Moscow with the war entering its third grueling year.",
+      "publishedAt": "2024-02-22T18:43:59Z",
+      "title": "US is imposing more than 500 new sanctions on Russia's war machine, indicts Russian businessmen",
+      "url": "https://apnews.com/fa532f69286ab48a8c477c5c1aae089c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/aaa0ad95c5d24cac9bfeaadaaebbebd7/3000.jpeg"
+    },
+    {
+      "author": "The Associated Press",
+      "description": "Hamas says its political leader, Ismail Haniyeh, has left Egypt after holding talks with Egyptian officials about a possible cease-fire in the Gaza Strip and an exchange of hostages held by the militants for Palestinians imprisoned in Israel.",
+      "publishedAt": "2024-02-23T06:50:55Z",
+      "title": "Live updates | Hamas leader leaves Egypt after cease-fire talks with officials there",
+      "url": "https://apnews.com/280c63ec334e5a5651e466436f5470c8",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f2389c0a20e14d4b8b9d92be8e695d83/3000.jpeg"
+    },
+    {
+      "author": "TIA GOLDENBERG",
+      "description": "KIBBUTZ BE'ERI, Israel (AP) \u2014 Gillian and Pete Brisley are picking up the pieces of their shattered lives. They are cleaning up the house where their daughter and granddaughters were killed by Hamas on Oct.",
+      "publishedAt": "2024-02-23T05:18:51Z",
+      "title": "Relatives of hostages in Gaza endure a nightmare, but dream their loved ones will be freed",
+      "url": "https://apnews.com/98c2dbb2634eefbe52de11c1e06528af",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e892f0dcde4b448694c9b73290462017/3000.jpeg"
+    },
+    {
       "author": "MARCIA DUNN",
       "description": "CAPE CANAVERAL, Fla. (AP) \u2014 A private lander on Thursday made the first U.S. touchdown on the moon in more than 50 years, but managed just a weak signal back until flight controllers scrambled to gain better contact.",
       "publishedAt": "2024-02-22T17:45:09Z",
       "title": "Private lander makes first US moon landing in more than 50 years",
       "url": "https://apnews.com/9c896bfca61582773d381f4045fd35d7",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/15a0732e6f674b63b950cd7893a53c14/1920.jpeg"
-    },
-    {
-      "author": "CHRISTINE FERNANDO",
-      "description": "WASHINGTON (AP) \u2014 Some Republicans joined Democrats in expressing alarm over a ruling this week by the Alabama Supreme Court that jeopardized future access to in vitro fertilization, giving allies of President Joe Biden new fuel for their efforts to center abortion access in the presidential election.",
-      "publishedAt": "2024-02-22T23:46:37Z",
-      "title": "Some Republicans are voicing doubt over Alabama IVF ruling. Democrats see an opportunity",
-      "url": "https://apnews.com/5fa61803333ab1ec1062835397c15570",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f0bb7a27691a434690f5f1f5bfa04f2d/3000.jpeg"
-    },
-    {
-      "author": "JOSEF FEDERMAN, SAMY MAGDY and WAFAA SHURAFA",
-      "description": "JERUSALEM (AP) \u2014 International efforts to broker a cease-fire between Israel and Hamas appeared to gain new momentum Thursday as the White House said a visit by a senior envoy with Israeli leaders was \u201cgoing well\u201d and other mediators reported encouraging signs from the warring parties.",
-      "publishedAt": "2024-02-22T13:56:50Z",
-      "title": "Mideast cease-fire efforts gain steam as US envoy visits. Mediators report 'encouraging' signs",
-      "url": "https://apnews.com/e8687b7235d0ac066170f3e5a72ce544",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a94f47e9688546cc821ffa600200c766/1920.jpeg"
     },
     {
       "author": "LINDSAY WHITEHURST, RIO YAMAT and KEN RITTER",
@@ -33,12 +49,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/84eb1a784aff472787e43b692e0b97ca/3000.jpeg"
     },
     {
-      "author": "DENISE LAVOIE and MATTHEW BARAKAT",
-      "description": "RICHMOND, Va. (AP) \u2014 Four foreign nationals were arrested and charged Thursday with transporting suspected Iranian-made weapons on a vessel intercepted by U.S. naval forces in the Arabian Sea last month.",
-      "publishedAt": "2024-02-22T22:06:44Z",
-      "title": "4 charged in transporting suspected Iranian-made weapons. 2 SEALs died in intercepting the ship",
-      "url": "https://apnews.com/f23e236630c74a52003729f893d69725",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/072898a2e8cf4d7f981f9b26f7a2b847/2580.jpeg"
+      "author": null,
+      "description": "WASHINGTON (AP) \u2014 Former President Donald Trump's legal team filed multiple motions Thursday night urging a Florida judge to dismiss the criminal case charging him with illegally retaining classified documents, claiming in part that presidential immunity protects him from prosecution \u2014 an argument they have already submitted to the U.S.",
+      "publishedAt": "2024-02-23T05:28:00Z",
+      "title": "Trump's lawyers call for dismissal of classified documents case, citing presidential immunity",
+      "url": "https://apnews.com/cfbb3a9cc50495da1652fa63315dcb05",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/856c2e72be3e41ac8c4902b839613c1d/3000.jpeg"
     },
     {
       "author": "MICHELLE CHAPMAN",
@@ -49,36 +65,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/7e98be4682d34cb7a1b1368fc1509f42/3000.jpeg"
     },
     {
-      "author": "JUAN A. LOZANO",
-      "description": "ANAHUAC, Texas (AP) \u2014 A Black high school student\u2019s monthslong punishment by his Texas school district for refusing to change his hairstyle does not violate a new state law that prohibits race-based hair discrimination, a judge ruled on Thursday.",
-      "publishedAt": "2024-02-22T05:11:46Z",
-      "title": "Texas school legally punished Black student over hairstyle, judge says",
-      "url": "https://apnews.com/4a1c3ec2ff85da27ffb2118f9fc55007",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2ba70dc929594d65b271d701ae1d8733/3000.jpeg"
+      "author": "REGINA GARCIA CANO",
+      "description": "LA PARAGUA, Venezuela (AP) \u2014 The collapse of an illegally operated gold mine in a remote area of central Venezuela has exposed the sense of abandonment felt by small or rural communities bypassed by a quasi-economic renaissance seen in the South American country's capital and cities.",
+      "publishedAt": "2024-02-23T05:01:15Z",
+      "title": "Collapse of illegal gold mine in Venezuela lays bare feelings of abandonment in rural communities",
+      "url": "https://apnews.com/e221f07f200c0d135435bc2b7792eef1",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/83f8a7e58f3b419f938a6722dea94ff0/3000.jpeg"
     },
     {
-      "author": null,
-      "description": "An Ohio mother who left her 16-month-old daughter home alone in a playpen for 10 days last summer while she went on vacation pleaded guilty on Thursday to aggravated murder.Kristel Candelario, 32, also pleaded guilty to child endangerment as part of a plea deal with Cuyahoga County prosecutors, who agreed to dismiss two murder counts and a felonious assault charge.",
-      "publishedAt": "2024-02-22T19:08:46Z",
-      "title": "Ohio mom who left toddler alone when she went on vacation pleads guilty to aggravated murder",
-      "url": "https://apnews.com/2f83d06c6469b7b9c06df449ad7e1c8d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f256ac4612d744b385d5ae7e0a1af655/3000.jpeg"
-    },
-    {
-      "author": "JULIE WATSON",
-      "description": "SAN DIEGO (AP) \u2014 It will still be months before the San Diego Zoo gets new pandas, the first such bears sent to the United States by China in decades.",
-      "publishedAt": "2024-02-22T23:41:44Z",
-      "title": "Atlanta is the only place in US to see pandas for now. But dozens of spots abroad have them",
-      "url": "https://apnews.com/235de70dec5e6c6f11cd16f53547cfb8",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f598d9c3e0754d09843283f73b99b6a6/3000.jpeg"
-    },
-    {
-      "author": "ANTHONY McCARTNEY",
-      "description": "LOS ANGELES (AP) \u2014 Former talk show host Wendy Williams has been diagnosed with the same form of dementia that actor Bruce Willis has, a statement released Thursday on behalf of her caretakers says.",
-      "publishedAt": "2024-02-22T19:28:26Z",
-      "title": "Wendy Williams diagnosed with same form of dementia as Bruce Willis",
-      "url": "https://apnews.com/d3cebb8c20f750a623f9d180a50c03e8",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4f7795188179448e855c1e7430a194c4/3000.jpeg"
+      "author": "KRUTIKA PATHI and SHEIKH SAALIQ",
+      "description": "NEW DELHI (AP) \u2014 Last year more than two dozen opposition parties in India came together to take on Narendra Modi, one of the country's most popular prime ministers in generations. But the broad alliance, beset with ideological differences and personality clashes, is cracking at a crucial time, just months before the country votes in a national election.",
+      "publishedAt": "2024-02-23T04:03:36Z",
+      "title": "The opposition alliance that aimed to oust Modi appears to be cracking just before India's elections",
+      "url": "https://apnews.com/ce93caddc7eb0ea4880b1bd77069efc2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4f4708f3ce5d4c4585e1842d0d6b1ab8/3000.jpeg"
     }
   ],
   "sortBy": "top",
