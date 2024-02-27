@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "With Romain Dumas behind the wheel, it lapped Mt Panorama in under 2 minutes.",
+      "publishedAt": "2024-02-26T15:28:58+00:00",
+      "title": "Ford\u2019s wacky electric Supervan 4.2 sets a new lap record at Bathurst",
+      "url": "https://arstechnica.com/cars/2024/02/fords-wacky-electric-supervan-4-2-sets-a-new-lap-record-at-bathurst/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/EV01-24-SK1_3566-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "This new data should help us understand Ingenuity's final moments on Mars.",
+      "publishedAt": "2024-02-26T14:33:13+00:00",
+      "title": "Final images of Ingenuity reveal an entire blade broke off the helicopter",
+      "url": "https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ingenuity-1-681x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The quality problem does not appear to affect EVs already at dealerships.",
+      "publishedAt": "2024-02-26T14:21:40+00:00",
+      "title": "The Ford F-150 Lightning\u2019s latest headache? A stop-ship order",
+      "url": "https://arstechnica.com/cars/2024/02/ford-stopped-shipping-f-150-lightning-electric-trucks-in-february/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Ford-F-150-Lightning_ships_02-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "In the astronomy community, SN 1987A has somewhat legendary status.",
+      "publishedAt": "2024-02-26T13:00:13+00:00",
+      "title": "Daily Telescope: Finally, we\u2019ve found the core of a famous supernova",
+      "url": "https://arstechnica.com/space/2024/02/daily-telescope-finally-weve-found-the-core-of-a-famous-supernova/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/webb-core-760x380.jpg"
+    },
+    {
+      "author": "Larry Printz",
+      "description": "Over the years, inventors have had some weird ideas about how to make cars safer.",
+      "publishedAt": "2024-02-26T12:00:43+00:00",
+      "title": "It\u2019s no accident: These automotive safety features flopped",
+      "url": "https://arstechnica.com/cars/2024/02/its-no-accident-these-automotive-safety-features-flopped/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/toy-car-crash-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "Sensitive location data could be sold off to the highest bidder.",
       "publishedAt": "2024-02-25T11:57:35+00:00",
@@ -39,46 +79,6 @@
       "title": "Plucky crew of Star Trek: Discovery seeks a strange artifact in S5 trailer",
       "url": "https://arstechnica.com/culture/2024/02/plucky-crew-of-star-trek-discovery-seeks-a-strange-artifact-in-s5-trailer/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/discovery5-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Identifiable data included job searches, map directions, \"cosplay erotica.\"",
-      "publishedAt": "2024-02-23T20:37:03+00:00",
-      "title": "Avast ordered to stop selling browsing data from its browsing privacy apps",
-      "url": "https://arstechnica.com/tech-policy/2024/02/avast-ordered-to-stop-selling-browsing-data-from-its-browsing-privacy-apps/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1232937090-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "A tale of \"sand dunes, a guy named Gaston, secret aeromagnetic surveys, and camel drivers.\"",
-      "publishedAt": "2024-02-23T20:24:00+00:00",
-      "title": "A giant meteorite has been lost in the desert since 1916\u2014here\u2019s how we might find it",
-      "url": "https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/meteorite1-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "There's a lot of streaming content for fans ahead of next weekend's race.",
-      "publishedAt": "2024-02-23T19:49:27+00:00",
-      "title": "Here\u2019s what we know after three days of Formula 1 preseason testing",
-      "url": "https://arstechnica.com/cars/2024/02/heres-what-we-know-after-three-days-of-formula-1-preseason-testing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2027885607-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Taxing exports of digital movies and games may not be worth sowing discord.",
-      "publishedAt": "2024-02-23T18:32:42+00:00",
-      "title": "India\u2019s plan to let 1998 digital trade deal expire may worsen chip shortage",
-      "url": "https://arstechnica.com/?p=2005621",
-      "urlToImage": null
-    },
-    {
-      "author": "Jacek Krywko",
-      "description": "Problems at a chromium mine in Albania traced to nearly pure hydrogen in a fault.",
-      "publishedAt": "2024-02-23T18:16:31+00:00",
-      "title": "Can we drill for hydrogen? New find suggests additional geological source.",
-      "url": "https://arstechnica.com/science/2024/02/want-to-be-a-hydrogen-tycoon-maybe-look-for-ophiolite-and-chromite-ore/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/image-5-760x380.jpeg"
     }
   ],
   "sortBy": "top",
