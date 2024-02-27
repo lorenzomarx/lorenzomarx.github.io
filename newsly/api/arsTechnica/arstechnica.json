@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Samuel Axon",
+      "description": "The OLED displays account for more than a third of the component costs.",
+      "publishedAt": "2024-02-26T21:15:03+00:00",
+      "title": "Apple Vision Pro\u2019s components cost $1,542\u2014but that\u2019s not the full story",
+      "url": "https://arstechnica.com/gadgets/2024/02/apple-vision-pros-components-cost-1542-but-thats-not-the-full-story/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Vision-Pro-displays-760x380.png"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Wear OS + Snapdragon uses too much power, so what if we just turned it off?",
+      "publishedAt": "2024-02-26T21:08:00+00:00",
+      "title": "Wear OS \u201cHybrid\u201d design has two OSes, two CPUs, \u201c100 hour\u201d battery life",
+      "url": "https://arstechnica.com/gadgets/2024/02/wear-os-hybrid-design-has-two-oses-two-cpus-100-hour-battery-life/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/images-pack-2193_3549-760x380.png"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Customers confused as Sony claims to work with affected users individually.",
+      "publishedAt": "2024-02-26T19:42:41+00:00",
+      "title": "Sony claims to offer subs \u201cappropriate value\u201d for deleting digital libraries",
+      "url": "https://arstechnica.com/gadgets/2024/02/sony-claims-to-offer-subs-appropriate-value-for-deleting-digital-libraries/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/image-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "The rest of 2024 promises a whole lot for Age of Empires fans across all titles.",
+      "publishedAt": "2024-02-26T19:07:28+00:00",
+      "title": "Age of Empires 2 gets another expansion 25 years later, and deservedly so",
+      "url": "https://arstechnica.com/gaming/2024/02/age-of-empires-2-gets-another-expansion-25-years-later-and-deservedly-so/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/aoevv3-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "So what are we to make of this? Is Odysseus a success or a failure?",
+      "publishedAt": "2024-02-26T18:45:00+00:00",
+      "title": "Odysseus has less than a day left on the Moon before it freezes to death",
+      "url": "https://arstechnica.com/space/2024/02/nasa-found-the-private-lander-on-the-moon-but-its-lifetime-is-running-short/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/odie1-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "A love letter to a bygone era of personal blogs and fan sites.",
+      "publishedAt": "2024-02-26T18:21:36+00:00",
+      "title": "Why new fan blog \u201cFinal Fantasy VIII is the Best\u201d is the best",
+      "url": "https://arstechnica.com/gaming/2024/02/why-new-fan-blog-final-fantasy-viii-is-the-best-is-the-best/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ff8itb-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "\"Hotpatching\" originated in Windows Server, cuts way down on update reboots.",
+      "publishedAt": "2024-02-26T18:03:31+00:00",
+      "title": "Windows security updates could come with fewer reboots beginning later this year",
+      "url": "https://arstechnica.com/gadgets/2024/02/windows-security-updates-could-come-with-fewer-reboots-beginning-later-this-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/win11-pc-2023-760x380.jpeg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "The only downside: It's the size of three iPhones stacked on top of each other.",
+      "publishedAt": "2024-02-26T17:30:51+00:00",
+      "title": "The world\u2019s largest battery in a smartphone\u2014a 28,000 mAh, 27-mm-thick brick",
+      "url": "https://arstechnica.com/gadgets/2024/02/smartphone-with-28000-mah-battery-promises-week-of-usage-94-days-of-standby/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Screen_Shot_2024_02_25_at_8.15.33_PM-760x380.webp"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Apple exec: Microsoft putting $100 billion into Bing was \"not significant at all.\"",
+      "publishedAt": "2024-02-26T17:13:43+00:00",
+      "title": "Unsealed court doc shows why Apple rejected Microsoft\u2019s offer to buy Bing",
+      "url": "https://arstechnica.com/tech-policy/2024/02/unsealed-court-doc-shows-why-apple-rejected-microsofts-offer-to-buy-bing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1247881803-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "With Romain Dumas behind the wheel, it lapped Mt Panorama in under 2 minutes.",
       "publishedAt": "2024-02-26T15:28:58+00:00",
       "title": "Ford\u2019s wacky electric Supervan 4.2 sets a new lap record at Bathurst",
       "url": "https://arstechnica.com/cars/2024/02/fords-wacky-electric-supervan-4-2-sets-a-new-lap-record-at-bathurst/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/EV01-24-SK1_3566-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "This new data should help us understand Ingenuity's final moments on Mars.",
-      "publishedAt": "2024-02-26T14:33:13+00:00",
-      "title": "Final images of Ingenuity reveal an entire blade broke off the helicopter",
-      "url": "https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ingenuity-1-681x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The quality problem does not appear to affect EVs already at dealerships.",
-      "publishedAt": "2024-02-26T14:21:40+00:00",
-      "title": "The Ford F-150 Lightning\u2019s latest headache? A stop-ship order",
-      "url": "https://arstechnica.com/cars/2024/02/ford-stopped-shipping-f-150-lightning-electric-trucks-in-february/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Ford-F-150-Lightning_ships_02-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "In the astronomy community, SN 1987A has somewhat legendary status.",
-      "publishedAt": "2024-02-26T13:00:13+00:00",
-      "title": "Daily Telescope: Finally, we\u2019ve found the core of a famous supernova",
-      "url": "https://arstechnica.com/space/2024/02/daily-telescope-finally-weve-found-the-core-of-a-famous-supernova/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/webb-core-760x380.jpg"
-    },
-    {
-      "author": "Larry Printz",
-      "description": "Over the years, inventors have had some weird ideas about how to make cars safer.",
-      "publishedAt": "2024-02-26T12:00:43+00:00",
-      "title": "It\u2019s no accident: These automotive safety features flopped",
-      "url": "https://arstechnica.com/cars/2024/02/its-no-accident-these-automotive-safety-features-flopped/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/toy-car-crash-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Sensitive location data could be sold off to the highest bidder.",
-      "publishedAt": "2024-02-25T11:57:35+00:00",
-      "title": "How your sensitive data can be sold after a data broker goes bankrupt",
-      "url": "https://arstechnica.com/?p=2005720",
-      "urlToImage": null
-    },
-    {
-      "author": "Paresh Dave, wired.com",
-      "description": "Users are even more likely to stick with Google due to one change, says Yelp.",
-      "publishedAt": "2024-02-24T11:34:40+00:00",
-      "title": "Yelp: It\u2019s gotten worse since Google made changes to comply with EU rules",
-      "url": "https://www.wired.com/story/google-search-eu-yelp-unfair/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/google-yelp-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Data is consistent with bosses using RTO to reassert control and scapegoat workers.",
-      "publishedAt": "2024-02-23T23:05:45+00:00",
-      "title": "RTO doesn\u2019t improve company value, but does make employees miserable: Study",
-      "url": "https://arstechnica.com/science/2024/02/rto-doesnt-improve-company-value-but-does-make-employees-miserable-study/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-182629853-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Facial-recognition data is typically used to prompt more vending machine sales.",
-      "publishedAt": "2024-02-23T22:02:30+00:00",
-      "title": "Vending machine error reveals secret face image database of college students",
-      "url": "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/mm-camera-spy-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"It has been a hell of a journey. But everything ends someday.\"",
-      "publishedAt": "2024-02-23T21:16:05+00:00",
-      "title": "Plucky crew of Star Trek: Discovery seeks a strange artifact in S5 trailer",
-      "url": "https://arstechnica.com/culture/2024/02/plucky-crew-of-star-trek-discovery-seeks-a-strange-artifact-in-s5-trailer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/discovery5-760x380.jpg"
     }
   ],
   "sortBy": "top",
