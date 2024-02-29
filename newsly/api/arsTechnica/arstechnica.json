@@ -1,12 +1,44 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Findings could help inform and shape emerging US policy on regulating tattoo inks.",
+      "publishedAt": "2024-02-28T15:51:34+00:00",
+      "title": "Caveat emptor: 90% of tattoo inks have unlabeled or mislabeled ingredients",
+      "url": "https://arstechnica.com/science/2024/02/caveat-emptor-90-of-tattoo-inks-have-unlabeled-or-mislabeled-ingredients/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/tattoo1-760x380.jpg"
+    },
+    {
+      "author": "Camilla Hodgson, Financial Times",
+      "description": "\u201cWe\u2019re also a long way off from replacing all humans.\u201d",
+      "publishedAt": "2024-02-28T14:48:17+00:00",
+      "title": "Amazon to spend $1 billion on startups that combine AI with robots",
+      "url": "https://www.ft.com/content/7e0e2565-e2d3-4e86-872c-8810633c63b0",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "A faithful but generous repackaging of LucasArts' early Doom-alike.",
+      "publishedAt": "2024-02-28T13:00:38+00:00",
+      "title": "Dark Forces Remastered makes a classic Star Wars shooter feel fast and fluid",
+      "url": "https://arstechnica.com/gaming/2024/02/dark-forces-remastered-makes-a-classic-star-wars-shooter-feel-fast-and-fluid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Screenshot-2024-02-26-160712-760x380.png"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "New $549 graphics card is the more logical successor to the RX 6800 XT.",
+      "publishedAt": "2024-02-28T12:00:05+00:00",
+      "title": "Review: AMD Radeon RX 7900 GRE GPU doesn\u2019t quite earn its \u201c7900\u201d label",
+      "url": "https://arstechnica.com/gadgets/2024/02/review-amd-radeon-rx-7900-gre-gpu-doesnt-quite-earn-its-7900-label/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_1691-760x380.jpeg"
+    },
+    {
       "author": "Kyle Orland",
       "description": "Nintendo is \"basically taking the position that emulation itself is unlawful.\"",
       "publishedAt": "2024-02-28T04:32:52+00:00",
-      "title": "How strong is Nintendo\u2019s legal case against Switch emulator Yuzu?",
+      "title": "How strong is Nintendo\u2019s legal case against Switch-emulator Yuzu?",
       "url": "https://arstechnica.com/gaming/2024/02/how-strong-is-nintendos-legal-case-against-switch-emulator-yuzu/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/yuzuchop-760x380.png"
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/ninsauron-760x380.png"
     },
     {
       "author": "Jonathan M. Gitlin",
@@ -47,38 +79,6 @@
       "title": "After a decade of stops and starts, Apple kills its electric car project",
       "url": "https://arstechnica.com/gadgets/2024/02/after-a-decade-of-stops-and-starts-apple-kills-its-electric-car-project/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/GettyImages-1178102199-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "The skull was shattered by at least eight blows before the body was tossed into a peat bog.",
-      "publishedAt": "2024-02-27T21:08:28+00:00",
-      "title": "Brutally bludgeoned \u201cVittrup Man\u201d went from forager to farmer before his death",
-      "url": "https://arstechnica.com/science/2024/02/brutally-bludgeoned-vittrup-man-went-from-forager-to-farmer-before-his-death/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/vitrup1CROP-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Six years on, routers remain a favorite post for concealing malicious activities.",
-      "publishedAt": "2024-02-27T20:57:10+00:00",
-      "title": "Hackers backed by Russia and China are infecting SOHO routers like yours, FBI warns",
-      "url": "https://arstechnica.com/security/2024/02/kremlin-backed-hackers-are-infecting-ubiquity-edgerouters-fbi-warns/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/router-760x380.jpeg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "The first launch of astronauts on Boeing's Starliner capsule is targeted for April 22.",
-      "publishedAt": "2024-02-27T20:42:14+00:00",
-      "title": "Maybe, just maybe, Boeing\u2019s Starliner will finally fly astronauts this spring",
-      "url": "https://arstechnica.com/space/2024/02/maybe-just-maybe-boeings-starliner-will-finally-fly-astronauts-this-spring/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/KSC-20230119-PH-BOE01_0001large-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Stereoscopic emulator does what Nintendon't (anymore).",
-      "publishedAt": "2024-02-27T19:26:02+00:00",
-      "title": "Nintendo\u2019s lost 1990s \u201cVR\u201d console comes to 3DS thanks to a remarkable emulator",
-      "url": "https://arstechnica.com/gaming/2024/02/virtual-boy-finally-comes-to-nintendo-3ds-but-not-in-the-way-youd-think/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Screenshot-2024-02-27-at-1.18.23\u202fPM-760x380.png"
     }
   ],
   "sortBy": "top",
