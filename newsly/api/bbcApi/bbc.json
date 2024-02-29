@@ -2,11 +2,35 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "The BBC's US partner CBS expects victories for the Republican and Democratic frontrunners.",
+      "publishedAt": null,
+      "title": "Trump and Biden projected to win Michigan primaries",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68420519",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0555/production/_132756310_gettyimages-2021281588.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "A coroner's inquest also revealed Myles Sanderson died of an overdose shortly after his 2022 arrest.",
       "publishedAt": null,
       "title": "Canada mass killer's last words revealed at coroner's inquest",
       "url": "https://www.bbc.co.uk/news/world-us-canada-68420123",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10454/production/_132744666_gettyimages-1243029927.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The husband of Prince Michael of Kent's daughter has died at the age of 45, says a palace statement.",
+      "publishedAt": null,
+      "title": "Thomas Kingston: Royals mourn Prince Michael of Kent's son-in-law",
+      "url": "https://www.bbc.co.uk/news/uk-68413546",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AFA4/production/_132746944_hi092504341.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "S Korea has thrown money to try and fix its birth rate issue - but hasn't asked young women about their needs.",
+      "publishedAt": null,
+      "title": "Why South Korean women aren't having babies",
+      "url": "https://www.bbc.co.uk/news/world-asia-68402139",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17600/production/_132744759_jc_koreabirthrate_27.jpg"
     },
     {
       "author": "BBC News",
@@ -18,6 +42,14 @@
     },
     {
       "author": "BBC News",
+      "description": "Friends and family of Jesse Baird and Luke Davies remember them as talented and caring young men.",
+      "publishedAt": null,
+      "title": "Sydney murder case: Tributes flood in for Jesse Baird and Luke Davies",
+      "url": "https://www.bbc.co.uk/news/world-australia-68420791",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0AD3/production/_132717720_jesseandluke.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "An unspecified \"personal matter\" meant the Prince of Wales withdrew from a memorial service.",
       "publishedAt": null,
       "title": "Prince William pulls out of memorial service due to 'personal matter'",
@@ -26,59 +58,27 @@
     },
     {
       "author": "BBC News",
-      "description": "Karl Jordan Jr, 40, and Ronald Washington, 59, targeted the musician after being cut out of a drug deal.",
+      "description": "Prosecutors say Alain Delon, known for his tough-guy persona on screen, does not have a gun permit.",
       "publishedAt": null,
-      "title": "Jam Master Jay: Godson and childhood friend guilty of Run-DMC star's murder",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68419789",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5C3A/production/_132501632_gettyimages-76703826.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The swift rebuttal comes after Emmanuel Macron's suggestion deployment of troops cannot be excluded.",
-      "publishedAt": null,
-      "title": "Nato allies reject Emmanuel Macron idea of troops to Ukraine",
-      "url": "https://www.bbc.co.uk/news/world-europe-68417223",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA8D/production/_132754006_gettyimages-2033874851.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Israel's PM says Americans back the war with Hamas, despite President Biden arguing it could \"lose support\".",
-      "publishedAt": null,
-      "title": "Israel-Gaza war: Netanyahu and Biden spar over support for conflict",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68419865",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12FBB/production/_132755777_3237b9dee58fb088ece9260b96411cc6940c71420_0_2277_15181000x667.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Daniela Klette, 65, was arrested in Berlin and faces accusations of attempted murder and robbery.",
-      "publishedAt": null,
-      "title": "Daniela Klette: Alleged Red Army Faction member held after 30 years",
-      "url": "https://www.bbc.co.uk/news/world-europe-68415892",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14E0B/production/_132751558_41be55b08562d935b46277d1d92c016cd8a0fc79.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Alleged bomber Satoshi Kirishima's deathbed confession came after 49 years on the run.",
-      "publishedAt": null,
-      "title": "Satoshi Kirishima: DNA test confirms dying man was one of Japan's most wanted",
-      "url": "https://www.bbc.co.uk/news/world-asia-68412672",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B292/production/_132441754_satoshikirishima.jpg"
+      "title": "Alain Delon: Police seize 72 guns from French film star's home",
+      "url": "https://www.bbc.co.uk/news/world-europe-68420565",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53D9/production/_132756412_delongetty.jpg"
     },
     {
       "author": "BBC News",
       "description": "Voters in the critical swing state have been organising for months behind a push to oust Joe Biden.",
       "publishedAt": null,
-      "title": "Michigan vote to test anger over Biden's Israel policy",
+      "title": "Michigan vote tests anger over Biden's Israel policy",
       "url": "https://www.bbc.co.uk/news/world-us-canada-68409546",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31C8/production/_132744721_img_4841.jpg"
     },
     {
       "author": "BBC News",
-      "description": "The BBC speaks to people in Gaza who are scouring markets for food and working in overcrowded hospitals.",
+      "description": "The firm never acknowledged the project publicly but had recruited about two thousands workers.",
       "publishedAt": null,
-      "title": "Gazans in survival mode with cold nights and food rations",
-      "url": "https://www.bbc.co.uk/news/world-middle-east-68419581",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D0CF/production/_132755435_gettyimages-2033874902.jpg"
+      "title": "Apple unplugs self-driving electric car project, reports say",
+      "url": "https://www.bbc.co.uk/news/business-68420817",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg"
     }
   ],
   "sortBy": "top",
