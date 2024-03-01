@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "The shot should be taken at least four months since the last COVID vaccination.",
+      "publishedAt": "2024-02-28T23:10:14+00:00",
+      "title": "CDC recommends spring COVID booster for people 65 and up",
+      "url": "https://arstechnica.com/science/2024/02/cdc-recommends-spring-covid-booster-for-people-65-and-up/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1692681750-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Compatibility issues and thermals have, so far, kept SD Express from taking off.",
+      "publishedAt": "2024-02-28T22:58:03+00:00",
+      "title": "Speedy \u201cSD Express\u201d cards have gone nowhere for years, but Samsung could change that",
+      "url": "https://arstechnica.com/gadgets/2024/02/sd-express-cards-from-samsung-promise-faster-than-sata-speeds-for-microsd-devices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/SD-Express-microSD_main1_F-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"We hit harder than expected and skidded along the way.\"",
+      "publishedAt": "2024-02-28T22:48:39+00:00",
+      "title": "That moment when you land on the Moon, break a leg, and are about to topple over",
+      "url": "https://arstechnica.com/science/2024/02/that-moment-when-you-land-on-the-moon-break-a-leg-and-are-about-to-topple-over/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IM1-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "GitHub keeps removing malware-laced repositories, but thousands remain.",
+      "publishedAt": "2024-02-28T22:12:25+00:00",
+      "title": "GitHub besieged by millions of malicious repositories in ongoing attack",
+      "url": "https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/cyber-cyber-cyber-760x380.jpeg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Report: Paramount still contemplating selling to Skydance Media.",
       "publishedAt": "2024-02-28T21:14:42+00:00",
@@ -47,38 +79,6 @@
       "title": "Transparent Micro LED searches for purpose in Lenovo\u2019s concept laptop",
       "url": "https://arstechnica.com/gadgets/2024/02/transparent-micro-led-searches-for-purpose-in-lenovos-concept-laptop/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/another-display-shot_india_today-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Company speaks out after reports of \"surge pricing\" test led to calls for boycotts online.",
-      "publishedAt": "2024-02-28T18:08:11+00:00",
-      "title": "Wendy\u2019s clarifies plans for dynamic pricing experiment after backlash",
-      "url": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/wendys_restaurant-760x380.jpg"
-    },
-    {
-      "author": "Roberto Baldwin",
-      "description": "The indoor charging station is exactly what EV drivers want and need.",
-      "publishedAt": "2024-02-28T18:06:05+00:00",
-      "title": "Here\u2019s what it\u2019s like to charge an EV at Electrify America\u2019s new station",
-      "url": "https://arstechnica.com/cars/2024/02/heres-what-its-like-to-charge-an-ev-at-electrify-americas-new-station/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/0227_EZ_flagship_charging_1250-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Bankman-Fried argues for 63 to 78 months, says he \"is already being punished.\"",
-      "publishedAt": "2024-02-28T17:44:34+00:00",
-      "title": "SBF asks for 5-year prison sentence, calls 100-year recommendation \u201cgrotesque\u201d",
-      "url": "https://arstechnica.com/tech-policy/2024/02/sbf-asks-for-5-year-prison-sentence-calls-100-year-recommendation-grotesque/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-sbf-1-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Findings could help inform and shape emerging US policy on regulating tattoo inks.",
-      "publishedAt": "2024-02-28T15:51:34+00:00",
-      "title": "Caveat emptor: 90% of tattoo inks have unlabeled or mislabeled ingredients",
-      "url": "https://arstechnica.com/science/2024/02/caveat-emptor-90-of-tattoo-inks-have-unlabeled-or-mislabeled-ingredients/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/tattoo1-760x380.jpg"
     }
   ],
   "sortBy": "top",
