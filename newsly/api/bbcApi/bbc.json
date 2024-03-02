@@ -2,11 +2,51 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "BBC Verify analyses footage and Israeli statements to trace what happened when more than 100 Gazans were killed.",
+      "publishedAt": null,
+      "title": "What video and eyewitness accounts tell us about Gazans killed at aid drop",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68445973",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E96E/production/_132785795_gazaindexverify-nc.png"
+    },
+    {
+      "author": "BBC News",
       "description": "Kevin Monahan shot Kaylin Gillis after she and her friends mistakenly drove up his driveway in New York.",
       "publishedAt": null,
       "title": "Man jailed for 25 years for killing woman who made wrong turn into his driveway",
       "url": "https://www.bbc.co.uk/news/world-us-canada-68450159",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6A70/production/_132784272_kaylingillis.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The group blamed the deaths on Israeli bombardment and said a \"number\" of its fighters were also killed.",
+      "publishedAt": null,
+      "title": "Israel Gaza: Seven hostages killed, Hamas says",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68450736",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1E62/production/_132787770_7c3ffdbf90b45fa4a33fef54de6148211b3317c0.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The plane was diverted after crossing the Atlantic and two people were removed from the flight, police said.",
+      "publishedAt": null,
+      "title": "United Airlines flight from London diverts to Maine over two 'intoxicated' passengers",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68448386",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13798/production/_132786797_gettyimages-1480907962.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "A judge is preparing to consider whether to delay the Republican front-runner's trial on 40 criminal charges.",
+      "publishedAt": null,
+      "title": "Donald Trump in court in Florida for hearing in classified documents case",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68448439",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F832/production/_132783536_84270adabb9e23435f6e73701168e5b0c3d6bf2c.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Authorities will now try to remove the vehicle from its precarious position over the Ohio River.",
+      "publishedAt": null,
+      "title": "Kentucky: Person rescued from truck dangling off bridge in Louisville",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68452977",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1BA6/production/_132787070_0301_truck_ky_1.jpg"
     },
     {
       "author": "BBC News",
@@ -18,38 +58,6 @@
     },
     {
       "author": "BBC News",
-      "description": "Beijing is pushing Myanmar to crack down on scam centres and free victims of human trafficking.",
-      "publishedAt": null,
-      "title": "China repatriates hundreds of scam factory workers from Myanmar",
-      "url": "https://www.bbc.co.uk/news/world-asia-68444058",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CC7C/production/_132784325_d3775bb0-aee8-4215-b93b-cdbe29199733.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Ukrainian Leonid Zakutenko sells a type of chemical online thought to be linked to at least 130 UK deaths.",
-      "publishedAt": null,
-      "title": "Poison seller tied to suicide forum tracked down by BBC",
-      "url": "https://www.bbc.co.uk/news/uk-68347415",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D139/production/_132716535_zakutenko-3.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The lawsuit accuses the firm of abandoning its founding principle of benefiting humanity.",
-      "publishedAt": null,
-      "title": "Elon Musk sues ChatGPT-maker OpenAI over Microsoft links",
-      "url": "https://www.bbc.co.uk/news/technology-68445981",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4DD8/production/_132782991_e9cb455461961388f7b0a1ca73262d3d0fc707a8.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Mark Zuckerberg and Bill Gates are among guests at a pre-wedding party for billionaire Mukesh Ambani's son.",
-      "publishedAt": null,
-      "title": "Anant Ambani: World's rich in India for tycoon son's pre-wedding gala",
-      "url": "https://www.bbc.co.uk/news/world-asia-india-68443536",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CEFB/production/_132778925_gettyimages-1250221913-594x594.jpg"
-    },
-    {
-      "author": "BBC News",
       "description": "The wildfire, which began on Monday, spread quickly due to unusually warm, dry weather and gusty winds.",
       "publishedAt": null,
       "title": "Largest wildfire in Texas history kills thousands of cattle",
@@ -58,27 +66,19 @@
     },
     {
       "author": "BBC News",
-      "description": "Brian Mulroney steered Canada through several tumultuous reforms in the late 80s and early 90s.",
+      "description": "CVS and Walgreens say they will provide mifepristone in a handful of states starting next week.",
       "publishedAt": null,
-      "title": "Former Canadian Prime Minister Brian Mulroney dies at 84",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68443314",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA47/production/_132778674_gettyimages-515240866.jpg"
+      "title": "CVS and Walgreens to begin selling prescription abortion pill mifepristone",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68451080",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EAC9/production/_129350106_mifepristone_reuters.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Shohei Ohtani of the LA Dodgers sparks a social media frenzy with the surprise marriage news.",
+      "description": "The Cuban government says it needs help providing children under seven years with subsidised milk.",
       "publishedAt": null,
-      "title": "Shohei Ohtani: Baseball superstar announces marriage to Japanese woman",
-      "url": "https://www.bbc.co.uk/news/68432928",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6083/production/_132770742_gettyimages-2046416371.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The Communist Party document reveals leaders' fear of losing control, says the BBC's Jonathan Head.",
-      "publishedAt": null,
-      "title": "Vietnam: Leaked Communist Party document warns of 'hostile forces'",
-      "url": "https://www.bbc.co.uk/news/world-asia-68443392",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F92B/production/_132778736_gettyimages-1842276043.jpg"
+      "title": "Cuba asks UN for help as food shortages worsen",
+      "url": "https://www.bbc.co.uk/news/world-latin-america-68434845",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10488/production/_132769666_gettyimages-1240823685.jpg"
     }
   ],
   "sortBy": "top",

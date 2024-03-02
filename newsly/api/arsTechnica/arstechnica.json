@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "Spirit was initially spun out from Boeing Commercial Airplanes in 2005.",
+      "publishedAt": "2024-03-01T22:16:21+00:00",
+      "title": "Report: Boeing may reacquire Spirit at higher price despite hating optics",
+      "url": "https://arstechnica.com/tech-policy/2024/03/report-boeing-may-reacquire-spirit-at-higher-price-despite-hating-optics/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1910197094-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Patients having trouble getting lifesaving meds have the AlphV crime group to thank.",
+      "publishedAt": "2024-03-01T21:59:46+00:00",
+      "title": "US prescription market hamstrung for 9 days (so far) by ransomware attack",
+      "url": "https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/pharmacy-payment-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Israeli spyware maker loses fight to only share information on installation.",
+      "publishedAt": "2024-03-01T20:27:44+00:00",
+      "title": "WhatsApp finally forces Pegasus spyware maker to share its secret code",
+      "url": "https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1986205134-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Investors Microsoft, OpenAI, Nvidia, Jeff Bezos, and Intel value Figure at $2.6B.",
+      "publishedAt": "2024-03-01T20:16:37+00:00",
+      "title": "Huge funding round makes \u201cFigure\u201d Big Tech\u2019s favorite humanoid robot company",
+      "url": "https://arstechnica.com/gadgets/2024/03/huge-funding-round-makes-figure-big-techs-favorite-humanoid-robot-company/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/NEW-_DSCF1820_Desktop_10923A__3_-760x380.webp"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Alternative browsers can pin web apps, but they only run inside Apple's WebKit.",
+      "publishedAt": "2024-03-01T19:54:40+00:00",
+      "title": "Apple changes course, will keep iPhone EU web apps how they are in iOS 17.4",
+      "url": "https://arstechnica.com/gadgets/2024/03/apple-changes-course-will-keep-iphone-eu-web-apps-how-they-are-in-ios-17-4/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1660688140-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Malicious submissions have been a fact of life for code repositories. AI is no different.",
+      "publishedAt": "2024-03-01T18:02:29+00:00",
+      "title": "Hugging Face, the GitHub of AI, hosted code that backdoored user devices",
+      "url": "https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Judge to X lawyer: \u201cI\u2019m trying to figure out in my mind how that\u2019s possibly true.\"",
+      "publishedAt": "2024-03-01T16:58:51+00:00",
+      "title": "Judge mocks X for \u201cvapid\u201d argument in Musk\u2019s hate speech lawsuit",
+      "url": "https://arstechnica.com/tech-policy/2024/03/judge-mocks-x-for-vapid-argument-in-musks-hate-speech-lawsuit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1963523622-760x380.jpg"
+    },
+    {
       "author": "Madhumita Murgia and Cristina Criddle, Financial Times",
       "description": "OpenAI is now a \"closed-source de facto subsidiary\" of Microsoft, says lawsuit.",
       "publishedAt": "2024-03-01T14:31:55+00:00",
@@ -9,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1243763548-760x380.jpg"
     },
     {
-      "author": "Eric Berger",
+      "author": null,
       "description": "What happens if you observe the same patch of sky every night all winter?",
       "publishedAt": "2024-03-01T13:00:44+00:00",
       "title": "Daily Telescope: Two nebulae in Orion for the price of one",
-      "url": "https://arstechnica.com/space/2024/03/daily-telescope-two-nebulae-in-orion-for-the-price-of-one/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Orion_PIX-1-760x380.png"
+      "url": "https://arstechnica.com/?p=2007191",
+      "urlToImage": null
     },
     {
       "author": "Eric Berger",
@@ -23,62 +79,6 @@
       "title": "Rocket Report: Astra warns of \u201cimminent\u201d bankruptcy; Falcon Heavy launch delay",
       "url": "https://arstechnica.com/space/2024/03/rocket-report-astra-warns-of-imminent-bankruptcy-falcon-heavy-launch-delay/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GHXroqLacAADlbQ-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Virgin Galactic has just one more flight planned for its only operational spaceship.",
-      "publishedAt": "2024-03-01T00:26:33+00:00",
-      "title": "For Virgin Galactic, becoming profitable means a pause in flying to space",
-      "url": "https://arstechnica.com/space/2024/02/for-virgin-galactic-becoming-profitable-means-a-pause-in-flying-to-space/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/unity22release-760x380.jpeg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Highly contagious norovirus is the leading suspect; four other area schools affected.",
-      "publishedAt": "2024-02-29T23:55:19+00:00",
-      "title": "Gastrointestinal disease explodes in Ala. elementary school; 773 kids out",
-      "url": "https://arstechnica.com/science/2024/02/gastrointestinal-disease-explodes-in-ala-elementary-school-773-kids-out/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-151054943-760x380.jpeg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "\"EmuDev\" coders cite precautions, legal differences they say will offer protection.",
-      "publishedAt": "2024-02-29T23:43:36+00:00",
-      "title": "Emulation community expresses defiance in wake of Nintendo\u2019s Yuzu lawsuit",
-      "url": "https://arstechnica.com/gaming/2024/02/emulation-community-expresses-defiance-in-wake-of-nintendos-yuzu-lawsuit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/power-glove-resist-poster-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Researchers call for more studies to understand why they're linked.",
-      "publishedAt": "2024-02-29T23:10:30+00:00",
-      "title": "Study finds link between marijuana use and cardiovascular disease",
-      "url": "https://arstechnica.com/science/2024/02/marijuana-use-linked-to-increased-risk-of-heart-attack-stroke-study-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1823319472-760x380.jpeg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "\"Never own a printer again.\"",
-      "publishedAt": "2024-02-29T22:51:15+00:00",
-      "title": "HP wants you to pay up to $36/month to rent a printer that it monitors",
-      "url": "https://arstechnica.com/gadgets/2024/02/hp-wants-you-to-pay-up-to-36-month-to-rent-a-printer-that-it-monitors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/HP-Envy-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Futurism report highlights the reputational cost of publishing AI-generated content.",
-      "publishedAt": "2024-02-29T22:00:51+00:00",
-      "title": "AI-generated articles prompt Wikipedia to downgrade CNET\u2019s reliability rating",
-      "url": "https://arstechnica.com/information-technology/2024/02/wikipedia-downgrades-cnets-reliability-rating-after-ai-generated-articles/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/cnet_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Black factory workers can sue Tesla collectively; trial set for October 2024.",
-      "publishedAt": "2024-02-29T20:21:01+00:00",
-      "title": "Tesla must face racism class action from 6,000 Black workers, judge rules",
-      "url": "https://arstechnica.com/tech-policy/2024/02/tesla-must-face-racism-class-action-from-6000-black-workers-judge-rules/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/tesla-factory-760x380.jpg"
     }
   ],
   "sortBy": "top",
