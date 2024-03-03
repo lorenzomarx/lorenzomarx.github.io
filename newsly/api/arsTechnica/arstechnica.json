@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Bradley Iger",
+      "description": "The S/T celebrates the 60th anniversary of the 911 and is limited to just 1963 examples.",
+      "publishedAt": "2024-03-02T12:00:00+00:00",
+      "title": "2024 Porsche 911 S/T review: Threading the needle",
+      "url": "https://arstechnica.com/cars/2024/03/2024-porsche-911-s-t-review-threading-the-needle/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/02-2024-Porsche-911-ST-760x380.jpg"
+    },
+    {
+      "author": "Matt Burgess, wired.com",
+      "description": "Worms could potentially steal data and deploy malware.",
+      "publishedAt": "2024-03-02T11:47:08+00:00",
+      "title": "Researchers create AI worms that can spread from one system to another",
+      "url": "https://www.wired.com/story/here-come-the-ai-worms/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/ai-malware-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "The agency released a unified \"practical\" guidance for respiratory viruses.",
       "publishedAt": "2024-03-02T00:16:15+00:00",
@@ -63,22 +79,6 @@
       "title": "Judge mocks X for \u201cvapid\u201d argument in Musk\u2019s hate speech lawsuit",
       "url": "https://arstechnica.com/tech-policy/2024/03/judge-mocks-x-for-vapid-argument-in-musks-hate-speech-lawsuit/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1963523622-760x380.jpg"
-    },
-    {
-      "author": "Madhumita Murgia and Cristina Criddle, Financial Times",
-      "description": "OpenAI is now a \"closed-source de facto subsidiary\" of Microsoft, says lawsuit.",
-      "publishedAt": "2024-03-01T14:31:55+00:00",
-      "title": "Elon Musk sues OpenAI and Sam Altman, accusing them of chasing profits",
-      "url": "https://arstechnica.com/?p=2007246",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1243763548-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "What happens if you observe the same patch of sky every night all winter?",
-      "publishedAt": "2024-03-01T13:00:44+00:00",
-      "title": "Daily Telescope: Two nebulae in Orion for the price of one",
-      "url": "https://arstechnica.com/?p=2007191",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
