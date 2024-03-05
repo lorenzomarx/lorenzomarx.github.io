@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Willison: \"No model has beaten GPT-4 on a range of widely used benchmarks like this.\"",
+      "publishedAt": "2024-03-04T20:50:15+00:00",
+      "title": "The AI wars heat up with Claude 3, claimed to have \u201cnear-human\u201d abilities",
+      "url": "https://arstechnica.com/information-technology/2024/03/the-ai-wars-heat-up-with-claude-3-claimed-to-have-near-human-abilities/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/claude3_hero_1-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "You'll need to have the lid closed, but it's a welcome upgrade over the M1/M2.",
+      "publishedAt": "2024-03-04T20:15:59+00:00",
+      "title": "Apple\u2019s M3 MacBook Pro is, belatedly, fixing its one-external-display limitation",
+      "url": "https://arstechnica.com/gadgets/2024/03/macos-update-will-let-the-m3-macbook-pro-work-with-two-external-displays/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Apple-MacBook-Pro-2up_screen-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Jack Teixeira avoids spy charges, reduces sentence from up to 60 years.",
+      "publishedAt": "2024-03-04T19:59:56+00:00",
+      "title": "Discord leaker Jack Teixeira pleads guilty, seeks light 11-year sentence",
+      "url": "https://arstechnica.com/tech-policy/2024/03/discord-leaker-jack-teixeira-pleads-guilty-seeks-light-11-year-sentence/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1251792045-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Yuzu devs shut down emulator they now say is \"primarily designed\" to break DRM.",
+      "publishedAt": "2024-03-04T19:59:42+00:00",
+      "title": "Switch emulator makers agree to pay $2.4 million to settle Nintendo lawsuit",
+      "url": "https://arstechnica.com/gaming/2024/03/switch-emulator-makers-agree-to-pay-2-4-million-to-settle-nintendo-lawsuit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/yuzuchop-760x380.png"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Parked apps include browsers, games, and video apps.",
+      "publishedAt": "2024-03-04T19:15:50+00:00",
+      "title": "Android Auto starts flagging more powerful \u201cparked\u201d apps on the home screen",
+      "url": "https://arstechnica.com/gadgets/2024/03/android-auto-starts-flagging-more-powerful-parked-apps-on-the-home-screen/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/chrome_KW37ohR4SP-1-760x380.png"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Apple plans to appeal, insisting there's no evidence of consumer harms.",
+      "publishedAt": "2024-03-04T17:30:09+00:00",
+      "title": "Spotify wins as EU orders Apple to pay $2B and change App Store rules",
+      "url": "https://arstechnica.com/tech-policy/2024/03/apple-to-pay-2b-after-eu-finds-app-store-abusive-siding-with-spotify/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1242120707-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "F1 might be a foregone conclusion, but F2 and the WEC should thrill and delight.",
       "publishedAt": "2024-03-04T16:12:16+00:00",
@@ -31,54 +79,6 @@
       "title": "I worked exclusively in Vision Pro for a week\u2014here\u2019s how it went",
       "url": "https://arstechnica.com/gadgets/2024/03/i-worked-exclusively-in-vision-pro-for-a-week-heres-how-it-went/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Vision-Pro-windows-760x380.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "SpaceX and NASA officials are watching for wear and tear on Crew Dragon Endeavour.",
-      "publishedAt": "2024-03-04T04:58:12+00:00",
-      "title": "The world\u2019s most-traveled crew transport spacecraft flies again",
-      "url": "https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2049066889-760x380.jpg"
-    },
-    {
-      "author": "Bob Berwyn, Inside Climate News",
-      "description": "Fresh, cold water from Greenland ice melting upsets North Atlantic currents.",
-      "publishedAt": "2024-03-03T11:31:12+00:00",
-      "title": "How melting Arctic ice leads to European drought and heatwaves",
-      "url": "https://insideclimatenews.org/news/01032024/links-between-melting-arctic-ice-and-summertime-extreme-weather-in-europe/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/wamme-river-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "The S/T celebrates the 60th anniversary of the 911 and is limited to just 1963 examples.",
-      "publishedAt": "2024-03-02T12:00:00+00:00",
-      "title": "2024 Porsche 911 S/T review: Threading the needle",
-      "url": "https://arstechnica.com/?p=2007258",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Worms could potentially steal data and deploy malware.",
-      "publishedAt": "2024-03-02T11:47:08+00:00",
-      "title": "Researchers create AI worms that can spread from one system to another",
-      "url": "https://arstechnica.com/?p=2007366",
-      "urlToImage": null
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The agency released a unified \"practical\" guidance for respiratory viruses.",
-      "publishedAt": "2024-03-02T00:16:15+00:00",
-      "title": "CDC ditches 5-day COVID isolation, argues COVID is becoming flu-like",
-      "url": "https://arstechnica.com/science/2024/03/cdc-ditches-5-day-covid-isolation-argues-covid-is-becoming-flu-like/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1242380265-760x380.jpeg"
-    },
-    {
-      "author": null,
-      "description": "Spirit was initially spun out from Boeing Commercial Airplanes in 2005.",
-      "publishedAt": "2024-03-01T22:16:21+00:00",
-      "title": "Report: Boeing may reacquire Spirit at higher price despite hating optics",
-      "url": "https://arstechnica.com/?p=2007384",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
