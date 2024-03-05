@@ -1,10 +1,42 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "F1 might be a foregone conclusion, but F2 and the WEC should thrill and delight.",
+      "publishedAt": "2024-03-04T16:12:16+00:00",
+      "title": "Was F1 too boring? Watch these races instead",
+      "url": "https://arstechnica.com/cars/2024/03/was-f1-too-boring-watch-these-races-instead/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-WA1799-001-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Company seeks: \"Experience with human spaceflight or high-performance aircraft systems?\"",
+      "publishedAt": "2024-03-04T15:10:36+00:00",
+      "title": "Blue Origin is getting serious about developing a human spacecraft",
+      "url": "https://arstechnica.com/space/2024/03/blue-origin-staffing-up-to-build-a-human-spacecraft/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/429312040_335507396152650_4562218543835705457_n-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "M2 Air is the new $999 base model, M1 Air goes away after more than 3 years.",
+      "publishedAt": "2024-03-04T14:52:39+00:00",
+      "title": "Apple refreshes 13- and 15-inch MacBook Airs with faster M3 chip",
+      "url": "https://arstechnica.com/gadgets/2024/03/apple-refreshes-13-and-15-inch-macbook-airs-with-faster-m3-chip/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Apple-MacBook-Air-2-up-hero-240304-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "The biggest problem is meetings, as Personas are a bit of a letdown.",
+      "publishedAt": "2024-03-04T11:45:46+00:00",
+      "title": "I worked exclusively in Vision Pro for a week\u2014here\u2019s how it went",
+      "url": "https://arstechnica.com/gadgets/2024/03/i-worked-exclusively-in-vision-pro-for-a-week-heres-how-it-went/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Vision-Pro-windows-760x380.png"
+    },
+    {
       "author": "Stephen Clark",
       "description": "SpaceX and NASA officials are watching for wear and tear on Crew Dragon Endeavour.",
       "publishedAt": "2024-03-04T04:58:12+00:00",
-      "title": "The world\u2019s most traveled crew transport spacecraft flies again",
+      "title": "The world\u2019s most-traveled crew transport spacecraft flies again",
       "url": "https://arstechnica.com/space/2024/03/the-worlds-most-traveled-crew-transport-spacecraft-will-launch-again-tonight/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2049066889-760x380.jpg"
     },
@@ -47,38 +79,6 @@
       "title": "Report: Boeing may reacquire Spirit at higher price despite hating optics",
       "url": "https://arstechnica.com/?p=2007384",
       "urlToImage": null
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Patients having trouble getting lifesaving meds have the AlphV crime group to thank.",
-      "publishedAt": "2024-03-01T21:59:46+00:00",
-      "title": "US prescription market hamstrung for 9 days (so far) by ransomware attack",
-      "url": "https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/pharmacy-payment-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Israeli spyware maker loses fight to only share information on installation.",
-      "publishedAt": "2024-03-01T20:27:44+00:00",
-      "title": "WhatsApp finally forces Pegasus spyware maker to share its secret code",
-      "url": "https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1986205134-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Investors Microsoft, OpenAI, Nvidia, Jeff Bezos, and Intel value Figure at $2.6B.",
-      "publishedAt": "2024-03-01T20:16:37+00:00",
-      "title": "Huge funding round makes \u201cFigure\u201d Big Tech\u2019s favorite humanoid robot company",
-      "url": "https://arstechnica.com/gadgets/2024/03/huge-funding-round-makes-figure-big-techs-favorite-humanoid-robot-company/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/NEW-_DSCF1820_Desktop_10923A__3_-760x380.webp"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Alternative browsers can pin web apps, but they only run inside Apple's WebKit.",
-      "publishedAt": "2024-03-01T19:54:40+00:00",
-      "title": "Apple changes course, will keep iPhone EU web apps how they are in iOS 17.4",
-      "url": "https://arstechnica.com/gadgets/2024/03/apple-changes-course-will-keep-iphone-eu-web-apps-how-they-are-in-ios-17-4/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1660688140-760x380.jpg"
     }
   ],
   "sortBy": "top",
