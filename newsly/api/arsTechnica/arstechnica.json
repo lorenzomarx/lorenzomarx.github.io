@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Heather Jasper",
+      "description": "Researchers are sequencing the DNA of wildlife using dung beetle stomach contents.",
+      "publishedAt": "2024-03-05T16:13:08+00:00",
+      "title": "Scientists get dung beetles to collect DNA samples for biodiversity studies",
+      "url": "https://arstechnica.com/science/2024/03/scientists-get-dung-beetles-to-collect-dna-samples-for-biodiversity-studies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/image-6-760x380.jpeg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Governor's signature would stop software locks from impairing replacement parts.",
+      "publishedAt": "2024-03-05T15:57:11+00:00",
+      "title": "Oregon OKs right-to-repair bill that bans the blocking of aftermarket parts",
+      "url": "https://arstechnica.com/tech-policy/2024/03/oregon-oks-right-to-repair-bill-that-bans-the-blocking-of-aftermarket-parts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1469066514-760x380.jpg"
+    },
+    {
+      "author": "Leo Lewis and David Keohane, Financial Times",
+      "description": "\"All signs point to the hardware becoming less and less important to Microsoft.\"",
+      "publishedAt": "2024-03-05T14:33:48+00:00",
+      "title": "What a potential post-Xbox future could mean for Sony and Nintendo",
+      "url": "https://www.ft.com/content/5b385502-47ac-48a7-9c30-cd044d5488bd",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/xbox-dominoes-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "The Volcano Group, which set fires at the plant in 2021, claimed responsibility.",
+      "publishedAt": "2024-03-05T14:07:27+00:00",
+      "title": "Tesla\u2019s Berlin factory shuts down after suspected transformer arson",
+      "url": "https://arstechnica.com/?p=2007816",
+      "urlToImage": null
+    },
+    {
+      "author": "Eric Berger",
+      "description": "See a galaxy as it was just 430 million years after the Big Bang.",
+      "publishedAt": "2024-03-05T13:00:19+00:00",
+      "title": "Daily Telescope: A new Webb image reveals a cosmos full of galaxies",
+      "url": "https://arstechnica.com/space/2024/03/daily-telescope-a-new-webb-image-reveals-a-cosmos-full-of-galaxies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/STScI-01HDHKMCB8SX4T2A2E9HAR900X-760x380.png"
+    },
+    {
       "author": "Stephen Clark",
       "description": "Congress kept throwing money at the OSAM-1 mission, but it faced continual delays.",
       "publishedAt": "2024-03-05T00:26:29+00:00",
@@ -12,13 +52,13 @@
       "author": "Jennifer Ouellette",
       "description": "\"A powerful record of scientific exchange between Arabs, Jews, & Christians over 100s of years.\"",
       "publishedAt": "2024-03-04T23:20:01+00:00",
-      "title": "This rare 11th century Islamic astrolabe is one of the oldest yet discovered",
+      "title": "This rare 11th-century Islamic astrolabe is one of the oldest yet discovered",
       "url": "https://arstechnica.com/science/2024/03/this-rare-11th-century-islamic-astrolabe-is-one-of-the-oldest-yet-discovered/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/astrolabe1-760x380.jpg"
     },
     {
       "author": "Dan Goodin",
-      "description": "Technically, Microsoft doesn't consider such bugs as vulnerabilities. It patched it anyway.",
+      "description": "Technically, Microsoft doesn't consider such bugs vulnerabilities. It patched it anyway.",
       "publishedAt": "2024-03-04T22:47:04+00:00",
       "title": "Hackers exploited Windows 0-day for 6 months after Microsoft knew of it",
       "url": "https://arstechnica.com/security/2024/03/hackers-exploited-windows-0-day-for-6-months-after-microsoft-knew-of-it/",
@@ -39,46 +79,6 @@
       "title": "The AI wars heat up with Claude 3, claimed to have \u201cnear-human\u201d abilities",
       "url": "https://arstechnica.com/information-technology/2024/03/the-ai-wars-heat-up-with-claude-3-claimed-to-have-near-human-abilities/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/claude3_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "You'll need to have the lid closed, but it's a welcome upgrade over the M1/M2.",
-      "publishedAt": "2024-03-04T20:15:59+00:00",
-      "title": "Apple\u2019s M3 MacBook Pro is, belatedly, fixing its one-external-display limitation",
-      "url": "https://arstechnica.com/gadgets/2024/03/macos-update-will-let-the-m3-macbook-pro-work-with-two-external-displays/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Apple-MacBook-Pro-2up_screen-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Jack Teixeira avoids spy charges, reduces sentence from up to 60 years.",
-      "publishedAt": "2024-03-04T19:59:56+00:00",
-      "title": "Discord leaker Jack Teixeira pleads guilty, seeks light 11-year sentence",
-      "url": "https://arstechnica.com/tech-policy/2024/03/discord-leaker-jack-teixeira-pleads-guilty-seeks-light-11-year-sentence/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1251792045-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Yuzu devs shut down emulator they now say is \"primarily designed\" to break DRM.",
-      "publishedAt": "2024-03-04T19:59:42+00:00",
-      "title": "Switch emulator makers agree to pay $2.4 million to settle Nintendo lawsuit",
-      "url": "https://arstechnica.com/gaming/2024/03/switch-emulator-makers-agree-to-pay-2-4-million-to-settle-nintendo-lawsuit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/yuzuchop-760x380.png"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Parked apps include browsers, games, and video apps.",
-      "publishedAt": "2024-03-04T19:15:50+00:00",
-      "title": "Android Auto starts flagging more powerful \u201cparked\u201d apps on the home screen",
-      "url": "https://arstechnica.com/gadgets/2024/03/android-auto-starts-flagging-more-powerful-parked-apps-on-the-home-screen/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/chrome_KW37ohR4SP-1-760x380.png"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Apple plans to appeal, insisting there's no evidence of consumer harms.",
-      "publishedAt": "2024-03-04T17:30:09+00:00",
-      "title": "Spotify wins as EU orders Apple to pay $2B and change App Store rules",
-      "url": "https://arstechnica.com/tech-policy/2024/03/apple-to-pay-2b-after-eu-finds-app-store-abusive-siding-with-spotify/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1242120707-760x380.jpg"
     }
   ],
   "sortBy": "top",
