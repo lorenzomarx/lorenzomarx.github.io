@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "George Hammond, Barney Jopson, Carmen Muela and Scott Chipolina, FT",
+      "description": "Cryptocurrency launched by OpenAI's Altman is drawing scrutiny from regulators.",
+      "publishedAt": "2024-03-06T15:19:09+00:00",
+      "title": "Spain tells Sam Altman, Worldcoin to shut down its eyeball-scanning orbs",
+      "url": "https://www.ft.com/content/204c1c81-7a6f-4a6a-907e-8782b9d1bed2",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/worldcoin-orb-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Google's other navigation app is getting some new features.",
+      "publishedAt": "2024-03-06T14:33:07+00:00",
+      "title": "Worried about roundabouts? Waze wants to help",
+      "url": "https://arstechnica.com/cars/2024/03/worried-about-roundabouts-waze-wants-to-help/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1235613908-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "This third flight has a reasonable chance of success.",
+      "publishedAt": "2024-03-06T14:01:20+00:00",
+      "title": "The next Starship mission has a tentative launch date: March 14",
+      "url": "https://arstechnica.com/space/2024/03/the-next-starship-mission-has-a-tentative-launch-date-march-14/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/SS1-760x380.jpg"
+    },
+    {
+      "author": "Michael Teo Van Runkle",
+      "description": "For the second year, Optima has set up a charging station in the desert.",
+      "publishedAt": "2024-03-06T12:30:19+00:00",
+      "title": "Off-roading EVs find a home at King of the Hammers",
+      "url": "https://arstechnica.com/cars/2024/03/we-check-out-an-off-road-ev-charging-oasis-at-king-of-the-hammers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Optima-Oasis-King-of-the-Hammers-8-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "WBD looking for ways to grow newfound streaming business profitability.",
       "publishedAt": "2024-03-05T23:27:00+00:00",
@@ -41,44 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/vhs-tapes-and-vcr-760x380.jpg"
     },
     {
-      "author": "Ron Amadeo",
+      "author": null,
       "description": "Ranking update targets sites \"created for search engines instead of people.\"",
       "publishedAt": "2024-03-05T21:41:50+00:00",
       "title": "Google now wants to limit the AI-powered search spam it helped create",
-      "url": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "The expanding ink droplet shears the underlying acrylic paint layer\u2014the Marangoni effect.",
-      "publishedAt": "2024-03-05T21:27:25+00:00",
-      "title": "What dendritic painting has in common with \u201ctears of wine\u201d phenomenon",
-      "url": "https://arstechnica.com/?p=2007448",
+      "url": "https://arstechnica.com/?p=2007948",
       "urlToImage": null
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Amazon's inferior selection of Android apps meant WSA was never very useful.",
-      "publishedAt": "2024-03-05T20:51:49+00:00",
-      "title": "RIP to the Windows Subsystem for Android, which goes away in 2025",
-      "url": "https://arstechnica.com/gadgets/2024/03/rip-to-the-windows-subsystem-for-android-which-goes-away-in-2025/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/27-1-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "It conflicts with concerns of repeat boosters, but authors warn against hypervaccination.",
-      "publishedAt": "2024-03-05T19:40:15+00:00",
-      "title": "German man got 217 COVID shots over 29 months\u2014here\u2019s how it went",
-      "url": "https://arstechnica.com/science/2024/03/german-man-got-217-covid-shots-over-29-months-heres-how-it-went/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1242252869-760x380.jpeg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A new study looks at the development of a firefly's light-emitting organs.",
-      "publishedAt": "2024-03-05T19:32:01+00:00",
-      "title": "How did evolution produce a firefly?",
-      "url": "https://arstechnica.com/science/2024/03/how-did-evolution-produce-a-firefly/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/image-760x380.jpeg"
     }
   ],
   "sortBy": "top",
