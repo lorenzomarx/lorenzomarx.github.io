@@ -2,6 +2,46 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Hannah Gutierrez-Reed was found not guilty of a second charge - tampering with evidence.",
+      "publishedAt": null,
+      "title": "Hannah Gutierrez-Reed: Rust armourer guilty of cinematographer's death",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68486069",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C329/production/_132716994_gettyimages-2023781554.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Russian troops are advancing in eastern Ukraine. Residents must choose - flee, or risk occupation.",
+      "publishedAt": null,
+      "title": "Ukraine war: Eastern residents brace for Russian advance",
+      "url": "https://www.bbc.co.uk/news/world-europe-68493215",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C19/production/_132856853_kos-stationhug.png"
+    },
+    {
+      "author": "BBC News",
+      "description": "Samantha Murphy has not been seen since leaving her home for a run more than a month ago.",
+      "publishedAt": null,
+      "title": "Samantha Murphy: Man arrested over disappearance of Australian woman",
+      "url": "https://www.bbc.co.uk/news/world-australia-68497878",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70C1/production/_132856882_samanthamurphy.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Ocean-going vessels with no-one on board - a vision of the future that's coming faster you think.",
+      "publishedAt": null,
+      "title": "Robot ships: Huge remote controlled vessels are setting sail",
+      "url": "https://www.bbc.co.uk/news/science-environment-68486462",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Actor Hugh Grant recently questioned film runtimes - but have they changed and if so, why?",
+      "publishedAt": null,
+      "title": "Oscars 2024: Are films now 'too long' as Hugh Grant suggests?",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-68379592",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12FF6/production/_132841877_hggettyimages-2020817955.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "New evidence prompted concerns about the fairness of the trial against three men facing criminal charges.",
       "publishedAt": null,
       "title": "Prosecutors drop charges in Hotel California lyrics case",
@@ -10,75 +50,35 @@
     },
     {
       "author": "BBC News",
-      "description": "Students in Bangladesh organised a protest calling for the teacher's suspension after the alleged incident.",
+      "description": "Donald Trump says he is ready to go toe-to-toe. The Biden camp says the Republican is \"thirsty for attention\".",
       "publishedAt": null,
-      "title": "Bangladesh teacher suspended after allegedly shooting student in exam",
-      "url": "https://www.bbc.co.uk/news/world-asia-68490662",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23B9/production/_132854190_31ea3c25-55f2-4edf-83f7-e35822798667.jpg"
+      "title": "Trump challenges Biden to debates 'anytime' after Super Tuesday wins",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68497838",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8CEB/production/_132857063_gettyimages-1229228819.jpg"
     },
     {
       "author": "BBC News",
-      "description": "After the Republican drops out, the voters she leaves behind could play a key role in deciding the presidency.",
+      "description": "Samantha Hudson had made references to violence and paedophilia that prompted calls for a boycott.",
       "publishedAt": null,
-      "title": "Trump or Biden: Who will Nikki Haley's supporters back in November election?",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68483834",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3C5F/production/_132855451_haleygettyimages.jpg"
+      "title": "Doritos cuts ties with transgender influencer over posts",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68495705",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FB09/production/_132856246_samanthahudson2.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Ukraine's navy says five people have been killed after missile strikes in the southern port city.",
+      "description": "The sailors' deaths are the first resulting from an attack on a merchant vessel by the Yemeni group.",
       "publishedAt": null,
-      "title": "Ukraine war: Explosions hit Odesa as Zelensky meets Greek PM",
-      "url": "https://www.bbc.co.uk/news/world-europe-68492688",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1A9F/production/_132851860_mediaitem132851859.jpg"
+      "title": "Three killed in Houthi missile attack on cargo ship - US military",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68490695",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03A7/production/_132853900_mediaitem132853899.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Scientists say warming seas have allowed the species to return to the Atlantic, where it is locally extinct.",
+      "description": "Linwei Ding, a Chinese national, is also accused of secretly working for competitors in China.",
       "publishedAt": null,
-      "title": "Rare sighting of gray whale off New England coast",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68486061",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E8AC/production/_132846595_graywhale3-2048x1365.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Canada says the exports are \"non-lethal\", but critics argue they may still violate international law.",
-      "publishedAt": null,
-      "title": "Canada faces lawsuit over military exports to Israel",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68451085",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18104/production/_132846589_gettyimages-1237850583.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Scientists used the 'sausage in a box' test to find out that dogs can be a \"hard-wired\" for obesity.",
-      "publishedAt": null,
-      "title": "Why fat Labradors can blame their genes",
-      "url": "https://www.bbc.co.uk/news/science-environment-68492504",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/52E9/production/_132852212_gettyimages-870588626.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "At least 18 were killed while looking for the valuable fungus in the desert, activists and media say.",
-      "publishedAt": null,
-      "title": "At least 18 Syrian truffle hunters killed in suspected IS attack",
-      "url": "https://www.bbc.co.uk/news/world-middle-east-68490039",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BDFB/production/_132853684_mediaitem132853683.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The Nobel Prize-winning author's son explains why the \"betrayal\" of his father's wishes is justified.",
-      "publishedAt": null,
-      "title": "Gabriel Garc\u00eda M\u00e1rquez: Sons publish last novel that late author wanted destroyed",
-      "url": "https://www.bbc.co.uk/news/entertainment-arts-68488756",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/100A9/production/_132850756_gabrielgarciamarquezcreditulfandersongettyimages.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Conservatives in France are taking aim at a missing cross and the absence of the French tricolour.",
-      "publishedAt": null,
-      "title": "Paris Olympics: Row over 'woke' map as Paris gears up for games",
-      "url": "https://www.bbc.co.uk/news/world-europe-68489306",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A02D/production/_132850014_gettyimages-2051382770.jpg"
+      "title": "Ex-Google engineer charged with stealing AI secrets",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68497508",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg"
     }
   ],
   "sortBy": "top",

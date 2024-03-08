@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "Russia's heavy-lift Angara A5 rocket is about to launch on its fourth test flight.",
+      "publishedAt": "2024-03-07T01:33:24+00:00",
+      "title": "Russia\u2019s next-generation rocket is a decade old and still flying dummy payloads",
+      "url": "https://arstechnica.com/space/2024/03/russias-next-generation-rocket-is-a-decade-old-and-still-flying-dummy-payloads/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/angara-a5-vostochny-pre-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "New AI tools aim to help with grading and lesson plans\u2014but they may have serious drawbacks.",
+      "publishedAt": "2024-03-06T22:57:48+00:00",
+      "title": "Some teachers are now using ChatGPT to grade papers",
+      "url": "https://arstechnica.com/information-technology/2024/03/some-teachers-are-now-using-chatgpt-to-grade-papers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/kid_with_robot-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "It looks like Microsoft may be filtering violent AI outputs flagged by engineer.",
+      "publishedAt": "2024-03-06T22:24:58+00:00",
+      "title": "Microsoft accused of selling AI tool that spews violent, sexual images to kids",
+      "url": "https://arstechnica.com/tech-policy/2024/03/microsoft-accused-of-selling-ai-tool-that-spews-violent-sexual-images-to-kids/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1822102815-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "QD-OLED or classic WOLED? Samsung reportedly won't tell.",
       "publishedAt": "2024-03-06T21:22:21+00:00",
@@ -55,30 +79,6 @@
       "title": "Huawei rises from the dead, outsells iPhone in China",
       "url": "https://arstechnica.com/gadgets/2024/03/huawei-rises-from-the-dead-outsells-iphone-in-china/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/23-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Negotiating prices is not a \"gun to the head,\" judge rules.",
-      "publishedAt": "2024-03-06T18:50:42+00:00",
-      "title": "Big Pharma is \u201ccoming to the table\u201d on price negotiations as it loses in court",
-      "url": "https://arstechnica.com/science/2024/03/big-pharma-is-coming-to-the-table-on-price-negotiations-as-it-loses-in-court/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1230961158-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "A psychologist and an anthropologist ponder the epistemic risks AI could pose for science.",
-      "publishedAt": "2024-03-06T18:08:54+00:00",
-      "title": "Producing more but understanding less: The risks of AI for scientific research",
-      "url": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-brain-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Making elephant stem cells required an elaborate process, lots of failures.",
-      "publishedAt": "2024-03-06T17:59:30+00:00",
-      "title": "Company that plans to bring back the mammoth takes a key step",
-      "url": "https://arstechnica.com/science/2024/03/de-extinction-company-manages-to-generate-first-elephant-stem-cells/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/image-1-760x380.jpeg"
     }
   ],
   "sortBy": "top",
