@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "The FDA is putting manufacturers on notice to do more to keep contaminants out.",
+      "publishedAt": "2024-03-07T16:29:31+00:00",
+      "title": "Don\u2019t use these six cinnamon products, FDA warns after concerning lead tests",
+      "url": "https://arstechnica.com/science/2024/03/dont-use-these-six-cinnamon-products-fda-warns-after-concerning-lead-tests/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-144863300-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"When your consciousness ends in one world, it could continue to exist in many other worlds.\"",
+      "publishedAt": "2024-03-07T16:14:12+00:00",
+      "title": "The countdown continues as Netflix releases final trailer for 3 Body Problem",
+      "url": "https://arstechnica.com/culture/2024/03/the-countdown-continues-as-netflix-releases-final-trailer-for-3-body-problem/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/3bodyTOP-760x380.jpg"
+    },
+    {
+      "author": "Dell Cameron, wired.com",
+      "description": "\u201cDramatic and persistent spike\u201d in account takeovers is \"substantial drain\" on resources.",
+      "publishedAt": "2024-03-07T14:28:10+00:00",
+      "title": "Law enforcement doesn\u2019t want to be \u201ccustomer service\u201d reps for Meta any more",
+      "url": "https://www.wired.com/story/meta-hacked-users-draining-resources/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-meta-apps-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "For Intel or even M1 upgraders, there\u2019s a lot to like about the M3 Air.",
+      "publishedAt": "2024-03-07T14:00:08+00:00",
+      "title": "Review: Apple\u2019s efficient M3 MacBook Airs are just about as good as laptops get",
+      "url": "https://arstechnica.com/gadgets/2024/03/review-apples-efficient-m3-macbook-airs-are-just-about-as-good-as-laptops-get/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/IMG_1727-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "The comet should\u00a0brighten further as it nears the Sun in the coming weeks.",
+      "publishedAt": "2024-03-07T13:00:34+00:00",
+      "title": "Daily Telescope: A brilliant shot of a comet as it nears the Sun",
+      "url": "https://arstechnica.com/space/2024/03/daily-telescope-a-brilliant-shot-of-a-comet-as-it-nears-the-sun/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/comet-1-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "Russia's heavy-lift Angara A5 rocket is about to launch on its fourth test flight.",
       "publishedAt": "2024-03-07T01:33:24+00:00",
@@ -39,46 +79,6 @@
       "title": "\u201cIt\u2018s kind of depressing\u201d: WB Discovery pulls indie game for \u201cbusiness changes\u201d",
       "url": "https://arstechnica.com/gaming/2024/03/its-kind-of-depressing-wb-discovery-pulls-indie-game-for-business-changes/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Screenshot-2024-03-06-at-11.43.15\u202fAM-760x380.png"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "VMware ESXi, Workstation, Fusion, and Cloud Foundation all affected.",
-      "publishedAt": "2024-03-06T20:19:39+00:00",
-      "title": "VMware sandbox escape bugs are so critical, patches are released for end-of-life products",
-      "url": "https://arstechnica.com/security/2024/03/vmware-issues-patches-for-critical-sandbox-escape-vulnerabilities/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/cloud-computing-760x380.jpeg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Epic says it's retaliation for public criticism; Apple says it can't trust Epic's promises.",
-      "publishedAt": "2024-03-06T20:11:30+00:00",
-      "title": "DMA be damned, Apple cuts off path to Epic Games Store, Fortnite on EU iPhones",
-      "url": "https://arstechnica.com/gaming/2024/03/dma-be-damned-apple-cuts-off-path-to-epic-games-store-fortnite-on-eu-iphones/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-957063506-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "DMA forces large platforms to give users more choices, rivals more chances.",
-      "publishedAt": "2024-03-06T19:58:15+00:00",
-      "title": "On DMA eve, Google whines, Apple sounds alarms, and TikTok wants out",
-      "url": "https://arstechnica.com/tech-policy/2024/03/on-dma-eve-google-whines-apple-sounds-alarms-and-tiktok-wants-out/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/dma-eu-gatekeepers-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Buying cobalt doesn't make US firms liable for abuses in DR Congo, court rules.",
-      "publishedAt": "2024-03-06T19:27:08+00:00",
-      "title": "Big Tech firms beat lawsuit from child laborers forced to work in cobalt mines",
-      "url": "https://arstechnica.com/tech-policy/2024/03/apple-and-other-firms-dont-have-to-compensate-victims-of-forced-child-labor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/getty-cobalt-mine-drc-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Sanctions crushed Huawei for a time, but new Counterpoint data says Huawei is back.",
-      "publishedAt": "2024-03-06T19:08:38+00:00",
-      "title": "Huawei rises from the dead, outsells iPhone in China",
-      "url": "https://arstechnica.com/gadgets/2024/03/huawei-rises-from-the-dead-outsells-iphone-in-china/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/23-760x380.jpg"
     }
   ],
   "sortBy": "top",
