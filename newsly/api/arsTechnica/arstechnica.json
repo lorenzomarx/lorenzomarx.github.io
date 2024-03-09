@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "\"Those launches are exciting the young minds that are watching them.\"",
+      "publishedAt": "2024-03-08T12:00:09+00:00",
+      "title": "Rocket Report: Starbase will expand into state park; another Japanese rocket",
+      "url": "https://arstechnica.com/space/2024/03/rocket-report-starbase-will-expand-into-state-park-another-japanese-rocket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/maxarstarbase-760x380.jpeg"
+    },
+    {
       "author": null,
       "description": "\"Everyone wants to save the world. They just disagree on how.\"",
       "publishedAt": "2024-03-07T23:26:21+00:00",
@@ -26,7 +34,7 @@
     },
     {
       "author": "Dan Goodin",
-      "description": "Ongoing attack targeting thousands of sites, continues to grow.",
+      "description": "Ongoing attack is targeting thousands of sites, continues to grow.",
       "publishedAt": "2024-03-07T22:29:46+00:00",
       "title": "Attack wrangles thousands of web users into a password-cracking botnet",
       "url": "https://arstechnica.com/security/2024/03/attack-wrangles-thousands-of-web-users-into-a-password-cracking-botnet/",
@@ -49,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Roku-TV-760x380.jpg"
     },
     {
-      "author": "Jonathan M. Gitlin",
+      "author": null,
       "description": "The new EVs use Rivian's new midsize platform, and R2 deliveries begin in 2026.",
       "publishedAt": "2024-03-07T19:44:36+00:00",
       "title": "Rivian reveals three new, smaller electric SUVs: The R2, R3, and R3X",
-      "url": "https://arstechnica.com/cars/2024/03/rivian-reveals-three-new-smaller-electric-suvs-the-r2-r3-and-r3x/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/02_Rivian-Family-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2008759",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -71,14 +79,6 @@
       "title": "Rooster Teeth, home of Red Vs. Blue and RWBY, shutting down after 21 years",
       "url": "https://arstechnica.com/?p=2008649",
       "urlToImage": null
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Republican lawmakers struggle to deal with their own incongruent legislation.",
-      "publishedAt": "2024-03-07T19:03:26+00:00",
-      "title": "After ruling that embryos are children, Ala. hastily enacts IVF protections",
-      "url": "https://arstechnica.com/science/2024/03/ala-passes-law-to-shield-ivf-but-legal-and-ideological-questions-loom/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2038746272-760x380.jpeg"
     }
   ],
   "sortBy": "top",
