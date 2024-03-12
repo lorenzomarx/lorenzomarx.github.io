@@ -2,14 +2,6 @@
   "articles": [
     {
       "author": null,
-      "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
-      "publishedAt": null,
-      "title": "Sports News | Breaking & Latest Sports News | Reuters",
-      "url": "https://www.reuters.com/sports/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=179"
-    },
-    {
-      "author": null,
       "description": "Find latest science news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
       "publishedAt": null,
       "title": "Science News | Today's Latest Science Headlines | Reuters",
@@ -57,14 +49,6 @@
       "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=179"
     },
     {
-      "author": "Reuters",
-      "description": "Reuters news in video: footage captured by award winning Reuters journalists from around the globe.",
-      "publishedAt": null,
-      "title": "Reuters Video",
-      "url": "https://www.reuters.com/video/",
-      "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/65e1a3b5e4b0ea5df72b0033-1709286327458?width=1200&height=1200"
-    },
-    {
       "author": null,
       "description": "Reuters Plus, the commercial content studio at the heart of Reuters, builds campaign content that helps you to connect with your audiences in meaningful and hyper-targeted ways.",
       "publishedAt": "2023-11-02T12:31:44Z",
@@ -79,6 +63,22 @@
       "title": "Our top photos of the week",
       "url": "https://www.reuters.com/world/photos-2023-stories-behind-them-2023-12-07/",
       "urlToImage": "https://www.reuters.com/resizer/gp9QZauAqlBmnhFVcznTvR4ypms=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RHXGEOE6RVNRZKFEFT7JS4ZJWE.jpg"
+    },
+    {
+      "author": "Special Reports",
+      "description": "As visitors' coins splash into Rome's majestic Trevi Fountain carrying wishes for love, good health or a return to the Eternal City, they provide practical help to people the tourists will never meet.",
+      "publishedAt": "2024-03-07T08:00:00Z",
+      "title": "What happens to the coins tossed into Rome's Trevi Fountain?",
+      "url": "https://www.reuters.com/world/horses-purified-by-fire-2024-01-19/",
+      "urlToImage": "https://www.reuters.com/investigates/special-report/assets/italy-fountain-coins/mastheads/italy_coins_01_copy.jpg?v=173418060324"
+    },
+    {
+      "author": null,
+      "description": "Ukrainian forces have taken up a more defensive stance in many areas of the snow-bound front after a counteroffensive last year was unable to break through heavily-defended Russian lines in the occupied south and east.",
+      "publishedAt": null,
+      "title": "Ukraine's winter war: Scenes from the frozen frontlines",
+      "url": "https://www.reuters.com/world/2023-through-lens-reuters-photographers-2023-12-04/",
+      "urlToImage": "https://www.reuters.com/resizer/ZwCULEWNf3whaF95m5JcKdOGNJ4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PV6TIBCX3JN5DI5F5J3FLB7TNM.jpg"
     }
   ],
   "sortBy": "top",
