@@ -1,12 +1,28 @@
 {
   "articles": [
     {
-      "author": "Kevin Purdy",
+      "author": "Caitlin Vogus and Jennifer Stisa Granick",
+      "description": "Burke was indicted after sharing outtakes of a Fox News interview.",
+      "publishedAt": "2024-03-11T10:30:57+00:00",
+      "title": "Op-ed: Charges against journalist Tim Burke are a hack job",
+      "url": "https://arstechnica.com/tech-policy/2024/03/charges-against-journalist-tim-burke-are-a-hack-job/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1024018340-760x380.jpg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "Active shielding was first proposed in the '60s. We\u2019re finally close to making it work.",
+      "publishedAt": "2024-03-11T10:00:28+00:00",
+      "title": "Shields up: New ideas might make active shielding viable",
+      "url": "https://arstechnica.com/science/2024/03/shields-up-new-ideas-might-make-active-shielding-viable/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/active-radiation-shielding-760x380.jpg"
+    },
+    {
+      "author": null,
       "description": "Please do not load up this game if you have real tasks to accomplish, I beg you.",
       "publishedAt": "2024-03-10T11:21:42+00:00",
       "title": "Sixty Four is a beautiful system design toy that reveals something rather dark",
-      "url": "https://arstechnica.com/gaming/2024/03/sixty-four-is-an-idle-clicker-a-factory-sim-and-a-dark-extractive-journey/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Sixty-Four_Screenshots-11-760x380.png"
+      "url": "https://arstechnica.com/?p=2009024",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -25,20 +41,20 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/middle-school-arrest-760x380.jpg"
     },
     {
-      "author": "Stephen Clark",
+      "author": null,
       "description": "Three tons of trash from the space station fell to Earth in an unguided reentry.",
       "publishedAt": "2024-03-09T00:10:28+00:00",
       "title": "A hunk of junk from the International Space Station hurtles back to Earth",
-      "url": "https://arstechnica.com/space/2024/03/a-hunk-of-junk-from-the-international-space-station-hurtles-back-to-earth/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/51049786767_d54c2616ef_k-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2008934",
+      "urlToImage": null
     },
     {
-      "author": "John Timmer",
+      "author": null,
       "description": "A scan of archives shows that lots of scientific papers aren't backed up.",
       "publishedAt": "2024-03-08T22:25:18+00:00",
       "title": "Study finds that we could lose science if publishers go bankrupt",
-      "url": "https://arstechnica.com/science/2024/03/study-finds-that-we-could-lose-science-if-publishers-go-bankrupt/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1455032564-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2009083",
+      "urlToImage": null
     },
     {
       "author": "Benj Edwards",
@@ -63,22 +79,6 @@
       "title": "Thousands of US kids are overdosing on melatonin gummies, ER study finds",
       "url": "https://arstechnica.com/science/2024/03/thousands-of-us-kids-are-overdosing-on-melatonin-gummies-er-study-finds/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1485479239-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Bad software, charging problems led Chevy to stop selling the Blazer EV in December.",
-      "publishedAt": "2024-03-08T19:40:00+00:00",
-      "title": "GM starts selling Chevy Blazer EVs again, cuts prices up to $6,250",
-      "url": "https://arstechnica.com/cars/2024/03/gm-starts-selling-chevy-blazer-evs-again-cuts-prices-up-to-6250/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/2024-Chevrolet-Blazer-EV-14-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Gemini Nano can't run on the smaller Pixel 8 due to mysterious \"hardware limitations.\"",
-      "publishedAt": "2024-03-08T19:22:37+00:00",
-      "title": "Google says the AI-focused Pixel 8 can\u2019t run its latest smartphone AI models",
-      "url": "https://arstechnica.com/gadgets/2024/03/google-says-the-ai-focused-pixel-8-cant-run-its-latest-smartphone-ai-models/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/1-760x380.jpg"
     }
   ],
   "sortBy": "top",
