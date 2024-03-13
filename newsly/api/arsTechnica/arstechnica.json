@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Wyatt Myskow and Lee Hedgepeth, Inside Climate News",
+      "description": "Spurious \"war on ranching\" cited as reason for legislation.",
+      "publishedAt": "2024-03-12T13:30:38+00:00",
+      "title": "Some states are now trying to ban lab-grown meat",
+      "url": "https://insideclimatenews.org/news/12032024/lawmakers-aim-to-ban-lab-grown-meat/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/chicken-tank-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Astronomers know of no other region so packed with large stars as this nebula.",
+      "publishedAt": "2024-03-12T12:00:00+00:00",
+      "title": "Daily Telescope: Gigantic new stars stir up a nebula",
+      "url": "https://arstechnica.com/space/2024/03/daily-telescope-gigantic-new-stars-stir-up-a-nebula/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/weic2407a-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "Real-time battery-management algorithms on an embedded processor? Yes, please.",
       "publishedAt": "2024-03-12T08:00:50+00:00",
@@ -20,7 +36,7 @@
       "author": "Jennifer Ouellette",
       "description": "Something else is influencing the expansion rate of the Universe.",
       "publishedAt": "2024-03-11T22:51:31+00:00",
-      "title": "Study: Conflicting values for Hubble constant not due to measurement error",
+      "title": "Study: Conflicting values for Hubble Constant not due to measurement error",
       "url": "https://arstechnica.com/science/2024/03/latest-webb-space-telescope-data-confirms-hubbles-value-for-expansion-of-universe/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hubble1CROP-760x380.jpg"
     },
@@ -33,12 +49,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/BillNelsonHappy-CROPPED-760x380.jpeg"
     },
     {
-      "author": "Jon Brodkin",
+      "author": null,
       "description": "LATAM Airlines said \"technical event\" in mid-flight \"caused a strong movement.\"",
       "publishedAt": "2024-03-11T21:49:00+00:00",
       "title": "50 injured on Boeing 787 as \u201cstrong shake\u201d reportedly sent heads into ceiling",
-      "url": "https://arstechnica.com/tech-policy/2024/03/50-injured-on-boeing-787-as-strong-shake-reportedly-sent-heads-into-ceiling/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/latam-airlines-boeing-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2009438",
+      "urlToImage": null
     },
     {
       "author": "Benj Edwards",
@@ -49,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/file_theft_1-760x380.jpg"
     },
     {
-      "author": "Scharon Harding",
+      "author": null,
       "description": "Indoor cameras had been permitted in \"common areas.\"",
       "publishedAt": "2024-03-11T20:43:20+00:00",
       "title": "Airbnb bans creepy surveillance cameras inside rentals starting April 30",
-      "url": "https://arstechnica.com/tech-policy/2024/03/airbnb-bans-creepy-surveillance-cameras-inside-rentals-starting-april-30/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1415950681-1-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2009366",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -63,22 +79,6 @@
       "title": "Researchers resurrect long-extinct fossil creature as a robot",
       "url": "https://arstechnica.com/?p=2009352",
       "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "One judge dissents, saying Texas law \"limits adults' access to protected speech.\"",
-      "publishedAt": "2024-03-11T17:56:04+00:00",
-      "title": "Texas can require age-verification on porn sites, 5th Circuit judges rule",
-      "url": "https://arstechnica.com/?p=2009339",
-      "urlToImage": null
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Bad radio propagation means Googlers are making do with Ethernet cables, phone hotspots.",
-      "publishedAt": "2024-03-11T16:50:52+00:00",
-      "title": "Google\u2019s self-designed office swallows Wi-Fi \u201clike the Bermuda Triangle\u201d",
-      "url": "https://arstechnica.com/gadgets/2024/03/googles-self-designed-office-swallows-wi-fi-like-the-bermuda-triangle/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/bayview1-760x380.webp"
     }
   ],
   "sortBy": "top",
