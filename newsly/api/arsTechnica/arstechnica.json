@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Real-time battery-management algorithms on an embedded processor? Yes, please.",
+      "publishedAt": "2024-03-12T08:00:50+00:00",
+      "title": "An EV that charges 30% faster? Volvo and Breathe think their tech can do it",
+      "url": "https://arstechnica.com/cars/2024/03/volvos-new-battery-software-could-cut-ev-charge-times-by-30/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/325196_Powertrain-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Discovery means that NerbianRAT is cross-platform used by for-profit threat group.",
       "publishedAt": "2024-03-12T00:33:07+00:00",
@@ -49,20 +57,20 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1415950681-1-760x380.jpg"
     },
     {
-      "author": "Rupendra Brahambhatt",
+      "author": null,
       "description": "Robot designed to mimic enigmatic sea creature can help us understand how it moved.",
       "publishedAt": "2024-03-11T18:41:31+00:00",
       "title": "Researchers resurrect long-extinct fossil creature as a robot",
-      "url": "https://arstechnica.com/science/2024/03/researchers-resurrect-long-extinct-fossil-creature-as-a-robot/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/image-760x380.png"
+      "url": "https://arstechnica.com/?p=2009352",
+      "urlToImage": null
     },
     {
-      "author": "Jon Brodkin",
+      "author": null,
       "description": "One judge dissents, saying Texas law \"limits adults' access to protected speech.\"",
       "publishedAt": "2024-03-11T17:56:04+00:00",
       "title": "Texas can require age-verification on porn sites, 5th Circuit judges rule",
-      "url": "https://arstechnica.com/tech-policy/2024/03/texas-can-require-age-verification-on-porn-sites-5th-circuit-judges-rule/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-texas-flag-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2009339",
+      "urlToImage": null
     },
     {
       "author": "Ron Amadeo",
@@ -71,14 +79,6 @@
       "title": "Google\u2019s self-designed office swallows Wi-Fi \u201clike the Bermuda Triangle\u201d",
       "url": "https://arstechnica.com/gadgets/2024/03/googles-self-designed-office-swallows-wi-fi-like-the-bermuda-triangle/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/bayview1-760x380.webp"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Copyright suits over AI training data reportedly decreasing AI transparency.",
-      "publishedAt": "2024-03-11T16:35:53+00:00",
-      "title": "Nvidia sued over AI training data as copyright clashes continue",
-      "url": "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1397564918-760x380.jpg"
     }
   ],
   "sortBy": "top",
