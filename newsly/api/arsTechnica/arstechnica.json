@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Jacek Krywko",
+      "description": "It won't help with heat-driven bleaching, but other human damage can be fixed.",
+      "publishedAt": "2024-03-13T16:24:25+00:00",
+      "title": "Seeding steel frames brings destroyed coral reefs back to life",
+      "url": "https://arstechnica.com/science/2024/03/some-coral-reef-damage-can-be-fixed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-588701496-760x380.jpg"
+    },
+    {
+      "author": "Fintan Burke",
+      "description": "AI driving decisions are not quite the same as the ones humans would make.",
+      "publishedAt": "2024-03-13T16:05:29+00:00",
+      "title": "What happens when ChatGPT tries to solve 50,000 trolley problems?",
+      "url": "https://arstechnica.com/ai/2024/03/would-chatbots-make-the-same-driving-decisions-as-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-898172236-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "US much closer to banning TikTok, despite users' protests.",
+      "publishedAt": "2024-03-13T15:08:00+00:00",
+      "title": "Bill that could ban TikTok passes in House despite constitutional concerns",
+      "url": "https://arstechnica.com/?p=2009848",
+      "urlToImage": null
+    },
+    {
+      "author": "Teresa Carr, Undark Magazine",
+      "description": "Can we use research and policy to change (or not change) the clocks for the last time?",
+      "publishedAt": "2024-03-13T14:56:21+00:00",
+      "title": "The science behind why people hate Daylight Saving Time so much",
+      "url": "https://undark.org/2024/03/11/time-zones-daylight-saving/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/clock-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"There are so many investments that we could be making, but there are also Moonshots.\"",
+      "publishedAt": "2024-03-13T14:02:17+00:00",
+      "title": "Mining helium-3 on the Moon has been talked about forever\u2014now a company will try",
+      "url": "https://arstechnica.com/space/2024/03/mining-helium-3-on-the-moon-has-been-talked-about-forever-now-a-company-will-try/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Interlune-Harvester-760x380.jpeg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Thor will develop a Class A motorhome with 250 miles of range on the chassis.",
+      "publishedAt": "2024-03-13T12:00:56+00:00",
+      "title": "Harbinger delivers first customer electric truck chassis to RV maker Thor",
+      "url": "https://arstechnica.com/cars/2024/03/harbinger-delivers-first-customer-electric-truck-chassis-to-rv-maker-thor/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Harbinger_050223-6758-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The first EVs will be Chinese-made, with production in South Carolina later this year.",
+      "publishedAt": "2024-03-13T12:00:37+00:00",
+      "title": "Here\u2019s how much the Polestar 3 will cost when it goes on sale in Q2 2024",
+      "url": "https://arstechnica.com/cars/2024/03/polestar-announces-polestar-3-pricing-electric-suv-starts-at-73400/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/670567_20230713_Polestar_3_prototype-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "US faces threat of measles resurgence amid global rise and declining vaccination.",
       "publishedAt": "2024-03-12T21:49:30+00:00",
@@ -23,62 +79,6 @@
       "title": "Abysmal revenue stats of 30K mobile apps show why devs keep pushing for subs",
       "url": "https://arstechnica.com/?p=2009677",
       "urlToImage": null
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "The 2024 Moto G starts arriving at the end of March at most budget carriers.",
-      "publishedAt": "2024-03-12T19:40:19+00:00",
-      "title": "The 2024 Moto G Power packs wireless charging, 8GB RAM in a $300 phone",
-      "url": "https://arstechnica.com/gadgets/2024/03/the-2024-moto-g-power-packs-wireless-charging-8gb-ram-in-a-300-phone/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/6-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Op-ed: The iPad needs more than a simple hardware refresh to fix what ails it.",
-      "publishedAt": "2024-03-12T19:29:53+00:00",
-      "title": "New iPads may be coming soon, but they won\u2019t change the awkward spot the iPad is in",
-      "url": "https://arstechnica.com/gadgets/2024/03/new-high-end-ipads-are-around-the-corner-please-let-me-run-macos-on-them/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/DSC00532-760x380.jpeg"
-    },
-    {
-      "author": null,
-      "description": "To qualify, devs need an app installed by 1 million users in EU the prior year.",
-      "publishedAt": "2024-03-12T18:49:12+00:00",
-      "title": "Apple to allow iOS app installs from websites, but small devs don\u2019t qualify",
-      "url": "https://arstechnica.com/?p=2009618",
-      "urlToImage": null
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Come for the cicada video, stay for the scaling graphic of urination across animal kingdom.",
-      "publishedAt": "2024-03-12T18:36:31+00:00",
-      "title": "Study: Cicadas pee in jets, not droplets. Here\u2019s why that\u2019s kinda weird.",
-      "url": "https://arstechnica.com/science/2024/03/study-cicadas-pee-in-jets-not-droplets-heres-why-thats-kinda-weird/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/cicada4-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "OpenAI\u2019s claim that NYT \u201chacked\u201d ChatGPT is \u201cirrelevant\u201d and \u201cfalse,\u201d NYT says.",
-      "publishedAt": "2024-03-12T18:05:44+00:00",
-      "title": "NYT to OpenAI: No hacking here, just ChatGPT bypassing paywalls",
-      "url": "https://arstechnica.com/tech-policy/2024/03/nyt-disputes-openai-hacking-claim-by-pointing-to-chatgpt-bypassing-paywalls/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1894336797-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "In development for some time, AirPods could finally get the FDA label this fall.",
-      "publishedAt": "2024-03-12T17:42:01+00:00",
-      "title": "Apple\u2019s AirPods Pro could be getting a \u201chearing aid mode\u201d later this year",
-      "url": "https://arstechnica.com/gadgets/2024/03/apples-airpods-pro-could-be-getting-a-hearing-aid-mode-later-this-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1973196010-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Redditor paid a reported $670 to rescue the unit and archive the game for posterity.",
-      "publishedAt": "2024-03-12T16:31:41+00:00",
-      "title": "Lost, circa-2008 Timesplitters 4 prototype discovered on PS3 dev kit",
-      "url": "https://arstechnica.com/gaming/2024/03/lost-circa-2008-timesplitters-4-prototype-discovered-on-ps3-dev-kit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/ts4monkey.png"
     }
   ],
   "sortBy": "top",
