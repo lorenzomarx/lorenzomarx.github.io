@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Jak Hutchcraft, Joe Zadeh, Aiyush Pachnanda",
+      "content": "Over the hills and far away, there lies a place called Rockaway Park. Here on a stretch of land somewhere between Glastonbury, Bristol and Bath the homes are handmade, space is abundant and art is ki\u2026 [+14997 chars]",
+      "description": "\u201cWe just get on with it \u2013 I\u2019d rather ask for forgiveness later than permission before.\"",
+      "publishedAt": "2024-03-14T16:58:32Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The DIY Utopia Hidden in the Britin Rural England",
+      "url": "https://www.vice.com/en/article/wxjaqn/rockaway-park-utopia-bristol",
+      "urlToImage": "https://video-images.vice.com/articles/65f1c45d58bd266fbb772b2f/lede/1710346330682-vice-final-21.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDMyNTM5NjgyNTM5NjgzeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
       "author": "VICE Staff, Jamie Clifton",
       "content": "Twenty years ago, Patrick ODell started a blog called Epicly Laterd, documenting Downtown New York, the skaters he hung out with, and whatever else he felt like pointing his camera at. \r\nThat blog tu\u2026 [+705 chars]",
       "description": "Watch the first two episodes right here.",
@@ -1016,5 +1029,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 78
+  "totalResults": 79
 }

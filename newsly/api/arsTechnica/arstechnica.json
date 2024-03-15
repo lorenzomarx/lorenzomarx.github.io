@@ -1,10 +1,18 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "All non-Google chat GPTs affected by side channel that leaks responses sent to users.",
+      "publishedAt": "2024-03-14T12:30:55+00:00",
+      "title": "Hackers can read private AI-assistant chats even though they\u2019re encrypted",
+      "url": "https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hacking-private-ai-chats-760x380.jpg"
+    },
+    {
       "author": "Kyle Hyatt",
-      "description": "The Nautilus might just be enough to finally get people into Lincoln dealers.",
+      "description": "The Nautilus might just be enough to finally get people into Lincoln dealerships.",
       "publishedAt": "2024-03-14T10:00:48+00:00",
-      "title": "2024 Lincoln Nautilus first drive: a sea change for Lincoln\u2019s middle-child",
+      "title": "2024 Lincoln Nautilus first drive: A sea change for Lincoln\u2019s middle child",
       "url": "https://arstechnica.com/cars/2024/03/2024-lincoln-nautilus-first-drive-a-sea-change-for-lincolns-middle-child/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/2024-Lincoln-Nautilus-Palm-Springs-14-760x380.jpg"
     },
@@ -71,14 +79,6 @@
       "title": "Google\u2019s new gaming AI aims past \u201csuperhuman opponent\u201d and at \u201cobedient partner\u201d",
       "url": "https://arstechnica.com/ai/2024/03/google-deepmind-wants-its-sima-ai-model-to-be-the-ultimate-co-op-gaming-partner/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1330911065-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Gemini is opting out of election-related responses entirely for 2024.",
-      "publishedAt": "2024-03-13T17:40:28+00:00",
-      "title": "Google\u2019s Gemini AI now refuses to answer election questions",
-      "url": "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-760x380.jpg"
     }
   ],
   "sortBy": "top",
