@@ -1,12 +1,52 @@
 {
   "articles": [
     {
-      "author": "Dan Goodin",
+      "author": "Jonathan M. Gitlin",
+      "description": "Forget LLM chatbots; this seems like an actually useful implementation of AI.",
+      "publishedAt": "2024-03-15T15:20:03+00:00",
+      "title": "GM uses AI tool to determine which truck stops should get EV chargers",
+      "url": "https://arstechnica.com/cars/2024/03/machine-learning-helps-gm-pick-the-best-places-to-put-new-ev-fast-chargers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/gm-pilot-new-ev-charging-network-02-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "Price undercuts Apple's own refurbished pricing for the M1 Air.",
+      "publishedAt": "2024-03-15T14:48:13+00:00",
+      "title": "Walmart resurrects the M1 MacBook Air as an entry-level $699 laptop",
+      "url": "https://arstechnica.com/?p=2010465",
+      "urlToImage": null
+    },
+    {
+      "author": "Eric Berger",
+      "description": "For fun, we could compare Starship as it exists today to other available rockets.",
+      "publishedAt": "2024-03-15T14:39:54+00:00",
+      "title": "After Thursday\u2019s flight, Starship is already the most revolutionary rocket ever built",
+      "url": "https://arstechnica.com/space/2024/03/thursdays-starship-flight-provided-a-glimpse-into-a-future-of-abundant-access-to-space/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/starship-2-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "\"Frustration with Artemis\u2019s high price tag is justifiable.\"",
+      "publishedAt": "2024-03-15T11:00:22+00:00",
+      "title": "Rocket Report: Starship heats up in third flight; Chinese lunar launch failure",
+      "url": "https://arstechnica.com/?p=2010132",
+      "urlToImage": null
+    },
+    {
+      "author": "Lee Hutchinson",
+      "description": "Toss certbot or acme.sh onto some servers and baby, you got a stew going!",
+      "publishedAt": "2024-03-15T10:45:23+00:00",
+      "title": "Banish OEM self-signed certs forever and roll your own private LetsEncrypt",
+      "url": "https://arstechnica.com/information-technology/2024/03/banish-oem-self-signed-certs-forever-and-roll-your-own-private-letsencrypt/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/robot-judge-certified-760x380.jpg"
+    },
+    {
+      "author": null,
       "description": "33-year-old Canadian-Russian national pleaded guilty last month.",
       "publishedAt": "2024-03-14T23:15:46+00:00",
       "title": "Member of LockBit ransomware group sentenced to 4 years in prison",
-      "url": "https://arstechnica.com/security/2024/03/member-of-lockbit-ransomware-group-sentenced-to-4-years-in-prison/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-519951874-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2010404",
+      "urlToImage": null
     },
     {
       "author": "Kat Friedrich",
@@ -25,60 +65,20 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-760x380.jpg"
     },
     {
-      "author": "Scharon Harding",
+      "author": null,
       "description": "Replacement tool will no longer allow access for journalists, public.",
       "publishedAt": "2024-03-14T20:28:41+00:00",
       "title": "\u201cReally bad timing\u201d: Meta is killing misinformation analysis tool on August 14",
-      "url": "https://arstechnica.com/tech-policy/2024/03/really-bad-timing-meta-is-killing-misinformation-analysis-tool-on-august-14/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2054031165-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Starship's third launch appeared flawless, but SpaceX has more work to do on recovery.",
-      "publishedAt": "2024-03-14T20:12:19+00:00",
-      "title": "SpaceX celebrates major progress on the third flight of Starship",
-      "url": "https://arstechnica.com/space/2024/03/after-its-third-test-flight-spacexs-starship-could-soon-carry-satellites/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/ift3-2-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Players eager to revisit all-time shooters met with age-old launch issues.",
-      "publishedAt": "2024-03-14T19:37:15+00:00",
-      "title": "Star Wars: Battlefront Classic Edition debuts to stuffed servers, angry players",
-      "url": "https://arstechnica.com/?p=2010236",
+      "url": "https://arstechnica.com/?p=2010235",
       "urlToImage": null
     },
     {
-      "author": "John Timmer",
-      "description": "Rural populations still have lots of the gut bacteria that break down cellulose.",
-      "publishedAt": "2024-03-14T19:19:50+00:00",
-      "title": "Urban humans have lost much of their ability to digest plants",
-      "url": "https://arstechnica.com/science/2024/03/human-gut-bacteria-that-can-digest-plant-matter-probably-came-from-cows/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1641029643-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "An impractical bragging-rights CPU tops Intel's 14th-gen desktop lineup.",
-      "publishedAt": "2024-03-14T19:08:06+00:00",
-      "title": "Intel\u2019s 6.2 GHz Core i9-14900KS is a reminder of why the MHz wars ended",
-      "url": "https://arstechnica.com/gadgets/2024/03/intel-revives-the-mhz-race-with-6-2-ghz-power-guzzling-core-i9-14900ks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/intel-19-14900ks-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Jack Dorsey posted a \"W,\" as judge halts Wright's suits against developers.",
-      "publishedAt": "2024-03-14T18:59:26+00:00",
-      "title": "\u201cOverwhelming evidence\u201d shows Craig Wright did not create bitcoin, judge says",
-      "url": "https://arstechnica.com/tech-policy/2024/03/overwhelming-evidence-shows-craig-wright-did-not-create-bitcoin-judge-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1989693346-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Apple charges 27% commission for sales \"on your website after a link out.\"",
-      "publishedAt": "2024-03-14T18:48:14+00:00",
-      "title": "Epic asks court to block Apple\u2019s 27% commission on website purchases",
-      "url": "https://arstechnica.com/tech-policy/2024/03/epic-asks-court-to-block-apples-27-commission-on-website-purchases/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/iphones-760x380.jpg"
+      "author": null,
+      "description": "Starship's third launch appeared flawless, but SpaceX has more work to do on recovery.",
+      "publishedAt": "2024-03-14T20:12:19+00:00",
+      "title": "SpaceX celebrates major progress on the third flight of Starship",
+      "url": "https://arstechnica.com/?p=2010195",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
