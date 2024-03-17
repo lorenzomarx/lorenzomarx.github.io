@@ -1,20 +1,28 @@
 {
   "articles": [
     {
-      "author": "Dan Goodin",
+      "author": null,
+      "description": "Should it pan out, the pill would be a new weapon against Lyme disease.",
+      "publishedAt": "2024-03-16T11:16:44+00:00",
+      "title": "Tick-killing pill shows promising results in human trial",
+      "url": "https://arstechnica.com/?p=2010699",
+      "urlToImage": null
+    },
+    {
+      "author": null,
       "description": "LLMs are trained to block harmful responses. Old-school images can override those rules.",
       "publishedAt": "2024-03-16T00:17:24+00:00",
       "title": "ASCII art elicits harmful responses from 5 major AI chatbots",
-      "url": "https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/ascii-art-hacker-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2010646",
+      "urlToImage": null
     },
     {
-      "author": "Stephen Clark",
+      "author": null,
       "description": "A new signal from humanity's most distant spacecraft could be the key to restoring it.",
       "publishedAt": "2024-03-15T23:23:49+00:00",
       "title": "Finally, engineers have a clue that could help them save Voyager 1",
-      "url": "https://arstechnica.com/space/2024/03/finally-engineers-have-a-clue-that-could-help-them-save-voyager-1/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/voyager1art-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2010713",
+      "urlToImage": null
     },
     {
       "author": "Scharon Harding",
@@ -49,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/ntsb-chair-760x380.jpg"
     },
     {
-      "author": "Scharon Harding",
+      "author": null,
       "description": "\"There's more to come.\"",
       "publishedAt": "2024-03-15T19:14:39+00:00",
       "title": "After 114 days of change, Broadcom CEO acknowledges VMware-related \u201cunease\u201d",
-      "url": "https://arstechnica.com/information-technology/2024/03/broadcom-ceo-admits-vmware-changes-have-brought-unease-to-customers-partners/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/getty-broadcom-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2010559",
+      "urlToImage": null
     },
     {
       "author": "John Timmer",
@@ -71,14 +79,6 @@
       "title": "Public officials can block haters\u2014but only sometimes, SCOTUS rules",
       "url": "https://arstechnica.com/tech-policy/2024/03/public-officials-can-block-haters-but-only-sometimes-scotus-rules/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1500767786-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "An RNA has been adopted to help the production of myelin, a key nerve protein.",
-      "publishedAt": "2024-03-15T18:10:29+00:00",
-      "title": "DNA parasite now plays key role in making critical nerve cell protein",
-      "url": "https://arstechnica.com/science/2024/03/dna-that-was-once-a-virus-now-helps-make-a-key-protein-for-nerve-cells/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-966082246-760x380.jpg"
     }
   ],
   "sortBy": "top",
