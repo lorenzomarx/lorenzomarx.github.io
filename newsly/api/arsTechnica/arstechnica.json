@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Mathias Disney, The Conversation",
+      "description": "New study finds that giant sequoias add 70 cm of height and store 160 kg of carbon per year.",
+      "publishedAt": "2024-03-17T11:37:46+00:00",
+      "title": "Redwoods are growing almost as fast in the UK as their Californian cousins",
+      "url": "https://theconversation.com/redwood-trees-are-growing-almost-as-fast-in-the-uk-as-their-californian-cousins-new-study-225475",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1794925483-760x380.jpg"
+    },
+    {
       "author": "Michael Teo Van Runkle",
       "description": "It's not really as good as the internal combustion version, sadly.",
       "publishedAt": "2024-03-16T22:59:16+00:00",
@@ -49,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/ananda3CROP-760x380.jpg"
     },
     {
-      "author": "Benj Edwards",
+      "author": null,
       "description": "OpenAI's GPT-2 running locally in Microsoft Excel teaches the basics of how LLMs work.",
       "publishedAt": "2024-03-15T20:56:31+00:00",
       "title": "Once \u201ctoo scary\u201d to release, GPT-2 gets squeezed into an Excel spreadsheet",
-      "url": "https://arstechnica.com/information-technology/2024/03/once-too-scary-to-release-gpt-2-gets-squeezed-into-an-excel-spreadsheet/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/robot_spreadsheet_hero_1-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2010453",
+      "urlToImage": null
     },
     {
       "author": "Jon Brodkin",
@@ -71,14 +79,6 @@
       "title": "After 114 days of change, Broadcom CEO acknowledges VMware-related \u201cunease\u201d",
       "url": "https://arstechnica.com/?p=2010559",
       "urlToImage": null
-    },
-    {
-      "author": "John Timmer",
-      "description": "Professor who sued her accusers sees the reasons for their accusations unsealed.",
-      "publishedAt": "2024-03-15T19:03:56+00:00",
-      "title": "Lawsuit opens research misconduct report that may get a Harvard prof fired",
-      "url": "https://arstechnica.com/science/2024/03/lawsuit-opens-research-misconduct-report-that-may-get-a-harvard-prof-fired/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-57355019-760x380.jpg"
     }
   ],
   "sortBy": "top",
