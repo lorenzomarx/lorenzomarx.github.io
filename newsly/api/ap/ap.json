@@ -1,28 +1,36 @@
 {
   "articles": [
     {
+      "author": null,
+      "description": "NEW YORK (AP) \u2014 Connecticut is back at No. 1 in the AP Top 25 to start its repeat bid in March Madness; Houston, Purdue, Iowa State next.",
+      "publishedAt": "2024-03-18T16:58:33Z",
+      "title": "Connecticut is back at No. 1 in the AP Top 25 to start its repeat bid in March Madness; Houston, Purdue, Iowa State next",
+      "url": "https://apnews.com/b8a5d70de78effb85ab9db46faa67304",
+      "urlToImage": ""
+    },
+    {
+      "author": "WAFAA SHURAFA, SAMY MAGDY and TIA GOLDENBERG",
+      "description": "RAFAH, Gaza Strip (AP) \u2014 The U.N. food agency said Monday that \u201cfamine is imminent\u201d in northern Gaza, where 70% of the remaining population is experiencing catastrophic hunger, and that a further escalation of the war could push around half of Gaza's total population to the brink of starvation.",
+      "publishedAt": "2024-03-18T07:54:23Z",
+      "title": "UN says 'famine is imminent' in northern Gaza as Israel launches another raid on the main hospital",
+      "url": "https://apnews.com/eefc526aec97821fe5f1e845801a6640",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f224fe0f9ba349ea8f64eb6d1485a7be/1920.jpeg"
+    },
+    {
+      "author": "AAMER MADHANI, ZEKE MILLER and JULIA FRANKEL",
+      "description": "WASHINGTON (AP) \u2014 President Joe Biden and Israeli Prime Minister Benjamin Netanyahu spoke on Monday, their first interaction in more than a month, as the divide has grown between allies over the food crisis in Gaza and conduct of the war, according to the White House.",
+      "publishedAt": "2024-03-18T15:58:45Z",
+      "title": "Biden and Netanyahu hold first call in more than a month as tension grows over food crisis, war",
+      "url": "https://apnews.com/24b8ff4a6ce61ed410fe5a1beb640b4b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0e055863a3e5439696531a8f35068c36/3000.jpeg"
+    },
+    {
       "author": "EMMA BURROWS, DASHA LITVINOVA and JIM HEINTZ",
-      "description": "President Vladimir Putin sealed his control over Russia for six more years on Monday with a predetermined landslide in an election that followed the harshest crackdown on the opposition and\u202ffree speech since Soviet times.",
+      "description": "President Vladimir Putin extended his reign over Russia in a landslide election whose outcome was never in doubt, declaring Monday his determination to advance deeper into Ukraine and dangling new threats against the West.",
       "publishedAt": "2024-03-18T05:15:35Z",
       "title": "Putin extends rule in preordained Russian election after harshest crackdown since Soviet era",
       "url": "https://apnews.com/ebdaae1bf12b44343b88ba471f9f0cb0",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/ead152dbfb6849648e48705f30337154/1920.jpeg"
-    },
-    {
-      "author": "The Associated Press",
-      "description": "A decade ago, President Vladimir Putin seized Crimea from Ukraine, a bold land grab that set the stage for Russia to invade its neighbor in 2022.",
-      "publishedAt": "2024-03-18T05:24:20Z",
-      "title": "How Russia's grab of Crimea 10 years ago led to war with Ukraine and rising tensions with the West",
-      "url": "https://apnews.com/8245aec572fb71236febfa8735c42879",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/85c384aba3c64d9b9d2e25466fae1899/3000.jpeg"
-    },
-    {
-      "author": "WAFAA SHURAFA, SAMY MAGDY and TIA GOLDENBERG",
-      "description": "RAFAH, Gaza Strip (AP) \u2014 Israeli forces launched another raid on the Gaza Strip's largest hospital early Monday, saying Hamas militants had regrouped there and had fired on them from inside the compound, where Palestinian officials say tens of thousands of people have been sheltering.",
-      "publishedAt": "2024-03-18T07:54:23Z",
-      "title": "Israel launches another raid on Gaza's main hospital, charging that Hamas has regrouped there",
-      "url": "https://apnews.com/eefc526aec97821fe5f1e845801a6640",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1a12603d78ac44ab98bc66b7003d6973/3000.jpeg"
     },
     {
       "author": "KIRSTEN GRIESHABER",
@@ -38,7 +46,7 @@
       "publishedAt": "2024-03-18T04:08:12Z",
       "title": "In Vermont, 'Town Meeting' is democracy embodied. What can the rest of the country learn from it?",
       "url": "https://apnews.com/11d7d1b63037d054506e77e261aff87c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a37f7fd159394b05b7673002736fe9a1/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e26705a903454a42a4269de1eaffee50/3000.jpeg"
     },
     {
       "author": "JONATHAN J. COOPER",
@@ -50,35 +58,27 @@
     },
     {
       "author": "MARK SHERMAN",
-      "description": "WASHINGTON (AP) \u2014 In a busy term that could set standards for free speech in the digital age, the Supreme Court on Monday is taking up a dispute between Republican-led states and the Biden administration over how far the federal government can go to combat controversial social media posts on topics including COVID-19 and election security.",
+      "description": "WASHINGTON (AP) \u2014 The Supreme Court seemed likely Monday to side with the Biden administration in a dispute with Republican-led states over how far the federal government can go to combat controversial social media posts on topics including COVID-19 and election security.",
       "publishedAt": "2024-03-18T04:04:13Z",
-      "title": "Supreme Court weighs how far federal officials can go to combat controversial posts on hot topics",
+      "title": "Supreme Court seems favorable to Biden administration over efforts to combat social media posts",
       "url": "https://apnews.com/132df16a8b086cd7ed72954f3b4c2c04",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/4e29b3a8d1e84008bfa65d3784b09ea4/3000.jpeg"
     },
     {
-      "author": null,
-      "description": "MIAMI (AP) \u2014 A charter flight carrying dozens of U.S. citizens fleeing spiraling gang violence in Haiti landed Sunday in Miami, U.S.",
-      "publishedAt": "2024-03-18T00:32:55Z",
-      "title": "First charter flight with US citizens fleeing Haiti lands in Miami",
-      "url": "https://apnews.com/756ac4fdc85d548b302c9c1bacb290bb",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ca4b0e8fa9f641ddaaeb2cf2f812bc4f/3000.jpeg"
+      "author": "PIERRE-RICHARD LUXAMA and ODELYN JOSEPH",
+      "description": "PORT-AU-PRINCE, Haiti (AP) \u2014 Gangs attacked two upscale neighborhoods in Haiti\u2019s capital early Monday in a rampage that left at least a dozen people dead in surrounding areas.Gunmen looted homes in the communities of Laboule and Thomassin before sunrise, forcing residents to flee as some called radio stations pleading for police.",
+      "publishedAt": "2024-03-18T15:21:29Z",
+      "title": "Gangs unleash new attacks on upscale areas in Haiti's capital, with at least a dozen killed nearby",
+      "url": "https://apnews.com/c1f4d1b367b15253cbd28ae9be886440",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/04344dbeaabb4db88d1f06e5b3eb4d1a/3000.jpeg"
     },
     {
-      "author": "The Associated Press",
-      "description": "Spring is almost here \u2014 officially, at least.The vernal equinox arrives on Tuesday, marking the start of the spring season for the Northern Hemisphere.",
-      "publishedAt": "2024-03-18T05:00:18Z",
-      "title": "The spring equinox is here. What does that mean?",
-      "url": "https://apnews.com/7773e4addd8613f7b593686edbaa1b03",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b82b28636a714b188ac49f037848d0f8/3000.jpeg"
-    },
-    {
-      "author": "EDDIE PELLS",
-      "description": "Even before the brackets came out Sunday, March Madness was a muddled mess. About the closest thing to a sure thing: UConn.The defending champion Huskies earned the top seed in the NCAA Tournament, joined by Houston,Purdue and North Carolina as No.",
-      "publishedAt": "2024-03-17T10:10:21Z",
-      "title": "March Madness is here. UConn, Purdue, Houston and North Carolina get top seeding in NCAA Tournament",
-      "url": "https://apnews.com/e2b9dd2bb2f776a163de389c8e737ab4",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/303214e0b8404ab1b4655cec38f10058/3000.jpeg"
+      "author": "MATTHEW DALY",
+      "description": "WASHINGTON (AP) \u2014 The Environmental Protection Agency on Monday announced a comprehensive ban on asbestos, a carcinogen that is still used in some chlorine bleach, brake pads and other products and that kills tens of thousands of Americans every year.",
+      "publishedAt": "2024-03-18T15:31:39Z",
+      "title": "EPA bans asbestos, a deadly carcinogen still in use decades after a partial ban was enacted",
+      "url": "https://apnews.com/72b0fa8b36adedaff6000034d35c2acd",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/82ec3b007d024ffb9fe35a44d7763d26/2248.jpeg"
     }
   ],
   "sortBy": "top",
