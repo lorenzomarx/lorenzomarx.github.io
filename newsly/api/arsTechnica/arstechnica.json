@@ -1,20 +1,28 @@
 {
   "articles": [
     {
-      "author": "Dan Goodin",
-      "description": "Biden administration rallies nation's governors to secure their facilities.",
-      "publishedAt": "2024-03-20T00:26:15+00:00",
-      "title": "\u201cDisabling cyberattacks\u201d are hitting critical US water systems, White House warns",
-      "url": "https://arstechnica.com/security/2024/03/critical-us-water-systems-face-disabling-cyberattacks-white-house-warns/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/sewage-treatment-plant-760x380.jpg"
-    },
-    {
       "author": "Stephen Clark",
       "description": "Queqiao-2 will relay data between Earth and Chinese spacecraft on the far side of the Moon.",
-      "publishedAt": "2024-03-19T23:31:06+00:00",
+      "publishedAt": "2024-03-20T15:06:06+00:00",
       "title": "Rocket launch marks big step in building China\u2019s lunar infrastructure",
       "url": "https://arstechnica.com/space/2024/03/rocket-launch-marks-big-step-in-building-chinas-lunar-infrastructure/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2090729190-760x380.jpg"
+    },
+    {
+      "author": "Michael Acton and James Politi, Financial Times",
+      "description": "Chips Act funding will primarily be directed toward development of Intel\u2019s 18A node.",
+      "publishedAt": "2024-03-20T13:35:24+00:00",
+      "title": "Intel receives $8.5 billion from US for expanding high-end fab capacity",
+      "url": "https://www.ft.com/content/189d42b8-88f4-424e-b2e9-fff595c40329",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/intel-sign-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "Biden administration rallies nation's governors to secure their facilities.",
+      "publishedAt": "2024-03-20T00:26:15+00:00",
+      "title": "\u201cDisabling cyberattacks\u201d are hitting critical US water systems, White House warns",
+      "url": "https://arstechnica.com/?p=2011436",
+      "urlToImage": null
     },
     {
       "author": "Kevin Purdy",
@@ -25,12 +33,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/booted_mac_replica-760x380.jpg"
     },
     {
-      "author": "Ashley Belanger",
+      "author": null,
       "description": "Anonymous review site Glassdoor now consults public sources to identify users.",
       "publishedAt": "2024-03-19T21:53:31+00:00",
       "title": "Users ditch Glassdoor, stunned by site adding real names without consent",
-      "url": "https://arstechnica.com/tech-policy/2024/03/glassdoor-adding-users-real-names-job-info-to-profiles-without-consent/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1287581237-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2011340",
+      "urlToImage": null
     },
     {
       "author": "Eric Berger",
@@ -70,14 +78,6 @@
       "publishedAt": "2024-03-19T18:27:09+00:00",
       "title": "YouTube will require disclosure of AI-manipulated videos from creators",
       "url": "https://arstechnica.com/?p=2011206",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Most staffers from Suleyman's startup, Inflection, will join Microsoft as well.",
-      "publishedAt": "2024-03-19T17:25:25+00:00",
-      "title": "DeepMind co-founder Mustafa Suleyman will run Microsoft\u2019s new consumer AI unit",
-      "url": "https://arstechnica.com/?p=2011239",
       "urlToImage": null
     }
   ],
