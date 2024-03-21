@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Biden administration rallies nation's governors to secure their facilities.",
+      "publishedAt": "2024-03-20T00:26:15+00:00",
+      "title": "\u201cDisabling cyberattacks\u201d are hitting critical US water systems, White House warns",
+      "url": "https://arstechnica.com/security/2024/03/critical-us-water-systems-face-disabling-cyberattacks-white-house-warns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/sewage-treatment-plant-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Queqiao-2 will relay data between Earth and Chinese spacecraft on the far side of the Moon.",
+      "publishedAt": "2024-03-19T23:31:06+00:00",
+      "title": "Rocket launch marks big step in building China\u2019s lunar infrastructure",
+      "url": "https://arstechnica.com/space/2024/03/rocket-launch-marks-big-step-in-building-chinas-lunar-infrastructure/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2090729190-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "What could have been a dozen separate videos is instead one 48-minute marvel.",
       "publishedAt": "2024-03-19T22:24:08+00:00",
@@ -33,12 +49,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/furiosa1-760x380.jpg"
     },
     {
-      "author": "Jennifer Ouellette",
+      "author": null,
       "description": "\"This isn't about good or bad. This is about power and who is allowed to use it.\"",
       "publishedAt": "2024-03-19T19:20:48+00:00",
       "title": "Darkness rises in an age of light in first trailer for Star Wars: The Acolyte",
-      "url": "https://arstechnica.com/culture/2024/03/darkness-rises-in-an-age-of-light-in-first-trailer-for-star-wars-the-acolyte/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/acolyte1-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2011253",
+      "urlToImage": null
     },
     {
       "author": "Jon Brodkin",
@@ -57,28 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/youtube-logo-760x380.jpg"
     },
     {
-      "author": "Tabby Kinder, Financial Times",
+      "author": null,
       "description": "Most staffers from Suleyman's startup, Inflection, will join Microsoft as well.",
       "publishedAt": "2024-03-19T17:25:25+00:00",
       "title": "DeepMind co-founder Mustafa Suleyman will run Microsoft\u2019s new consumer AI unit",
-      "url": "https://www.ft.com/content/5feedf3a-ff7a-4c89-9b1d-f9b48834ff4c",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/suleyman-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Consumer prices stay the same; MS promises at least one more standalone release.",
-      "publishedAt": "2024-03-19T17:23:13+00:00",
-      "title": "Office 2024 will be the next standalone release, as the Office brand lives on",
-      "url": "https://arstechnica.com/gadgets/2024/03/office-2024-standalone-release-will-come-with-a-business-price-hike-and-no-copilot-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/office_icons_03-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The Forest Stewardship Council has given its approval to Pirelli's natural rubber.",
-      "publishedAt": "2024-03-19T17:10:06+00:00",
-      "title": "F1\u2019s pursuit of sustainability drives Pirelli to unveil forest-friendly tires",
-      "url": "https://arstechnica.com/cars/2024/03/f1s-pursuit-of-sustainability-drives-pirelli-to-unveil-forest-friendly-tires/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/featured-fsc-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2011239",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
