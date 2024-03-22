@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "\"This system will help us scale to bigger towers and spaceships.\"",
+      "publishedAt": "2024-03-20T23:47:25+00:00",
+      "title": "SpaceX\u2019s workhorse launch pad now has the accoutrements for astronauts",
+      "url": "https://arstechnica.com/space/2024/03/spacexs-workhorse-launch-pad-now-has-the-accoutrements-for-astronauts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GJEXcCkaYAAR3nS-760x380.jpeg"
+    },
+    {
       "author": "John Timmer",
       "description": "Right now, making antibodies means immunizing animals. But that may change.",
       "publishedAt": "2024-03-20T22:26:23+00:00",
@@ -33,12 +41,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/getty-michael-cohen-760x380.jpg"
     },
     {
-      "author": "Benj Edwards",
+      "author": null,
       "description": "As companies race to pair AI with general-purpose humanoid robots, Nvidia's GR00T emerges.",
       "publishedAt": "2024-03-20T20:21:52+00:00",
       "title": "Nvidia announces \u201cmoonshot\u201d to create embodied human-level AI in robot form",
-      "url": "https://arstechnica.com/information-technology/2024/03/nvidia-announces-moonshot-to-create-embodied-human-level-ai-in-robot-form/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/project-gr00t-humanoid_header-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2011260",
+      "urlToImage": null
     },
     {
       "author": "Jonathan M. Gitlin",
@@ -49,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/fuel-effeciency-balancing-act-760x380.jpg"
     },
     {
-      "author": "Ashley Belanger",
+      "author": null,
       "description": "Google agrees to end sketchy negotiations based on flat rates and limited data.",
       "publishedAt": "2024-03-20T19:53:40+00:00",
       "title": "Google balks at $270M fine after training AI on French news sites\u2019 content",
-      "url": "https://arstechnica.com/tech-policy/2024/03/google-to-pay-270m-after-secretly-training-ai-on-french-publishers-content/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1258688917-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2011621",
+      "urlToImage": null
     },
     {
       "author": "Jennifer Ouellette",
@@ -65,20 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/alien1-760x380.jpg"
     },
     {
-      "author": "Scharon Harding",
+      "author": null,
       "description": "Generative AI may not be enough to appease frustrated customers.",
       "publishedAt": "2024-03-20T18:57:14+00:00",
       "title": "Google reshapes Fitbit in its image as users allege \u201cplanned obsolescence\u201d",
-      "url": "https://arstechnica.com/gadgets/2024/03/google-reshapes-fitbit-in-its-image-as-users-allege-planned-obsolescence/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Ars-Technica-Fitbit-Charge-5-Announcement-5-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "A better screen, better SoC, and maybe a higher price.",
-      "publishedAt": "2024-03-20T18:45:15+00:00",
-      "title": "Pixel 8a rumors list 120 Hz display, DisplayPort compatibility",
-      "url": "https://arstechnica.com/gadgets/2024/03/pixel-8a-rumors-list-120-hz-display-displayport-compatibility/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Google-Pixel-8a-5K-renders-Smartprix-Exclusive-2-1-scaled-1-760x380.webp"
+      "url": "https://arstechnica.com/?p=2011482",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
