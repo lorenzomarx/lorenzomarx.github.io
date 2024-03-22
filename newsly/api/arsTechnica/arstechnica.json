@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "Not the first business-exclusive Surfaces, but they're the most significant.",
+      "publishedAt": "2024-03-21T16:00:38+00:00",
+      "title": "Microsoft debuts major Surface overhauls that regular people can\u2019t buy",
+      "url": "https://arstechnica.com/gadgets/2024/03/microsoft-debuts-major-surface-overhauls-that-regular-people-cant-buy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/New-Surface-for-Business-Devices-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Vinge won multiple Hugo awards and created a sci-fi concept that drives AI researchers.",
+      "publishedAt": "2024-03-21T15:33:03+00:00",
+      "title": "Vernor Vinge, father of the tech singularity, has died at age 79",
+      "url": "https://arstechnica.com/information-technology/2024/03/vernor-vinge-father-of-the-tech-singularity-has-died-at-age-79/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/vinge_hero_3-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Anyone on the development team could submit an idea on a sticky note.",
+      "publishedAt": "2024-03-21T15:15:06+00:00",
+      "title": "Super Mario Bros. Wonder devs created 2,000 game-altering \u201cWonder Effect\u201d ideas",
+      "url": "https://arstechnica.com/gaming/2024/03/super-mario-bros-wonder-devs-created-2000-game-altering-wonder-effect-ideas/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/smbwonder2-760x380.jpg"
+    },
+    {
+      "author": "David Gilbert, wired.com",
+      "description": "Researchers, journalists are blocked from sharing the alleged identity of Stonetoss.",
+      "publishedAt": "2024-03-21T14:57:54+00:00",
+      "title": "After appeal to Musk, X suspends accounts that outed neo-Nazi cartoonist",
+      "url": "https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hate-speech-1-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Justice Department files major antitrust lawsuit against iPhone maker.",
+      "publishedAt": "2024-03-21T14:52:34+00:00",
+      "title": "US sues Apple, alleging it illegally monopolized the smartphone market",
+      "url": "https://arstechnica.com/tech-policy/2024/03/us-sues-apple-alleging-it-illegally-monopolized-the-smartphone-market/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/tim-cook-congress-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Fixing newly discovered side channel will likely take a major toll on performance.",
+      "publishedAt": "2024-03-21T14:40:50+00:00",
+      "title": "Unpatchable vulnerability in Apple chip leaks secret encryption keys",
+      "url": "https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/apple-mchip-encryption-vulnerability-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "The Soyuz booster and its launch systems are typically robust.",
+      "publishedAt": "2024-03-21T14:38:02+00:00",
+      "title": "A Soyuz crew launch suffers a rare abort seconds before liftoff",
+      "url": "https://arstechnica.com/space/2024/03/a-soyuz-crew-launch-suffers-a-rare-abort-seconds-before-liftoff/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/soyuz1-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "BMW has developed an all new EV platform with better efficiency and more tech.",
       "publishedAt": "2024-03-21T08:15:46+00:00",
@@ -23,62 +79,6 @@
       "title": "Antibodies against anything? AI tool adapted to make them",
       "url": "https://arstechnica.com/science/2024/03/antibodies-against-anything-ai-tool-adapted-to-make-them/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-154963443-2-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Sources say to expect OpenAI's next major AI model mid-2024, according to a new report.",
-      "publishedAt": "2024-03-20T21:53:26+00:00",
-      "title": "GPT-5 might arrive this summer as a \u201cmaterially better\u201d update to ChatGPT",
-      "url": "https://arstechnica.com/information-technology/2024/03/openais-gpt-5-may-launch-this-summer-upgrading-chatgpt-along-the-way/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/openai_glowing_blue-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "It's unclear if government and private insurance plans can cover the costs.",
-      "publishedAt": "2024-03-20T20:53:27+00:00",
-      "title": "Lifesaving gene therapy for kids is world\u2019s priciest drug at $4.25M",
-      "url": "https://arstechnica.com/science/2024/03/lifesaving-gene-therapy-for-kids-is-worlds-priciest-drug-at-4-25m/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-483011629-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "No punishment, but judge rejects Cohen motion to end his supervised release.",
-      "publishedAt": "2024-03-20T20:28:55+00:00",
-      "title": "Michael Cohen loses court motion after lawyer cited AI-invented cases",
-      "url": "https://arstechnica.com/tech-policy/2024/03/michael-cohen-and-lawyer-avoid-sanctions-for-citing-fake-cases-invented-by-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/getty-michael-cohen-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "As companies race to pair AI with general-purpose humanoid robots, Nvidia's GR00T emerges.",
-      "publishedAt": "2024-03-20T20:21:52+00:00",
-      "title": "Nvidia announces \u201cmoonshot\u201d to create embodied human-level AI in robot form",
-      "url": "https://arstechnica.com/?p=2011260",
-      "urlToImage": null
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The model-year 2032 standards are still strict, but there's a more gentle ramp-up.",
-      "publishedAt": "2024-03-20T20:08:57+00:00",
-      "title": "New EPA, DOE fuel regs give automakers longer to reduce CO2 emissions",
-      "url": "https://arstechnica.com/cars/2024/03/new-epa-doe-fuel-regs-give-automakers-longer-to-reduce-co2-emissions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/fuel-effeciency-balancing-act-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Google agrees to end sketchy negotiations based on flat rates and limited data.",
-      "publishedAt": "2024-03-20T19:53:40+00:00",
-      "title": "Google balks at $270M fine after training AI on French news sites\u2019 content",
-      "url": "https://arstechnica.com/?p=2011621",
-      "urlToImage": null
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Originally meant for Hulu, the franchise's ninth installment heads to theaters instead.",
-      "publishedAt": "2024-03-20T19:14:22+00:00",
-      "title": "Alien: Romulus teaser has all the right elements to pique our interest",
-      "url": "https://arstechnica.com/culture/2024/03/teaser-for-alien-romulus-hints-that-franchise-is-returning-to-its-horror-roots/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/alien1-760x380.jpg"
     }
   ],
   "sortBy": "top",
