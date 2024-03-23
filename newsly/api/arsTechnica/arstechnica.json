@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "Developer says there's \"no way to confirm\" if Nintendo was involved in takedown.",
+      "publishedAt": "2024-03-22T15:20:18+00:00",
+      "title": "Switch emulator Suyu hit by GitLab DMCA, project lives on through self-hosting",
+      "url": "https://arstechnica.com/gaming/2024/03/switch-emulator-suyu-hit-by-gitlab-dmca-project-lives-on-through-self-hosting/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/suyu__Discord-Banner-760x380.png"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Now Windows' only built-in text editor, there's more room for Notepad to grow.",
+      "publishedAt": "2024-03-22T15:01:14+00:00",
+      "title": "Windows Notepad\u2019s midlife renaissance continues with spellcheck and autocorrect",
+      "url": "https://arstechnica.com/gadgets/2024/03/windows-notepads-midlife-renaissance-continues-with-spellcheck-and-autocorrect/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/spellcheck-blog-post-760x380.jpeg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "Their reaction to the person naming an object might have masked signs of recognition.",
+      "publishedAt": "2024-03-22T15:00:22+00:00",
+      "title": "Dogs\u2019 brain activity shows they recognize the names of objects",
+      "url": "https://arstechnica.com/science/2024/03/dogs-wear-eegs-for-science/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Kiwi_Emese_and_Henriette_byBoglarkaMorvai-760x380.jpg"
+    },
+    {
+      "author": "Andy Greenberg, wired.com",
+      "description": "Saflok has a fix for the vulnerability, but patching may take a long time.",
+      "publishedAt": "2024-03-22T13:52:11+00:00",
+      "title": "Hackers can unlock over 3 million hotel doors in seconds",
+      "url": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/saflok-door-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "\"I think we\u2019re really going to focus on getting reentry right.\"",
+      "publishedAt": "2024-03-22T11:00:56+00:00",
+      "title": "Rocket Report: Starship could fly again in May; Ariane 6 coming together",
+      "url": "https://arstechnica.com/space/2024/03/rocket-report-starship-could-fly-again-in-may-ariane-6-coming-together/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/53601558379_34b239050c_k-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "AcidRain, discovered in 2022, is tied to AcidPour. Both are attributed to Russia.",
       "publishedAt": "2024-03-22T00:37:51+00:00",
@@ -39,46 +79,6 @@
       "title": "Apple\u2019s green message bubbles draw wrath of US attorney general",
       "url": "https://arstechnica.com/tech-policy/2024/03/apples-green-bubbles-targeted-by-doj-in-lawsuit-over-iphone-monopoly/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-iphone-messages-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "It has an attractive cabin and decent fuel economy, but build quality needs work.",
-      "publishedAt": "2024-03-21T19:38:11+00:00",
-      "title": "Lincoln Corsair PHEV review: A luxury car shouldn\u2019t squeak this much",
-      "url": "https://arstechnica.com/cars/2024/03/lincoln-corsair-phev-review-nice-design-but-too-many-rattles-and-squeaks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Lincoln-Corsair-1-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Details of what the University of Rochester investigation found are not available.",
-      "publishedAt": "2024-03-21T18:44:56+00:00",
-      "title": "Report: Superconductivity researcher found to have committed misconduct",
-      "url": "https://arstechnica.com/?p=2011983",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Google still isn't letting Play Store apps use RCS, though.",
-      "publishedAt": "2024-03-21T18:34:13+00:00",
-      "title": "Android 15 gets satellite messaging, starts foldable cover app support",
-      "url": "https://arstechnica.com/?p=2011931",
-      "urlToImage": null
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "FTX CEO: \"The harm was vast. The remorse is nonexistent.\"",
-      "publishedAt": "2024-03-21T18:21:54+00:00",
-      "title": "SBF repeatedly lied to get out of \u201csupervillain\u201d prison term, FTX CEO alleges",
-      "url": "https://arstechnica.com/tech-policy/2024/03/ftx-chief-lays-out-all-the-ways-sbf-sucks-in-detailed-court-filing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1249941604-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Is it a war for the good of the realm, or the \"satisfaction of vengeance\"?",
-      "publishedAt": "2024-03-21T17:56:38+00:00",
-      "title": "Choose your side in a civil war with House of the Dragon\u2019s dueling S2 trailers",
-      "url": "https://arstechnica.com/culture/2024/03/choose-your-side-in-a-civil-war-with-house-of-the-dragons-dueling-s2-trailers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/dragon1-760x380.jpg"
     }
   ],
   "sortBy": "top",
