@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Korea's luxury automaker brings five surprises to the New York International Auto Show.",
+      "publishedAt": "2024-03-26T16:07:53+00:00",
+      "title": "Genesis unveils its take on the big luxury EV\u2014the Neolun Concept",
+      "url": "https://arstechnica.com/cars/2024/03/sporty-orange-and-big-luxury-genesis-brings-its-ev-game-to-ny/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Genesis-at-NYIAS-2024-1-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Dust and stars, stars and dust.",
+      "publishedAt": "2024-03-26T12:00:09+00:00",
+      "title": "Daily Telescope: A protostar with a stunning protoplanetary disc",
+      "url": "https://arstechnica.com/space/2024/03/daily-telescope-a-protostar-with-a-stunning-protoplanetary-disc/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/heic2406a-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "\"Team 0%\" declares a bittersweet victory as Trimming the Herbs' creator comes clean.",
+      "publishedAt": "2024-03-26T11:00:25+00:00",
+      "title": "Super Mario Maker\u2019s \u201cfinal boss\u201d was a fraud all along",
+      "url": "https://arstechnica.com/gaming/2024/03/super-mario-makers-final-boss-was-a-fraud-all-along/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/rob-tool-assisted-mario-maker-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "Dave Calhoun, who has led Boeing since 2020, will step down as CEO at the end of the year.",
       "publishedAt": "2024-03-26T00:19:37+00:00",
@@ -41,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-2.17.33\u202fPM-760x380.png"
     },
     {
-      "author": "Andrew Cunningham",
+      "author": null,
       "description": "The 14.4 release introduced a number of problems the new update claims to fix.",
       "publishedAt": "2024-03-25T19:44:16+00:00",
       "title": "macOS Sonoma 14.4.1 released to fix the stuff that the 14.4 update broke",
-      "url": "https://arstechnica.com/gadgets/2024/03/macos-sonoma-14-4-1-released-to-fix-the-stuff-that-the-14-4-update-broke/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/IMG_1727-1-760x380.jpeg"
+      "url": "https://arstechnica.com/?p=2012440",
+      "urlToImage": null
     },
     {
       "author": "Ron Amadeo",
@@ -55,30 +79,6 @@
       "title": "Where\u2019d my results go? Google Search\u2019s chatbot is no longer opt-in",
       "url": "https://arstechnica.com/gadgets/2024/03/google-search-will-start-automatically-showing-a-chatbot-to-some-users/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/io23_BlogPostHero_Full_size_RUAz.width-1200.format-webp-760x380.webp"
-    },
-    {
-      "author": "Hannah Murphy, Financial Times",
-      "description": "Ruling says case appeared to be directed at \"punishing\" speech from nonprofit.",
-      "publishedAt": "2024-03-25T18:43:24+00:00",
-      "title": "Lawsuit from Elon Musk\u2019s X against anti-hate speech group dismissed by US judge",
-      "url": "https://www.ft.com/content/c67975ac-040c-440e-99fa-744469248160",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-x-musk-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "\"It wasn't elegant, but it would do until the elegant UI arrived.\" It never did.",
-      "publishedAt": "2024-03-25T16:39:28+00:00",
-      "title": "\u201cTemporary\u201d disk formatting UI from 1994 still lives on in Windows 11",
-      "url": "https://arstechnica.com/gadgets/2024/03/windows-current-disk-formatting-ui-is-a-30-year-old-placeholder-from-windows-nt/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/format-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Tech giants must defend against EU's \"concrete evidence\" of non-compliance.",
-      "publishedAt": "2024-03-25T16:04:55+00:00",
-      "title": "Apple, Google, and Meta are failing DMA compliance, EU suspects",
-      "url": "https://arstechnica.com/tech-policy/2024/03/apple-google-and-meta-are-failing-dma-compliance-eu-suspects/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2105318717-760x380.jpg"
     }
   ],
   "sortBy": "top",
