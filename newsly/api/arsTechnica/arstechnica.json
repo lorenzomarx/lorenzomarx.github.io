@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "SBF had asked for sentence of just 5 or 6 years. Prosecutors sought 40 to 50.",
+      "publishedAt": "2024-03-28T15:54:48+00:00",
+      "title": "FTX fraudster Sam Bankman-Fried sentenced to 25 years in prison",
+      "url": "https://arstechnica.com/tech-policy/2024/03/ftx-fraudster-sam-bankman-fried-sentenced-to-25-years-in-prison/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-sbf-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Lola has Yamaha as a technical partner and Formula E veterans in key roles.",
+      "publishedAt": "2024-03-28T14:42:26+00:00",
+      "title": "Yamaha and Lola pair up to enter Formula E next season",
+      "url": "https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Lola-Yamaha-Formula-E-1-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Swedish giant releases the largest piece of its Katamari-like studio roll-up.",
+      "publishedAt": "2024-03-28T13:39:18+00:00",
+      "title": "Embracer Group lets go of Borderlands maker for $460M after three years",
+      "url": "https://arstechnica.com/gaming/2024/03/embracer-group-lets-go-of-borderlands-maker-for-460m-after-three-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/borderlands_3_embracer-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Incomplete explosions can leave a kind of \"zombie\" star.",
+      "publishedAt": "2024-03-28T12:00:49+00:00",
+      "title": "Daily Telescope: Peering into the remnants of an 800-year-old supernova",
+      "url": "https://arstechnica.com/space/2024/03/daily-telescope-peering-into-the-remnants-of-an-800-year-old-supernova/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/snr1181_lg-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "The final Delta IV Heavy rocket is scheduled to launch Thursday, weather permitting.",
       "publishedAt": "2024-03-27T23:15:43+00:00",
@@ -13,12 +45,12 @@
       "description": "Researchers say it's the first known in-the-wild attack targeting AI workloads.",
       "publishedAt": "2024-03-27T22:40:53+00:00",
       "title": "Thousands of servers hacked in ongoing attack targeting Ray AI framework",
-      "url": "https://arstechnica.com/security/2024/03/thousands-of-servers-hacked-in-ongoing-attack-targeting-ray-ai-framework/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-760x380.jpg"
+      "url": "https://arstechnica.com:8080/security/2024/03/thousands-of-servers-hacked-in-ongoing-attack-targeting-ray-ai-framework/",
+      "urlToImage": "https://cdn-8080.arstechnica.com/wp-content/uploads/2023/07/exploit-vulnerability-security-1-760x380.jpg"
     },
     {
       "author": "John Timmer",
-      "description": "Amazon, IBM, and traditional silicon makers all working toward error correction.",
+      "description": "Amazon, IBM, and traditional silicon makers are all working toward error correction.",
       "publishedAt": "2024-03-27T22:24:36+00:00",
       "title": "Quantum computing progress: Higher temps, better error correction",
       "url": "https://arstechnica.com/science/2024/03/quantum-computing-progress-higher-temps-better-error-correction/",
@@ -26,7 +58,7 @@
     },
     {
       "author": "Kevin Purdy",
-      "description": "Starting in 2025, devices can't block repair parts with software pairing checks.",
+      "description": "Starting in 2025, devices can't block repair parts with software-pairing checks.",
       "publishedAt": "2024-03-27T21:57:30+00:00",
       "title": "Oregon governor signs nation\u2019s first right-to-repair bill that bans parts pairing",
       "url": "https://arstechnica.com/gadgets/2024/03/oregon-governor-signs-nations-first-right-to-repair-bill-that-bans-part-pairing/",
@@ -47,38 +79,6 @@
       "title": "Starlink mobile plans hit snag as FCC dismisses SpaceX spectrum application",
       "url": "https://arstechnica.com/tech-policy/2024/03/starlink-mobile-plans-hit-snag-as-fcc-dismisses-spacex-spectrum-application/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/starlink-snow-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "There are also hints of an elusive high-energy jet, similar to larger M87* black hole.",
-      "publishedAt": "2024-03-27T20:55:44+00:00",
-      "title": "Event Horizon Telescope captures stunning new image of Milky Way\u2019s black hole",
-      "url": "https://arstechnica.com/science/2024/03/event-horizon-telescope-captures-stunning-new-image-of-milky-ways-black-hole/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/event1CROP-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Zuckerberg told execs to \u201cfigure out\u201d how to spy on encrypted Snapchat traffic.",
-      "publishedAt": "2024-03-27T20:25:51+00:00",
-      "title": "Facebook secretly spied on Snapchat usage to confuse advertisers, court docs say",
-      "url": "https://arstechnica.com/tech-policy/2024/03/facebook-secretly-spied-on-snapchat-usage-to-confuse-advertisers-court-docs-say/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1873369836-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "But what will result from the companies' opposing views on generative AI?",
-      "publishedAt": "2024-03-27T19:27:24+00:00",
-      "title": "Canva\u2019s Affinity acquisition is a non-subscription-based weapon against Adobe",
-      "url": "https://arstechnica.com/information-technology/2024/03/canvas-affinity-acquisition-is-a-subscription-based-weapon-against-adobe/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/affinity-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Companies are trying to make the \"AI PC\" happen with new silicon and software.",
-      "publishedAt": "2024-03-27T18:45:55+00:00",
-      "title": "Intel, Microsoft discuss plans to run Copilot locally on PCs instead of in the cloud",
-      "url": "https://arstechnica.com/gadgets/2024/03/intel-microsoft-discuss-plans-to-run-copilot-locally-on-pcs-instead-of-in-the-cloud/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/intel-ai-pc-2-760x380.jpeg"
     }
   ],
   "sortBy": "top",
