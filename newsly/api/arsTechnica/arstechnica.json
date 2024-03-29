@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Scharon Harding",
+      "description": "Facebook Watch, Netflix were allegedly bigger competitors than they let on.",
+      "publishedAt": "2024-03-28T20:40:54+00:00",
+      "title": "Facebook let Netflix see user DMs, quit streaming to keep Netflix happy: Lawsuit",
+      "url": "https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Facebook-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Blame it on a smaller orbiting black hole repeatedly punching through the accretion disk.",
+      "publishedAt": "2024-03-28T19:56:50+00:00",
+      "title": "Astronomers have solved the mystery of why this black hole has the hiccups",
+      "url": "https://arstechnica.com/science/2024/03/astronomers-have-solved-the-mystery-of-why-this-black-hole-has-the-hiccups/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hiccup1-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Automation is making attacks on open source code repositories harder to fight.",
+      "publishedAt": "2024-03-28T18:50:22+00:00",
+      "title": "PyPI halted new users and projects while it fended off supply-chain attack",
+      "url": "https://arstechnica.com/security/2024/03/pypi-halted-new-users-and-projects-while-it-fended-off-supply-chain-attack/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Former Canonical employee calls out the \"Safe\" label applied to Snap apps.",
+      "publishedAt": "2024-03-28T18:23:51+00:00",
+      "title": "Ubuntu will manually review Snap Store after crypto wallet scams",
+      "url": "https://arstechnica.com/information-technology/2024/03/ubuntu-will-manually-review-snap-store-after-crypto-wallet-scams/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1066865386-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Drug-resistant gonorrhea is a growing problem\u2014one that doesn't heed borders.",
+      "publishedAt": "2024-03-28T18:12:31+00:00",
+      "title": "China has a big problem with super gonorrhea, study finds",
+      "url": "https://arstechnica.com/science/2024/03/super-gonorrhea-rate-quickly-triples-in-china-now-40x-higher-than-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-966943542-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Federal agencies rush to appoint chief AI officers with \u201csignificant expertise.\u201d",
+      "publishedAt": "2024-03-28T17:52:46+00:00",
+      "title": "Biden orders every US agency to appoint a chief AI officer",
+      "url": "https://arstechnica.com/tech-policy/2024/03/why-every-federal-agency-must-now-appoint-a-chief-ai-officer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1754108758-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Proxmox is a Linux-based hypervisor that could replace ESXi for some users.",
+      "publishedAt": "2024-03-28T17:15:35+00:00",
+      "title": "Proxmox gives VMware ESXi users a place to go after Broadcom kills free version",
+      "url": "https://arstechnica.com/information-technology/2024/03/proxmox-adds-easy-import-option-for-vms-after-broadcom-kills-vmwares-esxi/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/proxmox-logo-stacked-inverted-color-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "Apple wants to rid the iPhone-buying process of the post-unboxing update.",
+      "publishedAt": "2024-03-28T17:15:35+00:00",
+      "title": "How Apple plans to update new iPhones without opening them",
+      "url": "https://arstechnica.com/?p=2012836",
+      "urlToImage": null
+    },
+    {
       "author": "Jon Brodkin",
       "description": "SBF had asked for sentence of just 5 or 6 years. Prosecutors sought 40 to 50.",
       "publishedAt": "2024-03-28T15:54:48+00:00",
@@ -15,70 +79,6 @@
       "title": "Yamaha and Lola pair up to enter Formula E next season",
       "url": "https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Lola-Yamaha-Formula-E-1-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Swedish giant releases the largest piece of its Katamari-like studio roll-up.",
-      "publishedAt": "2024-03-28T13:39:18+00:00",
-      "title": "Embracer Group lets go of Borderlands maker for $460M after three years",
-      "url": "https://arstechnica.com/gaming/2024/03/embracer-group-lets-go-of-borderlands-maker-for-460m-after-three-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/borderlands_3_embracer-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Incomplete explosions can leave a kind of \"zombie\" star.",
-      "publishedAt": "2024-03-28T12:00:49+00:00",
-      "title": "Daily Telescope: Peering into the remnants of an 800-year-old supernova",
-      "url": "https://arstechnica.com/space/2024/03/daily-telescope-peering-into-the-remnants-of-an-800-year-old-supernova/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/snr1181_lg-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "The final Delta IV Heavy rocket is scheduled to launch Thursday, weather permitting.",
-      "publishedAt": "2024-03-27T23:15:43+00:00",
-      "title": "The Delta IV Heavy, a rocket whose time has come and gone, will fly once more",
-      "url": "https://arstechnica.com/space/2024/03/the-delta-iv-heavy-a-rocket-whose-time-has-come-and-gone-will-fly-once-more/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/53583785953_811fa811bd_k-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Researchers say it's the first known in-the-wild attack targeting AI workloads.",
-      "publishedAt": "2024-03-27T22:40:53+00:00",
-      "title": "Thousands of servers hacked in ongoing attack targeting Ray AI framework",
-      "url": "https://arstechnica.com:8080/security/2024/03/thousands-of-servers-hacked-in-ongoing-attack-targeting-ray-ai-framework/",
-      "urlToImage": "https://cdn-8080.arstechnica.com/wp-content/uploads/2023/07/exploit-vulnerability-security-1-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Amazon, IBM, and traditional silicon makers are all working toward error correction.",
-      "publishedAt": "2024-03-27T22:24:36+00:00",
-      "title": "Quantum computing progress: Higher temps, better error correction",
-      "url": "https://arstechnica.com/science/2024/03/quantum-computing-progress-higher-temps-better-error-correction/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Starting in 2025, devices can't block repair parts with software-pairing checks.",
-      "publishedAt": "2024-03-27T21:57:30+00:00",
-      "title": "Oregon governor signs nation\u2019s first right-to-repair bill that bans parts pairing",
-      "url": "https://arstechnica.com/gadgets/2024/03/oregon-governor-signs-nations-first-right-to-repair-bill-that-bans-part-pairing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1321654926-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Cases so far are up 140 percent compared to this point last year.",
-      "publishedAt": "2024-03-27T21:24:37+00:00",
-      "title": "Puerto Rico declares public health emergency as dengue cases rise",
-      "url": "https://arstechnica.com/science/2024/03/puerto-rico-declares-public-health-emergency-as-dengue-cases-rise/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/01/640px-Aedes_aegypti_during_blood_meal-640x215.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "SpaceX application tossed but firm will get another shot in spectrum rulemaking.",
-      "publishedAt": "2024-03-27T21:10:49+00:00",
-      "title": "Starlink mobile plans hit snag as FCC dismisses SpaceX spectrum application",
-      "url": "https://arstechnica.com/tech-policy/2024/03/starlink-mobile-plans-hit-snag-as-fcc-dismisses-spacex-spectrum-application/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/starlink-snow-760x380.jpg"
     }
   ],
   "sortBy": "top",
