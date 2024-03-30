@@ -1,12 +1,68 @@
 {
   "articles": [
     {
+      "author": null,
+      "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "publishedAt": null,
+      "title": "Sports News | Breaking & Latest Sports News | Reuters",
+      "url": "https://www.reuters.com/sports/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=184"
+    },
+    {
+      "author": null,
+      "description": "Find latest science news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "publishedAt": null,
+      "title": "Science News | Today's Latest Science Headlines | Reuters",
+      "url": "https://www.reuters.com/science/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=184"
+    },
+    {
+      "author": null,
+      "description": "Find latest lifestyle news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "publishedAt": null,
+      "title": "Lifestyle News | Today's Top Lifestyle Stories | Reuters",
+      "url": "https://www.reuters.com/lifestyle/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=184"
+    },
+    {
       "author": "Reuters Graphics",
       "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
       "publishedAt": "2020-12-21T00:00:00Z",
       "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
       "url": "https://www.reuters.com/graphics/",
       "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg"
+    },
+    {
+      "author": null,
+      "description": "Reuters news in pictures: photos captured by award winning Reuters photojournalists from around the globe.",
+      "publishedAt": null,
+      "title": "Pictures, News Photos, Picture Slideshows & More | Reuters.com",
+      "url": "https://www.reuters.com/pictures/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=184"
+    },
+    {
+      "author": null,
+      "description": "Go straight to the source with a daily ten-minute news briefing by frontline journalists. Join host Kim Vinnell as she takes you around the world every weekday.",
+      "publishedAt": null,
+      "title": "Podcasts | Your world in 10 minutes | Reuters",
+      "url": "https://www.reuters.com/podcasts/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=184"
+    },
+    {
+      "author": null,
+      "description": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news agency.",
+      "publishedAt": null,
+      "title": "Fact Check | Reuters",
+      "url": "https://www.reuters.com/fact-check/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-factcheck-default.webp?d=184"
+    },
+    {
+      "author": "Reuters",
+      "description": "Reuters news in video: footage captured by award winning Reuters journalists from around the globe.",
+      "publishedAt": null,
+      "title": "Reuters Video",
+      "url": "https://www.reuters.com/video/",
+      "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/660602a4e4b022ca7183eb1f-1711670327271?width=1200&height=1200"
     },
     {
       "author": null,
