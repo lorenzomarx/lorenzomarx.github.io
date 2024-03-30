@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "How hard could it be?",
+      "publishedAt": "2024-03-29T16:08:59+00:00",
+      "title": "Largely cut off from Western games, Russia looks into a homegrown game console",
+      "url": "https://arstechnica.com/gaming/2024/03/russia-is-looking-into-making-its-own-video-game-console/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/russiaarcade-708x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "There's also a wide spread when it comes to acceptable range, Edmunds found.",
+      "publishedAt": "2024-03-29T15:23:30+00:00",
+      "title": "EV buyers want SUVs and sedans, not minivans or trucks, survey says",
+      "url": "https://arstechnica.com/cars/2024/03/ev-buyers-want-suvs-and-sedans-not-minivans-or-trucks-survey-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1422277261-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "More than 1,200 EVs are cheap enough to qualify for the used clean vehicle tax credit.",
+      "publishedAt": "2024-03-29T14:00:20+00:00",
+      "title": "EV bargains to be found as Hertz sells off some of its electric cars",
+      "url": "https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/2022-Chevrolet-BoltEUV-001-760x380.jpg"
+    },
+    {
+      "author": "Cristina Criddle, Madhumita Murgia, Christopher Grimes, and Anna Nicolaou, FT",
+      "description": "CEO Sam Altman met with Universal, Paramount, and Warner Bros Discovery.",
+      "publishedAt": "2024-03-29T13:35:49+00:00",
+      "title": "OpenAI shows off Sora AI video generator to Hollywood execs",
+      "url": "https://www.ft.com/content/b063762e-4e00-4b7e-b0d0-7962c9767a58",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/AI-cameraman-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "\"So don\u2019t have that expectation, please. It\u2019s not going to be perfect.\"",
+      "publishedAt": "2024-03-29T11:00:45+00:00",
+      "title": "Rocket Report: Will Northrop\u2019s rocket be reusable? Fourth Starship gets fired twice",
+      "url": "https://arstechnica.com/?p=2013108",
+      "urlToImage": null
+    },
+    {
+      "author": "Jacek\u00a0Krywko",
+      "description": "Supersonic flight without loud booms? NASA is working on that.",
+      "publishedAt": "2024-03-29T10:45:20+00:00",
+      "title": "After Concorde, a long road back to supersonic air travel",
+      "url": "https://arstechnica.com/science/2024/03/nasa-wants-to-bring-back-supersonic-airliners-but-quieter-this-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1920702377-1-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "Major League Soccer highlight reel is the first Immersive Video since launch.",
       "publishedAt": "2024-03-28T22:17:04+00:00",
@@ -31,54 +79,6 @@
       "title": "Astronomers have solved the mystery of why this black hole has the hiccups",
       "url": "https://arstechnica.com/science/2024/03/astronomers-have-solved-the-mystery-of-why-this-black-hole-has-the-hiccups/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hiccup1-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Automation is making attacks on open source code repositories harder to fight.",
-      "publishedAt": "2024-03-28T18:50:22+00:00",
-      "title": "PyPI halted new users and projects while it fended off supply-chain attack",
-      "url": "https://arstechnica.com/?p=2013233",
-      "urlToImage": null
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Former Canonical employee calls out the \"Safe\" label applied to Snap apps.",
-      "publishedAt": "2024-03-28T18:23:51+00:00",
-      "title": "Ubuntu will manually review Snap Store after crypto wallet scams",
-      "url": "https://arstechnica.com/information-technology/2024/03/ubuntu-will-manually-review-snap-store-after-crypto-wallet-scams/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1066865386-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Drug-resistant gonorrhea is a growing problem\u2014one that doesn't heed borders.",
-      "publishedAt": "2024-03-28T18:12:31+00:00",
-      "title": "China has a big problem with super gonorrhea, study finds",
-      "url": "https://arstechnica.com/science/2024/03/super-gonorrhea-rate-quickly-triples-in-china-now-40x-higher-than-us/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-966943542-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Federal agencies rush to appoint chief AI officers with \u201csignificant expertise.\u201d",
-      "publishedAt": "2024-03-28T17:52:46+00:00",
-      "title": "Biden orders every US agency to appoint a chief AI officer",
-      "url": "https://arstechnica.com/tech-policy/2024/03/why-every-federal-agency-must-now-appoint-a-chief-ai-officer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1754108758-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Proxmox is a Linux-based hypervisor that could replace ESXi for some users.",
-      "publishedAt": "2024-03-28T17:15:35+00:00",
-      "title": "Proxmox gives VMware ESXi users a place to go after Broadcom kills free version",
-      "url": "https://arstechnica.com/information-technology/2024/03/proxmox-adds-easy-import-option-for-vms-after-broadcom-kills-vmwares-esxi/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/proxmox-logo-stacked-inverted-color-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Apple wants to rid the iPhone-buying process of the post-unboxing update.",
-      "publishedAt": "2024-03-28T17:15:35+00:00",
-      "title": "How Apple plans to update new iPhones without opening them",
-      "url": "https://arstechnica.com/?p=2012836",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
