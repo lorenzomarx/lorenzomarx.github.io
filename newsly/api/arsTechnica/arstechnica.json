@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Samuel Axon",
+      "description": "Major League Soccer highlight reel is the first Immersive Video since launch.",
+      "publishedAt": "2024-03-28T22:17:04+00:00",
+      "title": "Apple\u2019s first new 3D Vision Pro video since launch is only a few minutes long",
+      "url": "https://arstechnica.com/gadgets/2024/03/apple-debuts-first-new-3d-video-content-for-vision-pro-in-two-months/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Immersive-Video-library-760x380.png"
+    },
+    {
+      "author": "John Timmer",
+      "description": "LifeSpan's Ampera offers a solid workout, but it has a lot of quirks.",
+      "publishedAt": "2024-03-28T21:39:49+00:00",
+      "title": "Getting a charge: An exercise bike that turns your pedaling into power",
+      "url": "https://arstechnica.com/reviews/2024/03/getting-a-charge-an-exercise-bike-that-turns-your-pedaling-into-power/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/image-2-750x380.jpeg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Facebook Watch, Netflix were allegedly bigger competitors than they let on.",
       "publishedAt": "2024-03-28T20:40:54+00:00",
@@ -17,12 +33,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hiccup1-760x380.jpg"
     },
     {
-      "author": "Dan Goodin",
+      "author": null,
       "description": "Automation is making attacks on open source code repositories harder to fight.",
       "publishedAt": "2024-03-28T18:50:22+00:00",
       "title": "PyPI halted new users and projects while it fended off supply-chain attack",
-      "url": "https://arstechnica.com/security/2024/03/pypi-halted-new-users-and-projects-while-it-fended-off-supply-chain-attack/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2013233",
+      "urlToImage": null
     },
     {
       "author": "Kevin Purdy",
@@ -63,22 +79,6 @@
       "title": "How Apple plans to update new iPhones without opening them",
       "url": "https://arstechnica.com/?p=2012836",
       "urlToImage": null
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "SBF had asked for sentence of just 5 or 6 years. Prosecutors sought 40 to 50.",
-      "publishedAt": "2024-03-28T15:54:48+00:00",
-      "title": "FTX fraudster Sam Bankman-Fried sentenced to 25 years in prison",
-      "url": "https://arstechnica.com/tech-policy/2024/03/ftx-fraudster-sam-bankman-fried-sentenced-to-25-years-in-prison/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-sbf-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Lola has Yamaha as a technical partner and Formula E veterans in key roles.",
-      "publishedAt": "2024-03-28T14:42:26+00:00",
-      "title": "Yamaha and Lola pair up to enter Formula E next season",
-      "url": "https://arstechnica.com/cars/2024/03/yamaha-and-lola-pair-up-to-enter-formula-e-next-season/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Lola-Yamaha-Formula-E-1-760x380.jpg"
     }
   ],
   "sortBy": "top",
