@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Use of \"Lenna\" image in computer image processing research stretches back to the 1970s.",
+      "publishedAt": "2024-03-29T21:16:07+00:00",
+      "title": "Playboy image from 1972 gets ban from IEEE computer journals",
+      "url": "https://arstechnica.com/information-technology/2024/03/playboy-image-from-1972-gets-ban-from-ieee-computer-journals/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/rejected-image-lenna-760x380.jpg"
+    },
+    {
       "author": "Kyle Orland",
-      "description": "How hard could it be?",
-      "publishedAt": "2024-03-29T16:08:59+00:00",
-      "title": "Largely cut off from Western games, Russia looks into a homegrown game console",
-      "url": "https://arstechnica.com/gaming/2024/03/russia-is-looking-into-making-its-own-video-game-console/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/russiaarcade-708x380.jpg"
+      "description": "You can be evicted for not paying rent, despite what the \"MyCity\" chatbot says.",
+      "publishedAt": "2024-03-29T20:22:21+00:00",
+      "title": "NYC\u2019s government chatbot is lying about city laws and regulations",
+      "url": "https://arstechnica.com/ai/2024/03/nycs-government-chatbot-is-lying-about-city-laws-and-regulations/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-2047200563-760x380.jpg"
     },
     {
-      "author": "Jonathan M. Gitlin",
-      "description": "There's also a wide spread when it comes to acceptable range, Edmunds found.",
-      "publishedAt": "2024-03-29T15:23:30+00:00",
-      "title": "EV buyers want SUVs and sedans, not minivans or trucks, survey says",
-      "url": "https://arstechnica.com/cars/2024/03/ev-buyers-want-suvs-and-sedans-not-minivans-or-trucks-survey-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1422277261-760x380.jpg"
+      "author": "Dan Goodin",
+      "description": "Malicious code planted in xz Utils has been circulating for more than a month.",
+      "publishedAt": "2024-03-29T18:50:34+00:00",
+      "title": "Backdoor found in widely used Linux utility breaks encrypted SSH connections",
+      "url": "https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/backdoor-1-760x380.jpg"
     },
     {
-      "author": "Jonathan M. Gitlin",
-      "description": "More than 1,200 EVs are cheap enough to qualify for the used clean vehicle tax credit.",
-      "publishedAt": "2024-03-29T14:00:20+00:00",
-      "title": "EV bargains to be found as Hertz sells off some of its electric cars",
-      "url": "https://arstechnica.com/cars/2024/03/looking-for-cheap-evs-try-hertzs-ex-rental-cars/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/2022-Chevrolet-BoltEUV-001-760x380.jpg"
-    },
-    {
-      "author": "Cristina Criddle, Madhumita Murgia, Christopher Grimes, and Anna Nicolaou, FT",
-      "description": "CEO Sam Altman met with Universal, Paramount, and Warner Bros Discovery.",
-      "publishedAt": "2024-03-29T13:35:49+00:00",
-      "title": "OpenAI shows off Sora AI video generator to Hollywood execs",
-      "url": "https://www.ft.com/content/b063762e-4e00-4b7e-b0d0-7962c9767a58",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/AI-cameraman-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "\"So don\u2019t have that expectation, please. It\u2019s not going to be perfect.\"",
-      "publishedAt": "2024-03-29T11:00:45+00:00",
-      "title": "Rocket Report: Will Northrop\u2019s rocket be reusable? Fourth Starship gets fired twice",
-      "url": "https://arstechnica.com/?p=2013108",
-      "urlToImage": null
-    },
-    {
-      "author": "Jacek\u00a0Krywko",
-      "description": "Supersonic flight without loud booms? NASA is working on that.",
-      "publishedAt": "2024-03-29T10:45:20+00:00",
-      "title": "After Concorde, a long road back to supersonic air travel",
-      "url": "https://arstechnica.com/science/2024/03/nasa-wants-to-bring-back-supersonic-airliners-but-quieter-this-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1920702377-1-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Major League Soccer highlight reel is the first Immersive Video since launch.",
-      "publishedAt": "2024-03-28T22:17:04+00:00",
-      "title": "Apple\u2019s first new 3D Vision Pro video since launch is only a few minutes long",
-      "url": "https://arstechnica.com/?p=2013280",
-      "urlToImage": null
-    },
-    {
-      "author": "John Timmer",
-      "description": "LifeSpan's Ampera offers a solid workout, but it has a lot of quirks.",
-      "publishedAt": "2024-03-28T21:39:49+00:00",
-      "title": "Getting a charge: An exercise bike that turns your pedaling into power",
-      "url": "https://arstechnica.com/reviews/2024/03/getting-a-charge-an-exercise-bike-that-turns-your-pedaling-into-power/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/image-2-750x380.jpeg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Facebook Watch, Netflix were allegedly bigger competitors than they let on.",
-      "publishedAt": "2024-03-28T20:40:54+00:00",
-      "title": "Facebook let Netflix see user DMs, quit streaming to keep Netflix happy: Lawsuit",
-      "url": "https://arstechnica.com/gadgets/2024/03/netflix-ad-spend-led-to-facebook-dm-access-end-of-facebook-streaming-biz-lawsuit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Facebook-760x380.jpg"
+      "author": "Jon Brodkin",
+      "description": "Civil rights group sues two counties, says hundreds more have banned visits.",
+      "publishedAt": "2024-03-29T18:31:10+00:00",
+      "title": "Jails banned visits in \u201cquid pro quo\u201d with prison phone companies, lawsuits say",
+      "url": "https://arstechnica.com/tech-policy/2024/03/jails-banned-family-visits-to-make-more-money-on-video-calls-lawsuits-claim/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-519951874-760x380.jpg"
     },
     {
       "author": "Jennifer Ouellette",
-      "description": "Blame it on a smaller orbiting black hole repeatedly punching through the accretion disk.",
-      "publishedAt": "2024-03-28T19:56:50+00:00",
-      "title": "Astronomers have solved the mystery of why this black hole has the hiccups",
-      "url": "https://arstechnica.com/science/2024/03/astronomers-have-solved-the-mystery-of-why-this-black-hole-has-the-hiccups/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hiccup1-760x380.jpg"
+      "description": "Latest improvements to ANYmal make it better at navigating rubble and tricky terrain.",
+      "publishedAt": "2024-03-29T18:18:31+00:00",
+      "title": "This four-legged robot learned parkour to better navigate obstacles",
+      "url": "https://arstechnica.com/science/2024/03/these-swiss-scientists-taught-their-four-legged-robot-to-do-parkour/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/anymal1-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "The clicky Kailh White switches are easily replaceable.",
+      "publishedAt": "2024-03-29T17:58:08+00:00",
+      "title": "8BitDo\u2019s $100 wireless mechanical keyboard is a tribute to Commodore 64",
+      "url": "https://arstechnica.com/gadgets/2024/03/8bitdos-100-wireless-mechanical-keyboard-is-a-tribute-to-commodore-64/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/3-Hero-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Next-gen iPads will be Apple's first new tablets since late 2022.",
+      "publishedAt": "2024-03-29T17:30:21+00:00",
+      "title": "Report: Redesigned M3 iPad Pros, large-screened iPad Air now expected in May",
+      "url": "https://arstechnica.com/gadgets/2024/03/report-redesigned-m3-ipad-pros-large-screened-ipad-air-now-expected-in-may/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/ipad-pro-m2-760x380.jpeg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Google wants AI models to be loaded 24/7, so 8GB of RAM might not be enough.",
+      "publishedAt": "2024-03-29T17:16:50+00:00",
+      "title": "Google says running AI models on phones is a huge RAM hog",
+      "url": "https://arstechnica.com/gadgets/2024/03/google-says-the-pixel-8-will-get-its-new-ai-model-but-ram-usage-is-a-concern/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Voice Engine can clone voices with 15 seconds of audio, but OpenAI is warning of potential harms.",
+      "publishedAt": "2024-03-29T17:13:47+00:00",
+      "title": "OpenAI holds back wide release of voice-cloning tech due to misuse concerns",
+      "url": "https://arstechnica.com/information-technology/2024/03/openai-holds-back-wide-release-of-voice-cloning-tech-due-to-misuse-concerns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-14580452381-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "They're free, they're easy, they're open source, and they generate funny names.",
+      "publishedAt": "2024-03-29T16:57:05+00:00",
+      "title": "I use these 2 apps for universal AirDrop rather than pushing people to Apple",
+      "url": "https://arstechnica.com/gadgets/2024/03/the-two-apps-i-use-when-i-need-airdrop-on-non-apple-devices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/snapdrop_cover2-760x380.jpg"
     }
   ],
   "sortBy": "top",
