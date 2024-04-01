@@ -2,6 +2,19 @@
   "articles": [
     {
       "author": "Al Jazeera",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nAmong the dead are patients, war-displaced and medical staff as Israels hospital attack enters a third week, Gazas media office says.",
+      "description": "Among the dead are patients, war-displaced and medical staff as Israel\u2019s hospital attack enters a third week.",
+      "publishedAt": "2024-03-31T00:00:21Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israel\u2019s war on Gaza live: Hundreds killed in al-Shifa Hospital siege",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/3/31/israels-war-on-gaza-live-hundreds-killed-in-al-shifa-hospital-siege",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AA-20240329-34128192-34128191-ISRAELI_ATTACKS_ON_GAZA_CONTINUE-1711786306.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
       "content": "Truce talks between Israel and Hamas are expected to resume in Cairo on Sunday, Egyptian media reported, days after the United Nations Security Council issued its first demand for a ceasefire in the \u2026 [+3886 chars]",
       "description": "Negotiations on Sunday come after UN Security Council demanded a ceasefire this week, nearly six months into the war.",
       "publishedAt": "2024-03-30T20:15:50Z",
@@ -1286,21 +1299,8 @@
       "title": "Ex-crypto mogul Sam Bankman-Fried due to be sentenced for defrauding FTX",
       "url": "https://www.aljazeera.com/news/2024/3/28/ex-crypto-mogul-sam-bankman-fried-due-to-be-sentenced-for-defrauding-ftx",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AP23202723898191-1711612741.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Faras Ghani",
-      "content": "The global Islamic halal economy is set to reach a market value of $7.7 trillion by 2025, more than double the $3.2 trillion it reached in 2015 and significantly higher than the $5.7 trillion it was \u2026 [+7839 chars]",
-      "description": "Global halal economy is on the rise with an increase in demand fuelling more opportunities for investment.",
-      "publishedAt": "2024-03-28T08:30:32Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "What is Islamic halal investment and why is it on the rise?",
-      "url": "https://www.aljazeera.com/news/2024/3/28/what-is-islamic-and-halal-investment-is-it-on-the-rise",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/GettyImages-520187152-1711451153.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1335
+  "totalResults": 1336
 }
