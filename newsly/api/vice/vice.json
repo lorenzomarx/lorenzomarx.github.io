@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Katharine Sohn, Andrea Cheng",
+      "content": "Landrace. Photo by Sophie Green.",
+      "description": "From daily pastas to exceptional pastries.",
+      "publishedAt": "2024-04-03T13:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The 18 Absolute Best, Can't-Miss Places To Dine In Bath & Bristol",
+      "url": "https://www.vice.com/en/article/qjv5db/guide-where-to-eat-drink-bath-bristol",
+      "urlToImage": "https://video-images.vice.com/articles/65e2ca6521de7b558a95a99f/lede/1710782624807-og-feature-02opener.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "VICE Staff, Zing Tsjeng",
       "content": "When it comes to The Church of Scientology, youve most likely heard about both its celebrity followers and its wacky ideas about space battles (for example, Lord Xenu, the intergalactic warrior you c\u2026 [+3631 chars]",
       "description": "\"I found myself working over 80 hours a week and earning under \u00a35,000 a year.\"",
@@ -54,5 +67,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 4
+  "totalResults": 5
 }
