@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Outage occurs on same day as special election, but election offices remain open.",
+      "publishedAt": "2024-04-02T23:59:50+00:00",
+      "title": "Missouri county declares state of emergency amid suspected ransomware attack",
+      "url": "https://arstechnica.com/security/2024/04/missouri-county-declares-state-of-emergency-amid-suspected-ransomware-attack/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Kansas-City-Missouri-Downtown-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "Musk\u2019s attempt to venue-shop Media Matters lawsuit is not likely to end well.",
       "publishedAt": "2024-04-02T20:42:08+00:00",
@@ -41,20 +49,20 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Stewart-Khan-760x380.png"
     },
     {
-      "author": "Jennifer Ouellette",
+      "author": null,
       "description": "The underwater drone Hydrus can capture georeferenced 4K video and images simultaneously.",
       "publishedAt": "2024-04-02T18:01:28+00:00",
       "title": "Expedition uses small underwater drone to discover 100-year-old shipwreck",
-      "url": "https://arstechnica.com/science/2024/04/explore-a-virtual-model-of-100-year-old-shipwreck-off-australias-western-coast/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/hydrus1-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2014256",
+      "urlToImage": null
     },
     {
-      "author": "Kevin Purdy",
+      "author": null,
       "description": "If pollution levels go too high, the game ends for everyone. It's a fun escape!",
       "publishedAt": "2024-04-02T17:48:33+00:00",
       "title": "New Catan game has overpopulation, pollution, fossil fuels, and clean energy",
-      "url": "https://arstechnica.com/gaming/2024/04/new-catan-game-has-overpopulation-pollution-fossil-fuels-and-clean-energy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/New-Energies-Coming-Soon-Newsletter-Header-760x380.png"
+      "url": "https://arstechnica.com/?p=2014274",
+      "urlToImage": null
     },
     {
       "author": "Beth Mole",
@@ -71,14 +79,6 @@
       "title": "Carmakers give up on software that avoids kangaroos",
       "url": "https://arstechnica.com/cars/2024/04/hazard-identification-software-cant-make-sense-of-kangaroos/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-885209684-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Tesla stock price continued its fall today and is down 33 percent in 2024.",
-      "publishedAt": "2024-04-02T15:59:29+00:00",
-      "title": "Tesla deliveries drop 8.5 percent year over year in first decline since 2020",
-      "url": "https://arstechnica.com/cars/2024/04/tesla-deliveries-drop-8-5-percent-year-over-year-in-first-decline-since-2020/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-tesla-logo-760x380.jpg"
     }
   ],
   "sortBy": "top",
