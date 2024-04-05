@@ -1,83 +1,83 @@
 {
   "articles": [
     {
-      "author": "Andrew Cunningham",
+      "author": "Eric Berger",
+      "description": "Although not quite literally, the Atlantic Ocean is on fire right now.",
+      "publishedAt": "2024-04-04T21:14:31+00:00",
+      "title": "It could well be a blockbuster hurricane season, and that\u2019s not a good thing",
+      "url": "https://arstechnica.com/space/2024/04/it-could-well-be-a-blockbuster-hurricane-season-and-thats-not-a-good-thing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/late-march-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "On X, Musk shared false claim that is easily disproven by voter registration data.",
+      "publishedAt": "2024-04-04T20:19:37+00:00",
+      "title": "Elon Musk shares \u201cextremely false\u201d allegation of voting fraud by \u201cillegals\u201d",
+      "url": "https://arstechnica.com/tech-policy/2024/04/texas-secretary-of-state-debunks-election-fraud-claim-spread-by-elon-musk/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-musk-x-1-760x380.jpg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "Lab experiments suggest gullies on Mars might form when carbon dioxide heats up.",
+      "publishedAt": "2024-04-04T19:39:39+00:00",
+      "title": "Mars may not have had liquid water long enough for life to form",
+      "url": "https://arstechnica.com/science/2024/04/mars-may-not-have-had-liquid-water-long-enough-for-life-to-form/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-3-760x380.jpeg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "User says promo site put her uploaded selfie on a topless woman's body.",
+      "publishedAt": "2024-04-04T19:17:07+00:00",
+      "title": "After AI-generated porn report, Washington Lottery pulls down interactive web app",
+      "url": "https://arstechnica.com/ai/2024/04/after-ai-generated-porn-report-washington-lottery-pulls-down-interactive-web-app/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/washingtons-lottery-AI-C-0424-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "How one journalist found himself targeted by generative AI over a keyfob photo.",
+      "publishedAt": "2024-04-04T18:50:46+00:00",
+      "title": "Fake AI law firms are sending fake DMCA threats to generate fake SEO gains",
+      "url": "https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-672156981-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "A lot of distinct components and a hefty frame smooth out some nasty terrain.",
+      "publishedAt": "2024-04-04T17:54:30+00:00",
+      "title": "Unleash the beast: High Performance Cycle\u2019s electric mountain bike",
+      "url": "https://arstechnica.com/cars/2024/04/unleash-the-beast-high-performance-cycles-electric-mountain-bike/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/IMG_1331-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Crypto and other investment app scams promoted on YouTube targeted 100K users.",
+      "publishedAt": "2024-04-04T17:48:12+00:00",
+      "title": "Google sues two crypto app makers over allegedly vast \u201cpig butchering\u201d scheme",
+      "url": "https://arstechnica.com/tech-policy/2024/04/google-sues-two-crypto-app-makers-over-allegedly-vast-pig-butchering-scheme/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1706207620-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "It's a past-due reckoning for French microbiologist Didier Raoult, critics say.",
+      "publishedAt": "2024-04-04T17:05:02+00:00",
+      "title": "101 studies flagged as bogus COVID cure pusher sees career unravel",
+      "url": "https://arstechnica.com/science/2024/04/101-studies-flagged-as-bogus-covid-cure-pusher-sees-career-unravel/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1240105742-760x380.jpeg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "You'll need to run outside when your robot delivery arrives.",
+      "publishedAt": "2024-04-04T16:40:57+00:00",
+      "title": "Waymo and Uber Eats start human-less food deliveries in Phoenix",
+      "url": "https://arstechnica.com/gadgets/2024/04/waymo-and-uber-eats-team-up-for-automated-food-deliveries/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/IPACE_3-1.jpg"
+    },
+    {
+      "author": null,
       "description": "RAM controls seem intended mostly for PC gamers who want to free up memory.",
       "publishedAt": "2024-04-04T16:24:38+00:00",
       "title": "Microsoft is testing user-controlled RAM limits for Microsoft Edge browser",
-      "url": "https://arstechnica.com/gadgets/2024/04/experimental-microsoft-edge-build-lets-you-manually-limit-browsers-ram-usage/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/microsoft-edge-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Consumer pricing hasn't been announced; schools will pay just $1 per year.",
-      "publishedAt": "2024-04-04T15:57:37+00:00",
-      "title": "Post-2025 Windows 10 updates for businesses start at $61 per PC, go up from there",
-      "url": "https://arstechnica.com/gadgets/2024/04/post-2025-windows-10-updates-for-businesses-start-at-61-per-pc-go-up-from-there/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/win10-new-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "First results from the Dark Energy Spectroscopic Instrument offer hints of new physics.",
-      "publishedAt": "2024-04-04T15:00:16+00:00",
-      "title": "Dark energy might not be constant after all",
-      "url": "https://arstechnica.com/science/2024/04/dark-energy-might-not-be-constant-after-all/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/DESI1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"I know we\u2019re asking a lot of these companies.\"",
-      "publishedAt": "2024-04-04T14:21:19+00:00",
-      "title": "How will astronauts cruise around the Moon? NASA narrows choice to three options",
-      "url": "https://arstechnica.com/space/2024/04/nasa-asks-the-commercial-space-industry-for-a-rugged-long-lived-lunar-rover/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/ltv-2022-closeup-final-1-760x380.webp"
-    },
-    {
-      "author": "Hannah Murphy, Financial Times",
-      "description": "Number of partisan news sites roughly equals those doing actual, legitimate journalism.",
-      "publishedAt": "2024-04-04T13:49:06+00:00",
-      "title": "\u201cPink slime\u201d local news outlets erupt all over US as election nears",
-      "url": "https://www.ft.com/content/ce6f8b43-8b0f-4081-a13c-47e58640253e",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/ccw-list-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\u201cWe do anticipate having to deploy nuclear systems on the lunar surface.\"",
-      "publishedAt": "2024-04-04T13:36:13+00:00",
-      "title": "Space experts foresee an \u201coperational need\u201d for nuclear power on the Moon",
-      "url": "https://arstechnica.com/space/2024/04/space-experts-foresee-an-operational-need-for-nuclear-power-on-the-moon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/kilopower_nasa-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"I would have never written the requirements for Starship.\"",
-      "publishedAt": "2024-04-03T23:12:55+00:00",
-      "title": "Pentagon calls for tighter integration between military and commercial space",
-      "url": "https://arstechnica.com/space/2024/04/commercial-space-will-have-a-role-to-play-in-space-warfare-pentagon-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2121051786-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Plan would represent a first for what has been a completely ad-funded search engine.",
-      "publishedAt": "2024-04-03T22:44:06+00:00",
-      "title": "Google might make users pay for AI features in search results",
-      "url": "https://arstechnica.com/?p=2014756",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "The risk to the general public remains low, federal officials say.",
-      "publishedAt": "2024-04-03T22:16:26+00:00",
-      "title": "Bird flu flare: Cattle in 5 states now positive as Texas egg farm shuts down",
-      "url": "https://arstechnica.com/?p=2014743",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Bloomberg report claims price hike coming to Australia, Pakistan, and the UK first.",
-      "publishedAt": "2024-04-03T21:50:01+00:00",
-      "title": "Spotify\u2019s second price hike in 9 months will target audiobook listeners",
-      "url": "https://arstechnica.com/?p=2014721",
+      "url": "https://arstechnica.com/?p=2014910",
       "urlToImage": null
     }
   ],
