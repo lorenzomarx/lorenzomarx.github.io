@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "Part of the reset involves AI-powered documentation search and call routing.",
+      "publishedAt": "2024-04-05T17:05:01+00:00",
+      "title": "Ivanti CEO pledges to \u201cfundamentally transform\u201d its hard-hit security model",
+      "url": "https://arstechnica.com/security/2024/04/ivanti-following-years-of-critical-vpn-exploits-pledges-new-era-of-security/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1280292816-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Meta will stop removing harmless AI videos in July.",
+      "publishedAt": "2024-04-05T16:51:50+00:00",
+      "title": "Meta relaxes \u201cincoherent\u201d policy requiring removal of AI videos",
+      "url": "https://arstechnica.com/tech-policy/2024/04/meta-relaxes-incoherent-policy-requiring-removal-of-ai-videos/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1521745047-760x380.jpg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "A chemical that we smell may be a composite of multiple smell-making pieces.",
+      "publishedAt": "2024-04-05T16:33:14+00:00",
+      "title": "The science of smell is fragrant with submolecules",
+      "url": "https://arstechnica.com/science/2024/04/the-science-of-smell-is-fragrant-with-sub-molecules/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1302713332-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Ford is selling more EVs than ever, but it wants to build more hybrids instead.",
+      "publishedAt": "2024-04-05T16:19:32+00:00",
+      "title": "Ford cuts EV plans even as it becomes nation\u2019s second-largest EV brand",
+      "url": "https://arstechnica.com/cars/2024/04/fords-q1-ev-sales-grew-86-but-its-shifting-focus-to-hybrids/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Rouge-Electric-Vehicle-Center_23-760x380.jpg"
+    },
+    {
+      "author": "Kate Knibbs, wired.com",
+      "description": "OpenAI has taken down some bots from GPT Store, but copyright complaints continue.",
+      "publishedAt": "2024-04-05T14:27:26+00:00",
+      "title": "Publisher: OpenAI\u2019s GPT Store bots are illegally scraping our textbooks",
+      "url": "https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/openai-logo-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "News you can use in regard to chasing cloud-free skies.",
+      "publishedAt": "2024-04-05T14:01:48+00:00",
+      "title": "Here are the winners and losers when it comes to clouds for Monday\u2019s eclipse",
+      "url": "https://arstechnica.com/space/2024/04/here-are-the-winners-and-losers-when-it-comes-to-clouds-for-mondays-eclipse/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/nbm_cloud_conus-760x380.png"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The $2K bike is aimed at smaller riders who want a manageable cargo e-bike. It delivers.",
+      "publishedAt": "2024-04-05T11:30:54+00:00",
+      "title": "The Maven: A user-friendly, $2K Cargo e-bike perfect for families on the go",
+      "url": "https://arstechnica.com/cars/2024/04/a-cycling-newb-tries-a-cargo-e-bike-the-user-friendly-maven/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/760-Maven-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "\"The pacing item in our supply chain is the BE-4.\"",
+      "publishedAt": "2024-04-05T11:00:12+00:00",
+      "title": "Rocket Report: Blue Origin to resume human flights; progress for Polaris Dawn",
+      "url": "https://arstechnica.com/space/2024/04/rocket-report-blue-origin-to-resume-human-flights-progress-for-polaris-dawn/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1154159474-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "The man had recently visited a country park known for its macaque monkeys.",
       "publishedAt": "2024-04-04T21:59:20+00:00",
@@ -15,70 +79,6 @@
       "title": "It could well be a blockbuster hurricane season, and that\u2019s not a good thing",
       "url": "https://arstechnica.com/space/2024/04/it-could-well-be-a-blockbuster-hurricane-season-and-thats-not-a-good-thing/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/late-march-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "On X, Musk shared false claim that is easily disproven by voter registration data.",
-      "publishedAt": "2024-04-04T20:19:37+00:00",
-      "title": "Elon Musk shares \u201cextremely false\u201d allegation of voting fraud by \u201cillegals\u201d",
-      "url": "https://arstechnica.com/tech-policy/2024/04/texas-secretary-of-state-debunks-election-fraud-claim-spread-by-elon-musk/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-musk-x-1-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Lab experiments suggest gullies on Mars might form when carbon dioxide heats up.",
-      "publishedAt": "2024-04-04T19:39:39+00:00",
-      "title": "Mars may not have had liquid water long enough for life to form",
-      "url": "https://arstechnica.com/science/2024/04/mars-may-not-have-had-liquid-water-long-enough-for-life-to-form/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-3-760x380.jpeg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "User says promo site put her uploaded selfie on a topless woman's body.",
-      "publishedAt": "2024-04-04T19:17:07+00:00",
-      "title": "After AI-generated porn report, Washington Lottery pulls down interactive web app",
-      "url": "https://arstechnica.com/ai/2024/04/after-ai-generated-porn-report-washington-lottery-pulls-down-interactive-web-app/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/washingtons-lottery-AI-C-0424-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "How one journalist found himself targeted by generative AI over a keyfob photo.",
-      "publishedAt": "2024-04-04T18:50:46+00:00",
-      "title": "Fake AI law firms are sending fake DMCA threats to generate fake SEO gains",
-      "url": "https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-672156981-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A lot of distinct components and a hefty frame smooth out some nasty terrain.",
-      "publishedAt": "2024-04-04T17:54:30+00:00",
-      "title": "Unleash the beast: High Performance Cycle\u2019s electric mountain bike",
-      "url": "https://arstechnica.com/cars/2024/04/unleash-the-beast-high-performance-cycles-electric-mountain-bike/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/IMG_1331-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Crypto and other investment app scams promoted on YouTube targeted 100K users.",
-      "publishedAt": "2024-04-04T17:48:12+00:00",
-      "title": "Google sues two crypto app makers over allegedly vast \u201cpig butchering\u201d scheme",
-      "url": "https://arstechnica.com/tech-policy/2024/04/google-sues-two-crypto-app-makers-over-allegedly-vast-pig-butchering-scheme/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1706207620-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "It's a past-due reckoning for French microbiologist Didier Raoult, critics say.",
-      "publishedAt": "2024-04-04T17:05:02+00:00",
-      "title": "101 studies flagged as bogus COVID cure pusher sees career unravel",
-      "url": "https://arstechnica.com/science/2024/04/101-studies-flagged-as-bogus-covid-cure-pusher-sees-career-unravel/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1240105742-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "You'll need to run outside when your robot delivery arrives.",
-      "publishedAt": "2024-04-04T16:40:57+00:00",
-      "title": "Waymo and Uber Eats start human-less food deliveries in Phoenix",
-      "url": "https://arstechnica.com/gadgets/2024/04/waymo-and-uber-eats-team-up-for-automated-food-deliveries/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/IPACE_3-1.jpg"
     }
   ],
   "sortBy": "top",
