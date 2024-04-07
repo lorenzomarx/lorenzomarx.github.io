@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "The drug is now unavailable to new patients; its maker to lay off 70% of employees.",
+      "publishedAt": "2024-04-05T22:28:52+00:00",
+      "title": "$158,000 ALS drug pulled from market after failing in large clinical trial",
+      "url": "https://arstechnica.com/science/2024/04/158000-als-drug-pulled-from-market-after-failing-in-large-clinical-trial/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Amylyx-Cambridge-Office-2_Source_-Amylyx-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "It's probably not the Wild West of game emulation you're hoping for. Here's why.",
+      "publishedAt": "2024-04-05T22:14:48+00:00",
+      "title": "Apple now allows retro game emulators on its App Store\u2014but with big caveats",
+      "url": "https://arstechnica.com/gadgets/2024/04/apple-now-allows-retro-game-emulators-on-its-app-store-but-with-big-caveats/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/IMG_6494-760x380.png"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "System would detect paused content on external devices and show ads on top.",
+      "publishedAt": "2024-04-05T21:47:46+00:00",
+      "title": "Roku has patented a way to show ads over anything you plug into your TV",
+      "url": "https://arstechnica.com/gadgets/2024/04/hdmi-customized-ad-insertion-patent-would-show-rokus-ads-atop-non-roku-video/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Roku-TV-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Timing of a big-screen return to Arrakis mostly depends on director Denis Villeneuve.",
+      "publishedAt": "2024-04-05T21:26:52+00:00",
+      "title": "Will there be a Dune: Part Three? Yes... with caveats on timing",
+      "url": "https://arstechnica.com/culture/2024/04/will-there-be-a-dune-part-three-yes-with-caveats-on-timing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/dune2-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Musk says that \"Reuters is lying (again)\" over reports that the Model 2 is dead.",
+      "publishedAt": "2024-04-05T19:12:14+00:00",
+      "title": "Tesla scraps its plan for a $25,000 Model 2 EV",
+      "url": "https://arstechnica.com/cars/2024/04/tesla-scraps-its-plan-for-a-25000-model-2-ev/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1232488405-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Schleswig-Holstein looks to succeed where Munich failed.",
+      "publishedAt": "2024-04-05T19:03:05+00:00",
+      "title": "German state gov. ditching Windows for Linux, 30K workers migrating",
+      "url": "https://arstechnica.com/information-technology/2024/04/german-state-gov-ditching-windows-for-linux-30k-workers-migrating/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-169475683-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Google promised to wait for Apple to launch cross-platform \"unwanted tag\" detection.",
+      "publishedAt": "2024-04-05T18:25:24+00:00",
+      "title": "Android\u2019s AirTag competitor gears up for launch, thanks to iOS release",
+      "url": "https://arstechnica.com/gadgets/2024/04/after-a-one-year-delay-google-might-finally-launch-its-find-my-network/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/6-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "The gentle flow of warm fluids could have given pre-life chemistry a boost.",
+      "publishedAt": "2024-04-05T18:18:04+00:00",
+      "title": "Tiny cracks in rocks may have concentrated chemicals needed for life",
+      "url": "https://arstechnica.com/science/2024/04/rock-fissures-may-have-gathered-key-chemicals-for-early-life/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-2.image-png-760x380.png"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "State enforcement makes ISPs more likely to comply, FCC says.",
+      "publishedAt": "2024-04-05T18:04:47+00:00",
+      "title": "FCC won\u2019t block California net neutrality law, says states can \u201cexperiment\u201d",
+      "url": "https://arstechnica.com/tech-policy/2024/04/fcc-wont-block-california-net-neutrality-law-says-states-can-experiment/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-us-broadband-map-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "Part of the reset involves AI-powered documentation search and call routing.",
       "publishedAt": "2024-04-05T17:05:01+00:00",
       "title": "Ivanti CEO pledges to \u201cfundamentally transform\u201d its hard-hit security model",
       "url": "https://arstechnica.com/security/2024/04/ivanti-following-years-of-critical-vpn-exploits-pledges-new-era-of-security/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1280292816-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Meta will stop removing harmless AI videos in July.",
-      "publishedAt": "2024-04-05T16:51:50+00:00",
-      "title": "Meta relaxes \u201cincoherent\u201d policy requiring removal of AI videos",
-      "url": "https://arstechnica.com/tech-policy/2024/04/meta-relaxes-incoherent-policy-requiring-removal-of-ai-videos/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1521745047-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "A chemical that we smell may be a composite of multiple smell-making pieces.",
-      "publishedAt": "2024-04-05T16:33:14+00:00",
-      "title": "The science of smell is fragrant with submolecules",
-      "url": "https://arstechnica.com/science/2024/04/the-science-of-smell-is-fragrant-with-sub-molecules/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1302713332-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Ford is selling more EVs than ever, but it wants to build more hybrids instead.",
-      "publishedAt": "2024-04-05T16:19:32+00:00",
-      "title": "Ford cuts EV plans even as it becomes nation\u2019s second-largest EV brand",
-      "url": "https://arstechnica.com/cars/2024/04/fords-q1-ev-sales-grew-86-but-its-shifting-focus-to-hybrids/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Rouge-Electric-Vehicle-Center_23-760x380.jpg"
-    },
-    {
-      "author": "Kate Knibbs, wired.com",
-      "description": "OpenAI has taken down some bots from GPT Store, but copyright complaints continue.",
-      "publishedAt": "2024-04-05T14:27:26+00:00",
-      "title": "Publisher: OpenAI\u2019s GPT Store bots are illegally scraping our textbooks",
-      "url": "https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/openai-logo-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "News you can use in regard to chasing cloud-free skies.",
-      "publishedAt": "2024-04-05T14:01:48+00:00",
-      "title": "Here are the winners and losers when it comes to clouds for Monday\u2019s eclipse",
-      "url": "https://arstechnica.com/space/2024/04/here-are-the-winners-and-losers-when-it-comes-to-clouds-for-mondays-eclipse/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/nbm_cloud_conus-760x380.png"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The $2K bike is aimed at smaller riders who want a manageable cargo e-bike. It delivers.",
-      "publishedAt": "2024-04-05T11:30:54+00:00",
-      "title": "The Maven: A user-friendly, $2K Cargo e-bike perfect for families on the go",
-      "url": "https://arstechnica.com/cars/2024/04/a-cycling-newb-tries-a-cargo-e-bike-the-user-friendly-maven/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/760-Maven-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"The pacing item in our supply chain is the BE-4.\"",
-      "publishedAt": "2024-04-05T11:00:12+00:00",
-      "title": "Rocket Report: Blue Origin to resume human flights; progress for Polaris Dawn",
-      "url": "https://arstechnica.com/space/2024/04/rocket-report-blue-origin-to-resume-human-flights-progress-for-polaris-dawn/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1154159474-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The man had recently visited a country park known for its macaque monkeys.",
-      "publishedAt": "2024-04-04T21:59:20+00:00",
-      "title": "Hong Kong monkey encounter lands man in ICU with rare, deadly virus",
-      "url": "https://arstechnica.com/science/2024/04/hong-kong-monkey-encounter-lands-man-in-icu-with-rare-deadly-virus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-453333782-760x380.jpeg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Although not quite literally, the Atlantic Ocean is on fire right now.",
-      "publishedAt": "2024-04-04T21:14:31+00:00",
-      "title": "It could well be a blockbuster hurricane season, and that\u2019s not a good thing",
-      "url": "https://arstechnica.com/space/2024/04/it-could-well-be-a-blockbuster-hurricane-season-and-thats-not-a-good-thing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/late-march-760x380.jpg"
     }
   ],
   "sortBy": "top",
