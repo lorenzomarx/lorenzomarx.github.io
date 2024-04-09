@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Ron Amadeo",
+      "description": "The one-year wait for Apple's cross-platform safety measures is almost over.",
+      "publishedAt": "2024-04-08T16:28:03+00:00",
+      "title": "Android\u2019s Bluetooth trackers are finally shipping in late May",
+      "url": "https://arstechnica.com/gadgets/2024/04/androids-bluetooth-trackers-are-finally-shipping-in-late-may/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Chipolo-CARD-Point-and-Chipolo-ONE-Point-with-Google-Find-My-Device-Network-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Funding comes after significant delays at Arizona's other fabs.",
+      "publishedAt": "2024-04-08T15:37:23+00:00",
+      "title": "TSMC will build third Arizona fab after winning $6.6B in CHIPS funding",
+      "url": "https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1996274062-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Plaintiffs allege wrongful death, but Tesla says the driver was playing on his phone.",
+      "publishedAt": "2024-04-08T15:26:58+00:00",
+      "title": "Wrongful death trial for Apple engineer killed in Tesla gets underway",
+      "url": "https://arstechnica.com/cars/2024/04/tesla-goes-on-trial-for-apple-engineers-fatal-2018-autopilot-crash/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-2.45.34-PM-760x380.png"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"These are unthinkable numbers, but we\u2019re not breaking any physics to achieve this.\"",
+      "publishedAt": "2024-04-08T15:04:18+00:00",
+      "title": "Elon Musk just gave another Mars speech\u2014this time the vision seems tangible",
+      "url": "https://arstechnica.com/space/2024/04/elon-musk-just-gave-another-mars-speech-this-time-the-vision-seems-tangible/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/starship-3-760x380.jpg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "Their blood equivalent, hemolymph, forms a viscoelastic fluid that covers wounds.",
+      "publishedAt": "2024-04-08T13:47:10+00:00",
+      "title": "How insect blood stops bleeding fast",
+      "url": "https://arstechnica.com/science/2024/04/how-insect-blood-stops-bleeding-fast/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1829388608-760x380.jpg"
+    },
+    {
+      "author": "Bryan Harris and Hannah Murphy, Financial Times",
+      "description": "Brazil threatens to regulate social media owned by \"billionaires domiciled abroad.\"",
+      "publishedAt": "2024-04-08T13:44:58+00:00",
+      "title": "Elon Musk threatens to disobey court order over banned profiles",
+      "url": "https://www.ft.com/content/26e54895-a37d-4ab1-baad-701d5ddcf150",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1243763548-760x380.jpg"
+    },
+    {
       "author": "Michael Teo Van Runkle",
       "description": "Electronic traction control is more important than ever as electric motors proliferate.",
       "publishedAt": "2024-04-08T11:00:51+00:00",
@@ -31,54 +79,6 @@
       "title": "NASA knows what knocked Voyager 1 offline, but it will take a while to fix",
       "url": "https://arstechnica.com/?p=2015200",
       "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "The drug is now unavailable to new patients; its maker to lay off 70% of employees.",
-      "publishedAt": "2024-04-05T22:28:52+00:00",
-      "title": "$158,000 ALS drug pulled from market after failing in large clinical trial",
-      "url": "https://arstechnica.com/?p=2015321",
-      "urlToImage": null
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "It's probably not the Wild West of game emulation you're hoping for. Here's why.",
-      "publishedAt": "2024-04-05T22:14:48+00:00",
-      "title": "Apple now allows retro game emulators on its App Store\u2014but with big caveats",
-      "url": "https://arstechnica.com/gadgets/2024/04/apple-now-allows-retro-game-emulators-on-its-app-store-but-with-big-caveats/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/IMG_6494-760x380.png"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "System would detect paused content on external devices and show ads on top.",
-      "publishedAt": "2024-04-05T21:47:46+00:00",
-      "title": "Roku patent invents a way to show ads over anything you plug into your TV",
-      "url": "https://arstechnica.com/gadgets/2024/04/hdmi-customized-ad-insertion-patent-would-show-rokus-ads-atop-non-roku-video/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Roku-TV-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Timing of a big-screen return to Arrakis mostly depends on director Denis Villeneuve.",
-      "publishedAt": "2024-04-05T21:26:52+00:00",
-      "title": "Will there be a Dune: Part Three? Yes... with caveats on timing",
-      "url": "https://arstechnica.com/culture/2024/04/will-there-be-a-dune-part-three-yes-with-caveats-on-timing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/dune2-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Musk says that \"Reuters is lying (again)\" over reports that the Model 2 is dead.",
-      "publishedAt": "2024-04-05T19:12:14+00:00",
-      "title": "Tesla scraps its plan for a $25,000 Model 2 EV",
-      "url": "https://arstechnica.com/?p=2015231",
-      "urlToImage": null
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Schleswig-Holstein looks to succeed where Munich failed.",
-      "publishedAt": "2024-04-05T19:03:05+00:00",
-      "title": "German state gov. ditching Windows for Linux, 30K workers migrating",
-      "url": "https://arstechnica.com/information-technology/2024/04/german-state-gov-ditching-windows-for-linux-30k-workers-migrating/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-169475683-760x380.jpg"
     }
   ],
   "sortBy": "top",
