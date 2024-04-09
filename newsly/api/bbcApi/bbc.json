@@ -2,51 +2,51 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "The International Atomic Energy Agency warns Russia and Ukraine not to attack nuclear facilities.",
+      "publishedAt": null,
+      "title": "Ukraine war: UN body urges restraint after Zaporizhzhia nuclear plant hit",
+      "url": "https://www.bbc.co.uk/news/world-europe-68757082",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10805/production/_133098576_ce42210bec1773f8224764191ab99438e77290580_90_2533_14251000x563.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The Southwest Airlines flight had to return to Denver International airport shortly after taking off.",
+      "publishedAt": null,
+      "title": "Boeing plane engine cover falls off prompting investigation",
+      "url": "https://www.bbc.co.uk/news/business-68758088",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4AFF/production/_133099191_gettyimages-1207206801.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Iran warns of retaliation for a strike on its Damascus consulate, saying Israeli embassies are no longer safe.",
+      "publishedAt": null,
+      "title": "Israel 'can handle' any threat from Iran, says military chief",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68757080",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1DA5/production/_133098570_b27535c77a1912e7c8437a08e4a2b012dac589310_175_5472_30781000x563.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Forecasters predict heavy cloud cover in some places, but better viewing conditions elsewhere.",
+      "publishedAt": null,
+      "title": "Solar Eclipse: Sky watchers hope for clear weather",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68746702",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F801/production/_133098436_eclipse1.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Israel's military says it has completed its mission in Khan Younis and its troops will rotate out.",
+      "publishedAt": null,
+      "title": "Israel's military confirms 'decline in forces' in southern Gaza",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68755724",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1179B/production/_133097517_gettyimages-2139220443.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "The blackout will give scientists a rare chance to do experiments they cannot do any other time.",
       "publishedAt": null,
       "title": "Total solar eclipse: The 4-minute window into the universe's secrets",
       "url": "https://www.bbc.co.uk/news/science-environment-68742516",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4721/production/_133090281_suneclipse.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The extreme challenge began at South Africa's most southerly point on 22 April, 2023.",
-      "publishedAt": null,
-      "title": "Hardest Geezer: The man who ran the entire length of Africa",
-      "url": "https://www.bbc.co.uk/news/uk-england-sussex-68725446",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13F91/production/_133090818_cook-index.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Peter Pellegrini accused his rival of being a warmonger who would send Slovak soldiers to fight in Ukraine.",
-      "publishedAt": null,
-      "title": "Peter Pellegrini: Russia-friendly populist elected Slovak president",
-      "url": "https://www.bbc.co.uk/news/world-europe-68754112",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F5EF/production/_133095926_0a7915c678057baa3a4844165bf131226c6a5ac90_393_7551_42471000x563.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Tens of thousands are evacuated in northern Kazakhstan, amid warnings that floods are spreading in Russia.",
-      "publishedAt": null,
-      "title": "'Worst floods in decades' hit Kazakhstan and Russia",
-      "url": "https://www.bbc.co.uk/news/world-europe-68756041",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B7F/production/_133097486_gettyimages-2123614069.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Locals start digging up a Copenhagen street as part of a bid to tackle drug-related crime.",
-      "publishedAt": null,
-      "title": "Christiania: A Copenhagen hippy commune fights back against drug gangs",
-      "url": "https://www.bbc.co.uk/news/world-europe-68740282",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9177/production/_133093273_4069ec64-c320-4d18-95eb-9db93f27913c.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "President Paul Kagame addressed world leaders at a ceremony marking 30 years since the brutal killings.",
-      "publishedAt": null,
-      "title": "Rwanda genocide: World failed us in 1994, President Paul Kagame says",
-      "url": "https://www.bbc.co.uk/news/world-africa-68755600",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8907/production/_133097053_gettyimages-2145592006.jpg"
     },
     {
       "author": "BBC News",
@@ -58,11 +58,19 @@
     },
     {
       "author": "BBC News",
-      "description": "The US star of popular TV series 1923 was named a suspect in a domestic violence inquiry last week.",
+      "description": "If you are not lucky enough to live along the route in North America, you can still follow its journey here.",
       "publishedAt": null,
-      "title": "Cole Brings Plenty: Yellowstone 1923 actor found dead in Kansas",
-      "url": "https://www.bbc.co.uk/news/entertainment-arts-68749822",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E573/production/_133093785_colebringsplenty_gettyimages_1024.jpg"
+      "title": "Solar eclipse: Path of darkness - scroll every mile of totality",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68726825",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15993/production/_133076488_eclipse_promo-976-nc.png"
+    },
+    {
+      "author": "BBC News",
+      "description": "President Paul Kagame addressed world leaders at a ceremony marking 30 years since the brutal killings.",
+      "publishedAt": null,
+      "title": "Rwanda genocide: World failed us in 1994, President Paul Kagame says",
+      "url": "https://www.bbc.co.uk/news/world-africa-68755600",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8907/production/_133097053_gettyimages-2145592006.jpg"
     },
     {
       "author": "BBC News",
@@ -70,15 +78,7 @@
       "publishedAt": null,
       "title": "Israel-Gaza briefing: Obstacles to peace seem larger than ever after six months of war",
       "url": "https://www.bbc.co.uk/news/world-middle-east-68735869",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13BDB/production/_133095808_mediaitem133095807.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "A former footballer says he would not change a thing after a hit-and-run driver ran him over.",
-      "publishedAt": null,
-      "title": "Shaun Whiter: 'Losing my legs changed my life for the better'",
-      "url": "https://www.bbc.co.uk/news/uk-england-68615994",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F4E0/production/_133088626_6a8fba87-8c3b-45f3-867b-5a1ee6d3c913.jpg"
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0008/production/_133080000_briefings_promo_bowen_alt.png"
     }
   ],
   "sortBy": "top",
