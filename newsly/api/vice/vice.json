@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Lucy Ford, Andrea Cheng",
+      "content": "Tenby. Photo by Sophie Green",
+      "description": "From coasteering to ziplining.",
+      "publishedAt": "2024-04-10T13:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "12 Things To Do In Wales That Don\u2019t Require Hiking Boots",
+      "url": "https://www.vice.com/en/article/3akwz5/what-to-do-wales-guide",
+      "urlToImage": "https://video-images.vice.com/articles/65f47e403c30475887f6b911/lede/1710950204981-opener-final-jpeg-1440002900r12323a2.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Katharine Sohn, Andrea Cheng",
       "content": "Landrace. Photo by Sophie Green.",
       "description": "From daily pastas to exceptional pastries.",
@@ -54,5 +67,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 4
+  "totalResults": 5
 }
