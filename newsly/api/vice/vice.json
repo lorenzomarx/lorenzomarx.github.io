@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Jack Ramage, Joe Zadeh",
+      "content": "A photo, supplied by an interviewee who wish to remain anonymous, of what appears to be a white mould-like substance in their batch of medicinal cannabis.",
+      "description": "We spoke to medicinal cannabis patients in the UK who say their prescriptions are arriving contaminated.",
+      "publishedAt": "2024-04-11T16:41:56Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Patients Are Finding Big Problems with Their Medical Weed",
+      "url": "https://www.vice.com/en/article/m7bneb/medical-cannabis-uk-issues-mould",
+      "urlToImage": "https://video-images.vice.com/articles/660bdb5c21a8874850093609/lede/1712853595010-gettyimages-2110568832.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDAuMTE3N3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
       "author": "Lucy Ford, Andrea Cheng",
       "content": "Tenby. Photo by Sophie Green",
       "description": "From coasteering to ziplining.",
@@ -67,5 +80,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 5
+  "totalResults": 6
 }
