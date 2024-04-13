@@ -1,8 +1,72 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "Remarkably, SpaceX has launched a Falcon 9 rocket almost every day over the last week.",
+      "publishedAt": "2024-04-12T17:51:00+00:00",
+      "title": "SpaceX\u2019s most-flown reusable rocket will go for its 20th launch tonight",
+      "url": "https://arstechnica.com/space/2024/04/spacexs-most-flown-reusable-rocket-will-go-for-its-20th-launch-tonight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/f9rollfile-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Did anyone want a VPN from the Internet's largest data collector?",
+      "publishedAt": "2024-04-12T17:07:32+00:00",
+      "title": "Google kills \u201cOne\u201d VPN service, says \u201cpeople simply weren\u2019t using it\u201d",
+      "url": "https://arstechnica.com/gadgets/2024/04/google-is-killing-off-its-one-vpn-service/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/google-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "China's EV industry benefits from billions of dollars in government subsidies.",
+      "publishedAt": "2024-04-12T15:46:28+00:00",
+      "title": "\u201cBan Chinese electric vehicles now,\u201d demands US senator",
+      "url": "https://arstechnica.com/cars/2024/04/ban-chinese-electric-vehicles-now-demands-us-senator/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2141102333-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Legal fallout continues following Yuzu lawsuit.",
+      "publishedAt": "2024-04-12T15:33:25+00:00",
+      "title": "Nintendo targets Switch-emulation chat servers, decryption tools with DMCA",
+      "url": "https://arstechnica.com/gaming/2024/04/nintendo-targets-switch-emulation-chat-servers-decryption-tools-with-dmca/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/suyu__Discord-Banner-760x380.png"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "X previously promised to \"evolve\" the \"hide your checkmark\" feature.",
+      "publishedAt": "2024-04-12T15:15:06+00:00",
+      "title": "Elon Musk\u2019s X to stop allowing users to hide their blue checks",
+      "url": "https://arstechnica.com/tech-policy/2024/04/elon-musks-x-to-stop-allowing-users-to-hide-their-blue-checks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1244760380-2-760x380.jpg"
+    },
+    {
+      "author": "Kathrin Hille, Christian Davies, Song Jung-a, and Michael Acton, FT",
+      "description": "TSMC will begin making 2 nm chips in Arizona starting in 2028.",
+      "publishedAt": "2024-04-12T13:38:06+00:00",
+      "title": "TSMC\u2019s $65 billion bet still leaves US missing piece of chip puzzle",
+      "url": "https://www.ft.com/content/10eadba6-f58d-4f88-8ac9-b5180550b7fc",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/tsmc-list-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "9 answers from 8 devs about why combat card games on screens have blown up.",
+      "publishedAt": "2024-04-12T13:31:04+00:00",
+      "title": "Why there are 861 roguelike deckbuilders on Steam all of a sudden",
+      "url": "https://arstechnica.com/gaming/2024/04/why-there-are-861-roguelike-deckbuilders-on-steam-all-of-a-sudden/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/roguelike-deckbuilder-hand-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\u201cWe heard loud and clear from customers they wanted these services.\"",
+      "publishedAt": "2024-04-12T11:00:50+00:00",
+      "title": "Rocket Report: Delta IV\u2019s grand finale; Angara flies another dummy payload",
+      "url": "https://arstechnica.com/space/2024/04/rocket-report-delta-ivs-grand-finale-angara-flies-another-dummy-payload/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/roscosmos1-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
-      "description": "But astronomers puzzled by the lack of signatures of expected heavy elements.",
+      "description": "But astronomers are puzzled by the lack of signatures of expected heavy elements.",
       "publishedAt": "2024-04-12T09:00:09+00:00",
       "title": "A supernova caused the BOAT gamma ray burst, JWST data confirms",
       "url": "https://arstechnica.com/science/2024/04/a-supernova-caused-the-boat-gamma-ray-burst-jwst-data-confirms/",
@@ -15,70 +79,6 @@
       "title": "The Space Force is planning what could be the first military exercise in orbit",
       "url": "https://arstechnica.com/space/2024/04/the-space-force-is-planning-what-could-be-the-first-military-exercise-in-orbit/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/trueanomaly-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A \"nitroplast\" converts nitrogen from the air to a chemically useful form.",
-      "publishedAt": "2024-04-11T23:24:39+00:00",
-      "title": "Researchers find a new organelle evolving",
-      "url": "https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-6.44.11\u202fPM-760x380.png"
-    },
-    {
-      "author": null,
-      "description": "Hyperviolence, strong characters, cool visuals, and some humor make a good show.",
-      "publishedAt": "2024-04-11T22:33:22+00:00",
-      "title": "Three episodes in, the Fallout TV series absolutely nails it",
-      "url": "https://arstechnica.com/?p=2016786",
-      "urlToImage": null
-    },
-    {
-      "author": "Beth Mole",
-      "description": "So far at least six people in two states have fallen ill; four of them were hospitalized.",
-      "publishedAt": "2024-04-11T21:57:30+00:00",
-      "title": "Sketchy Botox shots spark multistate outbreak of botulism-like condition",
-      "url": "https://arstechnica.com/science/2024/04/sketchy-botox-shots-spark-multistate-outbreak-of-botulism-like-condition/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-534988712-760x380.jpeg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Most devs would need to pay out of pocket to host Alexa apps after June.",
-      "publishedAt": "2024-04-11T21:27:59+00:00",
-      "title": "Amazon virtually kills efforts to develop Alexa Skills, disappointing dozens",
-      "url": "https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/amazon-echo-dot-4-hero-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Intel claims 50% more speed when running AI language models vs. the market leader.",
-      "publishedAt": "2024-04-11T20:56:59+00:00",
-      "title": "Intel\u2019s \u201cGaudi 3\u201d AI accelerator chip may give Nvidia\u2019s H100 a run for its money",
-      "url": "https://arstechnica.com/information-technology/2024/04/intels-gaudi-3-ai-accelerator-chip-may-give-nvidias-h100-a-run-for-the-money/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/newsroom-intel-gaudi-3-2.jpg.rendition.intel_.web_.1648.927-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Proposed law would require more transparency from AI companies.",
-      "publishedAt": "2024-04-11T20:09:32+00:00",
-      "title": "US lawmaker proposes a public database of all AI training material",
-      "url": "https://arstechnica.com/tech-policy/2024/04/us-lawmaker-proposes-a-public-database-of-all-ai-training-material/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1624663882-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Playtron's SuiPlay0X1 is a \"web3 gaming\" fever dream I thought we'd all woken up from.",
-      "publishedAt": "2024-04-11T19:53:57+00:00",
-      "title": "No one needs this cryptocurrency-powered Steam Deck competitor",
-      "url": "https://arstechnica.com/gaming/2024/04/no-one-needs-this-cryptocurrency-powered-steam-deck-competitor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/unnamed-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Automatic text replacement let users spoof URLs ending in x, like netflix.com.",
-      "publishedAt": "2024-04-11T19:30:08+00:00",
-      "title": "Elon Musk\u2019s X botched an attempt to replace \u201ctwitter.com\u201d links with \u201cx.com\u201d",
-      "url": "https://arstechnica.com/tech-policy/2024/04/elon-musks-x-botched-an-attempt-to-replace-twitter-com-links-with-x-com/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-x-headquarters-760x380.jpg"
     }
   ],
   "sortBy": "top",
