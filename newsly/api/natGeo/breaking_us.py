@@ -9,5 +9,5 @@ response = requests.get("https://newsapi.org/v2/top-headlines?country=us&apiKey=
 data = response.json()
 
 
-with open('breaking_us.json', 'w') as outfile:
+with open('breaking.json', 'w') as outfile:
     json.dump(data, outfile,indent=2, sort_keys=True)
