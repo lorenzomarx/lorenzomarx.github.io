@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "The shortages affect everything from generic cancer drugs to ADHD medication.",
+      "publishedAt": "2024-04-12T22:20:44+00:00",
+      "title": "US drug shortages reach record high with 323 meds now in short supply",
+      "url": "https://arstechnica.com/science/2024/04/us-drug-shortages-reach-record-high-with-323-meds-now-in-short-supply/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1815420209-760x380.jpeg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "For media pros' cameras and laptops.",
+      "publishedAt": "2024-04-12T21:23:38+00:00",
+      "title": "SD cards finally expected to hit 4TB in 2025",
+      "url": "https://arstechnica.com/gadgets/2024/04/sd-cards-finally-expected-to-hit-4tb-in-2025/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1343097220-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "No patch yet for unauthenticated code-execution bug in Palo Alto Networks firewall.",
+      "publishedAt": "2024-04-12T20:48:47+00:00",
+      "title": "\u201cHighly capable\u201d hackers root corporate networks by exploiting firewall 0-day",
+      "url": "https://arstechnica.com/?p=2017043",
+      "urlToImage": null
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Gemini 1.5 Pro launch, new version of GPT-4 Turbo, new Mistral model, and more.",
+      "publishedAt": "2024-04-12T20:31:08+00:00",
+      "title": "Words are flowing out like endless rain: Recapping a busy week of LLM news",
+      "url": "https://arstechnica.com/information-technology/2024/04/words-are-flowing-out-like-endless-rain-recapping-a-busy-week-of-llm-news/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/flying_letters-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The motive for the alleged data manipulation is unknown.",
+      "publishedAt": "2024-04-12T19:41:47+00:00",
+      "title": "Texas surgeon accused of secretly blocking patients from getting transplants",
+      "url": "https://arstechnica.com/science/2024/04/texas-surgeon-accused-of-secretly-blocking-patients-from-getting-transplants/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/1592789498488-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Google should be barred from \u201ctreating Epic differently,\u201d Epic Games says.",
+      "publishedAt": "2024-04-12T18:43:24+00:00",
+      "title": "Google mocks Epic\u2019s proposed reforms to end Android app market monopoly",
+      "url": "https://arstechnica.com/tech-policy/2024/04/epic-submits-wish-list-of-google-reforms-ahead-of-games-store-android-launch/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1240267006-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "A nifty HDD disassembly tool, sure, but we also have a larger global need for magnets.",
+      "publishedAt": "2024-04-12T18:14:03+00:00",
+      "title": "The DiskMantler violently shakes hard drives for better rare-earth recovery",
+      "url": "https://arstechnica.com/gadgets/2024/04/the-diskmantler-violently-shakes-hard-drives-for-better-rare-earth-recovery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/shakedown_thumb-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "Remarkably, SpaceX has launched a Falcon 9 rocket almost every day over the last week.",
       "publishedAt": "2024-04-12T17:51:00+00:00",
@@ -17,68 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/google-760x380.jpg"
     },
     {
-      "author": "Jonathan M. Gitlin",
+      "author": null,
       "description": "China's EV industry benefits from billions of dollars in government subsidies.",
       "publishedAt": "2024-04-12T15:46:28+00:00",
       "title": "\u201cBan Chinese electric vehicles now,\u201d demands US senator",
-      "url": "https://arstechnica.com/cars/2024/04/ban-chinese-electric-vehicles-now-demands-us-senator/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2141102333-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Legal fallout continues following Yuzu lawsuit.",
-      "publishedAt": "2024-04-12T15:33:25+00:00",
-      "title": "Nintendo targets Switch-emulation chat servers, decryption tools with DMCA",
-      "url": "https://arstechnica.com/gaming/2024/04/nintendo-targets-switch-emulation-chat-servers-decryption-tools-with-dmca/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/suyu__Discord-Banner-760x380.png"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "X previously promised to \"evolve\" the \"hide your checkmark\" feature.",
-      "publishedAt": "2024-04-12T15:15:06+00:00",
-      "title": "Elon Musk\u2019s X to stop allowing users to hide their blue checks",
-      "url": "https://arstechnica.com/tech-policy/2024/04/elon-musks-x-to-stop-allowing-users-to-hide-their-blue-checks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1244760380-2-760x380.jpg"
-    },
-    {
-      "author": "Kathrin Hille, Christian Davies, Song Jung-a, and Michael Acton, FT",
-      "description": "TSMC will begin making 2 nm chips in Arizona starting in 2028.",
-      "publishedAt": "2024-04-12T13:38:06+00:00",
-      "title": "TSMC\u2019s $65 billion bet still leaves US missing piece of chip puzzle",
-      "url": "https://www.ft.com/content/10eadba6-f58d-4f88-8ac9-b5180550b7fc",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/tsmc-list-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "9 answers from 8 devs about why combat card games on screens have blown up.",
-      "publishedAt": "2024-04-12T13:31:04+00:00",
-      "title": "Why there are 861 roguelike deckbuilders on Steam all of a sudden",
-      "url": "https://arstechnica.com/gaming/2024/04/why-there-are-861-roguelike-deckbuilders-on-steam-all-of-a-sudden/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/roguelike-deckbuilder-hand-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\u201cWe heard loud and clear from customers they wanted these services.\"",
-      "publishedAt": "2024-04-12T11:00:50+00:00",
-      "title": "Rocket Report: Delta IV\u2019s grand finale; Angara flies another dummy payload",
-      "url": "https://arstechnica.com/space/2024/04/rocket-report-delta-ivs-grand-finale-angara-flies-another-dummy-payload/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/roscosmos1-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "But astronomers are puzzled by the lack of signatures of expected heavy elements.",
-      "publishedAt": "2024-04-12T09:00:09+00:00",
-      "title": "A supernova caused the BOAT gamma ray burst, JWST data confirms",
-      "url": "https://arstechnica.com/science/2024/04/a-supernova-caused-the-boat-gamma-ray-burst-jwst-data-confirms/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/gamma1-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"The vendors will exercise a realistic threat response scenario.\"",
-      "publishedAt": "2024-04-12T00:05:03+00:00",
-      "title": "The Space Force is planning what could be the first military exercise in orbit",
-      "url": "https://arstechnica.com/space/2024/04/the-space-force-is-planning-what-could-be-the-first-military-exercise-in-orbit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/trueanomaly-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2016899",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
