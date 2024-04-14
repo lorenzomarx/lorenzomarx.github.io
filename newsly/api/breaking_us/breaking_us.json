@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": null,
+      "content": null,
+      "description": "Israel says it is ready to defend itself against retaliation for an attack on an Iranian consulate in Syria.",
+      "publishedAt": "2024-04-13T08:38:40Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Joe Biden expects Iran to attack Israel 'sooner than later' - BBC.com",
+      "url": "https://www.bbc.com/news/world-middle-east-68796363",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72A9/production/_133135392_gettyimages-2147750517.jpg"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Hezbollah said it has fired dozens of rockets at Israeli artillery positions in response to the Israeli militarys strikes in southern Lebanon, in one of its largest assaults since the start of the wa\u2026 [+2961 chars]",
+      "description": "Attacks by Iran-aligned group come as Israel anticipates an Iranian response to an air strike on its Syria consulate.",
+      "publishedAt": "2024-04-13T08:33:12Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Lebanon\u2019s Hezbollah fires \u2018dozens of rockets\u2019 at Israeli positions - Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2024/4/13/lebanons-hezbollah-fires-dozens-of-rockets-at-israeli-positions",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20240408__34NW4AW__v2__HighRes__IsraelLebanonConflictPalestinian-1712991377.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Sandi Sidhu, Sophie Tanno",
       "content": "Five people have been killed in a mass stabbing at a busy shopping center in Sydney, Australian police said.\r\nPolice were called to Westfield Bondi Junction on Saturday afternoon local time following\u2026 [+2219 chars]",
       "description": "One man was shot and multiple people were stabbed at a Sydney shopping center on Saturday, Australian police said.",
@@ -14,17 +40,43 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2147763119.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": null,
-      "content": null,
-      "description": "In the lead-up to UFC 300, fighters prepare for the pivotal weigh-ins at UFC Apex before intense face-offs at MGM Grand Garden Arena, setting the stage for a...",
-      "publishedAt": "2024-04-13T04:50:56Z",
+      "author": "Elisabetta Bianchini",
+      "content": "While many films seem to strive to be anti-war movies, many fall into a category of Apocalypse Now, that almost romanticize war. For Alex Garland, an element of making Civil War (now in theatres), st\u2026 [+6542 chars]",
+      "description": "For Civil War, with Kirsten Dunst, Cailee Spaeny, Wagner Moura, Stephen McKinley Henderson, Alex Garland figured out how to make a real anti-war film.",
+      "publishedAt": "2024-04-13T06:56:15Z",
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Yahoo Entertainment"
       },
-      "title": "UFC 300 Embedded: Vlog Series - Episode 6 - UFC",
-      "url": "https://www.youtube.com/watch?v=pGg7ddGmvg4",
-      "urlToImage": "https://i.ytimg.com/vi/pGg7ddGmvg4/maxresdefault.jpg"
+      "title": "'Civil War': Alex Garland makes a real anti-war movie, starring Kirsten Dunst and Cailee Spaeny - Yahoo News Canada",
+      "url": "https://ca.news.yahoo.com/civil-war-alex-garland-makes-a-real-anti-war-movie-starring-kirsten-dunst-and-cailee-spaeny-021234395.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AYC8ux.rBuYDjFIPdCLlrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/02397fe0-f91b-11ee-ac4c-2f404f10098b"
+    },
+    {
+      "author": "Vivian Chow",
+      "content": "A woman recalls the terrifying moment she was nearly beaten to death by an attacker while walking along the canals of Venice, California.\r\nOn April 6, the victim, Mary Klein, 54, was walking near her\u2026 [+4509 chars]",
+      "description": "A woman recalls the terrifying moment she was nearly beaten to death by an attacker while walking along the canals of Venice, California. On April 6, the victim, Mary Klein, 54, was walking near her home at around 10:30 p.m. when a man suddenly ambushed her f\u2026",
+      "publishedAt": "2024-04-13T05:18:28Z",
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "title": "Woman recalls being nearly beaten to death by Venice canal attacker - KTLA Los Angeles",
+      "url": "https://ktla.com/news/local-news/woman-recalls-being-nearly-beaten-to-death-by-venice-canal-attacker/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/04/mary-klein-1.jpg?w=1280"
+    },
+    {
+      "author": "Georgia Nicols",
+      "content": "Moon Alert\r\nAvoid shopping or important decisions from 9:30 a.m. to 1 p.m. Chicago time. After that, the moon moves from Gemini into Cancer.\r\nAries (March 21-April 19)\r\nInitially today, you might hav\u2026 [+3723 chars]",
+      "description": null,
+      "publishedAt": "2024-04-13T05:03:47Z",
+      "source": {
+        "id": null,
+        "name": "Suntimes.com"
+      },
+      "title": "Horoscope for Saturday, April 13, 2024 - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/horoscopes/2024/04/13/horoscopes-today-saturday-april-13-2024",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/6c76c7b/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2F98%2Fa7273aee174fc13644eaa681096d%2Fgeorgia-nicols.jpg"
     },
     {
       "author": null,
@@ -40,32 +92,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4FF9/production/_133137402_mediaitem133137401.jpg"
     },
     {
-      "author": "MICHAEL R. SISAK, ERIC TUCKER",
-      "content": "NEW YORK (AP) It was the kind of tawdry tale Donald Trump mightve relished before politics: a porn actress claiming theyd had sex.\r\nBut on the eve of the 2016 presidential election, Trump feared the \u2026 [+7588 chars]",
-      "description": "It was the kind of tawdry tale Donald Trump might\u2019ve shrugged off before his life in politics: a porn actress claiming they\u2019d had sex. But on the eve of the 2016 presidential election, Trump feared the story would cost him votes. So, prosecutors say he arrang\u2026",
-      "publishedAt": "2024-04-13T04:00:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "How a hush money scandal tied to a porn star led to Trump's first criminal trial - The Associated Press",
-      "url": "https://apnews.com/article/donald-trump-michael-cohen-stormy-daniels-e40532d3bce7768e296fdaf9591ef05b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d039f47/2147483647/strip/true/crop/2000x1125+0+105/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2Fe9%2Fd15a3b380c9e451f4541932f3f18%2F6bbac647cf8e4be5b65e28196d65ba53"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Andy North joins SportsCenter to detail the tight race for who win the 2024 Masters after Day 2 at Augusta National.\u2714\ufe0fSubscribe to ESPN+ http://espnplus.com/...",
-      "publishedAt": "2024-04-13T03:55:48Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "MASTERS DAY 2 RECAP \u26f3\ufe0f Tiger Woods makes HISTORY & 3-way tie for the lead | SportsCenter - ESPN",
-      "url": "https://www.youtube.com/watch?v=8KOQGiqVZ_4",
-      "urlToImage": "https://i.ytimg.com/vi/8KOQGiqVZ_4/maxresdefault.jpg"
-    },
-    {
       "author": "Web Desk",
       "content": "Doctors see surge in eye-related injuries days after Total Solar Eclipse.\u00a0\r\nIt hasnt been long since the day when some lucky Earthlings witnessed this years Total Solar Eclipse but doctors, in areas \u2026 [+1848 chars]",
       "description": "It hasn\u2019t been long since the day when some lucky Earthlings witnessed this year\u2019s Total Solar Eclipse but doctors, in areas that fell in the path of totality, have reported a surge in cases of...",
@@ -79,17 +105,56 @@
       "urlToImage": "https://www.geo.tv/assets/uploads/updates/2024-04-12/l_538866_023754_updates.jpg"
     },
     {
-      "author": "Mariana Alfaro, Sabrina Rodriguez",
-      "content": "Democrats went on the attack in Arizona on Friday against Republicans over their apparent about-face on abortion rights and vowed to keep the issue front and center in the swing state that could sway\u2026 [+6353 chars]",
-      "description": "Democrats in Arizona went on the attack against Republicans over their apparent about-face on abortion rights.",
-      "publishedAt": "2024-04-13T03:32:00Z",
+      "author": "Deutsche Welle",
+      "content": "Argentine President Javier Milei met tech billionaire Elon Musk on Friday at a Tesla plant in Austin, Texas, where they agreed on the \"need to free markets.\"\r\nMusk shared an image of the two on his m\u2026 [+2332 chars]",
+      "description": "The two like-minded men bonded over free markets and the need to defend liberty. Argentina, which is undergoing economic reforms, is home to lithium deposits required for rechargeable batteries like those in Teslas.",
+      "publishedAt": "2024-04-13T03:33:14Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "DW (English)"
       },
-      "title": "Voters in Arizona reminded of Trump and Republicans\u2019 role in abortion bans - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2024/04/12/arizona-senate-trump-abortion/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-12-2024/t_4294657fc7db43a78459aa5590edb95c_name_NCSDQ2I5JEDVBDKBQOAAFTLWU4_scaled.jpg&w=1440"
+      "title": "Argentina's Milei meets Elon Musk at Tesla factory - DW (English)",
+      "url": "https://www.dw.com/en/argentinas-milei-meets-elon-musk-at-tesla-factory/a-68809179",
+      "urlToImage": "https://static.dw.com/image/68809150_6.jpg"
+    },
+    {
+      "author": "Noah Kirsch",
+      "content": "Donald Trumps acolytes gathered at Mar-a-Lago on Wednesday evening to celebrate the public listing of his social media firm, even as the companys stock continued to crater. Under the Palm Beach sky, \u2026 [+3581 chars]",
+      "description": "But some are holding out hope that Donald Trump\u2019s hyping of the company means better days are ahead.",
+      "publishedAt": "2024-04-13T03:28:00Z",
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "title": "Truth Social Investors Try to Keep Hope Alive as Stock Tanks - The Daily Beast",
+      "url": "https://www.thedailybeast.com/truth-social-investors-try-to-keep-hope-alive-as-stock-tanks",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1712942547/240412-trump-truth-social-stocks-tank-hero_qup4mr"
+    },
+    {
+      "author": null,
+      "content": "CHAPPELL HILL, Texas (KTRK) -- Family of the Chappell Hill man accused of driving a stolen 18-wheeler into the Brenham DPS office says he was traumatized by a car crash several years prior.\r\nLena Ran\u2026 [+1459 chars]",
+      "description": "A family member of the 42-year-old Parker, who is accused of crashing into the Brenham DPS office on Friday, said that he was usually silent in the aftermath of a car crash. \"If he ever gets upset, you never know that,\" Parker's sister told ABC13.",
+      "publishedAt": "2024-04-13T02:29:21Z",
+      "source": {
+        "id": null,
+        "name": "KTRK-TV"
+      },
+      "title": "Clenard Parker accused of allegedly ramming a stolen 18-wheeler into Brenham DPS office, 'traumatized' by years-old car crash - KTRK-TV",
+      "url": "https://abc13.com/family-members-of-clenard-parker-arrested-man-accused-ramming-a-stolen-18-wheeler-into-the-texas-dps-office-in-brenham/14654223/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14654699_041224-ktrk-ewn-brenham-dps-suspect-messed-up-by-car-crash-10pm-LJO-justin-vid.jpg?w=1600"
+    },
+    {
+      "author": "Stepheny Price, Maria Paronich",
+      "content": "The defense team for former President Trump is challenging the jury selection in his criminal hush money trial, saying there are concerning issues that need to be addressed.\u00a0\r\nTrump's defense submitt\u2026 [+3456 chars]",
+      "description": "Judge Juan Merchan denied Trump's motion for a delay as his defense submitted a pre-trial letter challenging the jury selection just days before the trial begins in New York City.",
+      "publishedAt": "2024-04-13T02:21:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Trump defense challenges jury selection in criminal hush money trial - Fox News",
+      "url": "https://www.foxnews.com/politics/trump-defense-challenges-jury-selection-criminal-hush-money-trial",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/GettyImages-2112635882.jpg"
     },
     {
       "author": "JENNIFER SINCO KELLEHER Associated Press",
@@ -105,43 +170,17 @@
       "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
     },
     {
-      "author": "Garrett Phillips",
-      "content": "Related video: Governor Ron DeSantis signs new bills aimed at protecting children\r\nTAMPA, Fla. (WFLA) Florida Gov. Ron DeSantis signed a bill Thursday barring local governments from requiring heat pr\u2026 [+1821 chars]",
-      "description": "Thursday night, Governor DeSantis signed a Florida bill barring local governments from requiring heat protection for outdoor workers.",
-      "publishedAt": "2024-04-13T02:06:59Z",
+      "author": "Amrita Khalid",
+      "content": "Galaxy AI features are coming to last-gen Samsung phones including the S21 series\r\nGalaxy AI features are coming to last-gen Samsung phones including the S21 series\r\n / Instant Slow-Mo will remain un\u2026 [+1343 chars]",
+      "description": "Samsung\u2019s flagship phones from 2022 will receive a special version of Galaxy AI in early May. Circle to Search and Magic Rewrite are also coming to select 2021 models.",
+      "publishedAt": "2024-04-13T01:18:00Z",
       "source": {
-        "id": null,
-        "name": "Newsnationnow.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "title": "DeSantis signs bill banning outdoor worker heat protection laws - NewsNation Now",
-      "url": "https://www.newsnationnow.com/politics/desantis-signs-bill-banning-worker-heat-protection-laws/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/04/State-Watch-DeSantis_031524_AP_Phil-Sears.jpg?w=1280"
-    },
-    {
-      "author": "Jeff Vinton",
-      "content": "TEMPE, Ariz. The Arizona Coyotes players were told they are moving to Salt Lake City in a meeting before their game in Edmonton Friday, according to a new report from PHNX Sports' Craig Morgan. \u00a0\r\nTh\u2026 [+5332 chars]",
-      "description": "A new report from PHNX Sports' Craig Morgan says the players were told in a meeting that they will be leaving the Valley. Here is the latest.",
-      "publishedAt": "2024-04-13T02:00:00Z",
-      "source": {
-        "id": null,
-        "name": "12news.com KPNX"
-      },
-      "title": "Report: Arizona Coyotes players told they are moving to Salt Lake City - 12news.com KPNX",
-      "url": "https://www.12news.com/article/sports/nhl/coyotes/report-arizona-coyotes-moving-to-salt-lake-city/75-7411b07d-bc01-4335-adcd-4b6cde8f7044",
-      "urlToImage": "https://media.12news.com/assets/KPNX/images/bde44aa6-833d-4ac3-ac8c-05ba0aadae7a/bde44aa6-833d-4ac3-ac8c-05ba0aadae7a_1140x641.jpg"
-    },
-    {
-      "author": "Deanna Clement",
-      "content": "BREVARD COUNTY, Fla. \u2014A SpaceX launch went up Friday night.\r\nAt the Cape Canaveral Space Force Station, 23 Starlink satellites were sent into orbit during a Falcon 9 launch. \r\nThe launch took off at \u2026 [+113 chars]",
-      "description": "A SpaceX launch went up Friday night.",
-      "publishedAt": "2024-04-13T01:58:00Z",
-      "source": {
-        "id": null,
-        "name": "WESH Orlando"
-      },
-      "title": "SpaceX launches Starlink satellites from Cape Canaveral - WESH 2 Orlando",
-      "url": "https://www.wesh.com/article/spacex-cape-canaveral-launch-starlink/60485542",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/spacex-64f5444264b71.jpg?crop=0.930xw:1.00xh;0.0359xw,0&resize=1200:*"
+      "title": "Galaxy AI features are coming to last-gen Samsung phones \u2014 including the S21 series - The Verge",
+      "url": "https://www.theverge.com/2024/4/12/24128914/samsung-galaxy-ai-features-s21-s22-series-phones-update",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3G6RLbAsOcXuy_X6HTvCs0sNRvY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23227009/vpavic_220201_5008_0040.jpg"
     },
     {
       "author": null,
@@ -157,56 +196,30 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15DBC/production/_133123598_e50f4559-6613-4f66-bd62-f592cf8380c6.jpg"
     },
     {
-      "author": "Sean Martin",
-      "content": "Tiger Woods during the second round of the 2024 Masters Tournament. (Ben Jared/PGA TOUR))AUGUSTA, Ga. The second day of the 88th Masters was never going to be kind to Tiger Woods. It was an intersect\u2026 [+6397 chars]",
-      "description": "AUGUSTA, Ga. \u2013 The second day of the 88th Masters was never going to be kind to Tiger Woods. It was an intersection of worst-case scenarios, with Woods having t",
-      "publishedAt": "2024-04-13T00:40:58Z",
+      "author": null,
+      "content": null,
+      "description": "The designer, famed for his animal prints on leather and textiles, died at home in Florence.",
+      "publishedAt": "2024-04-13T00:04:42Z",
       "source": {
         "id": null,
-        "name": "pgatour.com"
+        "name": "BBC News"
       },
-      "title": "Tiger Woods makes cut at Masters, breaks all-time record with 24 consecutive cuts - PGA TOUR - PGA TOUR",
-      "url": "https://www.pgatour.com/article/news/latest/2024/04/12/tiger-woods-makes-cut-masters-tournament-augusta-national-breaks-record-most-consecutive-cuts",
-      "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2024/04/12/tiger-woods-cut-streak-new.jpg"
+      "title": "Roberto Cavalli: Italian fashion designer dies aged 83 - BBC.com",
+      "url": "https://www.bbc.com/news/world-europe-68801294",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7303/production/_133134492_gettyimages-457732058.jpg"
     },
     {
-      "author": "Brody Ford",
-      "content": "Salesforce Inc., the top maker of customer relations software, is in advanced talks to acquire Informatica Inc., the Wall Street Journal reportedBloomberg Terminal\r\n, citing people familiar with the \u2026 [+338 chars]",
-      "description": "Salesforce Inc., the top maker of customer relations software, is in advanced talks to acquire Informatica Inc., the Wall Street Journal reported, citing people familiar with the discussions.",
-      "publishedAt": "2024-04-13T00:21:00Z",
+      "author": "Steven Marrocco",
+      "content": "In their final UFC 300 faceoff, Alex Pereira and Jamahal Hill locked eyes and traded predictions of their opponents downfall on Saturday night. \r\nHill, facing boos from the crowd, shrugged off his re\u2026 [+1658 chars]",
+      "description": "Watch the final UFC 300 faceoff between Alex Pereira and Jamahal Hill. The Brazilian light heavyweight champ promises to make Hill answer for a slight at the press conference.",
+      "publishedAt": "2024-04-12T23:54:09Z",
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "MMA Fighting"
       },
-      "title": "Salesforce in Talks to Buy Informatica, Wall Street Journal Says - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2024-04-13/salesforce-in-talks-to-buy-informatica-wall-street-journal-says",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLbXUhbLkUgA/v0/1200x799.jpg"
-    },
-    {
-      "author": null,
-      "content": "Former President Donald Trump and House Speaker Mike Johnson raised concerns Friday about the integrity of US elections in a joint appearance at Mar-a-Lago that featured false claims about voting, im\u2026 [+7377 chars]",
-      "description": "Former President Donald Trump and House Speaker Mike Johnson raised concerns Friday about the integrity of US elections, in a joint appearance at Mar-a-Lago that featured false claims about voting.",
-      "publishedAt": "2024-04-12T23:54:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Fact checking Trump and Johnson\u2019s election integrity announcement - CNN",
-      "url": "https://www.cnn.com/2024/04/12/politics/fact-check-trump-johnson-elections/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24103765261238.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Cara Tabachnick",
-      "content": "A big rig plowed into a Texas Department of Public Safety office in an apparent \"intentional\" act, officials said Friday. One person was killed and at least a dozen people were injured, said DPS Sgt.\u2026 [+3029 chars]",
-      "description": "The 18-wheeler was stolen and crashed into the office in Brenham in a \"deliberate, heinous act,\" said Texas State Sen. Lois Kolkhorst.",
-      "publishedAt": "2024-04-12T23:53:13Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "1 killed, several injured when big rig plows into Texas Department of Public Safety office in apparent \"intentional\" act, officials say - CBS News",
-      "url": "https://www.cbsnews.com/news/truck-crash-texas-department-of-public-safety-intentional-injuries-brenham/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/12/c5a0bcb4-59b7-4fde-b737-8e0829e71a5b/thumbnail/1200x630g6/677b242ae7d9f4b690f3c946b0a88d6f/ap24103683195145.jpg?v=c0ff3069549804234360eec4c5e30dea"
+      "title": "Alex Pereira vows to make Jamahal Hill pay for UFC 300 press conference slight - MMA Fighting",
+      "url": "https://www.mmafighting.com/2024/4/12/24128943/alex-pereira-vows-to-make-jamahal-hill-pay-for-ufc-300-press-conference-slight",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rr4UVQUrsgbEVPBxvmFNSsc0wjA=/0x28:5851x3091/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25391782/2148454603.jpg"
     },
     {
       "author": "Nina Wu",
@@ -222,45 +235,32 @@
       "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2024/04/web1_dengue.jpg"
     },
     {
-      "author": "Ali Harb",
-      "content": "Washington, DC United States President Joe Biden had a brief but stern warning for Iran as it promised to retaliate against Israel for a deadly air raid on its consulate in Damascus: Dont.\r\nBut analy\u2026 [+7711 chars]",
-      "description": "Biden\u2019s \u2018ironclad\u2019 backing of Israel is coming into conflict with stated US goal of averting regional war, analysts say.",
-      "publishedAt": "2024-04-12T23:46:55Z",
+      "author": "Zac Anderson",
+      "content": "Former President Donald Trump gave House Speaker Mike Johnson a political lifeline Friday amid discontent with his leadership among conservatives in the House, saying, I stand with the speaker, weve \u2026 [+6941 chars]",
+      "description": "Trump and Johnson met in Palm Beach Friday as the House speaker faces pressure from the right. Trump said, \"I stand with the speaker.\"",
+      "publishedAt": "2024-04-12T23:37:30Z",
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "title": "\u2018Disastrous\u2019: Israel-Iran tensions test limits of US policy amid Gaza war - Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2024/4/12/disastrous-israel-iran-tensions-test-limits-of-us-policy-amid-gaza-war",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/2024-04-12T212914Z_2082068738_RC2757AZLV4E_RTRMADP_3_USA-BIDEN-WEALTH-GAP-1712962104.jpg?resize=1920%2C1440"
+      "title": "Donald Trump backs Mike Johnson amid calls from right for his ouster - USA TODAY",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2024/04/12/donald-trump-backs-mike-johnson-in-battle-with-conservatives/73292141007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/12/USAT/73307874007-gty-2148449851.jpg?crop=5999,3375,x0,y0&width=3200&height=1801&format=pjpg&auto=webp"
     },
     {
-      "author": "Lauren Milici",
-      "content": "Prime Video's live-action TV adaptation of Fallout is visually stunning \u2013 and those wild desert sets are real.\r\nRather than throw some sand under a green screen, The Wasteland was shot in Namibia on \u2026 [+1444 chars]",
-      "description": "Anyone fancy a trip to the Namib desert?",
-      "publishedAt": "2024-04-12T23:38:25Z",
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
       "source": {
         "id": null,
-        "name": "GamesRadar+"
+        "name": "[Removed]"
       },
-      "title": "Fallout TV show didn't need to use CGI to create the Wasteland because it found the perfect real-life location - Gamesradar",
-      "url": "https://www.gamesradar.com/fallout-tv-show-wasteland-namib-desert/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2XyXWE5C8p2EDRds5TcQrM-1200-80.jpg"
-    },
-    {
-      "author": "Lydia Hu",
-      "content": "U.S. Steel shareholders approved the $14.1 billion controversial takeover by Japanese-owned Nippon Steel.\u00a0\r\nMore than 98% of the shares voted at Friday\u2019s meeting to approve the merger, making up abou\u2026 [+6175 chars]",
-      "description": "Japan's Nippon Steel cleared one hurdle in acquiring U.S. Steel with a key vote on Friday, even as lawmakers raise red flags about foreign ownership of an American company.",
-      "publishedAt": "2024-04-12T23:25:50Z",
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "title": "US Steel shareholders vote on controversial Nippon deal - Fox Business",
-      "url": "https://www.foxbusiness.com/markets/us-steel-shareholders-vote-on-controversial-nippon-deal",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Nippon-Steel-Wheeling.jpg?ve=1&tl=1"
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
     }
   ],
   "status": "ok",
-  "totalResults": 38
+  "totalResults": 36
 }
