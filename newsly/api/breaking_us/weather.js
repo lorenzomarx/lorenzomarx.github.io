@@ -1,4 +1,4 @@
-var urlNews = "https://lorenzomarx.github.io/newsly/api/natGeo/breaking.json";
+var urlNews = "https://lorenzomarx.github.io/newsly/api/breaking_us/breaking_us.json";
 
 
 function setup() {
