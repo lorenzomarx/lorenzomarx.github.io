@@ -2,6 +2,14 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "World leaders are scrambling to prevent the Middle East entering a damaging wider conflict.",
+      "publishedAt": null,
+      "title": "Bowen: As Israel debates Iran attack response, can US and allies stop slide into all-out war?",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68812884",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F8BA/production/_133147636_6ca494d8fc357144c514f14fee81bf24d6eb36990_33_4776_26871000x563.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "Joel Cauchi, 40, fatally stabbed five women and a man at Westfield Bondi Junction mall on Saturday.",
       "publishedAt": null,
       "title": "Westfield Bondi mall attack: Sydney knife suspect identified by police",
@@ -10,11 +18,11 @@
     },
     {
       "author": "BBC News",
-      "description": "Israel says 99% percent of projectiles fired at it by Iran overnight were intercepted by it and its allies.",
+      "description": "Iran's attack on Israel marks a major escalation in a long-running shadow war between the two nations.",
       "publishedAt": null,
-      "title": "What was in wave of Iranian attacks and how were they thwarted?",
-      "url": "https://www.bbc.co.uk/news/world-middle-east-68811273",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E3A2/production/_133147285_a43875c12c311114a193954d7c35559a7cfdce020_106_4243_23871000x563.jpg"
+      "title": "Why has Iran attacked Israel?",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68811276",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/46A4/production/_133148081_6597d58888d3637cf86bf3e64048f12b5fad90a90_0_2000_13341000x667.jpg"
     },
     {
       "author": "BBC News",
@@ -34,30 +42,6 @@
     },
     {
       "author": "BBC News",
-      "description": "The female officer singlehandedly pursued and killed a man in Sydney after he fatally stabbed six people.",
-      "publishedAt": null,
-      "title": "Australia PM hails cop who shot Sydney attacker as 'a hero'",
-      "url": "https://www.bbc.co.uk/news/world-australia-68806806",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6011/production/_133139542_gettyimages-2147763247.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "A new, easier version of the traditional word game leaves us asking: What are board games for?",
-      "publishedAt": null,
-      "title": "Scrabble Together: 'It feels a bit like cheating'",
-      "url": "https://www.bbc.co.uk/news/uk-68801704",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C3B/production/_133136727_index-promo.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "President Joe Biden met promptly with US national security officials after Iran launched its attack.",
-      "publishedAt": null,
-      "title": "US shoots down Iranian drones bound for Israel",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68810519",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/543C/production/_133146512_glfoc2exaaa2uqy.jpg"
-    },
-    {
-      "author": "BBC News",
       "description": "Experts are split over the strength of NY prosecutor Alvin Bragg's case, which relies on a novel legal strategy.",
       "publishedAt": null,
       "title": "Trump New York hush money trial is far from a slam dunk",
@@ -66,19 +50,35 @@
     },
     {
       "author": "BBC News",
-      "description": "At its height, Little Chef had 439 restaurants across the UK but just two decades later they were all gone.",
-      "publishedAt": null,
-      "title": "Little Chefs: What happened to roadside diner chain",
-      "url": "https://www.bbc.co.uk/news/business-68796980",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16D99/production/_133139539_image-4.png"
-    },
-    {
-      "author": "BBC News",
       "description": "Russia is following up initial attacks with repeat strikes targeting rescuers treating the wounded.",
       "publishedAt": null,
       "title": "Ukraine war: Russian double-tap strikes hit civilians then rescuers too",
       "url": "https://www.bbc.co.uk/news/world-europe-68761490",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7CE4/production/_133127913_e4e98231b87fcb47d534d24970273e04ccb4eb510_143_3870_21763870x2176.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The 88-year-old has served in the role for 50 years and is handing over to the Duke of Edinburgh.",
+      "publishedAt": null,
+      "title": "Duke of Kent to step down as Colonel of Scots Guards",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-68806343",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13B2B/production/_133138608_gettyimages-1404403515.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Sophie Okonedo, David Tennant, Sarah Snook and Nicole Scherzinger were among those posing for pictures.",
+      "publishedAt": null,
+      "title": "Olivier Awards red carpet: David Tennant, Sarah Snook and Nicole Scherzinger among stars",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-68813519",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/89DE/production/_133149253_crgettyimages-2148612678.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "A new, easier version of the traditional word game leaves us asking: What are board games for?",
+      "publishedAt": null,
+      "title": "Scrabble Together: 'It feels a bit like cheating'",
+      "url": "https://www.bbc.co.uk/news/uk-68801704",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C3B/production/_133136727_index-promo.jpg"
     }
   ],
   "sortBy": "top",
