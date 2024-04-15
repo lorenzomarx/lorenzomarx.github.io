@@ -1,192 +1,205 @@
 {
   "articles": [
     {
-      "author": "By Sophie Tanno and <a href=\"/profiles/tori-powell\">Tori B. Powell</a>, CNN",
-      "content": "Six people are dead\u00a0and several others injured after a man went on a stabbing rampage in a shopping mall in Sydney, Australia, on Saturday afternoon local time, one of the countrys worst mass killing\u2026 [+2103 chars]",
-      "description": "Six people have been killed in a mass stabbing at a busy shopping center in Sydney, Australian police said. The attacker is dead. Follow for live news updates.",
-      "publishedAt": "2024-04-13T16:14:00Z",
+      "author": "Tobi Raji",
+      "content": "The Democratic governor of Kansas vetoed a bill Friday that would have banned gender-affirming care for minors, setting up a confrontation with the states Republican supermajority as it tries to join\u2026 [+5876 chars]",
+      "description": "The bill would ban hormone therapy, puberty blockers and gender reassignment surgery for people under 18. A potential override vote has a slim margin for victory.",
+      "publishedAt": "2024-04-13T22:16:15Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "title": "6 killed in Sydney mall stabbing attack: Live updates - CNN",
-      "url": "https://www.cnn.com/australia/live-news/sydney-mall-attack-updates-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240413060720-01-sydney-stabbing-live-story-041324-super-tease.jpg"
+      "title": "Kansas governor vetoes a ban on gender-affirming care; GOP vows override - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2024/04/13/kansas-transgender-ban-veto/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WDRHC4CVEFBUCIGVZMTB2YBHCM.jpg&w=1440"
+    },
+    {
+      "author": "Barry M. Bloom",
+      "content": "The Arizona Coyotes in their current iteration are relocating to Salt Lake City. But Coyotes owner Alex Meruelo will continue to pursue building a $3 billion arena and entertainment project in North \u2026 [+3992 chars]",
+      "description": "While the Coyotes players and hockey ops move to Utah, the current ownership retains the name, logo, trademarks and right to resurrect the franchise.",
+      "publishedAt": "2024-04-13T22:07:30Z",
+      "source": {
+        "id": null,
+        "name": "Sportico.com"
+      },
+      "title": "Coyotes\u2019 Name, Logo to Remain in Phoenix While Team Relocates - Sportico",
+      "url": "https://www.sportico.com/leagues/hockey/2024/coyotes-name-logo-to-remain-phoenix-while-team-relocates-1234775204/",
+      "urlToImage": "https://www.sportico.com/wp-content/uploads/2024/04/GettyImages-1514488240-e1713019087395.jpg?w=1024"
+    },
+    {
+      "author": "Leslie Josephs",
+      "content": "Airspace closures through the Middle East grounded and diverted flights on Saturday as Iran launched drones toward Israel.\r\nUnited Airlines, which resumed service to Tel Aviv early last month after s\u2026 [+1001 chars]",
+      "description": "The decision to close airspace comes ahead of reports that Iran launched a drone strike on Israel.",
+      "publishedAt": "2024-04-13T21:18:25Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "Airspace closures throughout the Middle East ground, divert flights as Iran launches drone attack on Israel - CNBC",
+      "url": "https://www.cnbc.com/2024/04/13/jordan-israel-close-airspace-amid-report-of-drone-attack-from-iran.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316214-1697127880197-gettyimages-1245919611-porzycki-bengurio221231_npfJu.jpeg?v=1697127924&w=1920&h=1080"
+    },
+    {
+      "author": "Ty Roush",
+      "content": "The price of bitcoin dropped by 7% on Saturday over the course of less than an hour, as prices for other cryptocurrencies also sharply declined after Iran launched an attack on Israel.\r\nThe cryptocur\u2026 [+1211 chars]",
+      "description": "The cryptocurrency climbed to a record high last month amid a months-long rally.",
+      "publishedAt": "2024-04-13T20:50:52Z",
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "title": "Bitcoin Drops 7% After Iran attacks Israel - Forbes",
+      "url": "https://www.forbes.com/sites/tylerroush/2024/04/13/bitcoin-plummets-after-iran-launches-attack-on-israel/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661aefdb242cf9807f9e0670/0x0.jpg?format=jpg&crop=2719,1531,x0,y139,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "author": "The White House",
+      "content": "Iran has begun an airborne attack against Israel.\u00a0 President Biden is being regularly updated on the situation by his national security team and will meet with them this afternoon at the White House.\u2026 [+355 chars]",
+      "description": "Iran has begun an airborne attack against Israel.\u00a0 President Biden is being regularly updated on the situation by his national security team and will meet with them this afternoon at the White House.\u00a0 His team is in constant communication with Israeli officia\u2026",
+      "publishedAt": "2024-04-13T20:29:46Z",
+      "source": {
+        "id": null,
+        "name": "Whitehouse.gov"
+      },
+      "title": "Statement from NSC Spokesperson Adrienne Watson on Attacks Against Israel - The White House",
+      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/13/statement-from-nsc-spokesperson-adrienne-watson-on-attacks-against-israel/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+    },
+    {
+      "author": "Matthew Stanmyre | NJ Advance Media for NJ.com",
+      "content": null,
+      "description": "Forecasters can\u2019t rule out the possibility of an isolated tornado along with damaging winds.",
+      "publishedAt": "2024-04-13T20:23:00Z",
+      "source": {
+        "id": null,
+        "name": "nj.com"
+      },
+      "title": "N.J. weather: Powerful thunderstorms with 70 mph gusts could threaten our region Sunday. - NJ.com",
+      "url": "https://www.nj.com/weather/2024/04/nj-weather-powerful-thunderstorms-with-70-mph-gusts-could-threaten-our-region-sunday.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/V24APTTS4BBNDPEUNCFVSBKBGA.jpg?auth=dea7b8ed50d83f82c2915460e27fa157e29c56608c8d66972ac4b97977a3bf2d&width=1280&quality=90"
+    },
+    {
+      "author": "Dr Prem Kumar Sharma, Manisha Koushik",
+      "content": "All zodiac signs have their own characteristics and traits which define someones personality. Wouldnt it be helpful if you started your day by already knowing about whats going to come your way? Read\u2026 [+6730 chars]",
+      "description": "Daily horoscope: Are the stars lined up in your favour? Find out the astrological prediction for Aries, Leo, Virgo, and other zodiac signs for April 14, 2024. | Horoscope",
+      "publishedAt": "2024-04-13T19:30:18Z",
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "title": "Horoscope Today: Astrological prediction for April 14, 2024 - Hindustan Times",
+      "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-today-astrological-prediction-for-april-14-2024-101713014866630.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/13/1600x900/Image_5_1667957538184_1713014918807.jpg"
     },
     {
       "author": null,
-      "content": null,
-      "description": "Capitals from around the world are watching and waiting with bated breath to see what Iran does next.",
-      "publishedAt": "2024-04-13T16:07:54Z",
+      "content": "A cable car cabin collided with a broken pole on Friday evening, killing one person and injuring 10 others. Dozens of passengers were stranded in mid-air overnight.\r\nFootage released by the Turkish D\u2026 [+350 chars]",
+      "description": "A military helicopter hoists the stranded passenger to safety in a rescue basket.",
+      "publishedAt": "2024-04-13T19:17:28Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Israel-Gaza briefing: World watches nervously to see what Iran does next - BBC.com",
-      "url": "https://www.bbc.com/news/world-middle-east-68799234",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/35CF/production/_132357731_briefings_promo_doucet.png"
+      "title": "Antalya: Moment man rescued from Turkey cable car - BBC.com",
+      "url": "https://www.bbc.com/news/av/world-europe-68808613",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17AEC/production/_133140079_p0hqp0lj.jpg"
+    },
+    {
+      "author": "Daniel Fair",
+      "content": "WICHITA, Kan. (KSNW) The Oklahoma State Bureau of Investigation has four people in custody in connection to the disappearance of Veronica Butler and Jilian Kelley.\r\nThe OSBI tells KSN\u2019s Julia Thatche\u2026 [+347 chars]",
+      "description": "The Oklahoma State Bureau of Investigation has four people in custody in connection to the disappearance of Veronica Butler and Jilian Kelley.",
+      "publishedAt": "2024-04-13T19:03:30Z",
+      "source": {
+        "id": null,
+        "name": "KSN-TV"
+      },
+      "title": "OSBI has four in custody in missing Kansas women case - KSN-TV",
+      "url": "https://www.ksn.com/news/osbi-has-four-in-custody-in-missing-kansas-women-case/",
+      "urlToImage": "https://www.ksn.com/wp-content/uploads/sites/13/2024/04/Butler-and-Kelley-2-1.png?w=1280"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Yahoo Sports Staff",
+      "content": "It's Moving Day at Augusta National, and we've got a three-way tie at the top of the leaderboard.\r\nMax Homa, Scottie Scheffler and Bryson DeChambeau entered play on Saturday at the Masters with a sha\u2026 [+4278 chars]",
+      "description": "Keep up with all of the third round action at the Masters here with Yahoo Sports.",
+      "publishedAt": "2024-04-13T18:47:52Z",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "title": "2024 Masters third-round live updates: DeChambeau, Homa, Scheffler share lead as Tiger Woods makes record cut - Yahoo Sports",
+      "url": "https://sports.yahoo.com/live/2024-masters-third-round-live-updates-bryson-dechambeau-max-homa-scottie-scheffler-tiger-woods-augusta-national-120056983.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D4oS6UnHv9ZOtq7dX5eS7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/cc7175e0-f9c7-11ee-bb8f-c8de66619455"
+    },
+    {
+      "author": "Sara Whitman",
+      "content": "She\u2019s not ready to give up the bling.\r\nTheresa Nist, who married Gerry Turner after meeting on the debut season of \u201cThe Golden Bachelor,\u201d was spotted still wearing her diamond-encrusted wedding band \u2026 [+3004 chars]",
+      "description": "The reality stars got engaged in late 2023 and walked down the aisle months later in a televised wedding in January.",
+      "publishedAt": "2024-04-13T17:53:00Z",
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "title": "'Golden Bachelor' alum Theresa Nist still wearing her wedding ring despite ex Gerry Turner filing for divorce - Page Six",
+      "url": "https://pagesix.com/2024/04/13/entertainment/golden-bachelor-alum-theresa-nist-wears-her-wedding-ring-despite-gerry-turner-divorce/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/79990577.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+      "author": "Jon Haworth",
+      "content": "LONDON -- At least six people were killed in a knife attack on Saturday at a shopping mall near Bondi Beach in Sydney, Australia, police confirmed. The attacker was shot dead by a responding officer.\u2026 [+1963 chars]",
+      "description": "The suspect, a 40-year-old male, was shot dead by a responding police officer.",
+      "publishedAt": "2024-04-13T17:44:01Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Sydney stabbing: 6 dead, suspect killed in attack at major shopping mall - ABC News",
+      "url": "https://abcnews.go.com/International/multiple-people-stabbed-shooting-major-shopping-mall-sydney/story?id=109195498",
+      "urlToImage": "https://i.abcnewsfe.com/a/dd858963-4c8f-48c9-865d-cc15f22bcce7/sydney-attack_1712994395725_hpMain_16x9.jpg?w=1600"
     },
     {
       "author": "Al Jazeera",
-      "content": "One person has been killed and 17 others injured in the southern Turkish province of\u00a0Antalya\u00a0after a cable car cabin collided with a broken pole, according to the countrys health and justice minister\u2026 [+2614 chars]",
-      "description": "After an operation lasting almost 24 hours, 184 people stranded in midair since Friday afternoon have been rescued.",
-      "publishedAt": "2024-04-13T15:56:15Z",
+      "content": "Hundreds of protesters have taken to the streets of Nigers capital to demand the departure of United States troops, after the military government further shifted its strategy by ending a military acc\u2026 [+3077 chars]",
+      "description": "In March, Niger suspended its military cooperation with the US after leaders severed ties with France last year.",
+      "publishedAt": "2024-04-13T17:42:33Z",
       "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "title": "Dozens rescued after cable car accident kills one person in Turkey - Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2024/4/13/dozens-rescued-after-cable-car-accident-kills-one-person-in-turkey",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/2024-04-13T075339Z_332870779_RC2457AS4VRC_RTRMADP_3_TURKEY-ACCIDENT-1713019223.jpg?resize=1920%2C1440"
+      "title": "Hundreds protest in Niger demanding departure of US troops - Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2024/4/13/hundreds-protest-in-niger-demanding-departure-of-us-troops",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20240413__34PD4P9__v3__HighRes__NigerUsPoliticsDiplomacyDemo-1713028055_f473ca-1713029043.jpg?resize=1200%2C630&quality=80"
     },
     {
-      "author": "POLITICO",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-13T15:53:12Z",
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "title": "Biden narrows Trump's voter advantage, per NYT poll - POLITICO",
-      "url": "https://www.politico.com/news/2024/04/13/biden-trump-voters-poll-nyt-00152109",
-      "urlToImage": null
-    },
-    {
-      "author": "J. Kim Murphy",
-      "content": "The box office is united behind \u201cCivil War.\u201d A24\u2018s dystopian thriller earned$10.7 millionfrom 3,838 locations across its opening day and preview screenings, putting itself on track for a debut of aro\u2026 [+2990 chars]",
-      "description": "\"Civil War,\" directed by Alex Garland and starring Kirsten Dunst, gave A24 is biggest opening day ever at the box office.",
-      "publishedAt": "2024-04-13T15:07:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "Box Office: \u2018Civil War\u2019 Ignites With $10.7 Million Opening Day - Variety",
-      "url": "https://variety.com/2024/film/box-office/civil-war-opening-day-a24-1235969404/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/04/civil-war-a24.jpg?w=999&h=563&crop=1"
-    },
-    {
-      "author": "Deutsche Welle",
-      "content": "Ukraine's commander-in-chief Oleksandr Syrskyi warned on Saturday that the situation on the eastern front had \"deteriorated significantly\" in recent days.\r\nThe comments come after Russian forces bega\u2026 [+2564 chars]",
-      "description": "Ukraine's commander-in-chief says Kyiv's military is struggling as Russia intensifies its efforts to move forward in the east of the country.",
-      "publishedAt": "2024-04-13T14:46:24Z",
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "title": "Ukraine says eastern front has 'deteriorated significantly' - DW (English)",
-      "url": "https://www.dw.com/en/ukraine-says-eastern-front-has-deteriorated-significantly/a-68809455",
-      "urlToImage": "https://static.dw.com/image/68368291_6.jpg"
-    },
-    {
-      "author": null,
-      "content": "Apr 13, 2024, 09:48 AM ET\r\nAtlanta Braves ace Spencer Strider will miss the rest of the 2024 season after undergoing surgery to repair the ulnar collateral ligament in his right elbow.\r\nThe Braves an\u2026 [+868 chars]",
-      "description": "Braves ace Spencer Strider will miss the rest of the 2024 season after undergoing surgery to repair the ulnar collateral ligament in his right elbow.",
-      "publishedAt": "2024-04-13T13:48:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Braves ace Spencer Strider has UCL repaired, out for season - ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/39933311/braves-ace-spencer-strider-ucl-repaired-season",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0314%2Fr1304961_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Rashad Simmons",
-      "content": "Skip to content\r\nRep. Eric Swalwell (D-Calif.) called a joint press conference on \u201celection integrity\u201d from former President Donald Trump and Speaker Mike Johnson (R-La.) \u201cabsurd\u201d Friday, given the i\u2026 [+1599 chars]",
-      "description": "Rep. Eric Swalwell (D-Calif.) called a joint press conference on \u201celection integrity\u201d from former President Donald Trump and Speaker Mike Johnson (R-La.) \u201cabsurd\u201d Friday, given the indictments Trump faces over 2020 election interference. \u201cI mean, it\u2019s too ric\u2026",
-      "publishedAt": "2024-04-13T13:42:00Z",
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "title": "Swalwell mocks Trump, Johnson talk of election integrity: \u2018Absurd\u2019 - The Hill",
-      "url": "https://thehill.com/homenews/house/4591965-swalwell-mocks-trump-johnson-talk-election-integrity-absurd/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/65971a17f09650.05831677-e1713015619969.jpeg?w=1280"
-    },
-    {
-      "author": "Mary Gilbert",
-      "content": "A widespread and significantsevere thunderstorm threat could take shape in the central US early next week, putting millions at risk of destructive wind gusts, hail and tornadoes.\r\nForecasts are still\u2026 [+3293 chars]",
-      "description": "A new, widespread severe thunderstorm threat could take shape over the central US early next week and place millions at risk of destructive wind gusts, hail and tornadoes.",
-      "publishedAt": "2024-04-13T13:22:00Z",
+      "author": "Jennifer Agiesta, Shania Shelton",
+      "content": "Donald Trump and Joe Biden remain locked in a close race for the presidency, according to a\u00a0new poll from the New York Times and Siena College, which finds registered voters nationwide splitting 46% \u2026 [+2018 chars]",
+      "description": "Donald Trump and Joe Biden remain locked in a close race for the presidency, according to a\u00a0new poll from the New York Times and Siena College, which finds registered voters nationwide splitting 46% for Trump to 45% for Biden with no clear leader in the conte\u2026",
+      "publishedAt": "2024-04-13T16:41:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "A significant severe weather threat could take shape for Monday. Here\u2019s what we know - CNN",
-      "url": "https://www.cnn.com/2024/04/13/weather/us-storms-midwest-climate/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ecmwf-model-isobars-and-wind-storm-snapshot-monday-night-gfs-041224.png?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "",
-      "content": "UFC fans have plenty to get excited about as UFC 300 draws near on Saturday. The card may lack the massive main event many fans were hoping for, but every fight on the card is exciting and meaningful\u2026 [+8928 chars]",
-      "description": "Check out who the experts at CBS Sports are taking in the milestone event on Saturday night in Las Vegas",
-      "publishedAt": "2024-04-13T13:00:59Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "UFC 300 predictions -- Alex Pereira vs. Jamahal Hill: Fight card, odds, preview, expert picks, prelims - CBS Sports",
-      "url": "https://www.cbssports.com/mma/news/ufc-300-predictions-alex-pereira-vs-jamahal-hill-fight-card-odds-preview-expert-picks-prelims/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/12/b5ed9e19-4723-4f3b-8c96-1c4d8c00dab0/thumbnail/1200x675/41745c5dc130db9b52864db2af1327e7/pereira-hill-300-presser.jpg"
-    },
-    {
-      "author": "MacRumors Staff",
-      "content": "Apple's hardware roadmap was in the news this week, with things hopefully firming up for a launch of updated iPad Pro and iPad Air models next month while we look ahead to the other iPad models and a\u2026 [+3871 chars]",
-      "description": "Apple's hardware roadmap was in the news this week, with things hopefully firming up for a launch of updated iPad Pro and iPad Air models next...",
-      "publishedAt": "2024-04-13T13:00:00Z",
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "title": "Top Stories: M4 Mac Roadmap Leaked, New iPads in Second Week of May, and More - MacRumors",
-      "url": "https://www.macrumors.com/2024/04/13/top-stories-m4-mac-roadmap/",
-      "urlToImage": "https://images.macrumors.com/t/5QDLxrt7PaMSbog2uzmOFFJKDTk=/1600x/article-new/2024/04/top-stories-13apr2024.jpg"
-    },
-    {
-      "author": "Livemint",
-      "content": "Several leading airlines have cancelled flights to Iran and restricted its use of Israeli and Iranian airspace amid rapidly escalating tensions. Air India and Qantas planes have now begun avoiding Ir\u2026 [+2582 chars]",
-      "description": "Major airlines cancel Iran flights, limit airspace use due to rising tensions. Air India, Qantas avoid Iranian airspace; Lufthansa halts Tehran flights.",
-      "publishedAt": "2024-04-13T12:32:17Z",
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "title": "Israel-Iran tensions: Air India, Lufthansa, other airlines scrap flights, reroute planes as wider Middle East war looms | Mint - Mint",
-      "url": "https://www.livemint.com/news/world/israeliran-tensions-air-india-lufthansa-qantas-flights-cancelled-middle-east-conflict-11713009414677.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/13/1600x900/INDIA-AVIATION-ECONOMY-3_1713010326483_1713010351592.jpg"
-    },
-    {
-      "author": "Dallas Thomas",
-      "content": "Google kills products so frequently that you can't help but wonder where they're all coming from in the first place \u2014 the answer is death\r\n life by a thousand cuts, because the faucet of new services\u2026 [+4484 chars]",
-      "description": "This week in Android: Google's killing spree continues and Samsung's Galaxy AI keeps spreading",
-      "publishedAt": "2024-04-13T12:00:00Z",
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "title": "Android 15 goes public, Chrome goes paid, and Google's AI goes free in this week's news - Android Police",
-      "url": "https://www.androidpolice.com/weekly-android-news-roundup-april-13-2024/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/03/android-15-ice-cream-vanilla-codename-1.jpg"
-    },
-    {
-      "author": "Emily Trainham, Janelle Ash",
-      "content": "In filing for divorce, \"Golden Bachelor\" couple Gerry Turner and Theresa Nist are not only losing out on love, but also a lucrative business venture.\r\nTurner won the title of the first \"Golden Bachel\u2026 [+7174 chars]",
-      "description": "Gerry Turner and Theresa Nist found love on \"The Golden Bachelor,\" but now that they're divorcing, they stand to lose out on a fortune, experts explain to Fox News Digital.",
-      "publishedAt": "2024-04-13T12:00:00Z",
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "title": "'Golden Bachelor' stars Gerry Turner and Theresa Nist could lose out on big payday because of divorce: experts - Fox Business",
-      "url": "https://www.foxbusiness.com/entertainment/golden-bachelor-stars-gerry-turner-theresa-nist-could-lose-big-payday-because-divorce",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/theresa-nist-gerry-turner2.jpg?ve=1&tl=1"
+      "title": "Biden and Trump in near-even split in presidential race, poll finds - CNN",
+      "url": "https://www.cnn.com/2024/04/13/politics/presidential-race-near-even-split-biden-trump/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240413-bidentrump.jpg?c=16x9&q=w_800,c_fill"
     },
     {
       "author": "JONEL ALECCIA",
       "content": "A bird flu outbreak in U.S. dairy cows has grown to affect more than two dozen herds in eight states, just weeks after the nations largest egg producer found the virus in its chickens. \r\nHealth offic\u2026 [+5368 chars]",
       "description": "A bird flu outbreak in U.S. dairy cows has spread to more than two dozen herds in eight states. That comes weeks after the nation\u2019s largest egg producer found the virus in its chickens. Health officials continue to stress that the risk to the public is low an\u2026",
-      "publishedAt": "2024-04-13T12:00:00Z",
+      "publishedAt": "2024-04-13T16:39:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
@@ -196,69 +209,56 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/d48a22b/2147483647/strip/true/crop/2903x1633+0+152/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F0c%2Ff9fe403b45fe33f4dcc183bedc0e%2Fce85c1ddfe90466a801b036c2148c74d"
     },
     {
-      "author": "TOM MURPHY",
-      "content": "The first drug shown to slow Alzheimers disease hit the U.S. market over a year ago, but sales have lagged, major hospital systems have taken months to start using it and some insurers have rejected \u2026 [+5868 chars]",
-      "description": "The first drug shown to slow Alzheimer\u2019s hit the U.S. market over a year ago, but sales have lagged and diagnosis and treatment remain complicated. Major hospital systems have taken months to iron out plans to administer Leqembi, which requires regular infusi\u2026",
-      "publishedAt": "2024-04-13T12:00:00Z",
+      "author": "Abeer Salman, Zeena Saifi, Eugenia Yosef",
+      "content": "Hundreds of Israeli settlers surrounded Palestinian villages and attacked residents across the occupied West Bank, eyewitnesses told CNN, after an Israeli boy who had gone missing from a settlement w\u2026 [+2902 chars]",
+      "description": "Hundreds of Israeli settlers are surrounding Palestinian towns and attacking residents across the occupied West Bank as of Saturday afternoon, eyewitnesses told CNN, after an Israeli boy who had gone missing from a settlement was found dead.",
+      "publishedAt": "2024-04-13T16:29:00Z",
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "It's the first drug shown to slow Alzheimer's. Why is is it off to a slow start? - The Associated Press",
-      "url": "https://apnews.com/article/alzheimer-leqembi-slow-start-f9022b85b16cc6de4491594ce875657b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f4eb455/2147483647/strip/true/crop/3115x1752+0+162/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F77%2F3100f57dab55cab3caa13a590d42%2F89b687e9243d4bb582a6bcf8ad524a0f"
+      "title": "Hundreds of Israeli settlers attack Palestinian villages in the occupied West Bank after missing Israeli boy found dead - CNN",
+      "url": "https://www.cnn.com/2024/04/13/world/israeli-settlers-mobilize-across-west-bank-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20542101-13901-528-still-copy.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "ABC NEWS",
-      "content": "In a report posted on X, the Iranian Tasnim state news agency affiliated with the Islamic Revolutionary Guard Corps (IGRC) said paramilitary Revolutionary Guard commandos seized a cargo ship near the\u2026 [+1272 chars]",
-      "description": "",
-      "publishedAt": "2024-04-13T11:59:29Z",
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": null,
+        "name": "[Removed]"
       },
-      "title": "Israel-Gaza live updates: Iran seizes Israeli-linked ship in Strait of Hormuz - ABC News",
-      "url": "https://abcnews.go.com/International/live-updates/israel-gaza-hamas-war/iran-seizes-israelilinked-ship-in-strait-of-hormuz-109199977?id=108860743",
-      "urlToImage": "https://s.abcnews.com/images/International/iran-cargo-ship-ap-jt-240413_1713015708748_hpMain_16x9_1600.jpg"
-    },
-    {
-      "author": "Axios",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-13T11:59:10Z",
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "title": "Harris on Trump's abortion stance: \"Enough with the gaslighting\" - Axios",
-      "url": "https://www.axios.com/2024/04/12/kamala-harris-abortion-arizona-law-biden",
+      "title": "[Removed]",
+      "url": "https://removed.com",
       "urlToImage": null
     },
     {
-      "author": "Jeff Cox",
-      "content": "A sign advertising units for rent is displayed outside of a Manhattan building on April 11, 2024 in New York City.\r\nThe early data is in for the path of inflation during the first three months of 202\u2026 [+7490 chars]",
-      "description": "The early data is in for the path of inflation during the first three months of 2024, and the news so far is not good.",
-      "publishedAt": "2024-04-13T11:23:16Z",
+      "author": null,
+      "content": "SACRAMENTO, Calif. -- Google on Friday began removing California news websites from some people's search results, a test that acted as a threat should the state Legislature pass a law requiring the s\u2026 [+6048 chars]",
+      "description": "Google began removing California news websites from some people's search results, a test that acted as a threat should the state Legislature pass a law requiring the search giant to pay media companies for linking to their content.",
+      "publishedAt": "2024-04-13T15:48:37Z",
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "KABC-TV"
       },
-      "title": "Surging inflation fears sent markets tumbling and Fed officials scrambling - CNBC",
-      "url": "https://www.cnbc.com/2024/04/13/surging-inflation-fears-sent-markets-tumbling-and-fed-officials-scrambling.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107400201-1712873066466-gettyimages-2148324040-rent402979_qlj2b5su.jpeg?v=1712873254&w=1920&h=1080"
+      "title": "Faced with possibly paying for news, Google removes links to California news sites for some users - KABC-TV",
+      "url": "https://abc7.com/google-removes-links-to-california-news-sites-for-some-users/14657148/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14176372_AP23346395871637.jpg?w=1600"
     },
     {
-      "author": "Katie Atkinson, Katie Bain, Chris Eggertsen, Lyndsey Havens",
-      "content": "The first day of this year\u2019s Coachella was loaded with memorable moments, from the genesis of a new hashtag to a bevy of special guest stars to Lana Del Rey\u2018s profound and profoundly weird headlining\u2026 [+13964 chars]",
-      "description": "Coachella 2024's best moments on Friday include Peso Pluma, Lana Del Rey and Billie Eilish, ATEEZ, Sabrina Carpenter, Chappell Roan, Justice and more.",
-      "publishedAt": "2024-04-13T11:23:00Z",
+      "author": "Ron Miller",
+      "content": "This week in Las Vegas, 30,000 folks came together to hear the latest and greatest from Google Cloud. What they heard was all generative AI, all the time. Google Cloud is first and foremost a cloud i\u2026 [+7434 chars]",
+      "description": "Google hosted its customer conference this week in Las Vegas, and it was completely focused on generative AI announcements.",
+      "publishedAt": "2024-04-13T15:00:47Z",
       "source": {
-        "id": null,
-        "name": "Billboard"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "title": "Peso Pluma, Lana Del Rey & Billie Eilish, ATEEZ and More: Best Moments From Coachella 2024 Day 1 - Billboard",
-      "url": "http://www.billboard.com/lists/coachella-2024-best-moments-friday-recap-peso-pluma-lana-del-rey-billie-eilish-ateez/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/04/peso-pluma-coachella-2024-billboard-1548.jpg?w=1024"
+      "title": "Google goes all in on generative AI at Google Cloud Next - TechCrunch",
+      "url": "https://techcrunch.com/2024/04/13/google-goes-all-in-on-generative-ai-at-google-cloud-next/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GOOGLENEXT2024_0410_102815-1522_ALIVECOVER.max-2600x2600-1.jpg?resize=1200,800"
     }
   ],
   "status": "ok",
