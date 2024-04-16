@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Elizabeth Rayne",
+      "description": "An analysis of 50 years of popular music lyrics reveals a number of trends.",
+      "publishedAt": "2024-04-15T16:29:08+00:00",
+      "title": "Song lyrics are getting more repetitive, angrier",
+      "url": "https://arstechnica.com/science/2024/04/sound-familiar-song-lyrics-have-gotten-more-repetitive-since-the-1970s/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-146634814-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "iGBA seems to have taken unauthorized code from earlier GBA4iOS project.",
+      "publishedAt": "2024-04-15T15:27:58+00:00",
+      "title": "Apple removes the first iOS Game Boy emulator released under new App Store rules",
+      "url": "https://arstechnica.com/gaming/2024/04/apple-removes-the-first-ios-game-boy-emulator-released-under-new-app-store-rules/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/igba-760x380.png"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "\"Cost reductions and increased productivity\" needed, says Musk.",
+      "publishedAt": "2024-04-15T15:03:07+00:00",
+      "title": "Tesla to lay off more than 10 percent of its workers as sales slow",
+      "url": "https://arstechnica.com/cars/2024/04/tesla-to-lay-off-more-than-10-percent-of-its-workers-as-sales-slow/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1495524729-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Owners will have to wait until April 20 for deliveries to resume.",
+      "publishedAt": "2024-04-15T14:17:39+00:00",
+      "title": "Cybertruck owners allege pedal problem as Tesla suspends deliveries",
+      "url": "https://arstechnica.com/cars/2024/04/tesla-stops-cybertruck-deliveries-accelerator-pedal-may-be-to-blame/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/2024-Tesla-Cybertruck-in-a-showroom-1-760x380.jpg"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "New features, security updates, and Linux support are all on a long to-do list.",
       "publishedAt": "2024-04-15T11:00:44+00:00",
@@ -46,38 +78,6 @@
       "publishedAt": "2024-04-12T22:20:44+00:00",
       "title": "US drug shortages reach record high with 323 meds now in short supply",
       "url": "https://arstechnica.com/?p=2017093",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "For media pros' cameras and laptops.",
-      "publishedAt": "2024-04-12T21:23:38+00:00",
-      "title": "SD cards finally expected to hit 4TB in 2025",
-      "url": "https://arstechnica.com/?p=2016986",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "No patch yet for unauthenticated code-execution bug in Palo Alto Networks firewall.",
-      "publishedAt": "2024-04-12T20:48:47+00:00",
-      "title": "\u201cHighly capable\u201d hackers root corporate networks by exploiting firewall 0-day",
-      "url": "https://arstechnica.com/?p=2017043",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Gemini 1.5 Pro launch, new version of GPT-4 Turbo, new Mistral model, and more.",
-      "publishedAt": "2024-04-12T20:31:08+00:00",
-      "title": "Words are flowing out like endless rain: Recapping a busy week of LLM news",
-      "url": "https://arstechnica.com/?p=2016005",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "The motive for the alleged data manipulation is unknown.",
-      "publishedAt": "2024-04-12T19:41:47+00:00",
-      "title": "Texas surgeon accused of secretly blocking patients from getting transplants",
-      "url": "https://arstechnica.com/?p=2017017",
       "urlToImage": null
     }
   ],
