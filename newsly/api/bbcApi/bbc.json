@@ -2,6 +2,14 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Joel Cauchi, 40, fatally stabbed six people in a crowded Sydney shopping centre on Saturday.",
+      "publishedAt": null,
+      "title": "'Obvious' Sydney killer targeted women - Australian police",
+      "url": "https://www.bbc.co.uk/news/world-68814395",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1DF0/production/_133146670_attacker.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "World leaders are scrambling to prevent the Middle East entering a damaging wider conflict.",
       "publishedAt": null,
       "title": "Bowen: As Israel debates Iran attack response, can US and allies stop slide into all-out war?",
@@ -10,19 +18,11 @@
     },
     {
       "author": "BBC News",
-      "description": "Joel Cauchi, 40, fatally stabbed five women and a man at Westfield Bondi Junction mall on Saturday.",
+      "description": "US officials have said they have ruled out participating in any Israeli response to Iran's attack.",
       "publishedAt": null,
-      "title": "Westfield Bondi mall attack: Sydney knife suspect identified by police",
-      "url": "https://www.bbc.co.uk/news/world-australia-68810428",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2CBE/production/_133145411_gettyimages-2147765856.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Iran's attack on Israel marks a major escalation in a long-running shadow war between the two nations.",
-      "publishedAt": null,
-      "title": "Why has Iran attacked Israel?",
-      "url": "https://www.bbc.co.uk/news/world-middle-east-68811276",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/46A4/production/_133148081_6597d58888d3637cf86bf3e64048f12b5fad90a90_0_2000_13341000x667.jpg"
+      "title": "US tells Israel to 'think carefully' before Iran response",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68813496",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9D66/production/_133149204_4002fa01cf76d24e4cd616c1aa669e3325fb32570_0_1600_10671000x667.jpg"
     },
     {
       "author": "BBC News",
@@ -34,11 +34,19 @@
     },
     {
       "author": "BBC News",
-      "description": "With Iran and Israel in direct confrontation, BBC security correspondent Frank Gardner considers what comes next.",
+      "description": "The US says it won't take part in any Israeli response and urges its ally to exercise caution.",
       "publishedAt": null,
-      "title": "All eyes on Israel's response to Iranian drone and missile attacks",
-      "url": "https://www.bbc.co.uk/news/world-middle-east-68812094",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C1A6/production/_133147594_screenshot2024-04-14114725.png"
+      "title": "Israel says it will respond to Iran attack 'when time is right'",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68814391",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CD2D/production/_133152525_mediaitem133152524.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Joel Cauchi, 40, fatally stabbed five women and a man at Westfield Bondi Junction mall on Saturday.",
+      "publishedAt": null,
+      "title": "Westfield Bondi mall attack: Sydney knife suspect identified by police",
+      "url": "https://www.bbc.co.uk/news/world-australia-68810428",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2CBE/production/_133145411_gettyimages-2147765856.jpg"
     },
     {
       "author": "BBC News",
@@ -50,14 +58,6 @@
     },
     {
       "author": "BBC News",
-      "description": "Russia is following up initial attacks with repeat strikes targeting rescuers treating the wounded.",
-      "publishedAt": null,
-      "title": "Ukraine war: Russian double-tap strikes hit civilians then rescuers too",
-      "url": "https://www.bbc.co.uk/news/world-europe-68761490",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7CE4/production/_133127913_e4e98231b87fcb47d534d24970273e04ccb4eb510_143_3870_21763870x2176.jpg"
-    },
-    {
-      "author": "BBC News",
       "description": "The 88-year-old has served in the role for 50 years and is handing over to the Duke of Edinburgh.",
       "publishedAt": null,
       "title": "Duke of Kent to step down as Colonel of Scots Guards",
@@ -66,19 +66,19 @@
     },
     {
       "author": "BBC News",
-      "description": "Sophie Okonedo, David Tennant, Sarah Snook and Nicole Scherzinger were among those posing for pictures.",
+      "description": "The Bangladesh-flagged cargo vessel and its crew were seized last month off Somalia's coast.",
       "publishedAt": null,
-      "title": "Olivier Awards red carpet: David Tennant, Sarah Snook and Nicole Scherzinger among stars",
-      "url": "https://www.bbc.co.uk/news/entertainment-arts-68813519",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/89DE/production/_133149253_crgettyimages-2148612678.jpg"
+      "title": "Somali pirates free Bangladesh-flagged vessel, MV Abdullah",
+      "url": "https://www.bbc.co.uk/news/world-africa-68811930",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AB62/production/_133147834_gettyimages-147107940.jpg"
     },
     {
       "author": "BBC News",
-      "description": "A new, easier version of the traditional word game leaves us asking: What are board games for?",
+      "description": "The group say people in Camden are \"victims of gentrification\" and they are opening up the \u00a313m pub.",
       "publishedAt": null,
-      "title": "Scrabble Together: 'It feels a bit like cheating'",
-      "url": "https://www.bbc.co.uk/news/uk-68801704",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C3B/production/_133136727_index-promo.jpg"
+      "title": "Squatters at \u00a313m Gordon Ramsay pub defend occupation",
+      "url": "https://www.bbc.co.uk/news/uk-england-london-68813874",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67D7/production/_133138562_01hvbgt1bk1zvwpkzsfhzq7mxx.jpg"
     }
   ],
   "sortBy": "top",
