@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Paul Sutter",
+      "description": "Here are two options for future humans to keep us in the habitable zone.",
+      "publishedAt": "2024-04-16T11:30:12+00:00",
+      "title": "How to keep Earth from being cooked by the ever-hotter Sun",
+      "url": "https://arstechnica.com/science/2024/04/a-survival-guide-for-the-end-of-the-solar-system/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-469412828-1-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "It's a good old-fashioned swashbuckling adventure that doesn't take itself too seriously.",
       "publishedAt": "2024-04-15T20:34:22+00:00",
@@ -71,14 +79,6 @@
       "title": "Cybertruck owners allege pedal problem as Tesla suspends deliveries",
       "url": "https://arstechnica.com/cars/2024/04/tesla-stops-cybertruck-deliveries-accelerator-pedal-may-be-to-blame/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/2024-Tesla-Cybertruck-in-a-showroom-1-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "New features, security updates, and Linux support are all on a long to-do list.",
-      "publishedAt": "2024-04-15T11:00:44+00:00",
-      "title": "Framework\u2019s software and firmware have been a mess, but it\u2019s working on them",
-      "url": "https://arstechnica.com/gadgets/2024/04/frameworks-software-and-firmware-have-been-a-mess-but-its-working-on-them/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/IMG_1034-760x380.jpeg"
     }
   ],
   "sortBy": "top",

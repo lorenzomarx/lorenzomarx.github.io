@@ -1,6 +1,84 @@
 {
   "articles": [
     {
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-04-16T09:00:00Z",
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "title": "Supreme Court takes its deepest plunge into Jan. 6, with possible implications for Trump - POLITICO",
+      "url": "https://www.politico.com/news/2024/04/16/supreme-court-obstruction-jan-6-00152406",
+      "urlToImage": null
+    },
+    {
+      "author": "Antonia Mortensen, Lauren Said-Moorhouse",
+      "content": "A huge fire has engulfed Copenhagens old stock exchange, one of the Danish capitals most famous landmarks, causing its spire to collapse as staff and citizens scrambled to rescue paintings and histor\u2026 [+2919 chars]",
+      "description": "Denmark\u2019s historic old stock exchange building has been engulfed in flames, with television pictures on Tuesday showing the fire ripping through the historic building in the center of the capital.",
+      "publishedAt": "2024-04-16T08:59:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Fire rips through Copenhagen\u2019s old stock exchange - CNN",
+      "url": "https://www.cnn.com/2024/04/16/style/copenhagen-old-stock-exchange-fire-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2147846516-2.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Two members of a notorious criminal gang have been arrested for firing at the home of Bollywood actor Salman Khan in apparent retaliation for the superstars killing of two antelopes decades ago.\r\nThe\u2026 [+2055 chars]",
+      "description": "Khan has been in the crosshairs of an armed gang since 1998 for shooting two blackbucks on a recreational hunting trip.",
+      "publishedAt": "2024-04-16T08:34:37Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Two arrested for firing at Bollywood star Salman Khan\u2019s Mumbai home - Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2024/4/16/two-arrested-for-firing-at-bollywood-star-salman-khans-mumbai-home",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20231227__34943TB__v1__Preview__IndiaEntertainmentCinemaBollywood-1713254461.jpg?resize=1200%2C630"
+    },
+    {
+      "author": "Elizabeth Wolfe, Robert Shackelford",
+      "content": "A powerful storm system capable of unleashing damaging hail, wind and tornadoes is expected to barrel through parts of the Mississippi Valley and Midwest Tuesday after triggering tornado watches in t\u2026 [+2433 chars]",
+      "description": "A powerful storm system capable of unleashing damaging hail, wind and tornadoes is expected to barrel through parts of the Mississippi Valley and Midwest Tuesday after triggering tornado watches in the Plains overnight.",
+      "publishedAt": "2024-04-16T07:58:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Powerful storms could brew destructive tornadoes and hail in parts of the Midwest - CNN",
+      "url": "https://www.cnn.com/2024/04/16/weather/midwest-severe-storms-tornado-threat-tuesday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnn-digital-tracker-severe-forecast-radar-hrrr-card-20240416025910296.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Landon Mion",
+      "content": "China's economy grew faster than expected in the first quarter, data showed on Tuesday, offering some relief to officials amid efforts to maintain growth.\r\nThe government has released its fiscal and \u2026 [+4054 chars]",
+      "description": "China's economy grew faster than it was forecast in the first quarter, data released on Tuesday revealed, as officials attempt to maintain growth.",
+      "publishedAt": "2024-04-16T07:10:00Z",
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "title": "China's Q1 GDP growth surpassed expectations, data shows - Fox Business",
+      "url": "https://www.foxbusiness.com/economy/chinas-q1-gdp-growth-surpassed-expectations-data-shows",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/GettyImages-1243633610.jpg?ve=1&tl=1"
+    },
+    {
+      "author": null,
+      "content": "LOS ANGELES (KABC) -- Citing safety concerns, USC announced Monday that a pro-Palestinian undergraduate student who was selected as valedictorian will not be allowed to give a speech at the May comme\u2026 [+5479 chars]",
+      "description": "Asna Tabassum, a major in biomedical engineering and a minor in \"resistance to genocide,\" has been the focus of both on and off-campus groups for her pro-Palestinian views.",
+      "publishedAt": "2024-04-16T06:22:04Z",
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "title": "USC bans pro-Palestinian valedictorian from speaking at May commencement, citing safety concerns - KABC-TV",
+      "url": "https://abc7.com/usc-bans-pro-palestinian-valedictorian-from-speaking-at-may-commencement-citing-safety-concerns/14672515/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14672555_usc-valedictorian-TN-img.jpg?w=1600"
+    },
+    {
       "author": "Ben Pickman",
       "content": "BROOKLYN, N.Y. Eight days after completing one of the greatest collegiate basketball careers ever recorded, Caitlin Clark was selected with the No. 1 pick in Mondays WNBA Draft by the Indiana Fever.\r\u2026 [+3995 chars]",
       "description": "In elementary school, she wrote down one of her future goals: to make the WNBA. On Monday night, that aspiration became a reality.",
@@ -27,28 +105,67 @@
       "urlToImage": null
     },
     {
+      "author": "Greg Wyshynski",
+      "content": "Edmonton Oilers star Connor McDavid notched his 100th assist this season against the San Jose Sharks on Monday night, becoming just the fourth player in NHL history to hit triple digits for helpers.\r\u2026 [+1542 chars]",
+      "description": "Edmonton star Connor McDavid, who returned to the lineup after missing three games because of a lower-body injury, notched his 100th assist of the regular season in the Oilers' convincing 9-2 victory over the San Jose Sharks on Monday night.",
+      "publishedAt": "2024-04-16T04:32:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "McDavid 4th player in NHL history with 100 assists - ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/39952472/mcdavid-becomes-4th-player-nhl-history-100-assists",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0416%2Fr1319595_1296x729_16%2D9.jpg"
+    },
+    {
       "author": null,
       "content": null,
-      "description": "Official figures also highlighted the challenges faced by the country's crisis-hit property sector.",
-      "publishedAt": "2024-04-16T04:46:36Z",
+      "description": "Sami Zayn defends his Intercontinental Title in his hometown of Montreal against Chad Gable. Catch WWE action on Peacock, WWE Network, FOX, USA Network, Sony...",
+      "publishedAt": "2024-04-16T04:30:04Z",
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "YouTube"
       },
-      "title": "China economy grows faster than expected in first quarter - BBC.com",
-      "url": "https://www.bbc.com/news/business-68823396",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1577/production/_133159450_gettyimages-2147041765.jpg"
+      "title": "FULL MATCH: Sami Zayn vs. Chad Gable \u2013 Intercontinental Championship Match: Raw, April 15, 2024 - WWE",
+      "url": "https://www.youtube.com/watch?v=40ac6SEzlR8",
+      "urlToImage": "https://i.ytimg.com/vi/40ac6SEzlR8/hqdefault.jpg"
+    },
+    {
+      "author": "Abeer Abu Omar, Dina Bass",
+      "content": "Microsoft Corp. will invest $1.5 billion in the United Arab Emirates top artificial intelligence firm, G42, bolstering the Abu Dhabi-based companys commitment to scale back its presence in China.\r\nAs\u2026 [+364 chars]",
+      "description": "Microsoft Corp. will invest $1.5 billion in the United Arab Emirates\u2019 top artificial intelligence firm, G42, bolstering the Abu Dhabi-based company\u2019s commitment to scale back its presence in China.",
+      "publishedAt": "2024-04-16T04:11:00Z",
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "title": "Microsoft Invests $1.5 Billion in G42 as Top UAE AI Firm Pivots From China - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-16/microsoft-invests-1-5-billion-in-uae-s-g42-will-get-board-seat",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQRUgFf9mfXY/v0/1200x799.jpg"
+    },
+    {
+      "author": "MICHAEL R. SISAK, JENNIFER PELTZ, JAKE OFFENHARTZ, ALANNA DURKIN RICHER",
+      "content": "NEW YORK (AP) Donald Trump will return to a New York courtroom Tuesday as a judge works to find a panel of jurors who will decide whether the former president is guilty of criminal charges alleging h\u2026 [+2932 chars]",
+      "description": "Donald Trump is set to return to a New York courtroom as a judge works to find a panel of jurors who'll decide whether the former president is guilty of criminal charges alleging he falsified business records to cover up a sex scandal during the 2016 campaign\u2026",
+      "publishedAt": "2024-04-16T04:05:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Trump will return to court after first day of hush money criminal trial ends with no jurors picked - The Associated Press",
+      "url": "https://apnews.com/article/trump-hush-money-criminal-trial-new-york-dd1a8dcc063b7ad0fbe14af6e8724c2f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/17cb3bf/2147483647/strip/true/crop/5819x3273+0+303/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2Fca%2F253534e8bf89a4192780e9407bbc%2F2360ca8921204ed692527d826d7b38ef"
     },
     {
       "author": null,
       "content": null,
       "description": "A 16-year-old boy is under arrest after a bishop and several churchgoers were injured on Monday.",
-      "publishedAt": "2024-04-16T04:33:49Z",
+      "publishedAt": "2024-04-16T02:58:48Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Sydney church stabbing declared a 'terrorist' attack - BBC.com",
+      "title": "Sydney church stabbing was a 'terrorist' attack, police say - BBC.com",
       "url": "https://www.bbc.com/news/world-australia-68823240",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/379B/production/_133153241_520efdf7c31595b66ec16a0b5b7ca4d242d8ad560_0_5495_28831000x525.jpg"
     },
@@ -66,17 +183,17 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2148449799-20240415125851005.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "SFGATE",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-16T01:52:30Z",
+      "author": "Andrea Sachs",
+      "content": "Earlier this month, a video posted to social media captured two men destroying ancient rock formations at Lake Mead National Recreation Area in Nevada. National park rangers are asking for the public\u2026 [+4409 chars]",
+      "description": "Two men topple ancient rocks at Lake Mead National Recreation Area in Nevada. Authorities are looking for information on the vandals.",
+      "publishedAt": "2024-04-16T02:06:00Z",
       "source": {
-        "id": null,
-        "name": "SFGate"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "title": "'Idiots': 2 men sought for destroying ancient Nev. rock formation - SFGATE",
-      "url": "https://www.sfgate.com/travel/article/men-sought-destroying-nevada-rock-formation-19403847.php",
-      "urlToImage": null
+      "title": "Lake Mead visitors caught on video destroying ancient rock formations - The Washington Post",
+      "url": "https://www.washingtonpost.com/travel/2024/04/15/lake-mead-video-rocks-destroyed/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIUBDKW4EREJAFY3HFVX54XQQQ_size-normalized.jpg&w=1440"
     },
     {
       "author": "Associated Press",
@@ -92,175 +209,58 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-26emqp4ci-1713231182127.jpg?quality=75&strip=all&1713216827&w=1024"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
+      "author": "Stefan Bondy",
+      "content": "Jalen Brunson was snubbed by his country.\r\nThe point guard, arguably the best player in the Eastern Conference this season and certainly the best guard was left off the 11-man Olympic roster revealed\u2026 [+4536 chars]",
+      "description": "The point guard, arguably the best player in the Eastern Conference this season \u2014 and certainly the best guard \u2014 was left off the 11-man Olympic roster revealed Monday by ESPN.",
+      "publishedAt": "2024-04-16T01:42:00Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "New York Post"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
+      "title": "Jalen Brunson snubbed by Team USA with 2024 Olympics roster revealed - New York Post ",
+      "url": "https://nypost.com/2024/04/15/sports/jalen-brunson-snubbed-by-team-usa-for-2024-olympic-roster/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/new-york-knicks-guard-jalen-80077140-e1713230276355.jpg?quality=75&strip=all&w=1024"
     },
     {
-      "author": "Leah Sarnoff, Bonnie Mclean",
-      "content": "In the wake of the disappearance and killing of two women from Kansas, newly released court documents detail, according to prosecutors, the motive and evidence behind the alleged murder-kidnapping.\r\n\u2026 [+3354 chars]",
-      "description": "Four suspects have been arrested in connection with the women's deaths.",
-      "publishedAt": "2024-04-16T01:22:07Z",
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "content": "All that glitters is not gold, but Theresa Nist hopes fans will keep chasing their happy ending despite herGolden Bachelor divorce.\r\nThe contestant, who earned a proposal from the ABC series' first e\u2026 [+2734 chars]",
+      "description": "'Golden Bachelor' winner Theresa Nist shared her thoughts on her divorce from Gerry Turner, only three months after their wedding",
+      "publishedAt": "2024-04-16T01:22:00Z",
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
       },
-      "title": "Kansas women killings: Court documents detail alleged murder-kidnapping motive - ABC News",
-      "url": "https://abcnews.go.com/US/kansas-women-killings-court-documents-detail-alleged-murder/story?id=109267848",
-      "urlToImage": "https://i.abcnewsfe.com/a/6e9b217e-78df-4b36-99f7-554e6929c57c/missing2-ht-ml-240401_1711972546708_hpMain_16x9.jpg?w=1600"
+      "title": "'Golden Bachelor' star Theresa Nist weighs in on divorce from Gerry Turner - Entertainment Weekly News",
+      "url": "https://ew.com/golden-bachelor-theresa-nist-weighs-in-divorce-from-gerry-turner-8634007",
+      "urlToImage": "https://ew.com/thmb/_z4nWWiLMw5DVh5gfu1hyrSKmh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Theresa-golden-bachelor-041524-3052e6999c3244ff9cecd9c1faedbe07.jpg"
     },
     {
-      "author": null,
-      "content": null,
-      "description": "The unprecedented court case opens with more than half of potential jurors dismissed on grounds of bias.",
-      "publishedAt": "2024-04-16T01:02:04Z",
+      "author": "Caitlin Yilek",
+      "content": "Washington \u2014 House Speaker Mike Johnson on Monday unveiled a proposal for sending wartime aid to Israel and Ukraine as he seeks to fend off a right-wing revolt that could put his leadership in peril.\u2026 [+4790 chars]",
+      "description": "The House speaker says he wants to put up separate individual bills on aid for Ukraine, Israel, and Taiwan.",
+      "publishedAt": "2024-04-16T00:38:24Z",
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "title": "Trump trial: Dozens of jurors rejected as they say they cannot be impartial - BBC.com",
-      "url": "https://www.bbc.com/news/world-us-canada-68671733",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11492/production/_133120807_gettyimages-2147829687.jpg"
+      "title": "Mike Johnson takes risk on separating Israel and Ukraine aid - CBS News",
+      "url": "https://www.cbsnews.com/news/speaker-mike-johnson-israel-ukraine-aid-plan/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/15/b2564acd-c577-46f4-af8a-adb8692ccca4/thumbnail/1200x630g2/eac5b45b039fe253711024e24c82240f/ap24106778570307.jpg?v=6450b1292090ace5f47bbb23ced2a4e3"
     },
     {
-      "author": "NorthJersey.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-16T00:46:53Z",
-      "source": {
-        "id": null,
-        "name": "NorthJersey.com"
-      },
-      "title": "John Sterling, Yankees' legendary broadcaster, calls it a career and retires from booth - NorthJersey.com",
-      "url": "https://www.northjersey.com/story/sports/mlb/yankees/2024/04/15/john-sterling-yankees-legendary-broadcaster-retiring-from-booth/73308190007/",
-      "urlToImage": null
-    },
-    {
-      "author": "Janelle Ash",
-      "content": "\"Golden Bachelor\" winner Theresa Nist is opting to look on the positive side after announcing her divorce from Gerry Turner three months after saying \"I do.\"\r\nOn Monday, Nist took to Instagram to sha\u2026 [+4576 chars]",
-      "description": "\"Golden Bachelor\" winner Theresa Nist shared a Dr. Suess quote on social media just days after announcing her divorce from Gerry Turner. The reality TV show couple tied the knot in an on-air ceremony in January.",
-      "publishedAt": "2024-04-16T00:38:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "'Golden Bachelor' star Theresa Nist quotes Dr. Seuss after announcing divorce - Fox News",
-      "url": "https://www.foxnews.com/entertainment/golden-bachelor-star-theresa-nist-quotes-dr-seuss-after-announcing-divorce",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/10cdb153-theresa-nist-gerry-turner.jpg"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
+      "author": "Sarah Al-Shaikh",
+      "content": "AUSTIN (KXAN) Some Tesla employees in Austin are now left without a job. \r\nAccording to our media partners at the Austin Business Journal, the company is laying off more than 10% of its workforce glo\u2026 [+2417 chars]",
+      "description": "Some Tesla employees in Austin are now left without a job.",
+      "publishedAt": "2024-04-16T00:20:18Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "fox8.com"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Emma Misiaszek",
-      "content": "SYRACUSE, N.Y. The identities of the two officers fatally shot while in the line of duty Sunday night have been revealed by local law enforcement.\r\nSyracuse Police Officer, Michael Jensen, 29, of Rom\u2026 [+961 chars]",
-      "description": "The identities of the two officers fatally shot while in the line of duty Sunday night have been revealed by local law enforcement.Syracuse police officer and O",
-      "publishedAt": "2024-04-16T00:11:15Z",
-      "source": {
-        "id": null,
-        "name": "CNYcentral.com"
-      },
-      "title": "Officers killed in line of duty identified as seasoned deputy and young police officer - CNYcentral.com",
-      "url": "https://cnycentral.com/news/local/officers-killed-in-line-of-duty-identified-as-young-police-officer-and-seasoned-deputy-salina-syracuse-police-onondaga-county-sheriffs-office-michael-jensen-michael-hoosock-shooting-gunfire-fatal",
-      "urlToImage": "https://cnycentral.com/resources/media/99bfd79d-fb3f-43a2-83d0-d78ab2ba450e-large16x9_hoosockjensen.png"
-    },
-    {
-      "author": "Josh Edwards",
-      "content": "We're in the home stretch of draft season, as only 10 days remain before the 2024 NFL Draft kicks off in Detroit.\u00a0\r\nHere at CBS Sports, we publish weekly mock drafts from the beginning of the NFL sea\u2026 [+1952 chars]",
-      "description": "The Vikings, Broncos and Raiders find their franchise signal-callers",
-      "publishedAt": "2024-04-16T00:04:17Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "2024 NFL Mock Draft: Live updates, pick-by-pick analysis for Round 1 as draft experts alternate selections - CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2024-nfl-mock-draft-two-trades-for-qbs-in-top-5-as-patriots-move-back-nfc-team-gets-aggressive-for-db-help/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/15/f339ae50-f4d6-4c10-9b37-7ec1e26493d1/thumbnail/1200x675/f80c29fd340e8b0b804b6106eeb55a35/nfl-draft.jpg"
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-15T23:52:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "NASA seeks cheaper ideas for Mars sample return mission amid budget crunch - Reuters",
-      "url": "https://www.reuters.com/science/nasa-seeks-cheaper-ideas-mars-sample-return-mission-amid-budget-crunch-2024-04-15/",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-15T23:32:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "'Rust' armorer sentenced to 18 months in fatal shooting by Alec Baldwin - Reuters",
-      "url": "https://www.reuters.com/legal/government/rust-armorer-sentenced-18-months-fatal-shooting-by-alec-baldwin-2024-04-15/",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-15T23:19:51Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "Tesla laying off more than 10% of staff globally as sales fall - Reuters",
-      "url": "https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters",
-      "content": "(Reuters) -The U.S. Department of Justice is expected to file an antitrust lawsuit against Live Nation Entertainment as soon as next month, the Wall Street Journal reported on Monday, citing people f\u2026 [+1466 chars]",
-      "description": "Live Nation's subsidiary Ticketmaster was widely criticized for its handling of Taylor Swift's \"Eras\" tour in 2022, feeding demands that the two companies be...",
-      "publishedAt": "2024-04-15T23:07:03Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "US Justice Department to file antitrust suit against Live Nation, WSJ reports - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/us-justice-department-file-antitrust-214340109.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/a0a10e9c95e0b489a2036dc699af1d7d"
-    },
-    {
-      "author": "Sandee LaMotte",
-      "content": "Sign up for CNNs Sleep, But Better newsletter series.\u00a0Our seven-part guide has helpful hints to achieve better sleep.\r\nMakers of melatonin supplements have 18 to 24 months to voluntarily add child-de\u2026 [+4812 chars]",
-      "description": "Melatonin manufacturers asked to voluntarily improve safety standards by industry trade group after reports of 530% rise in accidental ingestions by children.",
-      "publishedAt": "2024-04-15T22:30:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Melatonin industry asked to voluntarily tighten standards after dramatic rise in childhood ER visits - CNN",
-      "url": "https://www.cnn.com/2024/04/15/health/melatonin-safety-standards-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1445165396.jpg?c=16x9&q=w_800,c_fill"
+      "title": "\u2018It\u2019s heartbreaking\u2019: Tesla employees blindsided by layoffs - WJW FOX 8 News Cleveland",
+      "url": "https://fox8.com/news/its-heartbreaking-tesla-employees-blindsided-by-layoffs/",
+      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2024/04/IMG_7452.jpg?w=1280"
     }
   ],
   "status": "ok",
-  "totalResults": 38
+  "totalResults": 36
 }
