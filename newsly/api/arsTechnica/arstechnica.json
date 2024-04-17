@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Under new law, those who create the images would face a fine and possible jail time.",
+      "publishedAt": "2024-04-16T14:51:38+00:00",
+      "title": "New UK law targets \u201cdespicable individuals\u201d who create AI sex deepfakes",
+      "url": "https://arstechnica.com/information-technology/2024/04/uk-seeks-to-criminalize-creation-of-sexually-explicit-ai-deepfake-images-without-consent/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/deepfake_illustration_1-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "There's just one catch...",
+      "publishedAt": "2024-04-16T13:57:44+00:00",
+      "title": "Russian space chief says new rocket will put Falcon 9 reuse to shame",
+      "url": "https://arstechnica.com/space/2024/04/russian-space-chief-says-new-rocket-will-put-falcon-9-reuse-to-shame/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/borisov-760x380.jpg"
+    },
+    {
+      "author": "Eric Geller, wired.com",
+      "description": "Microsoft continues to get a free pass after series of cybersecurity failures.",
+      "publishedAt": "2024-04-16T13:55:34+00:00",
+      "title": "Why the US government\u2019s overreliance on Microsoft is a big problem",
+      "url": "https://www.wired.com/story/the-us-government-has-a-microsoft-problem/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/windows-neon-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "The Jet Propulsion Laboratory is losing its grip on managing NASA's next flagship mission.",
+      "publishedAt": "2024-04-16T13:53:48+00:00",
+      "title": "NASA says it needs better ideas on how to return samples from Mars",
+      "url": "https://arstechnica.com/space/2024/04/nasa-says-it-needs-better-ideas-on-how-to-return-samples-from-mars/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/PIA25326-760x380.jpg"
+    },
+    {
       "author": "Paul Sutter",
       "description": "Here are two options for future humans to keep us in the habitable zone.",
       "publishedAt": "2024-04-16T11:30:12+00:00",
@@ -47,38 +79,6 @@
       "title": "Judge halts Texas probe into Media Matters\u2019 reporting on X",
       "url": "https://arstechnica.com/tech-policy/2024/04/judge-halts-texas-probe-into-media-matters-reporting-on-x/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2025744783-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "An analysis of 50 years of popular music lyrics reveals a number of trends.",
-      "publishedAt": "2024-04-15T16:29:08+00:00",
-      "title": "Song lyrics are getting more repetitive, angrier",
-      "url": "https://arstechnica.com/science/2024/04/sound-familiar-song-lyrics-have-gotten-more-repetitive-since-the-1970s/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-146634814-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "iGBA seems to have taken unauthorized code from earlier GBA4iOS project.",
-      "publishedAt": "2024-04-15T15:27:58+00:00",
-      "title": "Apple removes the first iOS Game Boy emulator released under new App Store rules",
-      "url": "https://arstechnica.com/gaming/2024/04/apple-removes-the-first-ios-game-boy-emulator-released-under-new-app-store-rules/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/igba-760x380.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "\"Cost reductions and increased productivity\" needed, says Musk.",
-      "publishedAt": "2024-04-15T15:03:07+00:00",
-      "title": "Tesla to lay off more than 10 percent of its workers as sales slow",
-      "url": "https://arstechnica.com/cars/2024/04/tesla-to-lay-off-more-than-10-percent-of-its-workers-as-sales-slow/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1495524729-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Owners will have to wait until April 20 for deliveries to resume.",
-      "publishedAt": "2024-04-15T14:17:39+00:00",
-      "title": "Cybertruck owners allege pedal problem as Tesla suspends deliveries",
-      "url": "https://arstechnica.com/cars/2024/04/tesla-stops-cybertruck-deliveries-accelerator-pedal-may-be-to-blame/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/2024-Tesla-Cybertruck-in-a-showroom-1-760x380.jpg"
     }
   ],
   "sortBy": "top",
