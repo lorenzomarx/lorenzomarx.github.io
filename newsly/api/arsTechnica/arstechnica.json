@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "How a group of friends found themselves at the center of a fierce debate about the future of art.",
+      "publishedAt": "2024-04-18T11:00:46+00:00",
+      "title": "OpenAI winds down AI image generator that blew minds and forged friendships in 2022",
+      "url": "https://arstechnica.com/information-technology/2024/04/when-ai-images-were-mind-blowing-early-users-recall-the-first-days-of-dall-e-2/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/dalle_hero_2-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "Between 2001 and 2020, there was an average of 3 cases per year. Last year's tally was 24.",
       "publishedAt": "2024-04-17T22:26:59+00:00",
@@ -41,12 +49,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2147879682-760x380.jpg"
     },
     {
-      "author": "Jennifer Ouellette",
+      "author": null,
       "description": "One victim may have been hogtied alive in pit, \u00e0 la Mafia-style ligature strangulation.",
       "publishedAt": "2024-04-17T19:30:35+00:00",
       "title": "Bodies found in Neolithic pit were likely victims of ritualistic murder",
-      "url": "https://arstechnica.com/science/2024/04/bodies-found-in-neolithic-pit-were-likely-victims-of-ritualistic-murder/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/neolithic5-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2015478",
+      "urlToImage": null
     },
     {
       "author": "John Timmer",
@@ -71,14 +79,6 @@
       "title": "After decades of Mario, how do developers bridge a widening generation gap?",
       "url": "https://arstechnica.com/gaming/2024/04/after-decades-of-mario-how-do-developers-bridge-a-widening-generation-gap/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Block-head-prototype-711x380.png"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Broadcom reportedly accused of changing VMware licensing and support conditions.",
-      "publishedAt": "2024-04-17T16:44:44+00:00",
-      "title": "Broadcom says \u201cmany\u201d VMware perpetual licenses got support extensions",
-      "url": "https://arstechnica.com/information-technology/2024/04/amid-eu-antitrust-qs-broadcom-extends-support-for-some-vmware-perpetual-licenses/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1247615915-760x380.jpg"
     }
   ],
   "sortBy": "top",
