@@ -1,30 +1,82 @@
 {
   "articles": [
     {
-      "author": "Reuters",
-      "content": "TAIPEI (Reuters) -TSMC, the world's largest chipmaker and a major Apple and Nvidia supplier, forecast second-quarter sales may rise as much as 30% as it rides a wave of demand for semiconductors used\u2026 [+3962 chars]",
-      "description": "TAIPEI (Reuters) -Taiwanese chipmaker TSMC posted a 9% rise in first-quarter net profit on Thursday that beat market expectations as it rides a wave of...",
-      "publishedAt": "2024-04-18T09:34:29Z",
+      "author": "Jeff Stein",
+      "content": "The Treasury Department on Thursday announced new sanctions on Iran in retaliation for its recent aerial attack against Israel, as the Biden administration seeks an economic rather than military resp\u2026 [+3236 chars]",
+      "description": "Treasury announces new sanctions on Tehran but seeks to contain broader conflict.",
+      "publishedAt": "2024-04-18T16:12:07Z",
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "title": "TSMC expects Q2 sales to jump on 'insatiable' AI demand - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/tsmc-set-report-5-rise-013137377.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/1211712bef0d8edaf5e43a85bced3174"
+      "title": "U.S. targets Iran's drone production in retaliation for Israel attack - The Washington Post - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2024/04/18/iran-treasury-drone-sanctions/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZERZWU4QJZJAAZ3JIKGKKJOVI_size-normalized.JPG&w=1440"
     },
     {
-      "author": "The Athletic Staff",
-      "content": "By Mike Vorkunov, Eric Koreen and Tobias Bass\r\nA tale of two halves and excellent bench play earned the Philadelphia 76ers the No. 7 seed as they held on to beat the Miami Heat 105-104 in their Play-\u2026 [+3335 chars]",
-      "description": "Joel Embiid's clutch buckets and huge assist to Kelly Oubre Jr. late in the fourth quarter helped seal the win.",
-      "publishedAt": "2024-04-18T08:26:33Z",
+      "author": "Axios",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-04-18T16:06:32Z",
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "title": "Conservatives corner Mike Johnson in House floor confrontation - Axios",
+      "url": "https://www.axios.com/2024/04/18/mike-johnson-gaetz-motion-to-vacate-ukraine",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "A spate of strikes and retaliations has left dead and injured on both sides of the border.",
+      "publishedAt": "2024-04-18T15:09:25Z",
       "source": {
         "id": null,
-        "name": "The Athletic"
+        "name": "BBC News"
       },
-      "title": "What we learned from 76ers\u2019 comeback Play-In win over Miami Heat - The Athletic",
-      "url": "https://theathletic.com/5424693/2024/04/17/76ers-heat-score-result-takeaways/",
-      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/04/17215336/GettyImages-2147890638-scaled.jpg"
+      "title": "Israel and Hezbollah: Fears of escalation after flurry of attacks - BBC.com",
+      "url": "https://www.bbc.com/news/world-middle-east-68845281",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10867/production/_133178676_mediaitem133178675.jpg"
+    },
+    {
+      "author": "10TV Web Staff",
+      "content": "DELAWARE COUNTY, Ohio The National Weather Service confirmed that an EF1 tornado touched down in Delaware County on Wednesday.\r\nThe tornado occurred in the far southeast part of the county in Harlem \u2026 [+950 chars]",
+      "description": "Most of the storm damage was confined to homes on Fancher Road, officials said.",
+      "publishedAt": "2024-04-18T15:02:00Z",
+      "source": {
+        "id": null,
+        "name": "10TV"
+      },
+      "title": "Tornado touches down in central Ohio - 10TV",
+      "url": "https://www.10tv.com/article/weather/severe-weather/ohio-tornado-confirmed-columbus-area/530-8ef92cb4-3f2c-487a-9673-d7ecc8050718",
+      "urlToImage": "https://media.tegna-media.com/assets/WBNS/images/be67b997-e32a-4399-ab86-522b7884c353/be67b997-e32a-4399-ab86-522b7884c353_1140x641.jpg"
+    },
+    {
+      "author": "Elizabeth Elkind",
+      "content": "A meeting to advance Speaker Mike Johnsons latest border security bill abruptly ended on Wednesday night without a vote on whether the measure will hit the House floor.\r\n\"Sorry, not sorry, for opposi\u2026 [+3488 chars]",
+      "description": "A late Wednesday evening meeting to advance a border security bill through the House Rules Committee ended amid conservative rebels' objections to the measure and Speaker Johnson's foreign aid bill.",
+      "publishedAt": "2024-04-18T14:23:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "GOP rebels derail Johnson's border security pitch over fury at $95B foreign aid plan - Fox News",
+      "url": "https://www.foxnews.com/politics/gop-rebels-derail-johnsons-border-security-pitch-fury-95b-foreign-aid-plan",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/roy-johnson-norman.jpg"
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "Revolutionary Guards issue warning as US announces new sanctions",
+      "publishedAt": "2024-04-18T14:13:00Z",
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "title": "Iran warns of shift in nuclear stance if Israel threatens atomic sites - Financial Times",
+      "url": "https://www.ft.com/content/c73b99ec-cd3f-49be-8024-6faf369b58e1",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -40,227 +92,175 @@
       "urlToImage": null
     },
     {
-      "author": "Josh Ye, David Kirton, Brenda Goh",
-      "content": null,
-      "description": "Chinese technology giant Huawei started selling two models of its highly anticipated, high-end Pura 70 smartphone series on Thursday that many analysts expect to contain an advanced China-made chip like its Mate 60 handset.",
-      "publishedAt": "2024-04-18T05:15:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "Huawei starts sales of new Pura 70 smartphone amid scrutiny on chips - Reuters",
-      "url": "https://www.reuters.com/technology/chinas-huawei-start-selling-pura-70-smartphones-2024-04-18/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/UDYQONB5DJPWDG66TMMILJYGTQ.jpg?auth=78e0d7e14cd82a97c2de7f12d22221614f67573e583a74ec294ced726403da37&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Jessica Speed",
-      "content": "A magnitude 6.6 earthquake, measuring a lower 6 on Japan's seismic intensity scale, struck off the west coast of Shikoku island on Wednesday night, but authorities reported no link to a potential Nan\u2026 [+4179 chars]",
-      "description": "There was no tsunami from the quake and reports suggested only minor injuries and damage.",
-      "publishedAt": "2024-04-18T05:10:29Z",
-      "source": {
-        "id": null,
-        "name": "The Japan Times"
-      },
-      "title": "No link to Nankai Trough quake seen after temblor in Shikoku - The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2024/04/18/japan/large-earthquake-southern-japan/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/04/18/292944.jpg"
-    },
-    {
-      "author": "Peter White",
-      "content": "Jimmy Kimmel wasn\u2019t planning to host the Oscars next year. But now he might.\r\nThe ABC late-night host was responding to comments from former President Donald Trump on Truth Social.\r\nTrump said that K\u2026 [+1419 chars]",
-      "description": "Jimmy Kimmel wasn\u2019t planning to host the Oscars next year. But now he might. The ABC late-night host was responding to comments from former President Donald Trump on Truth Social. Trump said that Kimmel was \u201cmade to look like a FOOL, which he is, and at the s\u2026",
-      "publishedAt": "2024-04-18T04:47:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "Jimmy Kimmel Says He Might Host Oscars In 2025 After Trump Remarks - Deadline",
-      "url": "http://deadline.com/2024/04/jimmy-kimmel-oscars-trump-1235888750/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/02/kimmel.jpg?w=1024"
-    },
-    {
-      "author": "Jamal Collier",
-      "content": "CHICAGO -- After Coby White knocked down a deep 3-pointer to give the Chicago Bulls a 21-point lead in the fourth quarter Wednesday night, a sold-out United Center erupted in a booming cheer.\r\nCO-BY!\u2026 [+4046 chars]",
-      "description": "Coby White scored a career-high 42 points as the Bulls ousted the Hawks on Wednesday night to advance to a play-in rematch with the Heat for the No. 8 seed in the East.",
-      "publishedAt": "2024-04-18T04:31:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Bulls knock Hawks out of play-in, advance to face Heat - ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/39966386/bulls-knock-hawks-play-advance-face-heat",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0418%2Fr1320504_2_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Dinah Voyles Pulver, Jeremy Yurow",
-      "content": "Challenges to communication and evacuation, unprecedented weather conditions and the lack of a \"heightened sense\" of emergency about fire warnings from the National Weather Service are just a few of \u2026 [+9056 chars]",
-      "description": "Maui Fire Department's post-blaze report admits to several shortcomings in response to Lahaina's deadliest wildfire, the worst in modern U.S. history.",
-      "publishedAt": "2024-04-18T03:42:36Z",
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "title": "Maui fire response hindered by lack of planning, fire department says - USA TODAY",
-      "url": "https://www.usatoday.com/story/news/nation/2024/04/17/maui-fire-department-report-reveals-lack-of-preparedness/73345212007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/18/USAT/73366390007-usatsi-21239275.jpg?crop=3068,1727,x0,y306&width=3068&height=1727&format=pjpg&auto=webp"
-    },
-    {
-      "author": "STEPHEN GROVES, LISA MASCARO, KEVIN FREKING",
-      "content": "WASHINGTON (AP) President Joe Biden said Wednesday he strongly supports a proposal from Republican House Speaker Mike Johnson to provide aid to Ukraine, Israel and Taiwan, sending crucial bipartisan \u2026 [+7282 chars]",
-      "description": "President Joe Biden says that he strongly supports a proposal from Republican House Speaker Mike Johnson to provide aid to Ukraine, Israel and Taiwan. His words send crucial bipartisan support to the effort to approve $95 billion in funding for the U.S. allie\u2026",
-      "publishedAt": "2024-04-18T03:01:00Z",
+      "author": "LARRY NEUMEISTER, JAKE OFFENHARTZ",
+      "content": "NEW YORK (AP) When the first batch of potential jurors was brought in for Donald Trumps criminal trial this week, all the lawyers had to go on to size them up at first were their names and the answer\u2026 [+6474 chars]",
+      "description": "The jury selection process at the historic criminal trial of former President Donald Trump has resumed and can already credit modern technology for shaping the eventual panel. Several potential jurors whose social media footprints raised alarms have been cut.\u2026",
+      "publishedAt": "2024-04-18T14:02:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "title": "Biden endorses House aid package for Israel, Ukraine - The Associated Press",
-      "url": "https://apnews.com/article/ukraine-aid-house-speaker-f08102e171dcac2d66d513980d828d49",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cc967ad/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2F3a%2F57075a0938896a95cd1ad4d9e3d7%2F4f873d73a2e043c7bc937e0198c111f1"
+      "title": "Trump trial jury selection process follows a familiar pattern with an unpredictable outcome - The Associated Press",
+      "url": "https://apnews.com/article/trump-hush-money-criminal-trial-jurors-e47b0494de7688bde0e877ccb90aeca2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5a6af89/2147483647/strip/true/crop/5088x2862+0+265/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F80%2F79fab9d96ef4764b8b3c1dbc1d99%2F9fe5b9d0a8714e45ac1408068d9afbd3"
     },
     {
-      "author": null,
-      "content": "Hundreds of people have been evacuated after Indonesia's Mount Ruang erupted for the second day on Wednesday.\r\nIndonesia's volcanology agency said the eruptions were triggered by recent earthquakes i\u2026 [+204 chars]",
-      "description": "Hundreds of people have been evacuated as Mount Ruang continues to erupt for the second day.",
-      "publishedAt": "2024-04-18T02:54:12Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Watch: Volcano in Indonesia spews lava and smoke - BBC.com",
-      "url": "https://www.bbc.com/news/av/world-asia-68841333",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8117/production/_133174033_p0hrgdbl.jpg"
-    },
-    {
-      "author": "Jordan Freiman",
-      "content": "Lawyers for Bryan Kohberger, the man accused of fatally stabbing four University of Idaho students in 2022, plan to use cell phone tower data to show he was not at the location where the murders occu\u2026 [+3447 chars]",
-      "description": "In an alibli court filing, lawyers for Bryan Kohberger, accused of fatally stabbing four University of Iowa students, claim he was \"out driving\" the night of the killings.",
-      "publishedAt": "2024-04-18T02:44:13Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Bryan Kohberger's attorneys claim cell phone data shows he was not at home where murders took place - CBS News",
-      "url": "https://www.cbsnews.com/news/bryan-kohberger-university-idaho-murders-cell-phone-data-alibi/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/18/5e354d5f-56a5-4796-a2b0-1dcf2cc2afc1/thumbnail/1200x630/a982edc284bd03f04e834b9245c53be3/gettyimages-1663790645.jpg?v=55c0f85ebcd2b956528d9c6f5a7e8871"
-    },
-    {
-      "author": "Hope Sloop",
-      "content": "Blake Shelton\u00a0is looking forward to many more years with his wife, Gwen Stefani.\u00a0\r\nSpeaking with ET's Cassie DiLaura from his new bar, Ole Red Las Vegas, on Wednesday, the 47-year-old country singer \u2026 [+5520 chars]",
-      "description": "Stefani has three sons with ex husband Gavin Rossdale.",
-      "publishedAt": "2024-04-18T02:31:00Z",
-      "source": {
-        "id": null,
-        "name": "Entertainment Tonight"
-      },
-      "title": "Blake Shelton Reflects on 10th Anniversary of Meeting Gwen Stefani and the Joy of Being a Stepdad (Exclusive) - Entertainment Tonight",
-      "url": "https://www.etonline.com/blake-shelton-reflects-on-10th-anniversary-of-meeting-gwen-stefani-and-the-joy-of-being-a-stepdad",
-      "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-04/GettyImages-1187444769.jpg?h=8fe83dbc"
-    },
-    {
-      "author": "JON GAMBRELL",
-      "content": "DUBAI, United Arab Emirates (AP) The United Arab Emirates attempted to dry out Wednesday from the heaviest rain the desert nation has ever recorded a deluge that flooded out Dubai International Airpo\u2026 [+6746 chars]",
-      "description": "The United Arab Emirates was attempting to dry out from the heaviest rain the desert nation has ever recorded. The deluge flooded out Dubai International Airport and disrupted flights through the busy hub. State media said the rain surpassed anything document\u2026",
-      "publishedAt": "2024-04-18T02:19:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Dubai airport flooded and flights are hit as storm dumps record rain on UAE - The Associated Press",
-      "url": "https://apnews.com/article/uae-historic-rain-storm-flooding-dubai-airport-disruption-3e838dbc169e52dcd6d11b64f79bdcb7",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3f084f6/2147483647/strip/true/crop/7476x4205+0+389/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F32%2F462f3359ae6f7202bc7239e28aec%2F2bbe197ea6d24249b90c1e2cd2acf15d"
-    },
-    {
-      "author": "Mike Lillis, Mychael Schnell",
-      "content": "Skip to content\r\nSpeaker Mike Johnson (R-La.) will lean heavily on Democrats to move a series of bills in the coming days providing aid to Ukraine, Israel and other democratic allies overseas \u2014\u00a0a str\u2026 [+7493 chars]",
-      "description": "Speaker Mike Johnson (R-La.) will lean heavily on Democrats to move a series of bills in the coming days providing aid to Ukraine, Israel and other democratic allies overseas \u2014\u00a0a strategy that acknowledges the nuances of governing in a divided Washington but \u2026",
-      "publishedAt": "2024-04-18T01:56:00Z",
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "title": "Johnson turns to Democrats on Ukraine aid amid ouster threat - The Hill",
-      "url": "https://thehill.com/homenews/house/4601686-johnson-turns-to-democrats-on-ukraine-aid-amid-ouster-threat/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/04/johnsonmike_041724ar05_w.jpg?w=1280"
-    },
-    {
-      "author": "Cointelegraph",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-18T01:22:27Z",
-      "source": {
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "title": "Bitcoin halving searches on Google is at its highest point ever - Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-halving-google-trends-highest-point-ever",
-      "urlToImage": null
-    },
-    {
-      "author": "Tom\u00e1s Mier",
-      "content": "Quentin Tarantino will no longer be making The Movie Critic, the film he previously said would be his last as a director.\r\nVariety confirmed Wednesday that the director had passed on the project, whi\u2026 [+1520 chars]",
-      "description": "Quentin Tarantino will no longer be working on 'The Movie Critic,' which was scheduled to be his 10th and final film.",
-      "publishedAt": "2024-04-18T01:21:16Z",
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "title": "Quentin Tarantino Scraps 'The Movie Critic' - Rolling Stone",
-      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/quentin-tarantino-scraps-movie-critic-film-1235006413/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/04/GettyImages-1497263362.jpeg?w=1600&h=900&crop=1"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "The German-Russian nationals are suspected of planning to sabotage German military help for Ukraine.",
-      "publishedAt": "2024-04-18T01:15:48Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "German spying: Two suspected spies arrested in Bavaria - BBC.com",
-      "url": "https://www.bbc.com/news/world-europe-68843541",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/127ED/production/_133175757_gettyimages-1258770918.jpg"
-    },
-    {
-      "author": "Brett Malec",
-      "content": "There's no doubt Michael Scott would be proud of Starfish's impressive run on The Masked Singer.\r\nOne iconic castmember from The Office was unmasked during the Fox singing competition's April 17 epis\u2026 [+804 chars]",
-      "description": "Find out which iconic alum from The Office was eliminated from season 11 of The Masked Singer during Queen night on April 17.",
-      "publishedAt": "2024-04-18T01:02:00Z",
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "title": "The Office Star's Masked Singer Reveal Is Sure to Make You LOL - E! Online - E! NEWS",
-      "url": "https://www.eonline.com/news/1399583/the-office-stars-masked-singer-reveal-is-sure-to-make-you-lol",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024316/rs_1200x1200-240416101316-star.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
-    },
-    {
-      "author": "Kaia Hubbard",
-      "content": "Washington \u2014 The Senate quickly dispensed with the two impeachment charges against Department of Homeland Security Secretary Alejandro Mayorkas, convening a short-lived trial Wednesday that brought a\u2026 [+3959 chars]",
-      "description": "The Senate's 51-member Democratic majority voted to dismiss both charges as unconstitutional over the objections of Republican members.",
-      "publishedAt": "2024-04-17T23:47:46Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Senate rejects Mayorkas impeachment charges at trial, ending GOP bid to oust him - CBS News",
-      "url": "https://www.cbsnews.com/news/mayorkas-impeachment-trial-senate-democrats-homeland-security/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/17/0fa3fa19-1f6b-4e26-8bd4-aeca01437362/thumbnail/1200x630/0bc5d0ae90b9631e78ce15cff95e3098/20240417-senate-floor-1pm-frame-55252.jpg?v=55c0f85ebcd2b956528d9c6f5a7e8871"
-    },
-    {
-      "author": "Brian Evans",
-      "content": "Stock futures climbed Thursday morning after the S&amp;P 500 and the Nasdaq Composite logged a fourth straight day of losses.\r\nFutures tied to the S&amp;P 500 added 0.27%, while Nasdaq 100 futures ga\u2026 [+1657 chars]",
-      "description": "All three major indexes are coming off of a losing session.",
-      "publishedAt": "2024-04-17T23:27:00Z",
+      "author": "Diana Olick",
+      "content": "Sales of previously-owned homes dropped 4.3% in March compared with February, to a seasonally adjusted, annualized rate of 4.19 million units, according to the National Association of Realtors. Sales\u2026 [+2145 chars]",
+      "description": "The median price of an existing home sold in March was $393,500, up 4.8% from the year before.",
+      "publishedAt": "2024-04-18T14:00:03Z",
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "title": "Stock futures are little changed after S&P 500 posts a fourth losing day: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2024/04/17/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107335042-17001503312023-11-16t155107z_186134607_rc2ee4a638ze_rtrmadp_0_usa-stocks.jpeg?v=1700150363&w=1920&h=1080"
+      "title": "March homes sales dropped despite a surge in supply. Here's why. - CNBC",
+      "url": "https://www.cnbc.com/2024/04/18/march-homes-sales-dropped-despite-a-surge-in-supply-heres-why.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107217876-1680192968842-gettyimages-1246866587-NYC_SUBURBS_REAL_ESTATE.jpeg?v=1680520183&w=1920&h=1080"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Matt Verderame",
+      "content": "On Tuesday, I unveiled my NFL all-trades mock draft\r\n. So now Im going to give you all the true results of the 2024 NFL draft.\r\nYoure welcome.\r\nBelow, Im going to dive into the first round of the upc\u2026 [+11991 chars]",
+      "description": "Six signal-callers are taken with the first 13 selections along with 10 offensive linemen, five receivers and five corners in the first round.",
+      "publishedAt": "2024-04-18T13:21:29Z",
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "title": "2024 NFL Mock Draft: History Made With QBs Going in First Four Picks - Sports Illustrated",
+      "url": "https://www.si.com/nfl/2024/04/18/nfl-mock-draft-first-round-quarterbacks-receivers-dominate-first-round",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2262,h_1272,x_136,y_176/images/ImagnImages/mmsport/si-temp/01hvmyvqryzsc9rjvm8d"
+    },
+    {
+      "author": "William Gavin",
+      "content": "Read more: Tesla stock just hit a new 52-week low after analysts said investors may start tossing in the towel\r\nTesla CEO Elon Musk said some severance packages sent to some of the more than 14,000 T\u2026 [+3221 chars]",
+      "description": "The electric vehicle maker laid off at least 14,000 workers as it continued a brutal start to 2024",
+      "publishedAt": "2024-04-18T12:58:00Z",
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "title": "Tesla CEO Elon Musk apologizes for 'incorrectly low' severance packages after mass layoffs - Quartz",
+      "url": "https://qz.com/tesla-elon-musk-apologizes-layoffs-severance-1851418616",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c03df9da907640ea3f3b70760083658f.jpg"
+    },
+    {
+      "author": "Davey Alba and Julia Love",
+      "content": "(Bloomberg) -- Alphabet Inc.s Google has fired 28 employees after they were involved in protests against Project Nimbus, a $1.2 billion joint contract with Amazon.com Inc. to provide the Israeli gove\u2026 [+4862 chars]",
+      "description": "(Bloomberg) -- Alphabet Inc.\u2019s Google has fired 28 employees after they were involved in protests against Project Nimbus, a $1.2 billion joint contract with ...",
+      "publishedAt": "2024-04-18T12:48:04Z",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "title": "Google Fires 28 Workers Protesting $1.2 Billion Israeli Contract - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/google-fires-workers-protesting-1-023834200.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pRwR_EZzLi5nFbBZhygs0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/bloomberg_technology_68/5e754744b0731dba8b7b45b2ac4c342c"
+    },
+    {
+      "author": "Emily DeLetter",
+      "content": "Airport service has been stopped, people have been evacuated and officials are warning of a tsunami risk after a series of violent eruptions this week from an Indonesian volcano.\r\nThe 750-foot Ruang \u2026 [+1339 chars]",
+      "description": "Officials warned part of the 750-foot Ruang volcano could collapse into the water and trigger a tsunami.",
+      "publishedAt": "2024-04-18T12:30:22Z",
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Indonesia volcano: Ruang erupts, triggering tsunami warnings - USA TODAY",
+      "url": "https://www.usatoday.com/story/news/world/2024/04/18/indonesia-ruang-volcano-erupts-tsunami-risk/73367035007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/18/USAT/73367055007-2147882736.jpg?crop=3499,1968,x0,y0&width=3200&height=1800&format=pjpg&auto=webp"
+    },
+    {
+      "author": "Stephen Clark",
+      "content": "Enlarge/ Technicians inside United Launch Alliance's Vertical Integration Facility connect Boeing's Starliner spacecraft to the top of its Atlas V rocket Tuesday.\r\n43\r\nGround teams on Florida's Space\u2026 [+7159 chars]",
+      "description": "\u201cThis is a test flight, and a complicated one at that.\"",
+      "publishedAt": "2024-04-18T12:26:23Z",
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "title": "All the pieces are in place for the first crew flight of Boeing's Starliner - Ars Technica",
+      "url": "https://arstechnica.com/space/2024/04/all-the-pieces-are-in-place-for-the-first-crew-flight-of-boeings-starliner/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/53660583974_3d1faa0c22_k-760x380.jpg"
+    },
+    {
+      "author": "Holly Williams",
+      "content": "London \u2014 Prince William made his first public appearance Thursday since his wife Catherine, the Princess of Wales, shared her cancer diagnosis last month. Kate, as she's usually known, is undergoing \u2026 [+2129 chars]",
+      "description": "William, the Prince of Wales, spent weeks out of public view to be there for Kate as she undergoes treatment for an unspecified cancer.",
+      "publishedAt": "2024-04-18T12:08:32Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Prince William returns to public duty as Kate continues cancer treatment - CBS News",
+      "url": "https://www.cbsnews.com/news/prince-william-returns-public-princess-kate-middleton-continues-cancer-treatment/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/18/6bff2f1e-600a-421c-8a26-dd1d29445a01/thumbnail/1200x630g2/12f3e2d0237d790caa7d0d730e89f4ea/prince-william-2147898791.jpg?v=55c0f85ebcd2b956528d9c6f5a7e8871"
+    },
+    {
+      "author": "Riley Cardoza",
+      "content": "Sydney Sweeney\u2019s former acting coach is in her corner.\r\nScott Sedita came to the \u201cEuphoria\u201d star\u2019s defense after producer Carol Baum recently went viral for hating on Sweeney\u2019s skills.\r\n\u201cShes been th\u2026 [+2530 chars]",
+      "description": "\u201cWhen taking feedback or critique, she processes it, uses her acting technique and makes the adjustment,\u201d Scott Sedita gushed of the \u201cEuphoria\u201d star.",
+      "publishedAt": "2024-04-18T11:49:00Z",
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "title": "Sydney Sweeney's acting coach defends her 'serious' skills after producer Carol Baum's 'attack' - Page Six",
+      "url": "https://pagesix.com/2024/04/18/entertainment/sydney-sweeneys-acting-coach-defends-her-after-producer-carol-baums-attack/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/sydney-sweeney-71.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+      "author": "Chris Branch",
+      "content": "The Pulse Newsletter | This is The Athletics daily sports newsletter. Sign up here to receive The Pulse directly in your inbox.\r\nGood morning! I hope you make the real playoffs today.\r\nWhile You Were\u2026 [+5577 chars]",
+      "description": "Did the NBA actually get lucky in the Jontay Porter situation?",
+      "publishedAt": "2024-04-18T11:41:00Z",
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "title": "The fallout from Jontay Porter\u2019s lifetime NBA ban, plus Champions League madness - The Athletic",
+      "url": "https://theathletic.com/5425069/2024/04/18/jontay-porter-lifetime-nba-ban-the-pulse/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/04/18061923/GettyImages-2084809770.jpg"
+    },
+    {
+      "author": "Billy Bambrough",
+      "content": "04/18 update below. This post was originally published on April 17\r\nBitcoinBTC\r\n has struggled to gain ground in recent weeks despite leaks confirming rumors China could be about to blow up the bitco\u2026 [+4304 chars]",
+      "description": "As bitcoin hurtles toward its next supply cut\u2014known as a halving\u2014Goldman Sachs\ufeff analysts have issued a stark price warning...",
+      "publishedAt": "2024-04-18T11:31:22Z",
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "title": "JPMorgan Joins Goldman Sachs In Serious Bitcoin Halving Price Warning - Forbes",
+      "url": "https://www.forbes.com/sites/digital-assets/2024/04/18/goldman-sachs-issues-stark-bitcoin-halving-price-warning/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66015ab5b02fa75e8f8870e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "author": "Benj Edwards",
+      "content": "Enlarge/ An AI-generated image from DALL-E 2 created with the prompt \"A painting by Grant Wood of an astronaut couple, american gothic style.\"\r\n39\r\nWhen OpenAI's DALL-E 2 debuted on April 6, 2022, th\u2026 [+5124 chars]",
+      "description": "How a group of friends found themselves at the center of a fierce debate about the future of art.",
+      "publishedAt": "2024-04-18T11:00:46Z",
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "title": "OpenAI winds down AI image generator that blew minds and forged friendships in 2022 - Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2024/04/when-ai-images-were-mind-blowing-early-users-recall-the-first-days-of-dall-e-2/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/dalle_hero_2-760x380.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 36
+  "totalResults": 35
 }
