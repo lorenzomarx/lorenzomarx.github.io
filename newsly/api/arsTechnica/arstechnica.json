@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "\"Boeing is reviewing and adjusting current staffing levels.\"",
+      "publishedAt": "2024-04-18T23:52:16+00:00",
+      "title": "Amid schedule uncertainty, Boeing will shed workers on SLS rocket program",
+      "url": "https://arstechnica.com/space/2024/04/amid-schedule-uncertainty-boeing-will-shed-workers-on-sls-rocket-program/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-8968-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "Hospitals' \"trauma activation fees\" are unregulated and extremely variable.",
       "publishedAt": "2024-04-18T22:14:49+00:00",
@@ -71,14 +79,6 @@
       "title": "Cops can force suspect to unlock phone with thumbprint, US court rules",
       "url": "https://arstechnica.com/tech-policy/2024/04/cops-can-force-suspect-to-unlock-phone-with-thumbprint-us-court-rules/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-thumbprint-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Campaign used email, SMS, and voice calls to trick targets into divulging master passwords.",
-      "publishedAt": "2024-04-18T18:42:06+00:00",
-      "title": "LastPass users targeted in phishing attacks good enough to trick even the savvy",
-      "url": "https://arstechnica.com/security/2024/04/lastpass-users-targeted-in-phishing-attacks-good-enough-to-trick-even-the-savvy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/phishing-760x380.jpeg"
     }
   ],
   "sortBy": "top",
