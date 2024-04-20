@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Max Daly, VICE Staff",
+      "content": "Unsurprisingly for a publication called VICE, illegal drugs has been a big part of our coverage over the years. We reported on drugs in a way no one else did until they started copying us.\u00a0 Governmen\u2026 [+909 chars]",
+      "description": "From investigations into why people in the UK don't use meth to interviews with drug dealers telling us how much they actually make.",
+      "publishedAt": "2024-04-19T10:30:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The Best Ever VICE Drug Stories",
+      "url": "https://www.vice.com/en/article/jg59mx/the-best-ever-vice-drug-stories",
+      "urlToImage": "https://video-images.vice.com/articles/66165dbf4aeeae23e2ee2c26/lede/1713450454503-drugeyes.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "VICE Staff, Joe Zadeh",
       "content": "The fact the dating scene is now referred to as the trenches by many speaks volumes. Dating apps give fanciful freedoms, yes, but theyve also turned courtship into an Olympic sport of fuckery.\r\nThe p\u2026 [+1109 chars]",
       "description": "Since launching in 1994, we\u2019ve held your hand through everything from breakups to polyamory to ghosting. Here's a selection of our finest articles.",
@@ -67,5 +80,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 5
+  "totalResults": 6
 }
