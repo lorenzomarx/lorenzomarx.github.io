@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "Accounts with stored payment information went for as little as $0.50 each.",
+      "publishedAt": "2024-04-19T17:09:42+00:00",
+      "title": "Roku forcing 2-factor authentication after 2 breaches of 600K accounts",
+      "url": "https://arstechnica.com/security/2024/04/roku-forcing-2-factor-authentication-after-breach-of-600k-accounts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-15563750851-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "WhatsApp, Threads, Telegram, and Signal removed from Apple App Store in China.",
+      "publishedAt": "2024-04-19T17:03:18+00:00",
+      "title": "China orders Apple to remove Meta apps after \u201cinflammatory\u201d posts about president",
+      "url": "https://arstechnica.com/tech-policy/2024/04/china-orders-apple-to-remove-meta-apps-after-inflammatory-posts-about-president/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-store-china-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Fraudster charged with crypto market manipulation defended Mango Markets scheme.",
+      "publishedAt": "2024-04-19T16:31:21+00:00",
+      "title": "Crypto influencer guilty of $110M scheme that shut down Mango Markets",
+      "url": "https://arstechnica.com/tech-policy/2024/04/notorious-crypto-manipulator-guilty-of-inflating-prices-in-110m-scheme/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-994648940-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "After flying against simulated opponents, the AI agent has taken on humans.",
+      "publishedAt": "2024-04-19T15:45:17+00:00",
+      "title": "DARPA\u2019s AI test pilot successfully flew a dogfight against a human",
+      "url": "https://arstechnica.com/cars/2024/04/darpas-ai-test-pilot-successfully-flew-a-dogfight-against-a-human/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/LMA_VISTA-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "If it were to happen, a revised Artemis III mission could echo Apollo 9.",
+      "publishedAt": "2024-04-19T15:20:43+00:00",
+      "title": "NASA may alter Artemis III to have Starship and Orion dock in low-Earth orbit",
+      "url": "https://arstechnica.com/space/2024/04/nasa-may-alter-artemis-iii-to-have-starship-and-orion-dock-in-low-earth-orbit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/orion2-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "This time there's no over-the-air software patch.",
+      "publishedAt": "2024-04-19T13:33:59+00:00",
+      "title": "Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal cover",
+      "url": "https://arstechnica.com/cars/2024/04/tesla-recalls-all-3878-cybertrucks-over-faulty-accelerator-pedal-cover/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/tesla-cybertruck-760x380.jpg"
+    },
+    {
+      "author": "Christopher Grimes, Financial Times",
+      "description": "Netflix to stop reporting subscriber numbers, prioritizing viewer engagement instead.",
+      "publishedAt": "2024-04-19T13:28:02+00:00",
+      "title": "Password crackdown leads to more income for Netflix",
+      "url": "https://www.ft.com/content/3c71289c-74af-4c9e-8327-d92b1f723dd3",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/netflix-screen-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "YouTube videos of 6K celebrities helped train AI model to animate photos in real time.",
+      "publishedAt": "2024-04-19T13:07:06+00:00",
+      "title": "Microsoft\u2019s VASA-1 can deepfake a person with one photo and one audio track",
+      "url": "https://arstechnica.com/information-technology/2024/04/microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/teaser-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Australia's first homemade orbital-class rocket makes an appearance on its launch pad.",
+      "publishedAt": "2024-04-19T11:00:15+00:00",
+      "title": "Rocket Report: Starship could save Mars Sample Return; BE-4s for second Vulcan",
+      "url": "https://arstechnica.com/space/2024/04/rocket-report-starship-could-save-mars-sample-return-be-4s-for-second-vulcan/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GLYt6w4WMAAZN5h-760x380.jpeg"
+    },
+    {
       "author": "Eric Berger",
       "description": "\"Boeing is reviewing and adjusting current staffing levels.\"",
       "publishedAt": "2024-04-18T23:52:16+00:00",
       "title": "Amid schedule uncertainty, Boeing will shed workers on SLS rocket program",
       "url": "https://arstechnica.com/space/2024/04/amid-schedule-uncertainty-boeing-will-shed-workers-on-sls-rocket-program/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-8968-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Hospitals' \"trauma activation fees\" are unregulated and extremely variable.",
-      "publishedAt": "2024-04-18T22:14:49+00:00",
-      "title": "Hospital prices for the same emergency care vary up to 16X, study finds",
-      "url": "https://arstechnica.com/science/2024/04/hospital-prices-for-the-same-emergency-care-vary-up-to-16x-study-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1189385839-760x380.jpeg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Business Insider reports of inaccuracy concerns that could hurt viewership.",
-      "publishedAt": "2024-04-18T22:05:29+00:00",
-      "title": "Thousands complain about Prime Video\u2019s wrong titles, lost episodes, other errors",
-      "url": "https://arstechnica.com/gadgets/2024/04/thousands-complain-about-prime-videos-wrong-titles-lost-episodes-other-errors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/lotr-rings-of-power-listing-760x380.png"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "X likely hopes to avoid liability with disclaimer that Grok \"can make mistakes.\"",
-      "publishedAt": "2024-04-18T21:47:53+00:00",
-      "title": "Elon Musk\u2019s Grok keeps making up fake news based on X users\u2019 jokes",
-      "url": "https://arstechnica.com/tech-policy/2024/04/elon-musks-grok-keeps-making-up-fake-news-based-on-x-users-jokes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1794263843-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Yes, travertine often has embedded fossils. But not usually hominin ones.",
-      "publishedAt": "2024-04-18T21:16:53+00:00",
-      "title": "Renovation relic: Man finds hominin jawbone in parents\u2019 travertine kitchen tile",
-      "url": "https://arstechnica.com/science/2024/04/renovation-relic-man-finds-hominin-jawbone-in-parents-travertine-kitchen-tile/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/fossil1-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Zuckerberg says new AI model \"was still learning\" when Meta stopped training.",
-      "publishedAt": "2024-04-18T21:04:42+00:00",
-      "title": "LLMs keep leaping with Llama 3, Meta\u2019s newest open-weights AI model",
-      "url": "https://arstechnica.com/?p=2018303",
-      "urlToImage": null
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Move comes as support winds down for the original Quest headset.",
-      "publishedAt": "2024-04-18T20:24:00+00:00",
-      "title": "Meta\u2019s new $199 Quest 2 price is a steal for the VR-curious",
-      "url": "https://arstechnica.com/gaming/2024/04/closeout-pricing-metas-aging-quest-2-headset-now-costs-199/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/quest2-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Google says the new \u201cPlatform and Devices\u201d team will let it move faster.",
-      "publishedAt": "2024-04-18T20:12:55+00:00",
-      "title": "Google merges the Android, Chrome, and hardware divisions",
-      "url": "https://arstechnica.com/gadgets/2024/04/google-merges-the-android-chrome-and-hardware-divisions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/android-google-760x380.jpeg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "First launch of these operational vehicles may occur next month from California.",
-      "publishedAt": "2024-04-18T19:54:08+00:00",
-      "title": "SpaceX and Northrop are working on a constellation of spy satellites",
-      "url": "https://arstechnica.com/space/2024/04/spacex-working-with-northrop-grumman-on-spy-satellites-for-us-government/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/01/starlink-760x380.png"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Ruling: Thumbprint scan is like a \"blood draw or fingerprint taken at booking.\"",
-      "publishedAt": "2024-04-18T19:13:21+00:00",
-      "title": "Cops can force suspect to unlock phone with thumbprint, US court rules",
-      "url": "https://arstechnica.com/tech-policy/2024/04/cops-can-force-suspect-to-unlock-phone-with-thumbprint-us-court-rules/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-thumbprint-760x380.jpg"
     }
   ],
   "sortBy": "top",
