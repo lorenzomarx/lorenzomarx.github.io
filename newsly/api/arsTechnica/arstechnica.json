@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Part of the \"New Atheist\" movement, best known for work on consciousness, free will.",
+      "publishedAt": "2024-04-19T23:45:55+00:00",
+      "title": "Philosopher Daniel Dennett dead at 82",
+      "url": "https://arstechnica.com/science/2024/04/philosopher-daniel-dennett-dead-at-82/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/dennettTOP-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "The study is small and imperfect but offers more data on how time-restricted diets work.",
       "publishedAt": "2024-04-19T21:43:16+00:00",
@@ -71,14 +79,6 @@
       "title": "Roku forcing 2-factor authentication after 2 breaches of 600K accounts",
       "url": "https://arstechnica.com/security/2024/04/roku-forcing-2-factor-authentication-after-breach-of-600k-accounts/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-15563750851-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "WhatsApp, Threads, Telegram, and Signal removed from Apple App Store in China.",
-      "publishedAt": "2024-04-19T17:03:18+00:00",
-      "title": "China orders Apple to remove Meta apps after \u201cinflammatory\u201d posts about president",
-      "url": "https://arstechnica.com/tech-policy/2024/04/china-orders-apple-to-remove-meta-apps-after-inflammatory-posts-about-president/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-store-china-760x380.jpg"
     }
   ],
   "sortBy": "top",
