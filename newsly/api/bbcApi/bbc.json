@@ -2,19 +2,27 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Republican Mike Johnson can savour a hard-fought victory, but hard-line colleagues are plotting to oust him.",
+      "publishedAt": null,
+      "title": "US Speaker Mike Johnson may pay political price for Ukraine deal",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68866912",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D502/production/_133203545_mediaitem133203544.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The House of Representatives has passed a long-stalled package that could reshape Kyiv's war effort.",
+      "publishedAt": null,
+      "title": "Ukraine Russia war: US House passes crucial Ukrainian aid deal worth $61bn",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68848277",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/137C2/production/_133201897_gettyimages-2136563370.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "Maxwell Azzarello doused himself in liquid before throwing conspiracy-theory pamphlets, police said.",
       "publishedAt": null,
       "title": "Man who set himself on fire outside Trump's Manhattan hush money trial dies",
       "url": "https://www.bbc.co.uk/news/world-us-canada-68863157",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13FEC/production/_133200918_screenshot2024-04-20065145.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "The militia blamed an attack, while Iraq's military said it did not detect drones or jets in the area.",
-      "publishedAt": null,
-      "title": "Explosion hits Iraqi military base housing pro-Iranian militia",
-      "url": "https://www.bbc.co.uk/news/world-middle-east-68863981",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C936/production/_133201515_gettyimages-2147941276.jpg"
     },
     {
       "author": "BBC News",
@@ -26,35 +34,11 @@
     },
     {
       "author": "BBC News",
-      "description": "The five women and seven men make up a highly educated group who will deliberate on the case.",
+      "description": "The militia blamed an attack, while Iraq's military said it did not detect drones or jets in the area.",
       "publishedAt": null,
-      "title": "Trump jury members set for opening statements: Who are they?",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68848665",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/846B/production/_133199833_trump_trials_promo-9-976.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "The influential director has reportedly scrapped the idea for his 10th film and gone back to the drawing board.",
-      "publishedAt": null,
-      "title": "Quentin Tarantino: Everything we know about his 10th and final film",
-      "url": "https://www.bbc.co.uk/news/articles/cv2rp5zy0pgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c17f/live/30b72240-fe49-11ee-a9f7-4d961743aa47.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The majority of handguns used in Canadian crimes come from the US, where gun laws are much more lax.",
-      "publishedAt": null,
-      "title": "'How gold becomes guns': heist spotlights illegal US-Canada gun trade",
-      "url": "https://www.bbc.co.uk/news/world-us-canada-68841961",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E9C/production/_133146518_gh2.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The United Autoworkers Union took a risk in a Republican - and often anti-union - part of the US.",
-      "publishedAt": null,
-      "title": "Volkswagen workers vote to unionize in major win for organised labour",
-      "url": "https://www.bbc.co.uk/news/business-68861396",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18380/production/_133200299_gettyimages-1784460555.jpg"
+      "title": "Explosion hits Iraqi military base housing pro-Iranian militia",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68863981",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C936/production/_133201515_gettyimages-2147941276.jpg"
     },
     {
       "author": "BBC News",
@@ -74,11 +58,27 @@
     },
     {
       "author": "BBC News",
-      "description": "It means the US will lose its primary base where it monitors regional Islamist activity.",
+      "description": "If Dubai is the ultimate Instagram city, then this was the week the filter came off.",
       "publishedAt": null,
-      "title": "US agrees to pull troops out of Niger",
-      "url": "https://www.bbc.co.uk/news/world-africa-68860092",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2C92/production/_133201411_46dcc3e9-c17d-469a-8640-65a91786d2a4.jpg"
+      "title": "'Apocalyptic' Dubai floods shake picture-perfect city",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68844405",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03A0/production/_133182900_b37c12e8804da2ed8d3f0827080d93121729eb8e0_0_5500_41511000x755.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "It comes after the decision to cancel a speech by a Muslim student sparked protests on campus.",
+      "publishedAt": null,
+      "title": "USC: University cancels all outside graduation ceremony speakers after controversy",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68863345",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DBF6/production/_133201365_gettyimages-2147911890.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The latest round in the longstanding, dangerous rivalry between Israel and Iran seems over for now, Lyse Doucet writes.",
+      "publishedAt": null,
+      "title": "An audible sigh of relief in the Middle East",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68861607",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15630/production/_133200678_womanepa.jpg"
     }
   ],
   "sortBy": "top",
