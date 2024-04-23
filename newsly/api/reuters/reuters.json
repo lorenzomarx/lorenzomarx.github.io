@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jack Queen, Luc Cohen, Andy Sullivan",
+      "description": "The former president will hear prosecutors explain why his alleged cover-up of a hush money payment to a porn star during his 2016 campaign broke the law.",
+      "publishedAt": "2024-04-22T10:20:09Z",
+      "title": "Trump hush-money trial kicks off with opening statements in New York",
+      "url": "https://www.reuters.com/world/us/trump-hush-money-trial-kicks-off-with-opening-statements-new-york-2024-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LOAWLMNHUNJLNGRIJAHJ3JXICA.jpg?auth=13f48a425930debcb7b10a0cbbd622c1d7bebf1365a5a33a169db488304c9357&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Tom Balmforth, Charlotte Bruneau",
+      "description": "For the exhausted Ukrainian artillery gunners holding off Russian forces near the eastern town of Kupiansk, the U.S. aid package expected to finally pass this week is a lifeline and, potentially, a gamechanger, although that could take some time.",
+      "publishedAt": "2024-04-22T10:41:42Z",
+      "title": "Russia-Ukraine war: What difference will US aid package make?",
+      "url": "https://www.reuters.com/world/us-aid-could-buy-kyiv-time-ukraine-needs-many-more-troops-2024-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2CIEUM2FYZL7BAXB6MZIJRDQOI.jpg?auth=a943abaa484b514648023bfab1eeea46aa158dc8afb79effe3d57c35808047ca&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The head of Israeli military intelligence, Major General Aharon Haliva, has resigned and will leave once a successor is appointed, the military said in a statement on Monday.",
+      "publishedAt": "2024-04-22T07:49:03Z",
+      "title": "Israeli military intelligence head resigns",
+      "url": "https://www.reuters.com/world/middle-east/israeli-military-intelligence-head-resigns-2024-04-22/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=186"
+    },
+    {
       "author": "Ali Sawafta, Nidal Al-Mughrabi",
       "description": "Israeli forces killed 14 Palestinians during a raid in the occupied West Bank on Saturday, while an ambulance driver was killed as he went to pick up wounded from a separate attack by violent Jewish settlers, Palestinian authorities said.",
       "publishedAt": "2024-04-20T21:57:17Z",
@@ -9,75 +33,51 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/PJXI77FYTZOSXE3TYZK2P7QPSQ.jpg?auth=cfc01a3e5739a623b011edb257f7dc313721e30ac7c0298d61e4106f662ca43f&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Maayan Lubell",
-      "description": "Israeli Prime Minister Benjamin Netanyahu said on Sunday he would fight against sanctions being imposed on any Israeli military units for alleged rights violations, after media reports said Washington was planning such a step.",
-      "publishedAt": "2024-04-22T01:25:34Z",
-      "title": "Israeli PM Netanyahu says he will fight any sanctions on army battalions",
-      "url": "https://www.reuters.com/world/middle-east/israeli-pm-netanyahu-says-he-will-fight-any-sanctions-army-battalions-2024-04-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/WKZQVOSDFRNQXFBIOOW6HAYTD4.jpg?auth=56abd9d31d56d4010aee1f7f55f47f7bfcf2bd50d7c2eed9b4b7a4a41e2f8ddc&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Kirsty Needham",
-      "description": "Papua New Guinea Prime Minister James Marape says his nation does not deserve to be labelled cannibals, and urged the U.S. to clear up the remnants of World War Two littered across the Pacific, after comments by President Joe Biden about his missing serviceman uncle.",
-      "publishedAt": "2024-04-22T00:26:23Z",
-      "title": "Papua New Guinea leader responds to Biden comment, saying nation undeserving of cannibalism label",
-      "url": "https://www.reuters.com/world/asia-pacific/papua-new-guinea-leader-responds-biden-comment-saying-nation-undeserving-2024-04-22/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/25JCWGNSNROPTC54PBGYRQYWBM.jpg?auth=d0eb9ec222877ed836bfe0f8a861bc0d9d329310cbf4650c6a2a8e8b6255ef04&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
-      "description": "Nearly 17,000 Filipino and American troops will begin a three-week joint combat training exercise in the Philippines on Monday involving maritime drills in the South China Sea where Manila and Beijing have sparred over maritime borders.",
-      "publishedAt": "2024-04-22T00:53:10Z",
-      "title": "Philippines, US troops begin annual combat drills",
-      "url": "https://www.reuters.com/world/philippines-us-troops-begin-annual-combat-drills-2024-04-22/",
+      "description": "Russian Foreign Minister Sergei Lavrov said on Monday that the support of the United States, Britain and France for Ukraine was stoking serious strategic risks that had raised the risk of a direct confrontation between the world's biggest nuclear powers.",
+      "publishedAt": "2024-04-22T07:45:46Z",
+      "title": "Russia says West is teetering on brink of conflict between nuclear powers",
+      "url": "https://www.reuters.com/world/europe/russia-says-west-is-teetering-brink-conflict-between-nuclear-powers-2024-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4N5R2LCHQ5OHTL64SGOBMDE2TM.jpg?auth=a0a97e6187d71f3e6b715641be0ebd3b055747e3038352cd98d85590b93d387e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Andrey Sychev, Rachel More",
+      "description": "Three German nationals have been arrested on suspicion of working with the Chinese secret service to hand over technology that could be used for military purposes, prosecutors said on Monday.",
+      "publishedAt": "2024-04-22T09:12:15Z",
+      "title": "Germany arrests three people suspected of giving technology to China",
+      "url": "https://www.reuters.com/world/germany-arrests-three-suspected-spying-china-2024-04-22/",
       "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=186"
     },
     {
-      "author": "Reuters",
-      "description": "At least five rockets were launched from Iraq's town of Zummar towards a U.S. military base in northeastern Syria on Sunday, two Iraqi security sources told Reuters.",
-      "publishedAt": "2024-04-21T20:02:21Z",
-      "title": "Five rockets fired from Iraq towards U.S. military base in Syria, security sources say",
-      "url": "https://www.reuters.com/world/five-rockets-fired-iraq-towards-us-military-base-syria-security-sources-say-2024-04-21/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=186"
-    },
-    {
-      "author": "Andrew Gray",
-      "description": "European Union foreign ministers meet in Luxembourg on Monday to discuss bolstering Ukraine\u2019s air defences and expanding sanctions on Iran.",
-      "publishedAt": "2024-04-21T22:40:28Z",
-      "title": "EU ministers to discuss air defence for Ukraine, Iran sanctions",
-      "url": "https://www.reuters.com/world/europe/eu-ministers-discuss-air-defence-ukraine-iran-sanctions-2024-04-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/RMNXUTRMLRIK3BEE325ZBOUDNM.jpg?auth=d726263572df38c01b1f1e8c0e8ecff997ec5b7806be448681b36ed2e31af1a8&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Renju Jose",
-      "description": "Australian Prime Minister Anthony Albanese described as \"extraordinary\" on Monday a decision by social media platform X to challenge in court a cyber regulators' order for the removal of some posts about the stabbing of a bishop in Sydney.",
-      "publishedAt": "2024-04-22T04:03:54Z",
-      "title": "Australian PM calls X's fight against removal of church stabbing posts 'extraordinary'",
-      "url": "https://www.reuters.com/world/asia-pacific/australian-pm-calls-xs-fight-against-removal-church-stabbing-posts-extraordinary-2024-04-22/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/6AWHOQMDH5J5DGOJUBAIFJBFO4.jpg?auth=0d0dd15c8f7c20581d5c55de5294acc9c1e32488d6c06cc17efe86e4eb9b8634&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Harold Isaac",
-      "description": "Armed gangs launched fresh attacks on parts of Haiti's capital Port-au-Prince ahead of the installation of a transitional council set to usher in a new government, local media said on Sunday, reporting arson and heavy gunfire in the city centre.",
-      "publishedAt": "2024-04-22T00:09:49Z",
-      "title": "Haiti's capital under gang attacks ahead of government transition",
-      "url": "https://www.reuters.com/world/americas/haitis-capital-under-gang-attacks-ahead-government-transition-2024-04-22/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JKS6SNPLSRJ63O2Y2D6OMSMZWM.jpg?auth=f988c99804fa73aa5c7bf8fde5398f9b0c425593119b072abce22e8fe5b71834&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Alistair Bell",
-      "description": "Terry Anderson, a U.S. journalist who was held captive by Islamist militants for almost seven years in Lebanon and came to symbolize the plight of Western hostages during the country's 1975-1990 civil war, died on Sunday at age 76, his former employer the Associated Press said.",
-      "publishedAt": "2024-04-21T21:52:07Z",
-      "title": "Terry Anderson, US journalist held hostage in Lebanon, dead at 76",
-      "url": "https://www.reuters.com/world/terry-anderson-us-journalist-held-hostage-lebanon-dead-76-2024-04-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KRD7NMJEBVINDGNWZNNSPF5BVI.jpg?auth=94d1b14cf5ec59945099f013584a86de6a53f21437ea2931cd952f60a7a8b395&height=1005&width=1920&quality=80&smart=true"
+      "author": "Ananda Teresia, Stanley Widianto",
+      "description": "An Indonesian court on Monday rejected challenges from both losing candidates seeking a re-run of February's presidential election and the disqualification of winner Prabowo Subianto and his running mate, bringing an end to all election disputes.",
+      "publishedAt": "2024-04-22T10:45:17Z",
+      "title": "Indonesia court rejects election disputes, upholding president-elect Prabowo's win",
+      "url": "https://www.reuters.com/world/asia-pacific/indonesian-court-rejects-first-two-petitions-seeking-election-re-run-2024-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/EEPNZPDZ3BOZJLYNVURHUQSEAM.jpg?auth=67be227bc2b1ebaa7e38669662c6bcff01f601c76fb0af99d934c8ce9f289d58&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Police in Vietnam have arrested Pham Thai Ha, an assistant of the country's National Assembly chairman, on an accusation of power abuse, the Ministry of Public Security said on Monday, amid a long-running campaign to stamp out graft.",
-      "publishedAt": "2024-04-22T05:23:01Z",
-      "title": "Vietnam police arrest National Assembly chairman's assistant",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnam-police-arrest-national-assembly-chairmans-assistant-2024-04-22/",
+      "description": "British Prime Minister Rishi Sunak said on Monday the first flight carrying asylum seekers to Rwanda would leave in 10-12 weeks, as he set out plans for for his flagship policy to tackle illegal migration.",
+      "publishedAt": "2024-04-22T10:22:45Z",
+      "title": "UK's Sunak says first migrant flight to Rwanda will leave in 10-12 weeks",
+      "url": "https://www.reuters.com/world/uk/uks-sunak-says-first-migrant-flight-rwanda-will-leave-10-12-weeks-2024-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/IDAGR4LUZFN4JE75TN6IT5DJNA.jpg?auth=ccfe1e8d5137840bf331be6041b6a48ea080adca304b00fdb5e7386ea0330214&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Norway's 87-year-old King Harald will permanently scale back the number of official activities in which he takes part following his recent illness, the royal household said on Monday.",
+      "publishedAt": "2024-04-22T11:13:03Z",
+      "title": "Norway's King Harald, 87, to reduce activity after illness",
+      "url": "https://www.reuters.com/world/europe/norways-king-harald-87-permanently-scale-back-activity-2024-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/UNQJRBZKV5KJJLTXDKJBHVBKE4.jpg?auth=46e3db89290085ca55ca9d81b938fb5e58041b5e126d5f6a8252c49e07c8d3b7&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Six soldiers of the Nigerian army were ambushed and killed by gunmen while on patrol in the northern Niger state on Friday, the army said, the latest loss inflicted on the military by armed criminal gangs.",
+      "publishedAt": "2024-04-22T11:27:43Z",
+      "title": "Gunmen kill six Nigerian soldiers in ambush, army says",
+      "url": "https://www.reuters.com/world/africa/gunmen-kill-six-nigerian-soldiers-ambush-army-says-2024-04-22/",
       "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=186"
     }
   ],

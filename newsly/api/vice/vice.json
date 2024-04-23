@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "VICE Staff, VICE Staff",
+      "content": "",
+      "description": "From goon caves to a $55 online \u201critual\u201d where dudes platonically jerk off with each other.",
+      "publishedAt": "2024-04-22T10:30:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Goon Caves and Mafia Phones: Our Best Tech Stories",
+      "url": "https://www.vice.com/en/article/y3wjvx/goon-caves-and-mafia-phones-our-best-tech-stories",
+      "urlToImage": "https://video-images.vice.com/articles/661e37a3b1e2f4f6e9aedb6a/lede/1713450798116-phone.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
       "author": "Max Daly, VICE Staff",
       "content": "Unsurprisingly for a publication called VICE, illegal drugs has been a big part of our coverage over the years. We reported on drugs in a way no one else did until they started copying us.\u00a0 Governmen\u2026 [+909 chars]",
       "description": "From investigations into why people in the UK don't use meth to interviews with drug dealers telling us how much they actually make.",
@@ -80,5 +93,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 6
+  "totalResults": 7
 }
