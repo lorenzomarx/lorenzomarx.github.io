@@ -1,12 +1,28 @@
 {
   "articles": [
     {
+      "author": "JOSH CORNFIELD",
+      "description": "LAS VEGAS (AP) \u2014 Phish opened its four-night stay at the Sphere Thursday with a four-hour show that used the advanced technology in the $2.3 billion arena to deliver a show that even the band's most ardent fans have never experienced before.",
+      "publishedAt": "2024-04-19T21:46:06Z",
+      "title": "Here\u2019s how Phish is using the Sphere's technology to give fans something completely different",
+      "url": "https://apnews.com/11f85d75b0c34ae89f25b10941df54eb",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/94f367eac1004aff93619b75e3e27f00/3000.jpeg"
+    },
+    {
       "author": "MOHAMMAD JAHJOUH and SAMY MAGDY",
       "description": "RAFAH, Gaza Strip (AP) \u2014 Israeli strikes on the southern Gaza city of Rafah overnight killed 22 people, including 18 children, health officials said Sunday, as the United States was on track to approve billions of dollars of additional military aid to Israel, its close ally.",
       "publishedAt": "2024-04-21T07:19:40Z",
       "title": "Israeli strikes on southern Gaza city of Rafah kill 22, mostly children, as US advances aid package",
       "url": "https://apnews.com/8c027f2587c2c433d0fde41b63a0e0c3",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/77f6ceddc5ac4a43bea59b16939f46ca/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d6185532ec5c4c6ca3dacd09f8f4a133/1920.jpeg"
+    },
+    {
+      "author": "JOSEF FEDERMAN",
+      "description": "JERUSALEM (AP) \u2014 Israeli leaders on Sunday harshly criticized an expected decision by the U.S. to impose sanctions on a unit of ultra-Orthodox soldiers in the Israeli military.The decision, expected as soon as Monday, would mark the first time the U.S.",
+      "publishedAt": "2024-04-21T17:42:57Z",
+      "title": "Israeli leaders criticize expected US sanctions against military unit that could further strain ties",
+      "url": "https://apnews.com/dd18e8ebf07b937bdad09ce9b56bd0cf",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ece4e4b292004f99a2c4093ba1dd567d/3000.jpeg"
     },
     {
       "author": "SAMYA KULLAB and ELISE MORTON",
@@ -14,15 +30,7 @@
       "publishedAt": "2024-04-21T08:57:20Z",
       "title": "Ukrainian and Western leaders laud US aid package while the Kremlin warns of 'further ruin'",
       "url": "https://apnews.com/1138337200942ca738ffc28bfc289570",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3bf3f45481674882b20445f6d5d0672c/3000.jpeg"
-    },
-    {
-      "author": "MICHAEL R. SISAK",
-      "description": "NEW YORK (AP) \u2014 Donald Trump\u2019s hush money criminal trial shifts to opening statements Monday, followed by the start of witness testimony. A jury of seven men and five women, plus six alternates, was picked last week.",
-      "publishedAt": "2024-04-21T03:30:53Z",
-      "title": "Key players: Who's who at Donald Trump\u2019s hush money criminal trial",
-      "url": "https://apnews.com/5fdc819697a76536ed83cbf28d4a523c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ae2cc35e3a5f491e9a278191a32d7da7/3000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f54b372c75684d349d36ba49f1eb5891/1920.jpeg"
     },
     {
       "author": "CHRISTINE FERNANDO",
@@ -31,6 +39,30 @@
       "title": "Crush of lawsuits over voting in multiple states creates a shadow war for the 2024 election",
       "url": "https://apnews.com/c7d8943dcac776103d948532f62f2a5c",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/8069dfe750094971b61547771782303b/3000.jpeg"
+    },
+    {
+      "author": "BHARATHA MALLAWARACHI",
+      "description": "COLOMBO, Sri Lanka (AP) \u2014 A race car veered off the track during a competition in Sri Lanka on Sunday and rammed into a crowd of spectators and race officials, killing seven people and injuring 20 others, officials said.",
+      "publishedAt": "2024-04-21T18:30:22Z",
+      "title": "Race car in Sri Lanka veers off track killing 7 people and injuring 20, officials say",
+      "url": "https://apnews.com/3405f02aa1cf1d1096a6579ed82fe441",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9ca0c6ec68bb48fb91fafcac99533fbc/3000.jpeg"
+    },
+    {
+      "author": "ANDREW MELDRUM and CHRISTOPHER WEBER",
+      "description": "NEW YORK (AP) \u2014 Terry Anderson, the globe-trotting Associated Press correspondent who became one of America\u2019s longest-held hostages after he was snatched from a street in war-torn Lebanon in 1985 and held for nearly seven years, has died at 76.",
+      "publishedAt": "2024-04-21T21:15:03Z",
+      "title": "Terry Anderson, AP reporter abducted in Lebanon and held captive for years, has died at 76",
+      "url": "https://apnews.com/c266353298c04dbf874ab4d94536f2b3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ae1dcf9b515f4d988394dc411fdffa4f/3000.jpeg"
+    },
+    {
+      "author": null,
+      "description": "UNIVERSAL CITY, Calif. (AP) \u2014 More than a dozen people suffered mostly minor injuries when a tram used for tours crashed into a railing at Universal Studios Hollywood near Los Angeles, authorities and the company said.",
+      "publishedAt": "2024-04-21T06:56:55Z",
+      "title": "15 people injured when tram collides with guardrail at Universal Studios theme park near Los Angeles",
+      "url": "https://apnews.com/24432916e9a5d2273674540e55064bbd",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/594d2b16a1a14e068cde44d14cbe21df/3000.jpeg"
     },
     {
       "author": "D\u00c1NICA COTO",
@@ -47,38 +79,6 @@
       "title": "Lama Rod describes himself as a Black Buddhist Southern Queen. He wants to free you from suffering",
       "url": "https://apnews.com/506b1e85687d956eff81f7f4261f5e98",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/c7e7fe392080469c8ff440c4df21e7a1/1920.jpeg"
-    },
-    {
-      "author": "JENNIFER McDERMOTT and MICHAEL HILL",
-      "description": "ALBANY, N.Y. (AP) \u2014 Nature wraps bananas and oranges in peels. But in some modern supermarkets, they're bagged or wrapped in plastic too.For Judith Enck, that's the epitome of pointless plastic.",
-      "publishedAt": "2024-04-21T13:32:44Z",
-      "title": "Earth Day: How one grocery shopper takes steps to avoid 'pointless plastic'",
-      "url": "https://apnews.com/f112aadca284325bf0e8e5adfba65f40",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/bdfa3d6466714a87a0e965258cfa3a09/3000.jpeg"
-    },
-    {
-      "author": "JON GAMBRELL",
-      "description": "JERUSALEM (AP) \u2014 Iran's supreme leader on Sunday dismissed any discussion of whether Tehran's unprecedented drone-and-missile attack on Israel hit anything there, a tacit acknowledgment that despite launching a major assault, few projectiles actually made it through to their targets.",
-      "publishedAt": "2024-04-21T12:56:51Z",
-      "title": "Iran's supreme leader tacitly acknowledges that Tehran hit little in its attack on Israel",
-      "url": "https://apnews.com/66280e717d335afffd9e258a5985d50c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/06e5160f7f6f407786a7e13f05c75421/2499.jpeg"
-    },
-    {
-      "author": "WILL WEISSERT",
-      "description": "WASHINGTON (AP) \u2014 Rarely a day goes without President Joe Biden mentioning insulin prices. He promotes a $35 price cap for the medication for Americans on Medicare \u2014 in White House speeches, campaign stops and even at non-health care events around the country.",
-      "publishedAt": "2024-04-21T11:41:59Z",
-      "title": "Biden sees a $35 price cap for insulin as a pivotal campaign issue. It\u2019s not that clear-cut",
-      "url": "https://apnews.com/f969191c3c5178c91cc973a1b89c2200",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/03c9b687f8b94ceaa93f26914e351604/3000.jpeg"
-    },
-    {
-      "author": "AUDREY McAVOY",
-      "description": "HONOLULU (AP) \u2014 A single mother of two, Amy Chadwick spent years scrimping and saving to buy a house in the town of Lahaina on the Hawaiian island of Maui. But after a devastating fire leveled Lahaina in August and reduced Chadwick's home to white dust, the cheapest rental she could find for her family and dogs cost $10,000 a month.",
-      "publishedAt": "2024-04-21T05:21:39Z",
-      "title": "Hawaii lawmakers take aim at vacation rentals after Lahaina wildfire amplifies Maui housing crisis",
-      "url": "https://apnews.com/3a7468c75cc9814a7895e03c623e400b",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7d3410116dac452098b203aba068ba50/3000.jpeg"
     }
   ],
   "sortBy": "top",
