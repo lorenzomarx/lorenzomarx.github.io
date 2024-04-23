@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "Can a non-profit foundation get Home Assistant to the point of Home Depot boxes?",
+      "publishedAt": "2024-04-22T17:34:05+00:00",
+      "title": "Home Assistant has a new foundation and a goal to become a consumer brand",
+      "url": "https://arstechnica.com/gadgets/2024/04/home-assistants-new-foundation-focused-on-privacy-choice-and-sustainability/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Screenshot-2024-04-22-at-1.13.41\u202fPM-760x380.png"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "But this would be a faster turnaround time than we saw for the M3 or the M2.",
+      "publishedAt": "2024-04-22T16:54:11+00:00",
+      "title": "Apple reportedly plans M4 Mac mini for late 2024 or early 2025, skipping the M3",
+      "url": "https://arstechnica.com/gadgets/2024/04/report-mac-mini-could-skip-the-apple-m3-jump-right-to-the-m4-in-2024-or-2025/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/IMG_0911-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Z80 powered Game Boy, ZX Spectrum, Pac-Man, and a 1970s PC standard based on CP/M.",
+      "publishedAt": "2024-04-22T16:48:14+00:00",
+      "title": "After 48 years, Zilog is killing the classic standalone Z80 microprocessor chip",
+      "url": "https://arstechnica.com/gadgets/2024/04/after-48-years-zilog-is-killing-the-classic-standalone-z80-microprocessor-chip/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/softcard_ad_crop-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "DolphiniOS dev says barring just-in-time compilation prevents playable performance.",
+      "publishedAt": "2024-04-22T16:21:12+00:00",
+      "title": "Why a GameCube/Wii emulator may not be possible on the iOS App Store",
+      "url": "https://arstechnica.com/gaming/2024/04/why-a-gamecube-wii-emulator-may-not-be-possible-on-the-ios-app-store/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/dolphinios-760x250.png"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "With the Model 2 cancelled, FSD is more important to Tesla than ever.",
+      "publishedAt": "2024-04-22T14:40:24+00:00",
+      "title": "Tesla cuts Full Self Driving cost by 1/3 ahead of earnings call",
+      "url": "https://arstechnica.com/cars/2024/04/tesla-cuts-the-price-of-full-self-driving-option-from-12000-to-8000/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1512022867-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "Can this film revive a flagging MCU? We're gonna go with \"yes.\"",
+      "publishedAt": "2024-04-22T14:07:46+00:00",
+      "title": "The official Deadpool and Wolverine trailer is finally here, and yes, it\u2019s awesome",
+      "url": "https://arstechnica.com/?p=2018978",
+      "urlToImage": null
+    },
+    {
+      "author": "Ryan McMorrow, Financial Times",
+      "description": "Company points out that proposed ban would run afoul of the First Amendment.",
+      "publishedAt": "2024-04-22T13:38:42+00:00",
+      "title": "TikTok ready to \u201cmove to the courts\u201d to prevent ban in US",
+      "url": "https://www.ft.com/content/b46ad753-38d0-43ff-a41c-473fdb8ddadd",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1228505551-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Interested in gadgets with premium displays? QDEL should be on your radar.",
       "publishedAt": "2024-04-22T11:00:27+00:00",
@@ -18,67 +74,11 @@
     },
     {
       "author": "Jennifer Ouellette",
-      "description": "Dr. Alex Schell on the surprising things we're learning about these amazing creatures",
+      "description": "Dr. Alex Schnell on the surprising things we're learning about these amazing creatures.",
       "publishedAt": "2024-04-21T18:26:03+00:00",
       "title": "Secrets of the Octopus takes us inside the world of these \u201caliens on Earth\u201d",
       "url": "https://arstechnica.com/science/2024/04/secrets-of-the-octopus-takes-us-inside-the-world-of-these-aliens-on-earth/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/octopus1-760x380.jpg"
-    },
-    {
-      "author": "Maggie Chen, wired.com",
-      "description": "The immune system can get kicked into overdrive when the fungi run riot.",
-      "publishedAt": "2024-04-21T10:35:13+00:00",
-      "title": "The fungi in our guts can make cases of Covid worse",
-      "url": "https://www.wired.com/story/unruly-gut-fungi-can-make-your-covid-worse-infection-coronavirus-candida-albicans/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/candida-fungus-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "The show preserved the themes, archetypes, chronology, and more for the games.",
-      "publishedAt": "2024-04-20T12:20:58+00:00",
-      "title": "War never changes: A Fallout fan\u2019s spoiler-laden review of the new TV series",
-      "url": "https://arstechnica.com/culture/2024/04/war-never-changes-a-fallout-fans-spoiler-laden-review-of-the-new-tv-series/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Fallout-Nukes-760x380.png"
-    },
-    {
-      "author": "Kristin Shaw",
-      "description": "The competition provides a steady stream of experienced graduates to the auto industry.",
-      "publishedAt": "2024-04-20T11:00:11+00:00",
-      "title": "Why are groups of university students modifying Cadillac Lyriq EVs?",
-      "url": "https://arstechnica.com/cars/2024/04/why-are-groups-of-university-students-modifying-cadillac-lyriq-evs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/52927934446_0ff7bfdee4_o1-760x380.jpg"
-    },
-    {
-      "author": "Christina Szalinski, Undark Magazine",
-      "description": "Some experts have concerns over the safety of the genetically modified bacteria.",
-      "publishedAt": "2024-04-20T10:49:40+00:00",
-      "title": "The GMO tooth microbe that is supposed to prevent cavities",
-      "url": "https://undark.org/2024/04/17/brushing-with-bacteria-lumina/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/tooth-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Part of the \"New Atheist\" movement, best known for work on consciousness, free will.",
-      "publishedAt": "2024-04-19T23:45:55+00:00",
-      "title": "Daniel Dennett, philosophical giant who championed \u201cnaturalism,\u201d dead at 82",
-      "url": "https://arstechnica.com/science/2024/04/philosopher-daniel-dennett-dead-at-82/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/dennettTOP-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "The study is small and imperfect but offers more data on how time-restricted diets work.",
-      "publishedAt": "2024-04-19T21:43:16+00:00",
-      "title": "It\u2019s cutting calories\u2014not intermittent fasting\u2014that drops weight, study suggests",
-      "url": "https://arstechnica.com/?p=2018837",
-      "urlToImage": null
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "New CNN head thinks CNN+ \"was abandoned rather briskly.\"",
-      "publishedAt": "2024-04-19T21:28:50+00:00",
-      "title": "CNN, record holder for shortest streaming service, wants another shot",
-      "url": "https://arstechnica.com/gadgets/2024/04/cnn-record-holder-for-shortest-streaming-service-wants-another-shot/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1211180725-760x380.jpg"
     }
   ],
   "sortBy": "top",
