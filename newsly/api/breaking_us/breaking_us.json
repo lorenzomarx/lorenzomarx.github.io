@@ -1,17 +1,212 @@
 {
   "articles": [
     {
-      "author": ", Dan Bickley",
-      "content": "Pressure can turn cracks into canyons. It can turn mountains into rubble.\r\nThe Suns are almost in ruins.\r\nIt wasnt the lack of fight in a 105-93 loss to the Timberwolves in Game 2 of the Western Conf\u2026 [+2392 chars]",
-      "description": "The best three players in the Suns' Game 2 loss were all Timberwolves. Phoenix seems ready for a long offseason more than a playoff run.",
-      "publishedAt": "2024-04-24T03:11:00Z",
+      "author": "Natasha Bertrand, Alex Marquardt",
+      "content": "The Biden administration is preparing a\u00a0new aid package for Ukraine\u00a0that is expected to be worth around $1 billion,\u00a0multiple\u00a0sources familiar with the matter told CNN.\r\nThe Senate passed the legislat\u2026 [+3723 chars]",
+      "description": "The Biden administration is preparing a\u00a0new aid package for Ukraine\u00a0that is expected to be worth around $1 billion,\u00a0multiple\u00a0sources familiar with the matter told CNN.",
+      "publishedAt": "2024-04-24T10:16:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "New US military aid package to Ukraine expected to be worth around $1 billion - CNN",
+      "url": "https://www.cnn.com/2024/04/23/politics/us-ukraine-military-aid-package/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230714170843-atacms-file-2021.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-04-24T10:06:00Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "US Senate passes TikTok divestment-or-ban bill, Biden set to make it law - Reuters",
+      "url": "https://www.reuters.com/world/us/senators-hope-tiktok-will-remain-business-us-under-new-owner-2024-04-23/",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "The EV maker brings forward launch plans for new models as profits drop by more than half.",
+      "publishedAt": "2024-04-24T09:40:16Z",
       "source": {
         "id": null,
-        "name": "Arizona Sports"
+        "name": "BBC News"
       },
-      "title": "Bickley: Suns look ready for offseason with Game 2 loss to Wolves - Arizona Sports",
-      "url": "https://arizonasports.com/story/3546602/bickley-suns-look-ready-offseason-game-2-loss-wolves/",
-      "urlToImage": "http://arizonasports.com/wp-content/uploads/2024/04/mike-conley-bradley-beal-game-2-suns-wolves-e1713928095138.jpg"
+      "title": "Tesla profits cut in half as demand falls - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c72pvz18x4lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6696/live/460a1f90-01bd-11ef-911a-89ede1ae3943.jpg"
+    },
+    {
+      "author": "Annika Kim Constantino",
+      "content": "More than 3 million people with Medicare could be eligible for coverage of Wegovy now that the blockbuster weight loss drug is also approved in the U.S. for heart health, according to an analysis rel\u2026 [+3919 chars]",
+      "description": "For the first time, some Medicare beneficiaries will be able to access Novo Nordisk's Wegovy without having to shoulder the total monthly price tag.",
+      "publishedAt": "2024-04-24T09:00:01Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "More than 3 million Medicare patients could be eligible for coverage of Wegovy to reduce heart disease risks, study says - CNBC",
+      "url": "https://www.cnbc.com/2024/04/24/wegovy-3point6-million-medicare-patients-could-get-heart-health-coverage.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107388183-17105168322024-03-08t155804z_1586224836_rc2kh6a50cn0_rtrmadp_0_totw-obesity.jpeg?v=1710516917&w=1920&h=1080"
+    },
+    {
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-04-24T09:00:00Z",
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "title": "How McConnell and Schumer beat hardline conservatives on Ukraine - POLITICO",
+      "url": "https://www.politico.com/news/2024/04/24/mitch-mcconnell-israel-ukraine-aid-00153990",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "A deadline for pro-Palestinian protesters to disband from the university's main campus was set for midnight.",
+      "publishedAt": "2024-04-24T08:49:04Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Columbia University: Pro-Palestinian protesters refuse to disband - BBC.com",
+      "url": "https://www.bbc.com/news/world-us-canada-68883271",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58D5/production/_133214722_84b134acf0ace17ee408d1376b8c51b49688aca9.jpg"
+    },
+    {
+      "author": "",
+      "content": "Last year I finally did something I'd been meaning to do for years, putting together the WORST MOCK DRAFT EVER. The purpose? To troll every single NFL fan base (or at least as many as possible) with \u2026 [+1565 chars]",
+      "description": "Will Brinson trolls his boat once again",
+      "publishedAt": "2024-04-24T06:43:00Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "2024 NFL Mock Draft: Brinson's Worst Mock Ever designed to anger every single NFL fan base - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-brinsons-worst-mock-ever-designed-to-anger-every-single-nfl-fan-base/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/17/0e98acb0-a94b-49bd-94a4-e3053b13e4ad/thumbnail/1200x675/9a41c3a0c320997eed683d1378f0fb78/mccarthy.jpg"
+    },
+    {
+      "author": "Oliver Knight",
+      "content": "<ul><li>A tether spokesperson said that it will freeze addresses linked to evading sanctions.\r\n</li><li>Reuters reported earlier this week that Venezuelan oil company PDVSA was using USDT via interme\u2026 [+1961 chars]",
+      "description": "Use of Tether has increased in Venezuela after the U.S. reimposed sanctions on oil exports.",
+      "publishedAt": "2024-04-24T06:31:00Z",
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "title": "Tether Will Freeze Wallets Evading Venezuelan Sanctions - CoinDesk",
+      "url": "https://www.coindesk.com/policy/2024/04/24/tether-will-freeze-wallets-evading-venezuelan-sanctions/",
+      "urlToImage": "https://www.coindesk.com/resizer/8cx1BDQoNSgSB2YIeTEuVe6fezU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IITCU4WJYVBGVFHB6CYNBEIK3I.JPG"
+    },
+    {
+      "author": "Colby Itkowitz, Dylan Wells",
+      "content": "Rep. Summer Lee, a far-left Democrat who has been critical of Israels military actions in Gaza, prevailed in Tuesdays Pennsylvania primary election, which served as a microcosm of the larger intrapar\u2026 [+5797 chars]",
+      "description": "The race in Pennsylvania\u2019s 12th District was considered a first test for the \u201cSquad\u201d of left-wing, progressive Democrats in Congress.",
+      "publishedAt": "2024-04-24T05:37:00Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Summer Lee wins Pennsylvania primary, despite criticism of Israel-Gaza war - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2024/04/23/pennsylvania-primary-election-summer-lee-win/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RH3LSHF7FJ3MOJ2EA7Y2H5COUM.JPG&w=1440"
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "Luka Doncic (32 points) Highlights vs. LA ClippersJoin Club Maverick!Check out the Mavs 2023-24 season tickets:https://www.mavs.com/tickets/DALLAS MAVERICKS ...",
+      "publishedAt": "2024-04-24T05:22:03Z",
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "title": "Luka Doncic (32 points) Highlights vs. LA Clippers | 4/23/24 - Dallas Mavericks",
+      "url": "https://www.youtube.com/watch?v=EPVnNWeTp78",
+      "urlToImage": "https://i.ytimg.com/vi/EPVnNWeTp78/maxresdefault.jpg"
+    },
+    {
+      "author": "Fox Business",
+      "content": "Oracle founder\u00a0Larry Ellison announced Tuesday that he plans to move the software giants corporate headquarters to Nashville, Tennessee, which he added is at the center of the healthcare industry.\r\nE\u2026 [+2267 chars]",
+      "description": "Back in 2022, Oracle acquired Cerner for $28 billion. The Kansas City, Missouri-based company\u00a0provides software\u00a0for managing electronic health records.",
+      "publishedAt": "2024-04-24T05:03:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "Oracle announces plans to move world headquarters to Nashville - New York Post ",
+      "url": "https://nypost.com/2024/04/24/business/oracle-announces-plans-to-move-world-headquarters-to-nashville/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-8i2cj5x89-1713934139434.jpg?quality=75&strip=all&1713919768&w=1024"
+    },
+    {
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-04-24T04:28:20Z",
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "title": "Tennessee lawmakers pass bill to allow teachers to be armed - POLITICO",
+      "url": "https://www.politico.com/news/2024/04/24/tennessee-lawmakers-pass-bill-to-allow-teachers-to-be-armed-00154042",
+      "urlToImage": null
+    },
+    {
+      "author": "Stephen Collinson",
+      "content": "Prosecutor Chris Conroy captured the quintessential Donald Trump in a single sentence at the ex-presidents hush money trial on Tuesday.\r\nHe knows what hes not allowed to do, and he does it anyway.\r\nC\u2026 [+8504 chars]",
+      "description": "Prosecutor Christopher Conroy captured the quintessential Donald Trump in a single sentence at the ex-President\u2019s hush money trial on Tuesday.",
+      "publishedAt": "2024-04-24T04:03:03Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "How a gag order showdown explains everything about Trump - CNN",
+      "url": "https://www.cnn.com/2024/04/23/politics/donald-trump-gag-order-analysis/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2149316078.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": ", USA TODAY",
+      "content": "Since they first took an NFL field in 2002, the Houston Texans have pretty much looked the same.\r\nNo more and not simply because quarterback C.J. Stroud and a loaded roster could be headed to new hei\u2026 [+2409 chars]",
+      "description": "The Houston Texans unveiled a bold shift in their look on Tuesday with new uniforms, with their alternate and Color Rush looks getting big changes.",
+      "publishedAt": "2024-04-24T03:45:00Z",
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Houston Texans uniform reveal: Franchise unveils historic new look - USA TODAY",
+      "url": "https://www.usatoday.com/story/sports/nfl/texans/2024/04/23/houston-texans-uniform-photos-helmet-jersey-redesign/73424746007/",
+      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2024/04/23/USAT/73425020007-2024-texans-rebrand-assets-external-media-0004.jpg?auto=webp&crop=5744,3231,x41,y230&format=pjpg&width=1200"
+    },
+    {
+      "author": "FOX 35 Orlando",
+      "content": "CAPE CANAVERAL, Fla. - Nearly two dozen of SpaceX's Starlink satellites were launched into space Tuesday from Florida's Kennedy Space Center.\r\nSpaceX's Falon 9 rocket lifted off from Space Launch Com\u2026 [+711 chars]",
+      "description": "Nearly two dozen of SpaceX's Starlink satellites were launched into space Tuesday from Florida's Kennedy Space Center.",
+      "publishedAt": "2024-04-24T03:24:24Z",
+      "source": {
+        "id": null,
+        "name": "FOX 35 Orlando"
+      },
+      "title": "SpaceX's Falcon 9 rocket launches more satellites into space - FOX 35 Orlando",
+      "url": "https://www.fox35orlando.com/news/spacex-set-to-launch-falcon-9-rocket-carrying-starlink-satellites-from-florida-tuesday-evening",
+      "urlToImage": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/04/1280/720/GettyImages-2021273237-1.jpg?ve=1&tl=1"
     },
     {
       "author": "Gabrielle Chung",
@@ -27,61 +222,35 @@
       "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024323/cr_1200x1200-240423185235-GettyImages-1200607675.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
     },
     {
-      "author": "Charean Williams",
-      "content": "Hall of Famer Peyton Manning said the Broncos are very interested in Michigan quarterback J.J. McCarthy. But McCarthy apparently isnt the only top-rated quarterback prospect the Broncos have interest\u2026 [+614 chars]",
-      "description": "Hall of Famer Peyton Manning said the Broncos are \"very interested\" in Michigan quarterback J.J.",
-      "publishedAt": "2024-04-24T02:07:43Z",
+      "author": "Devin Dwyer",
+      "content": "Against the backdrop of a divisive 2024 presidential campaign, the U.S. Supreme Court on Thursday will take up the monumental question of whether a former president turned presumptive GOP nominee can\u2026 [+5754 chars]",
+      "description": "The fate of his federal criminal Jan. 6 trial hinges on the court's decision.",
+      "publishedAt": "2024-04-24T02:42:16Z",
       "source": {
-        "id": null,
-        "name": "NBCSports.com"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "title": "Report: Broncos have done a lot of work on Oregon QB Bo Nix - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-broncos-have-done-a-lot-of-work-on-oregon-qb-bo-nix",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/fab5785/2147483647/strip/true/crop/5616x3159+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2F22%2F7263b9b741e9bb400a331b293b77%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2049588940"
-    },
-    {
-      "author": "Cristiano Lima-Strong",
-      "content": "Congress late Tuesday passed legislation to ban or force a sale of TikTok, delivering a historic rebuke of the video-sharing platforms Chinese ownership after years of failed attempts to tackle the a\u2026 [+8270 chars]",
-      "description": "Lawmakers sped a possible TikTok ban through Congress by tying it to a sprawling funding package offering aid to Israel, Ukraine and Taiwan.",
-      "publishedAt": "2024-04-24T01:55:07Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Senate passes possible TikTok ban, sends to Biden who\u2019s expected to sign it - The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2024/04/23/tiktok-ban-senate-vote-sale-biden/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XB7VC5DDG5NAUTR56HXGXGOZAE_size-normalized.jpg&w=1440"
+      "title": "Supreme Court takes up Trump's claim of 'absolute immunity' from criminal prosecution - ABC News",
+      "url": "https://abcnews.go.com/Politics/supreme-court-takes-trumps-claim-absolute-immunity-criminal/story?id=109251013",
+      "urlToImage": "https://i.abcnewsfe.com/a/8052b717-83e3-468d-b01f-55f5bee42e48/donald-trump-4-gty-gmh-240422_1713816390447_hpMain_16x9.jpg?w=1600"
     },
     {
       "author": null,
-      "content": "A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 40 on the Starlink 6-53 mission on April 23, 2024. Image: Adam Bernstein/Spaceflight Now\r\nUpdate 7:32 p.m. EDT: SpaceX confirmed deploymen\u2026 [+1440 chars]",
-      "description": null,
-      "publishedAt": "2024-04-24T01:30:00Z",
+      "content": null,
+      "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://link.n...",
+      "publishedAt": "2024-04-24T02:22:52Z",
       "source": {
         "id": null,
-        "name": "Spaceflight Now"
+        "name": "YouTube"
       },
-      "title": "SpaceX completes 300th Falcon booster landing during Starlink mission \u2013 Spaceflight Now - Spaceflight Now",
-      "url": "https://spaceflightnow.com/2024/04/23/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-flight-from-cape-canaveral/",
-      "urlToImage": null
+      "title": "#6 SUNS at #3 TIMBERWOLVES | FULL GAME 2 HIGHLIGHTS | April 23, 2024 - NBA",
+      "url": "https://www.youtube.com/watch?v=vzql7IiLmlA",
+      "urlToImage": "https://i.ytimg.com/vi/vzql7IiLmlA/maxresdefault.jpg"
     },
     {
-      "author": "MICHAEL R. SISAK, JENNIFER PELTZ, ERIC TUCKER, JAKE OFFENHARTZ",
-      "content": "NEW YORK (AP) A veteran tabloid publisher testified Tuesday that he pledged to be Donald Trump s eyes and ears during his 2016 presidential campaign, recounting how he promised the then-candidate tha\u2026 [+8299 chars]",
-      "description": "A veteran tabloid publisher has testified that he pledged to be Donald Trump\u2019s \u201ceyes and ears\u201d during his 2016 presidential campaign, recounting for a jury how he promised the then-candidate that he would help suppress harmful stories and had even arranged to\u2026",
-      "publishedAt": "2024-04-24T01:25:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Trump hush money trial: Tabloid publisher David Pecker testifies - The Associated Press",
-      "url": "https://apnews.com/article/trump-trial-hush-money-national-enquirer-d44d4a7ce66cc08edb5981b3afb882ba",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7b230cf/2147483647/strip/true/crop/7751x4360+0+404/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2F9f%2Fb9739a63578946cc046802fdfdbd%2Fed77e8b4d0c04bac8774a6ecd1a9ce73"
-    },
-    {
-      "author": "The Hill",
-      "content": null,
-      "description": null,
+      "author": "Nick Robertson",
+      "content": "Skip to content\r\nUnited Nations leaders demanded a \u201cclear, transparent and credible\u201d investigation Tuesday after mass graves containing the bodies of hundreds of men and women were discovered on the \u2026 [+2674 chars]",
+      "description": "United Nations leaders demanded a \u201cclear, transparent and credible\u201d investigation Tuesday after mass graves containing the bodies of hundreds of men and women were discovered on the grounds of two major hospitals in Gaza that were previously under assault by \u2026",
       "publishedAt": "2024-04-24T01:12:00Z",
       "source": {
         "id": "the-hill",
@@ -89,176 +258,7 @@
       },
       "title": "UN calls for investigation into mass graves found at Gaza hospitals - The Hill",
       "url": "https://thehill.com/policy/international/4616720-un-calls-for-investigation-into-mass-graves-found-at-gaza-hospitals/",
-      "urlToImage": null
-    },
-    {
-      "author": "Nick Robertson",
-      "content": "Skip to content\r\nParticles of bird flu were detected in some samples of pasteurized milk, though the virus in that form is not a threat to humans, the Food and Drug Administration (FDA) announced Tue\u2026 [+1135 chars]",
-      "description": "Particles of bird flu were detected in some samples of pasteurized milk, though the virus in that form is not a threat to humans, the Food and Drug Administration (FDA) announced Tuesday. As a bird flu epidemic spreads through avian and cattle livestock acros\u2026",
-      "publishedAt": "2024-04-24T01:00:00Z",
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "title": "Bird flu virus detected in pasteurized milk: FDA - The Hill",
-      "url": "https://thehill.com/policy/healthcare/4616539-bird-flu-virus-detected-in-pasteurized-milk-fda/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/12/cows_Cattle_istock_1206.webp?w=1280"
-    },
-    {
-      "author": "John Bacon, Eduardo Cuevas, Anna Kaufman, Jorge L. Ortiz",
-      "content": "NEW YORK Protests resumed Tuesday at NYU, Columbia and elsewhere as colleges across the nation grappled with more unrest after days of demonstrations, campus closures and arrests swirling around U.S.\u2026 [+18526 chars]",
-      "description": "Columbia University, the epicenter of the demonstrations, said classes will provide a virtual learning option through the end of the semester.",
-      "publishedAt": "2024-04-24T00:22:30Z",
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "title": "Israeli war fuels protests at Columbia, other colleges: Live updates - USA TODAY",
-      "url": "https://www.usatoday.com/story/news/nation/2024/04/23/israel-war-student-protests-live-updates/73421968007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/23/USAT/73428203007-20240423-t-180739-z-2075040463-rc-2-hc-7-ahzscp-rtrmadp-3-israelpalestiniansusaprotests.JPG?crop=3497,1967,x4,y212&width=3200&height=1800&format=pjpg&auto=webp"
-    },
-    {
-      "author": null,
-      "content": "PHILADELPHIA (CBS) \u2014 Polls across Pennsylvania are closed and results for the\u00a02024 primary election\u00a0are pouring in. See live results of Pennsylvania's attorney general race, U.S. House and other stat\u2026 [+3460 chars]",
-      "description": "Get live results of Pennsylvania's primary election.",
-      "publishedAt": "2024-04-24T00:02:13Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Pennsylvania primary election results 2024 - CBS Philly",
-      "url": "https://www.cbsnews.com/philadelphia/news/pennsylvania-primary-election-results-2024/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2012/11/02/1b4c3f7b-1470-4ae2-8105-fe3cbf77bb2b/thumbnail/1200x630g2/87f42048aeeb0b0396bff7630bfc9177/election-results.jpg?v=1da0267dcfd5e1d387d4678a648e733c"
-    },
-    {
-      "author": "Filipe Esp\u00f3sito",
-      "content": "Apple on Tuesday announced that it will hold a special event on May 7. Although the company doesn\u2019t usually discuss the topics of the event, the invitation artwork makes it clear that it will be all \u2026 [+2012 chars]",
-      "description": "Apple on Tuesday announced that it will hold a special event on May 7. Although the company doesn\u2019t usually discuss...",
-      "publishedAt": "2024-04-23T23:46:00Z",
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "title": "Tim Cook hints at new Apple Pencil 3 coming next month \u2013 here's what the rumors say - 9to5Mac",
-      "url": "https://9to5mac.com/2024/04/23/tim-cook-hints-apple-pencil-3/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/iPad-Apple-Pencil.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    },
-    {
-      "author": "Emily Mae Czachor",
-      "content": "A man suspected of murdering two women this week in central Washington state and abducting a 1-year-old child died of a self-inflicted gunshot wound after a police chase in Oregon, authorities said.\u00a0\u2026 [+3409 chars]",
-      "description": "The former officer, Elias Huizar, is suspected of killing two women and abducting a child in central Washington.",
-      "publishedAt": "2024-04-23T23:39:04Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Former cop accused of murder, abduction, found with self-inflicted gunshot wound after manhunt, officials say - CBS News",
-      "url": "https://www.cbsnews.com/news/elias-huizar-manhunt-two-women-dead-child-abduction-washington-state-police/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/23/f1c98e78-160d-4a2a-8708-6338ba4f0501/thumbnail/1200x630/5bac38d2fa6d644d73a3fe862209bad9/elias-huizar.jpg?v=1da0267dcfd5e1d387d4678a648e733c"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Today on CNN 10, the Voyager 1 spacecraft has finally sent decipherable code back to Earth again, after NASA engineers fixed a communication problem. Voyager...",
-      "publishedAt": "2024-04-23T23:30:00Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "After 5 months of problems, NASA's aging Voyager 1 is working again - CNN 10",
-      "url": "https://www.youtube.com/watch?v=3AH7YGZ31ZE",
-      "urlToImage": "https://i.ytimg.com/vi/3AH7YGZ31ZE/maxresdefault.jpg"
-    },
-    {
-      "author": "Tim Bontemps",
-      "content": "Philadelphia 76ers guard Tyrese Maxey was named the NBA's most improved player Tuesday night, beating out Chicago Bulls guard Coby White and Houston Rockets center Alperen Sengun.\r\nMaxey, 23, had a b\u2026 [+4019 chars]",
-      "description": "Sixers guard Tyrese Maxey, who upped his scoring average to 25.9 points per game and was a first-time All-Star this season, edged the Bulls' Coby White for the NBA's most improved player.",
-      "publishedAt": "2024-04-23T23:25:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Sixers' Tyrese Maxey edges Coby White as NBA's most improved - ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/40011550/sixers-tyrese-maxey-edges-coby-white-nba-most-improved",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0413%2Fr1318185_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Kirsten Korosec, Sean O'Kane and Rebecca Bellan",
-      "content": "Tesla profits fell 55% to $1.13 billion in the first quarter from the same year-ago period as a protracted EV price-cutting strategy and \u201cseveralunforeseenchallenges\u201d\u00a0cut into the automakers bottom l\u2026 [+6602 chars]",
-      "description": "Tesla profits fell 55% in the first quarter as a protracted EV price-cutting strategy\u00a0cut into the automaker\u2019s bottom line.",
-      "publishedAt": "2024-04-23T23:15:00Z",
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "title": "Tesla profits drop 55%, company says EV sales \u2018under pressure\u2019 from hybrids - TechCrunch",
-      "url": "https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1434797485.jpg?resize=1200,675"
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-23T22:49:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "Biden rule grants overtime pay to 4 million US workers - Reuters",
-      "url": "https://www.reuters.com/world/us/biden-rule-grants-overtime-pay-4-million-us-workers-2024-04-23/",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Ministers believe the novel deportation scheme is worth a try, but Labour plans to get rid of it.",
-      "publishedAt": "2024-04-23T22:41:54Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Rwanda bill passage draws election dividing line - BBC.com",
-      "url": "https://www.bbc.com/news/uk-politics-68880167",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/172DD/production/_133214949_mediaitem133214948.jpg"
-    },
-    {
-      "author": "Eileen Reslen",
-      "content": "Megan Thee Stallion is denying the scathing allegations made about her in a new harassment lawsuit filed against her Tuesday.\r\nThis is an employment claim for money \u2014 with no sexual harassment claim \u2026 [+2822 chars]",
-      "description": "Videographer Emilio Garcia sued the rap superstar Tuesday, claiming he was allegedly forced to witness Megan having sex during a tour stop in Spain.",
-      "publishedAt": "2024-04-23T22:18:00Z",
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "title": "Megan Thee Stallion slams 'salacious accusations' in bombshell lawsuit: 'No sexual harassment claim was filed' - Page Six",
-      "url": "https://pagesix.com/2024/04/23/entertainment/megan-thee-stallion-slams-salacious-accusations-in-bombshell-lawsuit/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/80568341.jpg?quality=75&strip=all&w=1024"
-    },
-    {
-      "author": null,
-      "content": "April 23, 20242024-04-23T17:49:55-04:00https://ximage.c-spanvideo.org/eyJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlc1wvZGQ5XC8wMDFcLzE3MTM4OTgwOTRfMDAxLmpwZyIsImVkaXRzIjp7InJlc2l6Z\u2026 [+1484 chars]",
-      "description": "\"This is an important day for America and a very important day for freedom-loving countries around the world,\" said Senate Republican Leader Mitch McConnell (KY) as he briefed the press on the Ukraine-Israel-Taiwan foreign aid package that was set to pass the\u2026",
-      "publishedAt": "2024-04-23T21:49:55Z",
-      "source": {
-        "id": null,
-        "name": "C-span.org"
-      },
-      "title": "Senate Minority Leader McConnell Holds News Conference - C-SPAN ",
-      "url": "https://www.c-span.org/video/?535130-1/senate-minority-leader-mcconnell-holds-news-conference",
-      "urlToImage": "https://ximage.c-spanvideo.org/eyJidWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlc1wvZGQ5XC8wMDFcLzE3MTM4OTgwOTRfMDAxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsImhlaWdodCI6NjMwLCJ3aWR0aCI6MTIwMH19fQ=="
-    },
-    {
-      "author": "Alex Stedman",
-      "content": "More details have emerged about what was billed as Quentin Tarantino's 10th and final film, The Movie Critic, in the wake of the writer/director's shocking reported abandonment of the project last we\u2026 [+3332 chars]",
-      "description": "According to a THR report today, one of the ideas Quentin Tarantino was toying with for scrapped film The Movie Critic had it serving as a \"Tarantino goodbye meta-verse,\" weaving in stars and characters from his previous works.",
-      "publishedAt": "2024-04-23T21:40:55Z",
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "title": "Quentin Tarantino Was Reportedly Toying With a 'Goodbye Meta-Verse' Idea for Scrapped Film The Movie Critic - IGN",
-      "url": "https://www.ign.com/articles/quentin-tarantino-was-reportedly-toying-with-a-goodbye-meta-verse-idea-for-scrapped-film-the-movie-critic",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/23/tarantino-1713908202908.jpg?width=1280"
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/04/GettyImages-2148009059-2.jpg?w=1280"
     }
   ],
   "status": "ok",
