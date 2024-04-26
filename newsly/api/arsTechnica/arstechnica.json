@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Scharon Harding",
+      "description": "Reddit says its \"communities are naturally commercial.\"",
+      "publishedAt": "2024-04-24T22:18:12+00:00",
+      "title": "Reddit, AI spam bots explore new ways to show ads in your feed",
+      "url": "https://arstechnica.com/gadgets/2024/04/reddit-sneaky-ai-spam-bots-compete-to-sell-you-stuff/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2141955211-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Polestar normally makes electric cars, but now it's releasing a phone.",
+      "publishedAt": "2024-04-24T21:41:31+00:00",
+      "title": "A Polestar Phone now inexplicably exists",
+      "url": "https://arstechnica.com/gadgets/2024/04/a-polestar-phone-now-inexplicably-exists/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/5-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Not all gamma-ray bursts come from supernovae.",
+      "publishedAt": "2024-04-24T21:10:09+00:00",
+      "title": "We may have spotted the first magnetar flare outside our galaxy",
+      "url": "https://arstechnica.com/science/2024/04/we-may-have-spotted-the-first-magnetar-flare-outside-our-galaxy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-7-760x380.jpeg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Perimeter devices ought to prevent network hacks. Why are so many devices allowing attacks?",
+      "publishedAt": "2024-04-24T20:55:20+00:00",
+      "title": "Nation-state hackers exploit Cisco firewall 0-days to backdoor government networks",
+      "url": "https://arstechnica.com/security/2024/04/cisco-firewall-0-days-under-attack-for-5-months-by-resourceful-nation-state-hackers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Panel of eight judges confronts deep-faking AI tech that may undermine legal trials.",
+      "publishedAt": "2024-04-24T20:14:34+00:00",
+      "title": "Deepfakes in the courtroom: US judicial panel debates new AI evidence rules",
+      "url": "https://arstechnica.com/information-technology/2024/04/deepfakes-in-the-courtroom-us-judicial-panel-debates-new-ai-evidence-rules/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/juding_fake_evidence-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Noncompete clauses \"benefit employers and workers alike,\" Chamber tells court.",
+      "publishedAt": "2024-04-24T19:58:56+00:00",
+      "title": "Chamber of Commerce sues FTC in Texas, asks court to block ban on noncompetes",
+      "url": "https://arstechnica.com/tech-policy/2024/04/business-groups-sue-ftc-to-block-ban-on-noncompetes-claim-they-help-workers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/lawsuit-getty-640x215.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "It's largely a win against scammers, but a simple policy doesn't fit all games.",
+      "publishedAt": "2024-04-24T17:38:32+00:00",
+      "title": "No more refunds after 100 hours: Steam closes Early Access playtime loophole",
+      "url": "https://arstechnica.com/gaming/2024/04/no-more-refunds-after-100-hours-steam-closes-early-access-playtime-loophole/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1894072558-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Google says UK regulator testing means the advertising tech will last until 2025.",
+      "publishedAt": "2024-04-24T17:30:52+00:00",
+      "title": "Google can\u2019t quit third-party cookies\u2014delays shut down for a third time",
+      "url": "https://arstechnica.com/gadgets/2024/04/google-delays-third-party-cookie-death-again-now-scheduled-for-2025/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/Chrome-Getty-760x380.jpg"
+    },
+    {
       "author": "John Timmer",
       "description": "Charging electric vehicles at home will exceed most power lines' capacity.",
       "publishedAt": "2024-04-24T17:06:46+00:00",
@@ -10,75 +74,11 @@
     },
     {
       "author": "Jennifer Ouellette",
-      "description": "It's the latest and best of a string of meta marketing videos to promote the film.",
+      "description": "Ryan Gosling and his stunt buddies spoof Carpool Karaoke and sing along to Journey.",
       "publishedAt": "2024-04-24T16:49:18+00:00",
       "title": "The Fall Guy spotlights its amazing stuntmen in meta marketing video",
       "url": "https://arstechnica.com/culture/2024/04/watch-ryan-gosling-and-the-fall-guy-stuntmen-have-fun-with-carpool-karaoke/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/fallguy1-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Bill gives ByteDance 270 days to sell TikTok or app loses access to US market.",
-      "publishedAt": "2024-04-24T16:14:11+00:00",
-      "title": "US bans TikTok owner ByteDance, will prohibit app in US unless it is sold",
-      "url": "https://arstechnica.com/tech-policy/2024/04/biden-signs-bill-to-ban-tiktok-if-chinese-owner-bytedance-doesnt-sell/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/tiktok-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "In 2019, dev promised purchases would \"only be used to buy cosmetic Game Extras.\"",
-      "publishedAt": "2024-04-24T15:58:44+00:00",
-      "title": "Elite: Dangerous\u2019s real-money ship sales spark \u201cpay-to-win\u201d outrage",
-      "url": "https://arstechnica.com/gaming/2024/04/elite-dangerouss-real-money-ship-sales-spark-pay-to-win-outrage/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/pythonmk2-760x380.png"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Can the Falcon 9 eventually challenge Soyuz for launch totals?",
-      "publishedAt": "2024-04-24T15:00:51+00:00",
-      "title": "SpaceX has now landed more boosters than most other rockets ever launch",
-      "url": "https://arstechnica.com/space/2024/04/spacex-has-now-landed-more-boosters-than-most-other-rockets-ever-launch/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/spacex301-760x380.jpg"
-    },
-    {
-      "author": "Roberto Baldwin",
-      "description": "With four motors, deeper fording, and more power, you can forget about the gas version.",
-      "publishedAt": "2024-04-24T14:30:52+00:00",
-      "title": "Mercedes\u2019 electric G-Wagon is more capable than the gas version",
-      "url": "https://arstechnica.com/cars/2024/04/mercedess-electric-g-wagon-is-more-capable-than-the-gas-version/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/pre-media_24c0077_026-760x380.jpg"
-    },
-    {
-      "author": "Ellesheva Kissin, Financial Times",
-      "description": "Businesses in Africa, Asia, and South America hit before moving on to Western targets.",
-      "publishedAt": "2024-04-24T13:26:24+00:00",
-      "title": "Hackers are using developing countries for ransomware practice",
-      "url": "https://www.ft.com/content/53758c43-9349-4f01-9c2c-b452822a3e7e",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/ransomware-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Tesla spent $1 billion on GPUs even as its profit margins shrank by half.",
-      "publishedAt": "2024-04-24T13:16:41+00:00",
-      "title": "Tesla profits drop 55% as Elon Musk dodges cheap car questions",
-      "url": "https://arstechnica.com/cars/2024/04/tesla-profits-drop-55-as-elon-musk-dodges-cheap-car-questions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1252004150-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Checking back in with Windows 11 on Arm on the eve of the Snapdragon X Elite.",
-      "publishedAt": "2024-04-24T11:00:03+00:00",
-      "title": "Is the Arm version of Windows ready for its close-up?",
-      "url": "https://arstechnica.com/gadgets/2024/04/is-the-arm-version-of-windows-ready-for-its-close-up/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/SnapdragonXElite_HeroImage-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The test cannot tell if the virus is live. FDA still considers milk supply safe.",
-      "publishedAt": "2024-04-24T01:20:27+00:00",
-      "title": "Fragments of bird flu virus genome found in pasteurized milk, FDA says",
-      "url": "https://arstechnica.com/uncategorized/2024/04/fda-finds-genetic-traces-of-bird-flu-virus-in-pasteurized-milk/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1449657254-760x380.jpeg"
     }
   ],
   "sortBy": "top",
