@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "The new facilities are in addition to the previously announced EV hub in Ohio.",
+      "publishedAt": "2024-04-25T16:33:09+00:00",
+      "title": "Honda to spend $11 billion on four EV factories in North America",
+      "url": "https://arstechnica.com/cars/2024/04/honda-to-spend-11-billion-on-four-ev-factories-in-north-america/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/EmblemInstall-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Police uncover plot to defame principal with AI-generated racist and antisemitic comments.",
+      "publishedAt": "2024-04-25T15:30:01+00:00",
+      "title": "School athletic director arrested for framing principal using AI voice synthesis",
+      "url": "https://arstechnica.com/information-technology/2024/04/alleged-ai-voice-imitation-leads-to-arrest-in-baltimore-school-racism-controversy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/deepfake_audio_voice_hero_2-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Coal to be hit hard, natural gas plants will have to capture carbon emissions.",
+      "publishedAt": "2024-04-25T15:07:03+00:00",
+      "title": "EPA issues four rules limiting pollution from fossil fuel power plants",
+      "url": "https://arstechnica.com/tech-policy/2024/04/epa-issues-four-rules-limiting-pollution-from-fossil-fuel-power-plants/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1281073712-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Creator: \"They don't want you playing with that stuff... we have to respect that.\"",
+      "publishedAt": "2024-04-25T14:11:31+00:00",
+      "title": "Garry\u2019s Mod is taking down 20 years\u2019 worth of \u201cNintendo Stuff\u201d",
+      "url": "https://arstechnica.com/gaming/2024/04/garrys-mod-is-taking-down-20-years-worth-of-nintendo-stuff/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/mariogarry-760x380.jpeg"
+    },
+    {
+      "author": "Hannah Murphy, Cristina Criddle, and Eleanor Olcott, FT",
+      "description": "Relationship between TikTok, ByteDance deepens as tensions over the app\u2019s ownership escalate.",
+      "publishedAt": "2024-04-25T13:53:57+00:00",
+      "title": "In the face of bans, ByteDance tightens grip over US TikTok operations",
+      "url": "https://www.ft.com/content/0e040c03-e979-4acd-a6aa-6298301dcc42",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/tiktok-china-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"I left SpaceX knowing the width of the Starship door.\"",
+      "publishedAt": "2024-04-25T13:28:01+00:00",
+      "title": "If Starship is real, we\u2019re going to need big cargo movers on the Moon and Mars",
+      "url": "https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/IMG_7206-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Same NPU, same architecture as X Elite, but fewer cores and lower clock speeds.",
+      "publishedAt": "2024-04-25T12:26:27+00:00",
+      "title": "Qualcomm says lower-end Snapdragon X Plus chips can still outrun Apple\u2019s M3",
+      "url": "https://arstechnica.com/gadgets/2024/04/qualcomm-preps-lower-end-snapdragon-x-plus-chips-to-compete-with-intel-and-apple/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/snapdragon-x-plus-760x380.jpg"
+    },
+    {
+      "author": "Cameron Kaiser",
+      "description": "Before smartphones, we had PDAs in our pockets. Palm did them best.",
+      "publishedAt": "2024-04-25T11:00:48+00:00",
+      "title": "Palm OS and the devices that ran it: An Ars retrospective",
+      "url": "https://arstechnica.com:8080/gadgets/2024/04/palm-os-and-the-devices-that-ran-it-an-ars-retrospective/",
+      "urlToImage": "https://cdn-8080.arstechnica.com/wp-content/uploads/2024/04/palm-pilot-retrospective-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Reddit says its \"communities are naturally commercial.\"",
       "publishedAt": "2024-04-24T22:18:12+00:00",
@@ -15,70 +79,6 @@
       "title": "A Polestar Phone now inexplicably exists",
       "url": "https://arstechnica.com/gadgets/2024/04/a-polestar-phone-now-inexplicably-exists/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/5-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Not all gamma-ray bursts come from supernovae.",
-      "publishedAt": "2024-04-24T21:10:09+00:00",
-      "title": "We may have spotted the first magnetar flare outside our galaxy",
-      "url": "https://arstechnica.com/science/2024/04/we-may-have-spotted-the-first-magnetar-flare-outside-our-galaxy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-7-760x380.jpeg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Perimeter devices ought to prevent network hacks. Why are so many devices allowing attacks?",
-      "publishedAt": "2024-04-24T20:55:20+00:00",
-      "title": "Nation-state hackers exploit Cisco firewall 0-days to backdoor government networks",
-      "url": "https://arstechnica.com/security/2024/04/cisco-firewall-0-days-under-attack-for-5-months-by-resourceful-nation-state-hackers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Panel of eight judges confronts deep-faking AI tech that may undermine legal trials.",
-      "publishedAt": "2024-04-24T20:14:34+00:00",
-      "title": "Deepfakes in the courtroom: US judicial panel debates new AI evidence rules",
-      "url": "https://arstechnica.com/information-technology/2024/04/deepfakes-in-the-courtroom-us-judicial-panel-debates-new-ai-evidence-rules/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/juding_fake_evidence-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Noncompete clauses \"benefit employers and workers alike,\" Chamber tells court.",
-      "publishedAt": "2024-04-24T19:58:56+00:00",
-      "title": "Chamber of Commerce sues FTC in Texas, asks court to block ban on noncompetes",
-      "url": "https://arstechnica.com/tech-policy/2024/04/business-groups-sue-ftc-to-block-ban-on-noncompetes-claim-they-help-workers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/lawsuit-getty-640x215.jpg"
-    },
-    {
-      "author": null,
-      "description": "It's largely a win against scammers, but a simple policy doesn't fit all games.",
-      "publishedAt": "2024-04-24T17:38:32+00:00",
-      "title": "No more refunds after 100 hours: Steam closes Early Access playtime loophole",
-      "url": "https://arstechnica.com/?p=2019648",
-      "urlToImage": null
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Google says UK regulator testing means the advertising tech will last until 2025.",
-      "publishedAt": "2024-04-24T17:30:52+00:00",
-      "title": "Google can\u2019t quit third-party cookies\u2014delays shut down for a third time",
-      "url": "https://arstechnica.com/gadgets/2024/04/google-delays-third-party-cookie-death-again-now-scheduled-for-2025/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/Chrome-Getty-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Charging electric vehicles at home will exceed most power lines' capacity.",
-      "publishedAt": "2024-04-24T17:06:46+00:00",
-      "title": "Updating California\u2019s grid for EVs may cost up to $20 billion",
-      "url": "https://arstechnica.com/cars/2024/04/updating-californias-grid-for-evs-may-cost-up-to-20-billion/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1171452766-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Ryan Gosling and his stunt buddies spoof Carpool Karaoke and sing along to Journey.",
-      "publishedAt": "2024-04-24T16:49:18+00:00",
-      "title": "The Fall Guy spotlights its amazing stuntmen in meta marketing video",
-      "url": "https://arstechnica.com/culture/2024/04/watch-ryan-gosling-and-the-fall-guy-stuntmen-have-fun-with-carpool-karaoke/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/fallguy1-760x380.jpg"
     }
   ],
   "sortBy": "top",
