@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Professor: US faces \"uphill battle\" justifying law against First Amendment suit.",
+      "publishedAt": "2024-04-26T17:49:26+00:00",
+      "title": "TikTok owner has strong First Amendment case against US ban, professors say",
+      "url": "https://arstechnica.com/tech-policy/2024/04/tiktok-owner-has-strong-first-amendment-case-against-us-ban-professors-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/tiktok-us-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "DOS 4.00 was supposed to add multitasking to the OS, but it was not to be.",
+      "publishedAt": "2024-04-26T17:30:33+00:00",
+      "title": "Microsoft open-sources infamously weird, RAM-hungry MS-DOS 4.00 release",
+      "url": "https://arstechnica.com/gadgets/2024/04/microsoft-and-ibm-release-source-code-for-one-of-the-weirdest-versions-of-ms-dos/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/DOS-prompt-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "NHTSA has tested the updated system and still has questions.",
+      "publishedAt": "2024-04-26T16:28:41+00:00",
+      "title": "Tesla\u2019s 2 million car Autopilot recall is now under federal scrutiny",
+      "url": "https://arstechnica.com/cars/2024/04/feds-concerned-some-of-teslas-autopilot-recall-was-opt-in-reversible/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/26992255_1308817442555956_3930493683220288233_n-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Design choice may have implications for current Joy-Con compatibility.",
+      "publishedAt": "2024-04-26T15:23:20+00:00",
+      "title": "Switch 2 reportedly replaces slide-in Joy-Cons with magnetic attachment",
+      "url": "https://arstechnica.com/gaming/2024/04/report-switch-2-joy-cons-will-attach-via-magnets/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/joycon-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The milk is still considered safe, but disease experts are alarmed by the prevalence.",
+      "publishedAt": "2024-04-26T14:26:25+00:00",
+      "title": "20% of grocery store milk has traces of bird flu, suggesting wider outbreak",
+      "url": "https://arstechnica.com/science/2024/04/20-of-grocery-store-milk-has-traces-of-bird-flu-suggesting-wider-outbreak/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-635712132-760x380.jpeg"
+    },
+    {
+      "author": "Marianne Lavelle, Inside Climate News",
+      "description": "President Nixon's science advisors recommended building global CO2 monitoring network.",
+      "publishedAt": "2024-04-26T14:19:25+00:00",
+      "title": "Lost opportunity: We could\u2019ve started fighting climate change in 1971",
+      "url": "https://insideclimatenews.org/news/26042024/nixon-administration-climate-research-plan/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/nixon-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"This is a vital component in our preparations for launch.\"",
+      "publishedAt": "2024-04-26T11:00:55+00:00",
+      "title": "Rocket Report: SLS workforce cuts; New Glenn launch to launch in the early fall",
+      "url": "https://arstechnica.com/space/2024/04/rocket-report-sls-workforce-cuts-new-glenn-launch-to-launch-in-the-early-fall/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Ariane_6_standing_tall-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\"The United States assesses that Russia is developing a new satellite carrying a nuclear device.\"",
       "publishedAt": "2024-04-25T23:09:17+00:00",
@@ -9,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2147815932-760x380.jpg"
     },
     {
-      "author": "Scharon Harding",
+      "author": null,
       "description": "The \"AI mouse\" is just the start.",
       "publishedAt": "2024-04-25T22:34:04+00:00",
       "title": "Tech brands are forcing AI into your gadgets\u2014whether you asked for it or not",
-      "url": "https://arstechnica.com/gadgets/2024/04/ai-marketing-hype-is-coming-for-your-favorite-gadgets/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1083084064-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2019927",
+      "urlToImage": null
     },
     {
       "author": "Beth Mole",
@@ -23,62 +79,6 @@
       "title": "Three women contract HIV from dirty \u201cvampire facials\u201d at unlicensed spa",
       "url": "https://arstechnica.com/science/2024/04/dirty-vampire-facials-behind-first-hiv-outbreak-linked-to-spa-treatments/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1037886840-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "HMD will still make Nokia phones but is shipping self-branded phones, too.",
-      "publishedAt": "2024-04-25T21:15:26+00:00",
-      "title": "HMD\u2019s first self-branded phones are all under $200",
-      "url": "https://arstechnica.com/gadgets/2024/04/hmds-first-self-branded-phones-are-all-under-200/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/pulse-pro-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "OpenELM mirrors efforts by Microsoft to make useful small AI language models that run locally.",
-      "publishedAt": "2024-04-25T20:55:43+00:00",
-      "title": "Apple releases eight small AI language models aimed at on-device use",
-      "url": "https://arstechnica.com/information-technology/2024/04/apple-releases-eight-small-ai-language-models-aimed-at-on-device-use/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple_toss_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Preservationists propose access limits, but industry worries about a free \"online arcade.\"",
-      "publishedAt": "2024-04-25T19:31:24+00:00",
-      "title": "Can an online library of classic video games ever be legal?",
-      "url": "https://arstechnica.com/gaming/2024/04/can-an-online-library-of-classic-video-games-ever-be-legal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/qbert-researcher-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Plus Raspberry Pi 5 support, better laptop power, and lots of other changes.",
-      "publishedAt": "2024-04-25T18:59:08+00:00",
-      "title": "Ubuntu 24.04 LTS, Noble Numbat, overhauls its installation and app experience",
-      "url": "https://arstechnica.com/gadgets/2024/04/ubuntu-24-04-lts-noble-numbat-overhauls-its-installation-and-app-experience/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/ubuntu_desktop1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Ability of PlugX worm to live on presents a vexing dilemma: Delete it or leave it be.",
-      "publishedAt": "2024-04-25T18:49:07+00:00",
-      "title": "Millions of IPs remain infected by USB worm years after its creators left it for dead",
-      "url": "https://arstechnica.com/security/2024/04/zombie-worm-continues-to-infect-millions-of-ips-years-after-it-was-left-for-dead/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/zombies-grave-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "This is a different new 3-row EV from the one Toyota will build in Kentucky.",
-      "publishedAt": "2024-04-25T17:49:35+00:00",
-      "title": "Toyota will spend $1.4 billion to build electric 3-row SUV in Indiana",
-      "url": "https://arstechnica.com/cars/2024/04/toyota-will-spend-1-4-billion-to-build-electric-3-row-suv-in-indiana/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Toyota_IN_Drone_Front_Elevation_Hero-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Various imaging methods comprised a kind of \"bionic eye\" to examine charred scroll.",
-      "publishedAt": "2024-04-25T17:33:00+00:00",
-      "title": "Deciphered Herculaneum papyrus reveals precise burial place of Plato",
-      "url": "https://arstechnica.com/science/2024/04/deciphered-herculaneum-papyrus-reveals-precise-burial-place-of-plato/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/plato1CROP-760x380.jpg"
     }
   ],
   "sortBy": "top",
