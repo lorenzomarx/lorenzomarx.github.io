@@ -1,69 +1,251 @@
 {
   "articles": [
     {
-      "author": null,
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]",
-      "description": null,
-      "publishedAt": "2024-04-27T18:35:04Z",
+      "author": "Kyle Melnick, Lauren Lumpkin",
+      "content": "NEW YORK With less than three weeks until graduation at Columbia University, the markers of the annual celebration are everywhere. Students wearing light blue commencement gowns carry bundles of matc\u2026 [+10315 chars]",
+      "description": "Soon-to-be graduates take photos in their light blue commencement gowns, while chants defending Palestinians break out nearby. Rarely do the two sides merge.",
+      "publishedAt": "2024-04-28T00:38:11Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Columbia students caught between graduation celebrations and protests - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2024/04/27/columbia-university-protests-campus-gaza/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SIU5GUW53ST5O4GXFSV7QVH2LI.jpg&w=1440"
+    },
+    {
+      "author": "TMZ Staff",
+      "content": "Zendaya's got a major win to celebrate ... her new tennis movie \"Challengers\" is on pace to smash the competition at the box office -- though audience reaction seems more mixed.\r\nDeadline reports the\u2026 [+1353 chars]",
+      "description": "Zendaya's got a major win to celebrate ... her new tennis movie \"Challengers\" is on pace to smash the competition at the box office -- though audience reaction seems more mixed.",
+      "publishedAt": "2024-04-28T00:00:00Z",
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "TMZ"
       },
-      "title": "NFL Draft: A punter goes off the board in 4th round as Bears take Iowa's Tory Taylor - Yahoo Sports",
-      "url": "https://sports.yahoo.com/nfl-draft-a-punter-goes-off-the-board-in-4th-round-as-bears-take-iowas-tory-taylor-173116846.html",
+      "title": "Zendaya's 'Challengers' Smash at Box Office, Audience Reviews More Mixed - TMZ",
+      "url": "https://www.tmz.com/2024/04/27/zendaya-challengers-box-office-success-audience-mixed-reviews/",
+      "urlToImage": "https://imagez.tmz.com/image/5c/16by9/2024/04/27/5c10f0882a7f43f98bcec5e77499de77_xl.jpg"
+    },
+    {
+      "author": "Jay Stahl, Taijuan Moorman",
+      "content": "Embattled Hollywood producer Harvey Weinstein has been hospitalized after his 2020 rape conviction was overturned earlier this week.\r\nWeinstein is currently in custody at Bellevue Hospital in New Yor\u2026 [+1732 chars]",
+      "description": "Famed Hollywood producer Harvey Weinstein has been hospitalized after an appeals court overturned his 2020 rape conviction earlier this week.",
+      "publishedAt": "2024-04-27T23:38:17Z",
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Harvey Weinstein hospitalized after overturned conviction - USA TODAY",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/04/27/harvey-weinstein-hospitalized/73484588007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/26/USAT/73467188007-getty-images-1243724452.jpg?crop=1023,576,x0,y0&width=1023&height=576&format=pjpg&auto=webp"
+    },
+    {
+      "author": "Brooke Pryor",
+      "content": "The 2024 NFL draft had everything: a historic run on offensive players, an even more historic run on quarterbacks, moms blocking their sons' girlfriends from getting in on the draft night celebration\u2026 [+17172 chars]",
+      "description": "What did we learn from the 2024 class? We look closer at the QB frenzy, some surprising luxury picks and the (already good) teams that improved.",
+      "publishedAt": "2024-04-27T23:15:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "NFL draft 2024 takeaways: QB moves, luxury picks and contenders - ESPN",
+      "url": "https://www.espn.com/nfl/draft2024/story/_/id/40038156/nfl-draft-2024-takeaways-quarterbacks-wide-receivers-eagles-49ers",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0427%2Fr1325420_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "Jon Haworth, Meredith Deliso",
+      "content": "A 52-year-old woman died and her climbing partner was seriously injured after they fell approximately 1,000 feet off of a mountain in Denali National Park in Alaska, officials said.\r\nThe incident occ\u2026 [+2066 chars]",
+      "description": "The body of the 52-year-old woman was recovered on Saturday.",
+      "publishedAt": "2024-04-27T23:03:45Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Climber dead, another seriously injured after 1,000-foot fall off Alaska mountain - ABC News",
+      "url": "https://abcnews.go.com/US/1-climber-dead-survives-after-falling-1000-feet/story?id=109715262",
+      "urlToImage": "https://i.abcnewsfe.com/a/f03a2817-5ef5-42c1-9db7-e2e434a572bb/Denali_1714214876565_hpMain_16x9.jpg?w=1600"
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-04-27T22:43:00Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Russian missiles pound power plants in central and western Ukraine - Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-hits-ukrainian-energy-facilities-three-regions-kyiv-says-2024-04-27/",
       "urlToImage": null
     },
     {
-      "author": "Bryan DeArdo",
-      "content": "If Saturday is anything like the first two days of the 2024 NFL Draft, fans will certainly be in for a treat. A whopping 16 trades were made during the draft's first three rounds, with many more expe\u2026 [+1856 chars]",
-      "description": "Follow every 2024 NFL Draft trade live with results, analysis and grades",
-      "publishedAt": "2024-04-27T17:27:54Z",
+      "author": "Nadine El-Bawab, Daniel Amarante, Kenton Gewecke, Meredith Deliso",
+      "content": "Severe weather left a trail of destruction in the Heartland on Friday with 83 reports of tornadoes across five states.\r\nThe multi-day tornado outbreak continues Saturday, with powerful storms expecte\u2026 [+4217 chars]",
+      "description": "There were 83 reports of tornadoes across five states in Friday's storms.",
+      "publishedAt": "2024-04-27T22:20:35Z",
       "source": {
-        "id": null,
-        "name": "CBS Sports"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "title": "2024 NFL Draft trade tracker: Live updates, grades, analysis, draft order changes, Round 4-7 picks by team - CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2024-nfl-draft-trade-tracker-live-updates-grades-analysis-draft-order-changes-round-4-7-picks-by-team/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/26/28eba3b9-6972-404d-b5b9-d2c571305ea6/thumbnail/1200x675/6b77a7a1db55ea1a3602c85c13d878c0/nfl-draft.jpg"
+      "title": "Tornado threat continues after 4 injured, hundreds of homes damaged - ABC News",
+      "url": "https://abcnews.go.com/US/78-tornado-reports-friday-heartland/story?id=109716199",
+      "urlToImage": "https://i.abcnewsfe.com/a/adb09d4d-39ae-4a1d-8791-0433f02554ce/tornado-nebraska-gty-jt-240427_1714251319554_hpMain_16x9t.jpg?w=1600"
     },
     {
-      "author": "Christina Dugan Ramirez",
-      "content": "Days after Gisele B\u00fcndchen broke down in tears over an alleged stalker during a traffic stop, the mayor of Surfside, Florida, is showing his support for the supermodel and calling on police to do bet\u2026 [+2952 chars]",
-      "description": "In a letter to Interim Chief Henry Doce on the Miami Police Department, Mayor Charles Burkett called the interaction between Gisele B\u00fcndchen and the police office 'wholly unacceptable.'",
-      "publishedAt": "2024-04-27T17:22:00Z",
+      "author": null,
+      "content": "A stripped down Falcon 9 rocket stands at Launch Complex 39A ahead of the launch of the European Commission\u2019s 12th Galileo satellite constellation mission (Galileo L12). Image: SpaceX.\r\nSpaceX will m\u2026 [+8395 chars]",
+      "description": null,
+      "publishedAt": "2024-04-27T22:20:35Z",
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Spaceflight Now"
       },
-      "title": "Gisele B\u00fcndchen gets support from Surfside mayor after 'unacceptable' police interaction during traffic stop - Fox News",
-      "url": "https://www.foxnews.com/entertainment/gisele-bundchen-support-surfside-mayor-unacceptable-police-interaction-traffic-stop",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/071680b6-gisele-bundchen2.jpg"
+      "title": "Live coverage: SpaceX to launch European Commission's Galileo satellites on Falcon 9 rocket from the Kennedy Space Center \u2013 Spaceflight Now - Spaceflight Now",
+      "url": "https://spaceflightnow.com/2024/04/27/live-coverage-spacex-to-launch-european-commissions-galileo-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/",
+      "urlToImage": null
+    },
+    {
+      "author": "The Athletic Staff",
+      "content": "By Joe Vardon, Josh Robbins, John Hollinger and William Guillory\r\nThe Oklahoma City Thunder handled the New Orleans Pelicans with ease Saturday, taking a 3-0 series lead behind a 106-85 runaway victo\u2026 [+7737 chars]",
+      "description": "Orlando's Franz Wagner scored a game-high 34 points on 13-of-17 shooting from the field.",
+      "publishedAt": "2024-04-27T22:16:03Z",
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "title": "Saturday\u2019s NBA playoffs scores, takeaways: Thunder roll Pelicans, Magic tie up series with Cavaliers - The Athletic",
+      "url": "https://theathletic.com/5453081/2024/04/27/nba-playoffs-scores-takeaways-cavaliers-magic-thunder-pelicans-celtics-heat-nuggets-lakers/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/04/27151625/USATSI_23127346-scaled.jpg"
+    },
+    {
+      "author": "Mike Reiss",
+      "content": "FOXBOROUGH, Mass. -- The New England Patriots selected University of Tennessee quarterback Joe Milton III in the sixth round of the NFL draft Saturday, double-dipping at the position after picking No\u2026 [+4475 chars]",
+      "description": "With the Patriots drafting Drake Maye and then Joe Milton III, it marks just the second time in team history that they've selected two quarterbacks in a draft. The other time came in 1983 with Tony Eason and Tom Ramsey.",
+      "publishedAt": "2024-04-27T22:11:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Patriots draft Joe Milton III, who joins QB room with Drake Maye - ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/40039638/patriots-add-qb-depth-take-tennessee-joe-milton-iii",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0423%2Fr1323213_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "Corinne Heller",
+      "content": "NCIS: Hawai'i's\u00a0fans and stars are bidding the series a sad aloha.\r\nOn April 26, Variety and several more\u00a0outlets reported that the NCIS spinoff\u00a0has been canceled and that the\u00a0third season finale on \u2026 [+843 chars]",
+      "description": "After news of NCIS: Hawai'i cancellation spread online, leading actress Vanessa Lachey expressed her feelings about the move.",
+      "publishedAt": "2024-04-27T21:31:00Z",
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "title": "Vanessa Lachey Says She Was \"Blindsided\" by NCIS: Hawai'i Cancellation - E! Online - E! NEWS",
+      "url": "https://www.eonline.com/news/1400322/vanessa-lachey-says-she-was-blindsided-by-ncis-hawaii-cancellation",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024327/rs_1200x1200-240427140610-1200-ll-cool-j-vanessa-lachey-ncis-hawaii-cjh-042724.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
     },
     {
       "author": "JAMES POLLARD, MICHAEL CASEY",
-      "content": "NEW YORK (AP) As students protesting the Israel-Hamas war at college campuses across U.S. dug in Saturday and vowed to keep their demonstrations going, some universities moved to shut down encampment\u2026 [+7841 chars]",
+      "content": "NEW YORK (AP) As students protesting the Israel-Hamas war at college campuses across U.S. dug in Saturday and dozens of demonstrators were arrested, some universities moved to shut down encampments a\u2026 [+8251 chars]",
       "description": "Student anti-war protesters at U.S. college campuses are digging in and vowing to keep their demonstrations going, some universities moved to shut down encampments after reports of antisemitic activity among the protesters. Police in riot gear cleared an enca\u2026",
-      "publishedAt": "2024-04-27T17:15:00Z",
+      "publishedAt": "2024-04-27T21:06:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "title": "Student protests against Israel-Hamas war continue on college campuses - The Associated Press",
+      "title": "College campus protests against Israel-Hamas war continue - The Associated Press",
       "url": "https://apnews.com/article/israel-palestinian-campus-student-protests-war-2ab919ad849c50c9d177a32c0309bd1e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1624cff/2147483647/strip/true/crop/3000x1688+0+319/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F1b%2Fa0f749d966f45b18b89d18afed2a%2Fca0f66555d4c4ae7a94752128b8d880e"
+      "urlToImage": "https://dims.apnews.com/dims4/default/ca931b8/2147483647/strip/true/crop/6016x3384+0+316/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F0c%2Fe9bd7606ceda88eda7cd99aedf6b%2Fc1df38254ecc4ad8beca985316e957b9"
     },
     {
       "author": null,
+      "content": "A new proposal from Israel for a cease-fire in Gaza is reportedly being reviewed by senior Hamas officials on Saturday.\r\nSenior Hamas official Khalil al-Hayva said the Palestinian militant group was \u2026 [+6805 chars]",
+      "description": "Hamas says it received the cease-fire proposal from Israel after a high-level Egyptian delegation wrapped up a visit to Israel.",
+      "publishedAt": "2024-04-27T20:36:16Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Hamas says it's reviewing an Israel cease-fire proposal as pressure for peace mounts - CBS News",
+      "url": "https://www.cbsnews.com/news/hamas-israel-cease-fire-proposal-reviewed-pressure-for-peace-mounts/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/27/7db5d69e-225e-489d-92bc-30f4084b7bf0/thumbnail/1200x630/f5ff1e225d163b490cb3b91732c8985a/ap24116556521530.jpg?v=63c131a0051f3823d92b0d1dffb5e0e4"
+    },
+    {
+      "author": "Joe Snell, Mustafa Salim",
+      "content": "An Iraqi TikTok star known to her followers as Om Fahad was fatally shot in a late-night attack outside her home in Baghdad, authorities said.\r\nA lone assailant on a motorbike approached Fahad, whose\u2026 [+2082 chars]",
+      "description": "Fahad had nearly half a million followers on the social media platform, where she shared videos of herself dancing to Iraqi music.",
+      "publishedAt": "2024-04-27T20:19:00Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Iraqi TikTok star shot dead outside her Baghdad home - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2024/04/27/iraq-tiktok-om-fahad-baghdad/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INY7Y5BOBFVBA4DPLFXNYBXNHI_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "Jason Lemon",
+      "content": "Former Representative Liz Cheney, a Wyoming Republican, posted a message on social media after former President Donald Trump's case regarding presidential immunity was heard before the U.S. Supreme C\u2026 [+4982 chars]",
+      "description": "The former president previously called for the Wyoming Republican to be jailed.",
+      "publishedAt": "2024-04-27T19:50:34Z",
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "title": "Liz Cheney's Message to Supreme Court After Donald Trump Hearing - Newsweek",
+      "url": "https://www.newsweek.com/liz-cheneys-message-supreme-court-after-donald-trump-hearing-1894883",
+      "urlToImage": "https://d.newsweek.com/en/full/2384813/liz-cheney.jpg"
+    },
+    {
+      "author": "Chris Fedor, cleveland.com",
       "content": null,
-      "description": "The first minister's appeal to find \"common ground\" is rejected by the Scottish Conservatives as \"humiliating and embarrassing\".",
-      "publishedAt": "2024-04-27T16:55:51Z",
+      "description": "Cleveland lost Game 4 to the Magic on Saturday, 112-89. The once-lopsided matchup, with the Cavs in total control, is now tied at two games apiece.",
+      "publishedAt": "2024-04-27T19:33:00Z",
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "cleveland.com"
       },
-      "title": "Humza Yousaf reaches out to opponents ahead of no confidence votes - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cjew59r2vj3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/121a/live/bff0de50-0485-11ef-bee9-6125e244a4cd.jpg"
+      "title": "Cavs self-destruct in the second half, watch helplessly as Orlando Magic even series with 112-89 win - cleveland.com",
+      "url": "https://www.cleveland.com/cavs/2024/04/cavs-self-destruct-in-the-second-half-watch-helplessly-as-orlando-magic-even-series-with-112-89-win.html",
+      "urlToImage": "https://www.cleveland.com/resizer/v2/252OQKGPBVFWXHX7XRXAC6BNZI.jpg?auth=8d4745b393f6c69e7e9be8648a6f44e138f75f9793f9944787d43910bd00b2e3&width=1280&quality=90"
+    },
+    {
+      "author": "Aya Elamroussi",
+      "content": "Destructive tornadoes gutted homes as they plowed through Nebraska and Iowa, and the dangerous weather threat escalated significantly on Saturday as tornado-spawning storms posed a risk from Michigan\u2026 [+8450 chars]",
+      "description": "Destructive tornadoes gutted homes as they plowed through Nebraska and Iowa, and the \u201cdangerous\u201d weather threat escalated significantly on Saturday as tornado-spawning storms posed a risk from Michigan to Texas.",
+      "publishedAt": "2024-04-27T19:31:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Devastating tornadoes flatten homes in Nebraska and Iowa as storm threat grows \u2018dangerous\u2019 for millions - CNN",
+      "url": "https://www.cnn.com/2024/04/27/weather/plains-midwest-storms-tornadoes-climate-saturday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20578827-35605-18-still.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Sam Palmer",
+      "content": "The first portion of the 2024 WWE Draft has officially concluded, and it seems that there are some people who were left disappointed. The April 26 \"WWE SmackDown\" featured both brands picking stars f\u2026 [+1514 chars]",
+      "description": "Many fans were left unsatisfied by how little movement occurred during last night&amp;#39;s kickoff of the 2024 WWE Draft.",
+      "publishedAt": "2024-04-27T18:58:28Z",
+      "source": {
+        "id": null,
+        "name": "Wrestling Inc."
+      },
+      "title": "Backstage Note On Why So Few WWE Talents Switched Brands During First Draft Night - Wrestling Inc.",
+      "url": "https://www.wrestlinginc.com/1571276/backstage-note-wwe-talents-switched-brands-first-night-draft/",
+      "urlToImage": "https://www.wrestlinginc.com/img/gallery/backstage-note-on-why-so-few-wwe-talents-switched-brands-during-first-draft-night/l-intro-1714244205.jpg"
+    },
+    {
+      "author": "Vikki Blake",
+      "content": "Escape from Tarkov developer Battlestate has u-turned on a decision to lock an \"exclusive\" PvE mode to its \u20ac300 Unheard Edition following player feedback, but insists it is not reneging on its promis\u2026 [+3332 chars]",
+      "description": "Escape from Tarkov developer Battlestate has u-turned on a decision to lock an \"exclusive\" PvE mode to its \u20ac300 Unheard\u2026",
+      "publishedAt": "2024-04-27T17:51:30Z",
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "title": "Escape from Tarkov u-turns on decision to lock \"exclusive\" PvE mode to a special edition following blacklash - Eurogamer.net",
+      "url": "https://www.eurogamer.net/escape-from-tarkov-u-turns-on-decision-to-lock-exclusive-pve-mode-to-a-special-edition-following-blacklash",
+      "urlToImage": "https://assetsio.gnwcdn.com/escape-from-tarkov_Y19ZtjX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
       "author": null,
@@ -77,190 +259,8 @@
       "title": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null
-    },
-    {
-      "author": "Willem Marx",
-      "content": "People inspect damage and remove items from their homes following Israeli airstrikes on April 7, in Khan Yunis, Gaza.\r\nAhmad Hasaballah/Getty Images\r\nHamas says it's examining the latest Israeli sugg\u2026 [+3675 chars]",
-      "description": "The militant group says it's examining the latest Israeli suggestions for a cease-fire in Gaza, seven months into the conflict that has claimed tens of thousands of lives.",
-      "publishedAt": "2024-04-27T15:51:52Z",
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "title": "Hamas says it's preparing to respond to Israel's latest Gaza cease-fire proposal - NPR",
-      "url": "https://www.npr.org/2024/04/27/1247658918/gaza-hamas-israel-cease-fire-proposal",
-      "urlToImage": "https://media.npr.org/assets/img/2024/04/27/gettyimages-2146577104_wide-62031c4dc1291fba38b797d0c8c5d6da44a7db14-s1400-c100.jpg"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "The university president's decision to bring in the NYPD lit a wildfire of protest over the Gaza war.",
-      "publishedAt": "2024-04-27T15:36:14Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Gaza protests: Police raid on Columbia protest ignited campus movement - BBC.com",
-      "url": "https://www.bbc.com/news/world-us-canada-68906215",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05C1/production/_133237410_8e8f54805faedadfc302c356daf635454c87a7d80_0_5695_36091000x634.jpg"
-    },
-    {
-      "author": "Minyvonne Burke",
-      "content": "Harvey Weinstein is back in Rikers Island jail and will appear before a judge next week after New Yorks highest court overturned his 2020 rape conviction. \r\nThe 72-year-old former Hollywood powerhous\u2026 [+1594 chars]",
-      "description": "Harvey Weinstein is back in Rikers Island jail and will appear before a judge next week after New York\u2019s highest court overturned his 2020 rape conviction.",
-      "publishedAt": "2024-04-27T15:22:51Z",
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "title": "Harvey Weinstein back in Rikers Island jail, will appear in court after overturned rape conviction - NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/harvey-weinstein-back-rikers-island-jail-will-appear-court-overturned-rcna149652",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240427-Weinstein-ch-0945-d704ee.jpg"
-    },
-    {
-      "author": "Tara Suter",
-      "content": "Skip to content\r\nA group of Democratic governors mocked Gov. Kristi Noem (R-S.D.) on social media after a passage from her upcoming book entered the spotlight over a story about killing her family do\u2026 [+1553 chars]",
-      "description": "A group of Democratic governors mocked Gov. Kristi Noem (R-S.D.) on social media after a passage from her upcoming book entered the spotlight over a story about killing her family dog. In the story, Noem describes getting frustrated with the nearly 14-month-o\u2026",
-      "publishedAt": "2024-04-27T14:53:00Z",
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "title": "Democratic governors admonish Noem for shooting her dog by posing with their pets - The Hill",
-      "url": "https://thehill.com/homenews/state-watch/4626019-gretchen-whitmer-phil-murphy-tim-walz-kristi-noem-social-media-dogs/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/04/Murphy.-Kristi.-Whitmer-2024.png?w=1280"
-    },
-    {
-      "author": "Will Nelson",
-      "content": "Battlestate Games will now offer all Escape From Tarkov Edge of Darkness Edition owners the new PvE game mode with persistent progression for free at launch with no six-month window. The offline co-o\u2026 [+3425 chars]",
-      "description": "A new Battlestate Games open letter on the EFT Unheard Edition is offering all EoD owners the offline PvE mode for free forever at launch.",
-      "publishedAt": "2024-04-27T13:42:45Z",
-      "source": {
-        "id": null,
-        "name": "PCGamesN"
-      },
-      "title": "Escape From Tarkov developer reverses course on limited-time PvE access - PCGamesN",
-      "url": "https://www.pcgamesn.com/escape-from-tarkov/unheard-edition-reddit-statement",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/04/escape-from-tarkov-unheard-edition-reddit-statement-2.jpg"
-    },
-    {
-      "author": "Zach Dean",
-      "content": "I can't get enough of this Cooper DeJean story. I've spent hours this morning just mindlessly scrolling the internet for the best memes, tweets and reactions.\u00a0\r\nIt's not every day we get a white corn\u2026 [+2745 chars]",
-      "description": "Can we for one second stop being so PC in this country and just laugh at white corner Cooper DeJean getting drafted in the NFL?",
-      "publishedAt": "2024-04-27T13:42:37Z",
-      "source": {
-        "id": null,
-        "name": "Outkick.com"
-      },
-      "title": "It's OK To Laugh At Cooper DeJean Being A White Corner In The NFL, I Promise - Outkick",
-      "url": "https://www.outkick.com/sports/cooper-dejean-asked-about-being-white-after-getting-drafted-and-its-ok-to-laugh-about-it",
-      "urlToImage": "https://static.outkick.com/www.outkick.com/content/uploads/2024/04/Cooper-DeJEan.jpg"
-    },
-    {
-      "author": "Bob Ortega, Kyung Lah, Allison Gordon, Nelli Black",
-      "content": "At one campaign rally after another, former President Donald Trump whips his supporters into raucous cheers with a promise of whats to come if hes given another term in office: We will demolish the d\u2026 [+16150 chars]",
-      "description": "At one campaign rally after another, former President Donald Trump whips his supporters into raucous cheers with a promise of what\u2019s to come if he\u2019s given another term in office: \u201cWe will demolish the deep state.\u201d",
-      "publishedAt": "2024-04-27T13:39:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "What Trump\u2019s war on the \u2018Deep State\u2019 could mean: \u2018An army of suck-ups\u2019 - CNN",
-      "url": "https://www.cnn.com/2024/04/27/politics/trump-federal-workers-2nd-term-invs/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2011427946.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": null,
-      "content": "Iraqi social media star Ghufran Sawadi, better known as Umm Fahad, was shot dead outside her home in Baghdad, the capital of Iraq, on Friday night, a Baghdad police source told CNN.\r\nThe attack took \u2026 [+1660 chars]",
-      "description": "Iraqi social media star Ghufran Sawadi, better known as Umm Fahad, was shot dead outside her home in Baghdad, Iraq on Friday night, a Baghdad police source told CNN.",
-      "publishedAt": "2024-04-27T13:09:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Iraqi TikTok star Umm Fahad shot dead in Baghdad - CNN",
-      "url": "https://www.cnn.com/2024/04/27/middleeast/iraq-tiktok-star-umm-fahad-killed-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1247182387.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Thomas Biesheuvel, Dinesh Nair, Paul-Alain Hunt",
-      "content": "When Mike Henry took over as chief executive officer of BHP Group in 2020, the worlds biggest mining company had lost its swagger. \r\nBruised by a series of painful missteps and a run-in with activist\u2026 [+215 chars]",
-      "description": "CEO Mike Henry is unlikely to drop his pursuit despite initial rejection by Anglo.",
-      "publishedAt": "2024-04-27T13:00:22Z",
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "title": "BHP Anglo American Bid: How the Offer Came Together. What Happens Next? - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2024-04-27/bhp-anglo-american-bid-how-the-offer-came-together-what-happens-next",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq7lYUP6H2_I/v0/1200x798.jpg"
-    },
-    {
-      "author": "Michael Dorgan",
-      "content": "Three women likely contracted HIV after receiving so-called \"vampire facials\" at an unlicensed spa in New Mexico, according to a new report published by the Centers for Disease Control and Prevention\u2026 [+3031 chars]",
-      "description": "Three women likely contracted HIV after receiving so-called \"vampire facials\" making them the first known cases of the virus being transmitted during a a cosmetic injection procedure.",
-      "publishedAt": "2024-04-27T12:34:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "'Vampire facials' at unlicensed spa likely resulted in HIV infections: CDC - Fox News",
-      "url": "https://www.foxnews.com/health/vampire-facials-unlicensed-spa-likely-resulted-hiv-infections-cdc",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/botox-thumb.jpg"
-    },
-    {
-      "author": "Patrick Ryan",
-      "content": "For Mike Faist and Josh OConnor, its game, set, match on Challengers.\r\nThe sought-after heartthrobs are cheerful yet slightly delirious after a monthlong global press tour for the buzzy tennis drama \u2026 [+5964 chars]",
-      "description": "\"Challengers\" stars Josh O'Connor and Mike Faist open up about competing for Zendaya's affection, and how they shot the movie's arousing churro scene.",
-      "publishedAt": "2024-04-27T12:02:16Z",
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "title": "'Challengers': Josh O'Connor, Mike Faist dish on that hot churro scene - USA TODAY",
-      "url": "https://www.usatoday.com/story/entertainment/movies/2024/04/27/josh-oconnor-mike-faist-talk-challengers/73413016007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/26/USAT/73465153007-afp-2136572703.jpg?crop=4142,2329,x1344,y296&width=3200&height=1800&format=pjpg&auto=webp"
-    },
-    {
-      "author": "Mike Chappell",
-      "content": "INDIANAPOLIS It was a typical Chris Ballard summation of the second day of the NFL draft, until it wasnt.\r\nLate Friday night, a burr in the rear end of the Indianapolis Colts general manager became t\u2026 [+3426 chars]",
-      "description": "INDIANAPOLIS \u2013 It was a typical Chris Ballard summation of the second day of the NFL draft, until it wasn\u2019t. Late Friday night, a burr in the rear end of the Indianapolis Colts\u2019 general manager became too irritating to ignore. Ballard, unprompted, went on. Hi\u2026",
-      "publishedAt": "2024-04-27T12:02:01Z",
-      "source": {
-        "id": null,
-        "name": "Fox 59"
-      },
-      "title": "Colt\u2019s Chris Ballard calls BS on criticism of Adonai Mitchell by unnamed sources - FOX 59 Indianapolis",
-      "url": "https://fox59.com/news/colts-chris-ballard-calls-bs-on-criticism-of-adonai-mitchell-by-unnamed-sources/",
-      "urlToImage": "https://fox59.com/wp-content/uploads/sites/21/2024/04/AP23309084800164.jpg?w=1280"
-    },
-    {
-      "author": "KOMO News Staff",
-      "content": "BELLEVUE, Wash. The opening for the new 2 Line Bellevue-Redmond light rail service is finally here.\r\nIts a project years in the making, and transit officials said it's about improving mobility and ac\u2026 [+2788 chars]",
-      "description": "The opening for the new 2 Line Bellevue-Redmond light rail service is finally here. It's a project years in the making.",
-      "publishedAt": "2024-04-27T12:01:06Z",
-      "source": {
-        "id": null,
-        "name": "KOMO News"
-      },
-      "title": "Long awaited Eastside Link light rail 2 line opens, Seattle connection expected in 2025 - KOMO News",
-      "url": "https://komonews.com/news/local/long-awaited-eastside-link-light-rail-2-line-opens-seattle-connection-expected-in-2025-sound-transit-bellevue-redmond-king-county-public-transportation-lumen-field-waterfront-safety-security",
-      "urlToImage": "https://komonews.com/resources/media/4be9aa84-0a21-4964-a2ff-e3982f174a44-large16x9_Screenshot20240426200946.png"
-    },
-    {
-      "author": "Elizabeth Howell",
-      "content": "Boeing says it may sign up private astronauts for future Starliner missions, but the focus is on NASA for now.\r\nThe spacecraft's program manager, Mark Nappi, told reporters Thursday (April 25) the co\u2026 [+4784 chars]",
-      "description": "\"We've got plenty of time to think about what's after.\"",
-      "publishedAt": "2024-04-27T12:00:04Z",
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "title": "Boeing's Starliner spacecraft will not fly private missions yet, officials say - Space.com",
-      "url": "https://www.space.com/boeing-starliner-spacecraft-private-astronaut-nasa-focus",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/E4Qa5mRyPMbmyvQGYVLNQC-1200-80.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 36
+  "totalResults": 37
 }
