@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "Motherboard makers \"disable thermal and power delivery safeguards\" by default.",
+      "publishedAt": "2024-04-29T15:41:00+00:00",
+      "title": "Motherboard makers apparently to blame for high-end Intel Core i9 CPU failures",
+      "url": "https://arstechnica.com/gadgets/2024/04/intel-reportedly-blames-motherboard-makers-for-core-i9-cpu-crashes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/intel-19-14900ks-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Musk can't kill SEC settlement that requires pre-approval of tweets about Tesla.",
+      "publishedAt": "2024-04-29T15:27:01+00:00",
+      "title": "Elon Musk loses at Supreme Court in case over \u201cfunding secured\u201d tweets",
+      "url": "https://arstechnica.com/tech-policy/2024/04/elon-musk-loses-at-supreme-court-in-case-over-funding-secured-tweets/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/elon-musk-satellite-conference-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "New Joy-con buttons, 1080p screen also feature in MobaPad's \"first-hand information.\"",
+      "publishedAt": "2024-04-29T15:05:54+00:00",
+      "title": "Report suggests Switch 2 can play all original Switch games",
+      "url": "https://arstechnica.com/gaming/2024/04/controller-maker-says-switch-2-will-be-backward-compatible-with-all-switch-games/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/switch2.png"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "NHTSA has opened an investigation after two separate fatal crashes at night.",
+      "publishedAt": "2024-04-29T13:48:56+00:00",
+      "title": "Ford BlueCruise driver assist under federal scrutiny following 2 deaths",
+      "url": "https://arstechnica.com/cars/2024/04/ford-bluecruise-driver-assist-under-federal-scrutiny-following-2-deaths/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/BlueCruise_Mustang_Mach-E_01-760x380.jpg"
+    },
+    {
+      "author": "Javier Espinoza, Financial Times",
+      "description": "Insufficient moderation of political ads risk undermining electoral process.",
+      "publishedAt": "2024-04-29T13:40:28+00:00",
+      "title": "Meta to face EU probe for not doing enough to stop Russian disinformation",
+      "url": "https://www.ft.com/content/70dc27e8-07bd-40af-8b0e-d4623a3bcc0b",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/meta-eu-760x380.jpg"
+    },
+    {
+      "author": "Jeremy Reimer",
+      "description": "From BBS to Facebook, here's how messaging platforms have changed over the years.",
+      "publishedAt": "2024-04-29T11:30:13+00:00",
+      "title": "First post: A history of online public messaging",
+      "url": "https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/history-of-public-messaging-760x380.jpg"
+    },
+    {
       "author": "Amber Dance, Knowable Magazine",
       "description": "Some make nests inside seashells, others tote bubbles of air on their backs.",
       "publishedAt": "2024-04-28T11:11:16+00:00",
@@ -31,54 +79,6 @@
       "title": "NASA still doesn\u2019t understand root cause of Orion heat shield issue",
       "url": "https://arstechnica.com/space/2024/04/nasa-still-doesnt-understand-root-cause-of-orion-heat-shield-issue/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/52557349541_4ff1f090b0_k-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Why declining quarterly numbers might not be awful news for Microsoft's gaming business.",
-      "publishedAt": "2024-04-26T21:31:33+00:00",
-      "title": "Putting Microsoft\u2019s cratering Xbox console sales in context",
-      "url": "https://arstechnica.com/gaming/2024/04/putting-microsofts-cratering-xbox-console-sales-in-context/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/ver-smol-xbox-is-not-huge-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "New York obtains significant win for states' ability to regulate broadband.",
-      "publishedAt": "2024-04-26T21:10:18+00:00",
-      "title": "Court upholds New York law that says ISPs must offer $15 broadband",
-      "url": "https://arstechnica.com/tech-policy/2024/04/court-upholds-new-york-law-that-says-isps-must-offer-15-broadband/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/gavel-money-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Should sideloading Chrome on an old smart TV really compromise your entire account?",
-      "publishedAt": "2024-04-26T19:35:47+00:00",
-      "title": "Android TV has access to your entire account\u2014but Google is changing that",
-      "url": "https://arstechnica.com/gadgets/2024/04/google-says-its-fixing-a-nasty-android-tv-account-security-loophole/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/android-tv-760x380.png"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "WP Automatic plugin patched, but release notes don't mention the critical fix.",
-      "publishedAt": "2024-04-26T19:07:51+00:00",
-      "title": "Hackers try to exploit WordPress plugin vulnerability that\u2019s as severe as it gets",
-      "url": "https://arstechnica.com/security/2024/04/hackers-make-millions-of-attempts-to-exploit-wordpress-plugin-vulnerability/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/system-hacked-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Excluding one pandemic year, emissions are lower than they've been since the 1980s.",
-      "publishedAt": "2024-04-26T18:51:10+00:00",
-      "title": "US\u2019s power grid continues to lower emissions\u2014everything else, not so much",
-      "url": "https://arstechnica.com/?p=2020298",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Bot-driven service was also connected to targeted harassment site Kiwi Farms.",
-      "publishedAt": "2024-04-26T18:06:28+00:00",
-      "title": "Message-scraping, user-tracking service Spy Pet shut down by Discord",
-      "url": "https://arstechnica.com/?p=2020247",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
