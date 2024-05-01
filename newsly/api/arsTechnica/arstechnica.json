@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Michael Teo Van Runkle",
+      "description": "CXC Simulations wanted to build something special for a cruise liner.",
+      "publishedAt": "2024-04-30T17:20:53+00:00",
+      "title": "Behind the wheel of CXC\u2019s $600,000 off-road racing simulator",
+      "url": "https://arstechnica.com/cars/2024/04/strap-in-we-test-a-full-motion-off-road-racing-simulator-from-cxc/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/AZB_3744-2-HDR-Edit-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"M\u00f3d \u00der\u00fd\u00fee Ne W\u00e6g\" (1935) was among documents sold to the University of Leeds 10 years ago.",
+      "publishedAt": "2024-04-30T15:53:48+00:00",
+      "title": "\u201cForgotten\u201d poem by C.S. Lewis published for the first time",
+      "url": "https://arstechnica.com/culture/2024/04/forgotten-poem-by-c-s-lewis-published-for-the-first-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/cslewis2-760x380.jpg"
+    },
+    {
+      "author": "Michael Acton, Financial Times",
+      "description": "At least 36 former Googlers now work on AI for Apple.",
+      "publishedAt": "2024-04-30T14:16:15+00:00",
+      "title": "Apple poaches AI experts from Google, creates secretive European AI lab",
+      "url": "https://www.ft.com/content/87054a60-dc4d-4238-a4b9-93ab48f22f56",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"If we\u2019re going to have a true space economy, that means logistics and supply services.\"",
+      "publishedAt": "2024-04-30T13:30:14+00:00",
+      "title": "New space company seeks to solve orbital mobility with high delta-v spacecraft",
+      "url": "https://arstechnica.com/space/2024/04/new-space-company-seeks-to-solve-orbital-mobility-with-high-delta-v-spacecraft/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Portal-Space-Systems-Supernova2-760x380.jpeg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Tesla is also getting rid of its public policy team, despite robotaxi ambitions.",
+      "publishedAt": "2024-04-30T13:20:02+00:00",
+      "title": "Tesla to lay off everyone working on Superchargers, new vehicles",
+      "url": "https://arstechnica.com/cars/2024/04/tesla-to-lay-off-everyone-working-on-superchargers-new-vehicles/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1550685452-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\"The fundamental flow mechanism is the pressure delta across the umbilical.\"",
       "publishedAt": "2024-04-30T00:19:38+00:00",
@@ -39,46 +79,6 @@
       "title": "Critics question tech-heavy lineup of new Homeland Security AI safety board",
       "url": "https://arstechnica.com/information-technology/2024/04/us-department-of-homeland-security-names-ai-safety-and-security-board-members/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/dangerous_ai_hero-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "iPads must comply with the same DMA regulations as the iPhone.",
-      "publishedAt": "2024-04-29T19:52:16+00:00",
-      "title": "Apple must open iPadOS to sideloading within 6 months, EU says",
-      "url": "https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/DSC00515-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "FCC finalizes $196M penalties for location-data sales revealed in 2018.",
-      "publishedAt": "2024-04-29T19:51:31+00:00",
-      "title": "FCC fines big three carriers $196M for selling users\u2019 real-time location data",
-      "url": "https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/verizon-phone-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "The law aims to prevent global-scale botnet attacks.",
-      "publishedAt": "2024-04-29T19:45:16+00:00",
-      "title": "UK outlaws awful default passwords on connected devices",
-      "url": "https://arstechnica.com/gadgets/2024/04/connected-devices-with-awful-default-passwords-now-illegal-in-uk/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1172712800-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Credential-stuffing attack uses proxies to hide bad behavior.",
-      "publishedAt": "2024-04-29T19:35:32+00:00",
-      "title": "Account compromise of \u201cunprecedented scale\u201d uses everyday home devices",
-      "url": "https://arstechnica.com/security/2024/04/everyday-devices-are-used-to-hide-ongoing-account-compromise-campaign/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/password-cracking-attack-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Based on your point of view, the AI either doesn't work or works too well.",
-      "publishedAt": "2024-04-29T18:23:55+00:00",
-      "title": "Customers say Meta\u2019s ad-buying AI blows through budgets in a matter of hours",
-      "url": "https://arstechnica.com/gadgets/2024/04/customers-say-metas-ad-buying-ai-blows-through-budgets-in-a-matter-of-hours/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/terminator-1-760x380.jpg"
     }
   ],
   "sortBy": "top",
