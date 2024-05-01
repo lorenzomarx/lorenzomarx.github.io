@@ -1,10 +1,23 @@
 {
   "articles": [
     {
+      "author": "Devon M. Sayers, Shawn Nottingham",
+      "content": "Four officers were killed in a shooting while attempting to serve a warrant at a home in Charlotte, North Carolina, including one deputy US marshal and two local task force officers, authorities say.\u2026 [+4641 chars]",
+      "description": "Three officers were killed in a shooting while attempting to serve a warrant at a home in Charlotte, North Carolina, including one deputy US Marshal and two local task force officers, authorities say.",
+      "publishedAt": "2024-04-30T03:22:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Charlotte, NC shooting: 4 law enforcement officers killed as US Marshals Fugitive Task Force were serving warrant - CNN",
+      "url": "https://www.cnn.com/2024/04/29/us/officers-shot-charlotte-north-carolina/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20584184-1000993-865-still.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
       "author": "Reuters",
       "content": null,
       "description": null,
-      "publishedAt": "2024-04-30T00:15:00Z",
+      "publishedAt": "2024-04-30T03:11:00Z",
       "source": {
         "id": "reuters",
         "name": "Reuters"
@@ -14,43 +27,134 @@
       "urlToImage": null
     },
     {
-      "author": "Marc Santia and David K. Li",
-      "content": "A 9/11 victim's DNA helped police identify remains found more than 20 years ago under a famed New York City address as those of a teen last seen in 1969, authorities said.\r\nConstruction workers made \u2026 [+1892 chars]",
-      "description": "Patricia Kathleen McGlone, last seen in 1969, was found in 2003 entombed in concrete in the basement of what was once famed New York City hotspot Steve...",
-      "publishedAt": "2024-04-30T00:09:00Z",
+      "author": "Becky Anderson, Jeremy Diamond",
+      "content": "Riyadh and JerusalemCNN\r\n \u00a0\u2014\u00a0\r\nHamas is\u00a0considering\u00a0a new\u00a0framework\u00a0proposed by Egypt\u00a0that calls for the group to release as many as 33\u00a0hostages\u00a0kidnapped from Israel\u00a0in exchange for\u00a0a\u00a0pause in hosti\u2026 [+6821 chars]",
+      "description": "Hamas is\u00a0considering\u00a0a new\u00a0framework\u00a0proposed by Egypt\u00a0that calls for the group to release as many as 33\u00a0hostages\u00a0kidnapped from Israel\u00a0in exchange for\u00a0a\u00a0pause in hostilities\u00a0in Gaza, an Israeli source familiar with the negotiations and a foreign diplomatic s\u2026",
+      "publishedAt": "2024-04-30T02:51:00Z",
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "'Midtown Jane Doe,' whose remains were found in cement of NYC bar basement 20 years ago, finally ID'd - Yahoo! Voices",
-      "url": "https://www.yahoo.com/news/midtown-jane-doe-whose-remains-191659992.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xHlkDw8OHYZc207yJz98Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/nbc_news_122/28d6974345a432088e9928b4ff475b58"
+      "title": "Hamas to consider ceasefire-hostage release proposal that Israeli sources say could avert Rafah invasion - CNN",
+      "url": "https://www.cnn.com/2024/04/29/middleeast/hamas-israel-ceasefire-proposal-cairo-talks-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2100340928.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "ESPN",
-      "content": "Apr 29, 2024, 07:30 PM ET\r\nFormer Dallas Cowboys receiver Michael Gallup plans to sign with the Las Vegas Raiders on a one-year deal worth up to $3 million, sources told ESPN's Adam Schefter and Jere\u2026 [+1207 chars]",
-      "description": "Former Dallas Cowboys receiver Michael Gallup plans to sign with the Las Vegas Raiders on a one-year deal worth up to $3 million, sources told ESPN.",
-      "publishedAt": "2024-04-29T23:30:00Z",
+      "author": "Al Jazeera",
+      "content": "Samsung Electronics has reported a nearly 10-fold jump in first-quarter operating profit amid the recovery of its key memory chip business.\r\nThe tech giant, the flagship subsidiary of Samsung Group, \u2026 [+1377 chars]",
+      "description": "South Korean tech giant reports $4.85bn profit during the first three months of 2024.",
+      "publishedAt": "2024-04-30T02:35:14Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "South Korea\u2019s Samsung sees profit jump 10-fold on memory chip recovery - Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2024/4/30/south-koreas-samsung-sees-profit-jump-10-fold-on-memory-chip-recovery",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/2023-03-01T132459Z_944541513_RC2ZKZ9AKKIY_RTRMADP_3_TECH-CONFERENCE-MWC-1714439345.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Lisa Respers France",
+      "content": "The teaser trailer for Mufasa: The Lion King dropped Monday, and who is in it is as exciting for many as what it is.\r\nThe photorealistic-animated prequel to the hit 1994 film The Lion King brings bac\u2026 [+1629 chars]",
+      "description": "The teaser trailer for \u201cMufasa: The Lion King\u201d dropped Monday, and who is in it is as exciting for many as what it is.",
+      "publishedAt": "2024-04-30T01:44:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Blue Ivy is joining mom Beyonc\u00e9 in forthcoming animated \u2018Lion King\u2019 prequel - CNN",
+      "url": "https://www.cnn.com/2024/04/29/entertainment/mufasa-trailer-blue-ivy-beyonce/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1978664934.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "Logan Paul singles out three-time Super Bowl champion Patrick Mahomes as he returns to Raw to announce the second-round picks of the WWE Draft alongside ISho...",
+      "publishedAt": "2024-04-30T01:41:48Z",
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "title": "Logan Paul recognizes Patrick Mahomes during the second round: Raw, April 29, 2024 - WWE",
+      "url": "https://www.youtube.com/watch?v=dmo4H0MdMXE",
+      "urlToImage": "https://i.ytimg.com/vi/dmo4H0MdMXE/maxresdefault.jpg"
+    },
+    {
+      "author": "Daniel Starkand",
+      "content": "As Los Angeles Lakers star LeBron James nears the end of his 21st NBA season, the questions are again coming up about how much longer he will continue to play.\r\nAfter the Lakers lost in the Western C\u2026 [+4457 chars]",
+      "description": "Rich Paul believes Los Angeles Lakers star LeBron James will likely play two or three more seasons before retiring.",
+      "publishedAt": "2024-04-30T01:35:51Z",
+      "source": {
+        "id": null,
+        "name": "LakersNation.com"
+      },
+      "title": "Lakers News: Rich Paul Believes LeBron James Will Play 2-3 More NBA Seasons - LakersNation.com",
+      "url": "https://lakersnation.com/lakers-news-rich-paul-believes-lebron-james-will-play-2-3-more-nba-seasons/",
+      "urlToImage": "https://s22928.pcdn.co/wp-content/uploads/2024/04/LeBron-James-10.jpg"
+    },
+    {
+      "author": "VentureBeat",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-04-30T01:17:00Z",
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "title": "Mysterious 'gpt2-chatbot' AI model baffles experts: A breakthrough or mere hype? - VentureBeat",
+      "url": "https://venturebeat.com/ai/mysterious-gpt2-chatbot-ai-model-baffles-experts-a-breakthrough-or-mere-hype/",
+      "urlToImage": null
+    },
+    {
+      "author": "Sabba Rahbar",
+      "content": "While accepting the 2018 Woman of the Year Award by the Peggy Albrecht Friendly House, a residential program for women recovering from substance and alcohol abuse, Moore spoke about the \"self-destruc\u2026 [+1002 chars]",
+      "description": "Anne Hathaway marked a big moment in her life as she shared that she has been sober for over five years, saying, \"That feels like a milestone to me.\"",
+      "publishedAt": "2024-04-30T01:08:00Z",
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "title": "Anne Hathaway Shares She's 5 Years Sober - E! NEWS",
+      "url": "https://www.eonline.com/news/1400428/anne-hathaway-shares-shes-5-years-sober",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024329/cr_1200x1200-240429172723-GettyImages-2036442887.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
+    },
+    {
+      "author": "Chris Herring",
+      "content": "MIAMI -- Boston Celtics center Kristaps Porzingis hobbled off the court before halftime of Monday night's 102-88 Game 4 win over the Miami Heat and did not return with what the team said was a right \u2026 [+1404 chars]",
+      "description": "Kristaps Porzingis hurt his right calf during the Celtics' Game 4 win versus Miami. Early indications are that he didn't suffer an Achilles tendon injury, sources said.",
+      "publishedAt": "2024-04-30T01:07:00Z",
       "source": {
         "id": "espn",
         "name": "ESPN"
       },
-      "title": "Raiders to sign former Cowboys WR Michael Gallup - ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/40052736/raiders-sign-former-cowboys-wr-michael-gallup",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0314%2Fr986015_1296x729_16%2D9.jpg"
+      "title": "Celtics' Kristaps Porzingis doubtful to return due to calf injury - ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/40053249/celtics-kristaps-porzingis-doubtful-return-calf-injury",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0430%2Fr1326418_1024x576_16%2D9.jpg"
     },
     {
-      "author": "Associated Press",
-      "content": "In the not-too-distant future, automatic emergency braking will have to come standard on all new passenger vehicles in the US, a requirement that the government says will save hundreds of lives and p\u2026 [+5140 chars]",
-      "description": "\u201cWe\u2019re living through a crisis in roadway deaths,\u201d Transportation Secretary Pete Buttigieg said in an interview. \u201cSo we need to do something about it.\u201d",
-      "publishedAt": "2024-04-29T23:26:00Z",
+      "author": "Ewan Spence",
+      "content": "iPhone 16 family of handsets\r\nSonny Dickson\r\nUpdated April 29: article originally posted April 28.\r\nWeve had a chance to look at the iPhone 16 and iPhone 16 Pro design thanks to the leaks of several \u2026 [+2447 chars]",
+      "description": "Here's your first look at the new colors of Apple's iPhone 16 and iPhone 16 Pro.",
+      "publishedAt": "2024-04-30T00:22:29Z",
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Forbes"
       },
-      "title": "New US cars will be required to have automatic emergency braking in 5 years - New York Post ",
-      "url": "https://nypost.com/2024/04/29/business/new-us-cars-will-be-required-to-have-automatic-emergency-braking-in-5-years/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/cars-emergency-braking.jpg?quality=75&strip=all&1714417337&w=1024"
+      "title": "Apple's iPhone 16 Pro Design Revealed In New Leak - Forbes",
+      "url": "https://www.forbes.com/sites/ewanspence/2024/04/29/apple-iphone-16-iphone-16-pro-violet-black-pink-color-new-iphone/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662ee1c137e6d93e7de7cafd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "Painless and easier to store than injections, it remains early days for microneedle-patch technology.",
+      "publishedAt": "2024-04-29T23:11:54Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Patch to protect against measles in children shows promise - BBC.com",
+      "url": "https://www.bbc.com/news/health-68921897",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B6FC/production/_133244864_microarraypatchgiventochild2.jpg"
     },
     {
       "author": "HEATHER HOLLINGSWORTH",
@@ -64,6 +168,19 @@
       "title": "Politicians and dog experts vilify South Dakota governor after she writes about killing her dog - The Associated Press",
       "url": "https://apnews.com/article/kristi-noem-book-dog-killing-5710b302e33f61c697f20ab3b227a19b",
       "urlToImage": "https://dims.apnews.com/dims4/default/afc2776/2147483647/strip/true/crop/4608x2592+0+240/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2F79%2F591ae1e0f7d2bbb586169c6d16a1%2Fd5b6e76825ae470ba5b07e85e7199133"
+    },
+    {
+      "author": "The Hill",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-04-29T22:46:00Z",
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "title": "The Memo: Potential arrest warrant for Netanyahu gets pushback from White House - The Hill",
+      "url": "https://thehill.com/homenews/administration/4630572-the-memo-potential-arrest-warrant-for-netanyahu-gets-pushback-from-white-house/",
+      "urlToImage": null
     },
     {
       "author": "Beth Mole",
@@ -92,17 +209,17 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lN2MMZbCxlQTNT55xp0bWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/67e774e0-065a-11ef-8fd3-a47386c1f59f"
     },
     {
-      "author": "Missy Ryan",
-      "content": "A new assessment from Amnesty International asserts that Israel has used U.S.-supplied weapons against Palestinian civilians in alleged violations of international law, a finding certain to inflame t\u2026 [+435 chars]",
-      "description": "In a new report, Amnesty International details Israeli attacks in which, it says, U.S-made weapons were used to kill Palestinian civilians in Gaza.",
-      "publishedAt": "2024-04-29T21:45:00Z",
+      "author": "Hannah Rabinowitz",
+      "content": "A former National Security Agency employee was sentenced Monday to nearly 22 years in prison for attempting to sell classified information to Russia.\r\nJareh Sebastian Dalke, a 32-year-old Army vetera\u2026 [+1855 chars]",
+      "description": "A former National Security Agency employee was sentenced Monday to nearly 22 years in prison for attempting to sell classified information to Russia.",
+      "publishedAt": "2024-04-29T21:53:00Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Amnesty International says Biden must halt arms transfers to Israel - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2024/04/29/amnesty-international-us-weapons-israel-gaza/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NPK3RYGUFNG5RVCKNUBBYZQKRE_size-normalized.jpg&w=1440"
+      "title": "Former NSA employee sentenced to almost 22 years for trying to sell secrets to Russia - CNN",
+      "url": "https://www.cnn.com/2024/04/29/politics/jareh-dalke-former-nsa-employee-sentenced-russia/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap22273019832424.jpg?c=16x9&q=w_800,c_fill"
     },
     {
       "author": "Ahmad Mukhtar",
@@ -118,147 +235,30 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/26/85c98a02-3e34-45dd-af21-f8382146386c/thumbnail/1200x630/42d3f32d32e109912d616743c7888c07/5601892-ppt.jpg?v=83c4aa62022b0768ec89bafc4bda52c9"
     },
     {
-      "author": "Neeraj Dhankher",
-      "content": "Aries: Today, the workplace environment is a fertile ground for change, as you will be overflowing with new ideas. Your behaviour is not only contagious but also transformative. Go ahead and take the\u2026 [+5284 chars]",
-      "description": "Daily Horoscope Today, April 30, 2024: Get daily career astrological predictions that will help you prosper at your workplace. | Horoscope",
-      "publishedAt": "2024-04-29T21:30:01Z",
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "title": "Career Horoscope Today for April 30, 2024: It's time for development and promotion - Hindustan Times",
-      "url": "https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-april-30-2024-its-time-for-development-and-promotion-101714420976455.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/29/1600x900/To-provide-career-guidance-as-well-as-help-student_1698348601166_1714421416760.jpg"
-    },
-    {
-      "author": "Bill Rentschler",
-      "content": "LINCOLN, Neb. (KOLN) - The National Weather Service offices out of Omaha and Hastings have - as of Monday afternoon - confirmed nine tornadoes across Nebraska from the Arbor Day tornado outbreak. Of \u2026 [+5090 chars]",
-      "description": "The NWS has confirmed nine tornadoes in the state of Nebraska from the Arbor Day outbreak on Friday.",
-      "publishedAt": "2024-04-29T21:26:00Z",
-      "source": {
-        "id": null,
-        "name": "1011now"
-      },
-      "title": "National Weather Service confirms 9 tornadoes from Arbor Day outbreak as of Monday afternoon - KOLN",
-      "url": "https://www.1011now.com/2024/04/29/national-weather-service-confirms-9-tornadoes-arbor-day-outbreak-monday-afternoon/",
-      "urlToImage": "https://gray-koln-prod.cdn.arcpublishing.com/resizer/v2/GKWBPYBTPZFVBMJLZFGEKY3QDA.png?auth=c4edf621639aad14bd49037171c9ec51534a43174cc710fe7e355227d13ae576&width=1200&height=600&smart=true"
-    },
-    {
-      "author": "",
-      "content": "The 2024\u00a0NFL Draft has concluded, which means only one thing -- draft grades are here. Below you will find the full draft classes for all 32 teams with individual grades, analysis for every class and\u2026 [+42215 chars]",
-      "description": "Let's grade every club's 2024 draft class",
-      "publishedAt": "2024-04-29T21:23:00Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "2024 NFL Draft grades for every team: Eagles, Patriots, Chiefs deliver; Cowboys, Panthers receive poor marks - CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2024-nfl-draft-grades-for-every-team-eagles-patriots-chiefs-deliver-cowboys-panthers-receive-poor-marks/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/27/44eaf670-4ca2-4ff9-a5d4-49a48a7f8177/thumbnail/1200x675/ff130d939a1f785b5c7d84c139e155e9/nfldraft-v3.png"
-    },
-    {
-      "author": "The Wall Street Journal",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-04-29T21:21:37Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "The Yen's Plunge and Dollar Devaluation - WSJ - The Wall Street Journal",
-      "url": "https://www.wsj.com/articles/japanese-yen-falls-bank-of-japan-kazuo-ueda-monetary-policy-c9d68338",
-      "urlToImage": null
-    },
-    {
-      "author": "Tom Polansek",
-      "content": null,
-      "description": "The U.S. government said on Monday it is collecting samples of ground beef at retail stores in states with outbreaks of bird flu in dairy cows for testing, but remains confident the meat supply is safe.",
-      "publishedAt": "2024-04-29T21:14:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "US to test ground beef in states with bird-flu outbreaks in dairy cows - Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/usda-test-ground-beef-us-states-with-outbreaks-bird-flu-dairy-cows-2024-04-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/HPCWXSCZJRLRJHN33QGRHXJCLA.jpg?auth=9ba95b9628cfcb0570add1d02d4428189332422e68fc54ef1c80bc620a9de714&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Joe Bruno",
-      "content": "CHARLOTTE \u2014 Monday marked a dark day for Charlotte, as three officers died and five more were hurt while they were working to keep the city safe.\r\nThe chief of the Charlotte-Mecklenburg Police Depart\u2026 [+10132 chars]",
-      "description": "Monday marked a dark day for Charlotte, as three officers died and five more were hurt while they were trying to keep the city safe.",
-      "publishedAt": "2024-04-29T21:07:56Z",
-      "source": {
-        "id": null,
-        "name": "WSOC Charlotte"
-      },
-      "title": "Sources: Marshal killed, officers shot while serving warrant in east Charlotte - WSOC Charlotte",
-      "url": "https://www.wsoctv.com/news/local/cmpd-investigation-underway-east-charlotte/6PTLZP4FLFE4DA5ALFT65QDTA4/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/-XpH8ifYUfofZ-k8k8mLCLKY2_4=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/JSLON7HYM5FEBBETMIFIKT423Y.png"
-    },
-    {
-      "author": "LEAH WILLINGHAM Associated Press",
-      "content": "CHARLESTON, W.Va. -- West Virginia's and North Carolina's refusal to cover certain health care for transgender people with government-sponsored insurance is discriminatory, a federal appeals court ru\u2026 [+5623 chars]",
-      "description": "A federal appeals court has ruled that West Virginia's and North Carolina\u2019s refusal to cover certain health care for transgender people with government-sponsored insurance is discriminatory",
-      "publishedAt": "2024-04-29T21:00:00Z",
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "title": "West Virginia's and North Carolina's transgender care coverage policies discriminate, judges rule - ABC News",
-      "url": "https://abcnews.go.com/US/wireStory/west-virginia-north-carolinas-transgender-care-coverage-policies-109752146",
-      "urlToImage": "https://i.abcnewsfe.com/a/ce9de5f7-ed39-4526-8093-03a7d7228a39/wirestory_dbe97d7b305ec6c6d07f7c1e33beef00_16x9.jpg?w=1600"
-    },
-    {
       "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "The University of Florida has been recognized by Forbes as one of 10 public \u201cNew Ivies\u201d for producing exceptional and highly employable graduates. UF is the only Florida institution on the list.\r\n\u201cTh\u2026 [+3013 chars]",
+      "description": "<p>The University of Florida has been recognized by Forbes as one of 10 public \u201cNew Ivies\u201d for producing exceptional and highly employable graduates. UF is the only Florida institution on the list.</p>",
+      "publishedAt": "2024-04-29T21:17:22Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Ufl.edu"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
+      "title": "Forbes names the University of Florida a \u201cNew Ivy\u201d for its output of outstanding graduates - University of Florida",
+      "url": "https://news.ufl.edu/2024/04/forbes-new-ivy/",
+      "urlToImage": "https://news.ufl.edu/media/newsufledu/images/2024/02/2015-03-04_UF_Entrance-6112-(3).jpg"
     },
     {
-      "author": "Hayley Santaflorentina",
-      "content": "Justin Bieber's recent post was a moodand Hailey Bieber was here for it.\u00a0\r\nDuring a recent posting spree on his Instagram, the \"Mood\" singer shared a couple images of himself crying, causing fans to \u2026 [+914 chars]",
-      "description": "Hailey Bieber entered the chat after Justin Bieber shared photos of himself crying as part of a posting spree on Instagram.",
-      "publishedAt": "2024-04-29T20:33:57Z",
+      "author": "Josh Lipton",
+      "content": "Shares of Apple (AAPL) are down over 10% in 2024 as the tech giant has faced mounting challenges, including increased competition in China, where iPhone sales have dragged. As earnings season heats u\u2026 [+962 chars]",
+      "description": "Shares of Apple (AAPL) are down over 10% in 2024 as the tech giant has faced mounting challenges, including increased competition in China, where iPhone...",
+      "publishedAt": "2024-04-29T20:41:42Z",
       "source": {
         "id": null,
-        "name": "Eonline.com"
+        "name": "Yahoo Entertainment"
       },
-      "title": "Hailey Bieber Has Surprising Reaction to Tearful Photo of Husband Justin Bieber - E! Online - E! NEWS",
-      "url": "https://www.eonline.com/news/1400363/hailey-bieber-has-surprising-reaction-to-tearful-photo-of-husband-justin-bieber",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024329/rs_1200x1200-240429091330-JustinThumb.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
-    },
-    {
-      "author": "Brian Heater",
-      "content": "We\u2019re still well over a month out from WWDC, but Apple went ahead and snuck in another event. On Tuesday, May 7 at 7 a.m. PT/10 a.m. ET, the company is set to unveil the latest additions to the iPad \u2026 [+1314 chars]",
-      "description": "We're still well over a month out from WWDC, but Apple went ahead and snuck in another event. On Tuesday, May 7 at 7 a.m. PT/10 a.m. ET, the company is",
-      "publishedAt": "2024-04-29T20:22:51Z",
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "title": "Apple iPad event 2024: Watch Apple unveil new iPads right here - TechCrunch",
-      "url": "https://techcrunch.com/2024/04/29/apple-ipad-event-2024-watch-apple-unveil-new-ipads-right-here/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/AppleEvent.SEP14Keynote.Tim_Cook.06.jpg?resize=1200,675"
-    },
-    {
-      "author": "Elizabeth Elkind",
-      "content": "Speaker Mike Johnson, R-La., is calling on President Biden to utilize the U.S.'s influence on the world stage to block the International Criminal Court's (ICC) reported plan to issue arrest warrants \u2026 [+2664 chars]",
-      "description": "House Speaker Mike Johnson is urging the Biden administration to help block the International Criminal Court from issuing arrest warrants against top Israeli officials.",
-      "publishedAt": "2024-04-29T20:01:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Johnson urges Biden to intervene in ICC's reported plan for Netanyahu arrest warrant - Fox News",
-      "url": "https://www.foxnews.com/politics/johnson-biden-intervene-icc-reported-plan-netanyahu-arrest-warrant",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/netanyahu-johnson-biden.jpg"
+      "title": "Apple earnings: iPhone sales fuel 'relatively flat' expectations - Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/apple-earnings-iphone-sales-fuel-204142741.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/B5i69pd3eAVmzlE1U0aJCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/68dbdb70-0664-11ef-be5f-9251dc521595"
     }
   ],
   "status": "ok",
