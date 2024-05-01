@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Mammal-to-mammal transmission raises new concerns about the virus's ability to spread.",
+      "publishedAt": "2024-04-29T22:41:38+00:00",
+      "title": "Cats suffer H5N1 brain infections, blindness, death after drinking raw milk",
+      "url": "https://arstechnica.com/science/2024/04/concerning-spread-of-bird-flu-from-cows-to-cats-suspected-in-texas/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1316287839-760x380.jpeg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Meanwhile, Roku keeps making more money.",
+      "publishedAt": "2024-04-29T21:08:52+00:00",
+      "title": "Roku OS home screen is getting video ads for the first time",
+      "url": "https://arstechnica.com/gadgets/2024/04/roku-ad-push-continues-with-plans-to-put-video-ads-in-os-home-screen/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/roku-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Supernatural horror detective series has witches, demons, and a charming Cat King.",
+      "publishedAt": "2024-04-29T20:39:18+00:00",
+      "title": "Dead Boy Detectives turns Neil Gaiman\u2019s ghostly duo into \u201cHardy Boys on acid\u201d",
+      "url": "https://arstechnica.com/culture/2024/04/dead-boy-detectives-turns-neil-gaimans-ghostly-duo-into-hardy-boys-on-acid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/deadboy13TOP-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "CEO-heavy board to tackle elusive AI safety concept and apply it to US infrastructure.",
+      "publishedAt": "2024-04-29T20:15:10+00:00",
+      "title": "Critics question tech-heavy lineup of new Homeland Security AI safety board",
+      "url": "https://arstechnica.com/information-technology/2024/04/us-department-of-homeland-security-names-ai-safety-and-security-board-members/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/dangerous_ai_hero-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "iPads must comply with the same DMA regulations as the iPhone.",
+      "publishedAt": "2024-04-29T19:52:16+00:00",
+      "title": "Apple must open iPadOS to sideloading within 6 months, EU says",
+      "url": "https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/DSC00515-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "FCC finalizes $196M penalties for location-data sales revealed in 2018.",
+      "publishedAt": "2024-04-29T19:51:31+00:00",
+      "title": "FCC fines big three carriers $196M for selling users\u2019 real-time location data",
+      "url": "https://arstechnica.com/tech-policy/2024/04/fcc-fines-big-three-carriers-196m-for-selling-users-real-time-location-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/verizon-phone-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "The law aims to prevent global-scale botnet attacks.",
+      "publishedAt": "2024-04-29T19:45:16+00:00",
+      "title": "UK outlaws awful default passwords on connected devices",
+      "url": "https://arstechnica.com/gadgets/2024/04/connected-devices-with-awful-default-passwords-now-illegal-in-uk/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1172712800-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Credential-stuffing attack uses proxies to hide bad behavior.",
+      "publishedAt": "2024-04-29T19:35:32+00:00",
+      "title": "Account compromise of \u201cunprecedented scale\u201d uses everyday home devices",
+      "url": "https://arstechnica.com/security/2024/04/everyday-devices-are-used-to-hide-ongoing-account-compromise-campaign/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/password-cracking-attack-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Based on your point of view, the AI either doesn't work or works too well.",
+      "publishedAt": "2024-04-29T18:23:55+00:00",
+      "title": "Customers say Meta\u2019s ad-buying AI blows through budgets in a matter of hours",
+      "url": "https://arstechnica.com/gadgets/2024/04/customers-say-metas-ad-buying-ai-blows-through-budgets-in-a-matter-of-hours/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/terminator-1-760x380.jpg"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "Motherboard makers \"disable thermal and power delivery safeguards\" by default.",
       "publishedAt": "2024-04-29T15:41:00+00:00",
       "title": "Motherboard makers apparently to blame for high-end Intel Core i9 CPU failures",
       "url": "https://arstechnica.com/gadgets/2024/04/intel-reportedly-blames-motherboard-makers-for-core-i9-cpu-crashes/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/intel-19-14900ks-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Musk can't kill SEC settlement that requires pre-approval of tweets about Tesla.",
-      "publishedAt": "2024-04-29T15:27:01+00:00",
-      "title": "Elon Musk loses at Supreme Court in case over \u201cfunding secured\u201d tweets",
-      "url": "https://arstechnica.com/tech-policy/2024/04/elon-musk-loses-at-supreme-court-in-case-over-funding-secured-tweets/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/elon-musk-satellite-conference-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "New Joy-con buttons, 1080p screen also feature in MobaPad's \"first-hand information.\"",
-      "publishedAt": "2024-04-29T15:05:54+00:00",
-      "title": "Report suggests Switch 2 can play all original Switch games",
-      "url": "https://arstechnica.com/gaming/2024/04/controller-maker-says-switch-2-will-be-backward-compatible-with-all-switch-games/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/switch2.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "NHTSA has opened an investigation after two separate fatal crashes at night.",
-      "publishedAt": "2024-04-29T13:48:56+00:00",
-      "title": "Ford BlueCruise driver assist under federal scrutiny following 2 deaths",
-      "url": "https://arstechnica.com/cars/2024/04/ford-bluecruise-driver-assist-under-federal-scrutiny-following-2-deaths/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/BlueCruise_Mustang_Mach-E_01-760x380.jpg"
-    },
-    {
-      "author": "Javier Espinoza, Financial Times",
-      "description": "Insufficient moderation of political ads risk undermining electoral process.",
-      "publishedAt": "2024-04-29T13:40:28+00:00",
-      "title": "Meta to face EU probe for not doing enough to stop Russian disinformation",
-      "url": "https://www.ft.com/content/70dc27e8-07bd-40af-8b0e-d4623a3bcc0b",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/meta-eu-760x380.jpg"
-    },
-    {
-      "author": "Jeremy Reimer",
-      "description": "From BBS to Facebook, here's how messaging platforms have changed over the years.",
-      "publishedAt": "2024-04-29T11:30:13+00:00",
-      "title": "First post: A history of online public messaging",
-      "url": "https://arstechnica.com/gadgets/2024/04/first-post-a-history-of-online-public-messaging/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/history-of-public-messaging-760x380.jpg"
-    },
-    {
-      "author": "Amber Dance, Knowable Magazine",
-      "description": "Some make nests inside seashells, others tote bubbles of air on their backs.",
-      "publishedAt": "2024-04-28T11:11:16+00:00",
-      "title": "Swimming and spinning aquatic spiders use slick survival strategies",
-      "url": "https://knowablemagazine.org/content/article/living-world/2024/meet-the-aquatic-spiders",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/water-spider-760x380.jpg"
-    },
-    {
-      "author": "Trevelyan Wing, The Conversation",
-      "description": "The past year has seen record renewable power production nationwide.",
-      "publishedAt": "2024-04-27T11:27:05+00:00",
-      "title": "Why Germany ditched nuclear before coal\u2014and why it won\u2019t go back",
-      "url": "https://theconversation.com/why-germany-ditched-nuclear-before-coal-and-why-it-wont-go-back-228212",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1251837740-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Fallout 76 is good now. Actually, it\u2019s always been good.",
-      "publishedAt": "2024-04-27T11:00:19+00:00",
-      "title": "There\u2019s never been a better time to get into Fallout 76",
-      "url": "https://arstechnica.com/gaming/2024/04/theres-never-been-a-better-time-to-get-into-fallout-76/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Fallout-76-Vault-76-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\u201cWhen we stitch it all together, we\u2019ll either have flight rationale or we won\u2019t.\"",
-      "publishedAt": "2024-04-27T00:22:09+00:00",
-      "title": "NASA still doesn\u2019t understand root cause of Orion heat shield issue",
-      "url": "https://arstechnica.com/space/2024/04/nasa-still-doesnt-understand-root-cause-of-orion-heat-shield-issue/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/52557349541_4ff1f090b0_k-760x380.jpg"
     }
   ],
   "sortBy": "top",
