@@ -2,6 +2,19 @@
   "articles": [
     {
       "author": "VICE Staff, VICE Staff",
+      "content": "If you had to sum up our news coverage: Awards. Emmys, Pulitzers, Peabodys \u00a0you name it, we won it. VICE News and VICE World News transported audiences to the frontlines of stories all over the world\u2026 [+909 chars]",
+      "description": "In awards from Emmys to Pulitzers \u2013\u00a0you name it, VICE News won it.",
+      "publishedAt": "2024-04-30T10:30:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The Very Best of VICE News Reporting",
+      "url": "https://www.vice.com/en/article/qjv5b5/the-very-best-of-vice-news-reporting",
+      "urlToImage": "https://video-images.vice.com/articles/661e8fadb1e2f4f6e9aedfb6/lede/1713786626417-8best-of-vice-1440x810.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "VICE Staff, VICE Staff",
       "content": "We all know the internet is a crazy place. The mess of it is compounded by the fact were all experiencing it in completely different ways: Boomers arguing in Facebook comments, zoomers whove never kn\u2026 [+847 chars]",
       "description": "Who remembers  \u201cbadger badger mushroom\u201d?",
       "publishedAt": "2024-04-29T10:30:00Z",
@@ -145,5 +158,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 11
+  "totalResults": 12
 }
