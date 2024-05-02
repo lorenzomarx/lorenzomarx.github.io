@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "SES is buying Intelsat, the world's first commercial satellite operator, for $3.1 billion.",
+      "publishedAt": "2024-05-01T01:30:23+00:00",
+      "title": "Two giants in the satellite telecom industry join forces to counter Starlink",
+      "url": "https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/intelsat901-700x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "145,152-core Cheyenne supercomputer was 20th most powerful in the world in 2016.",
       "publishedAt": "2024-04-30T21:52:24+00:00",
@@ -49,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-2-760x380.png"
     },
     {
-      "author": "Kevin Purdy",
+      "author": null,
       "description": "Amazon says it's working on stopping others from \"making your AWS bill explode.\"",
       "publishedAt": "2024-04-30T19:43:07+00:00",
       "title": "AWS S3 storage bucket with unlucky name nearly cost developer $1,300",
-      "url": "https://arstechnica.com/information-technology/2024/04/aws-s3-storage-bucket-with-unlucky-name-nearly-cost-developer-1300/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-139991195-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2020714",
+      "urlToImage": null
     },
     {
       "author": "Benj Edwards",
@@ -71,14 +79,6 @@
       "title": "Apple confirms bug that is keeping some iPhone alarms from sounding",
       "url": "https://arstechnica.com/gadgets/2024/04/apple-confirms-bug-that-is-keeping-some-iphone-alarms-from-sounding/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/clock_radio-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "\u201cDeceptive advertising and misinformation posed a risk to public health.\"",
-      "publishedAt": "2024-04-30T18:52:58+00:00",
-      "title": "FTC fines Razer for every cent made selling bogus \u201cN95 grade\u201d RGB masks",
-      "url": "https://arstechnica.com/tech-policy/2024/04/ftc-fines-razer-for-every-cent-made-selling-bogus-n95-grade-rgb-masks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Razer-Zephyr-760x380.jpg"
     }
   ],
   "sortBy": "top",
