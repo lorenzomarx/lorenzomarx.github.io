@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "Take the \"Moral Turing Test\" yourself to see whether you'd trust \"artificial\" moral advice.",
+      "publishedAt": "2024-05-01T16:50:12+00:00",
+      "title": "ChatGPT shows better moral judgment than a college undergrad",
+      "url": "https://arstechnica.com/ai/2024/05/chatgpt-shows-better-moral-judgement-than-a-college-undergrad/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/human-vs-ai-judgement-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "It sounds like the company is now blocking access from \"bootleg\" APKs.",
+      "publishedAt": "2024-05-01T16:48:29+00:00",
+      "title": "Rabbit R1 AI box revealed to just be an Android app",
+      "url": "https://arstechnica.com/gadgets/2024/05/rabbit-r1-ai-box-is-just-an-android-app-and-the-software-can-run-on-a-phone/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/r1-interface.desktop-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Court denies application for a stay but could still hear challenge to the law.",
+      "publishedAt": "2024-05-01T16:29:39+00:00",
+      "title": "Supreme Court decides not to block Texas law that age-gates porn websites",
+      "url": "https://arstechnica.com/tech-policy/2024/05/supreme-court-lets-texas-keep-enforcing-age-verification-law-for-porn-sites/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-texas-flag-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Easy-to-use language that drove Apple, TRS-80, IBM, and Commodore PCs debuted in 1964.",
+      "publishedAt": "2024-05-01T16:17:09+00:00",
+      "title": "The BASIC programming language turns 60",
+      "url": "https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/basic_apple_2-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Feature currently only works on iPhones, and not iPads, Macs, or Apple Watches.",
+      "publishedAt": "2024-05-01T15:35:21+00:00",
+      "title": "iOS 17.5 makes it less of a hassle to send your iPhone into Apple for repairs",
+      "url": "https://arstechnica.com/gadgets/2024/05/repair-state-mode-in-ios-17-5-beta-makes-it-less-of-a-hassle-to-fix-your-phone/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/apple-devices-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "The devil, as always, is in the details.",
+      "publishedAt": "2024-05-01T14:43:59+00:00",
+      "title": "Europe\u2019s ambitious satellite Internet project appears to be running into trouble",
+      "url": "https://arstechnica.com/space/2024/05/europes-ambitious-satellite-internet-project-appears-to-be-running-into-trouble/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1248376827-760x380.jpg"
+    },
+    {
+      "author": "Cristina Criddle and Rory Griffiths, Financial Times",
+      "description": "Workers in animation, advertising, and real estate test rival AI systems.",
+      "publishedAt": "2024-05-01T14:23:04+00:00",
+      "title": "AI video throwdown: OpenAI\u2019s Sora vs. Runway and Pika",
+      "url": "https://www.ft.com/content/ab70695f-584a-49bf-a635-38175be0718f",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/video-list-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Webb delivers with a new look on an iconic classic.",
+      "publishedAt": "2024-05-01T12:00:25+00:00",
+      "title": "Daily Telescope: The Horsehead Nebula as we\u2019ve never seen it before",
+      "url": "https://arstechnica.com/space/2024/05/daily-telescope-seeing-a-mane-attraction-up-close/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/weic2411a-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Yet again, CenturyLink failed to fix a long outage until Ars emailed the company.",
       "publishedAt": "2024-05-01T11:00:17+00:00",
@@ -15,70 +79,6 @@
       "title": "Two giants in the satellite telecom industry join forces to counter Starlink",
       "url": "https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/intelsat901-700x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "145,152-core Cheyenne supercomputer was 20th most powerful in the world in 2016.",
-      "publishedAt": "2024-04-30T21:52:24+00:00",
-      "title": "Here\u2019s your chance to own a decommissioned US government supercomputer",
-      "url": "https://arstechnica.com/information-technology/2024/04/us-government-auctions-5-34-petaflop-cheyenne-supercomputer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/cheyenne_1200_hero-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "The game launched on consoles and PC months ago.",
-      "publishedAt": "2024-04-30T21:16:57+00:00",
-      "title": "The iPhone\u2019s next AAA game, Assassin\u2019s Creed Mirage, gets a release date",
-      "url": "https://arstechnica.com/apple/2024/04/the-iphones-next-aaa-game-assassins-creed-mirage-gets-a-release-date/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/AC-Mirage-760x380.png"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Marijuana to move from Schedule 1, the most dangerous drug group, to Schedule 3.",
-      "publishedAt": "2024-04-30T21:16:33+00:00",
-      "title": "DEA to reclassify marijuana as a lower-risk drug, reports say",
-      "url": "https://arstechnica.com/science/2024/04/dea-to-reclassify-marijuana-as-a-lower-risk-drug-reports-say/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/GettyImages-502799696-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "US prosecutors sought 3-year sentence for Binance founder Changpeng Zhao.",
-      "publishedAt": "2024-04-30T20:55:30+00:00",
-      "title": "Binance\u2019s billionaire founder gets 4 months for violating money laundering law",
-      "url": "https://arstechnica.com/tech-policy/2024/04/binances-billionaire-founder-gets-4-months-for-violating-money-laundering-law/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Changpeng-Zhao-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Ransomware attack on the $371 billion company hamstrung US prescription market.",
-      "publishedAt": "2024-04-30T20:44:58+00:00",
-      "title": "Health care giant comes clean about recent hack and paid ransom",
-      "url": "https://arstechnica.com/security/2024/04/change-healthcare-hacked-through-stolen-password-for-account-with-no-mfa/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/pharmacy-line-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Bacterial spores strengthen the plastic, then revive to digest it in landfills.",
-      "publishedAt": "2024-04-30T20:11:01+00:00",
-      "title": "Researchers make a plastic that includes bacteria that can digest it",
-      "url": "https://arstechnica.com/science/2024/04/researchers-make-a-plastic-that-includes-bacteria-that-can-digest-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-2-760x380.png"
-    },
-    {
-      "author": null,
-      "description": "Amazon says it's working on stopping others from \"making your AWS bill explode.\"",
-      "publishedAt": "2024-04-30T19:43:07+00:00",
-      "title": "AWS S3 storage bucket with unlucky name nearly cost developer $1,300",
-      "url": "https://arstechnica.com/?p=2020714",
-      "urlToImage": null
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Mystery LLM highlights transparency issues in AI testing.",
-      "publishedAt": "2024-04-30T19:31:01+00:00",
-      "title": "Mysterious \u201cgpt2-chatbot\u201d AI model appears suddenly, confuses experts",
-      "url": "https://arstechnica.com/information-technology/2024/04/rumors-swirl-about-mystery-gpt2-chatbot-that-some-think-is-gpt-5-in-disguise/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/robot_crystal_ball-760x380.jpg"
     }
   ],
   "sortBy": "top",
