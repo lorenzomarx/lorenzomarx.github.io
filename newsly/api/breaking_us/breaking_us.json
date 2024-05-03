@@ -1,160 +1,82 @@
 {
   "articles": [
     {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-01T23:36:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "S&P 500, Nasdaq end lower after Fed rate decision, Powell press conference - Reuters",
-      "url": "https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Tune-in to TNT to watch the NBA Playoffs presented by Google Pixel7:30 PM ET: Miami Heat/Boston Celtics10:00 PM ET: Dallas Mavericks/Los Angeles ClippersNeve...",
-      "publishedAt": "2024-05-01T23:26:41Z",
+      "author": "The Athletic Staff",
+      "content": "By Jared Weiss, Jay King, Will Guillory, Law Murray and Tim Cato\r\nThe Dallas Mavericks coasted to a dominant 123-93 victory over the LA Clippers to move within one win away from a first-round series \u2026 [+8328 chars]",
+      "description": "Boston will play the winner of the series between the Orlando Magic and the Cleveland Cavaliers",
+      "publishedAt": "2024-05-02T04:24:15Z",
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "The Athletic"
       },
-      "title": "Miami Heat @ Boston Celtics 5 |#NBAplayoffs presented by Google Pixel Live Scoreboard - NBA",
-      "url": "https://www.youtube.com/watch?v=ofJPSwe_CQk",
-      "urlToImage": "https://i.ytimg.com/vi/ofJPSwe_CQk/maxresdefault_live.jpg"
+      "title": "Wednesday\u2019s NBA playoffs takeaways: Celtics stomp Heat to advance, Mavericks coast past Clippers - The Athletic",
+      "url": "https://theathletic.com/5465658/2024/05/01/nba-playoffs-scores-takeaways-celtics-heat-clippers-mavericks/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/05/01215907/GettyImages-2150483840-scaled.jpg"
     },
     {
-      "author": "",
-      "content": "Yet another late mistake by officials has marred the ending of one of the most exciting finishes in the 2024 NBA postseason. Philadelphia 76ers guard Tyrese Maxey made two phenomenal clutch plays to \u2026 [+2441 chars]",
-      "description": "For the second time this series, a frantic ending featured a few missed calls",
-      "publishedAt": "2024-05-01T23:12:43Z",
+      "author": "Stephen Collinson",
+      "content": "Donald Trump used his day off from a criminal trial related to a past election to cast a dark, familiar shadow over the next one.\r\nThe presumptive GOP nominee declined to say if hed accept the result\u2026 [+10318 chars]",
+      "description": "Donald Trump used his day off from a criminal trial related to a past election to cast a dark, familiar shadow over the next one.",
+      "publishedAt": "2024-05-02T04:00:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Trump gives his strongman\u2019s ambitions free rein on a day off from court - CNN",
+      "url": "https://www.cnn.com/2024/05/01/politics/trump-strongman-ambitions-analysis/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150483837.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Sheila Chiang",
+      "content": "Microsoft chairman and CEO Satya Nadella on Wednesday announced \"significant commitments\" to build a new regional data center in Thailand, among other initiatives, as the U.S. tech giant doubles down\u2026 [+1696 chars]",
+      "description": "The U.S. tech giant said it will also commit toward AI skills training for over 100,000 Thais and support local developers.",
+      "publishedAt": "2024-05-02T03:55:00Z",
       "source": {
         "id": null,
-        "name": "CBS Sports"
+        "name": "CNBC"
       },
-      "title": "Knicks vs. 76ers: NBA admits Tyrese Maxey's crucial 4-point play in Game 5 should have been waved off - CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/knicks-vs-76ers-nba-admits-tyrese-maxeys-crucial-4-point-play-in-game-5-should-have-been-waved-off/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/05/01/63a29f44-455c-47fd-a605-4260c613dbcc/thumbnail/1200x675/4eccbb17df75d48fd86abdd40d0b3931/050124-tyresemaxey.jpg"
+      "title": "Microsoft to open new data center in Thailand as it doubles down on AI and Southeast Asia - CNBC",
+      "url": "https://www.cnbc.com/2024/05/02/microsoft-to-open-data-center-in-thailand-amid-southeast-asia-expansion.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409221-1714617427581-gettyimages-2150491849-SatyaNadella-11JPG.jpeg?v=1714617586&w=1920&h=1080"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Jamie Staton",
-      "content": "MANCHESTER, N.H. \u2014Health experts are recommending that women have mammograms at an earlier age to reduce the number of breast cancer deaths each year.\r\nAccording to the World Health Organization, 670\u2026 [+2045 chars]",
-      "description": "Health experts are recommending that women have mammograms at an earlier age to reduce the number of breast cancer deaths each year.",
-      "publishedAt": "2024-05-01T22:39:00Z",
-      "source": {
-        "id": null,
-        "name": "WMUR Manchester"
-      },
-      "title": "New guidelines recommend earlier breast cancer screening - WMUR Manchester",
-      "url": "https://www.wmur.com/article/guidelines-breast-cancer-screening-5124/60662885",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/2960b671-bbbe-4cbb-bdbc-f839ee2e7af0/6b810f3d-4b6d-4bc6-aca2-d2cdcb153e9b.jpg?crop=0.783xw:0.783xh;0.142xw,0&resize=1200:*"
-    },
-    {
-      "author": "Herb Scribner, Samantha Chery",
-      "content": "Dan Schneider filed a defamation lawsuit on Wednesday against the producers of Quiet on Set: The Dark Side of Kids TV, a docuseries on the alleged toxic working conditions for child actors during Nic\u2026 [+474 chars]",
-      "description": "Dan Schneider,  the creative force behind hit shows including \u201ciCarly,\u201d \u201cThe Amanda Show\u201d and \u201cAll That,\u201d called the popular \u201cQuiet on Set\u201d documentary a \u201chit job.\u201d",
-      "publishedAt": "2024-05-01T22:15:05Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Dan Schneider sues 'Quiet on Set' producers for defamation - The Washington Post",
-      "url": "https://www.washingtonpost.com/style/2024/05/01/dan-schneider-quiet-on-set-abuse-nickelodeon/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WTBETUOQHRMBCZ4CASPMDE4HJY.jpg&w=1440"
-    },
-    {
-      "author": "PHILIP MARCELO",
-      "content": "NEW YORK (AP) Prosecutors asked for a September retrial for Harvey Weinstein during a hearing Wednesday in Manhattan, the disgraced movie moguls first court appearance since his 2020 rape conviction \u2026 [+3034 chars]",
-      "description": "Prosecutors have asked for a September retrial for Harvey Weinstein, who was back in a New York courtroom for the first time since his 2020 rape conviction was overturned by an appeals court last week. Prosecutors on Wednesday suggested locking in a date afte\u2026",
-      "publishedAt": "2024-05-01T22:06:00Z",
+      "author": "JAKE OFFENHARTZ, KRYSTA FAURIA, JOSEPH B. FREDERICK, ETHAN SWOPE",
+      "content": "LOS ANGELES (AP) Law enforcement on the UCLA campus donned riot gear Wednesday evening as they ordered the dispersal of over a thousand people who had gathered in support of a pro-Palestinian student\u2026 [+7713 chars]",
+      "description": "Tensions are growing on the UCLA campus as law enforcement officers order a large group of pro-Palestinian demonstrators to disperse. The heavy police presence comes as administrators and campus police are facing intense criticism for failing to act quickly t\u2026",
+      "publishedAt": "2024-05-02T03:39:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "title": "Prosecutors seek September retrial for Harvey Weinstein after rape conviction was tossed - The Associated Press",
-      "url": "https://apnews.com/article/harvey-weinstein-rape-conviction-overturned-court-appearance-21b476063efeddab509e80c8bf5ac254",
-      "urlToImage": "https://dims.apnews.com/dims4/default/976c8b9/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2Fee%2F5edb7172d07bd9ba47a260b90eec%2F559baa81a81b491fbe08a4e6779b1d7f"
+      "title": "Tensions grips UCLA after police order protestors to disperse or face arrest - The Associated Press",
+      "url": "https://apnews.com/article/israel-palestinian-campus-student-protests-war-c6e5549532c85f13493daa22d0d143ac",
+      "urlToImage": "https://dims.apnews.com/dims4/default/045dbfb/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2F49%2Fcfee0992061cc0a35b4b03a7a159%2F514b5f7be86b4a0f9b25fc26ed42b607"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
+      "author": "Jacqueline Howard",
+      "content": "Women are now advised to get a mammogram every other year starting at age 40 and until age 74, according to new recommendations from the US Preventive Services Task Force.\r\nThe\u00a0USPSTF, a volunteer pa\u2026 [+12284 chars]",
+      "description": "Women are now advised to get a mammogram every other year starting at age 40 and until age 74, according to new recommendations from the US Preventive Services Task Force.",
+      "publishedAt": "2024-05-02T03:13:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Task force updates guidance for breast cancer screenings for women 40 and older - CNN",
+      "url": "https://www.cnn.com/2024/04/30/health/breast-cancer-mammograms-earlier-recommendations/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2041112079.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Borys Kit",
+      "content": "A24, operating on its new mandate to act aggressively in the pursuit of projects, just outplayed the Hollywood studios and streamers in order to pick up Checkmate, a hot feature package centered on a\u2026 [+3189 chars]",
+      "description": "The indie upstart seems to have outwitted streamers and studios to win \"Checkmate\" with a seven-figure deal that left competitors' head-spinning.",
+      "publishedAt": "2024-05-02T03:08:27Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Hollywood Reporter"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Lauren Peller",
-      "content": "The House passed the Antisemitism Awareness Act on Wednesday amid unrest on college campuses.\r\nThe bill, which was introduced by a bipartisan group of lawmakers, passed 320-91.\r\nThe measure was led b\u2026 [+3210 chars]",
-      "description": "Many who voted against the bill said it infringes on free speech.",
-      "publishedAt": "2024-05-01T21:00:00Z",
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "title": "House passes GOP antisemitism bill amid college unrest - ABC News",
-      "url": "https://abcnews.go.com/Politics/house-vote-gop-antisemitism-bill-amid-college-unrest/story?id=109830325",
-      "urlToImage": "https://i.abcnewsfe.com/a/30be50b9-8880-4f33-af00-dfc00a3574cc/mike-lalwler-gty-bb-240501_1714589315232_hpMain_16x9.jpg?w=1600"
-    },
-    {
-      "author": "MART\u00cdN SILVA REY",
-      "content": "MEXICO CITY (AP) Trailed by search dogs and police, Mar\u00eda de Jes\u00fas Soria Aguayo and more than a dozen volunteers on Wednesday walked carefully through fields of weeds and dry earth with their eyes fi\u2026 [+4741 chars]",
-      "description": "Volunteer searchers say they\u2019ve found a clandestine crematorium on the edge of Mexico City. It's the first time in recent memory that anyone claimed to have found such a body disposal site in the capital. One of the so-called \u201csearching mothers\u201d announced lat\u2026",
-      "publishedAt": "2024-05-01T20:51:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Mexican volunteer searchers say they've found a clandestine crematorium in Mexico City - The Associated Press",
-      "url": "https://apnews.com/article/mexico-city-clandestine-graves-crematorium-6457eef23c02febfdede81c2efeec494",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5d7d5b3/2147483647/strip/true/crop/3760x2115+0+196/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F75%2F84%2F201746cb0096e5ddb17d0ac435c4%2Ff31c341dda5d4822a6a8d14c6e197de1"
-    },
-    {
-      "author": "Brayden Garcia",
-      "content": "Texas\r\nFort WorthIn Reality Check stories, Star-Telegram journalists dig deeper into questions over facts, consequences and accountability. Read more. Story idea? RealityCheck@star-telegram.com.\r\nNew\u2026 [+8086 chars]",
-      "description": "In Texas, where weed is illegal, advocates were cautiously optimistic. The changes include banking regulations, reclassification of drug.",
-      "publishedAt": "2024-05-01T20:45:15Z",
-      "source": {
-        "id": null,
-        "name": "Fort Worth Star-Telegram"
-      },
-      "title": "What happens to Texas weed after the Biden Justice Department loosens federal pot rules? - Fort Worth Star-Telegram",
-      "url": "https://www.star-telegram.com/news/state/texas/article284265768.html",
-      "urlToImage": "https://www.star-telegram.com/latest-news/35gaes/picture284358234/alternates/LANDSCAPE_1140/pexels-alexander-grey-3676962.jpg"
-    },
-    {
-      "author": null,
-      "content": "Image of a T. rex skeletal cast at Senckenberg Museum Frankfurt, Germany. T. rex lived at the end of the Cretaceous (about 66 million years ago) and was exclusive to western North America. Credit: Ka\u2026 [+3854 chars]",
-      "description": "Dinosaurs were as smart as reptiles but not as intelligent as monkeys, as former research suggests. An international team of paleontologists, behavioral scientists, and neurologists have re-examined brain size and structure in dinosaurs and concluded they beh\u2026",
-      "publishedAt": "2024-05-01T20:26:15Z",
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "title": "Popular Myth Debunked: New Research Reveals That Dinosaurs Were Not As Smart as We Thought - SciTechDaily",
-      "url": "https://scitechdaily.com/popular-myth-debunked-new-research-reveals-that-dinosaurs-were-not-as-smart-as-we-thought/",
-      "urlToImage": "https://scitechdaily.com/images/T-Rex-Skeletal-Cast.jpg"
+      "title": "Emma Stone, Nathan Fielder Reteam with A24 for Ben Mezrich\u2019s Carlsen-Niemann Chess Scandal Story (Exclusive) - Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/emma-stone-nathan-fielder-a24-ben-mezrich-magnus-carlsen-hans-niemann-1235888413/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/Emma-Stone-and-Nathan-Fielder-getty-H-2024.jpg?w=1024"
     },
     {
       "author": null,
@@ -171,96 +93,174 @@
     },
     {
       "author": "By Elizabeth Wolfe, Kathleen Magramo, Dalia Faheid, Antoinette Radford, Emma Tucker, Anna Cooban, Rachel Ramirez, Aditi Sangal, Elise Hammond, Maureen Chowdhury, Lauren Mascarenhas, Chandelis Duster and Tori B. Powell, CNN",
-      "content": "In a photo shared with CNN by Tyler Katzenberger from the college paper The Daily Cardinal, Samer Alatout, an associate professor of community and environmental sociology, is seen being held to the g\u2026 [+1637 chars]",
-      "description": "Over 300 demonstrators were arrested at Columbia University and City College of New York after police cracked down on people protesting Israel's war in Gaza. Follow for live updates.",
-      "publishedAt": "2024-05-01T20:04:00Z",
+      "content": "Approximately 16 peoplewere arrested Wednesday night after a pro-Palestine protest at the University at Buffalo's North Campus, including students and \"other individuals not affiliated with the Unive\u2026 [+2280 chars]",
+      "description": "Police are cracking down on protests against Israel's bombardment of Gaza at campuses across the US.",
+      "publishedAt": "2024-05-02T02:47:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
       "title": "Police on campus at Columbia and UCLA as protests disrupt colleges nationwide: Live updates - CNN",
       "url": "https://www.cnn.com/business/live-news/university-protests-gaza-05-01-24/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240430201913-nypd-clear-columbia-university-0430-super-tease.jpg"
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240501184322-fordham-protest-050124-super-tease.jpg"
     },
     {
-      "author": "ANITA SNOW, MORGAN LEE",
-      "content": "PHOENIX (AP) The Arizona Legislature approved a repeal of a long-dormant ban on nearly all abortions Wednesday, advancing the bill to Democratic Gov. Katie Hobbs, who is expected to sign it.\r\nTwo Rep\u2026 [+5341 chars]",
-      "description": "The Arizona Legislature has approved a repeal of a long-dormant ban on nearly all abortions. The vote to undo the 19th century law will send the bill to Democratic Gov. Katie Hobbs. Two Republicans joined with 14 Democrats in the Arizona Senate on Wednesday t\u2026",
-      "publishedAt": "2024-05-01T20:04:00Z",
+      "author": "MART\u00cdN SILVA REY",
+      "content": "MEXICO CITY (AP) Trailed by search dogs and police, Mar\u00eda de Jes\u00fas Soria Aguayo and more than a dozen volunteers walked carefully through fields of weeds and dry earth with their eyes fixed on the gr\u2026 [+4422 chars]",
+      "description": "Volunteers have searched on the fringes of Mexico City for what they thought could be a clandestine crematorium. It was the first time in recent memory that anyone claimed to have found such a body disposal site in the capital, but authorities disputed the co\u2026",
+      "publishedAt": "2024-05-02T02:36:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "title": "Arizona Senate OKs bill to repeal the state's 1864 near-total abortion ban - The Associated Press",
-      "url": "https://apnews.com/article/arizona-abortion-1864-ban-repeal-24578e546b69ca087e01034bcaf4aa01",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e2ac86c/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2Fa0%2F9499461e1b1e3bd5abd69b50014b%2Fa91bc27499284404ac313b1bacdfb907"
+      "title": "Mexico: Searchers find a charred pit that may be a clandestine crematorium - The Associated Press",
+      "url": "https://apnews.com/article/mexico-city-clandestine-graves-crematorium-6457eef23c02febfdede81c2efeec494",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0a8fdef/2147483647/strip/true/crop/3857x2170+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F83%2F5c4be86475309064a1cd3c8ee89e%2F0cfcedb6df63411f884b409c44476ce7"
     },
     {
-      "author": "Kif Leswing",
-      "content": "Qualcomm reported fiscal second-quarter earnings on Wednesday that surpassed Wall Street expectations, and provided a strong guide for the current quarter.\r\nShares rose about 4% in extended trading.\r\u2026 [+3553 chars]",
-      "description": "Qualcomm called out strong demand for \"premium tier\" smartphones that require the most advanced chips.",
-      "publishedAt": "2024-05-01T20:02:33Z",
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "[Removed]"
       },
-      "title": "Qualcomm gives better-than-expected revenue forecast as company pushes AI-powered smartphones - CNBC",
-      "url": "https://www.cnbc.com/2024/05/01/qualcomm-earnings-report-q2-2024.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107364704-17062138432024-01-11t000740z_512918314_rc2af5agj3ls_rtrmadp_0_tech-ces.jpeg?v=1706736228&w=1920&h=1080"
-    },
-    {
-      "author": "Milwaukee Journal Sentinel",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-01T19:46:42Z",
-      "source": {
-        "id": null,
-        "name": "Milwaukee Journal Sentinel"
-      },
-      "title": "Active shooter Mount Horeb, Wisconsin: Suspect reportedly injured - Milwaukee Journal Sentinel",
-      "url": "https://www.jsonline.com/story/news/crime/2024/05/01/active-shooter-threat-neutralized-outside-of-mount-horeb-school/73528027007/",
+      "title": "[Removed]",
+      "url": "https://removed.com",
       "urlToImage": null
     },
     {
-      "author": "Michael Cripe",
-      "content": "Nintendos next console, dubbed the Switch 2 by fans, will feature some changes to potentially improve its battery life if new rumors are to be believed.\r\nThe latest details regarding how the Mario co\u2026 [+2627 chars]",
-      "description": "Nintendo\u2019s next console, dubbed the Switch 2 by fans, will feature some changes to potentially improve its battery life if new rumors are to be believed.",
-      "publishedAt": "2024-05-01T18:44:56Z",
+      "author": "Michael Scherer, David Ovalle, Tyler Pager, Fenit Nirappil",
+      "content": "A half-century after high school kids in Californias Marin County started using 4:20 as code for smoking marijuana, political advisers to the 81-year-old teetotaler president, Joe Biden, began signal\u2026 [+339 chars]",
+      "description": "The proposed change has the potential to set up a contrast between Biden and Trump, who has shown little interest in engaging with federal marijuana policy.",
+      "publishedAt": "2024-05-02T01:56:00Z",
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "title": "Nintendo Switch 2 Handheld Mode Said to be Clocked 'Crazy Low' for Better Battery Life - Rumor - IGN",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-handheld-mode-battery-life-rumor",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/02/17/switch-blogroll-1656326807534-1656337488233-1660451221826-1708150948174.jpeg?width=1280"
+      "title": "Democrats hope move to reschedule marijuana will help them in November - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2024/05/01/marijuana-biden-democrats-election/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BLQXKXLT2VNFWZE2YJ6WQHUXXY_size-normalized.JPG&w=1440"
     },
     {
-      "author": "Amelia Lucas",
-      "content": "It's finally here: the long-predicted consumer pullback.\r\nStarbucks announced a surprise drop in same-store sales for its latest quarter, sending its shares down 17% on Wednesday. Pizza Hut and KFC a\u2026 [+5588 chars]",
-      "description": "Starbucks, Pizza Hut and KFC are among the chains that reported same-store sales declines this quarter.",
-      "publishedAt": "2024-05-01T18:33:56Z",
+      "author": null,
+      "content": null,
+      "description": "Speaking Wednesday on the Pat McAfee Show, Chicago Bears general manager Ryan Poles discussed the choice to draft a punter in the fourth round, and the thought behind grabbing Rome Odunze No. 9 overall in last week's draft.",
+      "publishedAt": "2024-05-02T01:04:00Z",
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "title": "Bears GM Ryan Poles on taking punter Tory Taylor in fourth round: 'I didn't expect him to get much further' - NFL.com",
+      "url": "https://www.nfl.com/news/bears-gm-ryan-poles-on-taking-punter-tory-taylor-in-fourth-round-i-didn-t-expect-him-to-get-much-further",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/jlmdryuqetqs0rquctpu"
+    },
+    {
+      "author": "Mike Coppinger",
+      "content": "Star boxer Ryan Garcia tested positive for the performance-enhancing substance ostarine the day before and the day of his upset win over Devin Haney last month, per a Voluntary Anti-Doping Associatio\u2026 [+4034 chars]",
+      "description": "Boxer Ryan Garcia tested positive for the banned substance ostarine on the day before and the day of his upset win over Devin Haney, per a letter obtained by ESPN.",
+      "publishedAt": "2024-05-02T01:03:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Boxer Ryan Garcia tested positive for banned substance ostarine - ESPN",
+      "url": "https://www.espn.com/boxing/story/_/id/40066162/boxer-ryan-garcia-tested-positive-banned-substance-ostarine",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0418%2Fr1320626_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "Reuters",
+      "content": "President\u00a0Joe\u00a0Biden\u00a0said on Wednesday that \"xenophobia\" from\u00a0China\u00a0to\u00a0Japan\u00a0and\u00a0India is hobbling their growth, as he argued that migration has been good for\u00a0the U.S. economy.\r\n\"One of the reasons wh\u2026 [+1249 chars]",
+      "description": "President\u00a0Biden\u00a0said that \"xenophobia\" from\u00a0China\u00a0to\u00a0Japan\u00a0and\u00a0India is hobbling their growth, as he argued that migration has been good for\u00a0the U.S. economy.",
+      "publishedAt": "2024-05-02T01:01:00Z",
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "title": "Long-predicted consumer pullback finally hits restaurants like Starbucks, KFC and McDonald's - CNBC",
-      "url": "https://www.cnbc.com/2024/05/01/starbucks-mcdonalds-yum-earnings-show-consumers-pulling-back.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107407734-1714416723878-gettyimages-2126127223-1430737-me-0401-fast-food-rcg-7680.jpeg?v=1714416793&w=1920&h=1080"
+      "title": "Biden blames China, Japan and India's economic woes on 'xenophobia' - CNBC",
+      "url": "https://www.cnbc.com/2024/05/02/biden-blames-china-japan-and-indias-economic-woes-on-xenophobia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107389749-17108856022024-03-19t213637z_961572244_rc29p6amk99y_rtrmadp_0_usa-election-biden.jpeg?v=1714611202&w=1920&h=1080"
     },
     {
-      "author": "Caroline Thayer",
-      "content": "For the many decades she's been in the industry, Cher has certainly accumulated some juicy stories.\r\nThe singer recently revealed that she turned down another mega music star, blaming his reputation \u2026 [+2391 chars]",
-      "description": "Cher reflected on why she turned down the chance to date Elvis Presley in a new interview on \"The Jennifer Hudson Show.\"",
-      "publishedAt": "2024-05-01T18:28:00Z",
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "[Removed]"
       },
-      "title": "Cher turned down dating Elvis Presley because she was 'nervous of his reputation' - Fox News",
-      "url": "https://www.foxnews.com/entertainment/cher-turned-down-dating-elvis-presley-because-nervous-reputation",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/37e5ee8c-cher-elvis.jpg"
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-02T00:37:06Z",
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "title": "'Seize all cannabis': Inside the surprising federal crackdown on New Mexico weed farmers - POLITICO",
+      "url": "https://www.politico.com/news/2024/05/01/federal-crackdown-new-mexico-weed-farmers-00155624",
+      "urlToImage": null
+    },
+    {
+      "author": "Caroline Linton, Elizabeth Campbell",
+      "content": "Arizona's Republican-controlled Senate on Wednesday voted to repeal a\u00a0Civil War-era abortion ban, one week after a similar motion\u00a0passed the GOP-controlled state House.\u00a0\r\nTwo Republicans, TJ Shopes a\u2026 [+2399 chars]",
+      "description": "A similar repeal of Arizona's 1864 abortion ban passed the GOP-controlled House last week, and Gov. Katie Hobbs has said she'd sign the measure.",
+      "publishedAt": "2024-05-02T00:09:35Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "GOP-led Arizona Senate votes to repeal 1864 abortion ban, sending it to Democratic Gov. Katie Hobbs - CBS News",
+      "url": "https://www.cbsnews.com/news/arizona-abortion-ban-state-senate-repeal-vote/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/05/01/42d826c4-2110-421f-8186-c5c8f64b222c/thumbnail/1200x630/dffc18d012ffb5df507a3bfb30ae49b9/ap24121772804284.jpg?v=1d6c78a71b7b6252b543a329b3a5744d"
+    },
+    {
+      "author": "Enjoyiana Nururdin, M.A.",
+      "content": "Caroline Dade provides the latest as law enforcement continued its investigation Wednesday.\r\nMOUNT HOREB, Wis. (WKOW) --\u00a0Wisconsin Attorney General Josh Kaul announced Wednesday evening an active sho\u2026 [+5760 chars]",
+      "description": "Reunification of Intermediate students will begin at the District Bus Garage. Kindergarten, first, and second-grade students are being released starting at 5 p.m. Parents with children in Wrap Care at",
+      "publishedAt": "2024-05-02T00:00:00Z",
+      "source": {
+        "id": null,
+        "name": "WKOW"
+      },
+      "title": "Mount Horeb police shoot, kill student with gun outside middle school - WKOW",
+      "url": "https://www.wkow.com/news/top-stories/mount-horeb-police-shoot-kill-student-with-gun-outside-middle-school/article_03491270-07d9-11ef-920c-c365bb828a13.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/1/4b/14b6860e-07ee-11ef-8ab4-7709d54c918f/6632932963739.image.png?crop=800%2C420%2C0%2C14&resize=800%2C420&order=crop%2Cresize"
+    },
+    {
+      "author": "Alex Kimani",
+      "content": "A new study reveals that\u2026\r\nGlobal oil demand growth is\u2026\r\nCanada faces an escalating threat\u2026\r\nBy Alex Kimani - May 01, 2024, 7:00 PM CDT\r\nEnergy markets have kicked off the new month on the back foot,\u2026 [+4326 chars]",
+      "description": "We're entering a key period for oil fundamentals that will determine whether the market will tighten further or disappoint.",
+      "publishedAt": "2024-05-02T00:00:00Z",
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "title": "The Next Two Months Will Be Critical For Oil Fundamentals | OilPrice.com - OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Two-Months-Will-Be-Critical-For-Oil-Fundamentals.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-05-01_ljoiq26dxm.jpg"
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-01T23:36:00Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "S&P 500, Nasdaq end lower after Fed rate decision, Powell press conference - Reuters",
+      "url": "https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/",
+      "urlToImage": null
     }
   ],
   "status": "ok",
-  "totalResults": 35
+  "totalResults": 38
 }
