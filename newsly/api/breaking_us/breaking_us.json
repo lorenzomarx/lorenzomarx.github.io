@@ -1,56 +1,186 @@
 {
   "articles": [
     {
-      "author": "The Athletic Staff",
-      "content": "By Jared Weiss, Jay King, Will Guillory, Law Murray and Tim Cato\r\nThe Dallas Mavericks coasted to a dominant 123-93 victory over the LA Clippers to move within one win away from a first-round series \u2026 [+8328 chars]",
-      "description": "Boston will play the winner of the series between the Orlando Magic and the Cleveland Cavaliers",
-      "publishedAt": "2024-05-02T04:24:15Z",
-      "source": {
-        "id": null,
-        "name": "The Athletic"
-      },
-      "title": "Wednesday\u2019s NBA playoffs takeaways: Celtics stomp Heat to advance, Mavericks coast past Clippers - The Athletic",
-      "url": "https://theathletic.com/5465658/2024/05/01/nba-playoffs-scores-takeaways-celtics-heat-clippers-mavericks/",
-      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/05/01215907/GettyImages-2150483840-scaled.jpg"
-    },
-    {
-      "author": "Stephen Collinson",
-      "content": "Donald Trump used his day off from a criminal trial related to a past election to cast a dark, familiar shadow over the next one.\r\nThe presumptive GOP nominee declined to say if hed accept the result\u2026 [+10318 chars]",
-      "description": "Donald Trump used his day off from a criminal trial related to a past election to cast a dark, familiar shadow over the next one.",
-      "publishedAt": "2024-05-02T04:00:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Trump gives his strongman\u2019s ambitions free rein on a day off from court - CNN",
-      "url": "https://www.cnn.com/2024/05/01/politics/trump-strongman-ambitions-analysis/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150483837.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Sheila Chiang",
-      "content": "Microsoft chairman and CEO Satya Nadella on Wednesday announced \"significant commitments\" to build a new regional data center in Thailand, among other initiatives, as the U.S. tech giant doubles down\u2026 [+1696 chars]",
-      "description": "The U.S. tech giant said it will also commit toward AI skills training for over 100,000 Thais and support local developers.",
-      "publishedAt": "2024-05-02T03:55:00Z",
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "title": "Microsoft to open new data center in Thailand as it doubles down on AI and Southeast Asia - CNBC",
-      "url": "https://www.cnbc.com/2024/05/02/microsoft-to-open-data-center-in-thailand-amid-southeast-asia-expansion.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409221-1714617427581-gettyimages-2150491849-SatyaNadella-11JPG.jpeg?v=1714617586&w=1920&h=1080"
-    },
-    {
-      "author": "JAKE OFFENHARTZ, KRYSTA FAURIA, JOSEPH B. FREDERICK, ETHAN SWOPE",
-      "content": "LOS ANGELES (AP) Law enforcement on the UCLA campus donned riot gear Wednesday evening as they ordered the dispersal of over a thousand people who had gathered in support of a pro-Palestinian student\u2026 [+7713 chars]",
-      "description": "Tensions are growing on the UCLA campus as law enforcement officers order a large group of pro-Palestinian demonstrators to disperse. The heavy police presence comes as administrators and campus police are facing intense criticism for failing to act quickly t\u2026",
-      "publishedAt": "2024-05-02T03:39:00Z",
+      "author": "KRYSTA FAURIA, ETHAN SWOPE, JAKE OFFENHARTZ, JOSEPH B. FREDERICK",
+      "content": "LOS ANGELES (AP) Police removed barricades and began dismantling a pro-Palestinian demonstrators fortified encampment early Thursday at the UCLA campus after hundreds of protesters defied police orde\u2026 [+9378 chars]",
+      "description": "Police removed barricades and began dismantling a pro-Palestinian demonstrators\u2019 encampment on the UCLA campus. Thursday morning\u2019s law enforcement action comes after officers spent hours threatening arrests over loud speakers if people did not disperse. The s\u2026",
+      "publishedAt": "2024-05-02T10:13:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "title": "Tensions grips UCLA after police order protestors to disperse or face arrest - The Associated Press",
-      "url": "https://apnews.com/article/israel-palestinian-campus-student-protests-war-c6e5549532c85f13493daa22d0d143ac",
-      "urlToImage": "https://dims.apnews.com/dims4/default/045dbfb/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2F49%2Fcfee0992061cc0a35b4b03a7a159%2F514b5f7be86b4a0f9b25fc26ed42b607"
+      "title": "Tensions grips UCLA campus after police order protestors to disperse or face arrest - The Associated Press",
+      "url": "https://apnews.com/article/israel-palestinian-campus-student-protests-war-ec3f62c51c08599f8fcecd99f7cf9e33",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2ab3c12/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2Fcc%2F59977d5a2b53c374498d07e7b769%2Fec98ebf7bd0242a68f4645687438c6a7"
+    },
+    {
+      "author": "Niha Masih, Andrew Jeong, Leo Sands, Jennifer Hassan, Jackson Barton, Bryan Pietsch, Erin Patrick O'Connor, Kelsey Ables, Kim Bellware, Victoria Bisset, Yvonne Condes, Praveena Somasundaram, Jintak Han, Marisa Iati, Neeti Upadhye, Molly Hennessy-Fiske, Danielle Paquette, Hannah Natanson, Joanna Slater, Emily Wax-Thibodeaux",
+      "content": "LAPD officers began moving in on a pro-Palestinian protest encampment the University of California at Los Angeles early Thursday, pushing through barricades and detaining demonstrators, while student\u2026 [+325 chars]",
+      "description": "The LAPD began infiltrating a pro-Palestinian encampment at UCLA on Thursday. At Dartmouth College in New Hampshire, police said they arrested 90 protesters.",
+      "publishedAt": "2024-05-02T10:01:48Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "College protests live updates: UCLA remains tense; arrests at Fordham, Dartmouth - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2024/05/02/university-protests-columbia-ucla-live-news/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/og-image/?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HIXC5SJUMYTID43JLH7V65FDPM_size-normalized.jpg&w=1440&isFree=true"
+    },
+    {
+      "author": "Lauren Said-Moorhouse",
+      "content": "A photograph of a beaming Princess Charlotte has been released by the Prince and Princess of Wales to mark her ninth birthday.\r\nThe celebratory snap was posted to the couples official social media ac\u2026 [+3544 chars]",
+      "description": "A new photograph of a beaming Princess Charlotte has been released by the Prince and Princess of Wales to mark her ninth birthday on Thursday.",
+      "publishedAt": "2024-05-02T09:48:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Princess Charlotte turns 9! See the sweet photo from her parents to mark the occasion - CNN",
+      "url": "https://www.cnn.com/2024/05/02/uk/princess-charlotte-ninth-birthday-photo-intl-gbr-scli/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-05-02-at-10-12-55-copy.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Samantha Subin, Alex Harring",
+      "content": "Stock futures advanced Thursday as investors looked ahead to more corporate earnings and a key labor data set for later in the week.\r\nDow Jones Industrial Average futures added 124 points, or 0.33%. \u2026 [+2074 chars]",
+      "description": "Wednesday was choppy on Wall Street as traders studied the latest Fed decision and Chair Jerome Powell's press conference.",
+      "publishedAt": "2024-05-02T09:22:00Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "Stock futures rise after Fed decides to hold rates steady: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2024/05/01/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107408931-17145830382024-04-26t155031z_93709643_hp1ek4q180308_rtrmadp_0_usa-stocks.jpeg?v=1714583074&w=1920&h=1080"
+    },
+    {
+      "author": null,
+      "content": "NewsFeed\r\nColombias president Gustavo Petro says the country is cutting diplomatic ties with Israel over its war on Gaza. Speaking to a large crowd marking International Workers Day in Bogota, Petro \u2026 [+38 chars]",
+      "description": "Colombia\u2019s President Gustavo Petro says the country is cutting diplomatic ties with Israel over its war on Gaza.",
+      "publishedAt": "2024-05-02T07:08:44Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Colombia cuts ties with Israel over war on Gaza - Al Jazeera English",
+      "url": "https://www.aljazeera.com/program/newsfeed/2024/5/2/colombia-president-cuts-ties-with-israel-over-war-on-gaz",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-01T180157Z_87926003_RC2TH7AKEQ7X_RTRMADP_3_MAY-DAY-COLOMBIA-DEMO-1714587839.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Thomas Ricker",
+      "content": "TikTok and Universal Music Group end feud with new agreement\r\nTikTok and Universal Music Group end feud with new agreement\r\n / The deal improves protections for artists against the rise of generative\u2026 [+1625 chars]",
+      "description": "The home to Taylor Swift, Drake, and Olivia Rodrigo is a returning to TikTok with a deal that offers better protections  against generative AI.",
+      "publishedAt": "2024-05-02T06:59:25Z",
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "title": "TikTok and Universal Music Group end feud with new agreement - The Verge",
+      "url": "https://www.theverge.com/2024/5/2/24146994/tiktok-universal-music-group-sign-deal-generative-ai",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vEr19yUBh5xej26SSs1WOMVXqQQ=/0x0:4096x2731/1200x628/filters:focal(2048x1366:2049x1367)/cdn.vox-cdn.com/uploads/chorus_asset/file/25429884/2024260145.jpg"
+    },
+    {
+      "author": "Tim MacMahon",
+      "content": "LOS ANGELES -- Dallas Mavericks superstar Luka Doncic got an early start on his postgame treatment Wednesday night, wrapping a large bag of ice around his sprained right knee midway through the fourt\u2026 [+3145 chars]",
+      "description": "Despite playing through illness and a sprained knee, Luka Doncic put up 35 points, 7 rebounds and 10 assists to lead the Mavs to victory in a pivotal Game 5 against the Clippers on Wednesday night.",
+      "publishedAt": "2024-05-02T06:40:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Mavs' Luka Doncic dominates Game 5 despite illness, knee injury - ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/40067387/luka-doncic-dominates-illness-knee-injury-mavericks-take-series-lead-vs-clippers",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0502%2Fr1327364_2_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "Axios",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-02T06:00:00Z",
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "title": "College protests updates: Hundreds arrested at campuses across U.S. - Axios",
+      "url": "https://www.axios.com/2024/05/02/college-protests-updates-hundreds-arrested-us-campuses",
+      "urlToImage": null
+    },
+    {
+      "author": "MEHMET GUZEL, HYUNG-JIN KIM, ALEX TURNBULL",
+      "content": "ISTANBUL (AP) Workers and activists around the world marked May Day with largely peaceful protests Wednesday over rising prices, low wages and calls for greater labor rights. Pro- Palestinian sentime\u2026 [+7411 chars]",
+      "description": "Workers and activists around the world are marking May Day with largely peaceful rallies against rising prices and calling for greater rights. Pro-Palestinian sentiments are also on display. Police in Istanbul fired rubber bullets to disperse thousands of peo\u2026",
+      "publishedAt": "2024-05-02T05:38:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "May Day 2024: Workers and activists call for greater labor rights - The Associated Press",
+      "url": "https://apnews.com/article/may-day-rallies-labor-rights-workers-economy-0c8605802cb451061eeb71f83bdef5fa",
+      "urlToImage": "https://dims.apnews.com/dims4/default/249528b/2147483647/strip/true/crop/8310x4674+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2F3e%2F510dbb6e266947dcc2121ae6737e%2F3c36a73a20994455bb9dfa18494fe0f5"
+    },
+    {
+      "author": "Michelle Starr",
+      "content": "Rocks scrutinized by the Curiosity rover in an ancient, long-dried lakebed on Mars have revealed conditions likely to have been habitable, billions of years ago.\r\nThere, in rocks on the Gale Crater, \u2026 [+3642 chars]",
+      "description": "Rocks scrutinized by the Curiosity rover in an ancient, long-dried lakebed on Mars have revealed conditions likely to have been habitable, billions of years ago.",
+      "publishedAt": "2024-05-02T05:23:05Z",
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "title": "Curiosity Detects 'Habitable' Earth-Like Past on Mars, But How Did Oxygen Get There? - ScienceAlert",
+      "url": "https://www.sciencealert.com/curiosity-detects-habitable-earth-like-past-on-mars-but-how-did-oxygen-get-there",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/mars-landscape.jpg"
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "Jeremiah Manele has already indicated he will continue the Pacific nation's close ties with Beijing.",
+      "publishedAt": "2024-05-02T04:01:12Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Jeremiah Manele: Pro-China candidate wins Solomon Islands PM vote - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cxr3xpw9v04o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d62a/live/1d104540-0831-11ef-82e8-cd354766a224.jpg"
+    },
+    {
+      "author": "Elizabeth Pritchett",
+      "content": "A man wanted in connection with the murder of an off-duty Chicago police officer last month has been taken into custody, according to Chicago police.\r\nThe department said its officers and the U.S. Ma\u2026 [+1996 chars]",
+      "description": "Chicago police announced Xavier Tate Jr., the man wanted for murder in the death of Officer Luis Huesca, was arrested in Glendale Heights, Illinois, on Wednesday night.",
+      "publishedAt": "2024-05-02T03:36:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Chicago police arrest suspect in murder of off-duty officer heading home from work - Fox News",
+      "url": "https://www.foxnews.com/us/chicago-police-arrest-suspect-murder-off-duty-officer-heading-home",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Xavier-L-Tate-Jr-split.gif"
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "Two Republicans join Democrats to repeal law brought back to life by state's supreme court.",
+      "publishedAt": "2024-05-02T03:31:15Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Arizona Senate votes to repeal 1864 abortion ban - BBC.com",
+      "url": "https://www.bbc.com/news/world-us-canada-68925013",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12C4B/production/_133257867_gettyimages-2147888067.jpg"
+    },
+    {
+      "author": "Christian Arnold",
+      "content": "Boxer Ryan Garcia is at the center of another controversy after multiple reports have indicated that he tested positive for the performance-enhancing substance Ostarine prior to and on the day of his\u2026 [+2628 chars]",
+      "description": "The tests were taken by the Voluntary Anti-Doping Association before the fight, but the results weren\u2019t known until later, ESPN reported.",
+      "publishedAt": "2024-05-02T03:19:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "Ryan Garcia tested positive for PED before his win over Devin Haney - New York Post ",
+      "url": "https://nypost.com/2024/05/01/sports/ryan-garcia-tested-positive-for-ped-before-his-win-over-devin-haney/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/newspress-collage-nad4dq2mx-1714619868026.jpg?quality=75&strip=all&1714605513&w=1024"
     },
     {
       "author": "Jacqueline Howard",
@@ -66,17 +196,17 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2041112079.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Borys Kit",
-      "content": "A24, operating on its new mandate to act aggressively in the pursuit of projects, just outplayed the Hollywood studios and streamers in order to pick up Checkmate, a hot feature package centered on a\u2026 [+3189 chars]",
-      "description": "The indie upstart seems to have outwitted streamers and studios to win \"Checkmate\" with a seven-figure deal that left competitors' head-spinning.",
-      "publishedAt": "2024-05-02T03:08:27Z",
+      "author": null,
+      "content": "Apple is working on a swift fix to get everyone back on track\r\nA software issue left some iPhone users snoozing through silent alarms, prompting a flurry of frustrated posts on social media. Many rel\u2026 [+1385 chars]",
+      "description": "While confirming the issue of silent iPhone alarms, Apple hasn't pinpointed the cause or offered a workaround to prevent missed wake-up calls.",
+      "publishedAt": "2024-05-02T03:09:05Z",
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "NDTV News"
       },
-      "title": "Emma Stone, Nathan Fielder Reteam with A24 for Ben Mezrich\u2019s Carlsen-Niemann Chess Scandal Story (Exclusive) - Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/emma-stone-nathan-fielder-a24-ben-mezrich-magnus-carlsen-hans-niemann-1235888413/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/Emma-Stone-and-Nathan-Fielder-getty-H-2024.jpg?w=1024"
+      "title": "Apple Working To Fix Issue Causing iPhone Alarms To Not Sound - NDTV",
+      "url": "https://www.ndtv.com/feature/apple-working-to-fix-issue-causing-iphone-alarms-to-not-sound-5569370",
+      "urlToImage": "https://c.ndtvimg.com/2024-05/hbfvtlv_apple-alarm_625x300_02_May_24.jpeg?ver-20240430.08"
     },
     {
       "author": null,
@@ -92,140 +222,23 @@
       "urlToImage": null
     },
     {
-      "author": "By Elizabeth Wolfe, Kathleen Magramo, Dalia Faheid, Antoinette Radford, Emma Tucker, Anna Cooban, Rachel Ramirez, Aditi Sangal, Elise Hammond, Maureen Chowdhury, Lauren Mascarenhas, Chandelis Duster and Tori B. Powell, CNN",
-      "content": "Approximately 16 peoplewere arrested Wednesday night after a pro-Palestine protest at the University at Buffalo's North Campus, including students and \"other individuals not affiliated with the Unive\u2026 [+2280 chars]",
-      "description": "Police are cracking down on protests against Israel's bombardment of Gaza at campuses across the US.",
-      "publishedAt": "2024-05-02T02:47:00Z",
+      "author": "James Powel, Mike Snider",
+      "content": "The US Department of Agriculture announced Wednesday that over 16,000 pounds of ground beef has been recalled over potential E. Coli contamination.\r\nCargill Meat Solutions recalled ground beef packag\u2026 [+2901 chars]",
+      "description": "The USDA announced that over 16,000 pounds of ground beef sold at Walmart stores across the country have been recalled.",
+      "publishedAt": "2024-05-02T02:09:09Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "title": "Police on campus at Columbia and UCLA as protests disrupt colleges nationwide: Live updates - CNN",
-      "url": "https://www.cnn.com/business/live-news/university-protests-gaza-05-01-24/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240501184322-fordham-protest-050124-super-tease.jpg"
-    },
-    {
-      "author": "MART\u00cdN SILVA REY",
-      "content": "MEXICO CITY (AP) Trailed by search dogs and police, Mar\u00eda de Jes\u00fas Soria Aguayo and more than a dozen volunteers walked carefully through fields of weeds and dry earth with their eyes fixed on the gr\u2026 [+4422 chars]",
-      "description": "Volunteers have searched on the fringes of Mexico City for what they thought could be a clandestine crematorium. It was the first time in recent memory that anyone claimed to have found such a body disposal site in the capital, but authorities disputed the co\u2026",
-      "publishedAt": "2024-05-02T02:36:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Mexico: Searchers find a charred pit that may be a clandestine crematorium - The Associated Press",
-      "url": "https://apnews.com/article/mexico-city-clandestine-graves-crematorium-6457eef23c02febfdede81c2efeec494",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0a8fdef/2147483647/strip/true/crop/3857x2170+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F83%2F5c4be86475309064a1cd3c8ee89e%2F0cfcedb6df63411f884b409c44476ce7"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Michael Scherer, David Ovalle, Tyler Pager, Fenit Nirappil",
-      "content": "A half-century after high school kids in Californias Marin County started using 4:20 as code for smoking marijuana, political advisers to the 81-year-old teetotaler president, Joe Biden, began signal\u2026 [+339 chars]",
-      "description": "The proposed change has the potential to set up a contrast between Biden and Trump, who has shown little interest in engaging with federal marijuana policy.",
-      "publishedAt": "2024-05-02T01:56:00Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Democrats hope move to reschedule marijuana will help them in November - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2024/05/01/marijuana-biden-democrats-election/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BLQXKXLT2VNFWZE2YJ6WQHUXXY_size-normalized.JPG&w=1440"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Speaking Wednesday on the Pat McAfee Show, Chicago Bears general manager Ryan Poles discussed the choice to draft a punter in the fourth round, and the thought behind grabbing Rome Odunze No. 9 overall in last week's draft.",
-      "publishedAt": "2024-05-02T01:04:00Z",
-      "source": {
-        "id": "nfl-news",
-        "name": "NFL News"
-      },
-      "title": "Bears GM Ryan Poles on taking punter Tory Taylor in fourth round: 'I didn't expect him to get much further' - NFL.com",
-      "url": "https://www.nfl.com/news/bears-gm-ryan-poles-on-taking-punter-tory-taylor-in-fourth-round-i-didn-t-expect-him-to-get-much-further",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/jlmdryuqetqs0rquctpu"
-    },
-    {
-      "author": "Mike Coppinger",
-      "content": "Star boxer Ryan Garcia tested positive for the performance-enhancing substance ostarine the day before and the day of his upset win over Devin Haney last month, per a Voluntary Anti-Doping Associatio\u2026 [+4034 chars]",
-      "description": "Boxer Ryan Garcia tested positive for the banned substance ostarine on the day before and the day of his upset win over Devin Haney, per a letter obtained by ESPN.",
-      "publishedAt": "2024-05-02T01:03:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Boxer Ryan Garcia tested positive for banned substance ostarine - ESPN",
-      "url": "https://www.espn.com/boxing/story/_/id/40066162/boxer-ryan-garcia-tested-positive-banned-substance-ostarine",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0418%2Fr1320626_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Reuters",
-      "content": "President\u00a0Joe\u00a0Biden\u00a0said on Wednesday that \"xenophobia\" from\u00a0China\u00a0to\u00a0Japan\u00a0and\u00a0India is hobbling their growth, as he argued that migration has been good for\u00a0the U.S. economy.\r\n\"One of the reasons wh\u2026 [+1249 chars]",
-      "description": "President\u00a0Biden\u00a0said that \"xenophobia\" from\u00a0China\u00a0to\u00a0Japan\u00a0and\u00a0India is hobbling their growth, as he argued that migration has been good for\u00a0the U.S. economy.",
-      "publishedAt": "2024-05-02T01:01:00Z",
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "title": "Biden blames China, Japan and India's economic woes on 'xenophobia' - CNBC",
-      "url": "https://www.cnbc.com/2024/05/02/biden-blames-china-japan-and-indias-economic-woes-on-xenophobia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107389749-17108856022024-03-19t213637z_961572244_rc29p6amk99y_rtrmadp_0_usa-election-biden.jpeg?v=1714611202&w=1920&h=1080"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "POLITICO",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-02T00:37:06Z",
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "title": "'Seize all cannabis': Inside the surprising federal crackdown on New Mexico weed farmers - POLITICO",
-      "url": "https://www.politico.com/news/2024/05/01/federal-crackdown-new-mexico-weed-farmers-00155624",
-      "urlToImage": null
-    },
-    {
-      "author": "Caroline Linton, Elizabeth Campbell",
-      "content": "Arizona's Republican-controlled Senate on Wednesday voted to repeal a\u00a0Civil War-era abortion ban, one week after a similar motion\u00a0passed the GOP-controlled state House.\u00a0\r\nTwo Republicans, TJ Shopes a\u2026 [+2399 chars]",
-      "description": "A similar repeal of Arizona's 1864 abortion ban passed the GOP-controlled House last week, and Gov. Katie Hobbs has said she'd sign the measure.",
-      "publishedAt": "2024-05-02T00:09:35Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "GOP-led Arizona Senate votes to repeal 1864 abortion ban, sending it to Democratic Gov. Katie Hobbs - CBS News",
-      "url": "https://www.cbsnews.com/news/arizona-abortion-ban-state-senate-repeal-vote/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/05/01/42d826c4-2110-421f-8186-c5c8f64b222c/thumbnail/1200x630/dffc18d012ffb5df507a3bfb30ae49b9/ap24121772804284.jpg?v=1d6c78a71b7b6252b543a329b3a5744d"
+      "title": "Walmart ground beef recalled for potential E. Coli contamination, 16000 pounds affected - USA TODAY",
+      "url": "https://www.usatoday.com/story/money/food/2024/05/01/walmart-beef-recall-e-coli/73534835007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/02/USAT/72083202007-getty-images-646766624.jpg?crop=3599,2025,x0,y0&width=3200&height=1801&format=pjpg&auto=webp"
     },
     {
       "author": "Enjoyiana Nururdin, M.A.",
       "content": "Caroline Dade provides the latest as law enforcement continued its investigation Wednesday.\r\nMOUNT HOREB, Wis. (WKOW) --\u00a0Wisconsin Attorney General Josh Kaul announced Wednesday evening an active sho\u2026 [+5760 chars]",
       "description": "Reunification of Intermediate students will begin at the District Bus Garage. Kindergarten, first, and second-grade students are being released starting at 5 p.m. Parents with children in Wrap Care at",
-      "publishedAt": "2024-05-02T00:00:00Z",
+      "publishedAt": "2024-05-02T01:49:50Z",
       "source": {
         "id": null,
         "name": "WKOW"
@@ -235,32 +248,19 @@
       "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/1/4b/14b6860e-07ee-11ef-8ab4-7709d54c918f/6632932963739.image.png?crop=800%2C420%2C0%2C14&resize=800%2C420&order=crop%2Cresize"
     },
     {
-      "author": "Alex Kimani",
-      "content": "A new study reveals that\u2026\r\nGlobal oil demand growth is\u2026\r\nCanada faces an escalating threat\u2026\r\nBy Alex Kimani - May 01, 2024, 7:00 PM CDT\r\nEnergy markets have kicked off the new month on the back foot,\u2026 [+4326 chars]",
-      "description": "We're entering a key period for oil fundamentals that will determine whether the market will tighten further or disappoint.",
-      "publishedAt": "2024-05-02T00:00:00Z",
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "content": "Melissa McCarthy has nothing but love for Barbra Streisand. Really.\r\nStreisand issued an apology Tuesday after awkwardly commenting on a photo McCarthy posted on Instagram of herself with director Ad\u2026 [+2260 chars]",
+      "description": "Melissa McCarthy responds to Barbra Streisand's awkward Ozempic comment on social media with kindness: 'I win the day.'",
+      "publishedAt": "2024-05-02T01:05:00Z",
       "source": {
-        "id": null,
-        "name": "OilPrice.com"
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
       },
-      "title": "The Next Two Months Will Be Critical For Oil Fundamentals | OilPrice.com - OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Two-Months-Will-Be-Critical-For-Oil-Fundamentals.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-05-01_ljoiq26dxm.jpg"
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-01T23:36:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "S&P 500, Nasdaq end lower after Fed rate decision, Powell press conference - Reuters",
-      "url": "https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/",
-      "urlToImage": null
+      "title": "Melissa McCarthy responds to Barbra Streisand's Ozempic remark: 'I win the day' - Entertainment Weekly News",
+      "url": "https://ew.com/melissa-mccarthy-responds-barbra-streisand-ozempic-comment-8642158",
+      "urlToImage": "https://ew.com/thmb/Nc0lBxrMQfXFkCSJ_loRiP4JoU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/melissa-mccarthy-barbra-streisand-tout-050124-95e733203c3f469eb918f4716bf4ece0.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 38
+  "totalResults": 36
 }

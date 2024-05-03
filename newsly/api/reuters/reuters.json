@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Alexander Marrow",
+      "description": "Russia's ability to mete out like-for-like retaliation if Western leaders seize its frozen assets has been eroded by dwindling foreign investment, but officials and economists say there are still ways it can strike back.",
+      "publishedAt": "2024-05-02T08:28:22Z",
+      "title": "Russia can't match a Western asset seizure, but it can inflict pain",
+      "url": "https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2MOBADKTWVL3HBF2PWTJVHKI4Y.jpg?auth=44b1faaf20f1e76e3c5ed3174098f2b1222aabc625559abf38ca76f41bad2af7&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "David Swanson",
       "description": "Violent clashes erupted early on Wednesday morning on the campus of the University of California in Los Angeles between pro-Palestinian protesters and a group of counter-demonstrators supporting Israel.",
       "publishedAt": "2024-05-01T10:55:11Z",
@@ -9,76 +17,68 @@
       "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=189"
     },
     {
-      "author": "Brendan Pierson, Jack Queen",
-      "description": "Harvey Weinstein is due to appear in state court in Manhattan on Wednesday for the first time since New York's highest court threw out his 2020 rape conviction last week.",
-      "publishedAt": "2024-05-01T10:13:16Z",
-      "title": "Harvey Weinstein expected in New York court after rape conviction overturned",
-      "url": "https://www.reuters.com/world/us/harvey-weinstein-expected-new-york-court-after-rape-conviction-overturned-2024-05-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/UQMVUVX6AZNHLLDWA6MFNWIY2I.jpg?auth=576275733c0bdd2637405639bc9681ce19597787e97102aba957f4deb17848cb&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Patricia Zengerle",
-      "description": "U.S. President Joe Biden's administration faced renewed pressure on Wednesday from his fellow Democrats to influence Israel not to launch a full-scale invasion of Rafah, the city where almost half of the Gaza Strip's 2.3 million people have taken refuge.",
-      "publishedAt": "2024-05-01T22:18:12Z",
-      "title": "US Democrats press Biden to prevent Israeli assault on Rafah",
-      "url": "https://www.reuters.com/world/us-democrats-press-biden-prevent-israeli-assault-rafah-2024-05-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GJCJPR6PUVOX7BAHJZ3E54EIXI.jpg?auth=3ace82f35aaebec1b8e40725e49257630c887b371ccf2382d000ada6443b1dcb&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Jonathan Landay, Daphne Psaledakis",
-      "description": "The United States on Wednesday accused Russia of violating the international chemical weapons ban by deploying the choking agent chloropicrin against Ukrainian troops and using riot control agents \"as a method of warfare\" in Ukraine.",
-      "publishedAt": "2024-05-01T17:31:29Z",
-      "title": "Russia breached global chemical weapons ban in Ukraine war, US says",
-      "url": "https://www.reuters.com/world/europe/russia-breached-global-chemical-weapons-ban-ukraine-war-us-says-2024-05-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OSKYVYI5CNLBBDHVZ56RUZSNZU.jpg?auth=fe1263d70dd71be442ca02f909eeaa4eb06dd9d3b05ef35b2c742e12f5495ef2&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Brendan Pierson",
-      "description": "A federal judge has struck down parts of a North Carolina law restricting patients' access to the abortion pill mifepristone, which has become the subject of legal battles nationwide.",
-      "publishedAt": "2024-05-01T16:38:58Z",
-      "title": "US judge blocks some North Carolina restrictions on abortion pill",
-      "url": "https://www.reuters.com/world/us/us-judge-blocks-some-north-carolina-restrictions-abortion-pill-2024-05-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/YMOML4EDMRKABPSEUQAWLWW4DE.jpg?auth=f9767b6a4aaa5d6d7c54339eb570165f90521016b9c16d91c0b29f9eba7a2135&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Israel's state auditor on Wednesday called on Prime Minister Benjamin Netanyahu and the head of the armed forces to cooperate with an official investigation into how Hamas was able to stage the Oct. 7 attack on Israel that sparked the Gaza war.",
-      "publishedAt": "2024-05-01T17:41:54Z",
-      "title": "Israel state watchdog calls on Netanyahu, military chief to cooperate in Oct. 7 probe",
-      "url": "https://www.reuters.com/world/middle-east/israel-state-watchdog-calls-netanyahu-military-chief-cooperate-oct-7-probe-2024-05-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JKD3PSV76FKEPJ554PSJLVMW7E.jpg?auth=b526bb861a5a6755b8e6c8271c2e1c97cf10136a8b84b6b7171f81be5a82439e&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Floods and landslides across Kenya have killed 179 people since March, with hundreds of thousands forced to leave their homes, the government said on Wednesday, as dozens more were killed in neighbouring Tanzania and Burundi.",
-      "publishedAt": "2024-05-01T12:52:41Z",
-      "title": "Kenya flood toll rises to 179 as homes and roads are destroyed",
-      "url": "https://www.reuters.com/world/africa/kenya-flood-toll-rises-179-homes-roads-are-destroyed-2024-05-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/RJWRDPK4ZNOVDHJBIDSRL7Q35A.jpg?auth=a32bf29f54475b1534ec1b514956ab04af6530ac733d275fc9a5b8275f7cbcb7&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": null,
-      "description": null,
-      "publishedAt": null,
-      "title": "Georgian lawmakers tussle in parliament after crackdown on foreign agent protesters",
-      "url": "https://www.reuters.com/world/europe/georgian-lawmakers-tussle-parliament-after-crack-down-foreign-agent-protesters-2024-05-01/",
-      "urlToImage": null
-    },
-    {
       "author": "Greg Torode",
       "description": "A senior U.S. official on Thursday urged China and Russia to match declarations by the United States and others that only humans, and never artificial intelligence, would make decisions on deploying nuclear weapons.",
-      "publishedAt": "2024-05-02T04:53:19Z",
+      "publishedAt": "2024-05-02T08:25:37Z",
       "title": "US official urges China, Russia to declare only humans, not AI, control nuclear weapons",
       "url": "https://www.reuters.com/world/us-official-urges-china-russia-declare-only-humans-not-ai-control-nuclear-2024-05-02/",
       "urlToImage": "https://www.reuters.com/resizer/v2/Y4SQ5JY6NJNRFKSCP3NOHBL6BI.jpg?auth=084783f0c7e7f4b19a33f523091e98c544743f92aa816fb36b38ca42310c41f2&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "Tens of thousands of people marched in Colombia's biggest cities on Wednesday to support reforms proposed by President Gustavo Petro which he says will tackle inequality, but which have struggled to win congressional approval.",
-      "publishedAt": "2024-05-01T18:34:39Z",
-      "title": "Tens of thousands of Colombians march in support of Petro's reforms",
-      "url": "https://www.reuters.com/world/americas/tens-thousands-colombians-march-support-petros-reforms-2024-05-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/AL6I3EXCKNJQBI5KQBJSDYQEQE.jpg?auth=816aacbe394a4abe51ef051eed26e0e29c558b6c559c1268adda39ed29650f2d&height=1005&width=1920&quality=80&smart=true"
+      "author": "Jack Queen, Jody Godoy, Andy Sullivan",
+      "description": "New York prosecutors on Thursday will ask the judge overseeing Donald Trump's criminal hush money trial to impose more fines on the former U.S. president for violating a gag order that prohibits him from talking about witnesses and jurors.",
+      "publishedAt": "2024-05-02T10:10:48Z",
+      "title": "Trump hush-money trial judge to weigh more fines for defying gag order",
+      "url": "https://www.reuters.com/world/us/trump-hush-money-trial-judge-weigh-more-fines-defying-gag-order-2024-05-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2RDJYHBG7JPKBNMC3HRAUNIHRI.jpg?auth=8f192ca01a3a156585dcccda02cb31097e88ea2e6928583245b304b17b011df2&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nellie Peyton",
+      "description": "In the South African township where Luke Fleurs grew up, some friends joined gangs before they reached high school age, but Fleurs found another path: he was so brilliant at soccer that he rose to be a professional player at South Africa's top club.",
+      "publishedAt": "2024-05-02T09:22:59Z",
+      "title": "Soccer star's murder highlights South Africa's crime problem as election nears",
+      "url": "https://www.reuters.com/world/africa/soccer-stars-murder-highlights-south-africas-crime-problem-election-nears-2024-05-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/PIYMPIHWB5NYHMUDAJZMBEOSVU.jpg?auth=cbfd26a43b93d0cf6d0316c960605059622e6322e71d1f3f084ebb1845828cb2&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Hyunsu Yim",
+      "description": "South Korea's foreign ministry on Thursday raised the terrorism alert level for five diplomatic offices in the region citing intelligence that North Korea may attempt to harm its officials.",
+      "publishedAt": "2024-05-02T09:21:38Z",
+      "title": "South Korea raises diplomatic alert levels citing North Korea threats",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/YVZTDV6N6RNG3NK4OHG2VTX6XE.jpg?auth=24b129029095a5dd81cbb79a7296477fe490d3c4d98a2fbb1352dd692a79c76b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Manoj Kumar, Aftab Ahmed",
+      "description": "A lower turnout so far in India\u2019s long general election has rattled Prime Minister Narendra Modi\u2019s campaign managers, raising into question whether his Bharatiya Janata Party (BJP) and its allies can achieve the landslide victory predicted by opinion polls just one month ago.",
+      "publishedAt": "2024-05-02T09:23:53Z",
+      "title": "Low turnout, apathy in India election a worry for Modi's campaign",
+      "url": "https://www.reuters.com/world/india/low-turnout-apathy-india-election-worry-modis-campaign-2024-05-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/HHDSGWW7CZIAZJGRP5QOAJZ3LA.jpg?auth=3e015e5b8149cb839b69905620d42b654a355c5fd3f2ba9b9d7e3ba7ec9d3330&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Andrew Hay",
+      "description": "At Columbia University, tensions between the administration and students protesting over Israel's war in Gaza have reached the point that scores of New York City police marched onto campus to clear an encampment and arrest demonstrators who had commandeered a classroom building.",
+      "publishedAt": "2024-05-02T10:07:30Z",
+      "title": "Berkeley takes hands-off approach to Gaza campus protests. Columbia called the police",
+      "url": "https://www.reuters.com/world/us/berkeley-takes-hands-off-approach-gaza-campus-protests-columbia-called-police-2024-05-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/W7QUWNX4V5MARDW4ZICU36LMMI.jpg?auth=4f291137e2ef9c8724b6bd978a025e8cce6f87203c8533f822df281fd1c06f4f&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Tora Agarwala",
+      "description": "India on Thursday deported the first group of Myanmar refugees who had sought shelter after a 2021 military coup, a top state minister said, following weeks of efforts that were hampered by fighting between Myanmar's rebel forces and the ruling junta.",
+      "publishedAt": "2024-05-02T11:37:45Z",
+      "title": "India deports Myanmar refugees who fled 2021 coup",
+      "url": "https://www.reuters.com/world/india/india-deports-myanmar-refugees-who-fled-2021-coup-2024-05-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MVYVMBTVHFMO3B6UQPSNJIXFXM.jpg?auth=465ca441e13fc4fbd6e4ae2b8bf0ec235b0ce429bd3080fd6890358d63aba61c&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Joan Faus",
+      "description": "Crunch elections in Catalonia next week will test the wisdom of the latest political gambles by Spain's Prime Minister Pedro Sanchez, who aims to use the vote to buoy his power nationally but risks inadvertently awakening a dormant Catalan separatism.",
+      "publishedAt": "2024-05-02T07:02:51Z",
+      "title": "Spain PM Sanchez's political gambles face litmus test in Catalan election",
+      "url": "https://www.reuters.com/world/europe/spain-pm-sanchezs-political-gambles-face-litmus-test-catalan-election-2024-05-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SZ6PMKOWSBO3DN3D37QAVPHCNE.jpg?auth=af36d10f6a136738d568dd03ca8083a0f9ab8ed54c0b7a9e7d322eabbe75fe5a&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
