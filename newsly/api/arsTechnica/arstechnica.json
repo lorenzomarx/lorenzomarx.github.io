@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": null,
+      "description": "Services growth looked rosy as Apple's hardware revenue in China slowed.",
+      "publishedAt": "2024-05-02T22:32:43+00:00",
+      "title": "Apple\u2019s Q2 2024 earnings reveal a drop in iPhone, iPad sales",
+      "url": "https://arstechnica.com/?p=2021582",
+      "urlToImage": null
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "AT&T Turbo puts you in a faster lane but requires unlimited data and extra fee.",
+      "publishedAt": "2024-05-02T20:26:57+00:00",
+      "title": "AT&T announces $7 monthly add-on fee for \u201cTurbo\u201d 5G speeds",
+      "url": "https://arstechnica.com/tech-policy/2024/05/att-announces-7-monthly-add-on-fee-for-turbo-5g-speeds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/att-logo-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Judge: What should Google have done to avoid the DOJ\u2019s crosshairs?",
+      "publishedAt": "2024-05-02T19:37:40+00:00",
+      "title": "Apple deal could have been \u201csuicide\u201d for Google, company lawyer says",
+      "url": "https://arstechnica.com/tech-policy/2024/05/doj-explains-how-google-apple-deal-should-have-been-done-to-avoid-legal-peril/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1701755150-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "For those of you just joining us, today we're teaching poodles how to fly.",
+      "publishedAt": "2024-05-02T19:24:49+00:00",
+      "title": "UHF in UHD: Weird Al\u2019s cult classic movie will get its first 4K release",
+      "url": "https://arstechnica.com/culture/2024/05/uhf-in-uhd-weird-als-cult-classic-movie-will-get-its-first-4k-release/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/UHF-screen-760x380.png"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "But the studio is \"leaving some possibilities\" for a sequel that continues the story.",
+      "publishedAt": "2024-05-02T19:17:08+00:00",
+      "title": "One and done: Elden Ring\u2019s first DLC expansion will also be its last",
+      "url": "https://arstechnica.com/gaming/2024/05/one-and-done-elden-rings-first-dlc-expansion-will-also-be-its-last/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/erdtree-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "The threat is potentially grave because it could be used in supply-chain attacks.",
+      "publishedAt": "2024-05-02T19:02:38+00:00",
+      "title": "Maximum-severity GitLab flaw allowing account hijacking under active exploitation",
+      "url": "https://arstechnica.com/security/2024/05/0-click-gitlab-hijacking-flaw-under-active-exploit-with-thousands-still-unpatched/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Ask someone who previously did it the DIY way.",
+      "publishedAt": "2024-05-02T18:51:41+00:00",
+      "title": "GeForce Now has made Steam Deck streaming much easier than it used to be",
+      "url": "https://arstechnica.com/gaming/2024/05/streaming-games-with-geforce-now-on-steam-deck-is-much-easier-now/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/f4_steam_deck-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Counterpoint Research projects 27 percent market share this year to Apple's 49.",
+      "publishedAt": "2024-05-02T18:06:13+00:00",
+      "title": "Wear OS\u2019s big comeback continues; might hit half of Apple Watch sales",
+      "url": "https://arstechnica.com/gadgets/2024/05/wear-os-will-soon-be-at-50-percent-of-apple-watch-sales/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/samsung-watch-6-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Company also updates fee policy for devs who don't use Apple's App Store.",
+      "publishedAt": "2024-05-02T17:30:16+00:00",
+      "title": "Apple will bring sideloading and other EU-mandated changes to iPadOS this fall",
+      "url": "https://arstechnica.com/apple/2024/05/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/DSC00515-760x380.jpeg"
+    },
+    {
       "author": "Kyle Orland",
       "description": "New magic system shines in the game's early \"Technical Test\" period.",
       "publishedAt": "2024-05-02T16:52:21+00:00",
       "title": "Hades II\u2019s new combat options enhance an already great game",
       "url": "https://arstechnica.com/gaming/2024/05/hades-iis-new-combat-options-enhance-an-already-great-game/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/hades2-2-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "eDNA analysis found traces of xtabentum, as well as lancewood, chili peppers, and jool.",
-      "publishedAt": "2024-05-02T15:30:34+00:00",
-      "title": "Maya used hallucinogenic plants in \u201censouling\u201d rituals for their ball courts",
-      "url": "https://arstechnica.com/science/2024/05/study-the-maya-blessed-their-ball-courts-in-rituals-with-hallucinogenic-plants/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/maya4-760x380.jpg"
-    },
-    {
-      "author": "Peter Nelson",
-      "description": "The AFEELA concept previews an EV from the joint venture, due in 2026.",
-      "publishedAt": "2024-05-02T15:04:45+00:00",
-      "title": "First look at the Sony Honda EV: More than a PlayStation on wheels",
-      "url": "https://arstechnica.com/cars/2024/05/first-look-at-the-sony-honda-ev-more-than-a-playstation-on-wheels/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/IMG_6469-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "VPN connection bug affects all supported versions of Windows 10, 11, and Server.",
-      "publishedAt": "2024-05-02T14:41:02+00:00",
-      "title": "April updates for Windows 10 and 11 break some VPN software, Microsoft says",
-      "url": "https://arstechnica.com/gadgets/2024/05/april-updates-for-windows-10-and-11-break-some-vpn-software-microsoft-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/win11-dark-wallpaper-760x380.jpeg"
-    },
-    {
-      "author": "Dan Gearino, Inside Climate News",
-      "description": "Technology will be used to store wind and solar energy for use later.",
-      "publishedAt": "2024-05-02T13:57:17+00:00",
-      "title": "Storing energy with compressed air is about to have its moment of truth",
-      "url": "https://insideclimatenews.org/news/02052024/inside-clean-energy-long-duration-energy-storage-technology/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/silver-city-energy-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The redundancy in the above recommendations does not help.\"",
-      "publishedAt": "2024-05-02T13:43:13+00:00",
-      "title": "NASA says Artemis II report by its inspector general is unhelpful and redundant",
-      "url": "https://arstechnica.com/space/2024/05/nasa-seems-unhappy-to-be-questioned-about-its-artemis-ii-readiness/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/52529813962_9426fc5e1a_k-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "It's a badge-engineered Ultium EV, but Acura is responsible for all the software.",
-      "publishedAt": "2024-05-02T13:00:26+00:00",
-      "title": "The 2024 Acura ZDX Type-S: This electric SUV feels polished but heavy",
-      "url": "https://arstechnica.com/cars/2024/05/the-2024-acura-zdx-type-s-this-electric-suv-feels-polished-but-heavy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/2024-Acura-ZDX-Type-S-1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "How and why nation-state hackers and cybercriminals coexist in the same router botnet.",
-      "publishedAt": "2024-05-02T00:20:12+00:00",
-      "title": "Hacker free-for-all fights for control of home and office routers everywhere",
-      "url": "https://arstechnica.com/security/2024/05/hacker-free-for-all-fights-for-control-of-home-and-office-routers-everywhere/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Disappointing streaming changes are happening so fast that it's hard to keep up.",
-      "publishedAt": "2024-05-01T22:19:38+00:00",
-      "title": "All the ways streaming services are aggravating their subscribers this week",
-      "url": "https://arstechnica.com/gadgets/2024/05/all-the-ways-streaming-services-are-aggravating-their-subscribers-this-week/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1306315771-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Anthropic finally comes to mobile, launches plan for teams that includes 200K context window.",
-      "publishedAt": "2024-05-01T21:36:09+00:00",
-      "title": "Anthropic releases Claude AI chatbot iOS app",
-      "url": "https://arstechnica.com/information-technology/2024/05/anthropic-releases-claude-ai-chatbot-ios-app/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Claude-iOS-App-2-760x380.jpg"
     }
   ],
   "sortBy": "top",
