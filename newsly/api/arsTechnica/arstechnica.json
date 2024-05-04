@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "In 2021, it canceled an EV months before production\u2014now it's preparing for 2025.",
+      "publishedAt": "2024-05-03T16:37:10+00:00",
+      "title": "Here\u2019s how Jaguar will relaunch as an all-EV brand",
+      "url": "https://arstechnica.com/cars/2024/05/jaguar-wins-1-2-in-monaco-as-it-prepares-its-rebirth-as-ev-only-brand/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Jaguar-GT-concepts-1-760x380.jpg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "A fusion reactor in San Diego surpasses a limit on plasma density.",
+      "publishedAt": "2024-05-03T16:10:12+00:00",
+      "title": "Two seconds of hope for fusion power",
+      "url": "https://arstechnica.com/science/2024/05/two-seconds-of-hope-for-fusion-power/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "VFX producer Michael Cliett on the importance of historical accuracy in the show's VFX.",
+      "publishedAt": "2024-05-03T14:00:06+00:00",
+      "title": "Inside Sh\u014dgun: How special effects brought 17th-century feudal Japan to vivid life",
+      "url": "https://arstechnica.com/culture/2024/05/inside-shogun-how-special-effects-brought-17th-century-feudal-japan-to-vivid-life/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/shogunTOP-ALT-2-760x380.jpg"
+    },
+    {
+      "author": "Tess Owen, wired.com",
+      "description": "Despite bans on militias, Facebook continues to struggle with content moderation.",
+      "publishedAt": "2024-05-03T13:40:07+00:00",
+      "title": "Over 100 far-right militias are coordinating on Facebook",
+      "url": "https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/far-right-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Can things be turned around at Tesla, or is this the beginning of the end?",
+      "publishedAt": "2024-05-03T13:33:10+00:00",
+      "title": "What\u2019s happening at Tesla? Here\u2019s what experts think.",
+      "url": "https://arstechnica.com/cars/2024/05/chaos-at-tesla-what-analysts-think-about-elon-musks-cuts-and-layoffs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/tesla-musk-coin-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "No zoning, no pollution, no advisers\u2014just squares, circles, people, and time.",
+      "publishedAt": "2024-05-03T11:37:10+00:00",
+      "title": "Mini Settlers is a city builder that you can both enjoy and actually put down",
+      "url": "https://arstechnica.com/gaming/2024/05/mini-settlers-is-a-city-builder-that-you-can-both-enjoy-and-actually-put-down/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/mini5-760x380.png"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Rocket Factory Augsburg, a German launch startup, nears a test-firing of its booster.",
+      "publishedAt": "2024-05-03T11:00:32+00:00",
+      "title": "Rocket Report: Astroscale chases down dead rocket; Ariane 6 on the pad",
+      "url": "https://arstechnica.com/space/2024/05/rocket-report-astroscale-chases-down-dead-rocket-ariane-6-on-the-pad/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Space-Debris-Image-Taken-by-Astroscales-ADRAS-J-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "Services growth looked rosy as Apple's hardware revenue in China slowed.",
       "publishedAt": "2024-05-02T22:32:43+00:00",
@@ -17,68 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/att-logo-760x380.jpg"
     },
     {
-      "author": "Ashley Belanger",
+      "author": null,
       "description": "Judge: What should Google have done to avoid the DOJ\u2019s crosshairs?",
       "publishedAt": "2024-05-02T19:37:40+00:00",
       "title": "Apple deal could have been \u201csuicide\u201d for Google, company lawyer says",
-      "url": "https://arstechnica.com/tech-policy/2024/05/doj-explains-how-google-apple-deal-should-have-been-done-to-avoid-legal-peril/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1701755150-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "For those of you just joining us, today we're teaching poodles how to fly.",
-      "publishedAt": "2024-05-02T19:24:49+00:00",
-      "title": "UHF in UHD: Weird Al\u2019s cult classic movie will get its first 4K release",
-      "url": "https://arstechnica.com/culture/2024/05/uhf-in-uhd-weird-als-cult-classic-movie-will-get-its-first-4k-release/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/UHF-screen-760x380.png"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "But the studio is \"leaving some possibilities\" for a sequel that continues the story.",
-      "publishedAt": "2024-05-02T19:17:08+00:00",
-      "title": "One and done: Elden Ring\u2019s first DLC expansion will also be its last",
-      "url": "https://arstechnica.com/gaming/2024/05/one-and-done-elden-rings-first-dlc-expansion-will-also-be-its-last/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/erdtree-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "The threat is potentially grave because it could be used in supply-chain attacks.",
-      "publishedAt": "2024-05-02T19:02:38+00:00",
-      "title": "Maximum-severity GitLab flaw allowing account hijacking under active exploitation",
-      "url": "https://arstechnica.com/security/2024/05/0-click-gitlab-hijacking-flaw-under-active-exploit-with-thousands-still-unpatched/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Ask someone who previously did it the DIY way.",
-      "publishedAt": "2024-05-02T18:51:41+00:00",
-      "title": "GeForce Now has made Steam Deck streaming much easier than it used to be",
-      "url": "https://arstechnica.com/gaming/2024/05/streaming-games-with-geforce-now-on-steam-deck-is-much-easier-now/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/f4_steam_deck-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Counterpoint Research projects 27 percent market share this year to Apple's 49.",
-      "publishedAt": "2024-05-02T18:06:13+00:00",
-      "title": "Wear OS\u2019s big comeback continues; might hit half of Apple Watch sales",
-      "url": "https://arstechnica.com/gadgets/2024/05/wear-os-will-soon-be-at-50-percent-of-apple-watch-sales/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/samsung-watch-6-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Company also updates fee policy for devs who don't use Apple's App Store.",
-      "publishedAt": "2024-05-02T17:30:16+00:00",
-      "title": "Apple will bring sideloading and other EU-mandated changes to iPadOS this fall",
-      "url": "https://arstechnica.com/apple/2024/05/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/DSC00515-760x380.jpeg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "New magic system shines in the game's early \"Technical Test\" period.",
-      "publishedAt": "2024-05-02T16:52:21+00:00",
-      "title": "Hades II\u2019s new combat options enhance an already great game",
-      "url": "https://arstechnica.com/gaming/2024/05/hades-iis-new-combat-options-enhance-an-already-great-game/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/hades2-2-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2021429",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
