@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Matt Burgess, WIRED.com",
+      "description": "Cybercriminals openly run dozens of scams across social media and messaging apps.",
+      "publishedAt": "2024-05-04T11:37:56+00:00",
+      "title": "These dangerous scammers don\u2019t even bother to hide their crimes",
+      "url": "https://www.wired.com/story/yahoo-boys-scammers-facebook-telegram-tiktok-youtube/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1241008489-760x380.jpg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "A phenomenon called a \"glory\" may be happening on a hellishly hot giant planet.",
+      "publishedAt": "2024-05-04T11:00:42+00:00",
+      "title": "Glow of an exoplanet may be from starlight reflecting off liquid iron",
+      "url": "https://arstechnica.com/science/2024/05/glow-of-an-exoplanet-may-be-from-starlight-reflecting-off-liquid-iron/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Artist_impression_of_glory_on_exoplanet_WASP-76b-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "ZTDNS brings the best of both worlds to DNS: encryption and fine-grained control.",
       "publishedAt": "2024-05-03T23:42:26+00:00",
@@ -33,12 +49,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1601469961-760x380.jpg"
     },
     {
-      "author": "Beth Mole",
+      "author": null,
       "description": "A genetic analysis and case report reveal new insights and big gaps in our knowledge.",
       "publishedAt": "2024-05-03T21:26:32+00:00",
       "title": "We still don\u2019t understand how one human apparently got bird flu from a cow",
-      "url": "https://arstechnica.com/science/2024/05/we-still-dont-understand-how-one-human-apparently-got-bird-flu-from-a-cow/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2139541959-760x380.jpeg"
+      "url": "https://arstechnica.com/?p=2021860",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -63,22 +79,6 @@
       "title": "NASA hasn\u2019t landed on the Moon in decades\u2014China just sent its third in six years",
       "url": "https://arstechnica.com/?p=2021655",
       "urlToImage": null
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Andrej Karpathy muses about sending a LLM binary that could \"wake up\" and answer questions.",
-      "publishedAt": "2024-05-03T19:04:13+00:00",
-      "title": "AI in space: Karpathy suggests AI chatbots as interstellar messengers to alien civilizations",
-      "url": "https://arstechnica.com/information-technology/2024/05/ai-in-space-karpathy-suggests-ai-chatbots-as-interstellar-messengers-to-alien-civilizations/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/astronaut_laptop-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Even after a commendable 16-year runtime, the company is offering discounts.",
-      "publishedAt": "2024-05-03T18:38:02+00:00",
-      "title": "Ecobee is shutting down some of its very first products",
-      "url": "https://arstechnica.com/gadgets/2024/05/ecobee-kills-off-the-worlds-first-smart-thermostat-after-16-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/April13_Blog_Image_4-760x380.jpg"
     }
   ],
   "sortBy": "top",
