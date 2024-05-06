@@ -1,12 +1,28 @@
 {
   "articles": [
     {
-      "author": "Matt Burgess, WIRED.com",
+      "author": "Jennifer Ouellette",
+      "description": "\"You will no longer be beloved celebrities. You will be wrathful gods. Show me a little wrath.\"",
+      "publishedAt": "2024-05-04T21:23:51+00:00",
+      "title": "The Boys S4 trailer brings us more bloody mayhem and \u201cHomelander on Ice\u201d",
+      "url": "https://arstechnica.com/culture/2024/05/the-boys-s4-trailer-brings-us-more-bloody-mayhem-and-homelander-on-ice/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/boysLIST-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"The Jedi justify their galactic dominance in the name of peace. But that peace is a lie.\"",
+      "publishedAt": "2024-05-04T19:45:51+00:00",
+      "title": "It\u2019s Star Wars Day and we have a new trailer for The Acolyte to celebrate",
+      "url": "https://arstechnica.com/culture/2024/05/its-star-wars-day-and-we-have-a-new-trailer-for-the-acolyte-to-celebrate/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/acolyte10-760x380.jpg"
+    },
+    {
+      "author": null,
       "description": "Cybercriminals openly run dozens of scams across social media and messaging apps.",
       "publishedAt": "2024-05-04T11:37:56+00:00",
       "title": "These dangerous scammers don\u2019t even bother to hide their crimes",
-      "url": "https://www.wired.com/story/yahoo-boys-scammers-facebook-telegram-tiktok-youtube/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1241008489-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2022009",
+      "urlToImage": null
     },
     {
       "author": "Elizabeth Rayne",
@@ -62,22 +78,6 @@
       "publishedAt": "2024-05-03T20:58:38+00:00",
       "title": "What to expect from Apple\u2019s May 7 \u201cLet loose\u201d event",
       "url": "https://arstechnica.com/?p=2021920",
-      "urlToImage": null
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Microsoft has been criticized for \"preventable\" failures and poor communication.",
-      "publishedAt": "2024-05-03T20:25:53+00:00",
-      "title": "Microsoft ties executive pay to security following multiple failures and breaches",
-      "url": "https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Screen-Shot-2021-08-30-at-11.34.41-PM-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "China is going. NASA is talking about going. What gives?",
-      "publishedAt": "2024-05-03T20:16:03+00:00",
-      "title": "NASA hasn\u2019t landed on the Moon in decades\u2014China just sent its third in six years",
-      "url": "https://arstechnica.com/?p=2021655",
       "urlToImage": null
     }
   ],
