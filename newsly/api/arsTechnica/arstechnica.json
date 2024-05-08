@@ -1,12 +1,76 @@
 {
   "articles": [
     {
-      "author": "Andrew Cunningham",
+      "author": "Kyle Orland",
+      "description": "New method could help high-score chasers trying to avoid game-ending crashes.",
+      "publishedAt": "2024-05-06T22:16:32+00:00",
+      "title": "Hackers discover how to reprogram NES Tetris from within the game",
+      "url": "https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/tetris-crash-reprogram-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "TunnelVision vulnerability has existed since 2002 and may already be known to attackers.",
+      "publishedAt": "2024-05-06T20:35:29+00:00",
+      "title": "Novel attack against virtually all VPN apps neuters their entire purpose",
+      "url": "https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Scales, trackers, and other fitness devices that don't get updated will stop syncing",
+      "publishedAt": "2024-05-06T20:01:34+00:00",
+      "title": "Google Fit APIs get shut down in 2025, might break fitness devices",
+      "url": "https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/23-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "In project headed by former Inflection chief, MAI-1 may have 500B parameters.",
+      "publishedAt": "2024-05-06T19:51:22+00:00",
+      "title": "New Microsoft AI model may challenge GPT-4 and Google Gemini",
+      "url": "https://arstechnica.com/information-technology/2024/05/microsoft-developing-mai-1-language-model-that-may-compete-with-openai-report/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Mustafa-Suleyman_GettyImages-1932097196-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Ars spoke with the three Americans alive who have test-flown a new spacecraft in orbit.",
+      "publishedAt": "2024-05-06T19:32:54+00:00",
+      "title": "SpaceX got the fanfare, but Boeing\u2019s first crew flight is still historic",
+      "url": "https://arstechnica.com/space/2024/05/spacex-got-the-fanfare-but-boeings-first-crew-flight-is-still-historic/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/53567594826_e21046f7be_k-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Congress only gave 38% of funds needed for \"rip and replace,\" FCC chair says.",
+      "publishedAt": "2024-05-06T18:39:29+00:00",
+      "title": "Telcos keep using \u201cinsecure\u201d Chinese gear because of congressional inaction",
+      "url": "https://arstechnica.com/tech-policy/2024/05/us-plan-to-purge-huawei-from-telecom-networks-stalled-by-funding-shortfall/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/huawei-mwc-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Robinhood accused SEC of creating a \"world of confusion around crypto.\"",
+      "publishedAt": "2024-05-06T18:28:53+00:00",
+      "title": "SEC crypto crackdown continues with Robinhood as lawsuit looms",
+      "url": "https://arstechnica.com/tech-policy/2024/05/sec-crypto-crackdown-continues-with-robinhood-as-lawsuit-looms/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1246654944-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The latest cuts affect engineers, HR, and service advisers.",
+      "publishedAt": "2024-05-06T18:07:28+00:00",
+      "title": "Tesla announces fourth round of layoffs in four weeks",
+      "url": "https://arstechnica.com/cars/2024/05/tesla-announces-fourth-round-of-layoffs-in-four-weeks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1170611827-760x380.jpg"
+    },
+    {
+      "author": null,
       "description": "OpenStreetMap contributors have been dealing with Pok\u00e9mon Go players for years.",
       "publishedAt": "2024-05-06T15:54:06+00:00",
       "title": "Pok\u00e9mon Go players are altering public map data to catch rare Pok\u00e9mon",
-      "url": "https://arstechnica.com/gaming/2024/05/pokemon-go-players-are-altering-public-map-data-to-catch-rare-pokemon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/wiglett-760x380.jpeg"
+      "url": "https://arstechnica.com/?p=2022132",
+      "urlToImage": null
     },
     {
       "author": "Kevin Purdy",
@@ -15,70 +79,6 @@
       "title": "Sony backs down, won\u2019t enforce PSN accounts for Helldivers 2 PC players on Steam",
       "url": "https://arstechnica.com/gaming/2024/05/sony-backs-down-wont-enforce-psn-accounts-for-helldivers-2-pc-players-on-steam/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/helldivers-2-screenshot-disclaimer-09-en-10jul23-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Russell T. Davies and stars Ncuti Gatwa and Millie Gibson weigh in on the new adventures.",
-      "publishedAt": "2024-05-06T13:00:39+00:00",
-      "title": "Doctor Who\u2019s sparkling new season feels like a fresh return to form",
-      "url": "https://arstechnica.com/culture/2024/05/doctor-whos-sparkling-new-season-feels-like-a-fresh-return-to-form/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/docwhoTOP-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The structural inefficiency was a huge deal.\"",
-      "publishedAt": "2024-05-06T11:00:46+00:00",
-      "title": "The surprise is not that Boeing lost commercial crew but that it finished at all",
-      "url": "https://arstechnica.com/space/2024/05/the-surprise-is-not-that-boeing-lost-commercial-crew-but-that-it-finished-at-all/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/53659367267_bc270d779a_k-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "No other F1 designer has penned more championship winning cars than Adrian Newey.",
-      "publishedAt": "2024-05-05T11:00:39+00:00",
-      "title": "Here are all the F1 cars designed by the legendary Adrian Newey",
-      "url": "https://arstechnica.com/?p=2021839",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "\"You will no longer be beloved celebrities. You will be wrathful gods. Show me a little wrath.\"",
-      "publishedAt": "2024-05-04T21:23:51+00:00",
-      "title": "The Boys S4 trailer brings us more bloody mayhem and \u201cHomelander on Ice\u201d",
-      "url": "https://arstechnica.com/?p=2022018",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "\"The Jedi justify their galactic dominance in the name of peace. But that peace is a lie.\"",
-      "publishedAt": "2024-05-04T19:45:51+00:00",
-      "title": "It\u2019s Star Wars Day and we have a new trailer for The Acolyte to celebrate",
-      "url": "https://arstechnica.com/?p=2022021",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Cybercriminals openly run dozens of scams across social media and messaging apps.",
-      "publishedAt": "2024-05-04T11:37:56+00:00",
-      "title": "These dangerous scammers don\u2019t even bother to hide their crimes",
-      "url": "https://arstechnica.com/?p=2022009",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "A phenomenon called a \"glory\" may be happening on a hellishly hot giant planet.",
-      "publishedAt": "2024-05-04T11:00:42+00:00",
-      "title": "Glow of an exoplanet may be from starlight reflecting off liquid iron",
-      "url": "https://arstechnica.com/?p=2021697",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "ZTDNS brings the best of both worlds to DNS: encryption and fine-grained control.",
-      "publishedAt": "2024-05-03T23:42:26+00:00",
-      "title": "Microsoft plans to lock down Windows DNS like never before. Here\u2019s how.",
-      "url": "https://arstechnica.com/?p=2021987",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
