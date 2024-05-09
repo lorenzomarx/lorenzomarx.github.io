@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Prosecutors are combing subpoenaed materials for evidence Tesla knowingly misled.",
+      "publishedAt": "2024-05-08T15:05:27+00:00",
+      "title": "Tesla is under a federal wire fraud probe for misleading investors",
+      "url": "https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/tesla-autopilot-flying-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Activision plans appeal, says it uses different network tech in its games.",
+      "publishedAt": "2024-05-08T14:49:34+00:00",
+      "title": "Court rules against Activision Blizzard in $23.4M patent dispute",
+      "url": "https://arstechnica.com/gaming/2024/05/jury-finds-activision-blizzard-liable-in-23-4m-patent-infringement-case/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/wowcrowd-760x380.png"
+    },
+    {
+      "author": "Georgina Gustin, Inside Climate News",
+      "description": "Millions of taxpayer dollars flow to livestock companies raising \"low carbon\" beef.",
+      "publishedAt": "2024-05-08T14:33:04+00:00",
+      "title": "No one has seen the data behind Tyson\u2019s \u201cclimate friendly beef\u201d claim",
+      "url": "https://insideclimatenews.org/news/08052024/usda-tyson-climate-friendly-beef-claim/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/feedlot-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Amazon is adding three types of shoppable ads to Prime Video's ad tier.",
       "publishedAt": "2024-05-07T22:55:31+00:00",
@@ -20,7 +44,7 @@
       "author": "Kevin Purdy",
       "description": "Reach your little Pis from nearly any browser\u2014and free up your RealVNC slots.",
       "publishedAt": "2024-05-07T21:30:21+00:00",
-      "title": "Raspberry Pis get a built-in remote access tool: Raspberry Pi Connect",
+      "title": "Raspberry Pis get a built-in remote-access tool: Raspberry Pi Connect",
       "url": "https://arstechnica.com/gadgets/2024/05/raspberry-pis-get-a-built-in-remote-access-tool-raspberry-pi-connect/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/pi_connect1-760x380.png"
     },
@@ -55,30 +79,6 @@
       "title": "Microsoft launches AI chatbot for spies",
       "url": "https://arstechnica.com/information-technology/2024/05/microsoft-launches-ai-chatbot-for-spies/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/secret_agent_computer_1-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Law curtails \"massive amounts of protected speech,\" TikTok and ByteDance allege.",
-      "publishedAt": "2024-05-07T19:08:15+00:00",
-      "title": "TikTok and its Chinese owner sue US government over \u201cforeign adversary\u201d law",
-      "url": "https://arstechnica.com/tech-policy/2024/05/tiktok-and-its-chinese-owner-sue-us-government-over-foreign-adversary-law/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/tiktok-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Getting evidence-based care may be like pulling teeth, researchers suggest.",
-      "publishedAt": "2024-05-07T17:56:03+00:00",
-      "title": "Do you need a dentist visit every 6 months? That filling? The data is weak",
-      "url": "https://arstechnica.com/science/2024/05/do-you-need-a-dentist-visit-every-6-months-that-filling-the-data-is-weak/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1661590766-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "FAA: Boeing apparently didn't confirm bonding \"where the wings join the fuselage.\"",
-      "publishedAt": "2024-05-07T17:39:40+00:00",
-      "title": "Boeing says workers skipped required tests on 787 but recorded work as completed",
-      "url": "https://arstechnica.com/tech-policy/2024/05/boeing-says-workers-skipped-required-tests-on-787-but-recorded-work-as-completed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/boeing-dreamliner-760x380.jpg"
     }
   ],
   "sortBy": "top",
