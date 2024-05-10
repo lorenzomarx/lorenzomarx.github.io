@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Hackers can exploit them to gain full administrative control of internal devices.",
+      "publishedAt": "2024-05-08T21:35:08+00:00",
+      "title": "Critical vulnerabilities in BIG-IP appliances leave big networks open to intrusion",
+      "url": "https://arstechnica.com/security/2024/05/critical-vulnerabilities-in-big-ip-appliances-leave-big-networks-open-to-intrusion/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Report claims new tracking starts May 13 with unclear consequences.",
+      "publishedAt": "2024-05-08T20:57:34+00:00",
+      "title": "Dell responds to return-to-office resistance with VPN, badge tracking",
+      "url": "https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1246865511-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Celebrating radio waves, magnetic tape heads, and smuggled 8-bit computers.",
+      "publishedAt": "2024-05-08T20:13:21+00:00",
+      "title": "40 years later, Kontrabant 2 for ZX Spectrum is rebroadcast on FM in Slovenia",
+      "url": "https://arstechnica.com/gaming/2024/05/1984s-kontrabant-2-for-zx-spectrum-is-broadcast-on-fm-radio-in-slovenia-today/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/kontrabant2_cover-1-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Quadrupeds being reviewed have automatic targeting systems but require human oversight to fire.",
+      "publishedAt": "2024-05-08T19:59:38+00:00",
+      "title": "Robot dogs armed with AI-targeting rifles undergo US Marines Special Ops evaluation",
+      "url": "https://arstechnica.com/gadgets/2024/05/robot-dogs-armed-with-ai-targeting-rifles-undergo-us-marines-special-ops-evaluation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/robot_dog_with_gun_header-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Major under-the-hood changes let AlphaFold handle protein-DNA complexes and more.",
+      "publishedAt": "2024-05-08T19:45:12+00:00",
+      "title": "DeepMind adds a diffusion engine to latest protein-folding software",
+      "url": "https://arstechnica.com/science/2024/05/deepmind-adds-a-diffusion-engine-to-latest-protein-folding-software/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-2.54.53\u202fPM-760x380.png"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Huawei's phone division has moved on, but laptops will suffer without Intel.",
+      "publishedAt": "2024-05-08T19:19:44+00:00",
+      "title": "Intel\u2019s and Qualcomm\u2019s Huawei export licenses get revoked",
+      "url": "https://arstechnica.com/gadgets/2024/05/intels-and-qualcomms-huawei-export-licenses-get-revoked/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/28-760x380.jpg"
+    },
+    {
+      "author": "Michael Frank",
+      "description": "More automakers will need to adopt C-V2X to see a real benefit, though.",
+      "publishedAt": "2024-05-08T18:59:22+00:00",
+      "title": "Bike brands start to adopt C-V2X to warn cyclists about cars",
+      "url": "https://arstechnica.com/cars/2024/05/the-vehicle-and-bicycle-safety-tech-that-can-see-through-walls/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Medium-10346-RightTurnAssistAlert-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Apple has tied RAM to storage capacity in older iPads; it's a first for the CPU.",
+      "publishedAt": "2024-05-08T17:32:42+00:00",
+      "title": "M4 iPad Pro CPU cores and RAM amount are tied to storage capacity",
+      "url": "https://arstechnica.com/gadgets/2024/05/m4-ipad-pro-cpu-cores-and-ram-amount-are-tied-to-storage-capacity/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Apple-iPad-Pro-camera-close-up-240507-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Putting applications into fast lanes would violate FCC's no-throttling rule.",
+      "publishedAt": "2024-05-08T17:25:50+00:00",
+      "title": "FCC explicitly prohibits fast lanes, closing possible net neutrality loophole",
+      "url": "https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/fast-lane-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "Prosecutors are combing subpoenaed materials for evidence Tesla knowingly misled.",
       "publishedAt": "2024-05-08T15:05:27+00:00",
       "title": "Tesla is under a federal wire fraud probe for misleading investors",
       "url": "https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/tesla-autopilot-flying-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Activision plans appeal, says it uses different network tech in its games.",
-      "publishedAt": "2024-05-08T14:49:34+00:00",
-      "title": "Court rules against Activision Blizzard in $23.4M patent dispute",
-      "url": "https://arstechnica.com/gaming/2024/05/jury-finds-activision-blizzard-liable-in-23-4m-patent-infringement-case/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/wowcrowd-760x380.png"
-    },
-    {
-      "author": "Georgina Gustin, Inside Climate News",
-      "description": "Millions of taxpayer dollars flow to livestock companies raising \"low carbon\" beef.",
-      "publishedAt": "2024-05-08T14:33:04+00:00",
-      "title": "No one has seen the data behind Tyson\u2019s \u201cclimate friendly beef\u201d claim",
-      "url": "https://insideclimatenews.org/news/08052024/usda-tyson-climate-friendly-beef-claim/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/feedlot-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Amazon is adding three types of shoppable ads to Prime Video's ad tier.",
-      "publishedAt": "2024-05-07T22:55:31+00:00",
-      "title": "Prime Video subs will soon see ads for Amazon products when they hit pause",
-      "url": "https://arstechnica.com/gadgets/2024/05/prime-video-subs-will-soon-see-ads-for-amazon-products-when-they-hit-pause/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/fallout-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "OpenAI is recruiting researchers to test its new deepfake detector.",
-      "publishedAt": "2024-05-07T22:19:08+00:00",
-      "title": "OpenAI\u2019s flawed plan to flag deepfakes ahead of 2024 elections",
-      "url": "https://arstechnica.com/?p=2022700",
-      "urlToImage": null
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Reach your little Pis from nearly any browser\u2014and free up your RealVNC slots.",
-      "publishedAt": "2024-05-07T21:30:21+00:00",
-      "title": "Raspberry Pis get a built-in remote-access tool: Raspberry Pi Connect",
-      "url": "https://arstechnica.com/gadgets/2024/05/raspberry-pis-get-a-built-in-remote-access-tool-raspberry-pi-connect/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/pi_connect1-760x380.png"
-    },
-    {
-      "author": null,
-      "description": "A large previously contained nearly as much caffeine as the FDA's daily safe limit.",
-      "publishedAt": "2024-05-07T21:23:38+00:00",
-      "title": "Amid two wrongful death lawsuits, Panera to pull the plug on \u201ccharged\u201d drinks",
-      "url": "https://arstechnica.com/?p=2022740",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "And the new Apple Pencil Pro does some cool things, too.",
-      "publishedAt": "2024-05-07T20:06:54+00:00",
-      "title": "Hands-on with the new iPad Pros and Airs: A surprisingly refreshing refresh",
-      "url": "https://arstechnica.com/?p=2022530",
-      "urlToImage": null
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "The US places a $10 million bounty for the arrest of Dmitry Yuryevich Khoroshev.",
-      "publishedAt": "2024-05-07T19:34:00+00:00",
-      "title": "Ransomware mastermind LockBitSupp reveled in his anonymity\u2014now he\u2019s been ID\u2019d",
-      "url": "https://arstechnica.com/security/2024/05/the-mastermind-of-the-prolific-ransomware-group-lockbit-has-finally-been-unmasked/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/lockbitsupp-760x380.png"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Air-gapping GPT-4 model on secure network won't prevent it from potentially making things up.",
-      "publishedAt": "2024-05-07T19:22:10+00:00",
-      "title": "Microsoft launches AI chatbot for spies",
-      "url": "https://arstechnica.com/information-technology/2024/05/microsoft-launches-ai-chatbot-for-spies/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/secret_agent_computer_1-760x380.jpg"
     }
   ],
   "sortBy": "top",
