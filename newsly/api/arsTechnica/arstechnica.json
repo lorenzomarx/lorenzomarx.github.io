@@ -1,12 +1,36 @@
 {
   "articles": [
     {
-      "author": "Nate Anderson",
+      "author": "Daniel Thomas, Financial Times",
+      "description": "Hydraulic press destroying \"symbols of creativity\" has folks hopping mad.",
+      "publishedAt": "2024-05-09T13:15:36+00:00",
+      "title": "A crushing backlash to Apple\u2019s new iPad ad",
+      "url": "https://www.ft.com/content/1f7314d7-577c-4263-a69f-b11757d85b4d",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/apple-ad-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "\"There's no guarantee that changing the trajectory is the answer,\" says the Artemis II pilot.",
+      "publishedAt": "2024-05-09T12:46:17+00:00",
+      "title": "NASA confirms \u201cindependent review\u201d of Orion heat shield issue",
+      "url": "https://arstechnica.com/space/2024/05/nasa-confirms-independent-review-of-orion-heat-shield-issue/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/52557138957_eac09f2f5d_k-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Section 230 immunity isn\u2019t just for Big Tech companies, lawsuit says.",
+      "publishedAt": "2024-05-09T11:00:34+00:00",
+      "title": "Professor sues Meta to allow release of feed-killing tool for Facebook",
+      "url": "https://arstechnica.com/tech-policy/2024/05/professor-sues-meta-to-allow-release-of-feed-killing-tool-for-facebook/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1163330761-760x380.jpg"
+    },
+    {
+      "author": null,
       "description": "Logic now goes to 11.",
       "publishedAt": "2024-05-08T23:22:22+00:00",
       "title": "Logic Pro gets some serious AI\u2014and a version bump\u2014for Mac and iPad",
-      "url": "https://arstechnica.com/gadgets/2024/05/whats-coming-in-major-new-versions-of-logic-pro-for-mac-and-ipad/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/chord-track-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2023010",
+      "urlToImage": null
     },
     {
       "author": "Dan Goodin",
@@ -36,7 +60,7 @@
       "author": "Benj Edwards",
       "description": "Quadrupeds being reviewed have automatic targeting systems but require human oversight to fire.",
       "publishedAt": "2024-05-08T19:59:38+00:00",
-      "title": "Robot dogs armed with AI-targeting rifles undergo US Marines Special Ops evaluation",
+      "title": "Robot dogs armed with AI-aimed rifles undergo US Marines Special Ops evaluation",
       "url": "https://arstechnica.com/gadgets/2024/05/robot-dogs-armed-with-ai-targeting-rifles-undergo-us-marines-special-ops-evaluation/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/robot_dog_with_gun_header-760x380.jpg"
     },
@@ -55,30 +79,6 @@
       "title": "Intel\u2019s and Qualcomm\u2019s Huawei export licenses get revoked",
       "url": "https://arstechnica.com/?p=2022821",
       "urlToImage": null
-    },
-    {
-      "author": "Michael Frank",
-      "description": "More automakers will need to adopt C-V2X to see a real benefit, though.",
-      "publishedAt": "2024-05-08T18:59:22+00:00",
-      "title": "Bike brands start to adopt C-V2X to warn cyclists about cars",
-      "url": "https://arstechnica.com/cars/2024/05/the-vehicle-and-bicycle-safety-tech-that-can-see-through-walls/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Medium-10346-RightTurnAssistAlert-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple has tied RAM to storage capacity in older iPads; it's a first for the CPU.",
-      "publishedAt": "2024-05-08T17:32:42+00:00",
-      "title": "M4 iPad Pro CPU cores and RAM amount are tied to storage capacity",
-      "url": "https://arstechnica.com/gadgets/2024/05/m4-ipad-pro-cpu-cores-and-ram-amount-are-tied-to-storage-capacity/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Apple-iPad-Pro-camera-close-up-240507-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Putting applications into fast lanes would violate FCC's no-throttling rule.",
-      "publishedAt": "2024-05-08T17:25:50+00:00",
-      "title": "FCC explicitly prohibits fast lanes, closing possible net neutrality loophole",
-      "url": "https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/fast-lane-760x380.jpg"
     }
   ],
   "sortBy": "top",
