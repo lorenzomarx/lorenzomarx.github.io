@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Michelle Nichols",
+      "description": "The United Nations General Assembly on Friday overwhelmingly backed a Palestinian bid to become a full U.N. member by recognizing it as qualified to join and recommending the U.N. Security Council \"reconsider the matter favorably.\"",
+      "publishedAt": "2024-05-10T16:32:31Z",
+      "title": "UN General Assembly backs Palestinian bid for membership",
+      "url": "https://www.reuters.com/world/middle-east/un-general-assembly-set-back-palestinian-bid-membership-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4WWT3IPAL5NNFHNITKX3LD4FYY.jpg?auth=e5fb343c070a31b6891f8bf8e48289d019fa6ed57a379462c450b7f65818559f&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "The United Nations warned on Friday that aid for the Gaza Strip could grind to a halt in days, as Israeli troops took their ground war with Palestinian fighters into the crowded city of Rafah, a key aid corridor for the famine-threatened strip.",
+      "publishedAt": "2024-05-10T13:29:00Z",
+      "title": "UN sounds alarm over aid as Israel pushes assault into Rafah",
+      "url": "https://www.reuters.com/world/middle-east/israeli-tanks-encircle-eastern-half-rafah-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/T43PWIA5N5OTJOSOCMTD4PUL4Y.jpg?auth=0b633c1854851d4439e41d361cdffb3a8bb170fca88762c98a061ebc193e1df4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Sergiy Karazy, Tom Balmforth, Yuliia Dysa",
+      "description": "Russian forces launched an armoured ground attack on Friday near Ukraine's second city of Kharkiv in the northeast of the country and made small inroads, opening a new front in a war that has long been waged in the east and south.",
+      "publishedAt": "2024-05-10T13:59:03Z",
+      "title": "Russian forces attack Ukraine's Kharkiv region, opening new front",
+      "url": "https://www.reuters.com/world/europe/ukraine-sends-reinforcements-after-russian-forces-attack-kharkiv-region-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/W7POQZFTMJM7HBB2WTSG5ZRUAQ.jpg?auth=5cb43d57b2cb6e71757f3a2eda954bd1bd24c255bc94f1cd7d9aebdff030ce62&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Dave Graham",
       "description": "An upcoming Ukraine peace summit, ostensibly the most ambitious bid in years by neutral Switzerland to mediate a major conflict, is instead showing how Swiss economic and security interests increasingly align with Western Europe over Russia.",
       "publishedAt": "2024-05-10T07:12:13Z",
@@ -9,12 +33,28 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/2S4CD3ZY4FI5XJQQDKMIIY3QW4.jpg?auth=c6d44422be81d0f765a50a43b6cc0511a43a29332f758b3d915e4fc542a6b552&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Jarrett Renshaw, Nidal Al-Mughrabi, Mohammad Salem",
-      "description": "U.S. President Joe Biden for the first time publicly vowed to withhold weapons from Israel if its forces make a major invasion of Rafah in southern Gaza while negotiations in Cairo on a ceasefire plan for the enclave were due to continue on Thursday.",
-      "publishedAt": "2024-05-09T02:08:33Z",
-      "title": "US warns Israel that Rafah invasion will jeopardise weapons supply as assault continues",
-      "url": "https://www.reuters.com/world/middle-east/us-warns-israel-that-rafah-invasion-will-jeopardise-weapons-supply-assault-2024-05-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3SXUVRKSKRLHNEQW2RJUG6NUYQ.jpg?auth=7841abdbf35fe571c416edbe603f1a09238142d92e917c16548fa59311ee7279&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Russian President Vladimir Putin proposed the reappointment on Friday of Prime Minister Mikhail Mishustin, a technocrat who has helped him through the war in Ukraine and the economic challenges wreaked by Western sanctions over Moscow's invasion.",
+      "publishedAt": "2024-05-10T14:06:31Z",
+      "title": "Putin, seeking continuity, proposes Mishustin remain Russia's prime minister",
+      "url": "https://www.reuters.com/world/europe/russias-putin-proposes-mishustin-prime-minister-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/3ZYGDATZCNPAVMQZBOCMYDQW5M.jpg?auth=a5c58e9b3e4af5e2269cf4f69f60da39731384b04356d13857a7cfc264dbc899&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Luc Cohen, Jody Godoy",
+      "description": "Donald Trump returned to court on Friday after porn star Stormy Daniels' lurid testimony about her alleged sexual encounter with him, as prosecutors prepared to call their final witnesses in the first-ever criminal trial of a sitting or former U.S. president.",
+      "publishedAt": "2024-05-10T13:40:05Z",
+      "title": "Trump arrives at hush money trial as prosecutors prepare for final witnesses",
+      "url": "https://www.reuters.com/world/us/trump-prosecutors-prepare-call-final-witnesses-hush-money-trial-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/P5NRNCTGAFPPRHZTZJ3SMDEA2E.jpg?auth=8b5317d12397e2b116cda2562a20f9e7082ed3ae6f36fbe0a707e6e4efc52f88&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Fayaz Bukhari",
+      "description": "Opposition leaders in India's troubled Kashmir valley have accused Prime Minister Narendra Modi's administration of denying or cancelling permissions to hold campaign events, to help his party's \"proxies\".",
+      "publishedAt": "2024-05-10T13:07:26Z",
+      "title": "Opposition leaders in India's Kashmir accuse government of sabotaging their campaigns",
+      "url": "https://www.reuters.com/world/india/opposition-leaders-indias-kashmir-accuse-government-sabotaging-their-campaigns-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KZZJOGRUPZKC3BBVTFQWZVCQJM.jpg?auth=2b226355874f26591b684c2f0505acc9088f81769b27b6c527ab6f8c614e6d06&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -25,60 +65,20 @@
       "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=190"
     },
     {
-      "author": "Michelle Nichols",
-      "description": "The United Nations General Assembly on Friday is set to back a Palestinian bid to become a full U.N. member by recognizing it as qualified to join and sending the application back to the U.N. Security Council to \"reconsider the matter favorably.\"",
-      "publishedAt": "2024-05-10T04:18:43Z",
-      "title": "UN General Assembly set to back Palestinian bid for membership",
-      "url": "https://www.reuters.com/world/middle-east/un-general-assembly-set-back-palestinian-bid-membership-2024-05-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/WAYKJ7JXOJLGLHTTAYFWSNRQSY.jpg?auth=5cfb043478a73ec5cf41ddae3bfb8e609ce9c858c18a5eb474087fc267132938&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Sarah Marsh, Kate Abnett",
-      "description": "The black-clad attackers beat up Matthias Ecke so badly as he put up posters in Dresden that he needed surgery. In Nordhorn, a man threw eggs at a lawmaker then punched him in the face. In Berlin, a pensioner hit a senator on the head with a bag.",
-      "publishedAt": "2024-05-10T05:02:58Z",
-      "title": "Why German politicians are facing growing violence",
-      "url": "https://www.reuters.com/world/europe/why-german-politicians-are-facing-growing-violence-2024-05-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/WIGZJWGSJBLPTMOMB4UDZ4465E.jpg?auth=f06a3f58a698b4757a69154ed944362417c1cd8c38f428379cf3a6f75ca9d342&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
-      "description": "India's top court gave temporary bail to Delhi Chief Minister Arvind Kejriwal in a graft case on Friday, allowing him to campaign in the ongoing general elections, boosting the opposition alliance of which he is a key leader.",
-      "publishedAt": "2024-05-10T09:48:44Z",
-      "title": "India top court grants temporary bail to opposition leader Kejriwal to campaign in elections",
-      "url": "https://www.reuters.com/world/india/india-top-court-grants-temporary-bail-opposition-leader-kejriwal-campaign-2024-05-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FQGNYDIZDNM27BRD527NKFK66M.jpg?auth=b957741933c7921bd8b6cfa3d719e45aad75f86b2c9237331f12db190ea276b7&height=1005&width=1920&quality=80&smart=true"
+      "description": "At least 60 people were injured on Friday when a seven-car passenger train collided with a locomotive and an empty train car in Buenos Aires, local authorities said, without giving details of how serious the injuries were.",
+      "publishedAt": "2024-05-10T16:59:26Z",
+      "title": "Sixty injured in Buenos Aires train collision",
+      "url": "https://www.reuters.com/world/americas/sixty-injured-buenos-aires-train-collision-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SE2TIQTOGVMBLNTSPGSF44PWTE.jpg?auth=13828d26f313edf4b2a7be4fdbcb56f8a6ee9e2d4d8ebda1840c7ed81d4550c2&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "The main United Nations aid agency for Palestinians closed its headquarters in East Jerusalem after local Israeli residents set fire to areas at the edge of the sprawling compound, the agency said.",
-      "publishedAt": "2024-05-10T08:03:51Z",
-      "title": "Israeli demonstrators torch part of UN compound in Jerusalem",
-      "url": "https://www.reuters.com/world/middle-east/israeli-demonstrators-torch-part-un-compound-jerusalem-2024-05-10/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=190"
-    },
-    {
-      "author": "Ali Kucukgocmen",
-      "description": "Turkey has opened the ancient Chora church, one of Istanbul's most celebrated Byzantine buildings, to Muslim worshippers after it was used as a museum for more than 70 years, making it the second such major conversion under President Tayyip Erdogan.",
-      "publishedAt": "2024-05-10T11:03:57Z",
-      "title": "Turkey reopens ancient church with prized mosaics to Muslim worship",
-      "url": "https://www.reuters.com/world/middle-east/turkey-reopens-ancient-church-with-prized-mosaics-muslim-worship-2024-05-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GTMQZEYPZZLV7DTHOEWR7OEOAA.jpg?auth=526e87561a2dd255b56e311989a41c45ec46da5fde28198b86531ffb3692287c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Ukraine destroyed all 10 drones as Russia launched an overnight attack, but two people were injured and residential buildings in the Kharkiv region were consumed by fire as a result of the attack, Ukrainian officials said on Friday.",
-      "publishedAt": "2024-05-10T06:15:09Z",
-      "title": "Two injured, houses burnt in Russia's attack on Kharkiv, Ukraine says",
-      "url": "https://www.reuters.com/world/europe/ukraines-air-force-says-it-destroyed-10-russia-launched-drones-2024-05-10/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=190"
-    },
-    {
-      "author": "Emma Pinedo",
-      "description": "Members of three South American indigenous communities have asked Spain and UNESCO to declare a Spanish galleon that sank 300 years ago with a bountiful cargo as \"common and shared heritage\" from which they too should benefit.",
-      "publishedAt": "2024-05-10T10:02:14Z",
-      "title": "Indigenous groups claim stake in sunken Spanish ship, cargo off Colombia",
-      "url": "https://www.reuters.com/world/americas/indigenous-groups-claim-stake-sunken-spanish-ship-cargo-off-colombia-2024-05-10/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=190"
+      "author": "Johan Ahlander, Anna Ringstrom",
+      "description": "Israel's Eden Golan has become one of the favourites among bookmakers to win this year's Eurovision Song Contest after she made it through the semi-finals on Thursday despite boos during her performance and protests outside the venue in Sweden.",
+      "publishedAt": "2024-05-10T14:34:29Z",
+      "title": "Israel emerges among top favourites to win Eurovision",
+      "url": "https://www.reuters.com/world/israel-emerges-among-top-favourites-win-eurovision-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/75VMNQTXVFK5HMQHIUC7DL5BWY.jpg?auth=17dae06a423a6484d8a3b5a12355dccc6f5e5b08b2cb84bb212e066e3b9517c6&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
