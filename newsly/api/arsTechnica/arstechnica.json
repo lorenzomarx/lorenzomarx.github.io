@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "The therapy treats a rare type of deafness, but experts hope it's a \"jumping point.\"",
+      "publishedAt": "2024-05-10T22:08:27+00:00",
+      "title": "More children gain hearing as gene therapy for profound deafness advances",
+      "url": "https://arstechnica.com/health/2024/05/more-children-gain-hearing-as-gene-therapy-for-profound-deafness-advances/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2151566652-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Judge rules copyright law governs public data scraping, not X\u2019s terms.",
+      "publishedAt": "2024-05-10T21:20:51+00:00",
+      "title": "Elon Musk\u2019s X can\u2019t invent its own copyright law, judge says",
+      "url": "https://arstechnica.com/tech-policy/2024/05/elon-musks-x-tried-and-failed-to-make-its-own-copyright-system-judge-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2151277350-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "A \"sonication\" time between 1 and 3 minutes is ideal to get the perfect cold brew.",
+      "publishedAt": "2024-05-10T19:31:50+00:00",
+      "title": "How you can make cold-brew coffee in under 3 minutes using ultrasound",
+      "url": "https://arstechnica.com/science/2024/05/how-you-can-make-cold-brew-coffee-in-under-3-minutes-using-ultrasound/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/coffee3CROP-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "States obtain settlement, but it's unclear whether consumers will get refunds.",
+      "publishedAt": "2024-05-10T18:36:48+00:00",
+      "title": "Big Three carriers pay $10M to settle claims of false \u201cunlimited\u201d advertising",
+      "url": "https://arstechnica.com/tech-policy/2024/05/big-three-carriers-pay-10m-to-settle-claims-of-false-unlimited-advertising/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/Verizon-Unlimited-1280x720-760x380.jpg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "Maximum Diffusion Reinforcement Learning focuses training on end states, not process.",
+      "publishedAt": "2024-05-10T18:22:45+00:00",
+      "title": "Exploration-focused training lets robotics AI immediately handle new tasks",
+      "url": "https://arstechnica.com/science/2024/05/exploration-focused-training-lets-robotics-ai-immediately-handle-new-tasks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1423782972-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "The search.chatgpt.com URL is being set up, and Google employees are being poached.",
+      "publishedAt": "2024-05-10T17:57:21+00:00",
+      "title": "OpenAI revs up plans for web search, but denies report of an imminent launch",
+      "url": "https://arstechnica.com/gadgets/2024/05/report-chatgpt-search-engine-could-be-announced-as-early-as-next-week/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "The Hunt for Gollum fan film racked up more than 13 million views on YouTube.",
+      "publishedAt": "2024-05-10T17:42:49+00:00",
+      "title": "Studio: Takedown notice for 15-year-old fan-made Hunt for Gollum was a mistake",
+      "url": "https://arstechnica.com/?p=2023504",
+      "urlToImage": null
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Exploit code for critical \"use-after-free\" bug is circulating in the wild.",
+      "publishedAt": "2024-05-10T17:02:14+00:00",
+      "title": "Google patches its fifth zero-day vulnerability of the year in Chrome",
+      "url": "https://arstechnica.com/security/2024/05/google-patches-its-fifth-zero-day-vulnerability-of-the-year-in-chrome/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/Chrome-Getty-760x380.jpg"
+    },
+    {
       "author": "Kyle Orland",
       "description": "Survival is hard in the untamed wilderness, but does it have to be this hard?",
       "publishedAt": "2024-05-10T16:31:42+00:00",
@@ -9,76 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/manorlords4-760x380.jpg"
     },
     {
-      "author": "Diana Gitig",
+      "author": null,
       "description": "Targets a different serotonin receptor from other popular hallucinogens.",
       "publishedAt": "2024-05-10T16:05:22+00:00",
       "title": "Chemical tweaks to a toad hallucinogen turns it into a potential drug",
-      "url": "https://arstechnica.com/science/2024/05/variant-of-a-toad-based-psychedelic-can-act-as-an-antidepressant/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1153296830-760x380.jpg"
-    },
-    {
-      "author": "Mari Novik, Arjun Neil Alim, Kana Inagaki, and Peter Campbell, FT",
-      "description": "Originally regarded as stopgap solutions, hybrids are in it for the long haul.",
-      "publishedAt": "2024-05-10T15:57:21+00:00",
-      "title": "Automakers hedge their bets with plug-in hybrids as EV sales slow",
-      "url": "https://arstechnica.com/cars/2024/05/automakers-hedge-their-bets-with-plug-in-hybrids-as-ev-sales-slow/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/42___2018_Honda_Clarity_Plug_In_Hybrid-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "US Cellular talked with Verizon, but deal with T-Mobile appears more likely.",
-      "publishedAt": "2024-05-10T15:46:30+00:00",
-      "title": "US Cellular is for sale, reportedly could be \u201ccarved up\u201d by major carriers",
-      "url": "https://arstechnica.com/tech-policy/2024/05/report-t-mobile-may-buy-part-of-us-cellular-in-latest-wireless-consolidation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/t-mobile-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "An ad that isn\u2019t about generative AI but somehow manages to be about AI anyway.",
-      "publishedAt": "2024-05-10T15:31:12+00:00",
-      "title": "Apple apologizes for ad that crushes the sum total of human artistic endeavor",
-      "url": "https://arstechnica.com/gadgets/2024/05/apple-apologizes-for-ad-that-crushes-the-sum-total-of-human-artistic-endeavor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/IMG_0011-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "This makes four open federal safety investigations for the Fisker Ocean.",
-      "publishedAt": "2024-05-10T14:18:38+00:00",
-      "title": "Phantom braking lands troubled EV-maker Fisker in feds\u2019 crosshairs",
-      "url": "https://arstechnica.com/cars/2024/05/troubled-ev-maker-fisker-faces-new-federal-probe-for-phantom-braking/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2147929585-760x380.jpg"
-    },
-    {
-      "author": "Nala Rogers, Knowable Magazine",
-      "description": "Some insects have transformed wild viruses into tiny biological weapons.",
-      "publishedAt": "2024-05-10T13:52:20+00:00",
-      "title": "The wasps that tamed viruses",
-      "url": "https://knowablemagazine.org/content/article/living-world/2024/parasitoid-wasps-domesticate-viruses",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/tiny-wasp-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Starlink's estimated free cash flow this year is about $600 million.",
-      "publishedAt": "2024-05-10T13:45:45+00:00",
-      "title": "Analyst on Starlink\u2019s rapid rise: \u201cNothing short of mind-blowing\u201d",
-      "url": "https://arstechnica.com/space/2024/05/just-5-years-after-its-first-launch-the-starlink-constellation-is-profitable/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/starlink-satellites-760x380.jpg"
-    },
-    {
-      "author": "Paul Sutter",
-      "description": "Someday, an NEO will pose a threat to us. Thankfully, we have options.",
-      "publishedAt": "2024-05-10T11:00:24+00:00",
-      "title": "Outdoing the dinosaurs: What we can do if we spot a threatening asteroid",
-      "url": "https://arstechnica.com/science/2024/05/outdoing-the-dinosaurs-what-we-could-do-if-we-spot-a-threatening-asteroid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-160936205-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The planned increase in flight cadence for our mothership Eve is a game changer.\"",
-      "publishedAt": "2024-05-10T11:00:20+00:00",
-      "title": "Rocket Report: German launch from Australia; Neutron delayed until 2025",
-      "url": "https://arstechnica.com/space/2024/05/rocket-report-german-launch-from-australia-neutron-delayed-until-2025/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/1714721264528-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2023435",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
