@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "So far disruptions from the geomagnetic storm appear to be manageable.",
+      "publishedAt": "2024-05-11T13:44:43+00:00",
+      "title": "NOAA says \u2018extreme\u2019 Solar storm will persist through the weekend",
+      "url": "https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image0-760x380.jpeg"
+    },
+    {
+      "author": "Indranil Banik and Harry Desmond, The Conversation",
+      "description": "There\u2019s bad news from the Cassini spacecraft and other recent\u00a0tests.",
+      "publishedAt": "2024-05-11T11:25:42+00:00",
+      "title": "Is dark matter\u2019s main rival theory dead?",
+      "url": "https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/M74_Galaxy_JWST_MIRI-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Ask a necromancer to lick a shield. Type out \"HIT,\" \"YELL,\" \"ZAP.\" It's funny.",
+      "publishedAt": "2024-05-11T11:00:24+00:00",
+      "title": "Cryptmaster is a dark, ridiculous RPG test of your typing and guessing skills",
+      "url": "https://arstechnica.com/gaming/2024/05/cryptmaster-is-a-dark-goofy-dungeon-crawler-powered-by-word-games-and-typing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/CM_SS_1-760x380.jpg"
+    },
+    {
       "author": "Elizabeth Rayne",
       "description": "The Moon's former surface sank to the depths, until volcanism brought it back.",
       "publishedAt": "2024-05-11T10:00:15+00:00",
@@ -55,30 +79,6 @@
       "title": "Exploration-focused training lets robotics AI immediately handle new tasks",
       "url": "https://arstechnica.com/science/2024/05/exploration-focused-training-lets-robotics-ai-immediately-handle-new-tasks/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1423782972-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "The search.chatgpt.com URL is being set up, and Google employees are being poached.",
-      "publishedAt": "2024-05-10T17:57:21+00:00",
-      "title": "OpenAI revs up plans for web search, but denies report of an imminent launch",
-      "url": "https://arstechnica.com/gadgets/2024/05/report-chatgpt-search-engine-could-be-announced-as-early-as-next-week/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "The Hunt for Gollum fan film racked up more than 13 million views on YouTube.",
-      "publishedAt": "2024-05-10T17:42:49+00:00",
-      "title": "Studio: Takedown notice for 15-year-old fan-made Hunt for Gollum was a mistake",
-      "url": "https://arstechnica.com/?p=2023504",
-      "urlToImage": null
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Exploit code for critical \"use-after-free\" bug is circulating in the wild.",
-      "publishedAt": "2024-05-10T17:02:14+00:00",
-      "title": "Google patches its fifth zero-day vulnerability of the year in Chrome",
-      "url": "https://arstechnica.com/security/2024/05/google-patches-its-fifth-zero-day-vulnerability-of-the-year-in-chrome/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/Chrome-Getty-760x380.jpg"
     }
   ],
   "sortBy": "top",
