@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Elizabeth Rayne",
+      "description": "Star death and birth both contribute to driving material out of a galaxy.",
+      "publishedAt": "2024-05-12T10:00:51+00:00",
+      "title": "Monster galactic outflow powered by exploding stars",
+      "url": "https://arstechnica.com/science/2024/05/monster-galactic-outflow-powered-by-exploding-stars/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image-2-760x380.png"
+    },
+    {
       "author": "Eric Berger",
       "description": "So far disruptions from the geomagnetic storm appear to be manageable.",
       "publishedAt": "2024-05-11T13:44:43+00:00",
@@ -25,12 +33,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/CM_SS_1-760x380.jpg"
     },
     {
-      "author": "Elizabeth Rayne",
+      "author": null,
       "description": "The Moon's former surface sank to the depths, until volcanism brought it back.",
       "publishedAt": "2024-05-11T10:00:15+00:00",
       "title": "How the Moon got a makeover",
-      "url": "https://arstechnica.com/science/2024/05/how-the-moon-got-a-makeover/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image-1-760x380.png"
+      "url": "https://arstechnica.com/?p=2023553",
+      "urlToImage": null
     },
     {
       "author": "Stephen Clark",
@@ -71,14 +79,6 @@
       "title": "Big Three carriers pay $10M to settle claims of false \u201cunlimited\u201d advertising",
       "url": "https://arstechnica.com/tech-policy/2024/05/big-three-carriers-pay-10m-to-settle-claims-of-false-unlimited-advertising/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/Verizon-Unlimited-1280x720-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Maximum Diffusion Reinforcement Learning focuses training on end states, not process.",
-      "publishedAt": "2024-05-10T18:22:45+00:00",
-      "title": "Exploration-focused training lets robotics AI immediately handle new tasks",
-      "url": "https://arstechnica.com/?p=2023543",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
