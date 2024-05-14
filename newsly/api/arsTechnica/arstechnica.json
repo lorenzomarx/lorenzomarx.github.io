@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "There was also mercury and arsenic but none of the toxins likely caused composer's death.",
+      "publishedAt": "2024-05-13T16:16:03+00:00",
+      "title": "Beethoven likely didn\u2019t die from lead poisoning, new DNA analysis reveals",
+      "url": "https://arstechnica.com/science/2024/05/beethoven-likely-didnt-die-from-lead-poisoning-new-dna-analysis-reveals/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/beethoven-portraitCROP-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Early streamers agreed not to \"belittle the gameplay\" or \"make disparaging... comments.\"",
+      "publishedAt": "2024-05-13T15:59:28+00:00",
+      "title": "Game dev says contract barring \u201csubjective negative reviews\u201d was a mistake",
+      "url": "https://arstechnica.com/gaming/2024/05/marvel-rivals-dev-apologizes-for-contract-barring-subjective-negative-reviews/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/mr-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Both the US and EU are deeply concerned about heavily subsidized Chinese OEMs.",
+      "publishedAt": "2024-05-13T15:45:23+00:00",
+      "title": "Biden set to levy 100% tariffs on Chinese EVs this week",
+      "url": "https://arstechnica.com/cars/2024/05/biden-set-to-levy-100-tariffs-on-chinese-evs-this-week/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2151144516-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "It's still $500, with a better screen, longer support, and the same great camera.",
+      "publishedAt": "2024-05-13T15:32:52+00:00",
+      "title": "Pixel 8a review\u2014Google\u2019s budget champion gets even better",
+      "url": "https://arstechnica.com/gadgets/2024/05/pixel-8a-review-googles-budget-champion-gets-even-better/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/41-760x380.jpg"
+    },
+    {
+      "author": "Javier Espinoza, Financial Times",
+      "description": "Unbundling Teams from Office has apparently failed to impress EU regulators.",
+      "publishedAt": "2024-05-13T14:03:41+00:00",
+      "title": "Report: Microsoft to face antitrust case over Teams",
+      "url": "https://www.ft.com/content/ce8a6602-dece-4313-b1a5-4e6f3354f99d",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/teams-760x380.png"
+    },
+    {
       "author": "Alex Goy",
       "description": "It features modern tech, a better interior, and an extra 150 hp on the old model.",
       "publishedAt": "2024-05-12T23:01:55+00:00",
@@ -25,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/IMG_1365-760x380.jpg"
     },
     {
-      "author": "Elizabeth Rayne",
+      "author": null,
       "description": "Star death and birth both contribute to driving material out of a galaxy.",
       "publishedAt": "2024-05-12T10:00:51+00:00",
       "title": "Monster galactic outflow powered by exploding stars",
-      "url": "https://arstechnica.com/science/2024/05/monster-galactic-outflow-powered-by-exploding-stars/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image-2-760x380.png"
+      "url": "https://arstechnica.com/?p=2023554",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -39,46 +79,6 @@
       "title": "NOAA says \u2018extreme\u2019 Solar storm will persist through the weekend",
       "url": "https://arstechnica.com/?p=2023700",
       "urlToImage": null
-    },
-    {
-      "author": "Indranil Banik and Harry Desmond, The Conversation",
-      "description": "There\u2019s bad news from the Cassini spacecraft and other recent\u00a0tests.",
-      "publishedAt": "2024-05-11T11:25:42+00:00",
-      "title": "Is dark matter\u2019s main rival theory dead?",
-      "url": "https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/M74_Galaxy_JWST_MIRI-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Ask a necromancer to lick a shield. Type out \"HIT,\" \"YELL,\" \"ZAP.\" It's funny.",
-      "publishedAt": "2024-05-11T11:00:24+00:00",
-      "title": "Cryptmaster is a dark, ridiculous RPG test of your typing and guessing skills",
-      "url": "https://arstechnica.com/gaming/2024/05/cryptmaster-is-a-dark-goofy-dungeon-crawler-powered-by-word-games-and-typing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/CM_SS_1-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "The Moon's former surface sank to the depths, until volcanism brought it back.",
-      "publishedAt": "2024-05-11T10:00:15+00:00",
-      "title": "How the Moon got a makeover",
-      "url": "https://arstechnica.com/?p=2023553",
-      "urlToImage": null
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"To reduce mission complexity, this new concept is doing one launch.\"",
-      "publishedAt": "2024-05-11T00:31:54+00:00",
-      "title": "NASA wants a cheaper Mars Sample Return\u2014Boeing proposes most expensive rocket",
-      "url": "https://arstechnica.com/space/2024/05/nasa-wants-a-cheaper-mars-sample-return-boeing-proposes-most-expensive-rocket/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/NHQ202211160200large-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The therapy treats a rare type of deafness, but experts hope it's a \"jumping point.\"",
-      "publishedAt": "2024-05-10T22:08:27+00:00",
-      "title": "More children gain hearing as gene therapy for profound deafness advances",
-      "url": "https://arstechnica.com/health/2024/05/more-children-gain-hearing-as-gene-therapy-for-profound-deafness-advances/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2151566652-760x380.jpeg"
     }
   ],
   "sortBy": "top",
