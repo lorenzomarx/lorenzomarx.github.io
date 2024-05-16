@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards and Jose Zagal",
+      "description": "How Nintendo took a gamble on a new kind of gaming experience in the '90s.",
+      "publishedAt": "2024-05-15T11:00:07+00:00",
+      "title": "Virtual Boy: The bizarre rise and quick fall of Nintendo\u2019s enigmatic red console",
+      "url": "https://arstechnica.com/gaming/2024/05/virtual-boy-the-bizarre-rise-and-quick-fall-of-nintendos-enigmatic-red-console/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/virtualboy_swing_twitter-760x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "CEO Altman: \"OpenAI would not be what it is without him.\"",
       "publishedAt": "2024-05-15T03:05:43+00:00",
@@ -57,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/android-spying-760x380.jpg"
     },
     {
-      "author": "Stephen Clark",
+      "author": null,
       "description": "The first launch of astronauts aboard Boeing's Starliner capsule is now set for May 21.",
       "publishedAt": "2024-05-14T19:47:22+00:00",
       "title": "Boeing is troubleshooting a small helium leak on the Starliner spacecraft",
-      "url": "https://arstechnica.com/space/2024/05/boeing-is-troubleshooting-a-small-helium-leak-on-the-starliner-spacecraft/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/53698818665_fc082699b4_k-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2024298",
+      "urlToImage": null
     },
     {
       "author": "Jon Brodkin",
@@ -71,14 +79,6 @@
       "title": "AT&T paid bribes to get two major pieces of legislation passed, US gov\u2019t says",
       "url": "https://arstechnica.com/tech-policy/2024/05/att-paid-bribes-to-get-two-major-pieces-of-legislation-passed-us-govt-says/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "AI model updates galore at Google I/O, including 2M context window, Imagen 3, Veo, and more.",
-      "publishedAt": "2024-05-14T19:11:20+00:00",
-      "title": "Google strikes back at OpenAI with \u201cProject Astra\u201d AI agent prototype",
-      "url": "https://arstechnica.com/information-technology/2024/05/google-strikes-back-at-openai-with-project-astra-ai-agent-prototype/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/project_astra_3-760x380.jpg"
     }
   ],
   "sortBy": "top",
