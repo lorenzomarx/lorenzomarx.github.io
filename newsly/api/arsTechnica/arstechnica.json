@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "They don't want to sound Canadian, but like a hockey player\u2014a \"linguistic persona.\"",
+      "publishedAt": "2024-05-16T17:32:05+00:00",
+      "title": "How do you pronounce \u201chockey\u201d? US players say it with \u201cfake Canadian\u201d accent.",
+      "url": "https://arstechnica.com/science/2024/05/why-us-hockey-players-often-speak-with-fake-canadian-accents/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/hockey1-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Bumble admits \"mistake\" after critics explained why celibacy is a valid choice.",
+      "publishedAt": "2024-05-16T17:12:08+00:00",
+      "title": "Bumble apologizes for ads shaming women into sex",
+      "url": "https://arstechnica.com/tech-policy/2024/05/bumble-apologizes-for-ads-shaming-women-into-sex/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1020485966-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "App comes out in June, but you'll need a PC or dock licensed to use it.",
+      "publishedAt": "2024-05-16T16:39:53+00:00",
+      "title": "Thunderbolt Share simplifies dual-PC workloads\u2014but requires new hardware",
+      "url": "https://arstechnica.com/gadgets/2024/05/thunderbolt-share-simplifies-dual-pc-workloads-but-requires-new-hardware/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Thunderbolt-5-cable-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Download promo promises \"up-rendering, rewind, quick save, and custom video filters.\"",
+      "publishedAt": "2024-05-16T15:45:53+00:00",
+      "title": "Sony listing hints at native, upscaled PS2 emulation on the PS5",
+      "url": "https://arstechnica.com/gaming/2024/05/sony-listing-hints-at-native-upscaled-ps2-emulation-on-the-ps5/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/ps25-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Of 13 children sickened, 7 hospitalized and 2 had life-threatening complications.",
+      "publishedAt": "2024-05-16T13:46:50+00:00",
+      "title": "Mixup of drinking and irrigation water sparks dangerous outbreak in children",
+      "url": "https://arstechnica.com/science/2024/05/dangerous-outbreak-in-children-tied-to-mixing-up-irrigation-and-drinking-water/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-539561199-760x380.jpeg"
+    },
+    {
+      "author": "Javier Espinoza, Financial Times",
+      "description": "EU is concerned Meta isn't doing enough to protect children using its apps.",
+      "publishedAt": "2024-05-16T13:25:16+00:00",
+      "title": "Concerns over addicted kids spur probe into Meta and its use of dark patterns",
+      "url": "https://www.ft.com/content/3978c96a-21b4-469f-bca9-1b1055bb3a6f",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-meta-apps-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "What is black and white and constantly in flight?",
+      "publishedAt": "2024-05-16T12:00:31+00:00",
+      "title": "Daily Telescope: I spy, with my little eye, the ISS",
+      "url": "https://arstechnica.com/space/2024/05/daily-telescope-i-spy-with-my-little-eye-the-iss/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/heo1-680x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "An earlier iteration of the site was taken down last year; now its reincarnation is gone.",
       "publishedAt": "2024-05-15T22:37:55+00:00",
@@ -10,7 +66,7 @@
     },
     {
       "author": "Benj Edwards",
-      "description": "Google's video synthesis model creates minute-long 1080p videos from written prompts.",
+      "description": "Google's video-synthesis model creates minute-long 1080p videos from written prompts.",
       "publishedAt": "2024-05-15T20:51:44+00:00",
       "title": "Google unveils Veo, a high-definition AI video generator that may rival Sora",
       "url": "https://arstechnica.com/information-technology/2024/05/google-unveils-veo-a-high-definition-ai-video-generator-that-may-rival-sora/",
@@ -23,62 +79,6 @@
       "title": "MIT students stole $25M in seconds by exploiting ETH blockchain bug, DOJ says",
       "url": "https://arstechnica.com/?p=2024782",
       "urlToImage": null
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Some pretty dark patterns make free version of remote desktop tool hard to find.",
-      "publishedAt": "2024-05-15T19:34:12+00:00",
-      "title": "RealVNC is dropping its \u201cHome\u201d plan and barely noting its free \u201cLite\u201d option",
-      "url": "https://arstechnica.com/gadgets/2024/05/realvnc-is-dropping-its-home-plan-and-barely-noting-its-free-lite-option/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-15-at-2.52.57\u202fPM-760x380.png"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "The NFL brings eyeballs like no other content, and subscribers actually stick around.",
-      "publishedAt": "2024-05-15T17:28:40+00:00",
-      "title": "Netflix gets the NFL: Three-year deal starts this season on Christmas",
-      "url": "https://arstechnica.com/gadgets/2024/05/netflix-gets-the-nfl-three-year-deal-starts-this-season-on-christmas/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1448815429-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Comcast wants to tie its cable/Internet to your streaming subscriptions.",
-      "publishedAt": "2024-05-15T17:21:29+00:00",
-      "title": "Cable TV providers ruined cable\u2014now they\u2019re coming for streaming",
-      "url": "https://arstechnica.com/gadgets/2024/05/comcast-hemorrhaging-subscribers-to-bundle-apple-tv-netflix-peacock-cable/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1232570835-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "DOJ determined that Boeing violated 2021 agreement spurred by two fatal crashes.",
-      "publishedAt": "2024-05-15T17:04:05+00:00",
-      "title": "DOJ says Boeing faces criminal charge for violating deal over 737 Max crashes",
-      "url": "https://arstechnica.com/tech-policy/2024/05/doj-says-boeing-faces-criminal-charge-for-violating-deal-over-737-max-crashes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/boeing-crash-victims-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Android 15 Beta 2 is out for Pixels and several third-party devices.",
-      "publishedAt": "2024-05-15T17:00:17+00:00",
-      "title": "Android 15 gets \u201cPrivate Space,\u201d theft detection, and AV1 support",
-      "url": "https://arstechnica.com/gadgets/2024/05/android-15-gets-private-space-theft-detection-and-av1-support/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/13-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Ebury backdoors SSH servers in hosting providers, giving the malware extraordinary reach.",
-      "publishedAt": "2024-05-15T16:56:03+00:00",
-      "title": "Linux maintainers were infected for 2 years by SSH-dwelling backdoor with huge reach",
-      "url": "https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/backdoor-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The regulator is warning OEMs to respect data privacy or it will get mad.",
-      "publishedAt": "2024-05-15T16:06:40+00:00",
-      "title": "Connected cars\u2019 illegal data collection and use now on FTC\u2019s \u201cradar\u201d",
-      "url": "https://arstechnica.com/cars/2024/05/connected-cars-illegal-data-collection-and-use-now-on-ftcs-radar/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1584561662-760x380.jpg"
     }
   ],
   "sortBy": "top",
