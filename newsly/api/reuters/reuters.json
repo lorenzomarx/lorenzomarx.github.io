@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Guy Faulconbridge",
+      "description": "Russian President Vladimir Putin will visit China on Thursday for talks with Xi Jinping that the Kremlin hopes will deepen a strategic partnership between the two most powerful geopolitical rivals of the United States.",
+      "publishedAt": "2024-05-15T21:19:54Z",
+      "title": "Putin to visit China's Xi to deepen strategic partnership",
+      "url": "https://www.reuters.com/world/putin-visit-chinas-xi-deepen-strategic-partnership-2024-05-15/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6SSIJGYYQ5MVFC6CQKMEY5HM7I.jpg?auth=e98aac47667edff6485818661b998fb8e03ffb9ca3c5b9af3e858791703ef1b4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Reuters",
       "description": "Slovak Prime Minister Robert Fico was injured in a shooting after a government meeting, news agency TASR reported on Wednesday.",
       "publishedAt": "2024-05-15T13:31:24Z",
@@ -17,12 +25,52 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/MDERWASSWVO3NNXWR6LI2AFY4E.jpg?auth=05769e1a89b8bd6898338993fb5b2aa19ff247a47f33509993610c0c46ca1da5&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Yuliia Dysa, Tom Balmforth, Sergiy Karazy",
-      "description": "President Volodymyr Zelenskiy postponed all his foreign trips as Ukraine's battlefield situation continued to deteriorate on Wednesday and Kyiv said fighting raged in the northeastern border town of Vovchansk in Kharkiv region.",
-      "publishedAt": "2024-05-15T23:47:41Z",
-      "title": "Zelenskiy postpones travel abroad as Russian troops enter Ukraine border town",
-      "url": "https://www.reuters.com/world/europe/russia-takes-up-positions-ukraine-town-vovchansk-kharkiv-region-local-police-2024-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/P5FQBZF6VNKBJOH4LFZGR6J524.jpg?auth=2bf1aeb06c3b5f0be677f8ba0ec871f6f5fa87fb3e07fc0448ac10d92793e9e8&height=1005&width=1920&quality=80&smart=true"
+      "author": "Jonathan Landay, Michelle Nichols",
+      "description": "The United States aims to have a floating pier in place off the Gaza Strip coast in the coming days to boost aid deliveries, but Washington is facing the same challenges that have beset the United Nations and relief groups for months when it comes to distributing assistance to the war-torn enclave.",
+      "publishedAt": "2024-05-16T04:07:22Z",
+      "title": "US aid pier for Gaza floats into wartime reality",
+      "url": "https://www.reuters.com/world/middle-east/us-aid-pier-gaza-floats-into-wartime-reality-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/7BXU7DC3ARIPLFU4GDENC46LIY.jpg?auth=9772af58f2bbfe99a28b801c35d1b1f0b136f94c00b8bc794e427750ddada16b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The number of people killed by weekend flash floods and mud slides in Indonesia's West Sumatra province has risen to 67 and 20 are still missing, authorities said on Thursday, as the government plans to relocate survivors to safer areas.",
+      "publishedAt": "2024-05-16T03:36:30Z",
+      "title": "Indonesia's death toll rises to 67 from Sumatra floods, 20 still missing",
+      "url": "https://www.reuters.com/world/asia-pacific/indonesias-death-toll-rises-67-sumatra-floods-20-still-missing-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JLY3R52WZRMCHF3URP2ZEYJNAY.jpg?auth=5a5d7e07ab45e7093ef7d04cad14580873e022d65363c6ff7a33624c1286b2ea&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Ben Blanchard, Yimou Lee",
+      "description": "Lai Ching-te takes office as Taiwan's president on Monday, facing a China that calls him a \"dangerous separatist\" and has ramped up military drills, as well as a fractured parliament at home where no party has a majority.",
+      "publishedAt": "2024-05-16T03:08:16Z",
+      "title": "Taiwan's incoming president faces angry China, fractured parliament",
+      "url": "https://www.reuters.com/world/asia-pacific/taiwans-incoming-president-faces-angry-china-fractured-parliament-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/W5YBDIA5IRIMHNFQNUDGSJ2SE4.jpg?auth=87484eab4098b007b9e412549c97c56dbcaeaf0ea7f61dc5131d2ad382bcab84&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Kirsty Needham, Camille Raynaud",
+      "description": "Armed forces were protecting New Caledonia's two airports and port after a third night of violent riots that have killed four people, the Pacific Island's top French official said on Thursday morning, adding at least four alleged instigators were under house arrest.",
+      "publishedAt": "2024-05-16T04:02:24Z",
+      "title": "Hundreds arrested, roads barricaded in New Caledonia as riots continue",
+      "url": "https://www.reuters.com/world/asia-pacific/hundreds-arrested-roads-barricaded-new-caledonia-riots-continue-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KOBSD7U7XZK43M4IXYBQH3LWYE.jpg?auth=c6a6ca4a4a95ac4d7a0c09591cc8b3cf060474c2f5ca8947e88c823105a92001&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Gordon Black, a U.S. soldier being held in the Russian city of Vladivostok, has pleaded guilty to theft charges and is cooperating with investigators, Russia's RIA state news agencies reported on Thursday.",
+      "publishedAt": "2024-05-16T04:54:25Z",
+      "title": "US soldier held in Russia pleads guilty, RIA agency reports",
+      "url": "https://www.reuters.com/world/us-soldier-held-russia-pleads-guilty-ria-agency-reports-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/C2HNMIVYHNMKJI2FGPJHEDBIAU.jpg?auth=543332c7d380fc90f84b7fa5fd6b5a60bf8f73bacdae548b5c450dee9440d39b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Lewis Jackson",
+      "description": "Donald Trump gave the AUKUS defence pact a \"warm reception\", during a meeting with former Australian Prime Minister Scott Morrison, the latter said, one of the few public signs about Trump's view of the deal.",
+      "publishedAt": "2024-05-16T04:05:47Z",
+      "title": "Donald Trump is supportive of AUKUS defence pact, former Australian PM says",
+      "url": "https://www.reuters.com/world/donald-trump-is-supportive-aukus-defence-pact-former-australian-pm-says-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/IGSY5FZ6SZOLZJIW4GJNSNZWIA.jpg?auth=1befad9c8336f944e2b347827a6632a444bcab74b753284bb82265365e1152ed&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -31,54 +79,6 @@
       "title": "US questions China's no-first-use nuclear call given buildup",
       "url": "https://www.reuters.com/world/us-questions-chinas-no-first-use-nuclear-call-given-buildup-2024-05-15/",
       "urlToImage": "https://www.reuters.com/resizer/v2/PEL3ALFAVJPTLAOVXWFASDNTH4.jpg?auth=7be967a39470e8ca0f4f46f12ee04cfd4c8d67c218625691615cddff108d15b1&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Lisandra Paraguassu",
-      "description": "Brazil's southernmost state capital may suffer severe flooding for weeks to come, experts warn, compounding the struggles of half a million people forced to abandon their inundated homes.",
-      "publishedAt": "2024-05-15T20:32:00Z",
-      "title": "Brazil flooding will take weeks to subside, experts warn",
-      "url": "https://www.reuters.com/world/americas/brazil-flooding-will-take-weeks-subside-experts-warn-2024-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/S5K3FU6JOBJGHGQCMEQKKL6ZTM.jpg?auth=f8d5f4b658e39324d2f7527d2c49ba539004cbc51632b93f478ccd6ec1cd369b&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Guy Faulconbridge",
-      "description": "Russian President Vladimir Putin will visit China on Thursday for talks with Xi Jinping that the Kremlin hopes will deepen a strategic partnership between the two most powerful geopolitical rivals of the United States.",
-      "publishedAt": "2024-05-15T21:19:54Z",
-      "title": "Putin to visit China's Xi to deepen strategic partnership",
-      "url": "https://www.reuters.com/world/putin-visit-chinas-xi-deepen-strategic-partnership-2024-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/6SSIJGYYQ5MVFC6CQKMEY5HM7I.jpg?auth=e98aac47667edff6485818661b998fb8e03ffb9ca3c5b9af3e858791703ef1b4&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Kirsty Needham",
-      "description": "Gunshots could be heard and schools remained shut in New Caledonia's capital Noumea on Wednesday morning after a night of rioting despite a curfew, as France's National Assembly approved changes to voting rules in the Pacific island.",
-      "publishedAt": "2024-05-15T03:13:43Z",
-      "title": "New Caledonia riots rage on after Paris approves voting change",
-      "url": "https://www.reuters.com/world/asia-pacific/new-caledonia-riots-rage-after-paris-approves-voting-change-2024-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JDAIFKE7OZNALANFLIFR7U53II.jpg?auth=dd2a09a3c9535cac5f34bd54ba2815c53bfb3cf5fd7277288c8a13b30b44bbb1&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Russian forces shelled the central Shevchenkivsyi district of Kharkiv, Ukraine's second largest city, on Wednesday, injuring two people and damaging a five-storey building, the regional governor said.",
-      "publishedAt": "2024-05-15T18:17:49Z",
-      "title": "Russian forces shell central Kharkiv, two injured, governor says",
-      "url": "https://www.reuters.com/world/europe/russian-forces-shell-central-kharkiv-two-injured-governor-says-2024-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/RZNETIE3V5NMRAGXLCMP6HF4O4.jpg?auth=164fb9e3e4367918744ddd3d4afb8eaa5c31f94b0d3193e40f7bac8a878a255d&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Stephanie Van Den Berg",
-      "description": "South Africa will ask the top U.N. court on Thursday to order a halt to the Rafah offensive as part of its case in The Hague accusing Israel of genocide in the Gaza Strip.",
-      "publishedAt": "2024-05-15T22:03:44Z",
-      "title": "South Africa seeks halt to Israel's Rafah offensive at World Court",
-      "url": "https://www.reuters.com/world/south-africa-seeks-halt-israels-rafah-offensive-world-court-2024-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/YP6KCPFL7NNHJIQ3QVFS77256Y.jpg?auth=1a4f71cecf7fbddd66bf47116a3b63ee8175b190b2566eee0a7dba16fa8991f5&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Andrew Gray, Felix Light",
-      "description": "The European Union urged Georgia on Wednesday to withdraw its highly contested \"foreign agents\" bill, saying the measure would set back the nation's ambitions to join the bloc, as protests against the legislation continued in a rolling political crisis.",
-      "publishedAt": "2024-05-15T18:20:41Z",
-      "title": "EU urges Georgia to withdraw 'foreign agent' bill as protests continue",
-      "url": "https://www.reuters.com/world/europe/eu-urges-georgia-withdraw-foreign-agent-bill-2024-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/2DWBAAR5FRPSHP3GWFGBW6VUYU.jpg?auth=fb4db27af60a00336a9d1ca575a5324724463a2b1a7ded340abbad1ef772227d&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
