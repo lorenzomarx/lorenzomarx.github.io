@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "X.com stops redirecting to Twitter.com over a year after company name change.",
+      "publishedAt": "2024-05-17T15:43:45+00:00",
+      "title": "Twitter URLs redirect to x.com as Musk gets closer to killing the Twitter name",
+      "url": "https://arstechnica.com/tech-policy/2024/05/twitter-urls-redirect-to-x-com-as-musk-gets-closer-to-killing-the-twitter-name/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/x-logo-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "\"Static recompilation\" is \"the difference between weeks of work and years of work.\"",
+      "publishedAt": "2024-05-17T15:40:35+00:00",
+      "title": "How to port any N64 game to the PC in record time",
+      "url": "https://arstechnica.com/gaming/2024/05/how-to-port-any-n64-game-to-the-pc-in-record-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/n64-inside-760x380.jpg"
+    },
+    {
+      "author": "Daniel Thomas, Financial Times",
+      "description": "Music group contacts more than 700 companies to prohibit use of content",
+      "publishedAt": "2024-05-17T13:16:06+00:00",
+      "title": "Sony Music opts out of AI training for its entire catalog",
+      "url": "https://www.ft.com/content/c5b93b23-9f26-4e6b-9780-a5d3e5e7a409",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/beyonce-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "Could you really control someone's hot water with just an email address?",
       "publishedAt": "2024-05-17T11:00:37+00:00",
@@ -10,7 +34,7 @@
     },
     {
       "author": "Stephen Clark",
-      "description": "United Launch Alliance is under pressure ramp up the flight rate for the new Vulcan rocket.",
+      "description": "United Launch Alliance is under pressure to ramp up the flight rate for the new Vulcan rocket.",
       "publishedAt": "2024-05-17T11:00:02+00:00",
       "title": "Rocket Report: Starship stacked; Georgia shuts the door on Spaceport Camden",
       "url": "https://arstechnica.com/space/2024/05/rocket-report-blue-origin-launch-on-tap-sunday-starship-stacked-in-texas/",
@@ -49,36 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/12/BepiColombo_MPOMMO_illustration_1280-640x215.jpg"
     },
     {
-      "author": "Beth Mole",
+      "author": null,
       "description": "Senators skeptical of legal trouble for harmless masking after moving to make it illegal.",
       "publishedAt": "2024-05-16T19:25:21+00:00",
       "title": "It could soon be illegal to publicly wear a mask for health reasons in NC",
-      "url": "https://arstechnica.com/science/2024/05/nc-senate-passes-bill-to-make-it-illegal-to-publicly-mask-for-health-reasons/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1392398100-760x380.jpeg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Google Search now has an option to search the \"web,\" which is not the default anymore.",
-      "publishedAt": "2024-05-16T19:18:49+00:00",
-      "title": "Google Search adds a \u201cweb\u201d filter, because it is no longer focused on web results",
-      "url": "https://arstechnica.com/gadgets/2024/05/google-search-adds-web-filter-as-it-pivots-to-ai-focused-search-results/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-blurry-760x380.jpg"
-    },
-    {
-      "author": "Eric Bangeman",
-      "description": "Pedego's newest e-bike is quality even if a little bit impractical.",
-      "publishedAt": "2024-05-16T18:39:25+00:00",
-      "title": "Pedego Moto review: Fast and furious fun for $4,000",
-      "url": "https://arstechnica.com/cars/2024/05/pedego-moto-review-fast-and-furious-fun-for-4000/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/moto-list-1-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Lawsuit targets 2016 claim that all Tesla cars \"have full self-driving hardware.\"",
-      "publishedAt": "2024-05-16T17:56:24+00:00",
-      "title": "Tesla must face fraud suit for claiming its cars could fully drive themselves",
-      "url": "https://arstechnica.com/tech-policy/2024/05/tesla-must-face-fraud-suit-for-claiming-its-cars-could-fully-drive-themselves/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/getty-tesla-logo-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2025011",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
