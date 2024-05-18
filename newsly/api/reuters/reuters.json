@@ -1,28 +1,28 @@
 {
   "articles": [
     {
-      "author": "Guy Faulconbridge",
-      "description": "Russian President Vladimir Putin will visit China on Thursday for talks with Xi Jinping that the Kremlin hopes will deepen a strategic partnership between the two most powerful geopolitical rivals of the United States.",
-      "publishedAt": "2024-05-15T21:19:54Z",
-      "title": "Putin to visit China's Xi to deepen strategic partnership",
-      "url": "https://www.reuters.com/world/putin-visit-chinas-xi-deepen-strategic-partnership-2024-05-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/6SSIJGYYQ5MVFC6CQKMEY5HM7I.jpg?auth=e98aac47667edff6485818661b998fb8e03ffb9ca3c5b9af3e858791703ef1b4&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Ayhan Uyanik, Boldizsar Gyori",
-      "description": "Slovakia's Prime Minister Robert Fico was in \"very serious\" but stable condition on Thursday, a hospital official said, after he was shot five times in an assassination attempt that laid bare deep political divisions in the country.",
-      "publishedAt": "2024-05-16T07:54:18Z",
-      "title": "Slovak leader Fico stable after surgery but condition 'very serious'",
-      "url": "https://www.reuters.com/world/europe/slovak-government-meet-following-assasination-attempt-pm-2024-05-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/H7VVX3PYVBOIDIE7PE4H2DERBY.jpg?auth=bb1e5125f8c40b864d01ebaf6700ecb1841ed3e81f3f5d39ef93c7bd67a809ee&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Nidal Al-Mughrabi, Ari Rabinovitch",
       "description": "Israel's tanks pushed into the heart of Jabalia in northern Gaza on Thursday, facing anti-tank rockets and mortar bombs from militants concentrated there, while in the south, its forces pounded Rafah without advancing, Palestinian residents and militants said.",
       "publishedAt": "2024-05-16T10:15:02Z",
       "title": "Israel moves in on north Gaza Hamas stronghold, pounds Rafah without advancing",
       "url": "https://www.reuters.com/world/middle-east/israel-moves-north-gaza-hamas-stronghold-pounds-rafah-without-advancing-2024-05-16/",
       "urlToImage": "https://www.reuters.com/resizer/v2/RARVWOPWQVN2LKRJ34QDRVTF3M.jpg?auth=db45386a7ff3413df0d0888fc2ebc8baa11c42d7d4629c4cd20cc80604a6296e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Patricia Zengerle",
+      "description": "The Republican-led U.S. House of Representatives passed a bill on Thursday that would force President Joe Biden to send weapons to Israel, seeking to rebuke the Democrat for delaying bomb shipments as he urges Israel to do more to protect civilians during its war with Hamas.",
+      "publishedAt": "2024-05-16T21:35:27Z",
+      "title": "US House votes to force weapons shipments to Israel, rebuking Biden",
+      "url": "https://www.reuters.com/world/us/us-house-votes-force-weapons-shipments-israel-rebuking-biden-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/J7F4FWOVJZMJ5IXFT3QGZIXMJI.jpg?auth=e7877a1b9a163979ae37246399472fe3830ca4fe67cf4062d9c21a5475b5c418&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Michelle Nichols",
+      "description": "Shoshan Haran, her daughter and two grandchildren were taken hostage by Hamas militants in Israel on Oct. 7. On Thursday, Haran recalled the effects of 50 days in captivity on her three-year-old granddaughter when they were finally released.",
+      "publishedAt": "2024-05-16T23:13:41Z",
+      "title": "Israeli hostage to UN: We can't normalize this unprecedented terror",
+      "url": "https://www.reuters.com/world/middle-east/israeli-hostage-un-we-cant-normalize-this-unprecedented-terror-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/Z23FZ66LBJMJPDDVV2NDTD7KGM.jpg?auth=4529c7d3ca2df06718c559ce4ef825149660a1b8e0bf5016d22b5c41dc8b274c&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "James Mackenzie",
@@ -33,6 +33,14 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/MZWQBOU3OZJKDENDGZ7EOGVGB4.jpg?auth=670f816357534794cf821fec32b51c9c2049dc8c12c5e95e59bcf89a8dabb357&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Guy Faulconbridge",
+      "description": "Russian President Vladimir Putin will visit China on Thursday for talks with Xi Jinping that the Kremlin hopes will deepen a strategic partnership between the two most powerful geopolitical rivals of the United States.",
+      "publishedAt": "2024-05-15T21:19:54Z",
+      "title": "Putin to visit China's Xi to deepen strategic partnership",
+      "url": "https://www.reuters.com/world/putin-visit-chinas-xi-deepen-strategic-partnership-2024-05-15/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6SSIJGYYQ5MVFC6CQKMEY5HM7I.jpg?auth=e98aac47667edff6485818661b998fb8e03ffb9ca3c5b9af3e858791703ef1b4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Yuliia Dysa, Anastasiia Malenko, Tom Balmforth",
       "description": "President Volodymyr Zelenskiy visited the northeastern city of Kharkiv on Thursday to boost morale and reinforce Ukraine's troops in the region where Russian forces are trying to press their new offensive beyond the border areas.",
       "publishedAt": "2024-05-16T15:08:54Z",
@@ -41,44 +49,36 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/C2VNOUAPK5JDTMFPHE6GYCBW64.jpg?auth=b75a6f816b5e76b804bab92a9f5229dfa52eede30de8c41e3c189c5ec033b2a2&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Sabine Siebold",
-      "description": "Scrambles of NATO jets to intercept Russian aircraft approaching allied airspace over the Baltic Sea region went up 20% to 25% in the first quarter of 2024, a NATO source said on Thursday, with the increased Russian activity likely due to a hike in NATO drills.",
-      "publishedAt": "2024-05-16T14:40:57Z",
-      "title": "Scrambles of NATO jets against Russian aircraft up more than 20%, source says",
-      "url": "https://www.reuters.com/world/scrambles-nato-jets-against-russian-aircraft-up-more-than-20-source-says-2024-05-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/G3AF7BO6FVLCTNUEWLIHDDISUU.jpg?auth=c1804e063cc60d79f5d0d8b677cdb7653c50cb7e8d103ff8698135605542adfe&height=1005&width=1920&quality=80&smart=true"
+      "author": "Ayhan Uyanik, Boldizsar Gyori",
+      "description": "Slovakia's Prime Minister Robert Fico was in \"very serious\" but stable condition on Thursday, a hospital official said, after he was shot five times in an assassination attempt that laid bare deep political divisions in the country.",
+      "publishedAt": "2024-05-16T07:54:18Z",
+      "title": "Slovak leader Fico stable after surgery but condition 'very serious'",
+      "url": "https://www.reuters.com/world/europe/slovak-government-meet-following-assasination-attempt-pm-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/H7VVX3PYVBOIDIE7PE4H2DERBY.jpg?auth=bb1e5125f8c40b864d01ebaf6700ecb1841ed3e81f3f5d39ef93c7bd67a809ee&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Djaffar Sabiti",
-      "description": "Families huddled near the line of small coffins in eastern Democratic Republic of Congo, all mourning the children and others killed in a rocket attack, many shouting out accusations against the rebels they said launched the assault.",
-      "publishedAt": "2024-05-16T15:44:26Z",
-      "title": "Grief and anger as Congo mourners blame Rwanda-backed rebels for attack",
-      "url": "https://www.reuters.com/world/africa/grief-anger-congo-mourners-blame-rwanda-backed-rebels-attack-2024-05-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/BET7LADF4NLJXGQV6HN7QPLVEI.jpg?auth=ccb7f17d246d049a26fa06a64d6f76e4a3331d9b8d559a743360596e00624e93&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "NATO's top commander said on Thursday he did not believe Russia's military has deployed enough troops to make a strategic breakthrough in the region around Kharkiv in northeastern Ukraine.",
+      "publishedAt": "2024-05-16T17:54:15Z",
+      "title": "Top NATO commander says Russian troop numbers insufficient for Kharkiv breakthrough",
+      "url": "https://www.reuters.com/world/europe/top-nato-commander-says-russian-troop-numbers-insufficient-kharkiv-breakthrough-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/X3ZRNTGGCRK7RNC6FFBCVTHFBI.jpg?auth=4928a75627332f29d529d970c5152fdd03954410a34d2360c90dbbe364ad0c2e&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Kirsty Needham, Camille Raynaud",
-      "description": "Armed forces were protecting New Caledonia's two airports and port after a third night of violent riots that have killed four people, the Pacific Island's top French official said on Thursday morning, adding at least four alleged instigators were under house arrest.",
-      "publishedAt": "2024-05-16T04:02:24Z",
-      "title": "Hundreds arrested, roads barricaded in New Caledonia as riots continue",
-      "url": "https://www.reuters.com/world/asia-pacific/hundreds-arrested-roads-barricaded-new-caledonia-riots-continue-2024-05-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KOBSD7U7XZK43M4IXYBQH3LWYE.jpg?auth=c6a6ca4a4a95ac4d7a0c09591cc8b3cf060474c2f5ca8947e88c823105a92001&height=1005&width=1920&quality=80&smart=true"
+      "author": "Elida Moreno",
+      "description": "Panama's next government is considering erecting new checkpoints along a stretch of thick jungle on its southern border that has become a treacherous part of the journey for growing masses of U.S.-bound migrants, the incoming security chief said on Thursday.",
+      "publishedAt": "2024-05-16T23:17:27Z",
+      "title": "Panama weighs more checkpoints in treacherous jungle increasingly crossed by migrants",
+      "url": "https://www.reuters.com/world/americas/panama-weighs-more-checkpoints-treacherous-jungle-increasingly-crossed-by-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/P36PMYHAEZPCHI2NPAB27FIVNI.jpg?auth=5210974f92b3edd3a5d4989e2316dca10f024750915dcdf85e52a2474597a32a&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Stephanie Van Den Berg",
-      "description": "The International Court of Justice is holding hearings this week in a case brought by South Africa accusing Israel of genocide in the Gaza war and seeking an emergency halt to its Rafah offensive.",
-      "publishedAt": "2024-05-16T11:35:59Z",
-      "title": "Explainer: What is South Africa's genocide case against Israel at the ICJ?",
-      "url": "https://www.reuters.com/world/what-is-south-africas-genocide-case-against-israel-icj-2024-05-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/PMXRYP7YX5OHLJW7Q7L3RSTPLU.jpg?auth=e5574a73d14060323a4312e0c6b17b4d94fc184427827cec82c305358f2d0ca2&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Max Hunder",
-      "description": "Ukrainian artillery on the Kharkiv frontline are facing a bigger threat than ever from Russia\u2019s fleet of Lancet kamikaze drones, according to a howitzer crew fighting there.",
-      "publishedAt": "2024-05-16T17:16:34Z",
-      "title": "Russia ramps up strike drone use on Kharkiv front, Ukrainian artillery crew says",
-      "url": "https://www.reuters.com/world/europe/russia-ramps-up-strike-drone-use-kharkiv-front-ukrainian-artillery-crew-says-2024-05-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OOX6LWCTLRMILH22T5FRKSEQJM.jpg?auth=177f8b17e0d287ea768fe7c811091fabfdb9922652e8f4e66a53e005e06f09b6&height=1005&width=1920&quality=80&smart=true"
+      "author": "Lisandra Paraguassu",
+      "description": "Brazil's southernmost state is planning at least four \"tent cities\" to accommodate some 8,000 people currently in improvised shelters due to the historic floods that have devastated the region.",
+      "publishedAt": "2024-05-16T21:28:14Z",
+      "title": "Brazil flooding forces plan for 'tent cities' to house the displaced",
+      "url": "https://www.reuters.com/world/americas/brazil-flooding-forces-plan-tent-cities-house-displaced-2024-05-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/Z6F3LSRA6RMVJAI3NBASYI7DMI.jpg?auth=e3aa4060fb3b035168c4423ba63aa47d0b4645f06f8d3e1c564e7b806aff18f4&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
