@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Prices would need to be dramatically slashed to avoid increasing the national deficit.",
+      "publishedAt": "2024-05-17T22:08:47+00:00",
+      "title": "\u201cOutrageously\u201d priced weight-loss drugs could bankrupt US health care",
+      "url": "https://arstechnica.com/science/2024/05/outrageously-priced-weight-loss-drugs-could-bankrupt-us-health-care/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2141945373-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Apple\u2019s restrictions will still hold it back, but there\u2019s a lot of possibility.",
+      "publishedAt": "2024-05-17T21:43:20+00:00",
+      "title": "The Apple TV is coming for the Raspberry Pi\u2019s retro emulation box crown",
+      "url": "https://arstechnica.com/gaming/2024/05/the-apple-tv-is-coming-for-the-raspberry-pis-retro-emulation-box-crown/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/retroarch-tvos-760x380.jpeg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Reddit has been eager to sell data from user posts.",
+      "publishedAt": "2024-05-17T21:18:09+00:00",
+      "title": "OpenAI will use Reddit posts to train ChatGPT under new deal",
+      "url": "https://arstechnica.com/ai/2024/05/openai-will-use-reddit-posts-to-train-chatgpt-under-new-deal/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2150483549-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Cat Royale project explores what it takes to trust a robot to look after beloved pets.",
+      "publishedAt": "2024-05-17T20:59:44+00:00",
+      "title": "Cats playing with robots proves a winning combo in novel art installation",
+      "url": "https://arstechnica.com/science/2024/05/cats-playing-with-robots-proves-a-winning-combo-in-novel-art-installation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/catsTOP-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Is there something new underneath a whole bunch of familiar game elements?",
+      "publishedAt": "2024-05-17T20:36:20+00:00",
+      "title": "Leaks from Valve\u2019s Deadlock look like a pressed sandwich of every game around",
+      "url": "https://arstechnica.com/gaming/2024/05/leaks-from-valves-deadlock-look-like-a-pressed-sandwich-of-every-game-around/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/valve_shelves-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "UniSuper, a $135 billion pension account, details its cloud compute nightmare.",
+      "publishedAt": "2024-05-17T20:22:28+00:00",
+      "title": "\u201cUnprecedented\u201d Google Cloud event wipes out customer account and its backups",
+      "url": "https://arstechnica.com/gadgets/2024/05/google-cloud-accidentally-nukes-customer-account-causes-two-weeks-of-downtime/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/google-cloud-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Amendments contain loopholes that may blunt their effectiveness.",
+      "publishedAt": "2024-05-17T19:27:45+00:00",
+      "title": "Financial institutions have 30 days to disclose breaches under new rules",
+      "url": "https://arstechnica.com/security/2024/05/new-sec-requirements-give-institutions-30-days-to-disclose-security-incidents/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/01/GettyImages-2737554-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Using subjective phrasing like \"scientists believe\" makes facts seem like opinions.",
+      "publishedAt": "2024-05-17T19:00:57+00:00",
+      "title": "Using vague language about scientific facts misleads readers",
+      "url": "https://arstechnica.com/science/2024/05/using-vague-language-about-scientific-facts-misleads-readers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1940438388-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Slack says policy changes are imminent amid backlash.",
+      "publishedAt": "2024-05-17T18:10:26+00:00",
+      "title": "Slack users horrified to discover messages used for AI training",
+      "url": "https://arstechnica.com/tech-policy/2024/05/slack-defends-default-opt-in-for-ai-training-on-chats-amid-user-outrage/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1423973122-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "X.com stops redirecting to Twitter.com over a year after company name change.",
       "publishedAt": "2024-05-17T15:43:45+00:00",
       "title": "Twitter URLs redirect to x.com as Musk gets closer to killing the Twitter name",
       "url": "https://arstechnica.com/tech-policy/2024/05/twitter-urls-redirect-to-x-com-as-musk-gets-closer-to-killing-the-twitter-name/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/x-logo-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "\"Static recompilation\" is \"the difference between weeks of work and years of work.\"",
-      "publishedAt": "2024-05-17T15:40:35+00:00",
-      "title": "How to port any N64 game to the PC in record time",
-      "url": "https://arstechnica.com/gaming/2024/05/how-to-port-any-n64-game-to-the-pc-in-record-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/n64-inside-760x380.jpg"
-    },
-    {
-      "author": "Daniel Thomas, Financial Times",
-      "description": "Music group contacts more than 700 companies to prohibit use of content",
-      "publishedAt": "2024-05-17T13:16:06+00:00",
-      "title": "Sony Music opts out of AI training for its entire catalog",
-      "url": "https://www.ft.com/content/c5b93b23-9f26-4e6b-9780-a5d3e5e7a409",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/beyonce-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Could you really control someone's hot water with just an email address?",
-      "publishedAt": "2024-05-17T11:00:37+00:00",
-      "title": "How I upgraded my water heater and discovered how bad smart home security can be",
-      "url": "https://arstechnica.com/gadgets/2024/05/how-i-upgraded-my-water-heater-and-discovered-how-bad-smart-home-security-can-be/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1487523781-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "United Launch Alliance is under pressure to ramp up the flight rate for the new Vulcan rocket.",
-      "publishedAt": "2024-05-17T11:00:02+00:00",
-      "title": "Rocket Report: Starship stacked; Georgia shuts the door on Spaceport Camden",
-      "url": "https://arstechnica.com/space/2024/05/rocket-report-blue-origin-launch-on-tap-sunday-starship-stacked-in-texas/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/starshipift4stackpre1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Alleged $6.8M conspiracy involved \"laptop farm,\" identity theft, and r\u00e9sum\u00e9 coaching.",
-      "publishedAt": "2024-05-16T22:49:22+00:00",
-      "title": "Arizona woman accused of helping North Koreans get remote IT jobs at 300 companies",
-      "url": "https://arstechnica.com/security/2024/05/arizona-woman-accused-of-helping-north-koreans-get-remote-it-jobs-at-300-companies/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The high dose of capsaicin paired with a heart defect appear to have contributed.",
-      "publishedAt": "2024-05-16T22:02:31+00:00",
-      "title": "Ultra-spicy One Chip Challenge chip contributed to teen\u2019s death, report says",
-      "url": "https://arstechnica.com/science/2024/05/autopsy-finds-teen-died-from-ultra-spicy-chip-and-heart-defect-report-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1431486082-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Presidential candidate believes Meta\u2019s chatbot can reliably reveal shadowbans.",
-      "publishedAt": "2024-05-16T21:43:03+00:00",
-      "title": "Robert F. Kennedy Jr. sues Meta, citing chatbot\u2019s reply as evidence of shadowban",
-      "url": "https://arstechnica.com/tech-policy/2024/05/robert-f-kennedy-jr-sues-meta-citing-chatbots-reply-as-evidence-of-shadowban/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Who-Is-Bobby-Kennedy-screenshot-via-YouTube-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"We are working hard on resolving these uncertainties.\"",
-      "publishedAt": "2024-05-16T20:14:06+00:00",
-      "title": "Europe is uncertain whether its ambitious Mercury probe can reach the planet",
-      "url": "https://arstechnica.com/space/2024/05/europe-is-uncertain-whether-its-ambitious-mercury-probe-can-reach-the-planet/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/12/BepiColombo_MPOMMO_illustration_1280-640x215.jpg"
-    },
-    {
-      "author": null,
-      "description": "Senators skeptical of legal trouble for harmless masking after moving to make it illegal.",
-      "publishedAt": "2024-05-16T19:25:21+00:00",
-      "title": "It could soon be illegal to publicly wear a mask for health reasons in NC",
-      "url": "https://arstechnica.com/?p=2025011",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
