@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "\"Sky\u2019s voice is not an imitation of Scarlett Johansson,\" OpenAI insists.",
+      "publishedAt": "2024-05-20T17:50:39+00:00",
+      "title": "OpenAI pauses ChatGPT-4o voice that fans said ripped off Scarlett Johansson",
+      "url": "https://arstechnica.com/tech-policy/2024/05/openai-pauses-chatgpt-4o-voice-that-fans-said-ripped-off-scarlett-johansson/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-187586586-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Blue Origin's space capsule safely landed despite a problem with one of its parachutes.",
+      "publishedAt": "2024-05-20T17:16:17+00:00",
+      "title": "Blue Origin resumes human flights to suborbital space, but it wasn\u2019t perfect",
+      "url": "https://arstechnica.com/space/2024/05/blue-origin-resumes-human-flights-to-suborbital-space-but-it-wasnt-perfect/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/eddwight1-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "One reputable forecast team predicts 33 named storms.",
+      "publishedAt": "2024-05-20T17:00:13+00:00",
+      "title": "The Atlantic hurricane season begins soon\u2014hold on to your butts",
+      "url": "https://arstechnica.com/science/2024/05/the-atlantic-hurricane-season-begins-soon-hold-on-to-your-butts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/hurricane-dorian1-760x380.jpg"
+    },
+    {
+      "author": "Hannah Richter",
+      "description": "For water-stressed cities, undersea aquifers could be a submerged solution.",
+      "publishedAt": "2024-05-20T16:23:06+00:00",
+      "title": "East Coast has a giant offshore freshwater aquifer\u2014how did it get there?",
+      "url": "https://arstechnica.com/science/2024/05/what-put-huge-quantities-of-freshwater-under-the-seabed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image-1-760x380.jpeg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Every choice in this game has a cost. Choosing to play it seems like a good bet.",
+      "publishedAt": "2024-05-20T16:00:44+00:00",
+      "title": "Songs of Conquest is the Heroes of Might & Magic rebirth we all deserve",
+      "url": "https://arstechnica.com/gaming/2024/05/songs-of-conquest-is-the-heroes-of-might-magic-rebirth-we-all-deserve/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/SongsOfConquest-10-Battle-ApocalypseSpell-1920x1080-1-760x380.png"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "\"On Artemis III, we anticipate using at least two of the launch sites: one at KSC and one at Starbase.\"",
+      "publishedAt": "2024-05-20T12:04:16+00:00",
+      "title": "We take a stab at decoding SpaceX\u2019s ever-changing plans for Starship in Florida",
+      "url": "https://arstechnica.com/space/2024/05/we-take-a-stab-at-decoding-spacexs-ever-changing-plans-for-starship-in-florida/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/NHQ202403020002large-760x380.jpg"
+    },
+    {
       "author": "Elizabeth Rayne",
       "description": "Ryugu's parent body appears to have had a fair amount of water present, too.",
       "publishedAt": "2024-05-19T11:55:48+00:00",
@@ -9,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image-2-760x380.jpeg"
     },
     {
-      "author": "Victoria St. Martin, Inside Climate News",
+      "author": null,
       "description": "California is considering a law that would require warning labels on gas stoves.",
       "publishedAt": "2024-05-19T11:31:17+00:00",
       "title": "New research shows gas stove emissions contribute to 19,000 deaths annually",
-      "url": "https://insideclimatenews.org/news/17052024/california-gas-stove-warning-label-health-research/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/gas-burners-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2025260",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -31,54 +79,6 @@
       "title": "The nature of consciousness, and how to enjoy it while you can",
       "url": "https://arstechnica.com/science/2024/05/the-nature-of-consciousness-and-how-to-enjoy-it-while-you-can/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1197834332-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Prices would need to be dramatically slashed to avoid increasing the national deficit.",
-      "publishedAt": "2024-05-17T22:08:47+00:00",
-      "title": "\u201cOutrageously\u201d priced weight-loss drugs could bankrupt US health care",
-      "url": "https://arstechnica.com/science/2024/05/outrageously-priced-weight-loss-drugs-could-bankrupt-us-health-care/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2141945373-760x380.jpeg"
-    },
-    {
-      "author": null,
-      "description": "Apple\u2019s restrictions will still hold it back, but there\u2019s a lot of possibility.",
-      "publishedAt": "2024-05-17T21:43:20+00:00",
-      "title": "The Apple TV is coming for the Raspberry Pi\u2019s retro emulation box crown",
-      "url": "https://arstechnica.com/?p=2025043",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Reddit has been eager to sell data from user posts.",
-      "publishedAt": "2024-05-17T21:18:09+00:00",
-      "title": "OpenAI will use Reddit posts to train ChatGPT under new deal",
-      "url": "https://arstechnica.com/?p=2025270",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Cat Royale project explores what it takes to trust a robot to look after beloved pets.",
-      "publishedAt": "2024-05-17T20:59:44+00:00",
-      "title": "Cats playing with robots proves a winning combo in novel art installation",
-      "url": "https://arstechnica.com/?p=2024062",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Is there something new underneath a whole bunch of familiar game elements?",
-      "publishedAt": "2024-05-17T20:36:20+00:00",
-      "title": "Leaks from Valve\u2019s Deadlock look like a pressed sandwich of every game around",
-      "url": "https://arstechnica.com/?p=2025240",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "UniSuper, a $135 billion pension account, details its cloud compute nightmare.",
-      "publishedAt": "2024-05-17T20:22:28+00:00",
-      "title": "\u201cUnprecedented\u201d Google Cloud event wipes out customer account and its backups",
-      "url": "https://arstechnica.com/?p=2025177",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
