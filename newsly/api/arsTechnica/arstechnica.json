@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "Microsoft demo is like chatting with GameFAQs when you don't have a friend to hang with.",
+      "publishedAt": "2024-05-21T16:37:43+00:00",
+      "title": "Microsoft Copilot will watch you play Minecraft, tell you what you\u2019re doing wrong",
+      "url": "https://arstechnica.com/gaming/2024/05/hey-listen-new-minecraft-ai-guide-offers-tips-while-watching-you-play/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/zombie-760x380.png"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Some believe autonomous trucks are the answer to a shortage of truck drivers.",
+      "publishedAt": "2024-05-21T14:23:42+00:00",
+      "title": "This is Volvo\u2019s production-ready fully autonomous Class 8 truck",
+      "url": "https://arstechnica.com/cars/2024/05/volvo-debuts-its-fully-autonomous-big-rig-truck-powered-by-auroras-tech/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/autonomous-Volvo-VNL-760x380.jpg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "Sometime between May and September, a white dwarf is expected to go thermonuclear.",
+      "publishedAt": "2024-05-21T14:13:41+00:00",
+      "title": "Nova explosion visible to the naked eye expected any day now",
+      "url": "https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image-3-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "\"Social welfare\" groups spread industry talking points against public broadband.",
+      "publishedAt": "2024-05-21T13:37:20+00:00",
+      "title": "Municipal broadband advocates fight off attacks from \u201cdark money\u201d groups",
+      "url": "https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/isp-network-dark-money-figures-760x380.jpg"
+    },
+    {
+      "author": "Christian Davies, Financial Times",
+      "description": "Promise not to deploy AIs if severe risks cannot be addressed and mitigated.",
+      "publishedAt": "2024-05-21T13:12:58+00:00",
+      "title": "Big AI companies sign safety pledge",
+      "url": "https://www.ft.com/content/7a7fc048-f7b8-49e7-9dba-11eba5b9adfe",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/ai-logos-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Webb wows us again.",
+      "publishedAt": "2024-05-21T11:00:08+00:00",
+      "title": "Daily Telescope: Black holes have been merging for a long, long time",
+      "url": "https://arstechnica.com/space/2024/05/daily-telescope-the-oldest-merger-of-two-black-holes-to-date/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/ZS7_location_in_PRIMER_image_NIRcam_image-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "The dark web's Incognito Market allowed people to buy and sell narcotics worldwide.",
       "publishedAt": "2024-05-21T00:28:13+00:00",
@@ -17,68 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-187586586-760x380.jpg"
     },
     {
-      "author": "Kyle Orland",
+      "author": null,
       "description": "TCL's ultra-fast 4K LCD prototype has us musing about diminishing smoothness returns.",
       "publishedAt": "2024-05-20T22:13:09+00:00",
       "title": "Does anyone really need a 1,000 Hz gaming display?",
-      "url": "https://arstechnica.com/gaming/2024/05/does-anyone-really-need-a-1000-hz-gaming-display/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1447259383-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Tracking syllables of words lets English and Spanish training assist each other.",
-      "publishedAt": "2024-05-20T21:50:20+00:00",
-      "title": "Single brain implant restores bilingual communication to paralyzed man",
-      "url": "https://arstechnica.com/science/2024/05/single-brain-implant-gives-paralyzed-man-bilingual-communication/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/bilingual-chalkboard-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Recall uses AI features \"to take images of your active screen every few seconds.\"",
-      "publishedAt": "2024-05-20T21:43:24+00:00",
-      "title": "New Windows AI feature records everything you\u2019ve done on your PC",
-      "url": "https://arstechnica.com/gadgets/2024/05/microsofts-new-recall-feature-will-record-everything-you-do-on-your-pc/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/recall_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Microsoft's first \"Copilot+ PCs\" aim for the MacBook Air; neither is fanless.",
-      "publishedAt": "2024-05-20T21:09:07+00:00",
-      "title": "New Arm-powered Surface Pro and Surface Laptop aim directly at Apple Silicon Macs",
-      "url": "https://arstechnica.com/gadgets/2024/05/new-arm-powered-surface-pro-and-surface-laptop-aim-directly-at-apple-silicon-macs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/surface-11-01-760x380.jpeg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Sexy voices, departing employees, and NDA rumors have challenged the AI company.",
-      "publishedAt": "2024-05-20T20:51:57+00:00",
-      "title": "OpenAI on the defensive after multiple PR setbacks in one week",
-      "url": "https://arstechnica.com/information-technology/2024/05/openai-on-the-defensive-after-multiple-pr-setbacks-in-one-week/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/openai_raincloud-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Bug was discovered by Redditors and forum users a few days ago.",
-      "publishedAt": "2024-05-20T20:28:25+00:00",
-      "title": "iOS and iPadOS 17.5.1 fix a nasty bug that resurfaced old photos",
-      "url": "https://arstechnica.com/gadgets/2024/05/ios-and-ipados-17-5-1-fix-a-nasty-bug-that-resurfaced-old-photos/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/iPadOS-175-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Wright \"lied repeatedly and extensively\" in response to forgery allegations.",
-      "publishedAt": "2024-05-20T20:23:37+00:00",
-      "title": "Judge: Craig Wright forged documents on \u201cgrand scale\u201d to support bitcoin lie",
-      "url": "https://arstechnica.com/tech-policy/2024/05/judge-craig-wrights-claim-of-inventing-bitcoin-rests-on-lies-and-forgeries/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/craig-wright-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "No one is quite sure what you're supposed to do with the robot, but you can buy one.",
-      "publishedAt": "2024-05-20T20:17:40+00:00",
-      "title": "You can now buy a 4-foot-tall humanoid robot for $16K",
-      "url": "https://arstechnica.com/gadgets/2024/05/unitree-starts-selling-16000-humanoid-robot/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/7-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2025737",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
