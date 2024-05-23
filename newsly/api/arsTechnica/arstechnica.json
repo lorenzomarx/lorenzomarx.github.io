@@ -1,76 +1,84 @@
 {
   "articles": [
     {
-      "author": "Kyle Orland",
-      "description": "Microsoft demo is like chatting with GameFAQs when you don't have a friend to hang with.",
-      "publishedAt": "2024-05-21T16:37:43+00:00",
-      "title": "Microsoft Copilot will watch you play Minecraft, tell you what you\u2019re doing wrong",
-      "url": "https://arstechnica.com/gaming/2024/05/hey-listen-new-minecraft-ai-guide-offers-tips-while-watching-you-play/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/zombie-760x380.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Some believe autonomous trucks are the answer to a shortage of truck drivers.",
-      "publishedAt": "2024-05-21T14:23:42+00:00",
-      "title": "This is Volvo\u2019s production-ready fully autonomous Class 8 truck",
-      "url": "https://arstechnica.com/cars/2024/05/volvo-debuts-its-fully-autonomous-big-rig-truck-powered-by-auroras-tech/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/autonomous-Volvo-VNL-760x380.jpg"
-    },
-    {
-      "author": "Jacek Krywko",
-      "description": "Sometime between May and September, a white dwarf is expected to go thermonuclear.",
-      "publishedAt": "2024-05-21T14:13:41+00:00",
-      "title": "Nova explosion visible to the naked eye expected any day now",
-      "url": "https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/image-3-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "\"Social welfare\" groups spread industry talking points against public broadband.",
-      "publishedAt": "2024-05-21T13:37:20+00:00",
-      "title": "Municipal broadband advocates fight off attacks from \u201cdark money\u201d groups",
-      "url": "https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/isp-network-dark-money-figures-760x380.jpg"
-    },
-    {
-      "author": "Christian Davies, Financial Times",
-      "description": "Promise not to deploy AIs if severe risks cannot be addressed and mitigated.",
-      "publishedAt": "2024-05-21T13:12:58+00:00",
-      "title": "Big AI companies sign safety pledge",
-      "url": "https://www.ft.com/content/7a7fc048-f7b8-49e7-9dba-11eba5b9adfe",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/ai-logos-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Webb wows us again.",
-      "publishedAt": "2024-05-21T11:00:08+00:00",
-      "title": "Daily Telescope: Black holes have been merging for a long, long time",
-      "url": "https://arstechnica.com/space/2024/05/daily-telescope-the-oldest-merger-of-two-black-holes-to-date/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/ZS7_location_in_PRIMER_image_NIRcam_image-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "The dark web's Incognito Market allowed people to buy and sell narcotics worldwide.",
-      "publishedAt": "2024-05-21T00:28:13+00:00",
-      "title": "23-year-old man accused of running $100 million online narcotics marketplace",
-      "url": "https://arstechnica.com/tech-policy/2024/05/23-year-old-man-accused-of-running-100-million-online-narcotics-marketplace/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/01/GettyImages-644898123-760x380.jpg"
+      "author": "Beth Mole",
+      "description": "The benefits may seem small, but they can make a world of difference, patients say.",
+      "publishedAt": "2024-05-21T22:28:14+00:00",
+      "title": "Non-invasive zaps to the spinal cord can treat paralysis\u2014but no one knows why",
+      "url": "https://arstechnica.com/science/2024/05/non-invasive-zaps-to-the-spinal-cord-can-treat-paralysis-but-no-one-knows-why/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Participant-Photo-2_Sherown-760x380.jpeg"
     },
     {
       "author": "Ashley Belanger",
-      "description": "OpenAI pauses use of \"Sky\" voice after threat of legal action.",
-      "publishedAt": "2024-05-20T22:45:39+00:00",
-      "title": "Scarlett Johansson says Altman insinuated that AI soundalike was intentional",
-      "url": "https://arstechnica.com/tech-policy/2024/05/openai-pauses-chatgpt-4o-voice-that-fans-said-ripped-off-scarlett-johansson/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-187586586-760x380.jpg"
+      "description": "Google steals DOJ tactic to dodge owing damages by paying DOJ upfront.",
+      "publishedAt": "2024-05-21T21:54:36+00:00",
+      "title": "Google sends DOJ unexpected check in attempt to avoid monopoly jury trial",
+      "url": "https://arstechnica.com/tech-policy/2024/05/google-sends-doj-unexpected-check-in-attempt-to-avoid-monopoly-jury-trial/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2149535935-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "It costs less energy to get fossil fuels, but we can't use them as efficiently.",
+      "publishedAt": "2024-05-21T21:30:23+00:00",
+      "title": "We get more useful energy out of renewables than fossil fuels",
+      "url": "https://arstechnica.com/science/2024/05/we-get-more-useful-energy-out-of-renewables-than-fossil-fuels/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1385275906-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Elon Musk says SpaceX aims to launch the fourth Starship test flight in about two weeks.",
+      "publishedAt": "2024-05-21T20:08:04+00:00",
+      "title": "Surviving reentry is the key goal for SpaceX\u2019s fourth Starship test flight",
+      "url": "https://arstechnica.com/space/2024/05/surviving-reentry-is-the-key-goal-for-spacexs-fourth-starship-test-flight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/ift4wdr-760x380.jpeg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "A lore-lover's moment-by-moment dive into the latest Miyazaki mind maze.",
+      "publishedAt": "2024-05-21T19:39:26+00:00",
+      "title": "Shadow of the Erdtree\u2019s trailer gives us more Elden Ring lore to get wrong",
+      "url": "https://arstechnica.com/gaming/2024/05/shadow-of-the-erdtrees-trailer-gives-us-more-elden-ring-lore-to-get-wrong/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-21-at-12.14.05\u202fPM-1-760x380.png"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "A key component: Installing known vulnerable drivers from Avast and IOBit.",
+      "publishedAt": "2024-05-21T19:14:55+00:00",
+      "title": "Researchers spot cryptojacking attack that disables endpoint protections",
+      "url": "https://arstechnica.com/security/2024/05/researchers-spot-cryptojacking-attack-that-disables-endpoint-protections/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-760x380.jpg"
     },
     {
       "author": null,
-      "description": "TCL's ultra-fast 4K LCD prototype has us musing about diminishing smoothness returns.",
-      "publishedAt": "2024-05-20T22:13:09+00:00",
-      "title": "Does anyone really need a 1,000 Hz gaming display?",
-      "url": "https://arstechnica.com/?p=2025737",
+      "description": "Sonos jumps into the fray with Sony's WH-1000XM5 and Apple's AirPods Max.",
+      "publishedAt": "2024-05-21T18:58:51+00:00",
+      "title": "After years of rumors, Sonos has now entered the headphones market",
+      "url": "https://arstechnica.com/?p=2025957",
       "urlToImage": null
+    },
+    {
+      "author": null,
+      "description": "Bell architected DEC's VAX minicomputers, championed computer history, mentored at Microsoft.",
+      "publishedAt": "2024-05-21T18:53:03+00:00",
+      "title": "Gordon Bell, an architect of our digital age, dies at age 89",
+      "url": "https://arstechnica.com/?p=2025881",
+      "urlToImage": null
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Letter urges shareholders to reject CEO pay plan and boot two board members.",
+      "publishedAt": "2024-05-21T18:46:09+00:00",
+      "title": "Tesla shareholder group opposes Musk\u2019s $46B pay, slams board \u201cdysfunction\u201d",
+      "url": "https://arstechnica.com/tech-policy/2024/05/tesla-shareholder-group-opposes-musks-46b-pay-slams-board-dysfunction/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "It's $25 or $10 cheaper than separate subs, but note the plans you're getting.",
+      "publishedAt": "2024-05-21T18:31:26+00:00",
+      "title": "Comcast\u2019s streaming bundle is $15/month for Netflix, Peacock, Apple TV+, and ads",
+      "url": "https://arstechnica.com/gadgets/2024/05/comcasts-streamsaver-plan-is-15-month-if-you-like-cable-bundles-and-ads/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1241104863-760x380.jpg"
     }
   ],
   "sortBy": "top",
