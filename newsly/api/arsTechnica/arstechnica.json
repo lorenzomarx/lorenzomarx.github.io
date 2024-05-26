@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "ShrinkLocker is the latest ransomware to use Windows' full-disk encryption.",
+      "publishedAt": "2024-05-24T22:06:57+00:00",
+      "title": "Newly discovered ransomware uses BitLocker to encrypt victim data",
+      "url": "https://arstechnica.com/security/2024/05/newly-discovered-ransomware-uses-bitlocker-to-encrypt-victim-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/ransom-note-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "With Minnesota repeal, number of states restricting public broadband falls to 16.",
+      "publishedAt": "2024-05-24T18:25:00+00:00",
+      "title": "Another US state repeals law that protected ISPs from municipal competition",
+      "url": "https://arstechnica.com/tech-policy/2024/05/another-us-state-repeals-law-that-protected-isps-from-municipal-competition/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-network-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Clearing blocked filters and clogged valves is the order of the day.",
+      "publishedAt": "2024-05-24T18:10:02+00:00",
+      "title": "SpaceX sets date for next Starship flight, explains what went wrong the last time",
+      "url": "https://arstechnica.com/space/2024/05/spacex-sets-next-starship-flight-date-will-focus-on-propulsion-and-landing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Starhip-4-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "The power of URL parameters lets you unofficially turn off Google's AI Overview.",
+      "publishedAt": "2024-05-24T17:54:01+00:00",
+      "title": "Google Search\u2019s \u201cudm=14\u201d trick lets you kill AI search for good",
+      "url": "https://arstechnica.com/gadgets/2024/05/google-searchs-udm14-trick-lets-you-kill-ai-search-for-good/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/2-1-760x380.jpg"
+    },
+    {
+      "author": "Aarian Marshall, WIRED.com",
+      "description": "The tariffs\u2019 effects on the bike industry are still up in the air.",
+      "publishedAt": "2024-05-24T17:40:52+00:00",
+      "title": "Biden\u2019s new import rules will hit e-bike batteries too",
+      "url": "https://www.wired.com/story/biden-tariffs-ebike-batteries/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/e-bike-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "No, really, drinking raw milk during the H5N1 outbreak is a bad idea.",
       "publishedAt": "2024-05-24T16:39:36+00:00",
@@ -39,46 +79,6 @@
       "title": "OpenAI ends harsh non-disparagement agreements that could claw back millions",
       "url": "https://arstechnica.com/tech-policy/2024/05/openai-ends-harsh-non-disparagement-agreements-that-could-claw-back-millions/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2153474140-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Teams are in the process of completing a follow-on propulsion system assessment.\"",
-      "publishedAt": "2024-05-24T12:00:43+00:00",
-      "title": "Rocket Report: SpaceX focused on Starship reentry; Firefly may be for sale",
-      "url": "https://arstechnica.com/space/2024/05/rocket-report-spacex-focused-on-starship-reentry-firefly-may-be-for-sale/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GOMH4_ma4AE32Md-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Euclid\u2019s instruments can detect objects just a few times the mass of Jupiter.\"",
-      "publishedAt": "2024-05-24T12:00:14+00:00",
-      "title": "Daily Telescope: The initial results from Europe\u2019s Euclid telescope are dazzling",
-      "url": "https://arstechnica.com/space/2024/05/daily-telescope-observing-a-distant-star-nursery-in-unprecedented-detail/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Euclid-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "From glue-on-pizza recipes to recommending \"blinker fluid,\" Google's AI sourcing needs work.",
-      "publishedAt": "2024-05-24T11:00:27+00:00",
-      "title": "Google\u2019s \u201cAI Overview\u201d can give false, misleading, and dangerous answers",
-      "url": "https://arstechnica.com/information-technology/2024/05/googles-ai-overview-can-give-false-misleading-and-dangerous-answers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1488311999-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"Naming space as a warfighting domain was kind of forbidden, but that's changed.\"",
-      "publishedAt": "2024-05-23T23:08:22+00:00",
-      "title": "US officials: A Russian rocket launch last week likely deployed a space weapon",
-      "url": "https://arstechnica.com/space/2024/05/russia-still-appears-to-be-playing-cat-and-mouse-with-us-spy-satellites/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/soyuzlaunch1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "It's unclear how the malicious version of JAVS Viewer came to be.",
-      "publishedAt": "2024-05-23T22:46:51+00:00",
-      "title": "Crooks plant backdoor in software used by courtrooms around the world",
-      "url": "https://arstechnica.com/security/2024/05/crooks-plant-backdoor-in-software-used-by-courtrooms-around-the-world/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/javs-suite-8-760x380.jpg"
     }
   ],
   "sortBy": "top",
