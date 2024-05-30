@@ -1,6 +1,253 @@
 {
   "articles": [
     {
+      "author": "Patrick Smith",
+      "content": "Communities from Texas to New York were picking up the pieces Tuesday after a devastating holiday weekend brought tornadoes, storms, and heavy rain that killed at least 24 people and left hundreds of\u2026 [+3424 chars]",
+      "description": "Communities from Texas to New York were picking up the pieces Tuesday after a devastating holiday weekend brought tornadoes, storms, and heavy rain that killed at least 24 people and left hundreds of thousands without power.",
+      "publishedAt": "2024-05-28T21:15:36Z",
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "Thousands in Dallas may be in the dark for days after more damaging storms rip through the area - NBC News",
+      "url": "https://www.nbcnews.com/news/weather/eastern-states-rocked-devastating-memorial-day-weekend-weather-texas-b-rcna154242",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/280524-texas-tornado-wc-1302-894052.jpg"
+    },
+    {
+      "author": "Michael Dorgan",
+      "content": "An identity thief has purportedly come forward and claimed responsibility for the audacious scheme to gain control of Elvis Presleys Graceland mansion and sell it at auction, according to a report by\u2026 [+4505 chars]",
+      "description": "A Nigerian fraudster has claimed responsibility for a scheme to steal Elvis Presley\u2019s Graceland mansion and sell it at auction, according to a report.",
+      "publishedAt": "2024-05-28T20:59:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Identity thief claims to be behind Graceland foreclosure attempt: report - Fox News",
+      "url": "https://www.foxnews.com/entertainment/identity-thief-claims-behind-graceland-foreclosure-attempt-report",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/Elvis-Graceland.jpg"
+    },
+    {
+      "author": "Leslie Josephs",
+      "content": "American Airlines slashed its sales outlook on Tuesday. The company has also let go of its chief commercial officer, Vasu Raja. He will leave his position next month.\r\nAmerican Airlines said it expec\u2026 [+1982 chars]",
+      "description": "American said it expects unit revenues to fall as much as 6% in the second quarter from a year earlier.",
+      "publishedAt": "2024-05-28T20:56:58Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "American Airlines cuts outlook, says chief commercial officer is leaving - CNBC",
+      "url": "https://www.cnbc.com/2024/05/28/american-airlines-outlook-chief-commercial-officer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107405398-1713905449027-gettyimages-2023803701-20240210-95840.jpeg?v=1716313850&w=1920&h=1080"
+    },
+    {
+      "author": "DJ Bien-Aime",
+      "content": "The Houston Texans and wide receiver Nico Collins have agreed to a three-year, $72.75 million extension that includes $52 million guaranteed, agents Drew Rosenhaus, Ryan Matha and Jason Rosenhaus tol\u2026 [+1904 chars]",
+      "description": "The Texans and wide receiver Nico Collins have agreed to a three-year, $72.75 million extension that includes $52 million guaranteed, his agents told ESPN's Adam Schefter.",
+      "publishedAt": "2024-05-28T20:56:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Texans, WR Nico Collins agree to 3-year, $72.75M extension - ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/40235635/texans-wr-nico-collins-agree-3-year-7275m-extension",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1210%2Fr1264686_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "Emily Trainham",
+      "content": "The iconic brick house featured in the Christmas classic \"Home Alone\" is officially for sale.\r\nThe home is located in Winnetka, Illinois, a suburb of Chicago. The current owners bought it in 2012 for\u2026 [+3441 chars]",
+      "description": "The house featured in the Christmas classic \"Home Alone\" is up for sale. The home is located in Winnetka, a Chicago suburb, and features five bedrooms and six bathrooms.",
+      "publishedAt": "2024-05-28T20:07:00Z",
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "title": "Chicago mansion from 'Home Alone' hits market for $5.25 million - Fox Business",
+      "url": "https://www.foxbusiness.com/entertainment/chicago-mansion-home-alone-hits-market-5-25-million",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/home-alone-house.jpg?ve=1&tl=1"
+    },
+    {
+      "author": "Devin Coldewey",
+      "content": "AI models are always surprising us, not just in what they can do, but what they can\u2019t, and why. An interesting new behavior is both superficial and revealing about these systems: they pick random num\u2026 [+3943 chars]",
+      "description": "AI models are always surprising us, not just in what they can do, but what they can't, and why. An interesting new behavior is both superficial and",
+      "publishedAt": "2024-05-28T20:00:27Z",
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "title": "AI models have favorite numbers, because they think they're people - TechCrunch",
+      "url": "https://techcrunch.com/2024/05/28/ai-models-have-favorite-numbers-because-they-think-theyre-people/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/numbers-pattern-getty.jpg?resize=1200,811"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "content": null,
+      "description": "Israel's military denied striking a tent camp west of Rafah on Tuesday after Gaza health authorities said Israeli tank shelling had killed at least 21 people there, in an area Israel has designated a civilian evacuation zone.",
+      "publishedAt": "2024-05-28T20:00:25Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Israeli tanks hit evacuation zone west of Rafah - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-forces-press-rafah-offensive-despite-global-outcry-2024-05-28/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/TSGA4H4FY5ODXI6P4VLAQ656TI.jpg?auth=c695d89014f40511a52945b028d92d93e3db518d09844a41c222e2784f7a06bc&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Diana Glebova, Max Rivera",
+      "content": "Oscar-winning actor Robert De Niro became the face of the Biden campaign Tuesday, fronting a tumultuous press conference outside the Manhattan courthouse where former President Donald Trump\u2019s defense\u2026 [+5188 chars]",
+      "description": "Oscar-winning actor Robert De Niro became the face of the Biden campaign Tuesday, fronting a tumultuous press conference outside the Manhattan courthouse where former President Donald Trump\u2019s\u2026",
+      "publishedAt": "2024-05-28T19:41:15Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "Robert De Niro headlines bizarre Biden campaign presser outside Trump trial: 'You're a f--king idiot' - New York Post ",
+      "url": "https://nypost.com/2024/05/28/us-news/robert-de-niro-headlines-bizarre-biden-campaign-presser-outside-trump-trial-youre-a-f-ing-idiot/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/deniro-trump-comp_7e3082.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+      "author": "Etan Vlessing",
+      "content": "Mamie Laverock, a 19-year-old actor with Hallmark\u2019s When Calls The Heart, is on life support after falling from a five-story walkway while under medical care at a Vancouver hospital.\r\nAccording to a \u2026 [+2127 chars]",
+      "description": "The 19-year-old sustained \u201clife-threatening\u201d injuries after falling from a five-story walkway at a Vancouver hospital while under medical care.",
+      "publishedAt": "2024-05-28T19:39:41Z",
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "title": "\u2018When Calls The Heart\u2019 Actor Mamie Laverock on Life Support After Balcony Fall - Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/when-calls-the-heart-mamie-laverock-life-support-hospital-balcony-fall-1235910150/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/TCDWHCA_HE135-copy.jpg?w=1024"
+    },
+    {
+      "author": "TARA COPP",
+      "content": "WASHINGTON (AP) The U.S.-built temporary pier that has been taking humanitarian aid to starving Palestinians for less than two weeks will be removed from the coast of Gaza to be repaired after gettin\u2026 [+3466 chars]",
+      "description": "The Pentagon says the U.S.-built temporary pier taking humanitarian aid to starving Palestinians has been damaged in rough seas and weather and will be removed from the coast of Gaza to be repaired. Pentagon spokeswoman Sabrina Singh told reporters Tuesday th\u2026",
+      "publishedAt": "2024-05-28T19:15:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "US-built pier will be removed from Gaza coast and repaired after damage from rough seas - The Associated Press",
+      "url": "https://apnews.com/article/gaza-pier-damage-weather-seas-boats-f45634fb85e2ac6aec9b814c36ea3526",
+      "urlToImage": "https://dims.apnews.com/dims4/default/666d5e5/2147483647/strip/true/crop/2859x1608+0+90/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F94%2F03%2F132231632d5889014c86315f9b7a%2Fddcc4908796d4c349c37dda52229392d"
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": "T-Mobile will buy almost all of regional carrier United States Cellular's wireless operations including customers, stores and 30% of its spectrum assets in a deal valued at $4.4 billion, the telecom giant said on Tuesday.",
+      "publishedAt": "2024-05-28T19:12:00Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "T-Mobile to buy US Cellular's wireless operations in $4.4 billion deal - Reuters",
+      "url": "https://www.reuters.com/markets/deals/t-mobile-buy-uscellulars-wireless-operations-44-billion-2024-05-28/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JO4YQ2Z64ZNIPH23F2HL4OUVHM.jpg?auth=c0b7626ad06efe0c80766596df663369cbfdb29d135e723853c30f9b2a85f111&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Ed O'Keefe",
+      "content": "The Democratic Party plans to nominate President Biden and Vice President Harris virtually before its scheduled convention in late August to meet an Aug. 7 ballot certification deadline in Ohio, CBS \u2026 [+2297 chars]",
+      "description": "The Democratic National Committee wants to nominate President Biden and Vice President Harris virtually before the scheduled convention to ensure meeting Ohio's Aug. 7 ballot certification deadline.",
+      "publishedAt": "2024-05-28T19:10:53Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "DNC plans to nominate Biden and Harris virtually before convention - CBS News",
+      "url": "https://www.cbsnews.com/news/dnc-biden-nomination-virtually-august-convention-chicago/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/28/404f1bfe-b67a-4ebc-a50b-fbf4f5b860e2/thumbnail/1200x630/8675b324d13b4f3aadc7e96f555acedf/ap20234129360943.jpg?v=c5044be0004eac09882c007ac02fef6d"
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "Join Bobby Karalla as he gets you ready for Game 4 of the Western Conference Finals between the Dallas Mavericks and Minnesota Timberwolves.Join Club Maveric...",
+      "publishedAt": "2024-05-28T19:09:27Z",
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "title": "Mavs up 3-0! Game 4 LIVE Pregame! - Dallas Mavericks",
+      "url": "https://www.youtube.com/watch?v=bRU4Tk42j0M",
+      "urlToImage": "https://i.ytimg.com/vi/bRU4Tk42j0M/maxresdefault.jpg"
+    },
+    {
+      "author": "Deutsche Welle",
+      "content": "Spain and Norway, along with Ireland, became the most recent countries to recognize Palestinian statehood on Tuesday, drawing anger from Israel.\r\nSpanish Foreign Minister Jose Manuel Albares said tha\u2026 [+1445 chars]",
+      "description": "The three European countries have recognized Palestinian statehood, drawing Israeli anger. Meanwhile, the UN Security Council has called for an emergency meeting after deadly attacks in Rafah. DW has the latest.",
+      "publishedAt": "2024-05-28T19:07:55Z",
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "title": "Israel-Hamas war: Spain, Norway, Ireland recognize Palestine \u2013 DW \u2013 05/28/2024 - DW",
+      "url": "https://www.dw.com/en/israel-hamas-war-spain-norway-ireland-recognize-palestine/live-69199902",
+      "urlToImage": "https://static.dw.com/image/69200279_6.jpg"
+    },
+    {
+      "author": "Elizabeth Howell",
+      "content": "A new Earth-observation mission made it to space today (May 28).\r\nA Falcon 9 rocket from SpaceX lifted off with the\u00a0Earth Cloud Aerosol and Radiation Explorer satellite, or EarthCARE for short, \u00a0from\u2026 [+3641 chars]",
+      "description": "Launch of the EarthCARE mission occurred at 6:20 p.m. ET.",
+      "publishedAt": "2024-05-28T19:00:01Z",
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "title": "SpaceX launches Earth-observing satellite to orbit on 2nd leg of doubleheader (photos) - Space.com",
+      "url": "https://www.space.com/spacex-earthcare-satellite-mission-launch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Mtiecti9GzQrf2dpmBry5W-1200-80.jpg"
+    },
+    {
+      "author": "Rebecca Rubin",
+      "content": "Andrew Scott has joined the sprawling cast of \u201cKnives Out 3.\u201d\r\nThe \u201cRipley\u201d and \u201cFleabag\u201d actor will star in the whodunit \u2014 titled \u201cWake Up Dead Man: A Knives Out Mystery\u201d \u2014 alongside the previously \u2026 [+2220 chars]",
+      "description": "Andrew Scott has joined the sprawling cast of \"Wake Up Dead Man: A Knives Out Mystery.\"",
+      "publishedAt": "2024-05-28T19:00:00Z",
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "title": "Andrew Scott Joins \u2018Knives Out 3\u2019 Cast (EXCLUSIVE) - Variety",
+      "url": "https://variety.com/2024/film/news/andrew-scott-knives-out-3-cast-1236017343/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/05/andrew-scott.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "author": null,
+      "content": "Aleem Maqbool,Hafsa Khalil\r\nPope Francis has apologised following reports that he used extremely derogatory language towards gay men.\r\nA statement from the Vatican said the Pope did not mean to offen\u2026 [+2451 chars]",
+      "description": "Pope Francis has apologised after an alleged slur he made against gay men became public.",
+      "publishedAt": "2024-05-28T18:37:35Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Pope Francis apologises over reported homophobic slur - BBC.com",
+      "url": "https://www.bbc.com/news/articles/czrrexn0094o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/986e/live/faf5c230-1cf5-11ef-8fd8-8194490efeeb.jpg"
+    },
+    {
+      "author": "Matt Egan",
+      "content": "Harvard University announced Tuesday it will no longer weigh in on public matters that dont impact the Ivy League schools core function, a shift that follows a historic period of turmoil at the stori\u2026 [+1498 chars]",
+      "description": "Harvard University announced Tuesday it will no longer weigh in on public matters that don\u2019t impact the Ivy League school\u2019s core function, a shift that follows a historic period of turmoil at the storied university.",
+      "publishedAt": "2024-05-28T18:28:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Harvard to stay silent on issues that don\u2019t impact university\u2019s \u2018core function\u2019 - CNN",
+      "url": "https://www.cnn.com/2024/05/28/business/harvard-core-function/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2152354925.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "KEN SWEET",
+      "content": "NEW YORK (AP) A federal judge on Tuesday sentenced former FTX executive Ryan Salame to more than seven years in prison, the first of the lieutenants of failed cryptocurrency mogul Sam Bankman-Fried t\u2026 [+2702 chars]",
+      "description": "A federal judge has sentenced former FTX executive Ryan Salame to more than seven years in prison. He is the first of the lieutenants of failed cryptocurrency mogul Sam Bankman-Fried to receive jail time for their roles in the 2022 collapse of the cryptocurre\u2026",
+      "publishedAt": "2024-05-28T18:17:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Former FTX executive Ryan Salame sentenced to 7.5 years in prison - The Associated Press",
+      "url": "https://apnews.com/article/ftx-sam-bankman-fried-ryan-salame-crypto-f999baec34226d277bff373a8077d565",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f5786b1/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5c%2Fc0%2F5f5e11dc4fc89a39722b4529f98e%2F8dddcc9a2cd6466c8eeb505f72c82f58"
+    },
+    {
       "author": "MICHAEL R. SISAK, JENNIFER PELTZ, ERIC TUCKER, JILL COLVIN",
       "content": "NEW YORK (AP) Donald Trumps defense team attacked the hush money case against him Tuesday by calling the star witness a liar, seeking to discredit weeks of testimony that prosecutors say prove the fo\u2026 [+7960 chars]",
       "description": "Donald Trump\u2019s defense team attacked the hush money case against him by calling the star witness a liar in closing arguments. The arguments were expected to last all day Tuesday. Trump's attorneys sought to discredit weeks of testimony that prosecutors say pr\u2026",
@@ -12,255 +259,8 @@
       "title": "Trump hush money trial: Prosecution, defense look to score final points - The Associated Press",
       "url": "https://apnews.com/article/trump-trial-jury-hush-money-stormy-daniels-e262d1fe4a9ca624f2f983ca1000eb55",
       "urlToImage": "https://dims.apnews.com/dims4/default/357c9ba/2147483647/strip/true/crop/5760x3240+0+173/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F25%2F1d0a6a9c4db3b52a221cfefd2af9%2Feb5239e0309a4a9db80afe2f011b9bd6"
-    },
-    {
-      "author": "Rolling Stone",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-28T18:03:03Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Grateful Dead Honor Bill Walton: 'Biggest Deadhead in the World' - Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9iaWxsLXdhbHRvbi1ncmF0ZWZ1bC1kZWFkLXRyaWJ1dGUtaGFydC13ZWlyLWtyZXV0em1hbm4tMTIzNTAyODMxMS_SAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Oren Liebermann, Natasha Bertrand",
-      "content": "The\u00a0temporary pier\u00a0constructed by the US military to transport aid\u00a0into Gaza\u00a0broke apart in heavy seas\u00a0on Sunday in a major blow to the American-led effort to create a maritime corridor for humanitar\u2026 [+2120 chars]",
-      "description": "The\u00a0temporary pier\u00a0constructed by the US military to transport aid\u00a0into Gaza\u00a0broke apart in heavy seas\u00a0on Sunday in a major blow to the American-led effort to create a maritime corridor for humanitarian supplies into the war-torn enclave, according to four US\u2026",
-      "publishedAt": "2024-05-28T17:48:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "US pier constructed off Gaza has broken apart - CNN",
-      "url": "https://www.cnn.com/2024/05/28/politics/us-gaza-pier-broken-apart/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2152813836.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Juli Clover",
-      "content": "Apple today shared details on the schedule that it has prepared for the 2024 Worldwide Developers Conference, which is set to take place from June 10 to June 14.\r\nWhile WWDC always includes a keynote\u2026 [+1571 chars]",
-      "description": "Apple today shared details on the schedule that it has prepared for the 2024 Worldwide Developers Conference, which is set to take place from June 10...",
-      "publishedAt": "2024-05-28T17:21:37Z",
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "title": "Apple Confirms Time for June 10 WWDC Keynote, Shares Full Schedule - MacRumors",
-      "url": "https://www.macrumors.com/2024/05/28/wwdc-2024-full-schedule/",
-      "urlToImage": "https://images.macrumors.com/t/9D1byeeTZGkW6Qm9465GsNUjtp8=/2500x/article-new/2024/03/wwdc-2024-main-image-feature.jpg"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Georgias parliament has overridden a presidential veto of the foreign agents legislation that has fuelled Western concerns and set off weeks of street protests.\r\nThe legislature, controlled by the go\u2026 [+3291 chars]",
-      "description": "Critics say the bill will restrict media freedom and obstruct Georgia\u2019s chances of joining the European Union.",
-      "publishedAt": "2024-05-28T17:02:05Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Georgian parliament overrides presidential veto of 'foreign agent bill' - Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2024/5/28/georgian-parliament-overrides-presidential-veto-of-foreign-agent-bill",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-28T155512Z_909634993_RC2RZ7AZTNCT_RTRMADP_3_GEORGIA-POLITICS-PROTESTS-1716912104.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "POLITICO",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-28T16:52:45Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Judge Cannon rebukes Trump prosecutors over gag order request - POLITICO",
-      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDUvMjgvanVkZ2UtY2Fubm9uLXRydW1wLXByb3NlY3V0b3JzLWdhZy1vcmRlci0wMDE2MDE2N9IBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "E! NEWS",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-28T16:47:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "When Calls the Heart's Mamie Laverock on Life Support After Falling Off Five-Story Balcony - E! Online - E! NEWS",
-      "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTQwMjQ5OC93aGVuLWNhbGxzLXRoZS1oZWFydHMtbWFtaWUtbGF2ZXJvY2stb24tbGlmZS1zdXBwb3J0LWFmdGVyLWZhbGxpbmctb2ZmLWZpdmUtc3RvcnktYmFsY29uedIBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Patriots exec Eliot Wolf says the decision on when Drake Maye will take over as New England's starting quarterback will be a \"collaborative approach.\"",
-      "publishedAt": "2024-05-28T16:47:00Z",
-      "source": {
-        "id": "nfl-news",
-        "name": "NFL News"
-      },
-      "title": "Patriots exec Eliot Wolf: Determining when Drake Maye starts to be 'collaborative approach' - NFL.com",
-      "url": "https://www.nfl.com/news/patriots-exec-eliot-wolf-determining-when-drake-maye-starts-to-be-collaborative-approach",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/rpjcjej7vajwbwgnppi2"
-    },
-    {
-      "author": "Erik Pedersen",
-      "content": "Albert S. Ruddy, who earned two Best Picture Oscars for producing The Godfather and Million Dollar Baby and co-created TV shows including Walker, Texas Ranger and Hogan\u2019s Heroes, died May 25 at UCLA \u2026 [+6576 chars]",
-      "description": "Al Ruddy has died. The Oscar-Winning 'Godfather' and 'Million Dollar Baby' producer was 94",
-      "publishedAt": "2024-05-28T16:41:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "Al Ruddy Dies: Oscar-Winning \u2018The Godfather\u2019 & \u2018Million Dollar Baby\u2019 Producer Was 94 - Deadline",
-      "url": "http://deadline.com/2024/05/al-ruddy-dead-godfather-million-dollar-baby-1235942541/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/Albert-S.-Ruddy.jpg?w=1024"
-    },
-    {
-      "author": "Audrey Conklin",
-      "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nPlease enter a valid email address.\r\nBy en\u2026 [+6340 chars]",
-      "description": "A Turks and Caicos judge on Tuesday sentenced Virginia father Tyler Wenrich to time served and ordered him to pay a $9,000 fine for possessing ammunition on the islands.",
-      "publishedAt": "2024-05-28T16:10:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Virginia father arrested in Turks and Caicos for having ammo in bag to be released on time served - Fox News",
-      "url": "https://www.foxnews.com/us/virginia-father-arrested-turks-caicos-having-ammo-bag-released-time-served",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/BeFunky-collage-11-1.jpg"
-    },
-    {
-      "author": "POLITICO",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-28T15:42:44Z",
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "title": "Texas runoffs are about one thing: revenge - POLITICO",
-      "url": "https://www.politico.com/news/2024/05/28/texas-runoffs-races-to-watch-00160140",
-      "urlToImage": null
-    },
-    {
-      "author": "Lauren Sarner",
-      "content": "Hes rocking like a wagon wheel.\u00a0\r\nCountry musician Darius Rucker, 58, has broken his silence about his drug-related arrest.\u00a0\r\nOn Tuesday, the Hootie &amp; the Blowfish singer opened up to the \u201cToday\u201d\u2026 [+2427 chars]",
-      "description": "\u201cSo I went down. Fifty-seven years, I\u2019ve never seen the inside of a jail cell,\u201d said Darius Rucker.",
-      "publishedAt": "2024-05-28T15:37:00Z",
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "title": "Hootie & the Blowfish frontman Darius Rucker breaks silence on his drug arrest: 'We handled it' - New York Post ",
-      "url": "https://nypost.com/2024/05/28/entertainment/hootie-amp-the-blowfishs-darius-rucker-speaks-out-on-drug-arrest/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/82810652.jpg?quality=75&strip=all&w=1024"
-    },
-    {
-      "author": "Neal Riley, Louisa Moller",
-      "content": "PLYMOUTH - Jared Ravizza made his first appearance in a Massachusetts courtroom Tuesday morning to face charges in a weekend stabbing spree at a movie theater and McDonald's on the South Shore. He wa\u2026 [+3776 chars]",
-      "description": "Jared Ravizza appeared in a Massachusetts courtroom Tuesday morning to face charges in a stabbing spree\u200b at a movie theater and McDonald's.",
-      "publishedAt": "2024-05-28T15:19:37Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Suspect in AMC movie theater, McDonald's stabbings in Massachusetts ordered to undergo evaluation - CBS Boston",
-      "url": "https://www.cbsnews.com/boston/news/jared-ravizza-amc-movie-theater-mcdonalds-stabbing-massachusetts/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/28/1e0091e2-6509-4978-be25-6eac29391862/thumbnail/1200x630/d18bad82b8a74712a2e72bdb420250fb/jared-ravizza-court.jpg?v=c5044be0004eac09882c007ac02fef6d"
-    },
-    {
-      "author": "Samantha Mathewson",
-      "content": "The four zebrafish China sent to its space station are thriving after spending almost a month in orbit.\u00a0\r\nLaunched on April 25 alongside three astronauts aboard the Shenzhou-18 spacecraft, the zebraf\u2026 [+3091 chars]",
-      "description": "The fish are part of the country's first in-orbit aquatic ecological research project.",
-      "publishedAt": "2024-05-28T15:00:04Z",
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "title": "Just keep swimming! Zebrafish doing fine in zero gravity on China's Tiangong space station (video) - Space.com",
-      "url": "https://www.space.com/china-tiangong-space-station-zebrafish-healthy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zPshUFUmyRSowjRdSpsqkm-1200-80.gif"
-    },
-    {
-      "author": "Florida Today",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-28T14:26:15Z",
-      "source": {
-        "id": null,
-        "name": "Florida Today"
-      },
-      "title": "SpaceX launch recap: Starlink mission Tuesday morning from Cape Canaveral, Florida - Florida Today",
-      "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/28/spacex-falcon-9-rocket-launch-starlink-florida-cape-canaveral-space-orbital-booster/73868918007/",
-      "urlToImage": null
-    },
-    {
-      "author": "Joanna Nelius",
-      "content": "Chromebook Plus laptops are getting Google Gemini\r\nChromebook Plus laptops are getting Google Gemini\r\n / Acers new Chromebooks are among the first to get a bunch of AI features.\r\nByJoanna Nelius, lap\u2026 [+4636 chars]",
-      "description": "Chromebook Plus laptops from Acer, Asus, and HP will receive features like Help me write, Magic Editor for photos, and 12 free months of Google One AI Premium.",
-      "publishedAt": "2024-05-28T14:18:39Z",
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "title": "Google adds Gemini to Chromebook Plus devices - The Verge",
-      "url": "https://www.theverge.com/2024/5/28/24166171/chromebook-plus-gemini-acer-asus-hp",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/X4Uftw_NRzSP4VsUoamq1m3K1sM=/0x0:1921x1080/1200x628/filters:focal(961x540:962x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25467384/Main_blog_post_infographic.jpg"
-    },
-    {
-      "author": "Cheyanne M. Daniels",
-      "content": "A Virginia-based tech company will pay thousands of dollars in fines for a job posting that requested whites only to apply.\r\nThe Justice and Labor departments have fined minority-owned federal contra\u2026 [+2156 chars]",
-      "description": "A Virginia-based tech company will pay thousands of dollars in fines for a job posting that requested \u201cwhites only\u201d to apply. The Justice and Labor departments have fined minority-owned federal contractor Arthur Grand Technologies Inc. a civil penalty of $7,5\u2026",
-      "publishedAt": "2024-05-28T13:58:00Z",
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "title": "After \u2018whites only\u2019 job posting, tech staffing firm settles with DOJ - The Hill",
-      "url": "https://thehill.com/business/4688856-whites-only-job-posting-tech-staffing-firm-settles-doj/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/650d468ecfb830.73733268-e1716904594656.jpeg?w=1280"
-    },
-    {
-      "author": "Matt Jaworowski",
-      "content": "GRAND RAPIDS, Mich. (WOOD) Testing has confirmed the presence of highly pathogenic avian influenza in three more dairy herds in Michigan.\r\nThe Michigan Department of Agriculture and Rural Development\u2026 [+1678 chars]",
-      "description": "Testing has confirmed the presence of highly pathogenic avian influenza in three more dairy herds in Michigan.",
-      "publishedAt": "2024-05-28T13:49:30Z",
-      "source": {
-        "id": null,
-        "name": "WOODTV.com"
-      },
-      "title": "MDARD: 3 more dairy herds infected with bird flu - WOODTV.com",
-      "url": "https://www.woodtv.com/news/michigan/mdard-3-more-dairy-herds-infected-with-bird-flu/",
-      "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2024/04/661ab68e2d9ca8.33159401-e1715608896296.jpeg?w=1280"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "The newly facelifted Porsche 911 is now available as a hybrid. But wait, before you spit fire and brimstone in Porsche\u2019s direction, this isn\u2019t some hulking P...",
-      "publishedAt": "2024-05-28T13:31:53Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "FIRST LOOK: Hybrid Porsche 911 GTS \u2013 534bhp, Bigger Engine, Trick Turbo, E-Boost! - Top Gear",
-      "url": "https://www.youtube.com/watch?v=it8xrIIC1cI",
-      "urlToImage": "https://i.ytimg.com/vi/it8xrIIC1cI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggWShlMA8=&rs=AOn4CLAXi5O0P9G2tiAjzl1Kr38oMXvtLQ"
-    },
-    {
-      "author": "",
-      "content": "People like to say once we get past Memorial Day, we can start seriously looking at which teams are going to be contenders and which will fall out of the race. Sure, there have been collapses and sur\u2026 [+10731 chars]",
-      "description": "The Phillies remain on top, but losing a series to the Rockies isn't a great advertisement for domination",
-      "publishedAt": "2024-05-28T13:30:35Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "MLB Power Rankings: Guardians creep closer to Phillies, Yankees, plus fear of playoff team with losing record - CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-power-rankings-guardians-creep-closer-to-phillies-yankees-plus-fear-of-playoff-team-with-losing-record/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/05/28/1ae7d4df-2661-49ca-b3a6-23845ac21397/thumbnail/1200x675/8e35d87d0921d7ffdff57234e8f90597/mlbpowerrankings0527.png"
     }
   ],
   "status": "ok",
-  "totalResults": 33
+  "totalResults": 37
 }
