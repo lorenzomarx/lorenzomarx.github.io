@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Sammi Caramela, Duncan Cooper",
+      "content": "\u201cThe most powerful people in the world see themselves as utterly incapable of actually creating a future in which everything\u2019s gonna be OK.\u201d \u2013Douglas Rushkoff",
+      "description": "New Zealand, in particular, is an \u201capocalypse escape destination for America\u2019s elite.\"",
+      "publishedAt": "2024-05-31T14:59:26Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Billionaires Are Building Luxury Bunkers to Escape Doomsday",
+      "url": "https://www.vice.com/en/article/epv9pe/billionaires-are-building-luxury-bunkers-to-escape-doomsday",
+      "urlToImage": "https://video-images.vice.com/articles/6659e0ab90b8b77c15642ff4/lede/1717166252302-vtvsocialswtroud105eliteanxiety1920ytedit00024410still003.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "VICE Staff, Joe Zadeh",
       "content": "In 1993, American wrestling promoter Eric Bischoff took over what was a struggling World Championship Wrestling (WCW) and transformed it into a cultural phenomenon. He signed Hulk Hogan, built his ow\u2026 [+1700 chars]",
       "description": "Starring Dwayne \u201cThe Rock\u201d Johnson, Bill Goldberg, Eric Bischoff and many more, the four-part series miniseries begins on VICE TV on June 4.",
@@ -223,5 +236,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 17
+  "totalResults": 18
 }

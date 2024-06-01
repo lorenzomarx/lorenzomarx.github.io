@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "author": "Luc Cohen, Jack Queen, Andy Sullivan",
-      "description": "Donald Trump became the first U.S. president to be convicted of a crime on Thursday when a New York jury found him guilty of falsifying documents to cover up a payment to silence a porn star ahead of the 2016 election.",
-      "publishedAt": "2024-05-30T21:24:04Z",
-      "title": "Jury finds Donald Trump guilty on all 34 counts at hush money trial",
-      "url": "https://www.reuters.com/legal/jurors-begin-second-day-deliberations-trump-hush-money-trial-2024-05-30/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/RMIGPYPT3JKD3E4MQJJWXKTILA.jpg?auth=16f0c29656abf76ba9e23b0999910b4c946d8c1551a2935dd23bef3159b5c006&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
       "description": "Israeli forces have ended combat operations in the Jabalia area of north Gaza after destroying more than 10 kilometres of tunnels during days of intense fighting that included over 200 air strikes, the military said on Friday.",
       "publishedAt": "2024-05-31T10:44:44Z",
       "title": "Israeli military says combat in part of north Gaza is over",
       "url": "https://www.reuters.com/world/middle-east/israeli-military-says-combat-part-north-gaza-is-over-2024-05-31/",
       "urlToImage": "https://www.reuters.com/resizer/v2/HCNLTYO26RLHJB7KYYWG7OJPA4.jpg?auth=6f0f6daa6079b2d9c09d390dcb0b8960cdb17908660c34500e3ee377c9fef890&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Anastasiia Malenko",
+      "description": "Outgunned and outmanned, Kyiv has been increasing pressure on its Western allies to be able to launch offensive strikes at military targets inside Russia.",
+      "publishedAt": "2024-05-31T13:31:45Z",
+      "title": "Ukraine using Western arms to strike inside Russia 'a question of time', says Zelenskiy",
+      "url": "https://www.reuters.com/world/europe/ukraine-using-western-arms-strike-inside-russia-a-question-time-says-zelenskiy-2024-05-31/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/NGVVI4WEC5NM5DPZQM5JXSO7WQ.jpg?auth=61d12a6493c89cf34ce751d501727673bacea37c53c7ddc25ad49bf3a073e0b7&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Bate Felix, Alexander Winning",
@@ -25,20 +25,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/444PLG6PDNKKFA6UKQOPJROONE.jpg?auth=a8493c4ca1bd0e283fb1e2d9264961751606ea6d50bed0a9c3f77ff152154fbf&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Xinghui Kok, Fanny Potkin, Idrees Ali",
-      "description": "Ukrainian President Volodymyr Zelenskiy is expected to attend the Shangri-La Dialogue security conference in Singapore this weekend, six sources said, as Ukraine faces a renewed assault two years after Russian forces invaded.",
-      "publishedAt": "2024-05-31T08:05:07Z",
-      "title": "Ukraine's Zelenskiy expected to attend Singapore security summit",
-      "url": "https://www.reuters.com/world/europe/ukraines-zelenskiy-expected-attend-singapore-security-summit-sources-say-2024-05-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/F5YZ2LZ6PZMS5OAKQNUK76S2PI.jpg?auth=dcad7c17299bc6d47473a00aa731b1461de74ff2b03e0e35f851d85fc4c48114&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Idrees Ali, Xinghui Kok",
-      "description": "The Shangri-La Dialogue summit began on Friday with the U.S. and China defence chiefs holding their first face-to-face meeting in two years and the Philippines' president set to give a speech expected to touch on sensitive South China Sea claims.",
-      "publishedAt": "2024-05-31T05:03:39Z",
-      "title": "US-China meeting, Marcos speech in spotlight at security summit",
-      "url": "https://www.reuters.com/world/asia-pacific/us-china-meeting-marcos-speech-spotlight-security-summit-2024-05-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/54N54477HBMDJNTCRHKIJVPA7M.jpg?auth=ad076ad4fb1eb8d8654e183c4ea1fb3e0e85d435b5a5e04462bd0f4ffb5710d8&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Chinese Vice Foreign Minister Ma Zhaoxu urged the United States to refrain from \"smearing\" China and to stop imposing \"abusive\" sanctions on Chinese companies at talks this week in Washington, China's foreign ministry said on Friday.",
+      "publishedAt": "2024-05-31T17:09:45Z",
+      "title": "Chinese vice foreign minister urged US to stop 'smearing' China, Beijing says",
+      "url": "https://www.reuters.com/world/china/chinese-vice-foreign-minister-urged-us-stop-smearing-china-beijing-says-2024-05-31/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/I3ZYGII2AZPY7IF6KZ3USPYXXE.jpg?auth=8a169823676805f9619f361392e8eba0bc5dc0635a82ecc831461e691290b3c3&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Sabine Siebold, Jan Lopatka, Jason Hovet",
@@ -50,35 +42,43 @@
     },
     {
       "author": "Jatindra Dash",
-      "description": "At least 24 people died of suspected heatstroke in India's eastern states of Bihar and Odisha on Thursday, and the heatwave in the region is expected to continue until Saturday, authorities said.",
-      "publishedAt": "2024-05-31T11:08:45Z",
-      "title": "At least 24 dead in eastern India as temperatures soar",
+      "description": "At least 33 people, including election officials on duty, died of suspected heatstroke in India's states of Bihar, Uttar Pradesh and Odisha on Friday, and the heatwave in the region is expected to continue until Saturday, authorities said.",
+      "publishedAt": "2024-05-31T16:27:39Z",
+      "title": "India heatwave kills at least 33, including election officials",
       "url": "https://www.reuters.com/world/india/least-15-dead-eastern-india-over-24-hours-temperatures-soar-2024-05-31/",
       "urlToImage": "https://www.reuters.com/resizer/v2/F5QBKLTDCZMIJLGVATKQ2GF6NM.jpg?auth=b38054eaacdaf15bd0d88530ade14974b05370bbf09bf8890efe9a9e04a17f6f&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Sarah Marsh, Andreas Rinke",
-      "description": "In a recent discussion by the east German district council of Sonneberg about getting refugees into work, Roland Schliewe of the far-right Alternative for Germany (AfD) said demanding jobs could not be given to North Africans because they had a low IQ.",
-      "publishedAt": "2024-05-31T09:57:53Z",
-      "title": "Far right AfD cracks Germany's post-Nazi firewalls with success in the east",
-      "url": "https://www.reuters.com/world/europe/far-right-afd-cracks-germanys-post-nazi-firewalls-with-success-east-2024-05-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FA7PPPPP55JKXK6BBCSW2T2F3U.jpg?auth=808b036cd670e36849f5f93c9e694c4006edfc26dc9f7ec8b3dd937ea08bd70f&height=1005&width=1920&quality=80&smart=true"
+      "author": "Thomas Escritt",
+      "description": "German police said they shot and wounded a man armed with a knife who attacked a right-wing demonstration in the southwestern city of Mannheim on Friday.",
+      "publishedAt": "2024-05-31T16:48:04Z",
+      "title": "German police shoot knifeman who attacked far-right rally",
+      "url": "https://www.reuters.com/world/uk/german-police-shoot-injure-man-who-attacked-far-right-demo-2024-05-31/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XXY4RSFVDBORDCGPJW7QBCIBPU.jpg?auth=fea9471dcbc3d974c21e2b29a4dee350b558287fba441820ea27532ccbb76824&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Max Hunder",
-      "description": "In its quest to fill the dwindling ranks of its infantry, Ukraine has turned to recruiting prisoners to join the fight against Russia, and more than four thousand have applied so far.",
-      "publishedAt": "2024-05-31T08:43:42Z",
-      "title": "Thousands of Ukrainian prisoners apply to join army in return for parole",
-      "url": "https://www.reuters.com/world/europe/thousands-ukrainian-prisoners-apply-join-army-return-parole-2024-05-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OEFNHXODPNK4VEXOP5CYBEKT3Q.jpg?auth=47c53ebb4e5c80a7c5899c261feebcecc66c325b7683ed6f839b53f85347da8a&height=1005&width=1920&quality=80&smart=true"
+      "author": "Layli Foroudi",
+      "description": "A Paris-based Moroccan journalist who wears the hijab said on Friday she was appealing against a rule that bans women from covering their head in photos on the French press ID card.",
+      "publishedAt": "2024-05-31T16:34:58Z",
+      "title": "Journalist challenges rule banning hijab in French press card photos",
+      "url": "https://www.reuters.com/world/europe/journalist-challenges-french-rule-banning-hijab-press-card-photos-2024-05-31/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/H7XQZXNX3BOGHAVKVYG5PLSWKA.jpg?auth=bb27148d286631e3f6bf9a2e8a36752491bb60ab5a56ad6984fe5e6564d300d1&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "The people of Sudan are at \"imminent risk of famine\", United Nations agencies said on Friday, more than a year into a war between the army and the paramilitary Rapid Support Forces (RSF).",
-      "publishedAt": "2024-05-31T10:30:30Z",
-      "title": "Sudan at 'imminent risk of famine', UN aid chiefs warn",
-      "url": "https://www.reuters.com/world/africa/sudan-imminent-risk-famine-un-aid-chiefs-warn-2024-05-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/THEF4WB7FRMIRNPKIBATW6JAIU.jpg?auth=3552e8a1982c739168c60679933756fe38c6effb60057e84f6a07c92bddcd070&height=1005&width=1920&quality=80&smart=true"
+      "description": "El Salvador's national police shared details on Tuesday about an alleged plot by veterans of the country's civil war to detonate explosives on Saturday, when President Nayib Bukele is inaugurated for a second term.",
+      "publishedAt": "2024-05-31T17:44:26Z",
+      "title": "El Salvador inauguration bomb plot foiled, police say",
+      "url": "https://www.reuters.com/world/americas/el-salvador-inauguration-bomb-plot-foiled-police-say-2024-05-31/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=194"
+    },
+    {
+      "author": "Camillus Eboh",
+      "description": "Nigeria's main labour unions on Friday said they had declared an indefinite strike from Monday over the minimum wage.",
+      "publishedAt": "2024-05-31T17:48:46Z",
+      "title": "Nigeria's main labour unions declare indefinite strike over minimum wage",
+      "url": "https://www.reuters.com/world/africa/nigerias-main-labour-unions-declare-indefinite-strike-over-minimum-wage-2024-05-31/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=194"
     }
   ],
   "sortBy": "top",
