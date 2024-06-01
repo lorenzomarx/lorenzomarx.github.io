@@ -1,6 +1,188 @@
 {
   "articles": [
     {
+      "author": "USA TODAY",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-31T10:47:26Z",
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Video shows Iceland volcano erupt, blast lava into the sky - USA TODAY",
+      "url": "https://www.usatoday.com/story/news/world/2024/05/29/grindavik-volcano-eruption-iceland/73899542007/",
+      "urlToImage": null
+    },
+    {
+      "author": "CBS Minnesota",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-31T10:22:58Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Police officer among 2 killed in Minneapolis shooting; suspect also dead - CBS Minnesota",
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3JlcG9ydGVkLWFjdGl2ZS1zaG9vdGluZy1zb3V0aC1taW5uZWFwb2xpcy13aGl0dGllci1ibGFpc2RlbGwv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3JlcG9ydGVkLWFjdGl2ZS1zaG9vdGluZy1zb3V0aC1taW5uZWFwb2xpcy13aGl0dGllci1ibGFpc2RlbGwv?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "MICHAEL R. SISAK, JILL COLVIN, MICHELLE L. PRICE, ALANNA DURKIN RICHER",
+      "content": "NEW YORK (AP) Donald Trumps conviction on 34 felony counts marks the end of the former presidents historic hush money trial, but the fight over the case is far from over.\r\nNow comes the sentencing an\u2026 [+9027 chars]",
+      "description": "Donald Trump\u2019s conviction on 34 felony counts marks the end of his historic hush money trial but the fight over the case is far from over. Now comes the sentencing and the prospect of a prison sentence. A lengthy appellate process. And all the while, the pres\u2026",
+      "publishedAt": "2024-05-31T09:57:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "What's next for Donald Trump after hush money conviction - The Associated Press",
+      "url": "https://apnews.com/article/trump-conviction-what-to-know-a70941a7cd367f7b2aa3218ea91ad922",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2e015d9/2147483647/strip/true/crop/7655x4306+0+400/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2Fcd%2F82d60c254b97437af652f4a75072%2F1b521e49037043609340aa14d68bae92"
+    },
+    {
+      "author": null,
+      "content": "Zoe Kleinman,Technology editor\r\nThe owner of the hit online game Wordle is legally challenging a geography-based spinoff called Worldle.\r\nIn the filing, the New York Times, which purchased Wordle for\u2026 [+3235 chars]",
+      "description": "The New York Times, Wordle's owner, accuses similarly-named geography game of \"creating confusion.\"",
+      "publishedAt": "2024-05-31T09:22:44Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Wordle locked in legal row with geography spinoff, Worldle - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cjrr5ee5zv8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50ac/live/15cb77b0-1dca-11ef-baa7-25d483663b8e.jpg"
+    },
+    {
+      "author": "Jenni Reid",
+      "content": "Inflation in the euro zone rose to 2.6% in May, statistics agency Eurostat said Friday, but a higher-than-expected print did not sway market bets of an interest rate cut from the European Central Ban\u2026 [+2465 chars]",
+      "description": "The European Central Bank is widely expected to cut interest rates next week.",
+      "publishedAt": "2024-05-31T09:07:23Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "Euro zone inflation rises to 2.6% in May, but bloc still seen heading for interest rate cut - CNBC",
+      "url": "https://www.cnbc.com/2024/05/31/euro-zone-inflation-may-2024.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107422443-1717141145050-gettyimages-2153659040-20240513SOPAMASL134.jpeg?v=1717141435&w=1920&h=1080"
+    },
+    {
+      "author": "JON GAMBRELL, LOLITA C. BALDOR",
+      "content": "DUBAI, United Arab Emirates (AP) Joint British-U.S. airstrikes targeting Yemens Houthi rebels killed at least 16 people and wounded 35 others, the rebels said Friday, the highest publicly acknowledge\u2026 [+3782 chars]",
+      "description": "Joint British-U.S. airstrikes targeting Yemen\u2019s Houthi rebels killed at least 16 people and wounded 35 others. That's according to comments from the rebels Friday. That is the highest publicly acknowledged death toll strikes carried out over the rebels' attac\u2026",
+      "publishedAt": "2024-05-31T08:32:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Houthi rebels say at least 16 killed, 35 others wounded in joint US-British airstrikes in Yemen - The Associated Press",
+      "url": "https://apnews.com/article/yemen-war-us-british-airstrikes-israel-hamas-12f99b7afc389a703f8dd333f2376b20",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fba9f9d/2147483647/strip/true/crop/4673x2629+0+243/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fe5%2F75136b5809366dbea5a4fce8806c%2Fd9f71aa37d244f0ca1798cdc1e5ca170"
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-31T08:18:00Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Stocks and dollar idle ahead of Fed's favourite inflation figure - Reuters",
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-31/",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": "US President Joe Biden has given Ukraine permission to use American-supplied weapons to strike targets in Russia, but only near the Kharkiv region, US officials say.\r\nOne told BBC News his team had b\u2026 [+2578 chars]",
+      "description": "The US president gives Ukraine permission to use US-supplied weapons to strike targets in Russia, but only near Kharkiv.",
+      "publishedAt": "2024-05-31T07:49:30Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Biden allows Ukraine to hit some targets in Russia with US weapons - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cy770l9llnzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7f0d/live/d11ff4a0-1f28-11ef-a13a-0b8c563da930.jpg"
+    },
+    {
+      "author": "Department of Defense",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-31T06:50:24Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Readout of Secretary of Defense Lloyd J. Austin III's Meeting With People's Republic of Ch - Department of Defense",
+      "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL1JlbGVhc2VzL1JlbGVhc2UvQXJ0aWNsZS8zNzkyMTE5L3JlYWRvdXQtb2Ytc2VjcmV0YXJ5LW9mLWRlZmVuc2UtbGxveWQtai1hdXN0aW4taWlpcy1tZWV0aW5nLXdpdGgtcGVvcGxlcy1yZXB1Ymwv0gEA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Simone McCarthy",
+      "content": "Editors Note: Sign up for\u00a0CNNs Meanwhile in China newsletter\u00a0which explores what you need to know about the countrys rise and how it impacts the world.\r\nChinese leader Xi Jinping decried tremendous s\u2026 [+6685 chars]",
+      "description": "Chinese leader Xi Jinping decried \u201ctremendous sufferings\u201d in the Middle East and called for an international peace conference as leaders from Arab nations visit Beijing this week amid mounting global concern over Israel\u2019s war in Gaza.",
+      "publishedAt": "2024-05-31T06:18:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "China\u2019s Xi Jinping calls for peace conference and \u2018justice\u2019 over war in Gaza as Arab leaders visit Beijing - CNN",
+      "url": "https://www.cnn.com/2024/05/30/china/xi-jinping-arab-leaders-china-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-05-30t042114z-907146426-rc2p08a2c286-rtrmadp-3-china-arabstates.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Richard Pollina",
+      "content": "An elderly California man accused of terrorizing his neighbors with a slingshot for nearly a decade died Wednesday just days after he was arrested and appeared in court. \r\nPrince Raymond King, 81, wa\u2026 [+2906 chars]",
+      "description": "The senior was charged with five counts of felony vandalism and two counts of misdemeanor vandalism for allegedly targeting his neighbors\u2019 property with the slingshot",
+      "publishedAt": "2024-05-31T05:11:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "81-year-old 'serial slingshot shooter' found dead days after he's arrested for terrorizing neighborhood for a decade - New York Post ",
+      "url": "https://nypost.com/2024/05/31/us-news/california-serial-slingshot-shooter-prince-raymond-king-who-terrorized-neighborhood-for-a-decade-is-found-dead-after-his-arrest/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/california.jpg?quality=75&strip=all&1717117820&w=1024"
+    },
+    {
+      "author": "The Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-31T04:40:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Months after nation's 1st nitrogen gas execution, Alabama gives man lethal injection for 2 killings - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FsYWJhbWEtZXhlY3V0aW9uLWVsZGVybHktY291cGxlLW11cmRlci1sZXRoYWwtaW5qZWN0aW9uLWM3Njc3YTVmZGY5MTMxMmI2ODYwYzk0ZGUyYWZhNTY10gEA?oc=5",
+      "urlToImage": null
+    },
+    {
       "author": null,
       "content": "MINNEAPOLIS (AP) Luka Doncic was in his element, hitting shots from everywhere on the court, hushing the crowd and flashing those sly smiles as the Dallas Mavericks delivered a knockout performance.\r\u2026 [+5181 chars]",
       "description": "Get real-time NBA basketball coverage and scores as Dallas Mavericks takes on Minnesota Timberwolves. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
@@ -14,17 +196,56 @@
       "urlToImage": "https://sportsfly.cbsistatic.com/fly-0706/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
     },
     {
-      "author": "Sydney Bishop, Christina Maxouris",
-      "content": "Bruhat Soma, 12, of Florida won the 96th Scripps National Spelling Bee Thursday night after defeating all seven other finalists and beating his final competitor in the Bees second-ever spell-off.\r\nBr\u2026 [+3876 chars]",
-      "description": "Bruhat Soma, 12, of Florida has won the 96th Scripps National Spelling Bee, becoming the country\u2019s latest spelling superstar.",
-      "publishedAt": "2024-05-31T03:17:34Z",
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-05-31T04:03:12Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "politico",
+        "name": "Politico"
       },
-      "title": "Florida 12-year-old Bruhat Soma wins 96th Scripps National Spelling Bee after competition\u2019s second-ever spell-off - CNN",
-      "url": "https://www.cnn.com/2024/05/30/us/scripps-spelling-bee-2024-winner/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240531113934-gallery-spelling-bee.jpg?c=16x9&q=w_800,c_fill"
+      "title": "Biden said to be finalizing plans for migrant limits as part of a US-Mexico border clampdown - POLITICO",
+      "url": "https://www.politico.com/news/2024/05/31/biden-finalizing-plans-migrant-limits-us-mexico-border-00160944",
+      "urlToImage": null
+    },
+    {
+      "author": "Sara Whitman",
+      "content": "Will Smith and Jada Pinkett Smith are each other\u2019s ride or die.\r\nThe couple looked cozy at the Los Angeles premiere of \u201cBad Boys: Ride or Die\u201d Thursday evening as they made their first joint red carp\u2026 [+3112 chars]",
+      "description": "The couple was accompanied by their children, Willow Smith and Jaden Smith, as well as Will\u2019s son Trey, whom he shares with ex-wife Sheree Zampino.",
+      "publishedAt": "2024-05-31T03:40:00Z",
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "title": "Will Smith and Jada Pinkett Smith cozy up on red carpet in first joint appearance since separation reveal - Page Six",
+      "url": "https://pagesix.com/2024/05/30/entertainment/will-smith-and-jada-pinkett-smith-cozy-up-on-the-red-carpet-after-separation-reveal/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/82964969.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+      "author": null,
+      "content": "Paul Seddon,Jennifer McKiernan\r\nLabours leader says his partys green energy plans will ensure the UKs transition away from oil and gas does not repeat mistakes from the phase-out of coal.\r\nThe party \u2026 [+3664 chars]",
+      "description": "The party has been accused of putting jobs at risk by vowing not to issue any new oil and gas licences if it wins power.",
+      "publishedAt": "2024-05-31T03:03:03Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "GB energy firm would secure future jobs, says Labour - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c9xxpypr8d0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/374e/live/76a9d710-1f33-11ef-a13a-0b8c563da930.jpg"
+    },
+    {
+      "author": "Leah Degrazia",
+      "content": "Meet the new Miss Jolie.\r\nAmid\u00a0Angelina Jolie and Brad Pitt's\u00a0ongoing legal battles, Shiloh Jolie-Pitt legally\u00a0requested to drop the \"Pitt\" from her surname, according to documents obtained by TMZ Ma\u2026 [+767 chars]",
+      "description": "Angelina Jolie and Brad Pitt\u2019s daughter Shiloh Jolie-Pitt legally requested to drop the \"Pitt\" from her surname, according to paperwork filed on her 18th birthday.",
+      "publishedAt": "2024-05-31T02:32:00Z",
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "title": "Angelina Jolie and Brad Pitt's Daughter Shiloh Files to Change Name - E! NEWS",
+      "url": "https://www.eonline.com/news/1402737/angelina-jolie-and-brad-pitts-daughter-shiloh-officially-files-to-change-name",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024430/rs_1200x1200-240530193115-angelina_brad_shiloh.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
     },
     {
       "author": "Brenda Goodman",
@@ -38,229 +259,8 @@
       "title": "Third person in US tests positive for bird flu in connection to outbreak in dairy cattle - CNN",
       "url": "https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24143659716467.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": null,
-      "content": "Zoe Kleinman,Technology editor\r\nThe owner of the hit online game Wordle is legally challenging a geography-based spinoff called Worldle.\r\nIn the filing, the New York Times, which purchased Wordle for\u2026 [+3249 chars]",
-      "description": "The New York Times, Wordle's owner, accuses similarly-named geography game of \"creating confusion.\"",
-      "publishedAt": "2024-05-31T01:35:00Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Wordle locked in legal row with geography spinoff, Worldle - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cjrr5ee5zv8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50ac/live/15cb77b0-1dca-11ef-baa7-25d483663b8e.jpg"
-    },
-    {
-      "author": "Max Gao",
-      "content": "[This story contains spoilers from the season seven finale of 9-1-1, \u201cAll Fall Down.\u201d]\r\nEddie Diaz (Ryan Guzman) has been known to play with fire in his personal life on 9-1-1. But he had always some\u2026 [+16637 chars]",
-      "description": "The fan-favorite firefighter in the ABC procedural drama says the beloved father-son dynamic will never be the same: \"Eddie is not the best part of Christopher\u2019s life anymore.\"",
-      "publishedAt": "2024-05-31T01:00:36Z",
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "title": "\u20189-1-1\u2019 Star Ryan Guzman Breaks Down That Emotional Finale Goodbye - Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/tv/tv-features/911-season-7-finale-ryan-guzman-interview-1235912170/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/911_pic-copy.jpg?w=1024"
-    },
-    {
-      "author": "Leah Degrazia",
-      "content": "Jennifer Lopez isn't a gone girl to Ben Affleck.\u00a0\r\nThe \"Let's Get Loud\" singer and Good Will Hunting actor stepped out together for a family event in Los Angeles May 30 amid\u00a0weeks of breakup speculat\u2026 [+699 chars]",
-      "description": "Amid speculation of a split, Ben Affleck and Jennifer Lopez\u2014who tied the knot in July 2022\u2014were spotted attending a family event together in Los Angeles on May 30. See the couple's reunion.",
-      "publishedAt": "2024-05-31T00:35:28Z",
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "title": "Ben Affleck and Jennifer Lopez Reunite at Family Event Amid Breakup Speculation - E! Online - E! NEWS",
-      "url": "https://www.eonline.com/news/1402720/ben-affleck-and-jennifer-lopez-reunite-at-family-event-amid-breakup-speculation",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024430/rs_1200x1200-240530135052-1200-ben-affleck-jennifer-lopez-2024-2.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
-    },
-    {
-      "author": "Louis Casiano",
-      "content": "Bryan Kohberger, who stands accused of killing four University of Idaho students, was in court Thursday for a pretrial hearing where witnesses testified about the collection of evidence and cellphone\u2026 [+3252 chars]",
-      "description": "Bryan Kohberger, who is accused of killing four University of Idaho students, appeared in court Thursday for a pretrial hearing.",
-      "publishedAt": "2024-05-31T00:29:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Attorneys for Idaho murder suspect Bryan Kohberger maintain DA is slow-walking evidence - Fox News",
-      "url": "https://www.foxnews.com/us/attorneys-idaho-murder-suspect-bryan-kohberger-maintain-da-slow-walking-evidence",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/BRYAN-KOHBERGER-ARRESTED.jpg"
-    },
-    {
-      "author": "Gerrit De Vynck",
-      "content": "SAN FRANCISCO Google said it was scaling down the use of AI-generated answers in some search results, after the tech made high-profile errors including telling users to put glue on their pizza and sa\u2026 [+3239 chars]",
-      "description": "The tech giant put AI-generated answers at the top of search results for most people in the United States two weeks ago.",
-      "publishedAt": "2024-05-31T00:09:56Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Google scales back AI search answers after it told users to eat glue - The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJW2WZDMQLAS2BYI22P2YPXQRM_size-normalized.jpg&w=1440"
-    },
-    {
-      "author": "Michelle Kennedy",
-      "content": "This evening we have a chance to see the International Space Station overhead and just before we view the space station, the Progress 88 spacecraft will be visible for about five minutes. \r\nThis cont\u2026 [+1371 chars]",
-      "description": "Spot the International Space Station tonight and its refueling spacecraft Progress 88",
-      "publishedAt": "2024-05-31T00:05:00Z",
-      "source": {
-        "id": null,
-        "name": "WXII12 Winston-Salem"
-      },
-      "title": "Spot the Space Station tonight and Progress 88 spacecraft - WXII12 Winston-Salem",
-      "url": "https://www.wxii12.com/article/wxii-12-news-spot-international-space-station-tonight-refueling-spacecraft-progress-88-kazakhastan/60954080",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1362967310-665913de366df.jpg?crop=1.00xw:0.867xh;0,0&resize=1200:*"
-    },
-    {
-      "author": "TARA COPP, JOSEF FEDERMAN",
-      "content": "WASHINGTON (AP) Defense experts who have reviewed debris images from an Israeli airstrike that ignited a deadly fire in a camp for displaced Palestinians questioned why Israel did not use smaller, mo\u2026 [+6020 chars]",
-      "description": "Defense experts who've reviewed debris images from an Israeli airstrike that ignited a deadly fire in a camp for displaced Palestinians question why Israel didn't use smaller, more precise weapons when so many civilians were nearby. The defense experts say th\u2026",
-      "publishedAt": "2024-05-30T23:28:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Israel could have used smaller weapons against Hamas to avoid deaths in Gaza tent fire, experts say - The Associated Press",
-      "url": "https://apnews.com/article/bomb-rafah-civilians-israel-us-ada219d17926a14ca8c179338d53d109",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ef00e01/2147483647/strip/true/crop/3917x2203+0+204/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd5%2Fe6%2Fefb6a1ddd08aaa7e45ca69f4d2f8%2Fc5cd241d5b1645758f939c38be3db36a"
-    },
-    {
-      "author": "Lexi Carson",
-      "content": "Robert De Niro didn\u2019t hold back when he was asked about Donald Trump\u2018s guilty verdict in the Stormy Daniels hush money case Thursday.\r\n\u201cI think justice was served,\u201d he said on the carpet for his new \u2026 [+2392 chars]",
-      "description": "Robert De Niro celebrated Donald Trump's guilty verdict, saying 'Justice was served.'",
-      "publishedAt": "2024-05-30T23:19:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "Robert De Niro Celebrates Trump\u2019s Conviction: \u2018This Is My Country. This Guy Wants to Destroy It\u2019 - Variety",
-      "url": "https://variety.com/2024/film/news/donald-trump-robert-de-niro-guilty-1236020569/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/05/trump-de-niro.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "author": "Sarah Dean, David McKenzie",
-      "content": "Johannesburg, South AfricaCNN\r\n \u00a0\u2014\u00a0\r\nEarly results from South Africas election suggest the ruling African National Congress (ANC) party\u00a0could lose its majority for the first time in 30 years.\r\nWith r\u2026 [+2142 chars]",
-      "description": "The early results declared in South Africa\u2019s election suggest the ruling African National Congress (ANC) party\u00a0could lose its majority for the first time in 30 years.",
-      "publishedAt": "2024-05-30T23:10:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "First results in South Africa\u2019s election suggest it is heading for biggest political shift since apartheid - CNN",
-      "url": "https://www.cnn.com/2024/05/30/africa/early-results-released-in-south-africas-election-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2154600880.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Ayron Lewallen",
-      "content": "BIRMINGHAM, Ala. \u2014A confirmed case of dengue virus has been found in Jefferson County. The World Health Organization said the virus specifically spreads by mosquitoes, and one woman told WVTM 13 she \u2026 [+1419 chars]",
-      "description": "Erika Van Meir caught the virus in November when she and her family went to Mexico to celebrate Thanksgiving, but it took her months to recover.",
-      "publishedAt": "2024-05-30T23:05:00Z",
-      "source": {
-        "id": null,
-        "name": "WVTM13"
-      },
-      "title": "'I thought I could die': Birmingham woman remembers battling dengue fever - WVTM13 Birmingham",
-      "url": "https://www.wvtm13.com/article/birmingham-alabama-florida-dengue-fever-virus-mosquitos-summer-travel/60944231",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/26be7726-7a2f-4122-b4c9-18dec1ef3748/519f9e16-71ac-4cef-b93e-7695f019e370.jpg?crop=0.798xw:0.798xh;0.111xw,0&resize=1200:*"
-    },
-    {
-      "author": "Andrew J. Hawkins",
-      "content": "Jeeps Wagoneer S Trailhawk concept teases a fully electric off-roader\r\nJeeps Wagoneer S Trailhawk concept teases a fully electric off-roader\r\n / Sitting pretty on 31.5-inch tires.\r\nByAndrew J. Hawkin\u2026 [+2840 chars]",
-      "description": "Jeep\u2019s Wagoneer S electric SUV could be getting a Trailhawk trim based on a new concept released today. The EV sports tow hooks, 31.5-inch tires, and a host of rugged details.",
-      "publishedAt": "2024-05-30T23:00:00Z",
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "title": "Jeep's Wagoneer S Trailhawk concept teases a fully electric off-roader - The Verge",
-      "url": "https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/iEAA2ZD42LotvMbkIGsLfBBfEfo=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/25471369/IMG_7799.jpg"
-    },
-    {
-      "author": "Brandon Specktor",
-      "content": "The James Webb Space Telescope\r\n (JWST) has done it again.\u00a0\r\nAccording to new research, astronomers using the powerful infrared telescope have revealed what appears to be the two earliest, most dista\u2026 [+3060 chars]",
-      "description": "The James Webb Space Telescope has detected the two earliest, most distant galaxies in the known universe, dating to just 300 million years after the Big Bang. The detection of even earlier galaxies is likely to follow.",
-      "publishedAt": "2024-05-30T22:40:51Z",
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "title": "James Webb telescope discovers the 2 earliest galaxies in the known universe \u2014 and 1 is shockingly big - Livescience.com",
-      "url": "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-the-2-earliest-galaxies-in-the-known-universe-and-1-is-shockingly-big",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/q7WZijpNwRHUnmh2x8ARij-1200-80.jpg"
-    },
-    {
-      "author": "FOX 9",
-      "content": "MINNEAPOLIS (FOX 9) - A Minneapolis police officer and the suspected shooter were killed in a mass shooting in the city on Thursday.\r\nAccording to officials, the shooting at an apartment building Thu\u2026 [+1205 chars]",
-      "description": "A Minneapolis police officer and the suspected shooter were killed in a mass shooting in the city on Thursday.",
-      "publishedAt": "2024-05-30T22:39:49Z",
-      "source": {
-        "id": null,
-        "name": "FOX 9"
-      },
-      "title": "Minneapolis police death: Officer, suspected shooter dead after mass shooting - FOX 9 Minneapolis-St. Paul",
-      "url": "https://www.fox9.com/news/minneapolis-police-death-officer-2-citizens-killed-mass-shooting",
-      "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/05/1280/720/mpd-shooting-5-30.jpg?ve=1&tl=1"
-    },
-    {
-      "author": "Steve Almasy, Taylor Romine, Ray Sanchez, Dalia Faheid",
-      "content": "Chad Daybell was found guilty Thursday of\u00a0first-degree murder and conspiracy charges in the deaths of his first wife and two children of his second wife in a case Idaho prosecutors claim was fueled b\u2026 [+11107 chars]",
-      "description": "Chad Daybell was found guilty Thursday of\u00a0murder and conspiracy charges in the deaths of his first wife and the two children of his second wife in a case Idaho prosecutors claim was fueled by power, sex, money and apocalyptic spiritual beliefs. Daybell could \u2026",
-      "publishedAt": "2024-05-30T22:37:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Chad Daybell found guilty of killing first wife and second wife\u2019s 2 children - CNN",
-      "url": "https://www.cnn.com/2024/05/30/us/jury-deliberations-murder-trial-chad-daybell/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24150045462215.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "POLITICO",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-05-30T22:17:58Z",
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "title": "Biden secretly gave Ukraine permission to strike inside Russia with US weapons - POLITICO",
-      "url": "https://www.politico.com/news/2024/05/30/biden-ukraine-weapons-strike-russia-00160731",
-      "urlToImage": null
-    },
-    {
-      "author": "Heather Dinich",
-      "content": "DESTIN, Fla. -- As the SEC spring meetings concluded on Thursday, commissioner Greg Sankey acknowledged that while college athletics is in \"uncharted waters,\" he believes the NCAA Division I schools \u2026 [+4116 chars]",
-      "description": "SEC commissioner Greg Sankey says that the NCAA basketball tournament might change from its current field of 68 teams.",
-      "publishedAt": "2024-05-30T21:49:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "SEC's Greg Sankey confident NCAA Division I can operate together - ESPN",
-      "url": "https://www.espn.com/college-sports/story/_/id/40246983/sec-greg-sankey-confident-ncaa-division-operate-together",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0706%2Fr716363_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "content": "Enlarge/ OpenAI CEO Sam Altman.\r\n79\r\nApple and OpenAI have successfully made a deal to include OpenAI's generative AI technology in Apple's software, according to The Information, which cites a sourc\u2026 [+2994 chars]",
-      "description": "The deal has parallels to Apple's infamous search deal with Google.",
-      "publishedAt": "2024-05-30T21:39:53Z",
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "title": "Report: Apple and OpenAI have signed a deal to partner on AI - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2024/05/report-apple-and-openai-have-signed-a-deal-to-partner-on-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2153474140-760x380.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 36
+  "totalResults": 37
 }
