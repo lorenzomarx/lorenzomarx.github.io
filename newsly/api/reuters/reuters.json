@@ -1,20 +1,20 @@
 {
   "articles": [
     {
+      "author": "Luc Cohen, Jack Queen, Andy Sullivan",
+      "description": "Donald Trump became the first U.S. president to be convicted of a crime on Thursday when a New York jury found him guilty of falsifying documents to cover up a payment to silence a porn star ahead of the 2016 election.",
+      "publishedAt": "2024-05-30T21:24:04Z",
+      "title": "Jury finds Donald Trump guilty on all 34 counts at hush money trial",
+      "url": "https://www.reuters.com/legal/jurors-begin-second-day-deliberations-trump-hush-money-trial-2024-05-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/RMIGPYPT3JKD3E4MQJJWXKTILA.jpg?auth=16f0c29656abf76ba9e23b0999910b4c946d8c1551a2935dd23bef3159b5c006&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Dan Williams",
       "description": "Israeli forces killed at least 12 Palestinians in a dawn airstrike on Rafah in southern Gaza on Thursday and fighting raged in several other areas of the coastal enclave, Gaza medics said.",
       "publishedAt": "2024-05-30T12:55:17Z",
       "title": "Israeli airstrike on Rafah kills 12 Palestinians, Gaza medics say",
       "url": "https://www.reuters.com/world/middle-east/israeli-airstrike-rafah-kills-12-palestinians-gaza-medics-say-2024-05-30/",
       "urlToImage": "https://www.reuters.com/resizer/v2/EGGEQVXRF5JENP7ZI7ZI7XY3AY.jpg?auth=332e3131de94a12d1e8589e20fc88b8c2a73f02c577808ae7ad151aaff768177&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Luc Cohen",
-      "description": "If the jury deliberating in Donald Trump's criminal trial makes the historic decision to convict him, the judge overseeing the case will face a monumental choice: whether to sentence the 2024 Republican presidential candidate to time behind bars.",
-      "publishedAt": "2024-05-30T13:33:00Z",
-      "title": "For Trump's false records charges, prison is rare but not unprecedented",
-      "url": "https://www.reuters.com/legal/trumps-false-records-charges-prison-is-rare-not-unprecedented-2024-05-30/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/MHBSTPLIBRLXBBGYSY62S2QXPA.jpg?auth=77da5fdf9149a60d10486a05ed500a578d96c84b5e265d0be9fad4d7be1d3229&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Nellie Peyton, Bate Felix",
@@ -25,6 +25,30 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/EBHWBT75TBMJBL2W573J76MPBE.jpg?auth=197ca6dda5e86da5154d05bf3eef4f47763a0d0428f0b8f0022b56d473e500cb&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Reuters",
+      "description": "Hamas said on Thursday it had told mediators it would not take part in more negotiations during ongoing aggression but was ready for a \"complete agreement\" including an exchange of hostages and prisoners if Israel stopped the war.",
+      "publishedAt": "2024-05-30T18:48:01Z",
+      "title": "Hamas says it is ready for a 'complete agreement' if Israel stops war",
+      "url": "https://www.reuters.com/world/middle-east/hamas-ready-reach-complete-agreement-including-hostagesprisoners-exchange-deal-2024-05-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/D224YGCI2FPUVLSREBNRWXCRZQ.jpg?auth=c5ea5fc6b6af6a2ba01b6a72c7c07365107fba738f039b3a1eda20ecb07b242e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Steve Holland, Humeyra Pamuk",
+      "description": "President Joe Biden has quietly allowed Kyiv to fire U.S.-supplied weapons at targets inside Russia but only near the border with the area around Ukraine's northern city of Kharkiv, U.S. officials said on Thursday.",
+      "publishedAt": "2024-05-30T21:02:46Z",
+      "title": "Biden allows Ukraine to use US-supplied arms to strike inside Russia near Kharkiv area, say US officials",
+      "url": "https://www.reuters.com/world/biden-allows-ukraine-use-us-supplied-arms-strike-inside-russia-near-kharkiv-area-2024-05-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/5ZKODQERJRJNLETQPKVPWNFRWA.jpg?auth=6ce6272dac4bedfb331df38094c5cdc8aee42ae433ac458ff571343a46302717&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Russian forces shelled a five-storey apartment building in Kharkiv, Ukraine's second largest city, killing at least one person and injuring 13, local officials said on Thursday.",
+      "publishedAt": "2024-05-30T23:25:41Z",
+      "title": "Russian shelling kills at least one in apartment block in Ukraine's Kharkiv",
+      "url": "https://www.reuters.com/world/europe/russian-shelling-hits-apartment-block-ukraines-kharkiv-officials-say-2024-05-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VXA3HHB65BNRRGUFWW5YMI2NEM.jpg?auth=8f425acc5d4c94ad2def2134b7d1394d793b924613ab6caed84d9e3f9055dcf5&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Nidal Al-Mughrabi, John Davison, Emma Farge, Ali Sawafta",
       "description": "The Israeli military has lifted a ban on the sale of food to Gaza from Israel and the occupied West Bank as its battlefield offensive chokes international aid, according to Palestinian officials, businessmen and international aid workers.",
       "publishedAt": "2024-05-30T16:44:40Z",
@@ -33,12 +57,20 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/NOPPTUCNQJILVA6ZNJQ5NK6JII.jpg?auth=b18829ea5280aa248df797225b9b91c2a4e307fbc8ee86e0eb9804ef8806ed91&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Michelle Nichols",
-      "description": "The United States boycotted a United Nations tribute to Iranian President Ebrahim Raisi on Thursday because it said he was \"involved in numerous, horrific human rights abuses\" and that the world body should instead stand with the people of Iran.",
-      "publishedAt": "2024-05-30T15:17:15Z",
-      "title": "US boycotts UN tribute to late Iran president",
-      "url": "https://www.reuters.com/world/us-boycotts-un-tribute-late-iran-president-2024-05-30/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3FKQON6VLFMCJJLOMVTAULHSIQ.jpg?auth=437c367e56c1921749a062cf66628c1f5326d9b03e9be31fe0de12d11c005d30&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Slovak Prime Minister Robert Fico was released from a hospital in the central city of Banska Bystrica, where he had been recovering from an assassination attempt, and taken to his apartment in Bratislava on Thursday, Slovak media reported.",
+      "publishedAt": "2024-05-30T19:50:16Z",
+      "title": "Slovak Prime Minister Fico released from hospital, media says",
+      "url": "https://www.reuters.com/world/europe/slovak-prime-minister-fico-taken-home-hospital-media-reports-2024-05-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/5TBD5WZCKVL6PC6SEAT2F3OM4E.jpg?auth=4a701df9d0b978fb3c35c0de7883934fd311a58aad8e3246289e135e4ce4d163&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "North Korean leader Kim Jong Un guided a firing drill of 600mm \"super-large\" multiple rocket launchers, state media KCNA reported on Friday.",
+      "publishedAt": "2024-05-30T22:40:38Z",
+      "title": "N.Korea says Kim guided multiple rocket launchers demonstration",
+      "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-guided-demonstration-large-scale-multiple-rocket-launchers-kcna-2024-05-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/FFXVDYOCHRLI3K35X3D7FZFJYI.jpg?auth=0d8d875ec391941c9bdca334eff2af42a5bb1056736d84e6b82b2f63f5de6f67&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Jessie Pang, James Pomfret",
@@ -47,38 +79,6 @@
       "title": "Fourteen Hong Kong democrats found guilty in landmark subversion trial",
       "url": "https://www.reuters.com/world/china/hong-kong-democrats-brace-landmark-subversion-trial-verdicts-2024-05-30/",
       "urlToImage": "https://www.reuters.com/resizer/v2/HWHO76SC35NB3H3J4H4FWHOTSE.jpg?auth=205e07e251c871ca67a186a5078b7943d516844064a23163214fb50ef0676b65&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Lucy Papachristou",
-      "description": "Allies of the late Kremlin critic Alexei Navalny said on Thursday that members of Russian President Vladimir Putin's inner circle and wealthy oligarchs should be subjected to additional Western sanctions in order to punish Putin.",
-      "publishedAt": "2024-05-30T15:41:05Z",
-      "title": "Navalny allies urge sanctions on Putin allies over opposition leader's death",
-      "url": "https://www.reuters.com/world/europe/navalny-allies-urge-sanctions-putin-allies-over-opposition-leaders-death-2024-05-30/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/C7BHQT7DVBMJ5A373A4UARLSWE.jpg?auth=32043a409ae8535e4f82537d2c6aedd4fe865c86a20bece0843c4c86438c9cb9&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Diego Or\u00e9, Carlos Carrillo",
-      "description": "As Mexicans head to the polls on Sunday to elect their next president and thousands of state and local posts, much of the country is suffering historic drought, intense heat, and occasional power blackouts.",
-      "publishedAt": "2024-05-30T12:14:27Z",
-      "title": "Suffering drought, heat, blackouts, Mexicans head to the polls",
-      "url": "https://www.reuters.com/world/americas/suffering-drought-heat-blackouts-mexicans-head-polls-2024-05-30/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FP6RQTSG55K2TBYDSW4N7I6JBM.jpg?auth=cf0b8f3e25a0a0d0095fea1ef04ebf31d96ce0bb01867470526d22db393b582c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Swedish security service SAPO said on Thursday that the Iranian government had been using criminal networks within Sweden to carry out violent acts against other states, groups, and individuals.",
-      "publishedAt": "2024-05-30T15:39:28Z",
-      "title": "Swedish security service says Iran uses criminal networks in Sweden",
-      "url": "https://www.reuters.com/world/swedish-security-service-says-iran-uses-criminal-networks-sweden-2024-05-30/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=194"
-    },
-    {
-      "author": "Reuters",
-      "description": "Finland's parliament should reject proposed laws that would prevent migrants arriving across the long, forested border with Russia from seeking asylum, the Nordic country's non-discrimination ombudsman said on Thursday.",
-      "publishedAt": "2024-05-30T13:16:42Z",
-      "title": "Finland's proposed ban on asylum via Russia should be rejected, ombudsman says",
-      "url": "https://www.reuters.com/world/europe/finlands-proposed-ban-asylum-via-russia-should-be-rejected-ombudsman-says-2024-05-30/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=194"
     }
   ],
   "sortBy": "top",
