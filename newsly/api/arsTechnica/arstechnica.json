@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Eric Bangeman",
+      "description": "Dead simple to use, the Clip offers up to 12 miles of electric range for your bike.",
+      "publishedAt": "2024-05-31T22:11:16+00:00",
+      "title": "Turn almost any bike into an e-bike with the Clip",
+      "url": "https://arstechnica.com/cars/2024/05/turn-almost-any-bike-into-an-e-bike-with-the-clip/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/clip-list-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards and Ashley Belanger",
+      "description": "\"Alarmed\" writers unions question transparency of AI training deals with ChatGPT maker.",
+      "publishedAt": "2024-05-31T21:56:41+00:00",
+      "title": "Journalists \u201cdeeply troubled\u201d by OpenAI\u2019s content deals with Vox, The Atlantic",
+      "url": "https://arstechnica.com/information-technology/2024/05/openai-content-deals-with-vox-and-the-atlantic-spark-criticism-from-journalists/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/newspaper_man-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Concept \"can be applied to any panel type technology without a backlight.\"",
+      "publishedAt": "2024-05-31T20:32:01+00:00",
+      "title": "Micro LED monitors connect like puzzle pieces in HP multi-monitor concept",
+      "url": "https://arstechnica.com/gadgets/2024/05/micro-led-monitors-connect-like-puzzle-pieces-in-hp-multi-monitor-concept/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-584204444-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Google: \"There are bound to be some oddities and errors\" in system that told people to eat rocks.",
+      "publishedAt": "2024-05-31T19:47:57+00:00",
+      "title": "Google\u2019s AI Overview is flawed by design, and a new company blog post hints at why",
+      "url": "https://arstechnica.com/information-technology/2024/05/googles-ai-overview-is-flawed-by-design-and-a-new-company-blog-post-hints-at-why/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/mascots-g-16x9-v02_aJfUAiF.width-1600.format-webp-760x380.png"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "TikTok has spent months separating code for US-only algorithm, insiders claim.",
+      "publishedAt": "2024-05-31T18:23:23+00:00",
+      "title": "TikTok vaguely disputes report that it\u2019s making a US-only app",
+      "url": "https://arstechnica.com/tech-policy/2024/05/tiktok-vaguely-disputes-report-that-its-making-a-us-only-app/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2154565067-760x380.jpg"
+    },
+    {
+      "author": "Ron Amadeo",
+      "description": "Chrome's Manifest V3 transition is here. First up are warnings for any V2 extensions.",
+      "publishedAt": "2024-05-31T18:08:03+00:00",
+      "title": "Google Chrome\u2019s plan to limit ad blocking extensions kicks off next week",
+      "url": "https://arstechnica.com/gadgets/2024/05/google-starts-deprecating-older-more-capable-chrome-extensions-next-week/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/IsaacBowen_Flickr_GoogleChromeFist-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Cybersecurity and Infrastructure Security Agency urges affected users to update ASAP.",
       "publishedAt": "2024-05-31T17:38:05+00:00",
@@ -25,60 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1544631126-760x380.jpg"
     },
     {
-      "author": "Jonathan M. Gitlin",
+      "author": null,
       "description": "Jeep invented the luxury SUV in 1963. Now it's made an electric one.",
       "publishedAt": "2024-05-31T15:16:20+00:00",
       "title": "Jeep\u2019s first EV is the 600 horsepower, 300-mile-range Wagoneer S",
-      "url": "https://arstechnica.com/cars/2024/05/jeeps-first-ev-is-the-600-horsepower-300-mile-range-wagoneer-s/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/WS024_010WS-760x380.jpg"
-    },
-    {
-      "author": "Hannah Murphy, Financial Times",
-      "description": "Iran and Israel have been getting in on the action as well.",
-      "publishedAt": "2024-05-31T13:47:06+00:00",
-      "title": "Russia and China are using OpenAI tools to spread disinformation",
-      "url": "https://www.ft.com/content/40e39936-651b-442a-8df8-46cf6b7aed77",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/openai-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "The Abu Dhabi Autonomous Racing League proves it\u2019s possible, just very hard.",
-      "publishedAt": "2024-05-31T11:00:27+00:00",
-      "title": "Driverless racing is real, terrible, and strangely exciting",
-      "url": "https://arstechnica.com/?p=2025466",
+      "url": "https://arstechnica.com/?p=2027967",
       "urlToImage": null
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "The European Space Agency again turned to SpaceX to launch an important science mission.",
-      "publishedAt": "2024-05-31T11:00:19+00:00",
-      "title": "Rocket Report: North Korean rocket explosion; launch over Chinese skyline",
-      "url": "https://arstechnica.com/space/2024/05/rocket-report-north-korean-rocket-explosion-launch-over-chinese-skyline/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2155134551-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Class action alleges secret Twitter stock scheme ahead of Musk's SEC testimony.",
-      "publishedAt": "2024-05-30T22:22:24+00:00",
-      "title": "Musk can\u2019t avoid testifying in SEC probe of Twitter buyout by playing victim",
-      "url": "https://arstechnica.com/tech-policy/2024/05/judge-rejects-elon-musks-claim-that-sec-subpoena-is-abuse/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2151277704-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Spotify to brick hardware it released to general public in 2022 this December.",
-      "publishedAt": "2024-05-30T22:00:58+00:00",
-      "title": "Spotify won\u2019t open-source Car Thing, but starts refund process",
-      "url": "https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/vent-1920-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "The deal has parallels to Apple's infamous search deal with Google.",
-      "publishedAt": "2024-05-30T21:39:53+00:00",
-      "title": "Report: Apple and OpenAI have signed a deal to partner on AI",
-      "url": "https://arstechnica.com/gadgets/2024/05/report-apple-and-openai-have-signed-a-deal-to-partner-on-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2153474140-760x380.jpg"
     }
   ],
   "sortBy": "top",
