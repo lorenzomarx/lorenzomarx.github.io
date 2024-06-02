@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Diana Gitig",
+      "description": "Nitrogen fertilizers get converted to nitrous oxide, a potent greenhouse gas.",
+      "publishedAt": "2024-06-01T11:00:25+00:00",
+      "title": "Nitrogen-using bacteria can cut farms\u2019 greenhouse gas emissions",
+      "url": "https://arstechnica.com/science/2024/06/nitrogen-using-bacteria-can-cut-farms-greenhouse-gas-emissions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-82980806-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\"It is safe, and that is why we determined that we can fly with what we have.\u201d",
       "publishedAt": "2024-06-01T00:08:07+00:00",
@@ -17,12 +25,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-129369648-760x380.jpeg"
     },
     {
-      "author": "Eric Bangeman",
+      "author": null,
       "description": "Dead simple to use, the Clip offers up to 12 miles of electric range for your bike.",
       "publishedAt": "2024-05-31T22:11:16+00:00",
       "title": "Turn almost any bike into an e-bike with the Clip",
-      "url": "https://arstechnica.com/cars/2024/05/turn-almost-any-bike-into-an-e-bike-with-the-clip/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/clip-list-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2028235",
+      "urlToImage": null
     },
     {
       "author": "Benj Edwards and Ashley Belanger",
@@ -71,14 +79,6 @@
       "title": "Federal agency warns critical Linux vulnerability being actively exploited",
       "url": "https://arstechnica.com/security/2024/05/federal-agency-warns-critical-linux-vulnerability-being-actively-exploited/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-760x380.jpg"
-    },
-    {
-      "author": "Diana Gitig",
-      "description": "A gene that only makes an RNA is linked to neurodevelopmental problems.",
-      "publishedAt": "2024-05-31T17:30:26+00:00",
-      "title": "Mutations in a non-coding gene associated with intellectual disability",
-      "url": "https://arstechnica.com/science/2024/05/mutations-in-a-non-coding-gene-associated-with-intellectual-disability/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Screenshot-2024-05-31-at-12.53.37\u202fPM-760x380.png"
     }
   ],
   "sortBy": "top",
