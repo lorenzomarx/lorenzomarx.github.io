@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "But AMD says AM4 will hang around for budget PCs well into 2025.",
+      "publishedAt": "2024-06-03T03:00:42+00:00",
+      "title": "AMD\u2019s next-gen Ryzen 9000 desktop chips and the Zen 5 architecture arrive in July",
+      "url": "https://arstechnica.com/gadgets/2024/06/amds-next-gen-ryzen-9000-desktop-chips-and-the-zen-5-architecture-arrive-in-july/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ryzen-9000-hero-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "AMD reverses course on \u201cdecoder ring\u201d numbering system for laptop CPUs.",
+      "publishedAt": "2024-06-03T03:00:42+00:00",
+      "title": "For the second time in two years, AMD blows up its laptop CPU numbering system",
+      "url": "https://arstechnica.com/gadgets/2024/06/for-the-second-time-in-two-years-amd-blows-up-its-laptop-cpu-numbering-system/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ryzen-300-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "High-end Ryzen laptop chips combine big and little Zen cores for the first time.",
+      "publishedAt": "2024-06-03T03:00:34+00:00",
+      "title": "AMD intros Ryzen AI 300 chips with Zen 5, better GPU, and hugely improved NPU",
+      "url": "https://arstechnica.com/gadgets/2024/06/amds-ryzen-ai-300-series-laptop-cpus-are-its-first-for-new-copilot-pcs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/amd-ryzen-ai-300-760x380.jpeg"
+    },
+    {
       "author": "Emily Underwood, Knowable Magazine",
       "description": "The basic urge to pee is surprisingly complex and can go awry as we age.",
       "publishedAt": "2024-06-02T11:27:04+00:00",
@@ -54,30 +78,6 @@
       "publishedAt": "2024-06-01T11:00:25+00:00",
       "title": "Nitrogen-using bacteria can cut farms\u2019 greenhouse gas emissions\u00a0",
       "url": "https://arstechnica.com/?p=2028024",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "\"It is safe, and that is why we determined that we can fly with what we have.\u201d",
-      "publishedAt": "2024-06-01T00:08:07+00:00",
-      "title": "Boeing\u2019s Starliner capsule poised for second try at first astronaut flight",
-      "url": "https://arstechnica.com/?p=2025341",
-      "urlToImage": null
-    },
-    {
-      "author": "Beth Mole",
-      "description": "FDA advisors will meet June 4 to discuss and vote on the therapy's effectiveness.",
-      "publishedAt": "2024-05-31T23:46:14+00:00",
-      "title": "FDA\u2019s review of MDMA for PTSD highlights study bias and safety concerns",
-      "url": "https://arstechnica.com/science/2024/05/fdas-review-of-mdma-for-ptsd-highlights-study-bias-and-safety-concerns/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-129369648-760x380.jpeg"
-    },
-    {
-      "author": null,
-      "description": "Dead simple to use, the Clip offers up to 12 miles of electric range for your bike.",
-      "publishedAt": "2024-05-31T22:11:16+00:00",
-      "title": "Turn almost any bike into an e-bike with the Clip",
-      "url": "https://arstechnica.com/?p=2028235",
       "urlToImage": null
     }
   ],
