@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "New model that predicts global weather can run on a single desktop computer.",
+      "publishedAt": "2024-06-03T11:00:57+00:00",
+      "title": "No physics? No problem. AI weather forecasting is already making huge strides.",
+      "url": "https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/AI-hurricane-analysis-760x380.jpg"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "But AMD says AM4 will hang around for budget PCs well into 2025.",
       "publishedAt": "2024-06-03T03:00:42+00:00",
@@ -71,14 +79,6 @@
       "title": "Daily Telescope: The most distant galaxy found so far is a total surprise",
       "url": "https://arstechnica.com/space/2024/06/daily-telescope-the-most-distant-galaxy-found-so-far-is-a-total-surprise/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/STScI-01HZ08K1MGCQTY6M68RXNT61A8-760x380.png"
-    },
-    {
-      "author": null,
-      "description": "Nitrogen fertilizers get converted to nitrous oxide, a potent greenhouse gas.",
-      "publishedAt": "2024-06-01T11:00:25+00:00",
-      "title": "Nitrogen-using bacteria can cut farms\u2019 greenhouse gas emissions\u00a0",
-      "url": "https://arstechnica.com/?p=2028024",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
