@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "Answers that are factually \"wrong\" are only part of the problem.",
+      "publishedAt": "2024-06-04T17:31:39+00:00",
+      "title": "Google\u2019s AI Overviews misunderstand why people use Google",
+      "url": "https://arstechnica.com/ai/2024/06/googles-ai-overviews-misunderstand-why-people-use-google/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/google-super-tasty-pizza-glue-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Op-ed: The risks to Recall are way too high for security to be secondary.",
+      "publishedAt": "2024-06-04T17:15:03+00:00",
+      "title": "Windows Recall demands an extraordinary level of trust that Microsoft hasn\u2019t earned",
+      "url": "https://arstechnica.com/ai/2024/06/windows-recall-demands-an-extraordinary-level-of-trust-that-microsoft-hasnt-earned/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/win11-recall-listing-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The Tesla CEO is accused of diverting resources from the company again.",
+      "publishedAt": "2024-06-04T16:07:05+00:00",
+      "title": "Nvidia emails: Elon Musk diverting Tesla GPUs to his other companies",
+      "url": "https://arstechnica.com/cars/2024/06/elon-musk-is-diverting-teslas-gpus-to-x-xai-nvidia-emails-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Dojo_99-760x380.jpg"
+    },
+    {
+      "author": "Emily Mullin, wired.com",
+      "description": "No rejection, just a matter of blood flow.",
+      "publishedAt": "2024-06-04T13:37:09+00:00",
+      "title": "Surgeons remove pig kidney transplant from woman",
+      "url": "https://www.wired.com/story/woman-who-received-pig-kidney-has-it-removed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/transplant-team-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "Lunar Lake returns to a more conventional-looking design for Intel.",
       "publishedAt": "2024-06-04T03:00:55+00:00",
@@ -18,9 +50,9 @@
     },
     {
       "author": "Beth Mole",
-      "description": "Kids with high BMI were 29 times more likely to have high fat mass, study finds",
+      "description": "Kids with high BMI were 29 times more likely to have high fat mass, study finds.",
       "publishedAt": "2024-06-03T22:02:32+00:00",
-      "title": "Much derided BMI is useful for assessing fat levels in kids, study suggests",
+      "title": "Much-derided BMI is useful for assessing fat levels in kids, study suggests",
       "url": "https://arstechnica.com/science/2024/06/bmi-is-an-imperfect-but-useful-measure-in-kids-study-finds/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-151033478-760x380.jpeg"
     },
@@ -47,38 +79,6 @@
       "title": "Daisy Ridley trained for months to play first woman to swim English Channel",
       "url": "https://arstechnica.com/culture/2024/06/how-daisy-ridleys-swim-coach-prepped-the-star-for-young-woman-and-the-sea/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/ederle3-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Commit snafu slapped an irrevocable Apache 2.0 license on confidential API Docs.",
-      "publishedAt": "2024-06-03T18:56:05+00:00",
-      "title": "Google accidentally published internal Search documentation to GitHub",
-      "url": "https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/google-logo-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Spotify last raised prices in July 2023.",
-      "publishedAt": "2024-06-03T18:52:17+00:00",
-      "title": "Spotify raising prices by up to $3 as frustrated subs beg it to \u201cjust do music\u201d",
-      "url": "https://arstechnica.com/gadgets/2024/06/spotifys-2nd-price-hike-in-a-year-raises-prices-in-july-by-up-to-3/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2150432877-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Couch co-op collection lets you compete on the screen and in each other's face.",
-      "publishedAt": "2024-06-03T18:24:21+00:00",
-      "title": "Ridiculous, inventive party pack Sportsfriends is now free on PC and PlayStation",
-      "url": "https://arstechnica.com/gaming/2024/06/ridiculous-inventive-party-pack-sportsfriends-is-now-free-on-pc-and-playstation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/joust_boosted-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "\"I'm not sure yet whether I'm going to regret this,\" says CEO Jensen Huang at Computex 2024.",
-      "publishedAt": "2024-06-03T17:13:10+00:00",
-      "title": "Nvidia jumps ahead of itself and reveals next-gen \u201cRubin\u201d AI chips in keynote tease",
-      "url": "https://arstechnica.com/information-technology/2024/06/nvidia-jumps-ahead-of-itself-and-reveals-next-gen-rubin-ai-chips-in-keynote-tease/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-760x380.jpg"
     }
   ],
   "sortBy": "top",
