@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "Lunar Lake returns to a more conventional-looking design for Intel.",
+      "publishedAt": "2024-06-04T03:00:55+00:00",
+      "title": "Intel details new Lunar Lake CPUs to fight off AMD, Qualcomm, and Apple",
+      "url": "https://arstechnica.com/gadgets/2024/06/intels-new-lunar-lake-chips-promise-big-gpu-and-npu-upgrades-minor-cpu-boosts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/lunar-lake-01-760x380.jpeg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Researcher says Snowflake customers hit by mass scraping ... \"but nobody noticed.\"",
       "publishedAt": "2024-06-03T22:23:45+00:00",
@@ -25,12 +33,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/PSVR2-on-PC-760x380.webp"
     },
     {
-      "author": "Eric Berger",
+      "author": null,
       "description": "The most dominant space storyline for the rest of this decade is the US-China race.",
       "publishedAt": "2024-06-03T19:24:17+00:00",
       "title": "China lands on the Moon again, taking another step toward human missions",
-      "url": "https://arstechnica.com/space/2024/06/china-lands-on-the-moon-again-taking-another-step-toward-human-missions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2151256730-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2028564",
+      "urlToImage": null
     },
     {
       "author": "Jennifer Ouellette",
@@ -71,14 +79,6 @@
       "title": "Nvidia jumps ahead of itself and reveals next-gen \u201cRubin\u201d AI chips in keynote tease",
       "url": "https://arstechnica.com/information-technology/2024/06/nvidia-jumps-ahead-of-itself-and-reveals-next-gen-rubin-ai-chips-in-keynote-tease/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The average new car costs more than $47,000\u2014here are 17 EVs for less than that.",
-      "publishedAt": "2024-06-03T17:02:55+00:00",
-      "title": "Think EVs are too expensive? Here are 11 for under $40K.",
-      "url": "https://arstechnica.com/cars/2024/06/think-evs-are-too-expensive-here-are-11-for-under-40k/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/stop-buying-gas-break-glass-760x380.jpg"
     }
   ],
   "sortBy": "top",
