@@ -2,6 +2,22 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Scientists have found a weak spot in our DNA that is present in 95% of people with the disease.",
+      "publishedAt": null,
+      "title": "Major cause of inflammatory bowel disease found",
+      "url": "https://www.bbc.co.uk/news/articles/c1wwdd6v2wjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/22b0/live/ac05ac30-2330-11ef-a6cb-c730f22f78e9.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The actress, known for roles in Dead to Me and Anchorman, was diagnosed with the disease in 2021.",
+      "publishedAt": null,
+      "title": "Applegate 'doesn't enjoy living' after MS diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/crggqrzyjjpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6ad6/live/7e372830-2329-11ef-baa7-25d483663b8e.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "A court in Florence reconvicts Amanda Knox for slander in relation to the murder of Meredith Kercher.",
       "publishedAt": null,
       "title": "Amanda Knox reconvicted in slander case",
@@ -18,11 +34,27 @@
     },
     {
       "author": "BBC News",
-      "description": "The image is on display in London, alongside all the finalists in the food photograper contest.",
+      "description": "US astronauts ride a new crew capsule to orbit after a long and tortuous development programme.",
       "publishedAt": null,
-      "title": "Pink Lady Food Photographer of the Year 2024 competition winners",
-      "url": "https://www.bbc.co.uk/news/articles/ckvvj20v5zyo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8b01/live/a68f9ca0-22fb-11ef-baa7-25d483663b8e.jpg"
+      "title": "Boeing launches long-delayed astronaut capsule",
+      "url": "https://www.bbc.co.uk/news/articles/cl4481nz4x6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3bd8/live/5fa82680-202c-11ef-a13a-0b8c563da930.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The US first lady seemed to get emotional in court as she listened to opening statements in Hunter Biden's trial.",
+      "publishedAt": null,
+      "title": "Hunter Biden 'crossed a line' when he bought gun, trial hears",
+      "url": "https://www.bbc.co.uk/news/articles/czvvwlpkprjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/21e1/live/dfdf1280-22b8-11ef-80aa-699d54c46324.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Charlie Barrett was convicted of sexually assaulting a woman three times in the national park.",
+      "publishedAt": null,
+      "title": "Pro rock climber Charlie Barrett gets life in prison for Yosemite sexual assaults",
+      "url": "https://www.bbc.co.uk/news/articles/crggjkpzlr4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/187e/live/8a81ded0-2344-11ef-98b3-c9dc6aae45df.jpg"
     },
     {
       "author": "BBC News",
@@ -34,51 +66,19 @@
     },
     {
       "author": "BBC News",
-      "description": "More than 34 million Americans in the western US are under excessive heat advisories this week.",
+      "description": "Residents of areas on the Israel-Lebanon border tell the BBC they \"feel like the forgotten people\".",
       "publishedAt": null,
-      "title": "Heat wave brings dangerous weather to western US",
-      "url": "https://www.bbc.co.uk/news/articles/cqlle2v2dpxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f17/live/ae79c240-22a8-11ef-baa7-25d483663b8e.jpg"
+      "title": "Israelis use gardening tools to fight wildfires caused by rockets",
+      "url": "https://www.bbc.co.uk/news/articles/cekkr1x2yrpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1e74/live/2dd24d00-2344-11ef-98b3-c9dc6aae45df.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Here's what you need to know from the first televised leaders' debate of the election campaign.",
+      "description": "Excessive heat warnings were in effect across parts of California, Nevada, Arizona and Texas.",
       "publishedAt": null,
-      "title": "Election TV debate: Six takeaways as leaders clash",
-      "url": "https://www.bbc.co.uk/news/articles/cz55pm66lgko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd5f/live/01c72020-22ca-11ef-a13a-0b8c563da930.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The plan to punish ICC officials for seeking to arrest Israeli officials could split Joe Biden's Democrats.",
-      "publishedAt": null,
-      "title": "US House votes to sanction ICC over Israel-Gaza arrest warrants",
-      "url": "https://www.bbc.co.uk/news/articles/cm5512l7yero",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c6ce/live/0fd84d70-22ba-11ef-a13a-0b8c563da930.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Mr Modi has lost some of his aura of invincibility and the results mean the opposition is back.",
-      "publishedAt": null,
-      "title": "India election 2024: Why Modi failed to win outright majority",
-      "url": "https://www.bbc.co.uk/news/articles/c977g8gl5q2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9ecd/live/0a859a00-22a9-11ef-baa7-25d483663b8e.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Trump argues the ban must be lifted to allow him to campaign and participate in presidential debates.",
-      "publishedAt": null,
-      "title": "Trump wants gag order lifted after hush-money trial verdict",
-      "url": "https://www.bbc.co.uk/news/articles/c3gg51e72qgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a25e/live/50024510-22d1-11ef-902e-0f68dbe209e5.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The Closer and Without Me singer hints she's being treated for lupus and leukaemia.",
-      "publishedAt": null,
-      "title": "Singer Halsey 'lucky to be alive' after health struggles",
-      "url": "https://www.bbc.co.uk/news/articles/cyrrpylp8ego",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/baad/live/6c854cf0-2317-11ef-96c3-99f9322e70a9.jpg"
+      "title": "Heat dome's triple-digit temperatures fry US south-west",
+      "url": "https://www.bbc.co.uk/news/articles/cq55e2de7qgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/730c/live/704086c0-2344-11ef-80aa-699d54c46324.jpg"
     }
   ],
   "sortBy": "top",

@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Canada says $200M in annual fees will support local news and other content.",
+      "publishedAt": "2024-06-05T16:53:07+00:00",
+      "title": "Canada demands 5% of revenue from Netflix, Spotify, and other streamers",
+      "url": "https://arstechnica.com/tech-policy/2024/06/canada-demands-5-of-revenue-from-netflix-spotify-and-other-streamers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/canada-money-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Australia drops censorship fight threatening Musk\u2019s X with $500K daily fine.",
+      "publishedAt": "2024-06-05T16:38:21+00:00",
+      "title": "Elon Musk\u2019s X defeats Australia\u2019s global takedown order of stabbing video",
+      "url": "https://arstechnica.com/tech-policy/2024/06/elon-musk-wins-fight-with-australian-safety-regulator-over-stabbing-video-on-x/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2148589526-760x380.jpg"
+    },
+    {
+      "author": "Edward White, Michael Pooler, A. Anantha Lakshmi, and Christine Murray, FT",
+      "description": "US tariffs and European backlash have Chinese carmakers eyeing emerging markets.",
+      "publishedAt": "2024-06-05T14:41:14+00:00",
+      "title": "China\u2019s plan to dominate EV sales around the world",
+      "url": "https://www.ft.com/content/c77fefa3-7f47-429b-8149-50aa60f39498",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/china-ev-list-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\u201cAn extraordinary new perspective in our understanding of the history of medicine.\u201d",
+      "publishedAt": "2024-06-05T14:38:50+00:00",
+      "title": "Ancient Egyptian skull shows evidence of cancer, surgical treatment",
+      "url": "https://arstechnica.com/science/2024/06/tool-marks-on-ancient-egyptian-skull-suggest-attempted-cancer-treatment/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/skull1236-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Support ends next year, but Windows 10 remains the most-used version of the OS.",
+      "publishedAt": "2024-06-05T12:50:42+00:00",
+      "title": "Microsoft to test \u201cnew features and more\u201d for aging, stubbornly popular Windows 10",
+      "url": "https://arstechnica.com/gadgets/2024/06/microsoft-reopens-beta-program-to-test-new-features-for-windows-10/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/win10-new-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Astronauts Butch Wilmore and Suni Williams have been in prelaunch quarantine for six weeks.",
+      "publishedAt": "2024-06-05T12:43:18+00:00",
+      "title": "Countdown begins for third try launching Boeing\u2019s Starliner crew capsule",
+      "url": "https://arstechnica.com/space/2024/06/countdown-begins-for-third-try-launching-boeings-starliner-crew-capsule/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/53704708015_ace34748fa_k-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "The FAA has approved a license for SpaceX's fourth Starship launch, set for Thursday.",
       "publishedAt": "2024-06-05T03:56:59+00:00",
@@ -31,54 +79,6 @@
       "title": "Ex-OpenAI staff call for \u201cright to warn\u201d about AI risks without retaliation",
       "url": "https://arstechnica.com/?p=2028761",
       "urlToImage": null
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Attack takes out third-party testing and diagnostics provider critical to care.",
-      "publishedAt": "2024-06-04T21:16:20+00:00",
-      "title": "London hospitals declare emergency following ransomware attack",
-      "url": "https://arstechnica.com/security/2024/06/london-hospitals-declare-emergency-following-ransomware-attack/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/hospital-bed-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "All the major elements in a solar panel can be reclaimed using less energy.",
-      "publishedAt": "2024-06-04T21:02:45+00:00",
-      "title": "New recycling method makes solar cells even more environmentally friendly",
-      "url": "https://arstechnica.com/science/2024/06/new-recycling-method-makes-solar-cells-even-more-environmentally-friendly/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1415448696-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Monthly ad-free subscriptions cost $1 more.",
-      "publishedAt": "2024-06-04T20:00:02+00:00",
-      "title": "\u201cDefinitely cancel\u201d: Max subs advise churn after 2nd price hike in 17 months",
-      "url": "https://arstechnica.com/gadgets/2024/06/subscribing-to-max-just-got-up-to-20-more-expensive/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/tom-glynn-carney-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Google previously said it would not return mailed-in devices using \"unauthorized\" parts.",
-      "publishedAt": "2024-06-04T19:46:05+00:00",
-      "title": "Google changes repair policy after criticism of third-party parts ban",
-      "url": "https://arstechnica.com/gadgets/2024/06/google-changes-repair-policy-after-criticism-of-third-party-parts-ban/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/23-1-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Eric Yuan told The Verge that \"digital twins\" are the future of work.",
-      "publishedAt": "2024-06-04T19:23:54+00:00",
-      "title": "Zoom CEO envisions AI deepfakes attending meetings in your place",
-      "url": "https://arstechnica.com/information-technology/2024/06/zoom-ceo-envisions-ai-deepfakes-attending-meetings-in-your-place/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/zoom_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "One day, a roguelike-playing system just kept biffing it, for celestial reasons.",
-      "publishedAt": "2024-06-04T18:52:58+00:00",
-      "title": "What kind of bug would make machine learning suddenly 40% worse at NetHack?",
-      "url": "https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/you-are-lucky-moon-760x380.png"
     }
   ],
   "sortBy": "top",
