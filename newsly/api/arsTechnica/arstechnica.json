@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Moveable wings cut drag on the straights, hybrid boost will help overtakes.",
+      "publishedAt": "2024-06-06T17:23:11+00:00",
+      "title": "F1 cars in 2026 will be smaller, safer, more nimble, more sustainable",
+      "url": "https://arstechnica.com/cars/2024/06/lighter-nimbler-more-hybrid-power-he-f1-car-of-2026/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/2026_car_render_1_4-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Move could presage an expected resolution bump in the rumored PS5 Pro.",
+      "publishedAt": "2024-06-06T17:00:02+00:00",
+      "title": "Sony removes still-unmet \u201c8K\u201d promise from PS5 packaging",
+      "url": "https://arstechnica.com/gaming/2024/06/sony-removes-still-unmet-8k-promise-from-ps5-packaging/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ps58k-760x380.png"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "UK regulation requires companies to say how long they plan to provide support.",
+      "publishedAt": "2024-06-06T16:50:36+00:00",
+      "title": "Apple will update iPhones for at least 5 years in rare public commitment",
+      "url": "https://arstechnica.com/gadgets/2024/06/apple-commits-to-5-years-of-iphone-updates-though-it-usually-releases-more-anyway/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/apple-devices-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "DDG offers LLMs from OpenAI, Anthropic, Meta, and Mistral for factually-iffy conversations.",
+      "publishedAt": "2024-06-06T16:39:11+00:00",
+      "title": "DuckDuckGo offers \u201canonymous\u201d access to AI chatbots through new service",
+      "url": "https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ddg_aichat_hero-760x380.jpg"
+    },
+    {
+      "author": "Abigail Bassett",
+      "description": "The EV startup has reengineered the R1 to make it better to drive, easier to build.",
+      "publishedAt": "2024-06-06T16:00:18+00:00",
+      "title": "Ars drives the second-generation Rivian R1T and R1S electric trucks",
+      "url": "https://arstechnica.com/cars/2024/06/rivians-revamped-r1-electric-pickup-and-suv-tested-on-and-off-road/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Exterior-Hero-Shot-760x380.jpg"
+    },
+    {
       "author": "Chris Stokel-Walker",
       "description": "The framework pulls in external sources to enhance accuracy. Does it live up to the hype?",
       "publishedAt": "2024-06-06T11:00:16+00:00",
@@ -10,7 +50,7 @@
     },
     {
       "author": "Stephen Clark",
-      "description": "Despite the new leaks, mission control says Starliner can still dock with the space station.",
+      "description": "Despite new leaks, mission control says Starliner can still dock with the space station.",
       "publishedAt": "2024-06-06T06:39:20+00:00",
       "title": "Boeing\u2019s Starliner finally soars, but mission control reports more helium leaks",
       "url": "https://arstechnica.com/space/2024/06/after-a-successful-launch-boeings-starliner-runs-into-more-helium-leaks/",
@@ -20,7 +60,7 @@
       "author": "Beth Mole",
       "description": "Vaccine misinformation persists as measles cases are soaring.",
       "publishedAt": "2024-06-05T22:19:15+00:00",
-      "title": "Vaccines don\u2019t cause autism, but the lie won\u2019t die. In fact, it\u2019s getting worse.",
+      "title": "Vaccines don\u2019t cause autism, but the lie won\u2019t die\u2014in fact, it\u2019s getting worse",
       "url": "https://arstechnica.com/science/2024/06/vaccines-dont-cause-autism-but-the-lie-wont-die-in-fact-its-getting-worse/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-462718746-760x380.jpeg"
     },
@@ -39,46 +79,6 @@
       "title": "T-Mobile hopes you\u2019ll buy $30 \u201cHome Internet Backup\u201d for when cable goes out",
       "url": "https://arstechnica.com/tech-policy/2024/06/t-mobile-says-30-month-backup-5g-is-the-solution-to-home-internet-outages/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Most downloaded local news app adds disclaimer that it's not always \"error-free.\"",
-      "publishedAt": "2024-06-05T20:57:37+00:00",
-      "title": "Top news app caught sharing \u201centirely false\u201d AI-generated news",
-      "url": "https://arstechnica.com/tech-policy/2024/06/top-news-app-caught-sharing-fake-ai-news-based-on-ai-summaries/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1207047876-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Oral-B discontinued Alexa toothbrush in 2022, now sells $400 \"AI\" toothbrush.",
-      "publishedAt": "2024-06-05T20:09:05+00:00",
-      "title": "Oral-B bricking Alexa toothbrush is cautionary tale against buzzy tech",
-      "url": "https://arstechnica.com/?p=2029201",
-      "urlToImage": null
-    },
-    {
-      "author": "John Timmer",
-      "description": "Unlike earlier object, the new source's pulses of radio waves are erratic.",
-      "publishedAt": "2024-06-05T18:59:43+00:00",
-      "title": "Mystery object waits nearly an hour between radio bursts",
-      "url": "https://arstechnica.com/science/2024/06/radio-telescope-finds-another-mystery-long-repeat-source/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2153688809-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "Motorola's Pixel 8a fighter is headed to a carrier store near you.",
-      "publishedAt": "2024-06-05T18:18:04+00:00",
-      "title": "The Motorola Edge 2024 comes to the US for $550",
-      "url": "https://arstechnica.com/gadgets/2024/06/motorolas-mid-range-edge-2024-packs-a-144-hz-display-for-550/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/10-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The experience has taught it how to improve thermal efficiency, Toyota says.",
-      "publishedAt": "2024-06-05T17:40:43+00:00",
-      "title": "Toyota tests liquid hydrogen-burning Corolla in another 24-hour race",
-      "url": "https://arstechnica.com/cars/2024/06/toyota-tests-liquid-hydrogen-burning-corolla-in-another-24-hour-race/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/20240524_01_01-760x380.jpg"
     }
   ],
   "sortBy": "top",
