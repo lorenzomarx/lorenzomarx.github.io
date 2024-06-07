@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Chris Stokel-Walker",
+      "description": "The framework pulls in external sources to enhance accuracy. Does it live up to the hype?",
+      "publishedAt": "2024-06-06T11:00:16+00:00",
+      "title": "Can a technology called RAG keep AI models from making stuff up?",
+      "url": "https://arstechnica.com/ai/2024/06/can-a-technology-called-rag-keep-ai-models-from-making-stuff-up/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/AI-RAG-bumper-guides-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Despite the new leaks, mission control says Starliner can still dock with the space station.",
+      "publishedAt": "2024-06-06T06:39:20+00:00",
+      "title": "Boeing\u2019s Starliner finally soars, but mission control reports more helium leaks",
+      "url": "https://arstechnica.com/space/2024/06/after-a-successful-launch-boeings-starliner-runs-into-more-helium-leaks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/53772281410_901326aee0_k-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "Vaccine misinformation persists as measles cases are soaring.",
       "publishedAt": "2024-06-05T22:19:15+00:00",
@@ -9,12 +25,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-462718746-760x380.jpeg"
     },
     {
-      "author": "Dan Goodin",
+      "author": null,
       "description": "With only weeks until the Games start, expect more to come, Microsoft says.",
       "publishedAt": "2024-06-05T21:41:41+00:00",
       "title": "Russian agents deploy AI-produced Tom Cruise narrator to tar Summer Olympics",
-      "url": "https://arstechnica.com/security/2024/06/kremlin-influence-op-goes-all-in-to-disrupt-summer-olympics/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/olympics-has-fallen-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2029315",
+      "urlToImage": null
     },
     {
       "author": "Jon Brodkin",
@@ -63,22 +79,6 @@
       "title": "Toyota tests liquid hydrogen-burning Corolla in another 24-hour race",
       "url": "https://arstechnica.com/cars/2024/06/toyota-tests-liquid-hydrogen-burning-corolla-in-another-24-hour-race/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/20240524_01_01-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Canada says $200M in annual fees will support local news and other content.",
-      "publishedAt": "2024-06-05T16:53:07+00:00",
-      "title": "Canada demands 5% of revenue from Netflix, Spotify, and other streamers",
-      "url": "https://arstechnica.com/tech-policy/2024/06/canada-demands-5-of-revenue-from-netflix-spotify-and-other-streamers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/canada-money-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Australia drops censorship fight threatening Musk\u2019s X with $500K daily fine.",
-      "publishedAt": "2024-06-05T16:38:21+00:00",
-      "title": "Elon Musk\u2019s X defeats Australia\u2019s global takedown order of stabbing video",
-      "url": "https://arstechnica.com/tech-policy/2024/06/elon-musk-wins-fight-with-australian-safety-regulator-over-stabbing-video-on-x/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2148589526-760x380.jpg"
     }
   ],
   "sortBy": "top",
