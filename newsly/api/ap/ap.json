@@ -1,20 +1,20 @@
 {
   "articles": [
     {
+      "author": "CHRISTOPHER MEGERIAN and SYLVIE CORBET",
+      "description": "PARIS (AP) \u2014 U.S. President Joe Biden on Friday for the first time publicly apologized to Ukraine for a monthslong holdup in American military assistance that let Russia make gains on the battlefield, as Ukrainian President Volodymyr Zelenskyy appealed for bipartisan U.S.",
+      "publishedAt": "2024-06-07T07:36:54Z",
+      "title": "Biden apologizes to Ukraine's Zelenskyy for monthslong holdup to weapons that let Russia make gains",
+      "url": "https://apnews.com/a77546e23fa571eb7f6509d4e14b89b3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b2eefcad30e84200b4985b9878dca0ee/2652.jpeg"
+    },
+    {
       "author": "CHRIS MEGERIAN and ZEKE MILLER",
       "description": "PARIS (AP) \u2014 President Joe Biden will return to Normandy for a second day during his trip to France as he tries to rally Americans in defense of democracy from Pointe du Hoc, a legendary spot along the coast where Army Rangers scaled cliffs during the D-Day invasion.",
       "publishedAt": "2024-06-07T04:09:24Z",
       "title": "Like Reagan before him, Biden looks to capture magic of Pointe du Hoc story",
       "url": "https://apnews.com/bc97ae35237e222caee55033ddb3588f",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/450b30072af6453bba290cc49f34e066/3000.jpeg"
-    },
-    {
-      "author": "GARANCE BURKE and MEG KINNARD",
-      "description": "Gene Folkes had just been jettisoned as a contestant on \u201cThe Apprentice\u201d and was commiserating with a crew member at a bar inside the lobby of Trump Tower.",
-      "publishedAt": "2024-06-07T04:05:29Z",
-      "title": "A new account rekindles allegations that Trump disrespected Black people on 'The Apprentice'",
-      "url": "https://apnews.com/d962dfce1220920681ede63b90058f5d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0827a157f35b4b07833c2a44a9aae1c0/2000.jpeg"
     },
     {
       "author": "RANDALL CHASE, MICHAEL KUNZELMAN, COLLEEN LONG and CLAUDIA LAUER",
@@ -25,12 +25,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/ba7f69dde7c747ecb0da5669e1ac4eff/1920.jpeg"
     },
     {
-      "author": "WAFAA SHURAFA and SAMY MAGDY",
-      "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 An Israeli strike early Thursday on a school sheltering displaced Palestinians in central Gaza killed at least 33 people, including 12 women and children, according to local health officials.",
-      "publishedAt": "2024-06-06T03:45:56Z",
-      "title": "Israeli strike kills at least 33 people at a Gaza school the military claims was being used by Hamas",
-      "url": "https://apnews.com/3d07e712f8abc1e08339163180823fb8",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/250e097784ce48fa870cd5363258a796/1920.jpeg"
+      "author": "GARANCE BURKE and MEG KINNARD",
+      "description": "Gene Folkes had just been jettisoned as a contestant on \u201cThe Apprentice\u201d and was commiserating with a crew member at a bar inside the lobby of Trump Tower.",
+      "publishedAt": "2024-06-07T04:05:29Z",
+      "title": "A new account rekindles allegations that Trump disrespected Black people on 'The Apprentice'",
+      "url": "https://apnews.com/d962dfce1220920681ede63b90058f5d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0827a157f35b4b07833c2a44a9aae1c0/2000.jpeg"
+    },
+    {
+      "author": "JON GAMBRELL and BARAA ANWER",
+      "description": "DUBAI, United Arab Emirates (AP) \u2014 At least nine Yemeni employees of United Nations agencies have been detained by Yemen's Houthi rebels under unclear circumstances, authorities said Friday, as the rebels face increasing financial pressure and airstrikes from a U.S.-led coalition.",
+      "publishedAt": "2024-06-07T09:05:15Z",
+      "title": "Yemen's Houthi rebels detain at least 9 UN staffers and others in sudden crackdown, officials say",
+      "url": "https://apnews.com/966dce0c3d7cd96679b3c3562ee57068",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3d0dc4f7eea44535a8617f9c882ea469/3000.jpeg"
     },
     {
       "author": "JOSEF FEDERMAN",
@@ -49,14 +57,6 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/bf3da17349184ed4a26ff93d61550586/1991.jpeg"
     },
     {
-      "author": "DAVID RISING and ASHOK SHARMA",
-      "description": "NEW DELHI (AP) \u2014 Fresh from declaring victory in India's election, Prime Minister Narendra Modi offered few details on the agenda for his third term, but went out of his way to underline he would continue to focus on raising the country's military preparedness and clout.",
-      "publishedAt": "2024-06-07T03:04:09Z",
-      "title": "Third term for Modi likely to see closer defense ties with US as India's rivalry with China grows",
-      "url": "https://apnews.com/1a9f42ec8dac4e0e9de9be1ea9066fc1",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c49625090a4e4836bd4432390600e13d/3000.jpeg"
-    },
-    {
       "author": "GENE JOHNSON",
       "description": "KENT, Wash. (AP) \u2014 Kabongo Kambila Ringo stood outside the tent where he has been staying with his pregnant wife and ate from a clear plastic tray of Girl Scout cookies melting in the midday sun. He was one of around 240 asylum-seekers camping in a grassy lot along a highway south of Seattle, wondering if police would follow through on threats to arrest them for trespassing, and hoping officials instead might let them move into the vacant motel next door.",
       "publishedAt": "2024-06-07T04:09:42Z",
@@ -68,7 +68,7 @@
       "author": "BERNARD CONDON",
       "description": "NEW YORK (AP) \u2014 They are called zombies, companies so laden with debt that they are just stumbling by on the brink of survival, barely able to pay even the interest on their loans and often just a bad business hit away from dying off for good.",
       "publishedAt": "2024-06-07T05:23:14Z",
-      "title": "Zombies: Ranks of world's most debt-hobbled companies are soaring - and not all will survive",
+      "title": "Zombies: Ranks of world's most debt-hobbled companies are soaring, and not all will survive",
       "url": "https://apnews.com/52bd9ebbe1dd98983d39fe7d14e3c7fd",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/b31887afd3e1495982e86a02d74ecd44/3000.jpeg"
     },
