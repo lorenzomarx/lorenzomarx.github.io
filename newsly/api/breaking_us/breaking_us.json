@@ -1,95 +1,82 @@
 {
   "articles": [
     {
-      "author": "By Joshua Berlinger, Antoinette Radford, Shania Shelton and Kyle Feldscher, CNN",
-      "content": "Robert Persichitti, a 102-year-old World War II US Navy veteran, died last week while on his way to France to commemorate\u00a0the 80th anniversary of D-Day, according to Honor Flight Rochester, a veteran\u2026 [+1476 chars]",
-      "description": "World leaders visited the beaches of Normandy on Thursday to mark the 80th anniversary of D-Day.",
-      "publishedAt": "2024-06-06T18:21:00Z",
+      "author": "Erica Brown, Clare Hymes, Scott MacFarlane, Caroline Linton",
+      "content": "Hallie Biden, the widow of Hunter Biden's brother Beau Biden, testified Thursday in Hunter Biden's federal gun trial that she was \"panicking\" when she found and later discarded the firearm at the cen\u2026 [+7245 chars]",
+      "description": "Hallie Biden, the widow of Beau Biden, was romantically involved with Hunter Biden and testified that she discarded the gun at the heart of the case.",
+      "publishedAt": "2024-06-07T00:05:30Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Hallie Biden testifies she \"panicked\" when she found gun in Hunter Biden's car - CBS News",
+      "url": "https://www.cbsnews.com/news/hallie-biden-hunter-biden-federal-gun-trial-testimony/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/06/06/11dfe166-417c-4ccc-9253-03a63a6cc0b0/thumbnail/1200x630/f6d3d7ac3fe47b3a0434d0f6dc676ed3/hunter13.jpg?v=94cbb61397dbf7eca3740fa55510ba88"
+    },
+    {
+      "author": "Aaron Navarro, Nidia Cavazos",
+      "content": "The effort by President Biden's campaign to target both supporters of former United Nations Ambassador Nikki Haley and moderate Republicans in general is ramping up.\u00a0\r\nThe Biden-Harris campaign annou\u2026 [+5435 chars]",
+      "description": "Moderate Republicans, specifically those who supported Nikki Haley's GOP presidential run, have been targeted by the Biden campaign since she dropped out of the primary race.",
+      "publishedAt": "2024-06-07T00:03:56Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Biden campaign ramps up efforts to flip moderate Republicans in 2024 - CBS News",
+      "url": "https://www.cbsnews.com/news/biden-campaign-attempts-to-flip-moderate-republicans-2024-election-nikki-haley-voters/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/07/e0b14101-3356-43c2-bea5-d03b4f6ad08b/thumbnail/1200x630/b60a15d1154e8a8addfc9f88e70bea50/gettyimages-2154375531.jpg?v=94cbb61397dbf7eca3740fa55510ba88"
+    },
+    {
+      "author": "Thomas Jones, Kirk Bohls",
+      "content": "OKLAHOMA CITY Texas softball coach Mike White didn't mince words after his team dropped the first game in a best-of-three championship series 8-3 against Oklahoma Wednesday at the Women's College Wor\u2026 [+7517 chars]",
+      "description": "Texas softball takes on Oklahoma in Game 2 of their best-of-three WCWS championship series. Follow for scores, updates and highlights here:",
+      "publishedAt": "2024-06-06T23:32:50Z",
+      "source": {
+        "id": null,
+        "name": "Austin American-Statesman"
+      },
+      "title": "Live updates: Texas vs. Oklahoma softball Game 2 score, highlights from WCWS finals - Austin American-Statesman",
+      "url": "https://www.statesman.com/story/sports/college/longhorns/softball/2024/06/06/texas-vs-oklahoma-softball-game-2-live-score-updates-ncaa-wcws-final-championship-series/73994132007/",
+      "urlToImage": "https://www.statesman.com/gcdn/authoring/authoring-images/2024/06/06/NOKL/73993548007-wcws-ou-texas-42.jpg?crop=3423,1926,x0,y178&width=3200&height=1801&format=pjpg&auto=webp"
+    },
+    {
+      "author": "Eric Revell",
+      "content": "Electric vehicle maker Rivian introduced its redesigned, second-generation EV pickup and SUV Thursday.\r\nRivian's new R1S SUV and R1T pickup were fully reengineered with hardware improvements, perform\u2026 [+3107 chars]",
+      "description": "Electric vehicle maker Rivian unveiled its newly redesigned second-generation R1S SUV and R1T pickup truck. The all-electric R1S and R1T were fully redesigned by the automaker.",
+      "publishedAt": "2024-06-06T23:11:00Z",
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "title": "See it: Rivian unveils redesigned all-electric SUV and pickup - Fox Business",
+      "url": "https://www.foxbusiness.com/lifestyle/see-rivian-unveils-redesigned-all-electric-suv-pickup",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Rivian-R1S-24.jpg?ve=1&tl=1"
+    },
+    {
+      "author": "Deirdre Bosa, Jasmine Wu",
+      "content": "A pair of tech investors and podcasters are hosting Donald Trump on Thursday for a high-profile fundraiser in San Francisco, the latest sign that an industry once hostile to the former president has \u2026 [+3475 chars]",
+      "description": "David Sacks and Chamath Palihapitiya are hosting a fundraiser for Donald Trump at a San Francisco mansion.",
+      "publishedAt": "2024-06-06T22:50:34Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "Trump heads to tech fundraiser in San Francisco, with some guests paying $300,000 - CNBC",
+      "url": "https://www.cnbc.com/2024/06/06/trump-hits-tech-fundraiser-in-san-francisco-some-guests-pay-300000.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107422774-17171746852024-05-31t164455z_122874651_rc2s18aefj82_rtrmadp_0_usa-trump-new-york-presser.jpeg?v=1717174728&w=1920&h=1080"
+    },
+    {
+      "author": "Sandee LaMotte",
+      "content": "Sign up for CNNs Eat, But Better: Mediterranean Style.\u00a0Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nA low-calorie sweetener called \u2026 [+7162 chars]",
+      "description": "A common low-calorie sweetener called xylitol, found in gum, candy, toothpaste and more, may cause clots that can lead to heart attack and stroke, a new study found.",
+      "publishedAt": "2024-06-06T22:05:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "Live updates: D-Day 80th anniversary in Normandy, Biden, Macron, Zelensky, Prince William attend - CNN",
-      "url": "https://www.cnn.com/europe/live-news/d-day-80-anniversary-06-06-24-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240605095827-01-dday-commemorations-060424-super-tease.jpg"
-    },
-    {
-      "author": "Mary Kekatos, Gina Sunseri",
-      "content": "Boeing's Starliner successfully docked at the International Space Station (ISS) Thursday afternoon, marking another milestone in the first astronaut-crewed test flight of the spacecraft.\r\nNASA and Bo\u2026 [+2091 chars]",
-      "description": "NASA said two of the helium valves have been closed.",
-      "publishedAt": "2024-06-06T18:00:00Z",
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "title": "Boeing's Starliner successfully docks at ISS after helium leaks, thruster issue - ABC News",
-      "url": "https://abcnews.go.com/US/helium-leaks-discovered-onboard-boeings-starliner-track-reach/story?id=110893167",
-      "urlToImage": "https://i.abcnewsfe.com/a/1b4d3602-8fca-4534-857e-d18bb98a1a48/Starliner-gty-ml-240606_1717678593904_hpMain_16x9.jpg?w=1600"
-    },
-    {
-      "author": "Katie Campione, Dominic Patten",
-      "content": "Hollywood may be experiencing some labor d\u00e9j\u00e0 vu\u00a0today as IATSE talks with the studios look certain to go down to the wire with just under two months before the union\u2019s contracts expire.\r\nThe union a\u2026 [+3928 chars]",
-      "description": "The union & the AMPTP are going back to the bargaining table with the parties far apart on money",
-      "publishedAt": "2024-06-06T17:30:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "No Deal, Yet: Tensions Rise As IATSE & Studios Fail To Seal Basic Agreement Pact, More Talks Planned - Deadline",
-      "url": "http://deadline.com/2024/06/iatse-contact-talks-no-deal-yet-1235960690/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2021/06/IATSE-Hollywood.jpg?w=1000"
-    },
-    {
-      "author": "Emma Roth",
-      "content": "Suicide Squad left a $200 million hole in WBDs video game division\r\nSuicide Squad left a $200 million hole in WBDs video game division\r\n / A new report from Bloomberg details the major struggles that\u2026 [+2355 chars]",
-      "description": "Warner Bros. Discovery lost $200 million following the release of the ill-received Suicide Squad: Kill the Justice League, and a report from Bloomberg details what went wrong.",
-      "publishedAt": "2024-06-06T17:23:12Z",
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "title": "Suicide Squad left a $200 million hole in WBD's video game division - The Verge",
-      "url": "https://www.theverge.com/2024/6/6/24172905/suicide-squad-kill-justice-league-200-million-loss-wbd-rocksteady",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/a9I9QXoudyt86YZnUk_9120CPZU=/0x0:1920x817/1200x628/filters:focal(960x409:961x410)/cdn.vox-cdn.com/uploads/chorus_asset/file/25480428/suicide_squad_kill_justice_league.jpg"
-    },
-    {
-      "author": "Ed Cara",
-      "content": "A particular type of bird flu has now killed its first human. On Wednesday, Mexican health officials and the World Health Organization announced a confirmed case of H5N2 avian influenza in a 59-year-\u2026 [+3248 chars]",
-      "description": "Mexico and WHO health officials have reported the first known human case and death tied to H5N2 avian influenza. No further cases have been detected yet.",
-      "publishedAt": "2024-06-06T16:55:00Z",
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "title": "A Bird Flu Virus Has Killed Its First Human - Gizmodo",
-      "url": "https://gizmodo.com/h5n2-bird-flu-virus-kills-first-human-1851523770",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8f8b683a02e93f29ad1c124d06a95166.jpg"
-    },
-    {
-      "author": "Jonathan Ayestas",
-      "content": null,
-      "description": "Above-average temperatures don't appear to be going anywhere soon for Northern California, but some overnight relief might be present in the form of a cool Delta breeze.",
-      "publishedAt": "2024-06-06T16:52:00Z",
-      "source": {
-        "id": null,
-        "name": "KCRA Sacramento"
-      },
-      "title": "Northern California forecast: Delta breeze will bring slight relief from above-average temperatures - KCRA Sacramento",
-      "url": "https://www.kcra.com/article/northern-california-forecast-june-6-2024/61015445",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/666f036b-8f50-44ee-acee-73d91b95d839/391082bb-99b0-4c3d-bc21-7dddd665682c.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    },
-    {
-      "author": "ESPN",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-06-06T16:49:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Sources - Chiefs' Thompson stable in hospital after cardiac arrest - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMjkxNzA4L3NvdXJjZS1jaGllZnMtYmotdGhvbXBzb24tc2VudC1ob3NwaXRhbC1zdGFibGUtY29uZGl0aW9u0gEA?oc=5",
-      "urlToImage": null
+      "title": "Common low-calorie sweetener linked to heart attack and stroke, study finds - CNN",
+      "url": "https://www.cnn.com/2024/06/06/health/xylitol-heart-attack-stroke-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1386469121-restricted.jpg?c=16x9&q=w_800,c_fill"
     },
     {
       "author": null,
@@ -105,160 +92,173 @@
       "urlToImage": null
     },
     {
-      "author": "Aly J. Yale",
-      "content": "Since late 2022, mortgage rates have jumped between 6% and 7% and in fall 2023, they nearly eclipsed 8%, marking the highest 30-year mortgage rate seen in over two decades.\r\nCombined with rising home\u2026 [+7332 chars]",
-      "description": "Mortgage rates are not going down right now, but expert rate predictions say they will end 2024 between 6.5% and 7%. Learn when mortgage rates will go down.",
-      "publishedAt": "2024-06-06T16:41:45Z",
+      "author": "Krisztian  Sandor",
+      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nCoinDesk is anaward-winningmedia outlet that covers the cryptocurrency industry. Its \u2026 [+593 chars]",
+      "description": "Shares of GameStop closed the Thursday session 47% higher as the retail trading fame provided an update of his position and announced a livestream for Friday.",
+      "publishedAt": "2024-06-06T21:55:00Z",
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "CoinDesk"
       },
-      "title": "When will mortgage rates go down? A look at 2024 and 2025. - Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/when-will-mortgage-rates-go-down-164144910.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Arbgos5H7HKvOFUKT7jpmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-03/8dc0b030-9e3a-11ec-bded-61a6b9a2738c"
+      "title": "GameStop-Inspired Solana Memecoin Soars Over 80% as Roaring Kitty Flashes $586M Worth of GME Position - CoinDesk",
+      "url": "https://www.coindesk.com/markets/2024/06/06/gamestop-inspired-solana-memecoin-soars-over-80-as-roaring-kitty-flashes-586m-worth-of-gme-position/",
+      "urlToImage": "https://www.coindesk.com/resizer/Z4OI7s2vyZwlvuF27VoXeRp1yPw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5ERNETEZGFBZFFHIZXIHBMD6VI.jpg"
     },
     {
-      "author": "HILLEL ITALIE",
-      "content": "NEW YORK (AP) Inspired by an 18th century Scottish philosopher and the modern scourge of misinformation, Suzanne Collins is returning to the ravaged, post-apocalyptic land of Panem for a new The Hung\u2026 [+2522 chars]",
-      "description": "Inspired by an 18th century Scottish philosopher and the modern scourge of misinformation, Suzanne Collins is returning to the ravaged, post-apocalyptic land of Panem for a new \u201cThe Hunger Games\u201d novel. Scholastic announced Thursday that \u201cSunrise on the Reapi\u2026",
-      "publishedAt": "2024-06-06T16:29:00Z",
+      "author": null,
+      "content": "The US has told Israel it must be fully \"transparent\" over an air strike that reportedly killed at least 35 people at a central Gaza school packed with displaced people on Thursday morning.\r\nLocal jo\u2026 [+4960 chars]",
+      "description": "At least 35 people were reportedly killed in an Israeli strike on a UN school housing displaced people.",
+      "publishedAt": "2024-06-06T21:40:19Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "US says Israel must be open over Gaza school strike - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cekkd8k2gy9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1fbe/live/b88ddcf0-243b-11ef-8a06-c101ae735122.jpg"
+    },
+    {
+      "author": "DAVID McHUGH",
+      "content": "FRANKFURT, Germany (AP) The European Central Bank cut its key interest rate Thursday by a quarter-point, moving ahead of the U.S. Federal Reserve as central banks around the world lean toward lowerin\u2026 [+4484 chars]",
+      "description": "The European Central Bank cut its key interest rate by a quarter-point, moving ahead of the U.S. Federal Reserve as central banks around the world lean toward lowering borrowing costs \u2014 a shift with far-reaching consequences for home buyers, savers and invest\u2026",
+      "publishedAt": "2024-06-06T21:36:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "title": "A new 'Hunger Games' book \u2014 and movie \u2014 is coming - The Associated Press",
-      "url": "https://apnews.com/article/hunger-games-suzanne-collins-sunrise-reaping-b30163b4707f4db55eb68513f197affc",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7126858/2147483647/strip/true/crop/2631x1480+0+137/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fe7%2Fca7684a94749f46189c6b00423c4%2F8efbf47aefa049cba6f64ee15f3f05ba"
+      "title": "Europe Central Bank jumps ahead of the Fed in lowering rates. But future cuts may be limited - The Associated Press",
+      "url": "https://apnews.com/article/european-central-bank-interest-rates-cut-087f5a0eb5caf841266afb16c65e520b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/adeffeb/2147483647/strip/true/crop/5155x2900+0+289/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3f%2F51%2F36fb66a826e5ae64361451e8309c%2F5460be349eca4008ba343253cdeef917"
     },
     {
-      "author": "USA TODAY",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-06-06T16:27:30Z",
+      "author": "Kari Anderson",
+      "content": "United States' Saurabh Netravalkar, center, celebrates with teammates after their win in the ICC Men's T20 World Cup cricket match against Pakistan at the Grand Prairie Stadium on Thursday in Grand P\u2026 [+1693 chars]",
+      "description": "Team USA, participating in its first World Cup, defeated cricket powerhouse Pakistan by five runs in a tiebreaking super over.",
+      "publishedAt": "2024-06-06T21:16:04Z",
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "title": "Gilgo Beach serial killer suspect charged with more murders - USA TODAY",
-      "url": "https://www.usatoday.com/story/news/nation/2024/06/06/gilgo-beach-rex-heuermann-additional-murder-charges/73354319007/",
-      "urlToImage": null
+      "title": "USA Cricket stuns Pakistan in T20 World Cup upset - Yahoo Sports",
+      "url": "https://sports.yahoo.com/usa-cricket-stuns-pakistan-in-world-cup-t20-upset-204701050.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1WlkpsBGL7GTeSDbQNaN6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/c5205ab0-2445-11ef-afbf-58ad6c75d6c7"
     },
     {
       "author": null,
-      "content": null,
-      "description": "We're gearing up to cover Apple's Worldwide Developers Conference (WWDC) next week! In this episode, Cherlynn and Devindra dive into everything they expect a...",
-      "publishedAt": "2024-06-06T16:23:51Z",
+      "content": "Then $75 per month.Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.",
+      "description": "UK tech entrepreneur had been extradited to face criminal case over $11bn sale to HP in 2011",
+      "publishedAt": "2024-06-06T21:10:17Z",
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Financial Times"
       },
-      "title": "Apple WWDC 2024 preview: All in on AI | Engadget Podcast - Engadget",
-      "url": "https://www.youtube.com/watch?v=AogWbUmC4ww",
-      "urlToImage": "https://i.ytimg.com/vi/AogWbUmC4ww/maxresdefault.jpg"
-    },
-    {
-      "author": "Variety",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-06-06T16:15:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Pat Sajak Sets First Gig After \u2018Wheel of Fortune\u2019 Exit: A Community Theater \u2018Columbo\u2019 Play in Hawaii (EXCLUSIVE) - Variety",
-      "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3BhdC1zYWphay1maXJzdC1wb3N0LXdoZWVsLW9mLWZvcnR1bmUtZ2lnLXN0YWdlLWNvbHVtYm8tcGxheS1wcmVzY3JpcHRpb24tbXVyZGVyLTEyMzYwMjY4NzAv0gGBAWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3BhdC1zYWphay1maXJzdC1wb3N0LXdoZWVsLW9mLWZvcnR1bmUtZ2lnLXN0YWdlLWNvbHVtYm8tcGxheS1wcmVzY3JpcHRpb24tbXVyZGVyLTEyMzYwMjY4NzAvYW1wLw?oc=5",
+      "title": "Former Autonomy chief Mike Lynch acquitted in US fraud trial - Financial Times",
+      "url": "https://www.ft.com/content/62b6af38-ff48-43a9-9403-2a18a1ddca3d",
       "urlToImage": null
     },
     {
-      "author": "Mark Johnson, Sabrina Malhi",
-      "content": "Whooping cough, a bacterial illness that poses an especially significant threat to infants, is surging in the United States another potential legacy of the coronavirus pandemic.\r\nFederal disease trac\u2026 [+6823 chars]",
-      "description": "Whooping cough cases have more than doubled so far in 2024, raising concerns for infants and older adults, the two groups at highest risk.",
-      "publishedAt": "2024-06-06T16:11:23Z",
+      "author": "https://www.facebook.com/peoplemag",
+      "content": "Fiona Harvey, who is allegedly the real-life inspiration for Martha on Baby Reindeer, is suing Netflix.\r\nIn a lawsuit filed on Thursday, June 6, Harvey claims the portrayal of the obsessive stalker M\u2026 [+3997 chars]",
+      "description": "Fiona Harvey is suing Netflix for $170 million for claims of negligence, intentional infliction of emotional distress, violations of right of publicity and more. She claims that her portrayal as Martha in the hit show 'Baby Reindeer' is inaccurate and has rui\u2026",
+      "publishedAt": "2024-06-06T21:05:45Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "PEOPLE"
       },
-      "title": "Whooping cough cases double in the U.S., a potential legacy of the pandemic - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2024/06/06/whooping-cough-cases-rising/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALHZ52B2AGXBDCS5FYMHOZLA5I_size-normalized.jpg&w=1440"
+      "title": "Baby Reindeer's Real-Life 'Martha' Files $170 Million Lawsuit Against Netflix for Her Portrayal on the Show - PEOPLE",
+      "url": "https://people.com/baby-reindeer-real-life-martha-files-lawsuit-against-netflix-8659721",
+      "urlToImage": "https://people.com/thmb/34nfMpXftWQimhQdbGm44F5xN8w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(745x410:747x412)/fiona-harvey-060624-6f47e1b5c1214c4ab814f629e0ba6129.jpg"
     },
     {
-      "author": "Chris Isidore",
-      "content": "A class action case challenging the legality of the NFLs Sunday Ticket package, whose opening arguments are scheduled for Thursday, could shake up television rights deals in professional sports and t\u2026 [+2198 chars]",
-      "description": "A class action case challenging the legality of the NFL\u2019s Sunday Ticket package, whose opening arguments are scheduled for Thursday, could shake up television rights deals in professional sports and the way teams make money.",
-      "publishedAt": "2024-06-06T16:10:00Z",
+      "author": "Eva Hartog, Koen Verhelst",
+      "content": "Counting all the seats of pro-European parties, we tell the rest of Europe: Its not a given that the radical right is going to win these elections! Timmermans, the EUs former climate chief, said. Loo\u2026 [+1108 chars]",
+      "description": "Poll suggests Wilders\u2019 party on track for seven seats in European Parliament, but Labour-Green alliance is set for eight.",
+      "publishedAt": "2024-06-06T20:38:00Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "POLITICO.eu"
       },
-      "title": "NFL faces multi-billion dollar antitrust suit over its Sunday Ticket package - CNN",
-      "url": "https://www.cnn.com/2024/06/06/business/nfl-sunday-ticket-antitrust-suit/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1753036539.jpg?c=16x9&q=w_800,c_fill"
+      "title": "EU election exit poll: Far-right Wilders makes big gains in Netherlands, but narrowly beaten - POLITICO Europe",
+      "url": "https://www.politico.eu/article/dutch-exit-poll-labour-green-alliance-far-right-geert-wilders-european-parliament-polls-pvv/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/06/06/GettyImages-2155634912-scaled.jpg"
     },
     {
-      "author": "Michael Dorgan",
-      "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu\u2026 [+4065 chars]",
-      "description": "A new form of ringworm which looks like eczema and spread through sex was detected in a man in his 30s who slept with multiple other men on trips.",
-      "publishedAt": "2024-06-06T16:03:00Z",
+      "author": "",
+      "content": "Dan Hurley's place in the Los Angeles Lakers' coaching search may be surprising, but it feels somewhat familiar. It was 20 years ago next month that Mike Krzyzewski, then college basketball's most de\u2026 [+18316 chars]",
+      "description": "The Lakers are reportedly going all in to try to land the back-to-back national champion",
+      "publishedAt": "2024-06-06T20:34:35Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "Why Lakers are targeting Dan Hurley: How UConn coach would help L.A. in LeBron James era and beyond - CBS Sports",
+      "url": "https://www.cbssports.com/nba/news/why-lakers-are-targeting-dan-hurley-how-uconns-coach-would-help-a-in-lebron-james-era-and-beyond/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/06/596132f9-277f-4514-a73f-386363c6e807/thumbnail/1200x675/a1fe86c12ca0524a0929c272ca39a45d/hurley-lebron-getty.png"
+    },
+    {
+      "author": "Jamie Joseph",
+      "content": "The Republican National Committee (RNC) research division posted several videos on X that appeared to show President Biden in \"a perpetual state of confusion\" following his speech in Normandy on Thur\u2026 [+3386 chars]",
+      "description": "The RNC's research division posted several videos on X Thursday appearing to show President Biden in a \"perpetual state of confusion\" following his Normandy D-Day speech.",
+      "publishedAt": "2024-06-06T20:23:00Z",
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "title": "Rare, sexually transmitted ringworm reported in NYC - Fox News",
-      "url": "https://www.foxnews.com/health/rare-sexually-transmitted-ringworm-reported-nyc",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/eczema.gif"
+      "title": "Biden's 'perpetual state of confusion' on display in Normandy amid rising cognitive questions - Fox News",
+      "url": "https://www.foxnews.com/politics/bidens-perpetual-state-confusion-display-normandy-amid-rising-cognitive-questions",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Joe-Biden-D-Day-Macron.jpg"
     },
     {
       "author": null,
-      "content": null,
-      "description": "Walmart\u2019s hometown of Bentonville, Arkansas has become a surprising boomtown with many amenities you might expect to find in New York, Austin or San Francisc...",
-      "publishedAt": "2024-06-06T16:00:19Z",
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "[Removed]"
       },
-      "title": "How Walmart Turned Bentonville, Arkansas Into A Boomtown - CNBC",
-      "url": "https://www.youtube.com/watch?v=MsCGme9epBQ",
-      "urlToImage": "https://i.ytimg.com/vi/MsCGme9epBQ/maxresdefault.jpg"
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
     },
     {
-      "author": "Michael Wayland",
-      "content": "Rivian Automotive has redesigned its all-electric R1 pickup and SUV models to improve range, performance and computing power with the help of Nvidia chips, the company said Thursday.\r\nWhile the 2025 \u2026 [+3353 chars]",
-      "description": "Rivian said it has changed more than half the hardware components for the second-generation products ahead of anticipated R2 models.",
-      "publishedAt": "2024-06-06T16:00:01Z",
+      "author": null,
+      "content": "Lora Jones,Business reporter, BBC News\r\nThe UK's statistics watchdog has criticised the prime minister over claims around the tax burden families could face if Labour wins the general election.\r\nThe \u2026 [+4729 chars]",
+      "description": "It said most people would have no way of knowing that this estimate covered a four-year period.",
+      "publishedAt": "2024-06-06T19:43:35Z",
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "BBC News"
       },
-      "title": "Rivian redesigns all-electric R1 pickup and SUV, adds Nvidia chips and improves performance - CNBC",
-      "url": "https://www.cnbc.com/2024/06/06/rivian-r1-pickup-suv-redesigned.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107425058-1717696855382-107425058-1717676972596-Exterior14.jpg?v=1717696871&w=1920&h=1080"
+      "title": "Rishi Sunak's \u00a32,000 Labour tax claim criticised by stats watchdog - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cyrredd71z0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9d31/live/69d29e70-2427-11ef-8c0b-a35d12f66366.jpg"
     },
     {
-      "author": "ESPN insiders",
-      "content": "One month after firing Darvin Ham, the Lakers are zeroing in on their next head coach. Sources told ESPN's Adrian Wojnarowski that Los Angeles is preparing a massive, long-term contract offer to pry \u2026 [+7696 chars]",
-      "description": "Here's what we know -- and what it could mean for the future of LeBron, Bronny and the Lakers franchise.",
-      "publishedAt": "2024-06-06T15:55:00Z",
+      "author": "Sarah Perez",
+      "content": "Apple\u2019s Worldwide Developers Conference next week promises to be a pivotal moment in the iPhone maker\u2019s history. Though the Vision Pro debuted at last year\u2019s event, don\u2019t expect hardware to be the ma\u2026 [+5669 chars]",
+      "description": "As WWDC 2024 nears, all sorts of rumors and leaks have emerged about what iOS 18 and its AI-powered apps and features have in store.",
+      "publishedAt": "2024-06-06T19:38:55Z",
       "source": {
-        "id": "espn",
-        "name": "ESPN"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "title": "How hiring UConn's Dan Hurley could impact the Los Angeles Lakers, LeBron James and Bronny - ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/40290745/how-hiring-uconn-dan-hurley-impact-los-angeles-lakers-lebron-james-bronny",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0606%2Fr1342470_1296x729_16%2D9.jpg"
+      "title": "What to expect from Apple's AI-powered iOS 18 at WWDC 2024 - TechCrunch",
+      "url": "https://techcrunch.com/2024/06/06/what-to-expect-from-apples-ai-powered-ios-18-at-wwdc-2024/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/maxresdefault_b1e671.jpg?resize=1200,675"
     },
     {
-      "author": "Simon Speakman Cordall, Urooba Jamal",
-      "content": "Tens of thousands of mostly young, right-wing Israelis marched through occupied East Jerusalems Old City on Wednesday, brandishing Israeli flags and anti-Palestinian slogans at the people living in t\u2026 [+8015 chars]",
-      "description": "A group of Jewish Israelis and Palestinians are taking on settlers and the orthodoxy of Israel\u2019s far-right.",
-      "publishedAt": "2024-06-06T15:45:00Z",
+      "author": "Armando Tinoco",
+      "content": "Bravo has set the premiere date for The Real Housewives of Orange County\u00a0Season 18 for July 11 at 9 p.m. ET and dropped a trailer to preview what\u2019s ahead.\r\nThis season marks a historic milestone as T\u2026 [+6126 chars]",
+      "description": "Bravo is marking a milestone with the premiere of 'The Real Housewives of Orange County' Season 18 as the network celebrates 100 seasons of the franchise.",
+      "publishedAt": "2024-06-06T19:00:00Z",
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": null,
+        "name": "Deadline"
       },
-      "title": "\u2018Standing Together\u2019 against far-right Israeli hate in Jerusalem - Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2024/6/6/jewish-israelis-and-palestinians-push-back-against-hatred",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-05T130124Z_1172009956_RC2058ARCM8R_RTRMADP_3_ISRAEL-PALESTINIANS-JERUSALEM-DAY-MARCH-1717598092.jpg?resize=1920%2C1440"
+      "title": "'The Real Housewives Of Orange County' Season 18 Trailer & Cast Photos: Bravo Sets Premiere Date For 100th Season Of 'Real Housewives' Franchise - Deadline",
+      "url": "https://deadline.com/gallery/the-real-housewives-of-orange-county-season-18-trailer-cast-photos-bravo/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/rhoc-season-18-trailer-cast-photo_1b8285.jpg?w=1024"
     }
   ],
   "status": "ok",

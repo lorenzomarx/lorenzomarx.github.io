@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "VICE Staff, Duncan Cooper",
+      "content": "\u201cDrugs means money. Money means turf wars. Turf wars means bombs, killings. And it just sets the stage for what will be four, five decades of violence.\u201d",
+      "description": "\u2018Hells Angels: Kingdom Come,\u2019 a new VICE documentary series, follows their origins\u2014and the war raging across their territories.",
+      "publishedAt": "2024-06-06T18:19:28Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Inside the Rise of the Hells Angels, the World\u2019s Most Powerful Biker Gang",
+      "url": "https://www.vice.com/en/article/93kjqp/hells-angels-kingdom-come-documentary-series",
+      "urlToImage": "https://video-images.vice.com/articles/6661fcc8ab32588a375a0e5b/lede/1717697874752-ha2.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Sammi Caramela, Duncan Cooper",
       "content": "Lane Pittman is a Jacksonville legend.\u00a0\r\nThough hes best known as the guy who headbanged in a Category 5 hurricane, Pittman was actually a local star long before that. In fact, hes one of the rare od\u2026 [+1900 chars]",
       "description": "It was actually his second \u201cFlorida Man\u201d viral moment.",
@@ -288,5 +301,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 22
+  "totalResults": 23
 }
