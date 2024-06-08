@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "Windows Hello authentication, additional encryption being added to protect data.",
+      "publishedAt": "2024-06-07T16:59:43+00:00",
+      "title": "Microsoft is reworking Recall after researchers point out its security problems",
+      "url": "https://arstechnica.com/gadgets/2024/06/microsoft-makes-recall-feature-off-by-default-after-security-and-privacy-backlash/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/OOBEAsset_1920-1024x649-1-760x380.jpeg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Logo drop comes amid publisher's \"beloved franchise\" tease for Summer Games Fest.",
+      "publishedAt": "2024-06-07T15:52:31+00:00",
+      "title": "Civilization VII looks like 2K\u2019s next big game announcement",
+      "url": "https://arstechnica.com/gaming/2024/06/leaked-logo-points-to-imminent-civilization-vii-announcement/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/civ7-760x380.png"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Almost every other automaker is seeing double-digit EV sales growth.",
+      "publishedAt": "2024-06-07T15:06:48+00:00",
+      "title": "Tesla may be in trouble, but other EVs are selling just fine",
+      "url": "https://arstechnica.com/cars/2024/06/ev-sales-slowdown-is-mostly-a-tesla-problem-according-to-sales-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1662932717-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "300 director-level IT workers making VMware decisions were questioned.",
+      "publishedAt": "2024-06-07T14:24:16+00:00",
+      "title": "VMware customers may stay, but Broadcom could face backlash \u201cfor years to come\u201d",
+      "url": "https://arstechnica.com/information-technology/2024/06/price-hikes-of-over-2x-widely-expected-under-broadcoms-vmware-survey-finds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-155145588-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"We heard that basically the program office had a runaway fire on their hands.\"",
+      "publishedAt": "2024-06-07T14:03:59+00:00",
+      "title": "As leaks on the space station worsen, there\u2019s no clear plan to deal with them",
+      "url": "https://arstechnica.com/space/2024/06/on-the-space-station-band-aid-fixes-for-systemic-problems/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/sts088-703-032_cropped_1-640x215.jpg"
+    },
+    {
+      "author": "Hannah Murphy and Tabby Kinder, Financial Times",
+      "description": "Proposed law would require AI companies to adhere to strict safety frameworks.",
+      "publishedAt": "2024-06-07T13:27:13+00:00",
+      "title": "Outcry from big AI firms over California AI \u201ckill switch\u201d bill",
+      "url": "https://www.ft.com/content/eee08381-962f-4bdf-b000-eeff42234ee0",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/off-switch-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "A motor evens out its natural disadvantages, but there's still a learning curve.",
+      "publishedAt": "2024-06-07T11:00:25+00:00",
+      "title": "Brompton C Line Electric review: Fun and foldable, fits better than you\u2019d think",
+      "url": "https://arstechnica.com/cars/2024/06/brompton-c-line-electric-review-fun-and-foldable-fits-better-than-youd-think/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/brompton_cafe2-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"This powerful rocket is the culmination of many years of dedication and ingenuity.\"",
+      "publishedAt": "2024-06-07T11:00:24+00:00",
+      "title": "Rocket Report: Starliner soars to space station; Starship\u2019s wild flight",
+      "url": "https://arstechnica.com/space/2024/06/rocket-report-starliner-soars-to-space-station-starships-wild-flight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/starship_flight4_aerial-760x380.jpeg"
+    },
+    {
       "author": "Eric Berger",
       "description": "\"I think we\u2019re missing something fundamental that\u2019s going on inside the thrusters.\"",
       "publishedAt": "2024-06-07T00:14:40+00:00",
@@ -12,73 +76,9 @@
       "author": "Stephen Clark",
       "description": "\"I think we should try to catch the booster with the mechazilla arms next flight!\"",
       "publishedAt": "2024-06-06T22:14:43+00:00",
-      "title": "SpaceX\u2019s Starship took a beating, but held on for first return from space",
+      "title": "SpaceX\u2019s Starship took a beating but held on for first return from space",
       "url": "https://arstechnica.com/space/2024/06/spacexs-starship-took-a-beating-but-held-on-for-first-return-from-space/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/plasmaift4-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Chair: Addressing BGP flaws will \"help make our Internet routing more secure.\"",
-      "publishedAt": "2024-06-06T21:40:40+00:00",
-      "title": "FCC pushes ISPs to fix security flaws in Internet routing",
-      "url": "https://arstechnica.com/tech-policy/2024/06/fcc-pushes-isps-to-fix-security-flaws-in-internet-routing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/network-security-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "World Health Organization: Air pollution causes 7 million premature deaths per year",
-      "publishedAt": "2024-06-06T21:28:34+00:00",
-      "title": "These light paintings let us visualize invisible clouds of air pollution",
-      "url": "https://arstechnica.com/?p=2029387",
-      "urlToImage": null
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "EU Facebook users have until June 26 to opt out of AI training.",
-      "publishedAt": "2024-06-06T21:25:41+00:00",
-      "title": "Meta uses \u201cdark patterns\u201d to thwart AI opt-outs in EU, complaint says",
-      "url": "https://arstechnica.com/tech-policy/2024/06/meta-to-train-undefined-ai-tech-on-facebook-users-posts-pics-in-eu/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1314512619-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "\"We'd do our best to make it happen... with the help of the justice system.\"",
-      "publishedAt": "2024-06-06T20:19:03+00:00",
-      "title": "You can inherit a dead relative\u2019s GOG account\u2014if you have a court order",
-      "url": "https://arstechnica.com/?p=2029619",
-      "urlToImage": null
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Getting an AI to distinguish red from orange was a major challenge.",
-      "publishedAt": "2024-06-06T19:20:55+00:00",
-      "title": "Watch a 6-axis motor solve a Rubik\u2019s Cube in less than a third of a second",
-      "url": "https://arstechnica.com/culture/2024/06/robot-solves-rubiks-cube-in-literal-blink-of-an-eye-for-new-world-record/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/rubik_robot1-728x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "The announcement could be good news for those whose data has been inaccessible.",
-      "publishedAt": "2024-06-06T19:13:13+00:00",
-      "title": "7,000 LockBit decryption keys now in the hands of the FBI, offering victims hope",
-      "url": "https://arstechnica.com/security/2024/06/fbi-urges-lockbit-victims-to-step-forward-after-seizing-7000-decryption-keys/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-597257986-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Last June was the warmest June on record. Every month since has been similar.",
-      "publishedAt": "2024-06-06T18:56:41+00:00",
-      "title": "We\u2019ve just had a year in which every month was a record-setter",
-      "url": "https://arstechnica.com/science/2024/06/climate-wise-it-was-a-full-year-of-exceptional-months/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1410387596-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "DOJ to probe Nvidia while FTC takes lead in investigating Microsoft and OpenAI.",
-      "publishedAt": "2024-06-06T18:34:58+00:00",
-      "title": "US agencies to probe AI dominance of Nvidia, Microsoft, and OpenAI",
-      "url": "https://arstechnica.com/tech-policy/2024/06/us-agencies-to-probe-ai-dominance-of-nvidia-microsoft-and-openai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/nvidia-logo-760x380.jpg"
     }
   ],
   "sortBy": "top",
