@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "SpaceX will show NASA how Starship could one day return rock samples from Mars.",
+      "publishedAt": "2024-06-08T00:20:47+00:00",
+      "title": "NASA is commissioning 10 studies on Mars Sample Return\u2014most are commercial",
+      "url": "https://arstechnica.com/space/2024/06/nasa-is-commissioning-10-studies-on-mars-sample-return-most-are-commercial/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/mav_mars_orbit-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "\"Extreme caution\" urged as at least 8 people in 4 states sickened, 6 hospitalized.",
       "publishedAt": "2024-06-07T22:13:09+00:00",
@@ -49,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Marvels-Midnight-Suns-Combat-Surrounded-760x380.png"
     },
     {
-      "author": "Jacek Krywko",
+      "author": null,
       "description": "New system is a mix of traditional camera and one that only highlights changes.",
       "publishedAt": "2024-06-07T19:19:53+00:00",
       "title": "New camera design can ID threats faster, using less memory",
-      "url": "https://arstechnica.com/science/2024/06/new-camera-design-can-id-threats-faster-using-less-memory/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1633794046-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2029870",
+      "urlToImage": null
     },
     {
       "author": "Ron Amadeo",
@@ -65,20 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/samsung-flag-760x380.jpg"
     },
     {
-      "author": "Elizabeth Rayne",
+      "author": null,
       "description": "Finds may indicate what the common ancestor of the platypus and echidna looked like.",
       "publishedAt": "2024-06-07T18:25:11+00:00",
       "title": "Bizarre egg-laying mammals once ruled Australia\u2014then lost their teeth",
-      "url": "https://arstechnica.com/science/2024/06/bizarre-egg-laying-mammals-once-ruled-australia-then-lost-their-teeth/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1130236100-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple reportedly plans to announce its first big wave of AI features at WWDC.",
-      "publishedAt": "2024-06-07T17:47:48+00:00",
-      "title": "Report: New \u201cApple Intelligence\u201d AI features will be opt-in by default",
-      "url": "https://arstechnica.com/gadgets/2024/06/report-new-apple-intelligence-ai-features-will-be-opt-in-by-default/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/apple-wwdc24-logo-760x380.jpeg"
+      "url": "https://arstechnica.com/?p=2029837",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
