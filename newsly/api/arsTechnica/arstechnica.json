@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "The EV startup goes to the head of the pack with its new luxury SUV.",
+      "publishedAt": "2024-06-09T22:01:06+00:00",
+      "title": "The 2025 Polestar 3 is a torque-vectoring SUV that\u2019s fun to drive",
+      "url": "https://arstechnica.com/cars/2024/06/the-2025-polestar-3-is-a-torque-vectoring-suv-thats-fun-to-drive/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/2025-Polestar-3-first-drive-4-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "Research is uncovering the key role that fungi play in getting soils to absorb carbon.",
       "publishedAt": "2024-06-08T11:07:28+00:00",
@@ -9,12 +17,12 @@
       "urlToImage": null
     },
     {
-      "author": "Stephen Clark",
+      "author": null,
       "description": "SpaceX will show NASA how Starship could one day return rock samples from Mars.",
       "publishedAt": "2024-06-08T00:20:47+00:00",
       "title": "NASA is commissioning 10 studies on Mars Sample Return\u2014most are commercial",
-      "url": "https://arstechnica.com/space/2024/06/nasa-is-commissioning-10-studies-on-mars-sample-return-most-are-commercial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/mav_mars_orbit-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2029984",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -25,12 +33,12 @@
       "urlToImage": null
     },
     {
-      "author": "Dan Goodin",
+      "author": null,
       "description": "With PoC code available and active Internet scans, speed is of the essence.",
       "publishedAt": "2024-06-07T21:57:49+00:00",
       "title": "Nasty bug with very simple exploit hits PHP just in time for the weekend",
-      "url": "https://arstechnica.com/security/2024/06/php-vulnerability-allows-attackers-to-run-malicious-code-on-windows-servers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2029943",
+      "urlToImage": null
     },
     {
       "author": "Jon Brodkin",
@@ -71,14 +79,6 @@
       "title": "New camera design can ID threats faster, using less memory",
       "url": "https://arstechnica.com/?p=2029870",
       "urlToImage": null
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "For now, the one-day strike is just a show of force and shouldn't hurt production.",
-      "publishedAt": "2024-06-07T18:37:59+00:00",
-      "title": "Samsung Electronics is on strike as workers stage one-day walkout",
-      "url": "https://arstechnica.com/gadgets/2024/06/samsung-electronics-is-on-strike-workers-stage-one-day-walkout/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/samsung-flag-760x380.jpg"
     }
   ],
   "sortBy": "top",
