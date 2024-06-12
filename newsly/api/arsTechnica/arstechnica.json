@@ -1,12 +1,60 @@
 {
   "articles": [
     {
-      "author": "Ashley Belanger",
+      "author": "Eric Berger",
+      "description": "Eric Berger and Caleb Henry discuss the orbital ISP's economics at 2 pm Eastern.",
+      "publishedAt": "2024-06-11T16:20:34+00:00",
+      "title": "Ars Live: How Profitable is Starlink? Join our discussion today!",
+      "url": "https://arstechnica.com/space/2024/06/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/starlink-60-satellites-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Scientists looked at how polarization changed direction to learn more about origins",
+      "publishedAt": "2024-06-11T16:11:05+00:00",
+      "title": "Polarized light yields fresh insight into mysterious fast radio bursts",
+      "url": "https://arstechnica.com/science/2024/06/polarized-light-yields-fresh-insight-into-mysterious-fast-radio-bursts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/FRB1-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"What happens if I don't have a Human Landing System available to execute a mission?\"",
+      "publishedAt": "2024-06-11T15:55:25+00:00",
+      "title": "As NASA watches Starship closely, here\u2019s what the agency wants to see next",
+      "url": "https://arstechnica.com/space/2024/06/as-nasa-watches-starship-closely-heres-what-the-agency-wants-to-see-next/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/starship1-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"This industry is going toward full reusability. To me, that is the inevitable end state.\"",
+      "publishedAt": "2024-06-11T13:40:37+00:00",
+      "title": "Stoke Space ignites its ambitious main engine for the first time",
+      "url": "https://arstechnica.com/space/2024/06/stoke-space-ignites-its-ambitious-main-engine-for-the-first-time/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Stoke_S1E_Jun5_hotfire_drone-760x380.jpg"
+    },
+    {
+      "author": "Jordan Pearson, wired.com",
+      "description": "Researchers fear real-world violence as law enforcement plays Whac-A-Mole with gangs.",
+      "publishedAt": "2024-06-11T13:22:22+00:00",
+      "title": "Ransomware gangs are adopting \u201cmore brutal\u201d tactics amid crackdowns",
+      "url": "https://www.wired.com/story/state-of-ransomware-2024/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ransomware-lock-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "They hold the keys to new physics. If only we could understand them.",
+      "publishedAt": "2024-06-11T11:00:29+00:00",
+      "title": "Neutrinos: The inscrutable \u201cghost particles\u201d driving scientists crazy",
+      "url": "https://arstechnica.com/?p=2030571",
+      "urlToImage": null
+    },
+    {
+      "author": null,
       "description": "Kids \"easily traceable\" from photos used to train AI models, advocates warn.",
       "publishedAt": "2024-06-10T22:37:03+00:00",
       "title": "AI trained on photos from kids\u2019 entire childhood without their consent",
-      "url": "https://arstechnica.com/tech-policy/2024/06/ai-trained-on-photos-from-kids-entire-childhood-without-their-consent/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1328876959-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2030521",
+      "urlToImage": null
     },
     {
       "author": "Dan Goodin",
@@ -31,54 +79,6 @@
       "title": "The Google Pay app is dead",
       "url": "https://arstechnica.com/gadgets/2024/06/google-shuts-down-the-google-pay-app/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/flushing-google-play-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Luckily for owners of current devices, only the 6th-gen iPad gets the axe.",
-      "publishedAt": "2024-06-10T19:38:21+00:00",
-      "title": "These are all the devices compatible with iOS 18 and iPadOS 18",
-      "url": "https://arstechnica.com/gadgets/2024/06/these-are-all-the-devices-compatible-with-ios-18-and-ipados-18/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-13.19.31-760x380.jpg"
-    },
-    {
-      "author": "Ron Amadeo",
-      "description": "ChatGPT is treated like a search engine for Siri, and generates text and images for apps.",
-      "publishedAt": "2024-06-10T19:29:35+00:00",
-      "title": "Apple integrates ChatGPT into Siri, iOS, and macOS",
-      "url": "https://arstechnica.com/gadgets/2024/06/apple-integrates-chatgpt-into-siri-ios-and-mac-os/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/m2reeTHTyM-757x380.png"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Apple debuts new catchall AI branding, generative features during WWDC 2024 keynote.",
-      "publishedAt": "2024-06-10T19:15:42+00:00",
-      "title": "Apple unveils \u201cApple Intelligence\u201d AI features for iOS, iPadOS, and macOS",
-      "url": "https://arstechnica.com/information-technology/2024/06/for-apple-ai-now-stands-for-apple-intelligence-launched-at-wwdc-2024/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/apple_intelligence_hero-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "And publicly reviewable server code means experts can \"verify this privacy promise.\"",
-      "publishedAt": "2024-06-10T19:05:50+00:00",
-      "title": "Apple\u2019s AI promise: \u201cYour data is never stored or made accessible to Apple\u201d",
-      "url": "https://arstechnica.com/ai/2024/06/apples-ai-promise-your-data-is-never-stored-or-made-accessible-by-apple/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/appleaisecure-760x380.png"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "With one major exception, Sequoia will run on everything that can run Sonoma.",
-      "publishedAt": "2024-06-10T19:04:09+00:00",
-      "title": "Here are all the Intel and Apple Silicon Macs that will run macOS 15 Sequoia",
-      "url": "https://arstechnica.com/gadgets/2024/06/macos-15-sequoia-still-supports-intel-macs-but-cuts-the-2018-macbook-air/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-13.04.24-760x380.jpg"
-    },
-    {
-      "author": "Jacek Krywko",
-      "description": "The US is still regulating some enriched uranium based on an analysis from the 1950s.",
-      "publishedAt": "2024-06-10T18:56:53+00:00",
-      "title": "DARPA\u2019s planned nuclear rocket would use enough fuel to build a bomb",
-      "url": "https://arstechnica.com/science/2024/06/planned-nuclear-fuel-has-higher-proliferation-risks-than-thought/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1556635801-760x380.jpg"
     }
   ],
   "sortBy": "top",
