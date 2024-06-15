@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "VICE Staff, Kev Kharas",
+      "content": "In May 2018, Darren Marble was attending a cryptocurrency conference in New York City when he discovered he had become a victim of a new and financially devastating form of crime.\r\nThe first sign tha\u2026 [+5739 chars]",
+      "description": "Joel Ortiz, a socially isolated teenager, stole millions of dollars in crypto by hijacking his victims\u2019 mobile phones.",
+      "publishedAt": "2024-06-14T13:31:02Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The College Student Who Lived a Secret Double Life as a Millionaire Crypto Bandit",
+      "url": "https://www.vice.com/en/article/dy39xj/the-college-student-who-lived-a-secret-double-life-as-a-millionaire-crypto-bandit",
+      "urlToImage": "https://video-images.vice.com/articles/666c44818ae2322e94d9c1a6/lede/1718371561786-ortiz.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Sammi Caramela, Duncan Cooper",
       "content": "\u201cIt was more than an obsession. It felt like an obligation.\u201d \u2013Todd Matthews",
       "description": "In the 1990s, Todd Matthews used the internet to help solve the \u201cTent Girl\u201d mystery, one of the first cases of its kind.",
@@ -392,5 +405,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 30
+  "totalResults": 31
 }
