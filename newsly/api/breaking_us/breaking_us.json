@@ -1,6 +1,71 @@
 {
   "articles": [
     {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-06-17T12:14:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Israel's war cabinet disbanded by Netanyahu: Live updates - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNubi5jb20vbWlkZGxlZWFzdC9saXZlLW5ld3MvaXNyYWVsLWhhbWFzLXdhci1nYXphLW5ld3MtMDYtMTctMjQvaW5kZXguaHRtbNIBUGh0dHBzOi8vYW1wLmNubi5jb20vY25uL21pZGRsZWVhc3QvbGl2ZS1uZXdzL2lzcmFlbC1oYW1hcy13YXItZ2F6YS1uZXdzLTA2LTE3LTI0?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Washington Post",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-06-17T11:43:05Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Russia\u2019s Putin visits North Korea for talks with Kim Jong Un - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA2LzE3L3J1c3NpYS1wdXRpbi1ub3J0aC1rb3JlYS12aXNpdC1raW0v0gEA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "BBC.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-06-17T11:36:13Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "US tourist found dead on Greek island - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbDU1MHhnbnBsM2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2w1NTB4Z25wbDNvLmFtcA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-06-17T11:20:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "175,000 pardons are set to be issued for marijuana convictions in Maryland - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL21hcmlqdWFuYS1wYXJkb25zLWdvdi13ZXMtbW9vcmUtMDAzYTExZDI0MzVlYWJhYTA2MGQyZDI2ZGE2M2NlNDLSAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Shaun Powell",
+      "content": "After Dallas staves off elimination in Game 4, the series returns to Boston. Can the Mavs force another flight?\r\n\u00a0Download the NBA App\r\nBOSTON \u2014 Two explanations being pushed ahead of Game 5 of the N\u2026 [+6617 chars]",
+      "description": "Facing elimination, the Mavericks' star duo of Kyrie Irving and Luka Doncic must set the tone in Game 5 of the NBA Finals presented by YouTube TV.",
+      "publishedAt": "2024-06-17T11:19:14Z",
+      "source": {
+        "id": null,
+        "name": "Heat.com"
+      },
+      "title": "NBA Finals: 4 things to look for in Game 5 of Celtics-Mavericks - NBA.com",
+      "url": "https://www.nba.com/news/4-things-to-look-for-game-5-2024-nba-finals",
+      "urlToImage": null
+    },
+    {
       "author": null,
       "content": "[Removed]",
       "description": "[Removed]",
@@ -14,253 +79,188 @@
       "urlToImage": null
     },
     {
-      "author": "Paul Grein",
-      "content": "The Outsiders was a surprise winner for best musical at the 2024 Tony Awards, which were presented on Sunday (June 16). The award was thought to be a close call between Suffs, a musical about the mus\u2026 [+18562 chars]",
-      "description": "Here's the complete list of 2024 Tony nominations, with winners marked.",
-      "publishedAt": "2024-06-17T04:07:23Z",
-      "source": {
-        "id": null,
-        "name": "Billboard"
-      },
-      "title": "Here Are All the Winners of the 2024 Tony Awards: Complete Winners List - Billboard",
-      "url": "http://www.billboard.com/music/awards/tony-awards-2024-winners-list-1235709445/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/06/the-outsiders-tony-awards-2024-1548_b1c17a.jpg?w=1024"
-    },
-    {
-      "author": "Paolo Uggetti",
-      "content": "PINEHURST, N.C. -- The putt that Bryson DeChambeau had to win the 2024 U.S. Open was 3 feet, 11 inches long.\r\nIts importance was obvious, but the significance of its length went beyond the single mom\u2026 [+7219 chars]",
-      "description": "The final-round duel that played out at Pinehurst No. 2 on Sunday cemented Bryson DeChambeau's evolution while perpetuating a 10-year narrative for Rory McIlroy.",
-      "publishedAt": "2024-06-17T03:05:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Bryson DeChambeau's triumph and Rory McIlroy's heartbreak determined by inches at the U.S. Open - ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/40365743/bryson-dechambeau-rory-mcilroy-2024-us-open-pinehurst-no-2",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0616%2Fr1346701_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Lauren Sarner",
-      "content": "They served up some Blood and Cheese.\u00a0\r\nSpoilers below for the first episode of House of the Dragon Season 2.\u00a0\r\nThe season premiere for the Game of Thrones spinoffs second season, House of the Dragon\u2026 [+5047 chars]",
-      "description": "In the Season 2 premiere of \u201cHouse of the Dragon,\u201d Daemon (Matt Smith) hires rat catchers in the castle (known as \u201cBlood and Cheese\u201d) to kill Aemond (Ewan Mitchell) but the \u2026",
-      "publishedAt": "2024-06-17T02:01:00Z",
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "title": "'House of the Dragon' changes books in shocking controverial 'Blood and Cheese' murder - New York Post ",
-      "url": "https://nypost.com/2024/06/16/entertainment/house-of-the-dragon-changes-books-in-shocking-controverial-blood-and-cheese-murder/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/83739187.jpg?quality=75&strip=all&w=1024"
-    },
-    {
       "author": null,
-      "content": "Property investment fell by 10.1 per cent, year on year, in the first five months of 2024, worsening from a 9.8 per cent drop from January through April and a 9.5 per cent drop in the first quarter.\r\u2026 [+4569 chars]",
-      "description": "The worrisome property-investment decline reached double-digits in May, but consumers in China opened their wallets a bit more, year on year.",
-      "publishedAt": "2024-06-17T02:00:09Z",
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "title": "\u2018Deepening downturn\u2019 in China\u2019s property sector overshadows May spending rebound - South China Morning Post",
-      "url": "https://www.scmp.com/economy/economic-indicators/article/3266847/chinas-property-fall-outshines-spending-rebound-may-challenging-beijing-economic-targets",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/06/17/20bd9913-638b-4bb3-a25a-98739b730fce_7ab02b47.jpg?itok=X9TGNjtt&v=1718589605"
-    },
-    {
-      "author": "JOSEF FEDERMAN, WAFAA SHURAFA, LEE KEATH",
-      "content": "JERUSALEM (AP) Israels military announced on Sunday that it would pause fighting during daytime hours along a route in southern Gaza to free up a backlog of humanitarian aid deliveries for desperate \u2026 [+6211 chars]",
-      "description": "The Israeli military says it is pausing fighting during daytime hours along a route in southern Gaza to free up a backlog of humanitarian aid deliveries for desperate Palestinians. The army says the daily pause from 8 a.m. to 7 p.m. will continue until furthe\u2026",
-      "publishedAt": "2024-06-17T01:45:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Israel announces pause in daytime fighting to get in aid for desperate Palestinians - The Associated Press",
-      "url": "https://apnews.com/article/israel-palestinians-gaza-hamas-war-un-humanitarian-8c111f2dcf783f8671e6dd6f19547b17",
-      "urlToImage": "https://dims.apnews.com/dims4/default/caf0549/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Ffe%2Fcbd6272a198510b1e218a05bd862%2F97a23a0f9481441588e6077250632ab9"
-    },
-    {
-      "author": "Patrick Frater",
-      "content": "Pixar\u2019s \u201cInside Out 2\u201d leaped to a crushing first place debut at the South Korean box office on its opening weekend.\r\nThe American animation film earned $12.3 million from 1.75 million ticket sales b\u2026 [+2811 chars]",
-      "description": "At the South Korean box office, \u2018Inside Out 2\u2019 becomes the fourth biggest film of the year after just five days on release.",
-      "publishedAt": "2024-06-17T01:42:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "Korea Box Office: \u2018Inside Out 2\u2019 Leaps to Powerful Lead With $12 Million Debut Weekend - Variety",
-      "url": "https://variety.com/2024/film/news/korea-box-office-inside-out-2-debut-weekend-1236039633/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/06/MCDINOU_WD030.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "author": "Stephanie Kaloi",
-      "content": "United Kingdom National Health Service cancer specialist Dr. Clive Peedell condemned an article in The U.K. Telegraph for its coverage of Kate Middleton\u2019s appearance at Trooping the Colour on Saturda\u2026 [+5137 chars]",
-      "description": "The newspaper's author offended readers on social media by referring to other people with cancer as \u201clesser mortals\u201d compared with the duchess The post...",
-      "publishedAt": "2024-06-17T01:09:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]",
+      "description": null,
+      "publishedAt": "2024-06-17T11:00:15Z",
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "title": "Cancer Specialist Condemns UK Telegraph Column Praising Kate Middleton's Public Appearance: 'Absolutely Appalling' - Yahoo! Voices",
-      "url": "https://www.yahoo.com/news/cancer-specialist-condemns-uk-telegraph-010915993.html",
-      "urlToImage": "https://media.zenfs.com/en/thewrap.com/7df6981d741d90a35249de8413e9a0f3"
+      "title": "Hern\u00e1ndez: Mookie Betts and Yoshinobu Yamamoto injuries create a Dodgers trade deadline dilemma - Yahoo Sports",
+      "url": "https://sports.yahoo.com/hern-ndez-mookie-betts-yoshinobu-110015889.html",
+      "urlToImage": null
     },
     {
-      "author": "PYMNTS",
-      "content": "Apples artificial intelligence (AI) rollout will reportedly be a long, slow one.\r\nAs Bloomberg News reported Sunday (June 16), Apple Intelligence, which the tech giant announced last week, wont becom\u2026 [+2412 chars]",
-      "description": "Apple\u2019s AI rollout will reportedly be a long, slow one. Apple Intelligence won\u2019t become available for developers until late in the summer.",
-      "publishedAt": "2024-06-17T00:54:36Z",
+      "author": "Kayla Clarke",
+      "content": "ROCHESTER HILLS, Mich. Nine people were injured, including two children, when a gunman opened fire at a splash pad in Oakland County over the weekend. Heres everything we know as of Monday morning.\r\n\u2026 [+5611 chars]",
+      "description": "Nine people were injured when a gunman opened fire at a splash pad in Oakland County over the weekend. Here\u2019s everything we know.",
+      "publishedAt": "2024-06-17T10:58:47Z",
       "source": {
         "id": null,
-        "name": "pymnts.com"
+        "name": "WDIV ClickOnDetroit"
       },
-      "title": "Apple's AI Rollout Will Likely Stretch Into Next Year - PYMNTS.com",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2024/apples-ai-rollout-will-likely-stretch-into-next-year/",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/06/Apple-Intelligence-1-1.jpg"
+      "title": "Mass shooting at Rochester Hills splash pad: What we know about victims, shooter - WDIV ClickOnDetroit",
+      "url": "https://www.clickondetroit.com/news/local/2024/06/17/mass-shooting-at-rochester-hills-splash-pad-what-we-know-about-victims-shooter/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/slnKJZABSFmAF-3RizIZ/1718621195705_1920x1080_thumbnail.jpg?_a=ATAPphC0"
+    },
+    {
+      "author": "Jamie Chisholm",
+      "content": "The new week starts with the S&amp;P 500 \r\n SPX\r\n looking to register its 30th record closing high of the year. And the optimistic market calls keep on coming.Standing out is Julian Emanuel, strategi\u2026 [+7710 chars]",
+      "description": "Critical information for the U.S. trading day",
+      "publishedAt": "2024-06-17T10:33:00Z",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "title": "Wall Street\u2019s new top S&P target is 6,000. Here\u2019s why. - MarketWatch",
+      "url": "https://www.marketwatch.com/story/wall-streets-new-top-s-p-target-is-6-000-heres-why-1c9fb03c",
+      "urlToImage": "https://images.mktw.net/im-508862/social"
+    },
+    {
+      "author": "Jacopo Prisco",
+      "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nFor about 50 years, the scientific community has been \u2026 [+8971 chars]",
+      "description": "Scientists studying the earliest black holes may have found an answer to dark matter, putting Stephen Hawking\u2019s theory on the subject back into the spotlight.",
+      "publishedAt": "2024-06-17T10:06:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "How primordial black holes could explain the enduring mystery of dark matter - CNN",
+      "url": "https://www.cnn.com/2024/06/17/science/black-holes-dark-matter-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/chandra-bullett-preview.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Tim Hardwick",
+      "content": "Apple intends to slim down the MacBook Pro, Apple Watch, and iPhone, with the new ultra-thin M4 iPad Pro a sign of the company's new design trajectory, according to Bloomberg's Mark Gurman.\r\nWhen the\u2026 [+2016 chars]",
+      "description": "Apple intends to slim down the MacBook Pro, Apple Watch, and iPhone, with the new ultra-thin M4 iPad Pro a sign of the company's new design...",
+      "publishedAt": "2024-06-17T09:22:47Z",
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "title": "Apple Developing Thinner MacBook Pro, Apple Watch, and iPhone - MacRumors",
+      "url": "https://www.macrumors.com/2024/06/17/apple-plans-thinner-iphone-slimmer-macbook/",
+      "urlToImage": "https://images.macrumors.com/t/RghB0RxxxZyqTQo_SHIfFrJaQZQ=/2000x/article-new/2024/05/ipad-pro-thin-light.jpg"
+    },
+    {
+      "author": null,
+      "content": "Researchers at Stanford Medicine have identified six biological subtypes of depression using brain imaging and machine learning, paving the way for precision psychiatry. Results indicate that certain\u2026 [+8873 chars]",
+      "description": "A Stanford Medicine study reveals six subtypes of depression, identified through brain imaging and machine learning. These subtypes exhibit unique brain activity patterns, helping predict which patients will benefit from specific antidepressants or behavioral\u2026",
+      "publishedAt": "2024-06-17T09:00:47Z",
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "title": "Stanford Identifies 6 Types of Depression: Could a Brain Scan Reveal the Best Treatment for You? - SciTechDaily",
+      "url": "https://scitechdaily.com/stanford-identifies-6-types-of-depression-could-a-brain-scan-reveal-the-best-treatment-for-you/",
+      "urlToImage": "https://scitechdaily.com/images/Types-of-Depression-Art-Concept.jpg"
+    },
+    {
+      "author": "CBS News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-06-17T08:49:40Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Jetliner diverts, lands in New Zealand after fire shuts down engine - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvamV0bGluZXItZW5naW5lLWZpcmUtbmV3LXplYWxhbmQtdmlyZ2luLWF1c3RyYWxpYS1ib2VpbmctNzM3L9IBXmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2pldGxpbmVyLWVuZ2luZS1maXJlLW5ldy16ZWFsYW5kLXZpcmdpbi1hdXN0cmFsaWEtYm9laW5nLTczNy8?oc=5",
+      "urlToImage": null
     },
     {
       "author": "Reuters",
       "content": null,
       "description": null,
-      "publishedAt": "2024-06-17T00:50:41Z",
+      "publishedAt": "2024-06-17T08:43:00Z",
       "source": {
         "id": "reuters",
         "name": "Reuters"
       },
-      "title": "China's factory output disappoints, property sector stuck in doldrums - Reuters",
-      "url": "https://www.reuters.com/markets/asia/chinas-may-industrial-output-misses-forecasts-retail-sales-bright-spot-2024-06-17/",
+      "title": "Shares stable, euro downtrodden as political turmoil saps market mood - Reuters",
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-06-17/",
       "urlToImage": null
     },
     {
-      "author": "Gus Martin",
-      "content": "NASCAR's Cup Series has made its way to Iowa for the first time.\r\nTop drivers competed in the Iowa Corn 350 at Iowa Speedway. It was the culmination of Summer Race Weekend in Newton, which began with\u2026 [+5196 chars]",
-      "description": "NASCAR's Cup Series comes to the Iowa Speedway for the first time today. Follow along with live updates on the Iowa Corn 350 race.",
-      "publishedAt": "2024-06-17T00:45:00Z",
+      "author": "Forbes",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-06-17T08:35:42Z",
       "source": {
-        "id": null,
-        "name": "Des Moines Register"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "title": "NASCAR Iowa Corn 350: Live updates Cup Series race at Iowa Speedway - Des Moines Register",
-      "url": "https://www.desmoinesregister.com/story/sports/motor/auto-racing/2024/06/16/nascar-race-iowa-speedway-iowa-corn-350-live-updates-today/74118983007/",
-      "urlToImage": "https://www.desmoinesregister.com/gcdn/authoring/authoring-images/2024/06/17/PDEM/74120116007-nascar-iowa-corn-350-cs-020.jpg?crop=7007,3943,x0,y364&width=3200&height=1801&format=pjpg&auto=webp"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
+      "title": "China's Nuclear Weapon Stockpile Grew Rapidly Last Year, Report Says - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3NpbGFkaXR5YXJheS8yMDI0LzA2LzE3L2NoaW5hcy1udWNsZWFyLXdlYXBvbi1zdG9ja3BpbGUtaXMtZ3Jvd2luZy1mYXN0ZXItdGhhbi1hbnktb3RoZXItY291bnRyeS1yZXBvcnQtc2F5cy_SAQA?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Erik Kain",
-      "content": "Today's NYT Strands hints and answers\r\nCredit: New York Times\r\nLooking for Sundays Strands hints, spangram and answers? You can find them here:\r\nForbesNYT 'Strands' #105 Hints, Spangram And Answers F\u2026 [+4160 chars]",
-      "description": "Looking for help with today's NYT Strands puzzle? Here's an extra hint to help you uncover the right words, as well as all of today's answers and Spangram.",
-      "publishedAt": "2024-06-16T23:00:21Z",
+      "author": null,
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later",
+      "description": null,
+      "publishedAt": "2024-06-17T08:31:28Z",
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "YouTube"
       },
-      "title": "NYT 'Strands' #106 Hints, Spangram And Answers For Monday, June 17th - Forbes",
-      "url": "https://www.forbes.com/sites/erikkain/2024/06/16/nyt-strands-106-hints-spangram-and-answers-for-monday-june-17th-picking-up-the-pieces/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661994c1a11cd45a738c205f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "title": "Princess Kate to be ABSENT from Garter Day Service despite Trooping the Colour attendance - GBNews",
+      "url": "https://www.youtube.com/watch?v=nM2FN0zqb4U",
+      "urlToImage": null
     },
     {
-      "author": "Ania Nussbaum, Samy Adghirni",
-      "content": "For generations, the French establishment had a tacit agreement that prevented far-right parties from getting close to national power. That model is starting to come apart.\r\nIn the week since Emmanue\u2026 [+233 chars]",
-      "description": "For generations, the French establishment had a tacit agreement that prevented far-right parties from getting close to national power. That model is starting to come apart.",
-      "publishedAt": "2024-06-16T23:00:00Z",
+      "author": "Tim Hardwick",
+      "content": "This year's Apple Watch Series 10 will be thinner and come in larger screen sizes than previous models, according to Apple analyst Ming-Chi Kuo.\r\nIn his latest industry note shared on Medium, Kuo sai\u2026 [+1081 chars]",
+      "description": "This year's Apple Watch Series 10 will be thinner and come in larger screen sizes than previous models, according to Apple analyst Ming-Chi Kuo. ...",
+      "publishedAt": "2024-06-17T08:20:07Z",
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "MacRumors"
       },
-      "title": "France's Safeguards Against the Far-Right Are Starting to Unravel - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2024-06-16/french-election-safeguards-against-le-pen-s-far-right-are-starting-to-unravel",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izjEmvcBP9.A/v0/1200x800.jpg"
+      "title": "Kuo: Apple Watch Series 10 to Get Larger Screen and Thinner Design - MacRumors",
+      "url": "https://www.macrumors.com/2024/06/17/kuo-apple-watch-series-10-larger-screen-thinner/",
+      "urlToImage": "https://images.macrumors.com/t/pVBvl-VPaeZH8xg2tqA-k2Lsl-w=/1960x/article-new/2023/08/apple-watch-series-9-display.jpeg"
     },
     {
       "author": null,
-      "content": "Every 80 years, the skies grant us a rare gift: a stellar explosion called a nova that outshines all other cosmic wonders. This celestial fireworks show occurs when a white dwarf star erupts, increas\u2026 [+6015 chars]",
-      "description": "A nova will soon be visible with the naked eye for a short window of time.",
-      "publishedAt": "2024-06-16T23:00:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]",
+      "description": null,
+      "publishedAt": "2024-06-17T08:00:08Z",
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "Yahoo Entertainment"
       },
-      "title": "Get Ready To See a Sky Explosion That Only Happens Once Every 80 Years - CNET",
-      "url": "https://www.cnet.com/science/get-ready-to-see-a-sky-explosion-that-only-happens-once-every-80-years/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/8e6510b5141d5520535b7512626928d5efc431bc/hub/2024/06/13/a54e565d-a1c5-4ca9-ac7d-4ec7f1c616bf/novacygni-mp4.jpg?auto=webp&fit=crop&height=675&width=1200"
+      "title": "Nvidia's shares flashes key warning sign - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/nvidias-shares-flashes-key-warning-080008414.html",
+      "urlToImage": null
     },
     {
-      "author": "Christine Brennan",
-      "content": "INDIANAPOLIS It was reality, but it might as well have been a dream. Its what Title IX advocates, and parents coaching their daughters, and, really, the entire nation has been waiting for, and it hap\u2026 [+4263 chars]",
-      "description": "Exactly a week before Title IX turns 52, Caitlin Clark and Katie Ledecky made the most of the big stage in downtown Indianapolis.",
-      "publishedAt": "2024-06-16T22:52:07Z",
+      "author": "NINIEK KARMINI",
+      "content": "JAKARTA, Indonesia (AP) Muslims in Asia on Monday celebrated Eid al-Adha, or the Feast of Sacrifice, with food and prayers for people in Gaza suffering from the Israel-Hamas war.\r\nOne of the biggest \u2026 [+5532 chars]",
+      "description": "Muslims in Asia are celebrating Eid al-Adha, or the Feast of Sacrifice, one of the biggest holidays in the Islamic calendar. The occasion commemorates Prophet Ibrahim\u2019s test of faith through slaughtering livestock and animals and distributing the meat to the \u2026",
+      "publishedAt": "2024-06-17T07:26:00Z",
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "title": "Caitlin Clark, Katie Ledecky have electric weekend in Indianapolis - USA TODAY",
-      "url": "https://www.usatoday.com/story/sports/columnist/brennan/2024/06/16/caitlin-clark-katie-ledecky-have-electric-weekend-in-indianapolis/74117729007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/16/USAT/74119432007-usatsi-23561801.jpg?crop=4589,2581,x0,y572&width=3200&height=1800&format=pjpg&auto=webp"
+      "title": "Muslims in Asia celebrate Eid al-Adha with sacrifice festival and traditional feast - The Associated Press",
+      "url": "https://apnews.com/article/asia-indonesia-eid-al-adha-celebration-sacrifice-3c357a46b0329e794bbefe51fe83242c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8111350/2147483647/strip/true/crop/8312x4676+0+433/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2F17%2F9df26498705a6da5c55701a9ec21%2Fc9d27348afe0403faa87650fd149f81f"
     },
     {
-      "author": "FOX 7 Austin",
-      "content": "ROUND ROCK, Texas - The Round Rock Police Department has released a description of the suspect in Saturday night's shooting at the Juneteenth celebration in Old Settlers Park.\r\nLaw enforcement is loo\u2026 [+1114 chars]",
-      "description": "The Round Rock Police Department has released a description of the suspect and more information about those injured in Saturday night's shooting at the Juneteenth celebration at Old Settlers Park.",
-      "publishedAt": "2024-06-16T22:37:49Z",
+      "author": "Helen Regan, Junko Ogura",
+      "content": "Cases of a dangerous and highly fatal bacterial infection have reached record levels in Japan, official figures show, with experts so far unable to pinpoint the reason for the rise.\r\nAs of June 2, Ja\u2026 [+3156 chars]",
+      "description": "Cases of a dangerous and highly fatal bacterial infection have reached record levels in Japan, official figures show, with experts so far unable to pinpoint the reason for the rise.",
+      "publishedAt": "2024-06-17T07:26:00Z",
       "source": {
-        "id": null,
-        "name": "FOX 7 Austin"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Round Rock Juneteenth shooting: Police release suspect description - FOX 7 Austin",
-      "url": "https://www.fox7austin.com/news/round-rock-juneteenth-shooting-update-police",
-      "urlToImage": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/06/1280/720/rrpdshooting.jpg?ve=1&tl=1"
-    },
-    {
-      "author": null,
-      "content": "Jun 16, 2024, 06:30 PM ET\r\nLOS ANGELES -- Dodgers shortstop Mookie Betts broke his left hand when he was hit by a pitch during the seventh inning of Sunday's game against the Kansas City Royals.\r\nThe\u2026 [+3245 chars]",
-      "description": "Dodgers shortstop Mookie Betts broke his left hand when he was hit by a pitch during the seventh inning of Sunday's game against the Royals. The injury will not require surgery, according to manager Dave Roberts.",
-      "publishedAt": "2024-06-16T22:30:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Dodgers' Mookie Betts fractures left hand on hit by pitch - ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/40365667/dodgers-mookie-betts-hit-left-hand-pitch-exits-game-vs-royals",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0616%2Fr1346679_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Jessica Menton, Natalia Kniazhevich, Bloomberg",
-      "content": "With the S&amp;P 500 Index setting record after record, Evercore ISI is predicting another double-digit rally through the end of 2024.\u00a0Julian Emanuel, the firms chief equity and quantitative strategi\u2026 [+2177 chars]",
-      "description": "\"The backdrop of slowing inflation, a Fed intent on cutting rates and growth support Goldilocks.\u201d",
-      "publishedAt": "2024-06-16T22:29:00Z",
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "title": "Top Wall Street bear surrenders to bull market and flips forecast, now seeing the S&P 500 soaring to 6000 by year-end - Fortune",
-      "url": "https://fortune.com/2024/06/16/stock-market-outlook-evercore-sp500-6000-wall-street-highest-forecast/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1384646810-e1718576311572.jpg?resize=1200,600"
-    },
-    {
-      "author": "A. Camden Walker",
-      "content": "Does a borderline hot but not steamy Fathers Day meet with your approval, given bright skies and refreshing breezes? Starting tomorrow, temperatures may hit 90 or higher each day into the foreseeable\u2026 [+2642 chars]",
-      "description": "A long stretch of 90s is probable beginning tomorrow in the D.C. region, and a flash drought is possible with very low chances of rain this week.",
-      "publishedAt": "2024-06-16T22:14:00Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "PM Update: Humidity starts building tonight; heat wave arrives Monday - The Washington Post",
-      "url": "https://www.washingtonpost.com/weather/2024/06/16/pm-update-dc-weather-heat-wave/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N3L3YXTH5ZB7PMEDUCDTTPQZPA.jpg&w=1440"
+      "title": "Japan reports record spike in potentially deadly bacterial infection - CNN",
+      "url": "https://www.cnn.com/2024/06/17/asia/japan-record-spike-stss-bacterial-infection-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1337945805.jpg?c=16x9&q=w_800,c_fill"
     }
   ],
   "status": "ok",
-  "totalResults": 38
+  "totalResults": 35
 }
