@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Nick Thompson, Kev Kharas",
+      "content": "Barnes and a friend climb a 325-foot-tall church in Europe. Photo by @insaect on Instagram",
+      "description": "Photographer Jake Barnes risked everything for urbex\u2014but he says it saved his life.",
+      "publishedAt": "2024-06-19T15:37:55Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Terrifying Photos of Train Surfers and Turbine Climbers",
+      "url": "https://www.vice.com/en/article/93kjdp/terrifying-photos-of-train-surfers-and-turbine-climbers",
+      "urlToImage": "https://video-images.vice.com/articles/6671b13b8ae2322e94d9c8e0/lede/1718730467422-cltpun2nn01ke3podb0wz7cd8.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDM5NjA5OTAyNDc1NjE5eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
+      "author": "Nick Thompson, Joe Zadeh",
+      "content": "Young Ciaran and Chef Mahalia.",
+      "description": "I'd heard the rumor that chefs have desensitized hands\u2014it wasn't until he shoved them in a pot of boiling water that I believed it.",
+      "publishedAt": "2024-06-19T13:18:49Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The Bear IRL: My Manic Day in a Michelin-Starred Kitchen",
+      "url": "https://www.vice.com/en/article/bvjkdw/the-bear-irl-my-manic-day-in-a-michelin-starred-kitchen",
+      "urlToImage": "https://video-images.vice.com/articles/6671c490450e838f6e57b555/lede/1718792448634-new-project-2.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Sammi Caramela, Duncan Cooper",
       "content": "I call us neo-pioneers. Were kinda like the Amish with guns.\r\nNestled in the American Midwest is an often overlooked region of dense forests and mountains: the Ozarks. A place where you can easily de\u2026 [+3664 chars]",
       "description": "\u201cI call us neo-pioneers. We\u2019re kinda like the Amish with guns.\u201d",
@@ -405,5 +431,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 31
+  "totalResults": 33
 }
