@@ -1,56 +1,238 @@
 {
   "articles": [
     {
+      "author": "Carolyn Y. Johnson",
+      "content": "In 2019, researchers announced the discovery of an unusually resilient person a Colombian woman who carried a ticking time bomb in her genes that should have triggered an aggressive, early form of Al\u2026 [+5431 chars]",
+      "description": "Researchers have discovered 27 people with a rare gene mutation called Christchurch that helped delay an aggressive form of Alzheimer\u2019s disease for four years.",
+      "publishedAt": "2024-06-19T22:32:37Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Rare gene mutation helps people resist Alzheimer's disease - The Washington Post",
+      "url": "https://www.washingtonpost.com/science/2024/06/19/alzheimers-disease-gene-treatment/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NWSNXZPYXN4OWS64DC5J4CSJUY_size-normalized.JPG&w=1440"
+    },
+    {
+      "author": "Jason Samenow, Ian Livingston, Justine McDaniel, Sarah Raza, Naema Ahmed, John Muyskens, Allie Caren, Emily Davies, Dan Stillman, Natalie B. Compton, Hannah Sampson, Scott Dance, Allyson Chiu",
+      "content": "As a punishing heat dome continues to intensify over the northeastern United States, scores of record-high temperatures are set to be broken Wednesday from Michigan to Maine, including in Detroit; Cl\u2026 [+179 chars]",
+      "description": "A heat wave moving along the Northeast, East Coast and Mid-Atlantic will bring punishing and potentially record temperatures to multiple regions. Follow updates.",
+      "publishedAt": "2024-06-19T22:22:49Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Live updates: Heat wave over eastern U.S. continues to intensify - The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2024/06/19/heat-wave-east-coast-temperatures-updates/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XHZ3DA44WNBGTKC5Z3D2EW3NS4.jpg&w=1440"
+    },
+    {
+      "author": "JAMIE STENGLE, MARIANA MART\u00cdNEZ BARBA",
+      "content": "MEXICO CITY (AP) Tropical Storm Alberto formed on Wednesday in the southwestern Gulf of Mexico, the first named storm of what is forecast to be a busy hurricane season.\r\nAlberto, which is bringing st\u2026 [+4552 chars]",
+      "description": "Tropical Storm Alberto has formed in the southwestern Gulf of Mexico, the first named storm of what is forecast to be a busy hurricane season. The National Hurricane Center said early Wednesday afternoon that Alberto was located about 180 miles east of Tampic\u2026",
+      "publishedAt": "2024-06-19T21:30:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Tropical Storm Alberto forms in southwest Gulf, 1st named storm of the hurricane season - The Associated Press",
+      "url": "https://apnews.com/article/tropical-storm-alberto-gulf-hurricane-season-53b8efa54caf43e7bc746126d28bfa04",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8b65aef/2147483647/strip/true/crop/5000x2813+0+380/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Ff4%2F2ab341f5901c89ac9befb35b92ed%2F45bd86dfffaf4ab88807a6cb74aea411"
+    },
+    {
+      "author": "Nick Catlin",
+      "content": "RUIDOSO, N.M. \u2014Mandatory evacuations are in effect after a flash flood emergency was issued for downstream areas into Ruidoso and Alto, according to the Lincoln County Office of Emergency Management.\u2026 [+1054 chars]",
+      "description": "The rainfall is impacting the Blue 2 and South Fork Fires burn scars.",
+      "publishedAt": "2024-06-19T21:26:00Z",
+      "source": {
+        "id": null,
+        "name": "KOAT New Mexico"
+      },
+      "title": "Evacuations due to flash flood emergency in Ruidoso area - KOAT New Mexico",
+      "url": "https://www.koat.com/article/ruidoso-evacuations-flash-flood-emergency/61178584",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/1766d1f5-277b-4573-985b-06f280e619d9/0bfa8a13-7c4f-4572-96c0-c85fa248ac6a.jpg?crop=0.502xw:0.500xh;0.376xw,0.199xh&resize=1200:*"
+    },
+    {
+      "author": "Anthony D'Alessandro",
+      "content": "Sources tell us that Disney/Pixar\u2018s Inside Out 2is heading for a near $30 million Wednesday at the domestic box office \u2014 as big, if not bigger, than its $29.1M Tuesday, which was a record for an anim\u2026 [+1268 chars]",
+      "description": "Sources tell us that Disney/Pixar's Inside Out 2 is heading for a near $30 million Juneteeth at the domestic box office.",
+      "publishedAt": "2024-06-19T21:03:00Z",
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "title": "\u2018Inside Out 2\u2019 Headed For Juneteenth Box Office Record With Near $30M - Deadline",
+      "url": "http://deadline.com/2024/06/inside-out-2-juneteenth-box-office-record-1235978396/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/INSIDE-OUT-2-ONLINE-USE-i170_42_pub.pub16.155.jpg?w=1024"
+    },
+    {
+      "author": "Sharon Braithwaite, Tara John",
+      "content": "A police constable working as part of the UK Prime Minister Rishi\u00a0Sunaks protection team was arrested this week for allegedly making bets related to the timing of the general election, police told CN\u2026 [+2100 chars]",
+      "description": "A police constable working as part of the UK Prime Minister Rishi\u00a0Sunak\u2019s protection team was arrested this week for allegedly making bets related to the timing of the general election, police told CNN.",
+      "publishedAt": "2024-06-19T20:23:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "UK prime minister\u2019s protection officer arrested over alleged bet on election timing - CNN",
+      "url": "https://www.cnn.com/2024/06/19/uk/uk-election-betting-sunak-protection-officer-intl-latam/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2154760880.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Hope Sloop",
+      "content": "Ashanti and Nelly are married -- and they have been for six months, according to one report.\u00a0\r\nOn Wednesday,\u00a0TMZ\u00a0shared that\u00a0the\u00a043-year-old singer and her 49-year-old rapper beau -- who are currentl\u2026 [+3821 chars]",
+      "description": "Ashanti and Nelly, who are currently expecting their first child together, reportedly tied the knot in December.",
+      "publishedAt": "2024-06-19T19:59:00Z",
+      "source": {
+        "id": null,
+        "name": "Entertainment Tonight"
+      },
+      "title": "Ashanti and Nelly Are Married, Tied the Knot in 2023: Report - Entertainment Tonight",
+      "url": "https://www.etonline.com/ashanti-and-nelly-are-married-tied-the-knot-in-2023-report-227686",
+      "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-04/GettyImages-2102853399%20%281%29.jpg?h=c673cd1c"
+    },
+    {
       "author": null,
-      "content": "By\u00a0Ana Faguy,\u00a0BBC News, Washington\r\n'The Zone' is Phoenix's largest homeless encampment\r\nMary Carter has survived scorching Phoenix summers for 40 years, but she found herself paralysed by the heat w\u2026 [+4984 chars]",
-      "description": "From cooling centres to programmes helping with air conditioning, cities look to mitigate the impact of extreme heat.",
-      "publishedAt": "2024-06-19T17:46:49Z",
+      "content": "Louisiana has become the first US state to order that every public school classroom up to university level must display a poster of the Ten Commandments. \r\nThe Republican-backed measure signed into l\u2026 [+1806 chars]",
+      "description": "Law requires a poster in all public schools classrooms, up to university level, by 2025.",
+      "publishedAt": "2024-06-19T19:47:25Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Extreme heat tests US cities aiming to help low-income residents - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c7227d0nl20o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f5de/live/8283d5a0-2e64-11ef-bdc5-41d7421c2adf.jpg"
+      "title": "Louisiana orders Ten Commandments poster in every classroom - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cp66xdxj0l3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bab0/live/969233f0-2e75-11ef-ba8d-a9b9bfa74cb0.jpg"
     },
     {
-      "author": "CBS Sports",
+      "author": "Megan Cerullo",
+      "content": "What to do if you believe your personal information has been hacked \r\nWhat to do if you believe your personal information has been hacked03:12\r\nCDK Global, a company that provides auto dealerships ac\u2026 [+2846 chars]",
+      "description": "A cyberattack has disrupted the transaction systems for 15,000 car dealerships across the U.S.",
+      "publishedAt": "2024-06-19T19:35:00Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "CDK cyberattack shuts down auto dealerships across the U.S. Here's what to know. - CBS News",
+      "url": "https://www.cbsnews.com/news/cdk-cyber-attack-outage-auto-dealerships-cbs-news-explains/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/19/75225c0c-1f9e-4a4d-a961-7599150c4b21/thumbnail/1200x630/7b73feabd63b48116297560963206c9d/gettyimages-1233092209.jpg?v=5842509bb796a146f9b20d3e8b03dac6"
+    },
+    {
+      "author": "Vincent Goodwill",
+      "content": "The Detroit Pistons had to persuade Monty Williams to take their money and their job a year ago, and then Williams had to convince the Pistons he wanted to stay after a disastrous first season.\r\nTeam\u2026 [+6556 chars]",
+      "description": "With Trajan Langdon now running things in Detroit, the franchise needs one voice and one vision as it aspires for relevance.",
+      "publishedAt": "2024-06-19T19:01:53Z",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "title": "Monty Williams' firing will hopefully signify a legitimate step forward for the Pistons - Yahoo Sports",
+      "url": "https://sports.yahoo.com/monty-williams-firing-will-hopefully-signify-a-legitimate-step-forward-for-the-pistons-190153380.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zEwVcdorLbHsbJr.7onZVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/6ec5e270-2e6d-11ef-b7e7-c176e9638a14"
+    },
+    {
+      "author": "Jackie Wattles",
+      "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nBoeings Starliner spacecraft was set to mark its crown\u2026 [+8037 chars]",
+      "description": "Two test pilots helming the inaugural crewed flight of Boeing\u2019s Starliner spacecraft are in a tentative position \u2014 and so is Boeing\u2019s reputation in spaceflight.",
+      "publishedAt": "2024-06-19T19:00:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Two astronauts wait to come home as Boeing races to understand spacecraft issues. Here\u2019s what\u2019s at stake - CNN",
+      "url": "https://www.cnn.com/2024/06/19/science/boeing-starliner-astronauts-return-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/iss071e170983-orig.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Two climate protesters were arrested for spraying orange paint on the ancient Stonehenge monument, a prehistoric UNESCO World Heritage Site in southern England, police have said.\r\nThe act by Just Sto\u2026 [+3063 chars]",
+      "description": "UK police say they arrested two people \u2018on suspicion of damaging\u2019 the prehistoric UNESCO World Heritage Site.",
+      "publishedAt": "2024-06-19T18:44:22Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Climate activists arrested after spray painting UK\u2019s Stonehenge monument - Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2024/6/19/climate-activists-arrested-after-spray-painting-uks-stonehenge-monument",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2017-06-21T080317Z_836460192_RC1A78358EA0_RTRMADP_3_BRITAIN-SOLSTICE-1718818273.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": null,
+      "content": "Jun 19, 2024, 02:32 PM ET\r\nLos Angeles Sparks forward Cameron Brink suffered a torn ACL in her left knee during Tuesday's game against the Connecticut Sun, the team announced Wednesday.\r\nBrink, the N\u2026 [+952 chars]",
+      "description": "Sparks forward Cameron Brink suffered a torn ACL in her left knee during Tuesday's game against the Connecticut Sun, the team announced Wednesday.",
+      "publishedAt": "2024-06-19T18:32:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Sparks rookie forward Brink suffers torn ACL - ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/40387794/sparks-rookie-forward-cameron-brink-suffers-torn-acl",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0619%2Fr1347644_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "Seb Starcevic, Nektaria Stamouli",
+      "content": "Our humanitarian corridor is a testament to our commitment to peace and stability, he told reporters at the graduation ceremony of the University of Cyprus, stressing Cyprus role as a humanitarian fa\u2026 [+782 chars]",
+      "description": "Nicosia and Tel Aviv have stepped up defense cooperation in recent years.",
+      "publishedAt": "2024-06-19T18:16:07Z",
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "title": "Hezbollah threatens war against Cyprus if it helps Israel - POLITICO Europe",
+      "url": "https://www.politico.eu/article/hezbollah-threaten-war-against-cyprus-if-it-help-israel-hassan-nasrallah/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/06/19/GettyImages-1273681288-scaled.jpg"
+    },
+    {
+      "author": "Axios",
       "content": null,
       "description": null,
-      "publishedAt": "2024-06-19T17:29:00Z",
+      "publishedAt": "2024-06-19T18:11:41Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "axios",
+        "name": "Axios"
       },
-      "title": "Pistons fire coach Monty Williams one season into record-setting $78.5 million contract - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmJhL25ld3MvcGlzdG9ucy1maXJlLWNvYWNoLW1vbnR5LXdpbGxpYW1zLW9uZS1zZWFzb24taW50by1yZWNvcmQtc2V0dGluZy03OC01LW1pbGxpb24tY29udHJhY3Qv0gEA?oc=5",
+      "title": "Bump stock ban blocked by Senate Republicans - Axios",
+      "url": "https://www.axios.com/2024/06/18/bump-stock-ban-blocked-senate-republicans",
       "urlToImage": null
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
+      "author": "Passant Rabie",
+      "content": "In 2006, a NASA spacecraft flew by Saturns largest moon and found evidence of large bodies of liquid on the surface of the bizarre world. The shocking discovery meant that Titans landscape is eerily \u2026 [+3210 chars]",
+      "description": "Titan's large seas and lakes may be influenced by waves, but not the kind you could surf, according to new research.",
+      "publishedAt": "2024-06-19T18:00:00Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Gizmodo.com"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
+      "title": "Waves of Methane Are Crashing on the Coasts of Saturn's Bizarre Moon Titan - Gizmodo",
+      "url": "https://gizmodo.com/saturn-moon-titan-methane-ethane-waves-sculpting-shore-1851547416",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e91acf084e3a45f2851d3d17f3001a05.png"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
+      "author": "The Associated Press",
+      "content": "Canadian airline WestJet has begun canceling some flights in anticipation of a strike by aircraft maintenance technicians, saying it wants to avoid having passengers and planes stranded if there is a\u2026 [+1367 chars]",
+      "description": "Canadian airline WestJet is starting to cancel some flights as it braces for a possible strike this week by aircraft maintenance technicians",
+      "publishedAt": "2024-06-19T17:59:17Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Canadian airline WestJet begins canceling flights as mechanics threaten to strike - ABC News",
+      "url": "https://abcnews.go.com/Business/wireStory/canadian-airline-westjet-begins-canceling-flights-mechanics-threaten-111256284",
+      "urlToImage": "https://i.abcnewsfe.com/a/c6f2889f-698d-4efe-9822-2746b366db0f/wirestory_5f5df7d404859ace323e31cb910fc7d1_16x9.jpg?w=1600"
+    },
+    {
+      "author": "",
+      "content": "With the 2024 NBA Draft just around the corner, I'm back for my annual appraisal of prospects in the lead-up to the big night. But after years of doing my big board in mock draft style, we're finally\u2026 [+2777 chars]",
+      "description": "Matt Norlander attempts to project the 30 players, in order, who will have the best careers from the 2024 NBA Draft class",
+      "publishedAt": "2024-06-19T17:06:00Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "CBS Sports"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
+      "title": "2024 NBA Draft: Dalton Knecht, Alex Sarr, Reed Sheppard top Big Board projecting best pro careers - CBS Sports",
+      "url": "https://www.cbssports.com/college-basketball/news/2024-nba-draft-dalton-knecht-alex-sarr-reed-sheppard-top-big-board-projecting-best-pro-careers/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/19/c4f03ba3-1fff-401a-b8ed-6b6b9557397e/thumbnail/1200x675/64f5e2b35ba00ec5ab97161b6561016a/dalton-knecht.jpg"
     },
     {
       "author": "POLITICO",
@@ -77,190 +259,8 @@
       "title": "Super rare star explosion will be visible from Earth this month - New York Post ",
       "url": "https://nypost.com/2024/06/19/lifestyle/super-rare-star-explosion-will-be-visible-from-earth-this-month/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/red-giant-star-white-dwarf-84077931.jpg?quality=75&strip=all&w=1024"
-    },
-    {
-      "author": "Grace Kazarian",
-      "content": "Republican voters in Virginia's 5th Congressional District do not yet know whether House Freedom Caucus Chairman Bob Good was on his way to his fifth term in office or whether opponent, state Sen. Jo\u2026 [+2699 chars]",
-      "description": "House Freedom Caucus Chairman Bob Good's race against primary challenger state Sen. John McGuire is too close to call, with just 345 votes separating them.",
-      "publishedAt": "2024-06-19T15:52:24Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Virginia GOP primary too close to call in race Trump and McCarthy try to oust House Freedom Caucus Chair Bob Good - CBS News",
-      "url": "https://www.cbsnews.com/news/trump-mccarthy-virginia-gop-primary-bob-good/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/18/4637777a-32fd-4615-acc8-13a5cf509533/thumbnail/1200x630/76da0f974e26df14c401c1fbec9545f9/gettyimages-2156985640.jpg?v=5842509bb796a146f9b20d3e8b03dac6"
-    },
-    {
-      "author": "Simone McCarthy, Manveena Suri, Lucas Lilieholm, Radina Gigova",
-      "content": "Vladimir Putin said Russia and North Korea have ramped up ties to a new level, pledging to help each other if either nation is attacked in a breakthrough new partnership announced during the Russian \u2026 [+8186 chars]",
-      "description": "Vladimir Putin said Russia and North Korea have ramped up ties to a \u201cnew level,\u201d pledging to help each other if either nation is attacked in a \u201cbreakthrough\u201d new partnership announced during the Russian president\u2019s rare visit to the reclusive state.",
-      "publishedAt": "2024-06-19T15:48:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Putin says Russia and North Korea will help each other if attacked, taking ties to a \u2018new level\u2019 - CNN",
-      "url": "https://www.cnn.com/2024/06/19/asia/north-korea-russia-putin-visit-thursday-intl-hnk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-06-19t052125z-1474180113-rc25e8a0shwz-rtrmadp-3-northkorea-russia.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Caroline Thayer",
-      "content": "New video of Justin Timberlake driving shortly before being arrested for allegedly driving drunk has surfaced, showing the pop star in a BMW SUV traveling down Main Street in Sag Harbor, New York.\r\nT\u2026 [+3674 chars]",
-      "description": "Fox News Digital has obtained video of Justin Timberlake driving on Main Street in Sag Harbor shortly before he was arrested for drunken driving.",
-      "publishedAt": "2024-06-19T15:40:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Video shows Justin Timberlake driving moments before DWI arrest - Fox News",
-      "url": "https://www.foxnews.com/entertainment/video-shows-justin-timberlake-driving-moments-before-drunken-driving-arrest",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/justin-timberlake-dwi.jpg"
-    },
-    {
-      "author": "Brian Dakss, Emily Mae Czachor",
-      "content": "The first tropical storm of the Atlantic season formed over the Gulf of Mexico Wednesday, the National Hurricane Center said. The tropical storm has been\u00a0named Alberto.\r\nForecasters said the storm co\u2026 [+4290 chars]",
-      "description": "Alberto, the first tropical storm of the Atlantic season, formed over the Gulf of Mexico Wednesday, the National Hurricane Center says.",
-      "publishedAt": "2024-06-19T15:27:56Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Tropical Storm Alberto, first of the Atlantic hurricane season, forms over the Gulf of Mexico - CBS News",
-      "url": "https://www.cbsnews.com/news/atlantic-hurricane-season-first-tropical-storm-texas-mexico-gulf-of-mexico/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/19/ee78276f-b81c-45b1-9541-699fbd192375/thumbnail/1200x630/f2e3b7a0251e556f4e655d97daca5cb2/screen-shot-2024-06-19-at-11-05-07-am.png?v=5842509bb796a146f9b20d3e8b03dac6"
-    },
-    {
-      "author": "Anthony D'Alessandro",
-      "content": "Disney/Pixar\u2018s Inside Out 2grossed $29.1M stateside yesterday, repping a Tuesday record for an animated movie. That beats the first Tuesday gross of 2018\u2019s Incredibles 2 at $27M. \r\nThe haul flies the\u2026 [+1294 chars]",
-      "description": "Disney/Pixar's 'Inside Out 2' grossed $29.1M stateside yesterday, repping a Tuesday record for an animated movie.",
-      "publishedAt": "2024-06-19T15:25:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "\u2018Inside Out 2\u2019 Posts Record Tuesday For Animated Movie With $29M+; $205M+ U.S., $380M WW \u2013 Box Office - Deadline",
-      "url": "http://deadline.com/2024/06/inside-out-2-box-office-record-tuesday-1235978168/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/INSIDE-OUT-2-ONLINE-USE-i140_15mT_pub.pub16.1581.jpg?w=1024"
-    },
-    {
-      "author": "Micah Maidenberg",
-      "content": null,
-      "description": "Helium leaks and thruster problems prompt NASA and Boeing to delay astronauts\u2019 return on company\u2019s Starliner vehicle",
-      "publishedAt": "2024-06-19T15:20:00Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "Boeing Sent Two Astronauts Into Space. Now It Needs to Get Them Home. - The Wall Street Journal",
-      "url": "https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633",
-      "urlToImage": "https://images.wsj.net/im-971031/social"
-    },
-    {
-      "author": "Veronica Haynes",
-      "content": "A statewide outage of the Massachusetts 911 system on Tuesday was caused by a firewall issue, the state's Executive Office of Public Safety and Security said. \r\nThe Massachusetts State 911 Department\u2026 [+1232 chars]",
-      "description": "A statewide outage of the Massachusetts 911 system on Tuesday was caused by a firewall issue, the state's Executive Office of Public Safety and Security said.",
-      "publishedAt": "2024-06-19T15:10:00Z",
-      "source": {
-        "id": null,
-        "name": "WCVB Boston"
-      },
-      "title": "911 system outage was firewall issue, not cyberattack, Mass. officials say - WCVB Boston",
-      "url": "https://www.wcvb.com/article/911-outage-massachusetts-cause-firewall/61173826",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/barnstable-911-dispatch-center-1520481231.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    },
-    {
-      "author": null,
-      "content": "By\u00a0David Gritten,\u00a0BBC News\r\nThe UN Human Rights Office says Israeli air strikes in Gaza may have systematically violated the laws of war requiring that civilians and civilian infrastructure be protec\u2026 [+5604 chars]",
-      "description": "Israel says the UN report into six strikes last year that killed at least 218 people is \"flawed\u201d.",
-      "publishedAt": "2024-06-19T14:16:14Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Gaza war: Israeli strikes may have violated laws of war, UN says - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cy66e20j531o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bc78/live/ba33a340-2e37-11ef-bdc5-41d7421c2adf.jpg"
-    },
-    {
-      "author": null,
-      "content": "Interest in a four-day workweek is spreading around the world, but a lot of questions remain. Maybe the biggest: Can companies really rely on at least the same amount and quality of work getting done\u2026 [+503 chars]",
-      "description": "The idea is for employees to find ways to do their jobs more efficiently. If they can do that, company leaders say, everybody wins.",
-      "publishedAt": "2024-06-19T14:00:00Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "CEOs on the Four-Day Workweek: \u2018All is Going Fine\u2019 - The Wall Street Journal",
-      "url": "https://www.wsj.com/lifestyle/workplace/four-day-workweek-wbr-group-charity-bank-ceo-council-a7081a75",
-      "urlToImage": "https://images.wsj.net/im-968820/social"
-    },
-    {
-      "author": "Haley Ott",
-      "content": "London \u2014\u00a0Environmental activists sprayed several of the ancient stones of Britain's iconic Stonehenge site with an orange substance Wednesday, demanding that the next U.K. government \u2014 set to be chos\u2026 [+2904 chars]",
-      "description": "The Just Stop Oil group says two activists \"decorated\" the ancient Stonehenge monument with \"orange powder paint.\"",
-      "publishedAt": "2024-06-19T13:49:00Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Stonehenge sprayed with orange paint by Just Stop Oil activists demanding U.K. \"phase out fossil fuels\" - CBS News",
-      "url": "https://www.cbsnews.com/news/stonehenge-just-stop-oil-protest-activists-spray-orange-paint-demand-uk-stop-fossil-fuel/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/19/ba486dea-0e53-459b-afb5-f43cc869b13a/thumbnail/1200x630/55f567c5188b338d461ccb75a6272f0d/stonehenge-protest-just-stop-oil.jpg?v=5842509bb796a146f9b20d3e8b03dac6"
-    },
-    {
-      "author": "Asa Fitch",
-      "content": null,
-      "description": "Chip maker passes Microsoft for top spot, just as John Chambers-led Cisco Systems did two decades ago. He says the situation now is different.",
-      "publishedAt": "2024-06-19T12:55:00Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "Nvidia's Ascent to Most Valuable Company Has Echoes of Dot-Com Boom - The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/nvidias-ascent-to-most-valuable-company-has-echoes-of-dot-com-boom-dd836c90",
-      "urlToImage": "https://images.wsj.net/im-971417/social"
-    },
-    {
-      "author": "Korin Miller",
-      "content": "<ul><li>A heat wave is expected in many parts of the U.S. this week.</li><li>Certain medications raise your risk of heat illnesses like heat stroke and exhaustion. </li><li>Doctors recommend caution \u2026 [+5750 chars]",
-      "description": "Common medications may make you more susceptible to heat-related illnesses. Here, experts share which ones contribute to dehydration and temperature dysregulation.",
-      "publishedAt": "2024-06-19T12:44:37Z",
-      "source": {
-        "id": null,
-        "name": "Prevention.com"
-      },
-      "title": "These Common Medications Can Make a Heat Wave More Dangerous - Prevention Magazine",
-      "url": "https://www.prevention.com/health/health-conditions/a61156581/medications-heat-wave-intolerance/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/woman-takes-prescription-medication-royalty-free-image-1718736576.jpg?crop=1.00xw:0.752xh;0,0.202xh&resize=1200:*"
-    },
-    {
-      "author": "From NBA.com Staff",
-      "content": "Jayson Tatum and Finals MVP Jaylen Brown power a Game 5 win vs. Dallas that clinches Boston's NBA-record 18th championship.\r\n\u00a0Download the NBA App\r\nThe Celtics will celebrate their 18th NBA champions\u2026 [+674 chars]",
-      "description": "The championship parade will wind through several streets in downtown Boston before ending at the Hynes Convention Center.",
-      "publishedAt": "2024-06-19T12:33:45Z",
-      "source": {
-        "id": null,
-        "name": "Heat.com"
-      },
-      "title": "Celtics' championship parade set for Friday morning - NBA.com",
-      "url": "https://www.nba.com/news/celtics-championship-parade-announcement-2024",
-      "urlToImage": null
-    },
-    {
-      "author": "David Schoenfield",
-      "content": "Maybe the greatest baseball player of all time is Babe Ruth. Perhaps it's Henry Aaron or Barry Bonds or Josh Gibson or Oscar Charleston. Proponents of a more antiquated version of the sport might arg\u2026 [+10216 chars]",
-      "description": "Mays was truly a player before his time, and the numbers we value in today's game would only have enhanced his all-time place.",
-      "publishedAt": "2024-06-19T12:30:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Willie Mays was even better than his all-time great stats - ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/40382708/mlb-willie-mays-new-york-san-francisco-giants-all-great-career-stats",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0619%2Fr1347641_1296x729_16%2D9.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 35
+  "totalResults": 34
 }
