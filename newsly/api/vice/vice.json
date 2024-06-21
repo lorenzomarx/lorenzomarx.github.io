@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "VICE Staff, Duncan Cooper",
+      "content": "\u201cAs it goes here in San Felipe, you have to get by somehow.\u201d \u2013A totoaba fisherman",
+      "description": "As few as a dozen vaquita are left. They\u2019re an accidental casualty of a black market trade controlled by international crime syndicates.",
+      "publishedAt": "2024-06-20T17:22:14Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "How \u201cSea Cocaine\u201d Brought the World\u2019s Smallest Porpoise to the Brink of Extinction",
+      "url": "https://www.vice.com/en/article/4a3mqw/vaquita-endangered-porpoise-cartel-fishing-documentary",
+      "urlToImage": "https://video-images.vice.com/articles/667462798ae2322e94d9e216/lede/1718903758687-vice-cartel-fishing-story-mexico.jpeg?image-resize-opts=Y3JvcD0wLjk5OTg3NTAxNTYyMzA0NzF4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
+      "author": "Sammi Caramela, Duncan Cooper",
+      "content": "Long before Eastbound and Down, the star pitcher derailed his career with an infamous Sports Illustrated interview. \r\nThe beloved HBO sitcom Eastbound and Downtells the story of Kenny Powers, an obno\u2026 [+3176 chars]",
+      "description": "Long before \u2018Eastbound and Down,\u2019 the star pitcher derailed his career with an infamous Sports Illustrated interview.",
+      "publishedAt": "2024-06-20T15:15:43Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "John Rocker Was the Real-Life Kenny Powers from \u2018Eastbound and Down\u2019",
+      "url": "https://www.vice.com/en/article/pka4qb/john-rocker-real-kenny-powers-eastbound-down",
+      "urlToImage": "https://video-images.vice.com/articles/66730058ab32588a375a5517/lede/1718896094600-john-rocker-kenny-powers-eastbound-down-documentary.jpeg?image-resize-opts=Y3JvcD0wLjc2NHh3OjAuNzc1M3hoOzAuMTU5Mnh3LDAuMTExM3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
       "author": "Nick Thompson, Kev Kharas",
       "content": "Barnes and a friend climb a 325-foot-tall church in Europe. Photo by @insaect on Instagram",
       "description": "Photographer Jake Barnes risked everything for urbex\u2014but he says it saved his life.",
@@ -431,5 +457,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 33
+  "totalResults": 35
 }

@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "OG Fallout producer says \"Project Van Buren\" ran out of time and money.",
+      "publishedAt": "2024-06-20T16:31:36+00:00",
+      "title": "Why Interplay\u2019s original Fallout 3 was canceled 20+ years ago",
+      "url": "https://arstechnica.com/gaming/2024/06/why-interplays-original-fallout-3-was-canceled-20-years-ago/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/fo3-663x380.jpg"
+    },
+    {
+      "author": "Bob Holmes, Knowable Magazine",
+      "description": "New tools for lowering methane emissions from livestock are on their way.",
+      "publishedAt": "2024-06-20T16:20:05+00:00",
+      "title": "Cleaning up cow burps to combat global warming",
+      "url": "https://arstechnica.com/science/2024/06/cleaning-up-cow-burps-to-combat-global-warming/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-157204335-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "\"Cyber incident\" takes down CDK Global, serving more than 15,000 dealers.",
+      "publishedAt": "2024-06-20T16:03:50+00:00",
+      "title": "Single point of software failure has hamstrung car dealerships for a second day",
+      "url": "https://arstechnica.com/information-technology/2024/06/cyberattacks-have-forced-thousands-of-car-dealerships-to-paper-for-a-second-day/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2156250869.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "911 vendor Comtech still investigating why firewall blocked emergency calls.",
+      "publishedAt": "2024-06-20T15:49:03+00:00",
+      "title": "Faulty firewall blocked 911 calls throughout Massachusetts for two hours",
+      "url": "https://arstechnica.com/tech-policy/2024/06/faulty-firewall-blocked-911-calls-throughout-massachusetts-for-two-hours/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/911call-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Safe Superintelligence, Inc. seeks to safely build AI far beyond human capability.",
+      "publishedAt": "2024-06-20T14:06:41+00:00",
+      "title": "Ex-OpenAI star Sutskever shoots for superintelligent AI with new company",
+      "url": "https://arstechnica.com/information-technology/2024/06/ex-openai-star-sutskever-shoots-for-superintelligent-ai-with-new-company/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/sutskever_altman_header-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Understanding burrowing mechanisms could aid in design of soft burrowing robots.",
+      "publishedAt": "2024-06-20T12:35:35+00:00",
+      "title": "How hagfish burrow into deep-sea sediment",
+      "url": "https://arstechnica.com/science/2024/06/how-hagfish-burrow-into-deep-sea-sediment/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/hagfishTOP-760x380.jpg"
+    },
+    {
       "author": "Anna Washenko",
       "description": "MUDs, Usenet, and open source all play a part in 50 years of IF history.",
       "publishedAt": "2024-06-20T11:00:44+00:00",
@@ -31,54 +79,6 @@
       "title": "When did humans start social knowledge accumulation?",
       "url": "https://arstechnica.com/science/2024/06/stone-tool-archeological-record-shows-recent-boost-in-sophistication/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2003169331-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Meta managers are accused of retaliation and covering up mistreatment of women.",
-      "publishedAt": "2024-06-18T21:54:22+00:00",
-      "title": "Lawsuit: Meta engineer told to resign after calling out sexist hiring practices",
-      "url": "https://arstechnica.com/tech-policy/2024/06/lawsuit-meta-engineer-told-to-resign-after-calling-out-sexist-hiring-practices/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2154120118-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "New Gen-3 Alpha AI video generator can create detailed humans and surreal situations.",
-      "publishedAt": "2024-06-18T21:41:56+00:00",
-      "title": "Runway\u2019s latest AI video generator brings giant cotton candy monsters to life",
-      "url": "https://arstechnica.com/information-technology/2024/06/runways-latest-ai-video-generator-brings-giant-cotton-candy-monsters-to-life/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/runway_cotton_candy_monster_screenshot-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Price hike paired with data boosts to make \"unlimited\" plans a bit less limited.",
-      "publishedAt": "2024-06-18T21:03:37+00:00",
-      "title": "AT&T imposes $10 price hike on most of its older unlimited plans",
-      "url": "https://arstechnica.com/tech-policy/2024/06/att-imposes-10-price-hike-on-most-of-its-older-unlimited-plans/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-att-logo-umbrella-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "No word on parts, warranty, or, most crucially, software updates in the future.",
-      "publishedAt": "2024-06-18T20:53:28+00:00",
-      "title": "Fisker is out of cash, not making cars, and filing for bankruptcy",
-      "url": "https://arstechnica.com/cars/2024/06/ev-firm-fisker-files-for-bankruptcy-months-after-it-stopped-making-the-ocean/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1402240598-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Members of group called ViLE face a minimum of two years in prison.",
-      "publishedAt": "2024-06-18T20:30:12+00:00",
-      "title": "Men plead guilty to aggravated ID theft after pilfering police database",
-      "url": "https://arstechnica.com/security/2024/06/men-who-compromised-law-enforcement-database-admit-to-aggravated-id-theft/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/police-database-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Report reveals how Musk plans to release X payments in US this year.",
-      "publishedAt": "2024-06-18T20:01:40+00:00",
-      "title": "Elon Musk rushes to debut X payments as tech issues hamper creator payouts",
-      "url": "https://arstechnica.com/tech-policy/2024/06/elon-musk-rushes-to-debut-x-payments-as-tech-issues-hamper-creator-payouts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-157572795-2-760x380.jpg"
     }
   ],
   "sortBy": "top",
