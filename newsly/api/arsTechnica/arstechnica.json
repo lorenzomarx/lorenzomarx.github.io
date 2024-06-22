@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "US cites Russian government's \"capacity to influence Kaspersky's operations.\"",
+      "publishedAt": "2024-06-20T23:00:14+00:00",
+      "title": "Citing national security, US will ban Kaspersky anti-virus software in July",
+      "url": "https://arstechnica.com/tech-policy/2024/06/citing-national-security-us-will-ban-kaspersky-anti-virus-software-in-july/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/01/kaspersky-760x380.jpeg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "Claude 3.5 Sonnet is a speedy mid-sized entry in a new family of AI models.",
       "publishedAt": "2024-06-20T21:04:59+00:00",
@@ -15,6 +23,14 @@
       "title": "Pornhub prepares to block five more states rather than check IDs",
       "url": "https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/banned-in-the-heartland-760x380.jpg"
+    },
+    {
+      "author": "Bradley Iger",
+      "description": "It features three electric motors, 1,800 horsepower, and watch-like instruments.",
+      "publishedAt": "2024-06-20T20:15:48+00:00",
+      "title": "Bugatti\u2019s new hypercar loses the turbos for a screaming V16 hybrid",
+      "url": "https://arstechnica.com/cars/2024/06/bugattis-new-hypercar-loses-the-turbos-for-a-screaming-v16-hybrid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/071A2644-760x380.jpg"
     },
     {
       "author": "Samuel Axon",
@@ -63,22 +79,6 @@
       "title": "Single point of software failure could hamstring 15K car dealerships for days",
       "url": "https://arstechnica.com/information-technology/2024/06/cyberattacks-have-forced-thousands-of-car-dealerships-to-paper-for-a-second-day/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2156250869.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "911 vendor Comtech still investigating why firewall blocked emergency calls.",
-      "publishedAt": "2024-06-20T15:49:03+00:00",
-      "title": "Faulty firewall blocked 911 calls throughout Massachusetts for two hours",
-      "url": "https://arstechnica.com/tech-policy/2024/06/faulty-firewall-blocked-911-calls-throughout-massachusetts-for-two-hours/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/911call-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Safe Superintelligence, Inc. seeks to build hypothetical AI far beyond human capability.",
-      "publishedAt": "2024-06-20T14:06:41+00:00",
-      "title": "Ex-OpenAI star Sutskever shoots for superintelligent AI with new company",
-      "url": "https://arstechnica.com/information-technology/2024/06/ex-openai-star-sutskever-shoots-for-superintelligent-ai-with-new-company/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/sutskever_altman_header-760x380.jpg"
     }
   ],
   "sortBy": "top",
