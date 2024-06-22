@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Claude 3.5 Sonnet is a speedy mid-sized entry in a new family of AI models.",
+      "publishedAt": "2024-06-20T21:04:59+00:00",
+      "title": "Anthropic introduces Claude 3.5 Sonnet, matching GPT-4o on benchmarks",
+      "url": "https://arstechnica.com/information-technology/2024/06/anthropics-latest-best-ai-model-is-twice-as-fast-and-still-terrible-at-dad-jokes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/claude35sonnet_hero_2-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "The number of states blocked by Pornhub will soon nearly double.",
+      "publishedAt": "2024-06-20T20:33:45+00:00",
+      "title": "Pornhub prepares to block five more states rather than check IDs",
+      "url": "https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/banned-in-the-heartland-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Workers stayed remote even when told they could no longer be promoted.",
+      "publishedAt": "2024-06-20T19:44:45+00:00",
+      "title": "Dell said return to the office or else\u2014nearly half of workers chose \u201cor else\u201d",
+      "url": "https://arstechnica.com/gadgets/2024/06/nearly-half-of-dells-workforce-refused-to-return-to-the-office/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1246865511-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Finding out whether the AI is uncertain about facts or phrasing is the key.",
+      "publishedAt": "2024-06-20T19:32:24+00:00",
+      "title": "Researchers describe how to tell if ChatGPT is confabulating",
+      "url": "https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ai-uncertainty-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Of the 26 cases identified so far, 25 sought medical care and 16 were hospitalized.",
+      "publishedAt": "2024-06-20T18:16:53+00:00",
+      "title": "Microdosing candy-linked illnesses double; possible recall in \u201cdiscussions\u201d",
+      "url": "https://arstechnica.com/science/2024/06/still-no-recall-of-microdosing-candy-linked-to-seizures-icu-stays-cases-double/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/chocolate-bar_0004s_0000_multiple-product_chocolate-bar-a-1-760x380.jpeg"
+    },
+    {
       "author": "Kyle Orland",
       "description": "OG Fallout producer says \"Project Van Buren\" ran out of time and money.",
       "publishedAt": "2024-06-20T16:31:36+00:00",
@@ -18,9 +58,9 @@
     },
     {
       "author": "Kevin Purdy",
-      "description": "\"Cyber incident\" takes down CDK Global, serving more than 15,000 dealers.",
+      "description": "\"Cyber incident\" affecting 15K dealers could mean outages \"for several days.\"",
       "publishedAt": "2024-06-20T16:03:50+00:00",
-      "title": "Single point of software failure has hamstrung car dealerships for a second day",
+      "title": "Single point of software failure could hamstring 15K car dealerships for days",
       "url": "https://arstechnica.com/information-technology/2024/06/cyberattacks-have-forced-thousands-of-car-dealerships-to-paper-for-a-second-day/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2156250869.jpg"
     },
@@ -34,51 +74,11 @@
     },
     {
       "author": "Benj Edwards",
-      "description": "Safe Superintelligence, Inc. seeks to safely build AI far beyond human capability.",
+      "description": "Safe Superintelligence, Inc. seeks to build hypothetical AI far beyond human capability.",
       "publishedAt": "2024-06-20T14:06:41+00:00",
       "title": "Ex-OpenAI star Sutskever shoots for superintelligent AI with new company",
       "url": "https://arstechnica.com/information-technology/2024/06/ex-openai-star-sutskever-shoots-for-superintelligent-ai-with-new-company/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/sutskever_altman_header-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Understanding burrowing mechanisms could aid in design of soft burrowing robots.",
-      "publishedAt": "2024-06-20T12:35:35+00:00",
-      "title": "How hagfish burrow into deep-sea sediment",
-      "url": "https://arstechnica.com/science/2024/06/how-hagfish-burrow-into-deep-sea-sediment/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/hagfishTOP-760x380.jpg"
-    },
-    {
-      "author": "Anna Washenko",
-      "description": "MUDs, Usenet, and open source all play a part in 50 years of IF history.",
-      "publishedAt": "2024-06-20T11:00:44+00:00",
-      "title": "From Infocom to 80 Days: An oral history of text games and interactive fiction",
-      "url": "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/45897016062_e1c52b1dd9_k-760x380.jpg"
-    },
-    {
-      "author": "Aime Williams and Claire Bushey, Financial Times",
-      "description": "Tariffs on Chinese EVs could increase costs while reducing competition.",
-      "publishedAt": "2024-06-19T14:24:05+00:00",
-      "title": "Why Americans aren\u2019t buying more EVs",
-      "url": "https://www.ft.com/content/072d7dc3-c290-47d5-b8f1-7ec5ba2c2629",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/chargingstation-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "The Real Red Tails investigates the fatal crash of 2nd Lt. Frank Moody in 1944.",
-      "publishedAt": "2024-06-19T11:04:14+00:00",
-      "title": "NatGeo documents salvage of Tuskegee Airman\u2019s lost WWII plane wreckage",
-      "url": "https://arstechnica.com/science/2024/06/natgeo-documents-salvage-of-tuskegee-airmans-lost-wwii-plane-wreckage/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/tuskagee15-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Study suggests our ancestors were building on past knowledge by 600,000 years ago.",
-      "publishedAt": "2024-06-18T22:33:20+00:00",
-      "title": "When did humans start social knowledge accumulation?",
-      "url": "https://arstechnica.com/science/2024/06/stone-tool-archeological-record-shows-recent-boost-in-sophistication/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2003169331-760x380.jpg"
     }
   ],
   "sortBy": "top",
