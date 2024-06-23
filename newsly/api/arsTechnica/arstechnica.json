@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "Internet Archive fans beg publishers to stop emptying the open library.",
+      "publishedAt": "2024-06-21T21:42:00+00:00",
+      "title": "Internet Archive forced to remove 500,000 books after publishers\u2019 court win",
+      "url": "https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-119015596-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Peter Marks overruled three teams and two top directors.",
+      "publishedAt": "2024-06-21T21:26:33+00:00",
+      "title": "Top FDA official overrules staff to approve gene therapy that failed trial",
+      "url": "https://arstechnica.com/science/2024/06/top-fda-official-overrules-staff-to-approve-gene-therapy-that-failed-trial/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1231786160-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Pocket 386 supports external accessories and will just barely run Windows 95.",
+      "publishedAt": "2024-06-21T21:18:16+00:00",
+      "title": "$200-ish laptop with a 386 and 8MB of RAM is a modern take on Windows 3.1 era",
+      "url": "https://arstechnica.com/gadgets/2024/06/the-ultimate-windows-3-1-laptop-sellers-behind-book-8088-are-back-with-pocket-386/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/pocket-386-04-640x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Kaspersky blames the \"present geopolitical climate and theoretical concerns.\"",
+      "publishedAt": "2024-06-21T21:00:14+00:00",
+      "title": "Citing national security, US will ban Kaspersky anti-virus software in July",
+      "url": "https://arstechnica.com/tech-policy/2024/06/citing-national-security-us-will-ban-kaspersky-anti-virus-software-in-july/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/01/kaspersky-760x380.jpeg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "ADVANCE Act heads for Biden's signature, but it may be too little, too late.",
+      "publishedAt": "2024-06-21T20:40:16+00:00",
+      "title": "Congress passes bill to jumpstart new nuclear power tech",
+      "url": "https://arstechnica.com/science/2024/06/congress-passes-bill-to-jumpstart-new-nuclear-power-tech/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1297436157-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "One astrophysics professor's memories of writing X11 code in the 1980s.",
+      "publishedAt": "2024-06-21T19:47:41+00:00",
+      "title": "40 years later, X Window System is far more relevant than anyone could guess",
+      "url": "https://arstechnica.com/gadgets/2024/06/the-x-window-system-is-40-archaic-as-heck-and-still-relevant/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1097897294-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "iPhone Mirroring and SharePlay screen sharing will also skip the EU for now.",
+      "publishedAt": "2024-06-21T19:34:57+00:00",
+      "title": "Apple Intelligence and other features won\u2019t launch in the EU this year",
+      "url": "https://arstechnica.com/gaming/2024/06/apple-intelligence-and-other-features-wont-launch-in-the-eu-this-year/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-13.31.03-scaled-1-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Win+C has been assigned to some of Windows' least successful features.",
+      "publishedAt": "2024-06-21T18:19:10+00:00",
+      "title": "Win+C, Windows\u2019 most cursed keyboard shortcut, is getting retired again",
+      "url": "https://arstechnica.com/google/2024/06/winc-windows-most-cursed-keyboard-shortcut-is-getting-retired-again/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/copilot-key-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "AI analysis of satellite imagery data is a new method for estimating population size.",
+      "publishedAt": "2024-06-21T18:00:58+00:00",
+      "title": "We now have even more evidence against the \u201cecocide\u201d theory of Easter Island",
+      "url": "https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/easter1-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "State dismisses AT&T application to end Carrier of Last Resort obligation.",
       "publishedAt": "2024-06-21T16:35:13+00:00",
       "title": "AT&T can\u2019t hang up on landline phone customers, California agency rules",
       "url": "https://arstechnica.com/tech-policy/2024/06/california-rejects-att-request-to-end-carriers-landline-phone-obligation/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/att-van-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Whatever NASA does is going to send a strong signal to the space industry.\"",
-      "publishedAt": "2024-06-21T13:02:08+00:00",
-      "title": "Family whose roof was damaged by space debris files claims against NASA",
-      "url": "https://arstechnica.com/space/2024/06/family-whose-roof-was-damaged-by-space-debris-files-claims-against-nasa/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/debris1-620x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Most rocket startups are still stuck in the long process of reengineering.\"",
-      "publishedAt": "2024-06-21T10:45:01+00:00",
-      "title": "Rocket Report: Electron turns 50, China\u2019s Moon launcher breathes fire",
-      "url": "https://arstechnica.com/space/2024/06/rocket-report-electron-turns-50-chinas-moon-launcher-breathes-fire/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/35709E8B-BF87-485F-9402-C738B19FF029-980x735-1-760x380.jpg"
-    },
-    {
-      "author": "Elie Dolgin, Knowable Magazine",
-      "description": "Tumor-seeking radiopharmaceuticals promise targeted treatments with fewer side effects.",
-      "publishedAt": "2024-06-21T10:30:51+00:00",
-      "title": "Radioactive drugs strike cancer with precision",
-      "url": "https://arstechnica.com/science/2024/06/radioactive-drugs-strike-cancer-with-precision/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/radioactivedrugsknowable-760x380.png"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "US cites Russian government's \"capacity to influence Kaspersky's operations.\"",
-      "publishedAt": "2024-06-20T23:00:14+00:00",
-      "title": "Citing national security, US will ban Kaspersky anti-virus software in July",
-      "url": "https://arstechnica.com/tech-policy/2024/06/citing-national-security-us-will-ban-kaspersky-anti-virus-software-in-july/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/01/kaspersky-760x380.jpeg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Claude 3.5 Sonnet is a speedy mid-sized entry in a new family of AI models.",
-      "publishedAt": "2024-06-20T21:04:59+00:00",
-      "title": "Anthropic introduces Claude 3.5 Sonnet, matching GPT-4o on benchmarks",
-      "url": "https://arstechnica.com/information-technology/2024/06/anthropics-latest-best-ai-model-is-twice-as-fast-and-still-terrible-at-dad-jokes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/claude35sonnet_hero_2-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "The number of states blocked by Pornhub will soon nearly double.",
-      "publishedAt": "2024-06-20T20:33:45+00:00",
-      "title": "Pornhub prepares to block five more states rather than check IDs",
-      "url": "https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/banned-in-the-heartland-760x380.jpg"
-    },
-    {
-      "author": "Bradley Iger",
-      "description": "It features three electric motors, 1,800 horsepower, and watch-like instruments.",
-      "publishedAt": "2024-06-20T20:15:48+00:00",
-      "title": "Bugatti\u2019s new hypercar loses the turbos for a screaming V16 hybrid",
-      "url": "https://arstechnica.com/cars/2024/06/bugattis-new-hypercar-loses-the-turbos-for-a-screaming-v16-hybrid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/071A2644-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Workers stayed remote even when told they could no longer be promoted.",
-      "publishedAt": "2024-06-20T19:44:45+00:00",
-      "title": "Dell said return to the office or else\u2014nearly half of workers chose \u201cor else\u201d",
-      "url": "https://arstechnica.com/gadgets/2024/06/nearly-half-of-dells-workforce-refused-to-return-to-the-office/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1246865511-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Finding out whether the AI is uncertain about facts or phrasing is the key.",
-      "publishedAt": "2024-06-20T19:32:24+00:00",
-      "title": "Researchers describe how to tell if ChatGPT is confabulating",
-      "url": "https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ai-uncertainty-760x380.jpg"
     }
   ],
   "sortBy": "top",
