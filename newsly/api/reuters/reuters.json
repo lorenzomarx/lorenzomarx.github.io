@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Sarah N. Lynch, Andrew Goudsward",
+      "description": "WikiLeaks founder Julian Assange is due to plead guilty this week to violating U.S. espionage law, in a deal that will end his imprisonment in Britain and allow him to return home to Australia, ending a long legal odyssey.",
+      "publishedAt": "2024-06-25T00:33:55Z",
+      "title": "WikiLeaks' Julian Assange to be freed after pleading guilty to US Espionage Act charge",
+      "url": "https://www.reuters.com/world/us/wikileaks-assange-expected-plead-guilty-us-espionage-charge-document-says-2024-06-24/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/7M4ELFZTQRO63OWXJQDXJRI7AE.jpg?auth=1edf6906f3edb42db322a4694054822f0d1d6c551e73cf3c7236ea97d07a4e2e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Gram Slattery, Simon Lewis",
+      "description": "Two key advisers to Donald Trump have presented him with a plan to end Russia's war in Ukraine -- if he wins the presidential election -- that involves telling Ukraine it will only get more U.S. weapons if it enters into peace talks.",
+      "publishedAt": "2024-06-25T05:01:14Z",
+      "title": "Exclusive: Trump reviews plan to halt US military aid to Ukraine unless it negotiates peace with Moscow",
+      "url": "https://www.reuters.com/world/us/trump-reviews-plan-halt-us-military-aid-ukraine-unless-it-negotiates-peace-with-2024-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/I7BXND5BJJP5XIHIPXOHDCLYNE.jpg?auth=2c8d81447ec4486f45b8375f247e4734ff70121d28cf3274807887fe11db7a36&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Andrew Osborn",
+      "description": "President Vladimir Putin says Russia's war in Ukraine is part of an existential struggle with the West that demands total focus - but deadly shootings in Dagestan show that militant Islam is a rising threat that may force him to redirect some of his resources.",
+      "publishedAt": "2024-06-25T05:08:29Z",
+      "title": "Dagestan shootings spotlight rising Islamist threat for Putin",
+      "url": "https://www.reuters.com/world/europe/dagestan-shootings-spotlight-rising-islamist-threat-putin-2024-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/PDZA7H4ZJBMIRKO3XVHCCHCX7U.jpg?auth=14026c7faf6be21ecfd56a097857ac5dde611984f71edfc5f3ce295ab83de108&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Anna Voitenko",
+      "description": "Ukrainian troops trying to hold their ground on the eastern front in Donetsk region may still be outnumbered by Russian forces, but the \"shell hunger\" that plagued them for months as ammunitions started to run out is now behind them.",
+      "publishedAt": "2024-06-25T05:35:17Z",
+      "title": "Fresh Western munitions satiate Ukrainian forces 'shell hunger'",
+      "url": "https://www.reuters.com/world/europe/fresh-western-munitions-satiate-ukrainian-forces-shell-hunger-2024-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ISV5EFFHQBMA3KP2WS5FEJ2OWI.jpg?auth=061414056bd38111d5ec3a7600901bbe8f4c44de98a3acfbc29832016df86f2e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Parisa Hafezi",
+      "description": "Iranians choose a president on Friday in a tightly controlled election following Ebrahim Raisi's death in a helicopter crash last month, with the outcome expected to influence the succession to Ayatollah Ali Khamenei, Iran's top decision-maker.",
+      "publishedAt": "2024-06-25T05:07:22Z",
+      "title": "Iran\u2019s presidential election dominated by Khamenei loyalists",
+      "url": "https://www.reuters.com/world/middle-east/irans-presidential-election-dominated-by-khamenei-loyalists-2024-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XX5FM2G435IKRPK6JPTN2SEZ4E.jpg?auth=a044d6e33a7bb06ae46308784f848d3c0a3fcf604a13de45e4b931ba2e3aff4f&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Hyunsu Yim, Dogyun Kim, Daewoung Kim",
+      "description": "The South Korean government ordered on Tuesday urgent safety inspections at high-risk industrial sites a day after a fire at a lithium battery factory that killed 22 workers with one person still missing.",
+      "publishedAt": "2024-06-25T03:31:56Z",
+      "title": "South Korea begins search for answers after battery plant fire kills 22",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-begins-search-answers-after-battery-plant-fire-kills-22-2024-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2EL7UQN7YZKVHOD7C65U44IA7Y.jpg?auth=e9f9a9ee41bedd2a28461ac5de1bdf304f254417372bafdad3b3e95dad1bcebe&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Nidal Al-Mughrabi",
       "description": "An Israeli air strike at a medical clinic in Gaza City killed the director of Gaza's Ambulance and Emergency Department, the enclave's health ministry said, while Israel's military said the strike had killed a senior Hamas armed commander.",
       "publishedAt": "2024-06-24T08:49:00Z",
@@ -9,76 +57,28 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/NTCLDZDQMNOITMZTBLI3EVE7ZQ.jpg?auth=0008aaf159312187ddaf675600437688f7cb4abd6f350ecc174336cc74019869&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Dmitry Antonov, Guy Faulconbridge",
-      "description": "The Kremlin on Monday directly blamed the United States for an attack on Crimea with U.S.-supplied ATACMS missiles that killed at least four people and injured 151, and Moscow formally warned the U.S. ambassador that retaliation would follow.",
-      "publishedAt": "2024-06-24T12:41:18Z",
-      "title": "Russia vows retaliation against US for Ukraine's ATACMS missile attack on Crimea",
-      "url": "https://www.reuters.com/world/europe/kremlin-blames-us-barbaric-atacms-missile-attack-crimea-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/PN4LMLWMVZGU7GAEXN5HV2EF4A.JPG?auth=29669c5988d68a4fba3975ed951d65b5c30344e996f88b2c6fb0426c63a74e4c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Simon Lewis, Humeyra Pamuk",
-      "description": "U.S. Secretary of State Antony Blinken on Monday will emphasize to Israeli Defense Minister Yoav Gallant the importance of Israel swiftly developing a robust and realistic plan for the governance of Gaza for when the war is over, the U.S. State Department said.",
-      "publishedAt": "2024-06-24T18:52:45Z",
-      "title": "US says Blinken will emphasize to Israel's Gallant the need for post-war Gaza plan",
-      "url": "https://www.reuters.com/world/middle-east/us-says-blinken-will-emphasize-israels-gallant-need-post-war-gaza-plan-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4WHLXB5GIJPKPNZ7U4TPF66VCU.jpg?auth=3f6f825d530a17b722ca0381a7bb8a38f31eb7a408f00755b099afbed052e493&height=1005&width=1920&quality=80&smart=true"
+      "author": "Jessie Pang, James Pomfret",
+      "description": "Mitigation pleas for Hong Kong's biggest ever national security trial against the city's democratic opposition kicked off on Monday, in what is expected to be the final stage before sentencing that could see some defendants jailed for life.",
+      "publishedAt": "2024-06-25T04:56:10Z",
+      "title": "Landmark trial for 47 Hong Kong democrats enters final stretch before sentencing",
+      "url": "https://www.reuters.com/world/asia-pacific/landmark-trial-47-hong-kong-democrats-enters-final-stretch-before-sentencing-2024-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/V32I3WPT4JIVTARB5H2TFLWWJI.jpg?auth=fc6ff45e7cff6d61ccf45ff12b6db442e0620f69218bc7d256d257cc2b8f1e83&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "French President Emmanuel Macron told a podcast episode shown on Monday that both the far right National Rally (RN) party and the left-wing New Popular Front coalition - front runners in the parliamentary election- risked bringing \"civil war\" to France.",
-      "publishedAt": "2024-06-24T21:00:37Z",
-      "title": "Macron warns podcast of 'civil war' risk as French elections loom",
-      "url": "https://www.reuters.com/world/europe/macron-warns-podcast-civil-war-risk-french-elections-loom-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QDPSC62AFZKAXB7D2Z2CUFOSDU.jpg?auth=3e036d4a72b14981ba9f160cdb16c7cd3b3a7623f5891e8604d784a6f5e2c4ff&height=1005&width=1920&quality=80&smart=true"
+      "description": "Australia Prime Minster Anthony Albanese said on Tuesday he wanted Julian Assange brought back home to Australia as soon as possible, after the WikiLeaks founder left Britain before an expected guilty plea to violating U.S. espionage law.",
+      "publishedAt": "2024-06-25T05:04:44Z",
+      "title": "Australia wants Assange brought home, PM says",
+      "url": "https://www.reuters.com/world/australia-wants-assange-brought-home-pm-says-2024-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/A2SY5HW4GBLTPE6TEYNSPZTVBY.jpg?auth=6a7fd78b5f3e748bd083f7395f8651027c4fc568cc7f85cf3fadb2694afcf266&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "A fire broke out at a lithium battery manufacturing plant in South Korea on Monday, fire officials said, and Yonhap news agency reported that some 20 bodies had been found inside the factory.",
-      "publishedAt": "2024-06-24T07:21:01Z",
-      "title": "Fire breaks out at South Korea battery plant, 20 bodies found, Yonhap reports",
-      "url": "https://www.reuters.com/world/asia-pacific/about-20-bodies-found-after-fire-south-korea-battery-plant-yonhap-reports-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OGCIQ6FZ4FKDHDGGZWEWIKKBLY.jpg?auth=1c0526862ccc9cd3cf4c91e54a03c600bb2c2c0f670d4581f8e22d10669f3c0a&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Russia's Dagestan began three days of mourning of Monday after gunmen killed multiple police officers, an Orthodox priest and several others in attacks on synagogues and churches on Sunday across two cities in the North Caucasus region.",
-      "publishedAt": "2024-06-24T05:11:23Z",
-      "title": "Russia's Dagestan mourns priest, police killed in attack by gunmen",
-      "url": "https://www.reuters.com/world/europe/russias-dagestan-mourns-priest-police-killed-attack-by-gunmen-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/W5UUSH6AUZKJBNIQTHIDLVHZJA.jpg?auth=25fcc46a06a6393ce3d08b0f2c6d74a12631c85ae280983bfbb2c2ff51ded534&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The U.S. State Department on Monday said a video of a wounded Palestinian man strapped on a military jeep by Israeli forces was \"shocking\" and urged a swift investigation to hold those responsible to account.",
-      "publishedAt": "2024-06-24T19:49:46Z",
-      "title": "US shocked by video of wounded Palestinian tied to Israeli military jeep",
-      "url": "https://www.reuters.com/world/middle-east/us-shocked-by-video-wounded-palestinian-tied-israeli-military-jeep-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3AOUMETOHFISRKAIVY3AKGTIE4.jpg?auth=c607c7045a5c2c6f0187569d464b2e76e15c55914acc5537aa2f8302312d61ef&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "United Nations Secretary-General Antonio Guterres accused Israel on Monday of spreading misinformation about him during the more than eight-month-long war between Israel and Palestinian militants Hamas in the Gaza Strip.",
-      "publishedAt": "2024-06-24T20:16:01Z",
-      "title": "Without naming names, UN chief accuses Israel of misinformation",
-      "url": "https://www.reuters.com/world/middle-east/without-naming-names-un-chief-accuses-israel-misinformation-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JPJRCUY6YZOG3FGZ44YFSBTIDQ.jpg?auth=64ab8fbbfb82f78cb2198abf5367646c2c66b01b9e604d2b9ebcaf1f3b17c665&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The European Union will downgrade political contacts with Georgia and consider freezing financial aid to the government after it pushed through a controversial \"foreign agent\" law, EU foreign policy chief Josep Borrell said on Monday.",
-      "publishedAt": "2024-06-24T17:56:22Z",
-      "title": "EU to downgrade Georgia ties and mull finance freeze, Borrell says",
-      "url": "https://www.reuters.com/world/europe/eu-downgrade-georgia-ties-mull-finance-freeze-borrell-says-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GRFOGJSFJVOSTDLN2T4V47OFGI.jpg?auth=eab3e124f2768e25847c51e4b8fee4d70269604aaea33f7372efebcb24488b23&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Former Portuguese Prime Minister Antonio Costa, a front-runner to become the next president of the European Council, said on Monday he was optimistic ahead of the bloc's summit this week during which a decision on the top job is expected to be made.",
-      "publishedAt": "2024-06-24T22:35:52Z",
-      "title": "Former Portuguese PM 'optimistic' as EU Council top job decision nears",
-      "url": "https://www.reuters.com/world/europe/former-portuguese-pm-optimistic-eu-council-top-job-decision-nears-2024-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XU5TSQZYJRIXBCGX7RUXAZL3PE.jpg?auth=7844d6b1c0701bcaf581a3e94fef030256bf63708fbae642b193c68c4859c1ae&height=1005&width=1920&quality=80&smart=true"
+      "author": "Lewis Jackson",
+      "description": "Julian Assange is en route to a courtroom on the Pacific island of Saipan where he is expected to plead guilty on Wednesday to a single criminal charge in a plea deal that will see him walk free and return home to Australia after a 14-year legal odyssey.",
+      "publishedAt": "2024-06-25T04:45:31Z",
+      "title": "Why is Julian Assange flying to the remote Pacific island of Saipan?",
+      "url": "https://www.reuters.com/world/why-is-julian-assange-flying-remote-pacific-island-saipan-2024-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/7PT6M2KSXZI2DOXCPZTICKFRPM.jpg?auth=4e766cb377ce16bbf140ae7a4092a016e5fdeb269e3cb19937484cd37d3a317c&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
