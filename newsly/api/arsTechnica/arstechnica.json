@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "\"Starship will not eradicate Ariane 6 at all.\"",
+      "publishedAt": "2024-06-26T17:18:53+00:00",
+      "title": "Some European launch officials still have their heads stuck in the sand",
+      "url": "https://arstechnica.com/space/2024/06/some-european-launch-officials-still-have-their-heads-stuck-in-the-sand/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2107843610-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Wiper motor may stop working and cosmetic applique may detach while driving.",
+      "publishedAt": "2024-06-26T17:03:57+00:00",
+      "title": "Tesla announces third and fourth Cybertruck recalls",
+      "url": "https://arstechnica.com/tech-policy/2024/06/tesla-recalls-cybertruck-to-fix-wiper-motor-and-piece-that-may-fly-off-the-car/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/tesla-cybertruck-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "AI-generated commercials are here, and critics are displeased\u2014but human work is still key.",
+      "publishedAt": "2024-06-26T16:58:31+00:00",
+      "title": "Toys \u201cR\u201d Us riles critics with \u201cfirst-ever\u201d AI-generated commercial using Sora",
+      "url": "https://arstechnica.com/information-technology/2024/06/toys-r-us-riles-critics-with-first-ever-ai-generated-commercial-using-sora/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/toysrus_05-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "New iOS emulation rules only apply to \"retro game consoles,\" not retro computers.",
+      "publishedAt": "2024-06-26T16:43:27+00:00",
+      "title": "Apple rejects PC emulators on the iOS App Store",
+      "url": "https://arstechnica.com/gaming/2024/06/apple-rejects-pc-emulators-on-the-ios-app-store/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/doomios-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Rivian gets a third major partner, and new cars arrive later this decade.",
+      "publishedAt": "2024-06-26T16:07:44+00:00",
+      "title": "VW puts $5B into cash-hungry Rivian, and Rivian will help fix up VW\u2019s software",
+      "url": "https://arstechnica.com/cars/2024/06/vw-invests-5b-into-rivian-signaling-deep-tech-ties-and-collaborations/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/rivian_handout-760x380.jpeg"
+    },
+    {
+      "author": "Anna Nicolaou and Madhumita Murgia, Financial Times",
+      "description": "Video site needs labels\u2019 content to legally train AI song generators.",
+      "publishedAt": "2024-06-26T13:48:31+00:00",
+      "title": "YouTube tries convincing record labels to license music for AI song generator",
+      "url": "https://www.ft.com/content/e2d9472d-32e0-43f5-8109-efb753fac330",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "Ars chats with production designer Kevin Jenkins and cinematographer Chris Teague.",
       "publishedAt": "2024-06-26T11:00:30+00:00",
@@ -10,7 +58,7 @@
     },
     {
       "author": "Benj Edwards",
-      "description": "Running AI models without matrix math means far less power consumption\u2014and fewer GPUs?",
+      "description": "Running AI models without floating point matrix math could mean far less power consumption.",
       "publishedAt": "2024-06-25T22:27:51+00:00",
       "title": "Researchers upend AI status quo by eliminating matrix multiplication in LLMs",
       "url": "https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/",
@@ -31,54 +79,6 @@
       "title": "Ketamine pills for depression show positive results in trial\u2014but with caveats",
       "url": "https://arstechnica.com/science/2024/06/ketamine-pills-for-depression-show-positive-results-in-trial-but-with-caveats/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1441480865-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "The mythological creatures are instead \"chimeras of big cats and raptorial birds.\"",
-      "publishedAt": "2024-06-25T19:42:43+00:00",
-      "title": "The mythical griffin was not inspired by a horned dinosaur, study concludes",
-      "url": "https://arstechnica.com/science/2024/06/the-mythical-gryphon-was-not-inspired-by-a-horned-dinosaur-study-concludes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/griffinTOP-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Unfortunately Collins has been significantly behind schedule.\"",
-      "publishedAt": "2024-06-25T19:22:12+00:00",
-      "title": "NASA\u2019s commercial spacesuit program just hit a major snag",
-      "url": "https://arstechnica.com/space/2024/06/nasas-commercial-spacesuit-program-just-hit-a-major-snag/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/48914447452_6fd563556a_k-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Verizon initially failed to remove a flawed update file that caused two outages.",
-      "publishedAt": "2024-06-25T18:31:22+00:00",
-      "title": "Verizon screwup caused 911 outage in 6 states\u2014carrier agrees to $1M fine",
-      "url": "https://arstechnica.com/tech-policy/2024/06/verizon-screwup-caused-911-outage-in-6-states-carrier-agrees-to-1m-fine/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/06/getty-verizon-logo-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "It's fun to speculate, but sales and library quirks make it impossible to know.",
-      "publishedAt": "2024-06-25T18:06:44+00:00",
-      "title": "The math on unplayed Steam \u201cshame\u201d is way off\u2014and no cause for guilt",
-      "url": "https://arstechnica.com/gaming/2024/06/is-the-total-value-of-unplayed-steam-games-really-19-billion-probably-not/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1243266495-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "AI is just one small part of data centers\u2019 soaring energy use.",
-      "publishedAt": "2024-06-25T18:01:46+00:00",
-      "title": "Taking a closer look at AI\u2019s supposed energy apocalypse",
-      "url": "https://arstechnica.com/ai/2024/06/is-generative-ai-really-going-to-wreak-havoc-on-the-power-grid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1384950048-760x380.jpg"
-    },
-    {
-      "author": "Rupendra Brahambhatt",
-      "description": "Cutting the energy used while firing the bricks means big savings at scale.",
-      "publishedAt": "2024-06-25T17:34:08+00:00",
-      "title": "\u201cEnergy-smart\u201d bricks need less power to make, are better insulation",
-      "url": "https://arstechnica.com/science/2024/06/making-energy-smart-bricks-from-recycling-waste/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/news-waste-glass-1220px-760x380.jpg"
     }
   ],
   "sortBy": "top",
