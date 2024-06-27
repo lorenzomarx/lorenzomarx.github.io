@@ -1,84 +1,84 @@
 {
   "articles": [
     {
-      "author": "Jon Brodkin",
-      "description": "\"Julian is free!\" wife wrote after Assange struck deal with US government.",
-      "publishedAt": "2024-06-25T16:10:38+00:00",
-      "title": "Julian Assange to plead guilty but is going home after long extradition fight",
-      "url": "https://arstechnica.com/tech-policy/2024/06/julian-assange-to-plead-guilty-but-go-home-after-long-extradition-fight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/julian-assange-760x380.jpg"
-    },
-    {
-      "author": "Cristina Criddle, Financial Times",
-      "description": "Study from Google's DeepMind lays out nefarious ways AI is being used.",
-      "publishedAt": "2024-06-25T13:43:51+00:00",
-      "title": "Political deepfakes are the most popular way to misuse AI",
-      "url": "https://www.ft.com/content/8d5bc867-c69d-44df-839f-d43c92785435",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/deepfake-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "The mission has significance for the Moon race between China and the United States.",
-      "publishedAt": "2024-06-25T12:59:18+00:00",
-      "title": "Rocks from the far side of the Moon landed in Mongolia on Tuesday",
-      "url": "https://arstechnica.com/space/2024/06/china-has-completed-another-impressive-robotic-mission-to-the-moon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/20240625a1d41a4d368044398d11c961d4ff7a63_XxjpbeE007479_20240625_CBMFN0A003-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"Look, there's no accidental monopoly. They are a ruthless competitor.\"",
-      "publishedAt": "2024-06-24T22:30:11+00:00",
-      "title": "Sir Peter Beck unplugged: \u201cTransporter can do it for free for all we care\u201d",
-      "url": "https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/GettyImages-1051924748-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Malicious updates available from WordPress.org create attacker-controlled admin account.",
-      "publishedAt": "2024-06-24T21:00:43+00:00",
-      "title": "Backdoor slipped into multiple WordPress plugins in ongoing supply-chain attack",
-      "url": "https://arstechnica.com/security/2024/06/supply-chain-attack-on-wordpress-plugins-affects-as-many-as-36000-sites/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/backdoor2-760x380.jpeg"
+      "author": "Benj Edwards",
+      "description": "Running AI models without matrix math means far less power consumption\u2014and fewer GPUs?",
+      "publishedAt": "2024-06-25T22:27:51+00:00",
+      "title": "Researchers upend AI status quo by eliminating matrix multiplication in LLMs",
+      "url": "https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/AI_lightbulb-760x380.jpg"
     },
     {
       "author": "Samuel Axon",
-      "description": "The beta's Files app lets you format external drives in APFS, exFat, and FAT.",
-      "publishedAt": "2024-06-24T20:24:57+00:00",
-      "title": "iOS 18\u2019s drive-formatting option shows how far iPhones have come for power users",
-      "url": "https://arstechnica.com/gadgets/2024/06/ios-and-ipados-18-add-the-option-to-format-external-drives/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/iPad-Pro-M4-back-scaled-1-760x380.jpeg"
+      "description": "It supports pretty much everything but API calls.",
+      "publishedAt": "2024-06-25T21:37:32+00:00",
+      "title": "OpenAI\u2019s ChatGPT for Mac is now available to all users",
+      "url": "https://arstechnica.com/gadgets/2024/06/openais-chatgpt-for-mac-is-now-available-to-all-users/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Screenshot-2024-06-25-at-4.18.56\u202fPM-760x380.png"
     },
     {
-      "author": "Andrew Cunningham",
-      "description": "But most Microsoft account sign-in workarounds for Windows 11 continue to work.",
-      "publishedAt": "2024-06-24T19:43:52+00:00",
-      "title": "Microsoft removes documentation for switching to a local account in Windows 11",
-      "url": "https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/win11-pc-2023-760x380.jpeg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Remembering Finger, 84, who learned as he went and left his mark on many.",
-      "publishedAt": "2024-06-24T19:21:27+00:00",
-      "title": "Larry Finger made Linux wireless work and brought others along to learn",
-      "url": "https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/larry-finger-wifi-laptop-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Suno and Udio could face damages of up to $150,000 per song allegedly infringed.",
-      "publishedAt": "2024-06-24T18:44:21+00:00",
-      "title": "Music industry giants allege mass copyright violation by AI firms",
-      "url": "https://arstechnica.com/information-technology/2024/06/music-labels-sue-ai-music-generators-for-copyright-infringement/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/michael_jackson_waveforms-760x380.jpg"
+      "author": "Beth Mole",
+      "description": "A slow-release oral dose showed good safety, but efficacy is shaky.",
+      "publishedAt": "2024-06-25T20:18:57+00:00",
+      "title": "Ketamine pills for depression show positive results in trial\u2014but with caveats",
+      "url": "https://arstechnica.com/science/2024/06/ketamine-pills-for-depression-show-positive-results-in-trial-but-with-caveats/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1441480865-760x380.jpeg"
     },
     {
       "author": "Jennifer Ouellette",
-      "description": "Astronomers concluded it is not the same and that Cassini's spot disappeared in 1708.",
-      "publishedAt": "2024-06-24T17:36:19+00:00",
-      "title": "Astronomers think they\u2019ve figured out how and when Jupiter\u2019s Red Spot formed",
-      "url": "https://arstechnica.com/science/2024/06/is-jupiters-iconic-red-spot-the-same-one-that-cassini-observed-in-the-1600s/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/jupiter6-760x380.jpg"
+      "description": "The mythological creatures are instead \"chimeras of big cats and raptorial birds.\"",
+      "publishedAt": "2024-06-25T19:42:43+00:00",
+      "title": "The mythical griffin was not inspired by a horned dinosaur, study concludes",
+      "url": "https://arstechnica.com/science/2024/06/the-mythical-gryphon-was-not-inspired-by-a-horned-dinosaur-study-concludes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/griffinTOP-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"Unfortunately Collins has been significantly behind schedule.\"",
+      "publishedAt": "2024-06-25T19:22:12+00:00",
+      "title": "NASA\u2019s commercial spacesuit program just hit a major snag",
+      "url": "https://arstechnica.com/space/2024/06/nasas-commercial-spacesuit-program-just-hit-a-major-snag/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/48914447452_6fd563556a_k-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Verizon initially failed to remove a flawed update file that caused two outages.",
+      "publishedAt": "2024-06-25T18:31:22+00:00",
+      "title": "Verizon screwup caused 911 outage in 6 states\u2014carrier agrees to $1M fine",
+      "url": "https://arstechnica.com/tech-policy/2024/06/verizon-screwup-caused-911-outage-in-6-states-carrier-agrees-to-1m-fine/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/06/getty-verizon-logo-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "It's fun to speculate, but sales and library quirks make it impossible to know.",
+      "publishedAt": "2024-06-25T18:06:44+00:00",
+      "title": "The math on unplayed Steam \u201cshame\u201d is way off\u2014and no cause for guilt",
+      "url": "https://arstechnica.com/gaming/2024/06/is-the-total-value-of-unplayed-steam-games-really-19-billion-probably-not/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1243266495-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "AI is just one small part of data centers\u2019 soaring energy use.",
+      "publishedAt": "2024-06-25T18:01:46+00:00",
+      "title": "Taking a closer look at AI\u2019s supposed energy apocalypse",
+      "url": "https://arstechnica.com/ai/2024/06/is-generative-ai-really-going-to-wreak-havoc-on-the-power-grid/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1384950048-760x380.jpg"
+    },
+    {
+      "author": "Rupendra Brahambhatt",
+      "description": "Cutting the energy used while firing the bricks means big savings at scale.",
+      "publishedAt": "2024-06-25T17:34:08+00:00",
+      "title": "\u201cEnergy-smart\u201d bricks need less power to make, are better insulation",
+      "url": "https://arstechnica.com/science/2024/06/making-energy-smart-bricks-from-recycling-waste/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/news-waste-glass-1220px-760x380.jpg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "The liquid hydrocarbon waves would likely reach a height of a meter.",
+      "publishedAt": "2024-06-25T17:24:00+00:00",
+      "title": "Saturn\u2019s moon Titan has shorelines that appear to be shaped by waves",
+      "url": "https://arstechnica.com/science/2024/06/surfs-up-on-titan-shorelines-on-saturns-moon-suggest-wave-action/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/titan_nasa_jpl-760x380.jpg"
     }
   ],
   "sortBy": "top",
