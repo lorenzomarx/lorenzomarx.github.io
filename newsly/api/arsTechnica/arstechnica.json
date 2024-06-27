@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Ars chats with production designer Kevin Jenkins and cinematographer Chris Teague.",
+      "publishedAt": "2024-06-26T11:00:30+00:00",
+      "title": "Star Wars behind the scenes: Creating the unique aesthetic of The Acolyte",
+      "url": "https://arstechnica.com/culture/2024/06/star-wars-behind-the-scenes-creating-the-unique-aesthetic-of-the-acolyte/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/acolyte-TOP-760x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "Running AI models without matrix math means far less power consumption\u2014and fewer GPUs?",
       "publishedAt": "2024-06-25T22:27:51+00:00",
@@ -71,14 +79,6 @@
       "title": "\u201cEnergy-smart\u201d bricks need less power to make, are better insulation",
       "url": "https://arstechnica.com/science/2024/06/making-energy-smart-bricks-from-recycling-waste/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/news-waste-glass-1220px-760x380.jpg"
-    },
-    {
-      "author": "Jacek Krywko",
-      "description": "The liquid hydrocarbon waves would likely reach a height of a meter.",
-      "publishedAt": "2024-06-25T17:24:00+00:00",
-      "title": "Saturn\u2019s moon Titan has shorelines that appear to be shaped by waves",
-      "url": "https://arstechnica.com/science/2024/06/surfs-up-on-titan-shorelines-on-saturns-moon-suggest-wave-action/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/titan_nasa_jpl-760x380.jpg"
     }
   ],
   "sortBy": "top",
