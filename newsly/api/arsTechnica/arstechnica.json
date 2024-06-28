@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "Microsoft couldn't get the price of its streaming Xbox low enough to release it.",
+      "publishedAt": "2024-06-26T20:01:26+00:00",
+      "title": "Patent document showcases the cloud-only streaming Xbox console that never was",
+      "url": "https://arstechnica.com/gaming/2024/06/patent-document-showcases-the-cloud-only-streaming-xbox-console-that-never-was/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/xbox-keystone-7-760x380.png"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Cases grow to 39, including 23 hospitalizations, across 20 states.",
+      "publishedAt": "2024-06-26T19:43:26+00:00",
+      "title": "Synthetic psychedelic found in candies linked to seizures, intubation",
+      "url": "https://arstechnica.com/science/2024/06/synthetic-psychedelic-found-in-candies-linked-to-seizures-intubation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/chocolate-bar_0001s_0003_dark-chocolate-c-760x380.jpeg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Its error rates are too high for safe use but might be improved.",
+      "publishedAt": "2024-06-26T19:31:20+00:00",
+      "title": "DNA-based bacterial parasite uses completely new DNA-editing method",
+      "url": "https://arstechnica.com/science/2024/06/potential-new-gene-editing-system-discovered-in-bacteria/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Reaction-Mechanism-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Supreme Court avoids clarifying when government can control online speech.",
+      "publishedAt": "2024-06-26T18:38:52+00:00",
+      "title": "SCOTUS nixes injunction that limited Biden admin contacts with social networks",
+      "url": "https://arstechnica.com/tech-policy/2024/06/scotus-tosses-claims-that-biden-coerced-social-media-removals/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2156779790-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "\"Starship will not eradicate Ariane 6 at all.\"",
       "publishedAt": "2024-06-26T17:18:53+00:00",
@@ -47,38 +79,6 @@
       "title": "YouTube tries convincing record labels to license music for AI song generator",
       "url": "https://www.ft.com/content/e2d9472d-32e0-43f5-8109-efb753fac330",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Ars chats with production designer Kevin Jenkins and cinematographer Chris Teague.",
-      "publishedAt": "2024-06-26T11:00:30+00:00",
-      "title": "Star Wars behind the scenes: Creating the unique aesthetic of The Acolyte",
-      "url": "https://arstechnica.com/culture/2024/06/star-wars-behind-the-scenes-creating-the-unique-aesthetic-of-the-acolyte/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/acolyte-TOP-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Running AI models without floating point matrix math could mean far less power consumption.",
-      "publishedAt": "2024-06-25T22:27:51+00:00",
-      "title": "Researchers upend AI status quo by eliminating matrix multiplication in LLMs",
-      "url": "https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/AI_lightbulb-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "It supports pretty much everything but API calls.",
-      "publishedAt": "2024-06-25T21:37:32+00:00",
-      "title": "OpenAI\u2019s ChatGPT for Mac is now available to all users",
-      "url": "https://arstechnica.com/gadgets/2024/06/openais-chatgpt-for-mac-is-now-available-to-all-users/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Screenshot-2024-06-25-at-4.18.56\u202fPM-760x380.png"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "A slow-release oral dose showed good safety, but efficacy is shaky.",
-      "publishedAt": "2024-06-25T20:18:57+00:00",
-      "title": "Ketamine pills for depression show positive results in trial\u2014but with caveats",
-      "url": "https://arstechnica.com/science/2024/06/ketamine-pills-for-depression-show-positive-results-in-trial-but-with-caveats/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1441480865-760x380.jpeg"
     }
   ],
   "sortBy": "top",
