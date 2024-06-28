@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "\"This is certification at our own expense.\"",
+      "publishedAt": "2024-06-27T01:56:48+00:00",
+      "title": "ULA will launch its second Vulcan rocket without a real payload",
+      "url": "https://arstechnica.com/space/2024/06/ula-will-launch-its-second-vulcan-rocket-without-a-real-payload/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/53449301398_9a7026b285_k-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "A similar flaw last year left 1,800 networks breached. Will the latest one be as potent?",
+      "publishedAt": "2024-06-26T23:31:21+00:00",
+      "title": "Critical MOVEit vulnerability puts huge swaths of the Internet at severe risk",
+      "url": "https://arstechnica.com/security/2024/06/critical-moveit-vulnerability-puts-huge-swaths-of-the-internet-at-severe-risk/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "Microsoft couldn't get the price of its streaming Xbox low enough to release it.",
       "publishedAt": "2024-06-26T20:01:26+00:00",
@@ -63,22 +79,6 @@
       "title": "Apple rejects PC emulators on the iOS App Store",
       "url": "https://arstechnica.com/gaming/2024/06/apple-rejects-pc-emulators-on-the-ios-app-store/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/doomios-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Rivian gets a third major partner, and new cars arrive later this decade.",
-      "publishedAt": "2024-06-26T16:07:44+00:00",
-      "title": "VW puts $5B into cash-hungry Rivian, and Rivian will help fix up VW\u2019s software",
-      "url": "https://arstechnica.com/cars/2024/06/vw-invests-5b-into-rivian-signaling-deep-tech-ties-and-collaborations/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/rivian_handout-760x380.jpeg"
-    },
-    {
-      "author": "Anna Nicolaou and Madhumita Murgia, Financial Times",
-      "description": "Video site needs labels\u2019 content to legally train AI song generators.",
-      "publishedAt": "2024-06-26T13:48:31+00:00",
-      "title": "YouTube tries convincing record labels to license music for AI song generator",
-      "url": "https://www.ft.com/content/e2d9472d-32e0-43f5-8109-efb753fac330",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-760x380.jpg"
     }
   ],
   "sortBy": "top",
