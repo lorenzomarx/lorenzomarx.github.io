@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "author": "Sammi Caramela, Duncan Cooper",
+      "content": "\u201cBring out a dance, and people stop crying.\u201d \u2013Benjamin Aidoo",
+      "description": "\u201cBring out a dance, and people stop crying.\u201d",
+      "publishedAt": "2024-06-28T17:00:00Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The True Story Behind Ghana\u2019s Viral Coffin Dancers",
+      "url": "https://www.vice.com/en/article/n7eyqw/coffin-dance-dancing-pallbearers-meme",
+      "urlToImage": "https://video-images.vice.com/articles/667ed930096fc4214621463a/lede/1719589368177-dancing-coffin-meme-nft-2.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45OTk3MjcwNzQyMzU4MDc5eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
+      "author": "VICE Staff, VICE Staff",
+      "content": "The war in Afghanistan was sold to the public by the U.S. and its Western allies as a painful but necessary measure to keep the world safe from Islamist terror.\r\nBut by the time of the U.S.s sudden, \u2026 [+3527 chars]",
+      "description": "An anonymous British soldier reveals to VICE how the war left him psychologically scarred and deeply disillusioned with his own government.",
+      "publishedAt": "2024-06-28T15:52:32Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "How Serving in Afghanistan Left Me With PTSD",
+      "url": "https://www.vice.com/en/article/k7z9nm/how-serving-in-afghanistan-left-me-with-ptsd",
+      "urlToImage": "https://video-images.vice.com/articles/667d74d0204001b7ab2e7ff0/lede/1719498022331-image7.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
+      "author": "Seamas O'Reilly, Kev Kharas",
+      "content": "For 16 years, Brewdog has been making decent, expensive beer for people who cant quite bring themselves to drink Kronenbourg like everyone else. Yet in that time, just through the course of selling d\u2026 [+4430 chars]",
+      "description": "The bad boys of booze are in trouble again.",
+      "publishedAt": "2024-06-28T13:51:39Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Predicting Brewdog\u2019s Next Five PR Disasters",
+      "url": "https://www.vice.com/en/article/v7b8p4/predicting-brewdogs-next-five-pr-disasters",
+      "urlToImage": "https://video-images.vice.com/articles/667e7372c79732f21041ed56/lede/1719565605769-shutterstockeditorial12222543b.jpeg?image-resize-opts=Y3JvcD0wLjczNzh4dzowLjYyMTd4aDswLjA2MTJ4dywwLjE4Nzl4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
       "author": "Nick Stockton, Duncan Cooper",
       "content": "VICE may receive a commission if you buy products through the links on our site. Read morehere.\r\nIm old enough to remember a time when ordering an espresso martini would have seemed like a joke. A fe\u2026 [+3069 chars]",
       "description": "I drank a Bomani Skinny Espresso Martini before work this morning\u2014and I was pleasantly surprised.",
@@ -509,5 +548,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 39
+  "totalResults": 42
 }
