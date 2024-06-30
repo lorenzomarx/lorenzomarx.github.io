@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Virginia Pietromarchi",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nAfter counting over 19 million votes, Pezeshkian had 8.3 million while Jalili held 7.2 million. Initial results expected to be announced today.",
+      "description": "Initial results expected to be announced by the Interior Ministry today after tight race in Friday\u2019s polls.",
+      "publishedAt": "2024-06-29T05:00:15Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Iran presidential election results 2024 live: Vote count under way",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/6/29/iran-presidential-election-results-live-vote-count-under-way-a-tight-race",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-28T214552Z_255556516_RC2LK8AT7MCI_RTRMADP_3_IRAN-ELECTION-1719637552.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Alastair Mccready",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nUN says at least 60,000 residents have been displaced as fighting in Gaza Citys Shujayea neighbourhood between Hamas fighters and Israeli forces described as\u2026 [+25 chars]",
+      "description": "UN says at least 60,000 people displaced in Gaza City as street-to-street fighting rages in Shujayea neighbourhood.",
+      "publishedAt": "2024-06-29T00:00:59Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israel war on Gaza live: 60,000 flee street battles in Shujayea area",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/6/29/israel-war-on-gaza-live-60000-flee-street-battles-in-shujayea-area",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AFP__20240628__34ZJ28C__v2__HighRes__TopshotPalestinianIsraelConflictBattles-1719618147.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Al Jazeera",
       "content": "Nikes stock has plunged as a forecast for a surprise drop in annual sales amplified investor concerns about the pace of the sportswear giants efforts to stem market share losses to upstart brands suc\u2026 [+3178 chars]",
       "description": "It was the worst day ever for the stock with losses wiping out $28.4bn from Nike's market valuation.",
@@ -1273,34 +1299,8 @@
       "title": "Fears of coup attempt in Bolivia as soldiers storm presidential palace",
       "url": "https://www.aljazeera.com/news/2024/6/26/fears-of-coup-attempt-in-bolivia-as-soldiers-storm-presidential-palace",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AP24178701227350-1719433015.jpg?resize=1200%2C675"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "British police have arrested a man suspected of involvement in a plot targeting lawmakers and journalists with flirtatious text messages in an effort to obtain illicit photos that could be used as bl\u2026 [+1632 chars]",
-      "description": "British media report that the suspect is aged in his mid-20s and is a member of the main opposition Labour Party.",
-      "publishedAt": "2024-06-26T20:32:17Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "UK police arrest man suspected of involvement in texting scandal",
-      "url": "https://www.aljazeera.com/news/2024/6/26/uk-police-arrest-man-suspected-of-involvement-in-texting-scandal",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AP24124401134668-1719431068.jpg?resize=1200%2C675"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nWikiLeaks founder Julian Assange has returned to Australia after being freed by a US court in a plea deal. Assange pleaded guilty to one charge of violating the Espionage Act, ending a 14-y\u2026 [+54 chars]",
-      "description": "Julian Assange home in Australia after pleading guilty in deal with US",
-      "publishedAt": "2024-06-26T20:32:02Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Julian Assange home in Australia after plea deal with US",
-      "url": "https://www.aljazeera.com/program/newsfeed/2024/6/26/julian-assange-home-in-australia-after-plea-deal-with-us",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-26T152929Z_1025173333_RC2XI8AJX64Z_RTRMADP_3_USA-ASSANGE-AUSTRALIA-1719433814.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1365
+  "totalResults": 1367
 }
