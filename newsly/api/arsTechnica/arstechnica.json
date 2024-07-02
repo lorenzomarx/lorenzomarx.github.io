@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Supreme Court remands two cases, saying lower courts didn't do full analysis.",
+      "publishedAt": "2024-07-01T16:34:10+00:00",
+      "title": "Supreme Court vacates rulings on Texas and Florida social media laws",
+      "url": "https://arstechnica.com/tech-policy/2024/07/texas-social-media-law-likely-violates-first-amendment-scotus-majority-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/supreme-court-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "EU finding that Meta\u2019s subscription option violates DMA could impact many sites.",
+      "publishedAt": "2024-07-01T15:26:33+00:00",
+      "title": "Meta defends charging fee for privacy amid showdown with EU",
+      "url": "https://arstechnica.com/tech-policy/2024/07/metas-pay-for-privacy-plan-falls-afoul-of-the-law-eu-regulators-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2159334739-760x380.jpg"
+    },
+    {
+      "author": "Aarian Marshall, wired.com",
+      "description": "Build problems and unmet need for software updates have Fisker owners worried.",
+      "publishedAt": "2024-07-01T13:48:58+00:00",
+      "title": "Fisker owners fear for future support after bankruptcy",
+      "url": "https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1575080924-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Space Pioneer had been prepping the vehicle for its debut launch later this summer.",
+      "publishedAt": "2024-07-01T12:52:47+00:00",
+      "title": "Chinese space firm unintentionally launches its new rocket",
+      "url": "https://arstechnica.com/space/2024/07/chinese-space-firm-unintentionally-launches-its-new-rocket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GRR5TdFbIAEUIbU-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "New paper counts \"excess words\" that started appearing more often in the post-LLM era.",
+      "publishedAt": "2024-07-01T11:30:00+00:00",
+      "title": "The telltale words that could identify generative AI text",
+      "url": "https://arstechnica.com/ai/2024/07/the-telltale-words-that-could-identify-generative-ai-text/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1048873262-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "The styling is sharp inside and out, but the infotainment needs some polishing.",
       "publishedAt": "2024-06-30T22:01:44+00:00",
@@ -39,46 +79,6 @@
       "title": "30 years later, FreeDOS is still keeping the dream of the command prompt alive",
       "url": "https://arstechnica.com/gadgets/2024/06/30-years-later-freedos-is-still-keeping-the-dream-of-the-command-prompt-alive/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/freedos-760x380.png"
-    },
-    {
-      "author": "Jeanne Timmons",
-      "description": "The mammoths of Wrangel Island purged a lot of harmful mutations before dying off.",
-      "publishedAt": "2024-06-29T11:15:20+00:00",
-      "title": "DNA from mammoth remains reveals the history of the last surviving population",
-      "url": "https://arstechnica.com/science/2024/06/last-population-of-mammoths-survived-a-severe-population-bottleneck/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/LastWrangelMammoth_by-Beth-Zaiken_Web-760x380.jpg"
-    },
-    {
-      "author": "Andy Greenberg and Matt Giles, WIRED.com",
-      "description": "More than a dozen men threatened, assaulted, tortured, or kidnapped 11 victims.",
-      "publishedAt": "2024-06-29T10:55:08+00:00",
-      "title": "Inside a violent gang\u2019s ruthless crypto-stealing home invasion spree",
-      "url": "https://www.wired.com/story/crypto-home-invasion-crime-ring/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1875360842-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\u201cSafety tends to not be on the front burner until it really needs to be on the front burner.\u201d",
-      "publishedAt": "2024-06-29T00:22:38+00:00",
-      "title": "NASA and SpaceX misjudged the risks from reentering space junk",
-      "url": "https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/10691589926_e49018a6bd_3k-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\u201cI want to make it very clear that Butch and Suni are not stranded in space.\"",
-      "publishedAt": "2024-06-28T22:58:31+00:00",
-      "title": "NASA orders more tests on Starliner, but says crew isn\u2019t stranded in space",
-      "url": "https://arstechnica.com/space/2024/06/nasa-orders-more-tests-on-starliner-but-says-crew-isnt-stranded-in-space/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/53797942971_5ae4c07feb_4k-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Since February, the headset has only been available in the United States.",
-      "publishedAt": "2024-06-28T21:42:40+00:00",
-      "title": "Apple\u2019s Vision Pro goes on sale outside the US for the first time",
-      "url": "https://arstechnica.com/gadgets/2024/06/apples-vision-pro-goes-on-sale-outside-the-us-for-the-first-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Apple-Vision-Pro-availability-Omotesando-Tokyo-Apple-Vision-Pro-on-display-760x380.jpg"
     }
   ],
   "sortBy": "top",
