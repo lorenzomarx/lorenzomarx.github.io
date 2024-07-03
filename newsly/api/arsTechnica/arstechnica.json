@@ -1,12 +1,60 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "We drive Audi's new 800-volt EV ahead of US deliveries in Q4 2024.",
+      "publishedAt": "2024-07-01T22:01:07+00:00",
+      "title": "The best Audi EV so far? We drive the 2025 Q6 e-tron SUV",
+      "url": "https://arstechnica.com/cars/2024/07/the-best-audi-ev-so-far-we-drive-the-2025-q6-e-tron-suv/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/2025-Audi-Q6-e-tron-first-drive-1-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Roaring Kitty was briefly accused of deceiving his meme stock army.",
+      "publishedAt": "2024-07-01T21:18:02+00:00",
+      "title": "GameStop investor retracts suit accusing Roaring Kitty of pump-and-dump scheme",
+      "url": "https://arstechnica.com/tech-policy/2024/07/lawsuit-accuses-roaring-kitty-of-deceiving-his-meme-stock-army/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1355656401-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Companies like Charter brought about the streaming industry they now want to join.",
+      "publishedAt": "2024-07-01T19:20:13+00:00",
+      "title": "Bleeding subscribers, cable companies force their way into streaming",
+      "url": "https://arstechnica.com/gadgets/2024/07/bleeding-subscribers-cable-companies-force-their-way-into-streaming/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/tv-remote-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Supreme Court remands two cases, saying lower courts didn't do full analysis.",
-      "publishedAt": "2024-07-01T16:34:10+00:00",
+      "publishedAt": "2024-07-01T19:08:10+00:00",
       "title": "Supreme Court vacates rulings on Texas and Florida social media laws",
       "url": "https://arstechnica.com/tech-policy/2024/07/texas-social-media-law-likely-violates-first-amendment-scotus-majority-says/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/supreme-court-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Hellboy creator Mike Mignola co-wrote the screenplay based on his short story from comics.",
+      "publishedAt": "2024-07-01T18:41:42+00:00",
+      "title": "Teaser for Hellboy: The Crooked Man brings the low-budget horror vibes",
+      "url": "https://arstechnica.com/culture/2024/07/teaser-for-hellboy-the-crooked-man-brings-the-low-budget-horror-vibes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/hellboy1-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The work underpinned an Alzheimer's drug by Cassava, now in a Phase III trial.",
+      "publishedAt": "2024-07-01T18:16:50+00:00",
+      "title": "Alzheimer\u2019s scientist indicted for allegedly falsifying data in $16M scheme",
+      "url": "https://arstechnica.com/science/2024/07/alzheimers-scientist-indicted-for-allegedly-falsifying-data-in-16m-scheme/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1236271712-760x380.jpeg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "A model trained in a virtual environment does remarkably well in the real world.",
+      "publishedAt": "2024-07-01T17:31:00+00:00",
+      "title": "Lightening the load: AI helps exoskeleton work with different strides",
+      "url": "https://arstechnica.com/science/2024/07/ai-helps-exoskeleton-adjust-to-different-users-handle-stairs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/aliens-powerloaders-760x380.jpg"
     },
     {
       "author": "Ashley Belanger",
@@ -31,54 +79,6 @@
       "title": "Chinese space firm unintentionally launches its new rocket",
       "url": "https://arstechnica.com/space/2024/07/chinese-space-firm-unintentionally-launches-its-new-rocket/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GRR5TdFbIAEUIbU-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "New paper counts \"excess words\" that started appearing more often in the post-LLM era.",
-      "publishedAt": "2024-07-01T11:30:00+00:00",
-      "title": "The telltale words that could identify generative AI text",
-      "url": "https://arstechnica.com/ai/2024/07/the-telltale-words-that-could-identify-generative-ai-text/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1048873262-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The styling is sharp inside and out, but the infotainment needs some polishing.",
-      "publishedAt": "2024-06-30T22:01:44+00:00",
-      "title": "The 2025 Polestar 4: Great steering and a small carbon footprint stand out",
-      "url": "https://arstechnica.com/cars/2024/06/the-2025-polestar-4-great-steering-and-a-small-carbon-footprint-stand-out/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/2025-Polestar-4-9-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Ross Edgley faces a challenge like no other in NatGeo's Shark vs. Ross Edgley.",
-      "publishedAt": "2024-06-30T16:54:00+00:00",
-      "title": "An ultra-athlete goes head-to-head with the world\u2019s most formidable sharks",
-      "url": "https://arstechnica.com/science/2024/06/an-ultra-athlete-goes-head-to-head-with-the-worlds-most-formidable-sharks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/sharkTOP-760x380.jpg"
-    },
-    {
-      "author": "Iv\u00e1n Carrillo, Knowable Magazine",
-      "description": "Scientists are working to understand how the barrier is affecting the area\u2019s biodiversity.",
-      "publishedAt": "2024-06-30T11:15:19+00:00",
-      "title": "Nature interrupted: Impact of the US-Mexico border wall on wildlife",
-      "url": "https://knowablemagazine.org/content/article/food-environment/2024/the-impact-of-the-us-mexico-border-wall-on-biodiversity",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1848361664-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "The original developers revised puzzles and realized the immersive world in 3D.",
-      "publishedAt": "2024-06-30T10:45:37+00:00",
-      "title": "The new Riven remake is even better than Myst",
-      "url": "https://arstechnica.com/gaming/2024/06/the-new-riven-remake-is-even-better-than-myst/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Riven-viewpoint-760x380.png"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Project's creator talks to Ars about where FreeDOS has been, where it's going.",
-      "publishedAt": "2024-06-29T11:30:55+00:00",
-      "title": "30 years later, FreeDOS is still keeping the dream of the command prompt alive",
-      "url": "https://arstechnica.com/gadgets/2024/06/30-years-later-freedos-is-still-keeping-the-dream-of-the-command-prompt-alive/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/freedos-760x380.png"
     }
   ],
   "sortBy": "top",
