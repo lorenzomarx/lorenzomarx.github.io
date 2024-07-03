@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "\"For our base design, we're designing around return to launch site propulsive landing.\"",
+      "publishedAt": "2024-07-02T00:29:55+00:00",
+      "title": "Firefly is building fast and breaking things on path to a reusable rocket",
+      "url": "https://arstechnica.com/space/2024/07/firefly-is-building-fast-and-breaking-things-on-path-to-a-reusable-rocket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/53384085166_c7d67827bf_h-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Apps that used code libraries hosted on CocoaPods were vulnerable for about 10 years.",
+      "publishedAt": "2024-07-01T23:43:41+00:00",
+      "title": "3 million iOS and macOS apps were exposed to potent supply-chain attacks",
+      "url": "https://arstechnica.com/security/2024/07/3-million-ios-and-macos-apps-were-exposed-to-potent-supply-chain-attacks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/apple-security-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "We drive Audi's new 800-volt EV ahead of US deliveries in Q4 2024.",
       "publishedAt": "2024-07-01T22:01:07+00:00",
@@ -63,22 +79,6 @@
       "title": "Meta defends charging fee for privacy amid showdown with EU",
       "url": "https://arstechnica.com/tech-policy/2024/07/metas-pay-for-privacy-plan-falls-afoul-of-the-law-eu-regulators-say/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2159334739-760x380.jpg"
-    },
-    {
-      "author": "Aarian Marshall, wired.com",
-      "description": "Build problems and unmet need for software updates have Fisker owners worried.",
-      "publishedAt": "2024-07-01T13:48:58+00:00",
-      "title": "Fisker owners fear for future support after bankruptcy",
-      "url": "https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1575080924-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Space Pioneer had been prepping the vehicle for its debut launch later this summer.",
-      "publishedAt": "2024-07-01T12:52:47+00:00",
-      "title": "Chinese space firm unintentionally launches its new rocket",
-      "url": "https://arstechnica.com/space/2024/07/chinese-space-firm-unintentionally-launches-its-new-rocket/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GRR5TdFbIAEUIbU-760x380.jpg"
     }
   ],
   "sortBy": "top",
