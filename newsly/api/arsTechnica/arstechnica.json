@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Aggressive scratching is a stress response; small children are a common source of stress",
+      "publishedAt": "2024-07-03T04:01:54+00:00",
+      "title": "Can\u2019t stop your cat from scratching the furniture? Science has some tips",
+      "url": "https://arstechnica.com/science/2024/07/cant-stop-your-cat-from-scratching-the-furniture-science-has-some-tips/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/kittty1-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "Did OHB really not test the satellite antennas on the ground?",
       "publishedAt": "2024-07-02T21:48:42+00:00",
@@ -57,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2013/09/IDI_014-640x215.jpg"
     },
     {
-      "author": "Roberto Baldwin",
+      "author": null,
       "description": "The tire company wants a completely sustainable tire by 2050.",
       "publishedAt": "2024-07-02T16:35:02+00:00",
       "title": "Here\u2019s how Michelin plans to make its tires more renewable",
-      "url": "https://arstechnica.com/cars/2024/07/heres-how-michelin-plans-to-make-its-tires-more-renewable/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-499936614-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2034974",
+      "urlToImage": null
     },
     {
       "author": "Ashley Belanger",
@@ -71,14 +79,6 @@
       "title": "Biden rushes to avert labor shortage with CHIPS act funding for workers",
       "url": "https://arstechnica.com/tech-policy/2024/07/biden-rushes-to-avert-labor-shortage-with-chips-act-funding-for-workers/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1245424801-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"Ants are able to diagnose a wound, see if it's infected... and treat it accordingly.\"",
-      "publishedAt": "2024-07-02T15:00:58+00:00",
-      "title": "Call the ant doctor: Amputation gives injured ants a leg up on infections",
-      "url": "https://arstechnica.com/science/2024/07/call-the-ant-doctor-amputation-gives-injured-ants-a-leg-up-on-infections/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/antsTOP-760x380.jpg"
     }
   ],
   "sortBy": "top",
