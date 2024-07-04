@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "Did OHB really not test the satellite antennas on the ground?",
+      "publishedAt": "2024-07-02T21:48:42+00:00",
+      "title": "Two of the German military\u2019s new spy satellites appear to have failed in orbit",
+      "url": "https://arstechnica.com/space/2024/07/two-of-the-german-militarys-new-spy-satellites-appear-to-have-failed-in-orbit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/52161360730_f6a32a8776_k-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Meta Quest 3, PS5 Slim also received failing grades despite new right-to-repair laws.",
+      "publishedAt": "2024-07-02T21:32:31+00:00",
+      "title": "Apple Vision Pro, new cameras fail user-repairability analysis",
+      "url": "https://arstechnica.com/gadgets/2024/07/apple-vision-pro-new-cameras-fail-user-repairability-analysis/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_6320-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Even unlisted YouTube videos are used to train AI, watchdog warns.",
+      "publishedAt": "2024-07-02T19:37:25+00:00",
+      "title": "AI trains on kids\u2019 photos even when parents use strict privacy settings",
+      "url": "https://arstechnica.com/tech-policy/2024/07/ai-trains-on-kids-photos-even-when-parents-use-strict-privacy-settings/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1171924121-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Phase 3 trial is expected to begin next year.",
+      "publishedAt": "2024-07-02T19:14:50+00:00",
+      "title": "US prepares for bird flu pandemic with $176M Moderna vaccine deal",
+      "url": "https://arstechnica.com/science/2024/07/us-prepares-for-bird-flu-pandemic-with-176m-moderna-vaccine-deal/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2150341585-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Full system compromise possible by peppering servers with thousands of connection requests.",
+      "publishedAt": "2024-07-02T19:03:17+00:00",
+      "title": "\u201cRegreSSHion\u201d vulnerability in OpenSSH gives attackers root on Linux",
+      "url": "https://arstechnica.com/security/2024/07/regresshion-vulnerability-in-openssh-gives-attackers-root-on-linux/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Law that requires porn sites to verify user ages faces First Amendment challenge.",
       "publishedAt": "2024-07-02T17:28:08+00:00",
@@ -39,46 +79,6 @@
       "title": "Call the ant doctor: Amputation gives injured ants a leg up on infections",
       "url": "https://arstechnica.com/science/2024/07/call-the-ant-doctor-amputation-gives-injured-ants-a-leg-up-on-infections/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/antsTOP-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Sales fell by 5 percent, with production cut by more.",
-      "publishedAt": "2024-07-02T14:25:28+00:00",
-      "title": "Tesla posts disappointing production and sales numbers for Q2 2024",
-      "url": "https://arstechnica.com/cars/2024/07/tesla-production-fell-by-15-percent-in-q2-2024-as-sales-continue-to-decline/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1232815597-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Superfluous AI features and compatibility issues don't detract from good PCs.",
-      "publishedAt": "2024-07-02T14:04:09+00:00",
-      "title": "Surface Pro 11 and Laptop 7 review: An Apple Silicon moment for Windows",
-      "url": "https://arstechnica.com/gadgets/2024/07/surface-pro-11-and-laptop-7-review-an-apple-silicon-moment-for-windows/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/IMG_1966-760x380.jpeg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"It's hard to communicate how unbelievable this is.\"",
-      "publishedAt": "2024-07-02T13:12:28+00:00",
-      "title": "Yes, you should be a little freaked out about Hurricane Beryl",
-      "url": "https://arstechnica.com/science/2024/07/yes-you-should-be-a-little-freaked-out-about-hurricane-beryl/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GRbGKA7WwAAFX70-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Bill and Ted co-creator Ed Solomon joins physicists Sean Carroll and Jim Kakalios",
-      "publishedAt": "2024-07-02T11:00:21+00:00",
-      "title": "Ars Live: Join us July 9 for a lively discussion on time travel in the movies",
-      "url": "https://arstechnica.com/culture/2024/07/ars-live-join-us-july-9-for-a-lively-discussion-on-time-travel-in-the-movies/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/movies-and-time-travel-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "\"For our base design, we're designing around return to launch site propulsive landing.\"",
-      "publishedAt": "2024-07-02T00:29:55+00:00",
-      "title": "Firefly is building fast and breaking things on path to a reusable rocket",
-      "url": "https://arstechnica.com/?p=2034632",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
