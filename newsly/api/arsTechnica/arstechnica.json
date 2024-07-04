@@ -1,8 +1,64 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Patelco Credit Union in Calif. shut down numerous banking services after attack.",
+      "publishedAt": "2024-07-03T17:17:42+00:00",
+      "title": "\u201cEverything\u2019s frozen\u201d: Ransomware locks credit union users out of bank accounts",
+      "url": "https://arstechnica.com/tech-policy/2024/07/everythings-frozen-ransomware-locks-credit-union-users-out-of-bank-accounts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/patelco-credit-union-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "But what about fax machines?",
+      "publishedAt": "2024-07-03T16:53:14+00:00",
+      "title": "Japan ends 2-year \u201cwar on floppy disks,\u201d kills regulations requiring old tech",
+      "url": "https://arstechnica.com/gadgets/2024/07/japans-government-finally-exits-90s-ends-floppy-disk-use/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1488300965-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Brominated vegetable oil (BVO) is used in citrus sodas but has largely been phased out.",
+      "publishedAt": "2024-07-03T16:01:42+00:00",
+      "title": "Soda additive \u201cno longer considered safe,\u201d gets long-awaited FDA ban",
+      "url": "https://arstechnica.com/science/2024/07/soda-additive-no-longer-considered-safe-gets-long-awaited-fda-ban/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-681844594-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "The Falcon 9 rocket is pretty much the only rocket available to launch this mission.",
+      "publishedAt": "2024-07-03T15:23:26+00:00",
+      "title": "NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit",
+      "url": "https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/cosi-750x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Cops want more access to OnlyFans to detect more child sex abuse, report says.",
+      "publishedAt": "2024-07-03T15:12:45+00:00",
+      "title": "Millions of OnlyFans paywalls make it hard to detect child sex abuse, cops say",
+      "url": "https://arstechnica.com/tech-policy/2024/07/millions-of-onlyfans-paywalls-make-it-hard-to-detect-child-sex-abuse-cops-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2079451031-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Robert Wickens was paralyzed from the waist down in a 2018 IndyCar crash.",
+      "publishedAt": "2024-07-03T14:49:30+00:00",
+      "title": "Paralyzed driver Robert Wickens tests Formula E car with hand controls",
+      "url": "https://arstechnica.com/cars/2024/07/paralyzed-driver-robert-wickens-tests-formula-e-car-with-hand-controls/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/m25385_1020254373-LAT-20240628-EPS1013_171504DSC_7104-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "Noontime skies were largely cloud-free, warming the planet by several degrees.",
+      "publishedAt": "2024-07-03T11:37:48+00:00",
+      "title": "The Earth heated up when its day was 22 hours long",
+      "url": "https://arstechnica.com/?p=2035071",
+      "urlToImage": null
+    },
+    {
       "author": "Jennifer Ouellette",
-      "description": "Aggressive scratching is a stress response; small children are a common source of stress",
+      "description": "Aggressive scratching is a stress response; small children are a common source of stress.",
       "publishedAt": "2024-07-03T04:01:54+00:00",
       "title": "Can\u2019t stop your cat from scratching the furniture? Science has some tips",
       "url": "https://arstechnica.com/science/2024/07/cant-stop-your-cat-from-scratching-the-furniture-science-has-some-tips/",
@@ -23,62 +79,6 @@
       "title": "Apple Vision Pro, new cameras fail user-repairability analysis",
       "url": "https://arstechnica.com/gadgets/2024/07/apple-vision-pro-new-cameras-fail-user-repairability-analysis/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_6320-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Even unlisted YouTube videos are used to train AI, watchdog warns.",
-      "publishedAt": "2024-07-02T19:37:25+00:00",
-      "title": "AI trains on kids\u2019 photos even when parents use strict privacy settings",
-      "url": "https://arstechnica.com/tech-policy/2024/07/ai-trains-on-kids-photos-even-when-parents-use-strict-privacy-settings/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1171924121-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Phase 3 trial is expected to begin next year.",
-      "publishedAt": "2024-07-02T19:14:50+00:00",
-      "title": "US prepares for bird flu pandemic with $176M Moderna vaccine deal",
-      "url": "https://arstechnica.com/science/2024/07/us-prepares-for-bird-flu-pandemic-with-176m-moderna-vaccine-deal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2150341585-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Full system compromise possible by peppering servers with thousands of connection requests.",
-      "publishedAt": "2024-07-02T19:03:17+00:00",
-      "title": "\u201cRegreSSHion\u201d vulnerability in OpenSSH gives attackers root on Linux",
-      "url": "https://arstechnica.com/security/2024/07/regresshion-vulnerability-in-openssh-gives-attackers-root-on-linux/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Law that requires porn sites to verify user ages faces First Amendment challenge.",
-      "publishedAt": "2024-07-02T17:28:08+00:00",
-      "title": "SCOTUS agrees to review Texas law that caused Pornhub to leave the state",
-      "url": "https://arstechnica.com/?p=2034992",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "Google's 2030 \"Net zero\" target looks increasingly doubtful as AI use soars.",
-      "publishedAt": "2024-07-02T17:25:45+00:00",
-      "title": "Google\u2019s greenhouse gas emissions jump 48% in five years",
-      "url": "https://arstechnica.com/?p=2035001",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "The tire company wants a completely sustainable tire by 2050.",
-      "publishedAt": "2024-07-02T16:35:02+00:00",
-      "title": "Here\u2019s how Michelin plans to make its tires more renewable",
-      "url": "https://arstechnica.com/?p=2034974",
-      "urlToImage": null
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "To dodge labor shortage, US finally aims CHIPS Act funding at training workers.",
-      "publishedAt": "2024-07-02T15:59:55+00:00",
-      "title": "Biden rushes to avert labor shortage with CHIPS act funding for workers",
-      "url": "https://arstechnica.com/tech-policy/2024/07/biden-rushes-to-avert-labor-shortage-with-chips-act-funding-for-workers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1245424801-760x380.jpg"
     }
   ],
   "sortBy": "top",

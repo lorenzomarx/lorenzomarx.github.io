@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Mattha Busby, Joe Zadeh",
+      "content": "Chase, Stevens, and Marshall (Photo by Mattha Busby)",
+      "description": "In the Canadian mountains, ex-underground mushroom growers are showing Big Pharma how it's done.",
+      "publishedAt": "2024-07-03T14:14:34Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Inside One of the World's Biggest Magic Mushroom Farms",
+      "url": "https://www.vice.com/en/article/3akw7j/inside-one-of-the-worlds-biggest-magic-mushroom-farms",
+      "urlToImage": "https://video-images.vice.com/articles/66853712d8f9a6f4bf7a236e/lede/1720006420466-marshall-with-loads-of-mushrooms.jpeg?image-resize-opts=Y3JvcD0xeHc6MC42NjU2eGg7MHh3LDAuMTc1N3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
       "author": "Sammi Caramela, Duncan Cooper",
       "content": "\u201cWhen I saw her, I was so shocked, I started crying.\u201d \u2013Nabila Az Zahra",
       "description": "Separated at birth, these sisters were reunited after fans on social media noticed they looked alike. They still haven\u2019t found their third sister.",
@@ -548,5 +561,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 42
+  "totalResults": 43
 }
