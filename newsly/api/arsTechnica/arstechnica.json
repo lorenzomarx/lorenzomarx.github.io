@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Many website admins, it seems, have yet to get memo to remove Polyfill[.]io links.",
+      "publishedAt": "2024-07-03T19:36:04+00:00",
+      "title": "384,000 sites pull code from sketchy code library recently bought by Chinese firm",
+      "url": "https://arstechnica.com/security/2024/07/384000-sites-link-to-code-library-caught-performing-supply-chain-attack/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/privacy-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Cave deposits yield bones of sheep, yaks, carnivores, and birds that were butchered.",
+      "publishedAt": "2024-07-03T18:27:51+00:00",
+      "title": "High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil",
+      "url": "https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-760x380.jpeg"
+    },
+    {
+      "author": "Chris Baraniuk, WIRED.com",
+      "description": "A new generation of engineers has realized they can push heat pumps to the limit.",
+      "publishedAt": "2024-07-03T17:31:57+00:00",
+      "title": "The hunt for the most efficient heat pump in the world",
+      "url": "https://www.wired.com/story/heat-pump-maximum-efficiency/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1567733032-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Patelco Credit Union in Calif. shut down numerous banking services after attack.",
       "publishedAt": "2024-07-03T17:17:42+00:00",
@@ -12,7 +36,7 @@
       "author": "Scharon Harding",
       "description": "But what about fax machines?",
       "publishedAt": "2024-07-03T16:53:14+00:00",
-      "title": "Japan ends 2-year \u201cwar on floppy disks,\u201d kills regulations requiring old tech",
+      "title": "Japan wins 2-year \u201cwar on floppy disks,\u201d kills regulations requiring old tech",
       "url": "https://arstechnica.com/gadgets/2024/07/japans-government-finally-exits-90s-ends-floppy-disk-use/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1488300965-760x380.jpg"
     },
@@ -55,30 +79,6 @@
       "title": "The Earth heated up when its day was 22 hours long",
       "url": "https://arstechnica.com/?p=2035071",
       "urlToImage": null
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Aggressive scratching is a stress response; small children are a common source of stress.",
-      "publishedAt": "2024-07-03T04:01:54+00:00",
-      "title": "Can\u2019t stop your cat from scratching the furniture? Science has some tips",
-      "url": "https://arstechnica.com/science/2024/07/cant-stop-your-cat-from-scratching-the-furniture-science-has-some-tips/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/kittty1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Did OHB really not test the satellite antennas on the ground?",
-      "publishedAt": "2024-07-02T21:48:42+00:00",
-      "title": "Two of the German military\u2019s new spy satellites appear to have failed in orbit",
-      "url": "https://arstechnica.com/space/2024/07/two-of-the-german-militarys-new-spy-satellites-appear-to-have-failed-in-orbit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/52161360730_f6a32a8776_k-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Meta Quest 3, PS5 Slim also received failing grades despite new right-to-repair laws.",
-      "publishedAt": "2024-07-02T21:32:31+00:00",
-      "title": "Apple Vision Pro, new cameras fail user-repairability analysis",
-      "url": "https://arstechnica.com/gadgets/2024/07/apple-vision-pro-new-cameras-fail-user-repairability-analysis/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/IMG_6320-760x380.jpg"
     }
   ],
   "sortBy": "top",
