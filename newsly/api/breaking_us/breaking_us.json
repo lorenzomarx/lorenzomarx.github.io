@@ -1,69 +1,173 @@
 {
   "articles": [
     {
-      "author": "Axios",
+      "author": "Dalia Faheid",
+      "content": "Tropical Storm Beryl will strengthen as it tracks toward the south Texas coast late this weekend, bringing a risk of damaging winds, life-threatening storm surge and dangerous flooding to Texas begin\u2026 [+6093 chars]",
+      "description": "Tropical Storm Beryl will strengthen as it tracks toward the Texas-Mexico border this weekend, bringing a risk of damaging winds, life-threatening storm surge and dangerous flooding to Texas beginning late Sunday. It will mark the first US landfall storm of t\u2026",
+      "publishedAt": "2024-07-06T10:17:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Beryl charts its course towards South Texas, eyeing what could become the first US landfall of the 2024 Atlantic season - CNN",
+      "url": "https://www.cnn.com/2024/07/06/weather/hurricane-beryl-south-texas-coast-weekend-sunday-monday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/beryl-9-40et.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Anthony Faiola",
+      "content": "SAINT-DENIS, France Filled with the savory scent of kebab shops and the lilting sounds of foreign-accented French, this sprawling suburb north of Paris is the hometown of a not-so-proud son: Jordan B\u2026 [+10617 chars]",
+      "description": "If his party wins Sunday\u2019s election, Bardella would become France\u2019s first far-right head of government since World War II.",
+      "publishedAt": "2024-07-06T10:01:26Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "France's Jordan Bardella, the immigrant's son who would target migrants - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2024/07/06/jordan-bardella-national-le-pen-france-elections/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A56C5FVEXWKWVOQY3Q376VIRAA.jpg&w=1440"
+    },
+    {
+      "author": "Arya Vaishnavi",
+      "content": "Hailey Welch, a.k.a the Hawk Tuah Girl, is raking in thousands for her public outings in New York City. The 23-year-old shot to fame after her street interview with Tim &amp; Dee TV went viral. Welch\u2026 [+1829 chars]",
+      "description": "Not only is Hailey Welch relishing her newfound fame, but she is also making some major bucks!",
+      "publishedAt": "2024-07-06T09:46:14Z",
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "title": "\u2018Hawk Tuah Girl\u2019: Here's how much Hailey Welch is profiting off NYC appearances - Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/hawk-tuah-girl-heres-how-much-hailey-welch-is-profiting-off-nyc-appearances-101720257314113.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2024/07/06/1600x900/tuah_1719870435692_1720259092482.jpg"
+    },
+    {
+      "author": "CNN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-06T04:02:59Z",
+      "publishedAt": "2024-07-06T09:34:00Z",
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "title": "Biden refuses cognitive test, denies poll slump in ABC interview - Axios",
-      "url": "https://www.axios.com/2024/07/06/abc-biden-cognitive-test-denies-polls",
+      "title": "Reformist lawmaker Masoud Pezeshkian wins Iran\u2019s presidential vote - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8wNS9taWRkbGVlYXN0L3BlemVzaGtpYW4td2lucy1pcmFucy12b3RlLWludGwtaG5rL2luZGV4Lmh0bWzSAQA?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Al Jazeera",
-      "content": "Irans Masoud Pezeshkian, a heart surgeon and lawmaker who has promised to reach out to the West, has won the countrys presidential run-off election by beating rival Saeed Jalili, the Ministry of Inte\u2026 [+2014 chars]",
-      "description": "Pezeshkian said to be winner of run-off election with 16.3 million votes to Jalili\u2019s 13.5 million, according to reports.",
-      "publishedAt": "2024-07-06T03:41:09Z",
+      "author": "Georgia Nicols",
+      "content": "Moon Alert\r\nAvoid shopping and important decisions from 10:15 to 11 p.m. Chicago time. After that, the moon moves from Cancer into Leo.\r\nAries (March 21-April 19)\r\nYou might see how to redecorate whe\u2026 [+3862 chars]",
+      "description": null,
+      "publishedAt": "2024-07-06T05:04:52Z",
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": null,
+        "name": "Suntimes.com"
       },
-      "title": "Iran\u2019s reformist Masoud Pezeshkian wins run-off presidential vote: Reports - Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2024/7/6/irans-reformist-masoud-pezeshkian-wins-run-off-presidential-vote-reports",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-03T204552Z_1283722340_RC2WN8A2CR9S_RTRMADP_3_IRAN-ELECTION-1720236895.jpg?resize=1920%2C1440"
+      "title": "Horoscope for Saturday, July 6, 2024 - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/horoscopes/2024/07/06/horoscopes-today-saturday-july-6-2024",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg"
     },
     {
       "author": null,
-      "content": "Hurricane Beryl has lashed Mexico's Yucat\u00e1n Peninsula after wreaking havoc across the Caribbean, causing at least 10 deaths. \r\nIt made landfall as a category-two hurricane early on Friday, bringing w\u2026 [+2346 chars]",
-      "description": "The storm is expected to re-intensify over the Gulf the Mexico after being downgraded.",
-      "publishedAt": "2024-07-06T03:34:31Z",
+      "content": "Russian President Vladimir Putin told Viktor Orb\u00e1n on Friday (5 July) that Ukraine must effectively capitulate if it wants peace, in a visit to Moscow by the Hungarian leader that angered the EU, US \u2026 [+4803 chars]",
+      "description": "Russian President Vladimir Putin told Viktor Orb\u00e1n on Friday that Ukraine must effectively capitulate if it w",
+      "publishedAt": "2024-07-06T05:02:35Z",
+      "source": {
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "title": "Putin tells Orb\u00e1n Ukraine must capitulate if it wants peace - EURACTIV",
+      "url": "https://www.euractiv.com/section/global-europe/news/putin-tells-orban-ukraine-must-capitulate-if-it-wants-peace/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/07/Orban-and-Putin-800x450.jpg"
+    },
+    {
+      "author": "Gage Goulding, Oscar Chavez",
+      "content": "CORPUS CHRISTI, TexasFRIDAY, JULY 5 - 11:30 P.M. CT - Houston, I wish we had some better news to send you to sleep with.\r\nThe latest guidance from the National Hurricane Center shows yet another east\u2026 [+1926 chars]",
+      "description": "Tropical Storm Beryl is forecast to re-intensify to hurricane status before making a final landfall along the Texas Gulf Coast.",
+      "publishedAt": "2024-07-06T04:35:30Z",
+      "source": {
+        "id": null,
+        "name": "KPRC Click2Houston"
+      },
+      "title": "LIVE UPDATES: South Texas braces for Tropical Storm Beryl - KPRC Click2Houston",
+      "url": "https://www.click2houston.com/news/local/2024/07/06/live-update-south-texas-braces-for-tropical-storm-beryl/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/F3XIDOC6WBFSTJPZNUJ3672SS4.JPG?_a=ATAPphC0"
+    },
+    {
+      "author": null,
+      "content": "By BBC Monitoring and Matthew Davis\r\nThe Conservatives have emerged with \"broken bones\" from the UK election after Rishi Sunak's \"dismal end\" - but the big question for some in the international medi\u2026 [+7328 chars]",
+      "description": "Labour's landslide victory has been followed closely by media commentators around the world.",
+      "publishedAt": "2024-07-06T03:33:12Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Hurricane Beryl batters Mexico's Yucat\u00e1n Peninsula - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c3g60982178o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c059/live/272cd210-3b61-11ef-bdc5-41d7421c2adf.jpg"
+      "title": "UK election: How is the world reacting to Labour's landslide? - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c9r3q3zre9zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/577c/live/ad3cd940-3ac1-11ef-a044-9d4367d5b599.jpg"
     },
     {
-      "author": "William Booth, Karla Adam",
-      "content": "LONDON Britains politics have been volatile and chaotic, but this country sure knows how to execute a swift, orderly transfer of power. On Friday, Labour leader Keir Starmer became the 58th prime min\u2026 [+6334 chars]",
-      "description": "Britain\u2019s politics have been volatile and chaotic, but this country sure knows how to execute a swift, orderly transfer of power.",
-      "publishedAt": "2024-07-06T02:20:14Z",
+      "author": null,
+      "content": "PITTSBURGH -- The Pittsburgh Pirates tied a franchise record by smashing seven home runs in a 14-2 demolition of the New York Mets on Friday night -- so many that the team said it ran out of firework\u2026 [+3314 chars]",
+      "description": "The Pirates tied a franchise record by smashing seven home runs in a 14-2 demolition of the Mets on Friday night -- so many that the team said it ran out of fireworks.",
+      "publishedAt": "2024-07-06T03:04:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Pirates tie club record with 7 home runs in 14-2 rout of Mets - ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/40503911/pirates-tie-club-record-7-home-runs-rout-mets",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0706%2Fr1355100_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": null,
+      "content": "GLP-1 medications such as Ozempic and Wegovy may help lower the risk of certain cancers, a new study suggests.\r\nPeople who are overweight or obese have a higher risk of getting 13 types of cancer, an\u2026 [+2818 chars]",
+      "description": "The risk was cut by more than half for gallbladder cancer, meningioma, pancreatic cancer and hepatocellular carcinoma, a kind of liver cancer.",
+      "publishedAt": "2024-07-06T02:34:00Z",
+      "source": {
+        "id": null,
+        "name": "WCVB Boston"
+      },
+      "title": "Popular weight-loss and diabetes medications linked to lower risk of some cancers, study finds - WCVB Boston",
+      "url": "https://www.wcvb.com/article/ozempic-wegovy-lower-risk-some-cancers/61520236",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbhk5ztvtd3cwmdawm2i2bhzrm250z2oz-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nsetk5d3a4btawmhc4bhaxmw9oatl6etu-jpg-6688ac48a7c40.jpg?crop=1.00xw:0.846xh;0,0.0793xh&resize=1200:*"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Charles Lloyd Bovaird II",
+      "content": "Bitcoin prices bounced back today after falling to a four-month low. (Photo by Chesnot/Getty Images)\r\nGetty Images\r\nBitcoin prices bounced back today, climbing after falling to their lowest in over f\u2026 [+4056 chars]",
+      "description": "Bitcoin prices recovered today after several factors, including the latest news from Mt. Gox, caused them to fall to a more-than four-month low below $54,000.",
+      "publishedAt": "2024-07-06T01:25:44Z",
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "title": "Bitcoin Prices Rally Nearly 6% After Plunging To Lowest Since February - Forbes",
+      "url": "https://www.forbes.com/sites/digital-assets/2024/07/05/bitcoin-prices-rally-nearly-6-after-plunging-to-lowest-since-february/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/61644f142aa6c7aac90b4d7b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "author": "Glynn A. Hill",
+      "content": "Mikel Merino sent Spain into the Euro 2024 semifinals in dramatic fashion Friday, heading in the game-winning goal late in extra time to eliminate host Germany, 2-1, in Stuttgart.\r\nSpain will face Fr\u2026 [+4041 chars]",
+      "description": "A crop of dynamic young talent has Spain set to face France in the European Championship semifinals.",
+      "publishedAt": "2024-07-06T01:17:37Z",
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "title": "New U.K. Prime Minister Keir Starmer met the king, gave a speech, got to work - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2024/07/05/keir-starmer-becomes-uk-prime-minister/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F2TXXE43S7OFBCC4FZ6SRRKMRM_size-normalized.jpg&w=1440"
-    },
-    {
-      "author": "Jonathan Edwards, Kelsey Baker",
-      "content": "Floodwaters burst through a levee in a Wisconsin city during severe thunderstorms on Friday, forcing evacuations and road closures, officials said.\r\nA small cluster of thunderstorms sat over Manawa a\u2026 [+2109 chars]",
-      "description": "Thunderstorms on Friday dumped more than 5\u00bd inches of rain on Manawa, Wis., causing floodwaters to burst through a levee, officials said.",
-      "publishedAt": "2024-07-06T01:59:12Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Wisconsin city evacuated after Manawa Dam breached amid heavy rainfall - The Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2024/07/05/manawa-dam-breached-wisconsin-flooding-evacuations/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXWWCTSQXQFLKASWH6HMK2U3FM.jpg&w=1440"
+      "title": "Last-minute Spanish goal ousts host Germany in dramatic Euro 2024 finish - The Washington Post",
+      "url": "https://www.washingtonpost.com/sports/2024/07/05/spain-germany-euro-2024/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JXGYMJUCBRXOF6HVC4ZJSAIRZI.jpg&w=1440"
     },
     {
       "author": null,
@@ -79,56 +183,17 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c78c/live/d3174270-3aa0-11ef-bdc5-41d7421c2adf.jpg"
     },
     {
-      "author": "CLAIRE RUSH, REBECCA BOONE, SCOTT SONNER",
-      "content": "PORTLAND, Ore. (AP) Records tumbled across the West as a slow-moving heat wave of potentially historic proportions tightened its grip from the Pacific Northwest to Arizona on Friday, sending many res\u2026 [+4874 chars]",
-      "description": "Records are tumbling across the West as a slow-moving heat wave of potentially historic proportions tightens its grip from the Pacific Northwest to Arizona. The Southeast and Mid-Atlantic regions of the U.S. are also sweltering, with oppressive heat and humid\u2026",
-      "publishedAt": "2024-07-06T00:56:00Z",
+      "author": "Meredith Deliso",
+      "content": "Evacuation orders have been issued due to a wildfire in central California, the latest among more than a dozen blazes burning in the state amid a scorching heat wave.\r\nThe French Fire near Yosemite N\u2026 [+1740 chars]",
+      "description": "The French Fire is one of more than a dozen active fire incidents in California.",
+      "publishedAt": "2024-07-06T00:40:51Z",
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "title": "A dangerous heat wave is scorching much of the US. Weather experts predict record temperatures - The Associated Press",
-      "url": "https://apnews.com/article/heat-wave-record-temperatures-53fa1470c610f1f8254a8cf9a23c51c4",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0ec928e/2147483647/strip/true/crop/4648x2615+0+242/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F16%2Fc3%2Fb5fc994fcf780d67050b5a444dc4%2Fe9c4e906d2ad4677b62da676f5e875f0"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Medical experts are warning about a wave of misinformation about sunscreen, with some social media posts even discouraging followers from using it. Experts s...",
-      "publishedAt": "2024-07-06T00:45:05Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "Experts warn against sunscreen misinformation - NBC News",
-      "url": "https://www.youtube.com/watch?v=xzy37Ogcjpw",
-      "urlToImage": "https://i.ytimg.com/vi/xzy37Ogcjpw/maxresdefault.jpg"
-    },
-    {
-      "author": "Deidre McPhillips",
-      "content": "GLP-1 medications such as Ozempic and Wegovy may help lower the risk of certain cancers, a new study suggests.\r\nPeople who are overweight or obese have a higher risk of getting 13 types of cancer, an\u2026 [+2846 chars]",
-      "description": "GLP-1 medications such as Ozempic and Wegovy may help lower the risk of certain cancers, a new study suggests.",
-      "publishedAt": "2024-07-06T00:40:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Popular weight-loss and diabetes medications linked to lower risk of some cancers, study finds - CNN",
-      "url": "https://www.cnn.com/2024/07/05/health/glp-1-weight-loss-lower-cancer-risk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1581640516-20240706003728384.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Dean Fioresi",
-      "content": "Actor Danny Trejo was caught on camera during a fight at a Fourth of July parade in Sunland-Tujunga after he was apparently hit by a water balloon thrown by someone watching the event.\u00a0\r\nThe parade, \u2026 [+1534 chars]",
-      "description": "Actor Danny Trejo was caught on camera during a fight at a Fourth of July parade in Sunland-Tujunga after he was apparently hit by a water balloon thrown by someone watching the event.",
-      "publishedAt": "2024-07-06T00:32:07Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Actor Danny Trejo caught on camera during fight at Fourth of July parade in LA - CBS Los Angeles",
-      "url": "https://www.cbsnews.com/losangeles/news/actor-danny-trejo-caught-on-camera-during-fight-at-fourth-of-july-parade-in-la/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/05/d3123bb1-10b4-4dae-a5e1-8ffee66b814d/thumbnail/1200x630/5cb04292e8159165f579a7915118efcc/gettyimages-2149156844.jpg?v=57e8061b2038d609da26e467de5ddfb8"
+      "title": "Evacuation orders issued for latest California wildfire amid scorching heat wave - ABC News",
+      "url": "https://abcnews.go.com/US/california-wildfires-french-fire-mariposa-county/story?id=111696775",
+      "urlToImage": "https://i.abcnewsfe.com/a/986e62cf-c19a-4b2c-bafe-1515fecd5798/california-french-wildfire-ap-lv-240705_1720194258198_hpMain_16x9.jpg?w=1600"
     },
     {
       "author": "Jacob Siegal, Jacob Siegal",
@@ -157,61 +222,22 @@
       "urlToImage": "https://media.nbcsportsbayarea.com/2024/07/Steph-Curry-Buddy-Hield-GettyImages-1360242181.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
+      "author": "Ted Sickinger| The Oregonian/OregonLive",
+      "content": null,
+      "description": "This may be Western Oregon's longest spell of 100-degree-plus temperatures on record",
+      "publishedAt": "2024-07-05T23:51:00Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "OregonLive"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "",
-      "content": "Shark attacks in Texas and Florida left at least four people injured, including one person seriously hurt, as Fourth of July festivities lured crowds to coastal waters this week.\r\nTwo people were inj\u2026 [+3000 chars]",
-      "description": "An abnormally high number of people were bitten by sharks in coastal waters over the span of a day that began on July 4. Upticks in shark attacks alone are not cause for concern, an expert says.",
-      "publishedAt": "2024-07-05T23:45:42Z",
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "title": "Shark attacks in Florida, Texas, leave 4 hurt - NPR",
-      "url": "https://www.npr.org/2024/07/05/nx-s1-5030334/shark-attacks-texas-florida",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2990x1682+5+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F9b%2F484425ed4433877f23abc3f7bbe6%2Fap24187594288571.jpg"
-    },
-    {
-      "author": "Patrick Smith",
-      "content": "Scorching temperatures on the Fourth of July fueled wildfires in California, as warnings from meteorologists that the coming days could see dangerously hot weather.\r\nWith much of the country in the g\u2026 [+3109 chars]",
-      "description": "Scorching temperatures on the Fourth of July fueled wildfires in California that have burned through the night.",
-      "publishedAt": "2024-07-05T23:42:20Z",
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "title": "Evacuations ordered as new California wildfire ignites in scorching heat wave - NBC News",
-      "url": "https://www.nbcnews.com/news/weather/heat-wave-wildfires-evacuations-california-mariposa-french-thompson-rcna160397",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240702-thompson-fire-1-se-1153a-e3a356.jpg"
+      "title": "Heat wave? Heat dome? Either way, it doesn\u2019t bode well - OregonLive",
+      "url": "https://www.oregonlive.com/weather/2024/07/heat-wave-heat-dome-either-way-it-doesnt-bode-well.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/K5NZQ4NFUJD4HK6FT5KHOCF3X4.jpg?auth=2cd1ed44ce54a38d7947e5418ae3d358e6e8c72135e452eacddac3cbab0951bb&width=1280&quality=90"
     },
     {
       "author": null,
-      "content": "The one thing I told myself was Do not drop the baby, he told his brother Jason Kelce\u00a0on the\u00a0July 3 episode of their\u00a0New Heights\u00a0podcast. Do not drop Taylor on your way over to this damn couch.\r\nTrav\u2026 [+824 chars]",
-      "description": "Taylor Swift and Travis Kelce reunited at her Eras tour concert in Amsterdam July 5, days after he watched her perform in Dublin.",
-      "publishedAt": "2024-07-05T23:30:00Z",
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "title": "Taylor Swift and Travis Kelce Bring Their Love Story to Amsterdam - E! NEWS",
-      "url": "https://www.eonline.com/news/1404649/taylor-swift-and-travis-kelce-bring-their-love-story-to-her-amsterdam-eras-tour-show",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202455/cr_1200x1200-240605165848-GettyImages-1970250659_1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
-    },
-    {
-      "author": null,
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later",
-      "description": null,
+      "content": null,
+      "description": "New video shows the volcano spewing smoke and ash while lava flows into the Mediterranean Sea.More local videos here: https://youtube.com/@9news Subscribe to...",
       "publishedAt": "2024-07-05T23:28:22Z",
       "source": {
         "id": null,
@@ -219,46 +245,20 @@
       },
       "title": "Volcano on Sicilian island of Stromboli erupting - 9NEWS",
       "url": "https://www.youtube.com/watch?v=Tn5kukvZxfA",
-      "urlToImage": null
+      "urlToImage": "https://i.ytimg.com/vi/Tn5kukvZxfA/maxresdefault.jpg"
     },
     {
-      "author": "Amna Nawaz, Courtney Norris, Murrey Jacobson",
-      "content": "Amna Nawaz:\r\nToday, President Joe Biden is digging in. In more than one appearance today, he underscored that he has no plans to leave the campaign, despite calls from some Democrats and supporters. \u2026 [+1547 chars]",
-      "description": "The U.S. Economy added more jobs than expected last month, the 42nd consecutive month of job growth. But unemployment inched up to 4.1 percent and there were other signs of a cooling labor market. For a deeper look at what this means for the economy, Amna Naw\u2026",
-      "publishedAt": "2024-07-05T22:55:21Z",
+      "author": "Ben Glickman",
+      "content": "Tesla shares jumped 27% this week on better-than-expected sales results, erasing this years losses and pushing the stock into positive territory for 2024.\r\nThe electric-car maker delivered nearly 5% \u2026 [+304 chars]",
+      "description": "Treasurys rally, while bitcoin continues its recent pullback",
+      "publishedAt": "2024-07-05T22:23:00Z",
       "source": {
-        "id": null,
-        "name": "PBS"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "title": "Jobs report exceeds expectations but unemployment rise signals cooling labor market - PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/show/jobs-report-exceeds-expectations-but-unemployment-rise-signals-cooling-labor-market",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/07/economy-1024x683.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "content": "Enlarge/ Four kerosene-fueled Reaver engines power Firefly's Alpha rocket off the pad at Vandenberg Space Force Base, California.\r\n18\r\nWelcome to Edition 7.01 of the Rocket Report! We're compiling th\u2026 [+4750 chars]",
-      "description": "The all-private Polaris Dawn spacewalk mission is set for launch no earlier than July 31.",
-      "publishedAt": "2024-07-05T22:14:22Z",
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "title": "Rocket Report: Firefly delivers for NASA; Polaris Dawn launching this month - Ars Technica",
-      "url": "https://arstechnica.com/space/2024/07/rocket-report-firefly-delivers-for-nasa-polaris-dawn-launching-this-month/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Firefly-Aerospace-Jul-3-2024-Birds-Nest-9179-2048x1365-2-760x380.jpg"
-    },
-    {
-      "author": "Owen Lavine",
-      "content": "A Google Document making the case for President Joe Biden to drop out of the race in favor of Vice President Kamala Harris is causing intrigue as it goes viral in big-money Democratic donor circles.\r\u2026 [+3941 chars]",
-      "description": "The Google doc is a viral hit in top Democratic circles and says Biden must go then outlines two scenarios: \u201cKamala or chaos.\u201d",
-      "publishedAt": "2024-07-05T22:09:16Z",
-      "source": {
-        "id": null,
-        "name": "Daily Beast"
-      },
-      "title": "Anonymous 'Case for Kamala Harris' Memo Goes Viral among Democrats - The Daily Beast",
-      "url": "https://www.thedailybeast.com/anonymous-case-for-kamala-harris-memo-goes-viral-among-democrats",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_778,w_1383,x_615,y_193/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1720208960/2024-07-05T025047Z_2047028185_RC2PO8AKTWZS_RTRMADP_3_USA-BIDEN_nhueej"
+      "title": "Tesla's Stock Rallies, Erasing Losses for the Year - The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-jobs-report-live-07-05-2024",
+      "urlToImage": "https://images.wsj.net/im-976884/social"
     }
   ],
   "status": "ok",
