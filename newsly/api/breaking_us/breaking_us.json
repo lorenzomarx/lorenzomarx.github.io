@@ -1,82 +1,251 @@
 {
   "articles": [
     {
-      "author": "TY O'NEIL, CHRISTOPHER WEBER",
-      "content": "DEATH VALLEY, Calif. (AP) After causing deaths and shattering records in the West over the weekend, a long-running heat wave will again grip the U.S. on Monday, with hot temperatures also predicted f\u2026 [+4495 chars]",
-      "description": "A long-running heat wave is gripping the U.S. after causing deaths and shattering records in the West over the weekend. Hot temperatures are predicted again Monday in the West as well as in parts of the East Coast and the South. A visitor to Death Valley Nati\u2026",
-      "publishedAt": "2024-07-08T12:12:00Z",
+      "author": "Lauren Said-Moorhouse",
+      "content": "A Russian missile strike partially destroyed a childrens hospital in Kyiv on Monday, causing terrified patients and their families to flee for their lives, as officials fear more people could be trap\u2026 [+7964 chars]",
+      "description": "Russian missile strikes hit targets in cities across Ukraine on Monday, including a children\u2019s hospital in Kyiv, killing at least 31 people, authorities say.",
+      "publishedAt": "2024-07-08T17:32:00Z",
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Searing heat wave grips large parts of the US and causes deaths in the West - The Associated Press",
-      "url": "https://apnews.com/article/heat-wave-dangerous-high-temperatures-records-3a906d7045cf7eb04604aefec70cda16",
-      "urlToImage": "https://dims.apnews.com/dims4/default/560adf6/2147483647/strip/true/crop/5185x2917+0+270/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fa5%2F8ca66180cc939ed3c0947c4805f5%2Fda873e4b5c4e42ca8a105753395ca663"
+      "title": "Ukrainian children\u2019s hospital attacked as Russian strikes on cities kill at least 31 - CNN",
+      "url": "https://www.cnn.com/2024/07/08/europe/ukraine-russian-strike-childrens-hospital-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-07-08t091218z-886743662-rc2xq8aye5gi-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Matthew Cappucci, Kelly Kasulis Cho, Rachel Pannett, Jennifer Hassan, Brady Dennis, Scott Dance, Ben Brasch, Praveena Somasundaram, Alexandra Ma, Nick Parker, Joyce Lau, Joshua Carroll",
-      "content": "MATAGORDA, Tex. Hurricane Beryl is approaching western parts of Houston after making landfall near Matagorda around 4 a.m. Monday, the National Hurricane Center said. Beryl strengthened from a tropic\u2026 [+183 chars]",
-      "description": "The storm, which made landfall near Matagorda, is expected to produce dangerous storm surges, floods and heavy winds in parts of Texas. Follow our live updates.",
-      "publishedAt": "2024-07-08T12:01:49Z",
+      "author": "Christian Shepherd, Gerry Shih",
+      "content": "Hungarian Prime Minister Viktor Orban made a surprise visit to Beijing on Monday where Chinese leader Xi Jinping called for a global effort to push Russia and Ukraine toward a cease-fire and praised \u2026 [+8743 chars]",
+      "description": "As Hungary\u2019s Viktor Orban pushed for a Ukraine cease-fire, Russian missile strikes hit a children\u2019s hospital in Kyiv and killed at least 21 across the country.",
+      "publishedAt": "2024-07-08T17:00:33Z",
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "title": "Live updates: Hurricane Beryl makes landfall on Texas coast as Category 1 storm - The Washington Post",
-      "url": "https://www.washingtonpost.com/weather/2024/07/08/hurricane-beryl-texas-landfall-updates/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TWEHZJJIYAFJQYJGLMMIEUTMM.JPG&w=1440"
+      "title": "With Viktor Orban in China pushing cease-fire, Russian missiles slam Ukraine - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2024/07/08/modi-orban-putin-china-russia-india/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2FNQW642DLW5GRWNUMJRD5SIA.jpg&w=1440"
+    },
+    {
+      "author": "MORGAN LEE",
+      "content": "A New Mexico judge decided Monday that actor Alec Baldwins role as co-producer isnt relevant to the involuntary manslaughter trial over a fatal shooting on the set of the Western film Rust.\r\nJudge Ma\u2026 [+4820 chars]",
+      "description": "A New Mexico judge has decided that actor Alec Baldwin\u2019s role as co-producer isn\u2019t relevant to the involuntary manslaughter trial over a fatal shooting on the set of the Western film \u201cRust.\u201d The actor has appeared in court Monday for a pretrial hearing over a\u2026",
+      "publishedAt": "2024-07-08T16:57:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "\u2018Rust\u2019 shooting trial: Pretrial hearing sets stage for Alec Baldwin\u2019s arrival in court - The Associated Press",
+      "url": "https://apnews.com/article/alec-baldwin-trial-rust-shooting-movie-7111ebd9d360a261eade601b5e4ec297",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5bd2875/2147483647/strip/true/crop/4000x2250+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2Fce%2F076e3b1ef16de45a58d6cedbd5dc%2F2ee5c8590f40495c9d2b14a6b0fcc681"
+    },
+    {
+      "author": "",
+      "content": "Minnesota Vikings rookie cornerback Khyree Jackson has died in a car accident, the team announced Saturday. He was 24 years old. Jackson was selected by Minnesota out of Oregon in the fourth round of\u2026 [+1804 chars]",
+      "description": "Oregon's Jackson was selected in the fourth round of the 2024 NFL Draft in April",
+      "publishedAt": "2024-07-08T16:15:00Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "Vikings rookie cornerback Khyree Jackson dies in car accident at 24 - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/vikings-rookie-cornerback-khyree-jackson-dies-in-car-accident-at-24/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/06/a5004849-27e0-4285-bdac-3e1973681d8b/thumbnail/1200x675/5304ad79ccead4f0651f77e91adc360c/jackson-getty.jpg"
+    },
+    {
+      "author": "Caroline Brown, Justin Stapleton, Daji Aswad, Amanda Goluszka",
+      "content": "As of 10 a.m., Beryl has weakened back to tropical storm status with maximum sustained winds of 70 mph. The next advisory from the National Hurricane Center will be at 1 p.m. Beryl made landfall at M\u2026 [+3298 chars]",
+      "description": "Tropical bands will become more widespread as Beryl makes landfall Monday morning.",
+      "publishedAt": "2024-07-08T15:40:27Z",
+      "source": {
+        "id": null,
+        "name": "KPRC Click2Houston"
+      },
+      "title": "Tropical Storm Beryl pushes through SE Texas with heavy rain, strong winds - KPRC Click2Houston",
+      "url": "https://www.click2houston.com/weather/2024/07/07/beryls-rainfall-timeline-for-se-texas/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NALB2SP3SBCRHCBGAVQTNORH74.jpg?_a=ATAPphC0"
     },
     {
       "author": null,
-      "content": "By\u00a0Rob Corp &amp; Kyla Herrmannsen,\u00a0BBC News, in London &amp; Kyiv\r\nVideo posted by President Zelensky shows extensive damage to Ohmatdyt Children's Hospital\r\nA children's hospital has been seriously\u2026 [+4250 chars]",
-      "description": "Two people were killed at the Okhmatdyt Children's Hospital after an intense Russian barrage, officials say.",
-      "publishedAt": "2024-07-08T11:47:04Z",
+      "content": "By\u00a0James FitzGerald &amp; Bernd Debusmann Jr in Washington,\u00a0BBC News\r\nUS President Joe Biden has promised he will be \"running this race to the end\" of the November election, despite private calls fro\u2026 [+4542 chars]",
+      "description": "The letter comes as more senior Democrats voice concerns about the president's fitness to win the election.",
+      "publishedAt": "2024-07-08T15:39:00Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "At least 31 dead after 'massive' Russian missile attack on Ukraine cities - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cl4y1pjk2dzo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f6ca/live/ee6d00a0-3d25-11ef-9e1c-3b4a473456a6.jpg"
+      "title": "Biden tells Democrats he is 'firmly committed' to staying in the race - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c2q0x3ekeezo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5318/live/0d9fdd50-3d0b-11ef-a12e-fbb463384a1f.jpg"
+    },
+    {
+      "author": "Emily Rauhala",
+      "content": "This weeks NATO summit in Washington was supposed to be a celebration.\r\nSeventy-five years after its founding, the alliance is bigger and more relevant than its been in decades. Transatlantic ties ar\u2026 [+6980 chars]",
+      "description": "President Biden hosts a celebratory alliance summit in Washington, but the specter of Trump and right-wing populism in Europe looms over proceedings.",
+      "publishedAt": "2024-07-08T15:03:51Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "NATO\u2019s 75th anniversary summit in Washington clouded by political chaos - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2024/07/08/nato-summit-biden-trump-ukraine/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PUSI53NEOCU4APMRWA5443PGE.jpg&w=1440"
+    },
+    {
+      "author": "Jonathan Ayestas",
+      "content": null,
+      "description": "Monday marks day nine of triple-digit heat in Northern California.",
+      "publishedAt": "2024-07-08T14:49:00Z",
+      "source": {
+        "id": null,
+        "name": "KCRA Sacramento"
+      },
+      "title": "Northern California heat wave forecast: Triple digits continue Monday - KCRA Sacramento",
+      "url": "https://www.kcra.com/article/northern-california-forecast-heat-wave-july-8-2024/61532261",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/89edbc11-7533-49ea-a733-bfbfaecea94f/390087d1-83ce-400a-8162-ac89728a422e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+    },
+    {
+      "author": "LORI HINNANT, SYLVIE CORBET",
+      "content": "PARIS (AP) French President Emmanuel Macron refused the resignation of the countrys prime minister, asking him on Monday to remain temporarily as the head of the government after chaotic election res\u2026 [+5300 chars]",
+      "description": "French President Emmanuel Macron has refused the resignation of the country\u2019s prime minister, asking him to remain temporarily as the head of the government after chaotic election results left the government in limbo. French voters split the legislature on th\u2026",
+      "publishedAt": "2024-07-08T14:44:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "France elections 2024: Macron refuses Prime Minister Attal's resignation - The Associated Press",
+      "url": "https://apnews.com/article/france-elections-right-left-macron-32fe723ea2a592e7ce243f68a89729a2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/084970b/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2F46%2F7a25dfe1f8fa5f619012577d7ade%2F58b7661f4240424daba20ee93ef5c9c7"
+    },
+    {
+      "author": "Tom Ignudo, Raymond Strickland",
+      "content": "PHILADELPHIA (CBS) -- A Philadelphia radio host who said she used questions prepared by President Biden's campaign in a post-debate interview parted ways with WURD, the station's president and CEO an\u2026 [+3075 chars]",
+      "description": "Sara M. Lomax, the president and CEO of WURD, said the radio station is \"not a mouthpiece\" for Biden or any other administration.",
+      "publishedAt": "2024-07-08T14:25:18Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Andrea Lawful-Sanders, WURD Radio part ways after she used questions provided by Biden's campaign - CBS News",
+      "url": "https://www.cbsnews.com/philadelphia/news/andrea-lawful-sanders-wurd-radio-biden-in-philadelphia/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/08/adb1cc37-4a51-457b-938c-5751697997d6/thumbnail/1200x630/ebbc669b59b9f94d5ab00aac6cf2acd8/23pkg-rs-biden-wurd-interview-fallout-transfer-frame-600.jpg?v=57e8061b2038d609da26e467de5ddfb8"
+    },
+    {
+      "author": "By  RIKKI ZAGELBAUM",
+      "content": "The largest collection of stolen passwords ever has been leaked to a notorious crime marketplace, according to cybersecurity researchers at Cybernews.\u00a0\r\nThis leak, dubbed RockYou2024 by its original \u2026 [+2953 chars]",
+      "description": "In response to the leak, they recommend immediately changing the passwords for any accounts associated with the leaked credentials, ensuring each password is strong and unique and not reused.",
+      "publishedAt": "2024-07-08T12:13:20Z",
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "title": "The largest password leak in history exposes nearly 10 billion credentials - The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/article-809428",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/533307"
+    },
+    {
+      "author": "Greg Norman",
+      "content": "The office of Israeli Prime Minister Benjamin Netanyahu has announced four principles that it says must be part of any hostage release deal with the Palestinian terrorist group Hamas.\u00a0\r\nThe declarati\u2026 [+2953 chars]",
+      "description": "Israeli Prime Minister Benjamin Netanyahu's office has announced the four principles that it says must be included in any hostage release deal with Hamas.",
+      "publishedAt": "2024-07-08T12:13:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Netanyahu's 4 principles Israel agrees to for hostage deal as negotiations pick up - Fox News",
+      "url": "https://www.foxnews.com/world/netanyahus-4-principles-israel-agrees-hostage-deal-negotiations-pick-up",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Israel-tanks-Gaza.jpg"
     },
     {
       "author": null,
-      "content": "Palestinians in Gaza City say they have experienced one of the most intense Israeli bombardments since Israel launched its war on Hamas after the group's unprecedented 7 October attack.\r\nColumns of I\u2026 [+2864 chars]",
-      "description": "Residents say they are seeing some of the heaviest strikes since the war began nine months ago.",
-      "publishedAt": "2024-07-08T11:37:57Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]",
+      "description": null,
+      "publishedAt": "2024-07-08T12:09:56Z",
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Yahoo Entertainment"
       },
-      "title": "Gaza war: Israel hits Gaza City as tanks re-enter central areas - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c51yle4m5pzo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8f06/live/ae162770-3d20-11ef-90ff-7b1636c56d0e.jpg"
-    },
-    {
-      "author": "Yahoo Finance",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-08T11:31:27Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "The US housing slump deepened this spring. Where does that leave home shoppers and sellers? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy91cy1ob3VzaW5nLXNsdW1wLWRlZXBlbmVkLXNwcmluZy0xMTMxMjc3NzAuaHRtbNIBAA?oc=5",
+      "title": "Boeing to plead guilty in DOJ case tied to deadly 737 Max crashes - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/boeing-to-plead-guilty-in-doj-case-tied-to-deadly-737-max-crashes-120956161.html",
       "urlToImage": null
     },
     {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-08T11:29:00Z",
+      "author": "Francesca Bacardi",
+      "content": "Bethenny Frankel finally opened up about her breakup with Paul Bernon. bethennyfrankel/Instagram\r\nBethenny Frankel finally addressed her breakup with ex-fianc\u00e9 Paul Bernon.\r\nThe \u201cReal Housewives of N\u2026 [+3431 chars]",
+      "description": "\u201cI think by sharing all the details of your new relationship, you\u2019re disrespecting the last relationship,\u201d the former \u201cRHONY\u201d star shared on her podcast.",
+      "publishedAt": "2024-07-08T11:54:00Z",
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": null,
+        "name": "Page Six"
       },
-      "title": "France's RN set to join new Orban-backed European bloc - Reuters",
-      "url": "https://www.reuters.com/world/europe/new-orban-backed-eu-alliance-says-frances-rn-join-2024-07-08/",
-      "urlToImage": null
+      "title": "Bethenny Frankel calls ex-fianc\u00e9 Paul Bernon's new romance with Aurora Culpo 'gutting': 'It's embarrassing' - Page Six",
+      "url": "https://pagesix.com/2024/07/08/entertainment/bethenny-frankel-addresses-paul-bernons-new-romance-with-aurora-culpo/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/85127482.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+      "author": "Beatrice Nolan",
+      "content": null,
+      "description": "The watch is approaching its 10th birthday, and Apple is planning a revamp to make the device thinner but with larger displays, Bloomberg reported.",
+      "publishedAt": "2024-07-08T11:50:00Z",
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "title": "The Apple Watch is reportedly getting a birthday makeover - Business Insider",
+      "url": "https://www.businessinsider.com/apple-watch-revamp-tenth-anniversary-thinner-larger-display-apple-intelligence-2024-7",
+      "urlToImage": "https://i.insider.com/668bc8521aace5b3ada4ec41?width=1200&format=jpeg"
+    },
+    {
+      "author": "ALEX VEIGA AP business writer",
+      "content": "LOS ANGELES -- The housing market shows few signs of busting out of its three-year funk after a disappointing spring season and amid a gloomy outlook for the summer and fall.\r\nHome shoppers came into\u2026 [+4991 chars]",
+      "description": "The nation\u2019s housing market sales slump is dragging on into its third straight year, as evidenced by another weak spring homebuying season",
+      "publishedAt": "2024-07-08T11:46:11Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "The US housing slump deepened this spring. Where does that leave home shoppers and sellers? - ABC News",
+      "url": "https://abcnews.go.com/Business/wireStory/us-housing-slump-deepened-spring-leave-home-shoppers-111740149",
+      "urlToImage": "https://i.abcnewsfe.com/a/da868da5-91b9-45ea-825b-a6ffde1011b2/wirestory_bdd1399e1726e2ca17b622ea48067541_16x9.jpg?w=1600"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Global temperatures were at record high levels in June for a 13th consecutive month, according to data by the European climate service Copernicus, which is raising the alarm over the warming climate.\u2026 [+2326 chars]",
+      "description": "It has been 12 straight months that the world has been more than 1.5 degrees Celsius hotter than pre-industrial levels.",
+      "publishedAt": "2024-07-08T11:37:30Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "\u2018Stark warning\u2019 as global temperatures hit record levels for 13th month - Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2024/7/8/stark-warning-as-global-temperatures-hit-record-levels-for-13th-month",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/11/AP238536530554.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Jeff Carlisle",
+      "content": "Colorado Rapids midfielder Djordje Mihailovic, FC Cincinnati defender Miles Robinson and Nashville defender Walker Zimmerman headline the 18-player roster for the United States men's Olympic team nam\u2026 [+5379 chars]",
+      "description": "Colorado Rapids' Djordje Mihailovic, FC Cincinnati's Miles Robinson and Nashville's Walker Zimmerman headline the 18-player men's U.S. Olympic team roster as the three \"overage\" players.",
+      "publishedAt": "2024-07-08T11:30:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Mihailovic, Robinson, Zimmerman in U.S. Olympic men's soccer team - ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/40518702/mihailovic-robinson-zimmerman-us-olympic-soccer-team",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0407%2Fr996597_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "Jake Boxall-Legge",
+      "content": "The \"classic British summer\" jibes aside, the British Grand Prix weekend faced an atypical barrage of cold and inclement weather - it felt more like a February's half-hearted release of the winter's \u2026 [+12879 chars]",
+      "description": "Lewis Hamilton's first Formula 1 win in 945 days might have headlined this year's rain-affected British Grand Prix, but the rest of the weekend burst at the seams with plotlines and announcements. Here's the biggest stories that emerged in this year's Silvers\u2026",
+      "publishedAt": "2024-07-08T11:16:40Z",
+      "source": {
+        "id": null,
+        "name": "Motorsport.com"
+      },
+      "title": "Seven things we learned at the 2024 British Grand Prix - Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/seven-things-we-learned-at-the-2024-british-grand-prix/10633073/",
+      "urlToImage": "https://cdn-7.motorsport.com/images/amp/YBeO1Pz2/s6/max-verstappen-red-bull-racing.jpg"
     },
     {
       "author": null,
@@ -90,175 +259,6 @@
       "title": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "Thousands of protesters marched through Barcelona over the weekend to express anger at mass tourism and its impacts on Spain's most visited city. Bystanders dining in restaurants in the popular La Ba\u2026 [+2843 chars]",
-      "description": "Residents fed up with the impact of mass tourism in Barcelona have staged a mass demonstration, harassing visitors in the Spanish city.",
-      "publishedAt": "2024-07-08T11:17:01Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Spanish anti-tourism protesters take aim at Barcelona visitors with water guns - CBS News",
-      "url": "https://www.cbsnews.com/news/spain-barcelona-tourism-protests-water-guns/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/08/4f914a68-3325-49d0-ba33-9b22e0af595e/thumbnail/1200x630/cb4be552570df1ace78800c9c4953bef/gettyimages-2160375973.jpg?v=57e8061b2038d609da26e467de5ddfb8"
-    },
-    {
-      "author": null,
-      "content": "In securing victory at the British Grand Prix to end a long victory drought stretching to 945 days since December 5th, 2021, Lewis Hamilton set a number of new F1 records.\r\nFor a driver who already s\u2026 [+704 chars]",
-      "description": "Lewis Hamilton set a host of new F1 records during the British Grand Prix.",
-      "publishedAt": "2024-07-08T11:00:00Z",
-      "source": {
-        "id": null,
-        "name": "Racingnews365.com"
-      },
-      "title": "Hamilton sets multiple new F1 records in British GP blitz - Racingnews365.com",
-      "url": "https://racingnews365.com/hamilton-sets-multiple-new-world-records-in-british-gp-blitz",
-      "urlToImage": "https://cdn.racingnews365.com/2024/Hamilton/_1800x945_crop_center-center_75_none/XPB_1293779_HiRes.jpg?v=1720385169"
-    },
-    {
-      "author": "Kim Schewitz",
-      "content": null,
-      "description": "Professor Barry Smith worked with big names in the food industry but stopped when he realized foods were made to be irresistible, despite health risks.",
-      "publishedAt": "2024-07-08T10:52:00Z",
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "title": "Scientists lost weight without trying quitting ultra-processed foods - Business Insider",
-      "url": "https://www.businessinsider.com/scientist-lost-weight-without-trying-quit-ultra-processed-foods-2024-7",
-      "urlToImage": "https://i.insider.com/668808311aace5b3ada4a7e5?width=1200&format=jpeg"
-    },
-    {
-      "author": "MarketWatch",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-08T10:32:00Z",
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "title": "Why bulls should be stoic in the face of legitimate stock-market worries - MarketWatch",
-      "url": "https://www.marketwatch.com/story/three-reasons-bulls-should-be-stoic-in-the-face-of-legitimate-stock-market-worries-5afff5ba",
-      "urlToImage": null
-    },
-    {
-      "author": "Sandee LaMotte",
-      "content": "Sign up for CNNs Sleep, But Better newsletter series.\u00a0Our seven-part guide has helpful hints to achieve better sleep.\r\nJill was in middle school when she began eating in her sleep. Despite carrying t\u2026 [+9950 chars]",
-      "description": "Ashamed and bewildered by her actions, one woman with an unusual sleep disorder faced challenges when trying to find medical help. Here\u2019s her story.",
-      "publishedAt": "2024-07-08T10:20:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "The most devastating sleep disorder of all, according to an expert - CNN",
-      "url": "https://www.cnn.com/2024/07/08/health/sleep-eating-disorder-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sleep-eating-illo-a-purple.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Rong-Gong Lin II",
-      "content": "As the summer travel season picks up, COVID cases and hospitalizations are rising in Los Angeles County and some of those recently reinfected are finding their latest bout to be the worst yet.\r\nThere\u2026 [+9890 chars]",
-      "description": "COVID cases and hospitalizations rise in L.A. County \u2014 and some of those recently reinfected with the FLiRT variants are finding the latest bout the worst...",
-      "publishedAt": "2024-07-08T10:00:26Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "'Playing COVID roulette': Some infected by FLiRT variants report their most unpleasant symptoms yet - Yahoo! Voices",
-      "url": "https://www.yahoo.com/news/playing-covid-roulette-infected-flirt-100026293.html",
-      "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/c7b66ce26858a40548455a94d4c59348"
-    },
-    {
-      "author": "Ben Schoon",
-      "content": "Alongside its $199 CMF Phone 1, Nothing today launched two new wearables the $69 CMF Watch Pro 2 and the $59 CMF Buds Pro 2.\r\nCMF by Nothing is a design and budget-focused sub-brand of the Carl Pei-l\u2026 [+1984 chars]",
-      "description": "Alongside its $199 CMF Phone 1, Nothing today launched two new wearables \u2013 the $69 CMF Watch Pro 2 and...",
-      "publishedAt": "2024-07-08T09:05:00Z",
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "title": "Nothing launches $69 CMF Watch Pro 2 and $59 CMF Buds Pro 2 - 9to5Google",
-      "url": "http://9to5google.com/2024/07/08/nothing-launches-69-cmf-watch-pro-2-and-59-cmf-buds-pro-2/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/cmf-watch-2-pro-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    },
-    {
-      "author": "Steve Contorno, Kristen Holmes",
-      "content": "Donald Trump is entering a critical stretch of his presidential campaign in an unfamiliar place: out\u00a0of the spotlight.\r\nOver the next 10 days, the former president will announce his running mate, hol\u2026 [+8871 chars]",
-      "description": "Donald Trump is entering a critical stretch of his presidential campaign in an unfamiliar place: out\u00a0of the spotlight.",
-      "publishedAt": "2024-07-08T09:00:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Trump\u2019s VP rollout and convention planning complicated by Biden woes as former president looks to regain spotlight - CNN",
-      "url": "https://www.cnn.com/2024/07/08/politics/donald-trump-vp-convention-planning/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2159107468.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Bhavika Rathore",
-      "content": "After a visible dull first half of the year for the theatres and film industry, things have started to look bright again. Despicable Me 4 was released on the evening before the Fourth of July. The fi\u2026 [+2478 chars]",
-      "description": "Despicable Me 4 crossed the $120 million mark at the US box office after the commercial success of Inside Out 2. | Hollywood",
-      "publishedAt": "2024-07-08T08:55:49Z",
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "title": "Despicable Me 4 sets US box office on fire, rakes in millions within 5 days of its release - Hindustan Times",
-      "url": "https://www.hindustantimes.com/entertainment/hollywood/despicable-me-4-sets-us-box-office-on-fire-rakes-in-millions-within-5-days-of-its-release-101720427571906.html",
-      "urlToImage": "https://images.hindustantimes.com/img/2024/07/08/1600x900/despicable-me-4_1706628926850_1720427694334.jpg"
-    },
-    {
-      "author": "Axios",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-08T08:31:08Z",
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "title": "Biden's team faces a tough, pivotal week in D.C. - Axios",
-      "url": "https://www.axios.com/2024/07/08/biden-braces-tough-week-dc-campaign-2024",
-      "urlToImage": null
-    },
-    {
-      "author": "JON GAMBRELL",
-      "content": "DUBAI, United Arab Emirates (AP) Several officials in the Middle East and the U.S. believe the level of devastation in the Gaza Strip caused by a nine-month Israeli offensive likely has helped push H\u2026 [+6622 chars]",
-      "description": "Several officials in the Middle East and the U.S. believe the level of devastation in the Gaza Strip caused by a nine-month Israeli offensive likely has helped push Hamas to soften its demands for a cease-fire agreement. Hamas over the weekend appeared to dro\u2026",
-      "publishedAt": "2024-07-08T07:32:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Gaza destruction likely helped push Hamas to soften cease-fire demands, several officials say - The Associated Press",
-      "url": "https://apnews.com/article/israel-hamas-ceasefire-deal-gaza-war-a8b9cc1aeebf6471cd8ef9e7198cddf3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/6a0e028/2147483647/strip/true/crop/6720x3780+0+350/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F4b%2F1259633a4f80e3f0b1910614de45%2Fee39fbf0afc04a7a9a9776f27b6038d6"
-    },
-    {
-      "author": "Landon Mion",
-      "content": "Boeing has agreed to plead guilty to a criminal fraud conspiracy charge to avoid a criminal trial in connection with a Justice Department investigation into two deadly crashes involving 737 MAX jetli\u2026 [+4464 chars]",
-      "description": "Boeing has agreed to plead guilty to a criminal fraud conspiracy charge in order to avoid a criminal trial related to two deadly crashes involving 737 MAX jetliners.",
-      "publishedAt": "2024-07-08T07:11:00Z",
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "title": "Boeing agrees to plea deal to avoid criminal trial over deadly 737 Max crashes - Fox Business",
-      "url": "https://www.foxbusiness.com/fox-news-crime/boeing-agrees-plea-deal-avoid-criminal-trial-deadly-737-max-crashes",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Boeing-Renton.jpg?ve=1&tl=1"
-    },
-    {
-      "author": "TOI Entertainment Desk",
-      "content": null,
-      "description": "Brad Pitt and his girlfriend Ines de Ramon make their first public appearance at the British Grand Prix after the release of the 'F1' trailer. Learn more about their relationship and the upcoming movie.",
-      "publishedAt": "2024-07-08T07:11:00Z",
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "title": "Brad Pitt and Ines de Ramon go public with romance at British Grand Prix after 'F1' tailer launch - Pics - TOI Etimes",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-ines-de-ramon-go-public-with-romance-at-british-grand-prix-after-f1-trailer-launch/articleshow/111570409.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111571590,width-1070,height-580,imgsize-36710,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
     }
   ],
   "status": "ok",
