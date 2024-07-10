@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Samuel Axon",
+      "description": "European iOS users will see the alternative app store launch sometime soon.",
+      "publishedAt": "2024-07-08T21:30:16+00:00",
+      "title": "After two rejections, Apple approves Epic Games Store app for iOS",
+      "url": "https://arstechnica.com/gadgets/2024/07/report-apple-approves-epic-games-store-on-ios-in-europe/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/Tim_Sweeney_01-640x215.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"I can be that witch again.\"",
+      "publishedAt": "2024-07-08T19:38:21+00:00",
+      "title": "Kathryn Hahn is ready to walk the Witch\u2019s Road in Agatha All Along trailer",
+      "url": "https://arstechnica.com/culture/2024/07/kathryn-hahn-is-ready-to-walk-the-witchs-road-in-agatha-all-along-trailer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/agatha1-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "CDK outage likely slumped June auto sales, may have cost more than $600M.",
+      "publishedAt": "2024-07-08T18:57:46+00:00",
+      "title": "Massive car dealer ransom attack is mostly over after 2 weeks of work-arounds",
+      "url": "https://arstechnica.com/cars/2024/07/massive-car-dealer-ransom-attack-is-mostly-over-after-2-weeks-of-work-arounds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2158517771-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Without updates or ability to download after August, app will become useless.",
+      "publishedAt": "2024-07-08T18:47:18+00:00",
+      "title": "\u201cImmensely disappointing\u201d: Nike killing app for $350 self-tying sneakers",
+      "url": "https://arstechnica.com/gadgets/2024/07/immensely-disappointing-nike-killing-app-for-350-self-tying-sneakers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Sneaker-760x380.webp"
+    },
+    {
+      "author": "Craig Silverman, ProPublica",
+      "description": "The Cyber Safety Review Board missed an opportunity to prevent future attacks, experts say.",
+      "publishedAt": "2024-07-08T17:52:09+00:00",
+      "title": "The president ordered a board to probe a massive Russian cyberattack. It never did.",
+      "url": "https://www.propublica.org/article/cyber-safety-board-never-investigated-solarwinds-breach-microsoft?utm_source=comms&utm_medium=email&utm_campaign=comms",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2155255674-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Legal options limited to stop fake TikTok accounts harming teachers, school says.",
+      "publishedAt": "2024-07-08T17:27:21+00:00",
+      "title": "First-known TikTok mob attack led by middle schoolers tormenting teachers",
+      "url": "https://arstechnica.com/tech-policy/2024/07/middle-schoolers-lash-out-at-20-teachers-with-disturbing-fake-tiktok-accounts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1461453261-760x380.jpg"
+    },
+    {
       "author": "Andrew Cunningham",
       "description": "It's still bare-bones by most standards, but Notepad has evolved a lot recently.",
       "publishedAt": "2024-07-08T16:49:56+00:00",
@@ -31,54 +79,6 @@
       "title": "Brad Pitt stages a Formula One racing comeback in first teaser for F1",
       "url": "https://arstechnica.com/culture/2024/07/brad-pitt-stages-a-formula-one-racing-comeback-in-first-teaser-for-f1/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/racing1-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "The Sex Education actor brings sparkling energy, charisma, and superb style to the role",
-      "publishedAt": "2024-07-07T13:31:26+00:00",
-      "title": "Review: Catching up with Doctor Who and Ncuti Gatwa\u2019s stellar freshman season",
-      "url": "https://arstechnica.com/?p=2034205",
-      "urlToImage": null
-    },
-    {
-      "author": "Bethan Davies, The Conversation",
-      "description": "As the plateau of the icefield thins, ice and snow reserves at higher altitudes are lost.",
-      "publishedAt": "2024-07-07T11:07:47+00:00",
-      "title": "Alaska\u2019s top-heavy glaciers are approaching an irreversible tipping\u00a0point",
-      "url": "https://theconversation.com/alaskas-top-heavy-glaciers-are-approaching-an-irreversible-tipping-point-233811",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-539658937-760x380.jpg"
-    },
-    {
-      "author": "Jeanne Timmons",
-      "description": "50 years of excavation unveiled the story of a catastrophic event and its aftermath.",
-      "publishedAt": "2024-07-07T11:00:17+00:00",
-      "title": "The Yellowstone supervolcano destroyed an ecosystem but saved it for us",
-      "url": "https://arstechnica.com/science/2024/07/the-pompeii-of-paleontology-preserves-a-time-when-rhinos-roamed-nebraska/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/c8f435df-a1e4-4812-b462-51191fab6ae2-760x380.jpg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Men, women, and immigrants all seemed to have similar dietary inputs.",
-      "publishedAt": "2024-07-06T11:18:00+00:00",
-      "title": "Egalitarian oddity found in the Neolithic",
-      "url": "https://arstechnica.com/science/2024/07/egalitarian-oddity-found-in-the-neolithic/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-4-760x380.jpeg"
-    },
-    {
-      "author": "Nicola Jones, Knowable Magazine",
-      "description": "We need new fuels as society moves away from coal, natural gas and oil.",
-      "publishedAt": "2024-07-06T11:06:08+00:00",
-      "title": "The greening of planes, trains, and automobiles",
-      "url": "https://knowablemagazine.org/content/article/technology/2024/decarbonization-of-transportation-predictions",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-961421364-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "The all-private Polaris Dawn spacewalk mission is set for launch no earlier than July 31.",
-      "publishedAt": "2024-07-05T22:14:22+00:00",
-      "title": "Rocket Report: Firefly delivers for NASA; Polaris Dawn launching this month",
-      "url": "https://arstechnica.com/?p=2035341",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
