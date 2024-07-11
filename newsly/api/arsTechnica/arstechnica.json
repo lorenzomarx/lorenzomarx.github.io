@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Pharmacy benefit managers (PBMs) are key part of US's high drug costs, report finds.",
+      "publishedAt": "2024-07-09T21:53:26+00:00",
+      "title": "Drug middlemen inflate US prices, squeeze out competition, FTC says",
+      "url": "https://arstechnica.com/tech-policy/2024/07/ftc-blasts-drug-middlemen-for-inflating-costs-squeezing-pharmacies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2153111897-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Rumors of a touchscreen HomePod stretch back to 2021.",
+      "publishedAt": "2024-07-09T20:50:26+00:00",
+      "title": "Testers unearth touchscreen UI in tvOS beta, signs point to a touchscreen HomePod",
+      "url": "https://arstechnica.com/gadgets/2024/07/testers-unearth-touchscreen-ui-in-tvos-beta-signs-point-to-a-touchscreen-homepod/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/tvos-17-02-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "It's pretty weird to use something I've written about in the abstract for so long.",
+      "publishedAt": "2024-07-09T20:32:35+00:00",
+      "title": "Beryl is just the latest disaster to strike the energy capital of the world",
+      "url": "https://arstechnica.com/science/2024/07/well-houston-just-rode-out-hurricane-beryl-and-let-me-tell-you-it-blew/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/starlink-1-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Error-correcting a quantum computer can mean processing 100TB every second.",
+      "publishedAt": "2024-07-09T19:09:54+00:00",
+      "title": "Why every quantum computer will need a powerful classical computer",
+      "url": "https://arstechnica.com/science/2024/07/why-every-quantum-computer-will-need-a-powerful-classical-computer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1743404844-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Ubiquitous RADIUS scheme uses homegrown authentication based on MD5. Yup, you heard right.",
+      "publishedAt": "2024-07-09T19:02:38+00:00",
+      "title": "New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere",
+      "url": "https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/system-hacked-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "All it took was a reverse-engineered camera firmware and a custom API rewrite.",
       "publishedAt": "2024-07-09T17:27:24+00:00",
@@ -39,46 +79,6 @@
       "title": "New weight-loss and diabetes drugs linked to lower risk of 10 cancers",
       "url": "https://arstechnica.com/science/2024/07/new-weight-loss-and-diabetes-drugs-linked-to-lower-risk-of-10-cancers/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2158519129-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "The HP 200LX included a mysterious maze game called Lair of Squid. We tracked down the author.",
-      "publishedAt": "2024-07-09T15:05:05+00:00",
-      "title": "Why 1994\u2019s Lair of Squid was the weirdest pack-in game of all time",
-      "url": "https://arstechnica.com/gaming/2024/07/how-i-found-a-forgotten-squid-based-ode-to-doom-on-a-1994-palmtop-pc/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/lair-of-squid-jump-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "The game's \"next-gen update\" threatened to upend years of work on the \"DLC-sized\" mod.",
-      "publishedAt": "2024-07-09T14:23:28+00:00",
-      "title": "Fallout: London devs will \u201cdowngrade\u201d Fallout 4 to save their massive mod",
-      "url": "https://arstechnica.com/gaming/2024/07/fallout-london-devs-will-downgrade-fallout-4-to-save-their-massive-mod/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Islington_6-760x380.png"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Bill and Ted co-creator Ed Solomon joins physicists Sean Carroll and Jim Kakalios",
-      "publishedAt": "2024-07-09T13:00:21+00:00",
-      "title": "Ars Live: Join us TODAY for a lively discussion on time travel in the movies",
-      "url": "https://arstechnica.com/culture/2024/07/ars-live-join-us-july-9-for-a-lively-discussion-on-time-travel-in-the-movies/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/movies-and-time-travel-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"One of the main innovations on the launcher is the upper stage.\"",
-      "publishedAt": "2024-07-09T12:54:11+00:00",
-      "title": "Europe\u2019s long-delayed flagship rocket is about to launch for the first time",
-      "url": "https://arstechnica.com/space/2024/07/europes-long-delayed-flagship-rocket-is-about-to-launch-for-the-first-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Ariane_6_rests_the_day_before_launch_pillars-760x380.jpg"
-    },
-    {
-      "author": "Victoria St. Martin, Inside Climate News",
-      "description": "Multnomah County's heat dome conditions killed 69 people in 2021.",
-      "publishedAt": "2024-07-09T11:15:38+00:00",
-      "title": "Oregon county seeks to hold fossil fuel companies accountable for extreme heat",
-      "url": "https://insideclimatenews.org/news/08072024/multnomah-county-oregon-lawsuit-against-fossil-fuel-industry-for-heat-dome/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1233709293-760x380.jpg"
     }
   ],
   "sortBy": "top",
