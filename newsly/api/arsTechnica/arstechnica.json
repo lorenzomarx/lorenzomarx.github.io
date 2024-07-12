@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "Abstract analysis that is trivial for humans often stymies GPT-4o, Gemini, and Sonnet.",
+      "publishedAt": "2024-07-11T16:35:34+00:00",
+      "title": "Can you do better than top-level AI models on these basic vision tests?",
+      "url": "https://arstechnica.com/ai/2024/07/can-you-do-better-than-top-level-ai-models-on-these-basic-vision-tests/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1283438928-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Arm \"Accuracy Super Resolution\" is optimized for power use and integrated GPUs.",
+      "publishedAt": "2024-07-11T16:22:34+00:00",
+      "title": "Arm tweaks AMD\u2019s FSR to bring battery-saving GPU upscaling to phones and tablets",
+      "url": "https://arstechnica.com/gaming/2024/07/arm-gets-into-graphics-upscaling-promises-up-to-1-5x-faster-gpu-performance/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/night_quarter_arm_asr_x2-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "iPhone users will get more choices to make \"touch-and-go\" payments in the EU.",
+      "publishedAt": "2024-07-11T15:47:55+00:00",
+      "title": "Apple settles EU probe by opening up its mobile payments system",
+      "url": "https://arstechnica.com/tech-policy/2024/07/apple-will-soon-allow-rival-wallets-to-replace-apple-pay-as-default-in-eu/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1440372146-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Intuit CEO: \"Companies that aren\u2019t prepared to take advantage of [AI] will fall behind.\"",
+      "publishedAt": "2024-07-11T15:37:36+00:00",
+      "title": "Intuit\u2019s AI gamble: Mass layoff of 1,800 paired with hiring spree",
+      "url": "https://arstechnica.com/information-technology/2024/07/intuits-ai-gamble-mass-layoff-of-1800-paired-with-hiring-spree/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/intuit_header-760x380.jpg"
+    },
+    {
+      "author": "Natasha Gilbert, Knowable Magazine",
+      "description": "The technologies are useful tools but have yet to move us away from fossil fuels.",
+      "publishedAt": "2024-07-11T11:11:13+00:00",
+      "title": "To help with climate change, carbon capture will have to evolve",
+      "url": "https://knowablemagazine.org/content/article/society/2024/carbon-capture-use-storage-role-slowing-climate-change",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1392295686-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\u201cWhat we want to know is that the thrusters can perform,\" Starliner's pilot says.",
       "publishedAt": "2024-07-11T00:30:12+00:00",
@@ -39,46 +79,6 @@
       "title": "Republicans angry that ISPs receiving US grants must offer low-cost plans",
       "url": "https://arstechnica.com/tech-policy/2024/07/republicans-fight-plan-to-require-low-cost-broadband-service/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-us-broadband-map-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple has said some features will be available to test \"this summer.\"",
-      "publishedAt": "2024-07-10T18:53:33+00:00",
-      "title": "Three betas in, iOS 18 testers still can\u2019t try out Apple Intelligence features",
-      "url": "https://arstechnica.com/gadgets/2024/07/three-betas-in-ios-18-testers-still-cant-try-out-apple-intelligence-features/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-13.19.31-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Because I'm tall enough, I'm orange enough, and doggone it, Senators like me.",
-      "publishedAt": "2024-07-10T18:32:28+00:00",
-      "title": "Congress apparently feels a need for \u201creaffirmation\u201d of SLS rocket",
-      "url": "https://arstechnica.com/?p=2036101",
-      "urlToImage": null
-    },
-    {
-      "author": "John Timmer",
-      "description": "Fast-moving stars imply that there's an intermediate-mass black hole there.",
-      "publishedAt": "2024-07-10T18:20:53+00:00",
-      "title": "Nearby star cluster houses unusually large black hole",
-      "url": "https://arstechnica.com/science/2024/07/nearby-star-cluster-houses-unusually-large-black-hole/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-760x380.png"
-    },
-    {
-      "author": "Michael Acton and Tim Bradshaw, Financial Times",
-      "description": "The acquisition is the largest of its kind in Europe in a decade.",
-      "publishedAt": "2024-07-10T17:19:47+00:00",
-      "title": "In bid to loosen Nvidia\u2019s grip on AI, AMD to buy Finnish startup for $665M",
-      "url": "https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1230723421-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Takata airbags and problematic sensors lead to recall across four car brands.",
-      "publishedAt": "2024-07-10T17:08:52+00:00",
-      "title": "Airbag problems force massive recalls at Alfa Romeo, BMW, Fiat, and Jeep",
-      "url": "https://arstechnica.com/cars/2024/07/bmw-stellantis-to-recall-more-than-700000-cars-due-to-airbag-problems/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-621111664-760x380.jpg"
     }
   ],
   "sortBy": "top",
