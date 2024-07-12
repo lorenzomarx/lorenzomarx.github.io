@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Samuel Axon",
+      "description": "Opinion: Games that were popular in 2011 or even 2022 won't move the needle for Apple.",
+      "publishedAt": "2024-07-10T21:56:52+00:00",
+      "title": "Latest Apple Arcade additions show Apple is looking backward, not forward",
+      "url": "https://arstechnica.com/gaming/2024/07/indie-hit-vampire-survivors-lands-on-apple-arcade-with-the-ads-stripped-out/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/vampiresurvivors-760x380.png"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "The goal of the exploits was to open Explorer and trick targets into running malicious code.",
+      "publishedAt": "2024-07-10T21:44:12+00:00",
+      "title": "Threat actors exploited Windows 0-day for more than a year before Microsoft fixed it",
+      "url": "https://arstechnica.com/security/2024/07/threat-actors-exploited-windows-0-day-for-more-than-a-year-before-microsoft-fixed-it/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/malware-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Teens ordered to attend classes on sex education and responsible use of AI.",
+      "publishedAt": "2024-07-10T20:31:39+00:00",
+      "title": "Court ordered penalties for 15 teens who created naked AI images of classmates",
+      "url": "https://arstechnica.com/tech-policy/2024/07/court-ordered-penalties-for-15-teens-who-created-naked-ai-images-of-classmates/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1493526669-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Law requires grantees to offer low-cost plans. GOP calls it \"rate regulation.\"",
+      "publishedAt": "2024-07-10T20:19:55+00:00",
+      "title": "Republicans angry that ISPs receiving US grants must offer low-cost plans",
+      "url": "https://arstechnica.com/tech-policy/2024/07/republicans-fight-plan-to-require-low-cost-broadband-service/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-us-broadband-map-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Apple has said some features will be available to test \"this summer.\"",
+      "publishedAt": "2024-07-10T18:53:33+00:00",
+      "title": "Three betas in, iOS 18 testers still can\u2019t try out Apple Intelligence features",
+      "url": "https://arstechnica.com/gadgets/2024/07/three-betas-in-ios-18-testers-still-cant-try-out-apple-intelligence-features/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-13.19.31-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "Because I'm tall enough, I'm orange enough, and doggone it, Senators like me.",
+      "publishedAt": "2024-07-10T18:32:28+00:00",
+      "title": "Congress apparently feels a need for \u201creaffirmation\u201d of SLS rocket",
+      "url": "https://arstechnica.com/?p=2036101",
+      "urlToImage": null
+    },
+    {
+      "author": "John Timmer",
+      "description": "Fast-moving stars imply that there's an intermediate-mass black hole there.",
+      "publishedAt": "2024-07-10T18:20:53+00:00",
+      "title": "Nearby star cluster houses unusually large black hole",
+      "url": "https://arstechnica.com/science/2024/07/nearby-star-cluster-houses-unusually-large-black-hole/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-760x380.png"
+    },
+    {
       "author": "Michael Acton and Tim Bradshaw, Financial Times",
       "description": "The acquisition is the largest of its kind in Europe in a decade.",
       "publishedAt": "2024-07-10T17:19:47+00:00",
@@ -23,62 +79,6 @@
       "title": "Elon Musk beats one lawsuit seeking severance for laid-off Twitter employees",
       "url": "https://arstechnica.com/tech-policy/2024/07/elon-musk-defeats-one-twitter-severance-lawsuit-but-its-not-the-last-one/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-x-headquarters-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Users want Amazon held accountable for hiding cheaper items with faster delivery.",
-      "publishedAt": "2024-07-10T16:17:04+00:00",
-      "title": "Users must prove Amazon ripped them off to revive Buy Box rigging suit",
-      "url": "https://arstechnica.com/tech-policy/2024/07/amazon-buy-box-rigging-suit-dismissed-after-users-failed-to-show-receipts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1360941195-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Launch day access to first-party titles now restricted to $19.99/month \"Ultimate\" tier.",
-      "publishedAt": "2024-07-10T16:04:32+00:00",
-      "title": "Microsoft asks many Game Pass subscribers to pay more for less",
-      "url": "https://arstechnica.com/gaming/2024/07/microsoft-asks-many-game-pass-subscribers-to-pay-more-for-less/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-71418271-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Microsoft gives up non-voting observer board role; Apple rethinks a planned similar position.",
-      "publishedAt": "2024-07-10T15:17:38+00:00",
-      "title": "OpenAI board shakeup: Microsoft out, Apple backs away amid AI partnership scrutiny",
-      "url": "https://arstechnica.com/information-technology/2024/07/openai-board-shakeup-microsoft-out-apple-backs-away-amid-ai-partnership-scrutiny/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/openai_microsoft_3-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Samsung's spec-bump products get coated in Galaxy AI lacquer for their showing.",
-      "publishedAt": "2024-07-10T14:59:30+00:00",
-      "title": "Galaxy Z Fold & Z Flip 6, Watch Ultra, and new Ring are Samsung\u2019s AI carriers",
-      "url": "https://arstechnica.com/gadgets/2024/07/the-galaxy-z-fold-flip-6-are-not-as-exciting-to-samsung-as-galaxy-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/fold_and_flip-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"I hope you now are happy. History will judge all of you guys.\"",
-      "publishedAt": "2024-07-10T13:09:59+00:00",
-      "title": "Feds who forced Ukrainian investor to sell rocket company backtrack years later",
-      "url": "https://arstechnica.com/space/2024/07/feds-who-forced-ukrainian-investor-to-sell-rocket-company-backtrack-years-later/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/02/pic-directors-760x380.jpg"
-    },
-    {
-      "author": "David Gilbert, WIRED.com",
-      "description": "A fake article about Volodymyr Zelensky\u2019s wife buying a Bugatti with US aid was promoted by bots.",
-      "publishedAt": "2024-07-10T11:10:29+00:00",
-      "title": "How disinformation from a Russian AI spam farm ended up on top of Google search results",
-      "url": "https://www.wired.com/story/ai-generated-russian-disinformation-zelensky-bugatti/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2157106173-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Physicists drew on statistical techniques used to analyze gravitational waves.",
-      "publishedAt": "2024-07-10T11:05:46+00:00",
-      "title": "New Antikythera mechanism analysis challenges century-old assumption",
-      "url": "https://arstechnica.com/science/2024/07/antikythera-mechanisms-calendar-ring-likely-tracked-the-lunar-calendar/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/antikytheraA-760x380.jpg"
     }
   ],
   "sortBy": "top",
