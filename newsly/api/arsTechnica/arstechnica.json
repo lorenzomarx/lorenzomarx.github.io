@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Brothers Jacob and Tibu braved hungry hippos and crocodiles to make the crossing.",
+      "publishedAt": "2024-07-11T22:02:41+00:00",
+      "title": "Lion brothers in search of mates just set a record for longest known swim",
+      "url": "https://arstechnica.com/science/2024/07/these-african-lions-swam-a-record-breaking-1-5-km-to-find-a-mate/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/lion1-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Influencer platform's controversial contest awarded prizes to three nonexistent people.",
+      "publishedAt": "2024-07-11T21:45:20+00:00",
+      "title": "First \u201cMiss AI\u201d contest sparks ire for pushing unrealistic beauty standards",
+      "url": "https://arstechnica.com/information-technology/2024/07/first-miss-ai-contest-sparks-ire-for-pushing-unrealistic-beauty-standards/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/ai_beauty_pageant_winner-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Congress accused advertisers group of colluding to tank X's revenue.",
+      "publishedAt": "2024-07-11T21:28:00+00:00",
+      "title": "Elon Musk calls for \u201ccriminal prosecution\u201d of X ad boycott perpetrators",
+      "url": "https://arstechnica.com/tech-policy/2024/07/elon-musk-calls-for-criminal-prosecution-of-x-ad-boycott-perpetrators/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2151277790-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "This doesn't just threaten writers' work\u2014it has a corrosive effect on the web.",
+      "publishedAt": "2024-07-11T21:07:48+00:00",
+      "title": "Shady company relaunches popular old tech blogs, steals writers\u2019 identities",
+      "url": "https://arstechnica.com/ai/2024/07/ilounge-and-the-unofficial-apple-weblog-are-back-as-unethical-ai-content-farms/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/fake-ai-writer-mask-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Based on past attacks, It wouldn\u2019t be surprising to see active targeting this time too.",
+      "publishedAt": "2024-07-11T20:47:26+00:00",
+      "title": "Exim vulnerability affecting 1.5 million servers lets attackers attach malicious files",
+      "url": "https://arstechnica.com/security/2024/07/more-than-1-5-million-email-servers-running-exim-vulnerable-to-critical-attacks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "Found after its kind were thought extinct, and where it was thought to be too cold.",
+      "publishedAt": "2024-07-11T20:00:08+00:00",
+      "title": "Giant salamander species found in what was thought to be an icy ecosystem",
+      "url": "https://arstechnica.com/science/2024/07/giant-salamander-fossils-show-early-tetrapods-survived-longer-than-expected/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-5-760x380.jpeg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "You don't know what you've got till it's gone.",
+      "publishedAt": "2024-07-11T19:13:08+00:00",
+      "title": "DVDs are dying right as streaming has made them appealing again",
+      "url": "https://arstechnica.com/gadgets/2024/07/dvds-are-dying-right-as-streaming-has-made-them-appealing-again/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2160126739-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Features as small as 50 nanometers preserved in a 50,000-year-old sample.",
+      "publishedAt": "2024-07-11T17:58:34+00:00",
+      "title": "Frozen mammoth skin retained its chromosome structure",
+      "url": "https://arstechnica.com/science/2024/07/frozen-mammoth-skin-retained-its-chromosome-structure/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1527432247-760x380.jpg"
+    },
+    {
       "author": "Kyle Orland",
       "description": "Abstract analysis that is trivial for humans often stymies GPT-4o, Gemini, and Sonnet.",
       "publishedAt": "2024-07-11T16:35:34+00:00",
@@ -15,70 +79,6 @@
       "title": "Arm tweaks AMD\u2019s FSR to bring battery-saving GPU upscaling to phones and tablets",
       "url": "https://arstechnica.com/gaming/2024/07/arm-gets-into-graphics-upscaling-promises-up-to-1-5x-faster-gpu-performance/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/night_quarter_arm_asr_x2-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "iPhone users will get more choices to make \"touch-and-go\" payments in the EU.",
-      "publishedAt": "2024-07-11T15:47:55+00:00",
-      "title": "Apple settles EU probe by opening up its mobile payments system",
-      "url": "https://arstechnica.com/tech-policy/2024/07/apple-will-soon-allow-rival-wallets-to-replace-apple-pay-as-default-in-eu/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1440372146-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Intuit CEO: \"Companies that aren\u2019t prepared to take advantage of [AI] will fall behind.\"",
-      "publishedAt": "2024-07-11T15:37:36+00:00",
-      "title": "Intuit\u2019s AI gamble: Mass layoff of 1,800 paired with hiring spree",
-      "url": "https://arstechnica.com/information-technology/2024/07/intuits-ai-gamble-mass-layoff-of-1800-paired-with-hiring-spree/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/intuit_header-760x380.jpg"
-    },
-    {
-      "author": "Natasha Gilbert, Knowable Magazine",
-      "description": "The technologies are useful tools but have yet to move us away from fossil fuels.",
-      "publishedAt": "2024-07-11T11:11:13+00:00",
-      "title": "To help with climate change, carbon capture will have to evolve",
-      "url": "https://knowablemagazine.org/content/article/society/2024/carbon-capture-use-storage-role-slowing-climate-change",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1392295686-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\u201cWhat we want to know is that the thrusters can perform,\" Starliner's pilot says.",
-      "publishedAt": "2024-07-11T00:30:12+00:00",
-      "title": "NASA update on Starliner thruster issues: This is fine",
-      "url": "https://arstechnica.com/space/2024/07/starliner-still-doesnt-have-a-return-date-as-nasa-tests-overheating-thrusters/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/53774161340_6f1e6d6570_5k-2-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Opinion: Games that were popular in 2011 or even 2022 won't move the needle for Apple.",
-      "publishedAt": "2024-07-10T21:56:52+00:00",
-      "title": "Latest Apple Arcade additions show Apple is looking backward, not forward",
-      "url": "https://arstechnica.com/gaming/2024/07/indie-hit-vampire-survivors-lands-on-apple-arcade-with-the-ads-stripped-out/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/vampiresurvivors-760x380.png"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "The goal of the exploits was to open Explorer and trick targets into running malicious code.",
-      "publishedAt": "2024-07-10T21:44:12+00:00",
-      "title": "Threat actors exploited Windows 0-day for more than a year before Microsoft fixed it",
-      "url": "https://arstechnica.com/security/2024/07/threat-actors-exploited-windows-0-day-for-more-than-a-year-before-microsoft-fixed-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/malware-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Teens ordered to attend classes on sex education and responsible use of AI.",
-      "publishedAt": "2024-07-10T20:31:39+00:00",
-      "title": "Court ordered penalties for 15 teens who created naked AI images of classmates",
-      "url": "https://arstechnica.com/tech-policy/2024/07/court-ordered-penalties-for-15-teens-who-created-naked-ai-images-of-classmates/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1493526669-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Law requires grantees to offer low-cost plans. GOP calls it \"rate regulation.\"",
-      "publishedAt": "2024-07-10T20:19:55+00:00",
-      "title": "Republicans angry that ISPs receiving US grants must offer low-cost plans",
-      "url": "https://arstechnica.com/tech-policy/2024/07/republicans-fight-plan-to-require-low-cost-broadband-service/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-us-broadband-map-760x380.jpg"
     }
   ],
   "sortBy": "top",
