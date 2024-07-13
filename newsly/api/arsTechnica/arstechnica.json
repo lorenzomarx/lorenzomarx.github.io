@@ -1,8 +1,72 @@
 {
   "articles": [
     {
+      "author": "Michael Acton and Tim Bradshaw, Financial Times",
+      "description": "Apple struggles to attract content from developers for its $3,500 headset.",
+      "publishedAt": "2024-07-12T16:40:54+00:00",
+      "title": "New app releases for Apple Vision Pro have fallen dramatically since launch",
+      "url": "https://www.ft.com/content/d43cdae5-7d8c-4acf-b398-edfc8063a096",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/vision_pro_top-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "There are quite a few familiar characters from 2008's The Incredible Hulk.",
+      "publishedAt": "2024-07-12T16:13:09+00:00",
+      "title": "Captain America: Brave New World teaser introduces Red Hulk to the MCU",
+      "url": "https://arstechnica.com/culture/2024/07/anthony-mackie-wields-the-shield-in-captain-america-brave-new-world-teaser/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/brave8-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Daisy-chain tiny boards into weather stations, game controllers, and way more.",
+      "publishedAt": "2024-07-12T15:56:37+00:00",
+      "title": "Arduino\u2019s Plug and Make Kit lets your hacking imagination run wild, sans solder",
+      "url": "https://arstechnica.com/gadgets/2024/07/arduinos-plug-and-make-kit-lets-your-hacking-imagination-run-wild-sans-solder/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/AKX00069_10.incontext_2400x1600-760x380.jpeg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Many driver assists do increase safety, but little evidence lane keeping is one.",
+      "publishedAt": "2024-07-12T15:10:45+00:00",
+      "title": "Partial automated driving systems don\u2019t make driving safer, study finds",
+      "url": "https://arstechnica.com/cars/2024/07/partial-automated-driving-systems-dont-make-driving-safer-study-finds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Nissan-ProPILOT-Assist_03-source-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Paid \"verification\" deceives X users and violates Digital Services Act, EU says.",
+      "publishedAt": "2024-07-12T14:52:52+00:00",
+      "title": "Elon Musk\u2019s X faces big EU fines as paid checkmarks are ruled deceptive",
+      "url": "https://arstechnica.com/tech-policy/2024/07/eu-says-elon-musks-paid-verification-deceives-x-users-threatens-big-fines/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/musk-x-checkmark-760x380.jpg"
+    },
+    {
+      "author": "Rupendra Brahambhatt",
+      "description": "A local fossil collector in Morocco found the specimen decades ago.",
+      "publishedAt": "2024-07-12T14:35:14+00:00",
+      "title": "500 million-year-old fossil is the earliest branch of the spider\u2019s lineage",
+      "url": "https://arstechnica.com/science/2024/07/earliest-known-ancestors-of-scorpions-were-tiny-sea-beasts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/fossile-site-web-760x380.jpg"
+    },
+    {
+      "author": "Paul Sutter",
+      "description": "There's no incentive to fix the system, which was never designed to catch fraud anyway.",
+      "publishedAt": "2024-07-12T11:00:41+00:00",
+      "title": "Peer review is essential for science. Unfortunately, it\u2019s broken.",
+      "url": "https://arstechnica.com/science/2024/07/peer-review-is-essential-for-science-unfortunately-its-broken/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/problems-and-perils-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"This powers Europe back into space.\u201d",
+      "publishedAt": "2024-07-12T11:00:30+00:00",
+      "title": "Rocket Report: Chinese firm suffers another failure; Ariane 6 soars in debut",
+      "url": "https://arstechnica.com/space/2024/07/rocket-report-chinese-firm-suffers-another-failure-ariane-6-soars-in-debut/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/71493-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
-      "description": "An investigation into the engine failure could delay SpaceX's upcoming crew launches.",
+      "description": "The Falcon 9 is grounded pending an investigation, possibly delaying upcoming crew flights.",
       "publishedAt": "2024-07-12T08:43:40+00:00",
       "title": "SpaceX\u2019s unmatched streak of perfection with the Falcon 9 rocket is over",
       "url": "https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/",
@@ -15,70 +79,6 @@
       "title": "Scientists built real-life \u201cstillsuit\u201d to recycle astronaut urine on space walks",
       "url": "https://arstechnica.com/science/2024/07/scientists-built-real-life-stillsuit-to-recycle-astronaut-urine-on-space-walks/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/stillsuit1-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Brothers Jacob and Tibu braved hungry hippos and crocodiles to make the crossing.",
-      "publishedAt": "2024-07-11T22:02:41+00:00",
-      "title": "Lion brothers in search of mates just set a record for longest known swim",
-      "url": "https://arstechnica.com/science/2024/07/these-african-lions-swam-a-record-breaking-1-5-km-to-find-a-mate/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/lion1-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Influencer platform's controversial contest awarded prizes to three nonexistent people.",
-      "publishedAt": "2024-07-11T21:45:20+00:00",
-      "title": "First \u201cMiss AI\u201d contest sparks ire for pushing unrealistic beauty standards",
-      "url": "https://arstechnica.com/information-technology/2024/07/first-miss-ai-contest-sparks-ire-for-pushing-unrealistic-beauty-standards/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/ai_beauty_pageant_winner-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Congress accused advertisers group of colluding to tank X's revenue.",
-      "publishedAt": "2024-07-11T21:28:00+00:00",
-      "title": "Elon Musk calls for \u201ccriminal prosecution\u201d of X ad boycott perpetrators",
-      "url": "https://arstechnica.com/tech-policy/2024/07/elon-musk-calls-for-criminal-prosecution-of-x-ad-boycott-perpetrators/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2151277790-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "This doesn't just threaten writers' work\u2014it has a corrosive effect on the web.",
-      "publishedAt": "2024-07-11T21:07:48+00:00",
-      "title": "Shady company relaunches popular old tech blogs, steals writers\u2019 identities",
-      "url": "https://arstechnica.com/ai/2024/07/ilounge-and-the-unofficial-apple-weblog-are-back-as-unethical-ai-content-farms/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/fake-ai-writer-mask-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Based on past attacks, It wouldn\u2019t be surprising to see active targeting this time too.",
-      "publishedAt": "2024-07-11T20:47:26+00:00",
-      "title": "Exim vulnerability affecting 1.5 million servers lets attackers attach malicious files",
-      "url": "https://arstechnica.com/security/2024/07/more-than-1-5-million-email-servers-running-exim-vulnerable-to-critical-attacks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
-    },
-    {
-      "author": "Jacek Krywko",
-      "description": "Found after its kind were thought extinct, and where it was thought to be too cold.",
-      "publishedAt": "2024-07-11T20:00:08+00:00",
-      "title": "Giant salamander species found in what was thought to be an icy ecosystem",
-      "url": "https://arstechnica.com/science/2024/07/giant-salamander-fossils-show-early-tetrapods-survived-longer-than-expected/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-5-760x380.jpeg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "You don't know what you've got till it's gone.",
-      "publishedAt": "2024-07-11T19:13:08+00:00",
-      "title": "DVDs are dying right as streaming has made them appealing again",
-      "url": "https://arstechnica.com/gadgets/2024/07/dvds-are-dying-right-as-streaming-has-made-them-appealing-again/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2160126739-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Features as small as 50 nanometers preserved in a 50,000-year-old sample.",
-      "publishedAt": "2024-07-11T17:58:34+00:00",
-      "title": "Frozen mammoth skin retained its chromosome structure",
-      "url": "https://arstechnica.com/science/2024/07/frozen-mammoth-skin-retained-its-chromosome-structure/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1527432247-760x380.jpg"
     }
   ],
   "sortBy": "top",
