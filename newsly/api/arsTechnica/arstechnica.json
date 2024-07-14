@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Under new classification, Level 2 AI can perform \"human-level problem solving.\"",
+      "publishedAt": "2024-07-12T21:58:05+00:00",
+      "title": "OpenAI reportedly nears breakthrough with \u201creasoning\u201d AI, reveals progress framework",
+      "url": "https://arstechnica.com/information-technology/2024/07/openai-reportedly-nears-breakthrough-with-reasoning-ai-reveals-progress-framework/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/agi_illustration-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Plugging up \"worst-case\" algorithmic holes is proving more difficult than expected.",
+      "publishedAt": "2024-07-12T20:20:31+00:00",
+      "title": "\u201cSuperhuman\u201d Go AIs still have trouble defending against these simple exploits",
+      "url": "https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1257709162-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Four Brandenburg-class F123 warships employ floppies for data-acquisition systems.",
+      "publishedAt": "2024-07-12T19:59:18+00:00",
+      "title": "German Navy still uses 8-inch floppy disks, working on emulating a replacement",
+      "url": "https://arstechnica.com/gadgets/2024/07/german-navy-still-uses-8-inch-floppy-disks-working-on-emulating-a-replacement/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/2048px-Cromemco_8-inch_Floppy_Disk-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"What keeps me awake right now is the uncertainty.\"",
+      "publishedAt": "2024-07-12T19:30:42+00:00",
+      "title": "NASA\u2019s flagship mission to Europa has a problem: Vulnerability to radiation",
+      "url": "https://arstechnica.com/space/2024/07/nasas-flagship-mission-to-europa-has-a-problem-vulnerability-to-radiation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/jpegPIA24321-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Six months of call and text records taken from AT&T workspace on cloud platform.",
+      "publishedAt": "2024-07-12T18:42:27+00:00",
+      "title": "Nearly all AT&T subscribers\u2019 call records stolen in Snowflake cloud hack",
+      "url": "https://arstechnica.com/tech-policy/2024/07/nearly-all-att-subscribers-call-records-stolen-in-snowflake-cloud-hack/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/att-phone-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Neanderthals' low diversity means their population was even smaller than we thought.",
+      "publishedAt": "2024-07-12T18:34:05+00:00",
+      "title": "Much of Neanderthal genetic diversity came from modern humans",
+      "url": "https://arstechnica.com/science/2024/07/much-of-neanderthal-genetic-diversity-came-from-modern-humans/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-606011478-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Other Pocket iterations have stuck to colorful (and cheaper) plastic.",
+      "publishedAt": "2024-07-12T16:55:36+00:00",
+      "title": "$500 aluminum version of the Analogue Pocket looks like the Game Boy\u2019s final form",
+      "url": "https://arstechnica.com/gaming/2024/07/500-aluminum-version-of-the-analogue-pocket-looks-like-the-game-boys-final-form/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/analogue-pocket-metal-760x380.jpg"
+    },
+    {
       "author": "Michael Acton and Tim Bradshaw, Financial Times",
       "description": "Apple struggles to attract content from developers for its $3,500 headset.",
       "publishedAt": "2024-07-12T16:40:54+00:00",
@@ -23,62 +79,6 @@
       "title": "Arduino\u2019s Plug and Make Kit lets your hacking imagination run wild, sans solder",
       "url": "https://arstechnica.com/gadgets/2024/07/arduinos-plug-and-make-kit-lets-your-hacking-imagination-run-wild-sans-solder/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/AKX00069_10.incontext_2400x1600-760x380.jpeg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Many driver assists do increase safety, but little evidence lane keeping is one.",
-      "publishedAt": "2024-07-12T15:10:45+00:00",
-      "title": "Partial automated driving systems don\u2019t make driving safer, study finds",
-      "url": "https://arstechnica.com/cars/2024/07/partial-automated-driving-systems-dont-make-driving-safer-study-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Nissan-ProPILOT-Assist_03-source-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Paid \"verification\" deceives X users and violates Digital Services Act, EU says.",
-      "publishedAt": "2024-07-12T14:52:52+00:00",
-      "title": "Elon Musk\u2019s X faces big EU fines as paid checkmarks are ruled deceptive",
-      "url": "https://arstechnica.com/tech-policy/2024/07/eu-says-elon-musks-paid-verification-deceives-x-users-threatens-big-fines/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/musk-x-checkmark-760x380.jpg"
-    },
-    {
-      "author": "Rupendra Brahambhatt",
-      "description": "A local fossil collector in Morocco found the specimen decades ago.",
-      "publishedAt": "2024-07-12T14:35:14+00:00",
-      "title": "500 million-year-old fossil is the earliest branch of the spider\u2019s lineage",
-      "url": "https://arstechnica.com/science/2024/07/earliest-known-ancestors-of-scorpions-were-tiny-sea-beasts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/fossile-site-web-760x380.jpg"
-    },
-    {
-      "author": "Paul Sutter",
-      "description": "There's no incentive to fix the system, which was never designed to catch fraud anyway.",
-      "publishedAt": "2024-07-12T11:00:41+00:00",
-      "title": "Peer review is essential for science. Unfortunately, it\u2019s broken.",
-      "url": "https://arstechnica.com/science/2024/07/peer-review-is-essential-for-science-unfortunately-its-broken/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/problems-and-perils-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"This powers Europe back into space.\u201d",
-      "publishedAt": "2024-07-12T11:00:30+00:00",
-      "title": "Rocket Report: Chinese firm suffers another failure; Ariane 6 soars in debut",
-      "url": "https://arstechnica.com/space/2024/07/rocket-report-chinese-firm-suffers-another-failure-ariane-6-soars-in-debut/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/71493-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "The Falcon 9 is grounded pending an investigation, possibly delaying upcoming crew flights.",
-      "publishedAt": "2024-07-12T08:43:40+00:00",
-      "title": "SpaceX\u2019s unmatched streak of perfection with the Falcon 9 rocket is over",
-      "url": "https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/f9ice-1-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Prototype would replace multi-layered adult diapers currently worn on space walks.",
-      "publishedAt": "2024-07-12T04:15:35+00:00",
-      "title": "Scientists built real-life \u201cstillsuit\u201d to recycle astronaut urine on space walks",
-      "url": "https://arstechnica.com/science/2024/07/scientists-built-real-life-stillsuit-to-recycle-astronaut-urine-on-space-walks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/stillsuit1-760x380.jpg"
     }
   ],
   "sortBy": "top",
