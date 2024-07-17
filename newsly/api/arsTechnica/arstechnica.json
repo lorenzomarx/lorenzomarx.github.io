@@ -1,76 +1,84 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "SpaceX says a liquid oxygen leak caused the failure of a Falcon 9 launch last week.",
+      "publishedAt": "2024-07-15T22:44:48+00:00",
+      "title": "With Falcon 9 grounded, SpaceX test-fires booster for next Starship flight",
+      "url": "https://arstechnica.com/space/2024/07/with-falcon-9-grounded-spacex-test-fires-booster-for-next-starship-flight/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/booster12-fire-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Apple's public betas are usually stable enough for daily use, but be careful.",
+      "publishedAt": "2024-07-15T20:46:35+00:00",
+      "title": "Apple releases public betas of all next-gen OS updates, except for VisionOS",
+      "url": "https://arstechnica.com/gadgets/2024/07/apple-releases-public-betas-of-all-next-gen-os-updates-except-for-visionos/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/new-2024-apple-update-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Lawsuit: One user's IP address was identified in 4,450 infringement notices.",
+      "publishedAt": "2024-07-15T20:30:51+00:00",
+      "title": "Record labels sue Verizon for not disconnecting pirates\u2019 Internet service",
+      "url": "https://arstechnica.com/tech-policy/2024/07/record-labels-sue-verizon-for-not-disconnecting-pirates-internet-service/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/verizon-fios-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Files available on the open source NPM repository underscore a growing sophistication.",
+      "publishedAt": "2024-07-15T20:18:50+00:00",
+      "title": "Here\u2019s how carefully concealed backdoor in fake AWS files escaped mainstream notice",
+      "url": "https://arstechnica.com/security/2024/07/code-sneaked-into-fake-aws-downloaded-hundreds-of-times-backdoored-dev-devices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/backdoor-760x380.jpeg"
+    },
+    {
+      "author": "Kat Friedrich",
+      "description": "Years of talk have now moved to design studies and hardware in space.",
+      "publishedAt": "2024-07-15T18:46:06+00:00",
+      "title": "Will space-based solar power ever make sense?",
+      "url": "https://arstechnica.com/science/2024/07/will-space-based-solar-power-ever-make-sense/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-157481986-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Amazon's process for inspecting returned items is \"broken,\" consultant says.",
+      "publishedAt": "2024-07-15T17:21:28+00:00",
+      "title": "Dirty diaper resold on Amazon ruined a family business, report says",
+      "url": "https://arstechnica.com/tech-policy/2024/07/dirty-diaper-resold-on-amazon-ruined-a-family-business-report-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1040519060-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Court delays FCC rules until August 5, asks sides for briefs on Brand X.",
+      "publishedAt": "2024-07-15T17:13:51+00:00",
+      "title": "Net neutrality rules temporarily stayed as judges weigh impact of SCOTUS ruling",
+      "url": "https://arstechnica.com/tech-policy/2024/07/net-neutrality-rules-temporarily-stayed-as-judges-weigh-impact-of-scotus-ruling/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-rosenworcel-carr-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Will LLMs keep improving if we throw more compute at them? OpenAI dealmaker thinks so.",
+      "publishedAt": "2024-07-15T17:03:03+00:00",
+      "title": "Microsoft CTO Kevin Scott thinks LLM \u201cscaling laws\u201d will hold despite criticism",
+      "url": "https://arstechnica.com/information-technology/2024/07/microsoft-cto-defies-critics-ai-progress-not-slowing-down-its-just-warming-up/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/kevin_scott-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "UTM SE's lack of JIT compilation means \"SE stands for Slow Edition.\"",
+      "publishedAt": "2024-07-15T15:54:16+00:00",
+      "title": "PC emulator comes to iOS, but Apple\u2019s restrictions hamper performance",
+      "url": "https://arstechnica.com/gaming/2024/07/apples-restrictions-hold-back-the-first-pc-emulator-on-the-ios-app-store/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/utmse-742x380.png"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "China says it's unfair that only EVs made in North America qualify for tax credits.",
       "publishedAt": "2024-07-15T15:32:58+00:00",
       "title": "China tells WTO that US EV subsidies are unfair trade barriers",
       "url": "https://arstechnica.com/cars/2024/07/china-tells-wto-that-us-ev-subsidies-are-unfair-trade-barriers/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1176798717-760x380.jpg"
-    },
-    {
-      "author": "Ivan Levingston, James Fontanella-Khan, and Maria Heeter, FT",
-      "description": "Deal of this size would draw scrutiny from antitrust regulators around the world.",
-      "publishedAt": "2024-07-15T13:55:59+00:00",
-      "title": "Report: Alphabet close to $23 billion deal for cybersecurity startup Wiz",
-      "url": "https://www.ft.com/content/e519abad-3839-494a-8231-1ccb4f363629",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/wiz-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Blood stem cells are being engineered to protect them from lethal therapies.",
-      "publishedAt": "2024-07-15T13:53:40+00:00",
-      "title": "Genetic cloaking of healthy cells opens door to universal blood cancer therapy",
-      "url": "https://arstechnica.com/science/2024/07/genetic-cloaking-of-healthy-cells-opens-door-to-universal-blood-cancer-therapy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Blood-Cancer-Ghosts-760x380.jpg"
-    },
-    {
-      "author": "Tom Siegfried, Knowable Magazine",
-      "description": "Cats twist and snakes slide, exploiting and negotiating physical laws.",
-      "publishedAt": "2024-07-14T11:13:55+00:00",
-      "title": "Animals use physics? Let us count the ways",
-      "url": "https://knowablemagazine.org/content/article/physical-world/2024/how-animals-exploit-and-negotiate-physics",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-856193648-760x380.jpg"
-    },
-    {
-      "author": "Amy Green, Inside Climate News",
-      "description": "The surge is startling scientists, amplifying impacts such as hurricane storm surges.",
-      "publishedAt": "2024-07-13T11:13:11+00:00",
-      "title": "In the South, sea level rise accelerates at some of the most extreme rates on Earth",
-      "url": "https://insideclimatenews.org/news/11072024/florida-sea-level-rise-accelerates-at-extreme-rates/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Jacksonville-Sea-Level-Rise_1407_Credit-Amy-Green-2048x1366-1-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Agreement marks the largest investment in space-based capabilities in NATO\u2019s history.",
-      "publishedAt": "2024-07-13T00:25:36+00:00",
-      "title": "NATO allies pledge $1 billion to promote sharing of space-based intel",
-      "url": "https://arstechnica.com/space/2024/07/nato-allies-pledge-1-billion-to-promote-sharing-of-space-based-intel/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2161389328-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "The strict requirement for two physical keys is now eased when passkeys are used.",
-      "publishedAt": "2024-07-12T22:45:25+00:00",
-      "title": "Google makes it easier for users to switch on advanced account protection",
-      "url": "https://arstechnica.com/security/2024/07/google-makes-it-easier-for-users-to-switch-on-advanced-account-protection/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/multi-factor-authentication-mfa-760x380.jpeg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Five-level AI classification system probably best seen as a marketing exercise.",
-      "publishedAt": "2024-07-12T21:58:05+00:00",
-      "title": "OpenAI reportedly nears breakthrough with \u201creasoning\u201d AI, reveals progress framework",
-      "url": "https://arstechnica.com/information-technology/2024/07/openai-reportedly-nears-breakthrough-with-reasoning-ai-reveals-progress-framework/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/agi_illustration-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Plugging up \"worst-case\" algorithmic holes is proving more difficult than expected.",
-      "publishedAt": "2024-07-12T20:20:31+00:00",
-      "title": "\u201cSuperhuman\u201d Go AIs still have trouble defending against these simple exploits",
-      "url": "https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1257709162-760x380.jpg"
     }
   ],
   "sortBy": "top",
