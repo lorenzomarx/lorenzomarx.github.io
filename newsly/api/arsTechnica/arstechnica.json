@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Ashley Belanger",
+      "description": "Google reportedly didn't want a Microsoft antitrust complaint dropped in the EU.",
+      "publishedAt": "2024-07-16T16:26:41+00:00",
+      "title": "Google\u2019s $500M effort to wreck Microsoft EU cloud deal failed, report says",
+      "url": "https://arstechnica.com/tech-policy/2024/07/googles-500m-effort-to-wreck-microsoft-eu-cloud-deal-failed-report-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2104088942-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "A standard heat pump has made an already-efficient car even more so.",
+      "publishedAt": "2024-07-16T14:17:11+00:00",
+      "title": "The 2025 Lucid Air is now the most efficient EV on sale",
+      "url": "https://arstechnica.com/cars/2024/07/the-2025-lucid-air-is-now-the-most-efficient-ev-on-sale/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/CR24-0346_MY25-PR_Desktop-1-760x380.jpg"
+    },
+    {
+      "author": "Freda Kreier, Undark Magazine",
+      "description": "The New Madrid fault line remains something of an enigma to seismologists.",
+      "publishedAt": "2024-07-16T14:02:57+00:00",
+      "title": "The struggle to understand why earthquakes happen in America\u2019s heartland",
+      "url": "https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/desoto-bridge-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The entry-level Macan starts at $75,300 and goes on sale in Q4 2024.",
+      "publishedAt": "2024-07-16T12:00:57+00:00",
+      "title": "Porsche expands the Macan EV range with two new models",
+      "url": "https://arstechnica.com/cars/2024/07/porsche-expands-the-macan-ev-range-with-two-new-models/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/01_Macan_4S-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "With the end of combustion more than 8 years off, Audi has developed a new platform.",
       "publishedAt": "2024-07-16T09:01:00+00:00",
@@ -20,7 +52,7 @@
       "author": "Andrew Cunningham",
       "description": "Apple's public betas are usually stable enough for daily use, but be careful.",
       "publishedAt": "2024-07-15T20:46:35+00:00",
-      "title": "Apple releases public betas of all next-gen OS updates, except for VisionOS",
+      "title": "Apple releases public betas of all next-gen OS updates, except for visionOS",
       "url": "https://arstechnica.com/gadgets/2024/07/apple-releases-public-betas-of-all-next-gen-os-updates-except-for-visionos/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/new-2024-apple-update-760x380.jpeg"
     },
@@ -47,38 +79,6 @@
       "title": "Will space-based solar power ever make sense?",
       "url": "https://arstechnica.com/science/2024/07/will-space-based-solar-power-ever-make-sense/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-157481986-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Amazon's process for inspecting returned items is \"broken,\" consultant says.",
-      "publishedAt": "2024-07-15T17:21:28+00:00",
-      "title": "Dirty diaper resold on Amazon ruined a family business, report says",
-      "url": "https://arstechnica.com/tech-policy/2024/07/dirty-diaper-resold-on-amazon-ruined-a-family-business-report-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1040519060-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Court delays FCC rules until August 5, asks sides for briefs on Brand X.",
-      "publishedAt": "2024-07-15T17:13:51+00:00",
-      "title": "Net neutrality rules temporarily stayed as judges weigh impact of SCOTUS ruling",
-      "url": "https://arstechnica.com/tech-policy/2024/07/net-neutrality-rules-temporarily-stayed-as-judges-weigh-impact-of-scotus-ruling/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/getty-rosenworcel-carr-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Will LLMs keep improving if we throw more compute at them? OpenAI dealmaker thinks so.",
-      "publishedAt": "2024-07-15T17:03:03+00:00",
-      "title": "Microsoft CTO Kevin Scott thinks LLM \u201cscaling laws\u201d will hold despite criticism",
-      "url": "https://arstechnica.com/information-technology/2024/07/microsoft-cto-defies-critics-ai-progress-not-slowing-down-its-just-warming-up/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/kevin_scott-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "UTM SE's lack of JIT compilation means \"SE stands for Slow Edition.\"",
-      "publishedAt": "2024-07-15T15:54:16+00:00",
-      "title": "PC emulator comes to iOS, but Apple\u2019s restrictions hamper performance",
-      "url": "https://arstechnica.com/gaming/2024/07/apples-restrictions-hold-back-the-first-pc-emulator-on-the-ios-app-store/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/utmse-742x380.png"
     }
   ],
   "sortBy": "top",
