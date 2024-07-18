@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Nick Thompson, Duncan Cooper",
+      "content": "\u201cI didn\u2019t want the pictures to be sexy\u2014that's what erotic photography is about. This is documentary photography.\u201d",
+      "description": "Naomi Harris traveled to sex parties in 38 states, documenting the secret world of partner-swapping in all its weird glory.",
+      "publishedAt": "2024-07-17T14:55:37Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Surreal Photos of Small-Town American Swingers in the 2000s",
+      "url": "https://www.vice.com/en/article/88x3kv/surreal-photos-of-small-town-american-swingers-in-the-2000s",
+      "urlToImage": "https://video-images.vice.com/articles/6697c466a1aa90e6d33e30fe/lede/1721222798243-copy-of-0001.jpeg?image-resize-opts=Y3JvcD0xeHc6MC40MzA3eGg7MHh3LDAuMjc4MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+    },
+    {
       "author": "VICE Staff, Duncan Cooper",
       "content": "Sports fans, still holding up? The weather is as dry as the mid-summer sports calendar, with one major exception: The MLB.\u00a0\r\nBaseball is in a unique era. A golden era? Maybe not quite, but the sport \u2026 [+937 chars]",
       "description": "Just in time for the MLB All-Star Game.",
@@ -548,5 +561,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 42
+  "totalResults": 43
 }

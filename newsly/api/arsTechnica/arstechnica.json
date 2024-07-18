@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "It's a big day for typing in an archaic fashion for the good of syntax.",
+      "publishedAt": "2024-07-17T17:40:04+00:00",
+      "title": "Real, actual Markdown support is arriving in Google Docs, not a moment too soon",
+      "url": "https://arstechnica.com/gadgets/2024/07/real-actual-markdown-support-is-arriving-in-google-docs-not-a-moment-too-soon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/google-docs-markdown-factory-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "High temperatures made it hard for workers to use protective gear during culling.",
+      "publishedAt": "2024-07-17T16:58:50+00:00",
+      "title": "Five people infected as bird flu appears to go from cows to chickens to humans",
+      "url": "https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1404569444-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "The billionaire blamed a California gender identity law for moving SpaceX and X headquarters.",
+      "publishedAt": "2024-07-17T16:03:20+00:00",
+      "title": "Elon Musk says SpaceX and X will relocate their headquarters to Texas",
+      "url": "https://arstechnica.com/space/2024/07/elon-musk-says-spacex-and-x-will-relocate-their-headquarters-to-texas/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2161710127-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "After repealing Biden's AI order, draft would create \"Manhattan Projects\" for military AI.",
+      "publishedAt": "2024-07-17T14:44:26+00:00",
+      "title": "Trump allies want to \u201cMake America First in AI\u201d with sweeping executive order",
+      "url": "https://arstechnica.com/information-technology/2024/07/trump-allies-want-to-make-america-first-in-ai-with-sweeping-executive-order/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/trump_hat-760x380.jpg"
+    },
+    {
+      "author": "David Gilbert, wired.com",
+      "description": "Alternative for Germany-related content returned when searching for other parties.",
+      "publishedAt": "2024-07-17T13:20:34+00:00",
+      "title": "TikTok pushed far-right AfD party on young voters in Germany",
+      "url": "https://www.wired.com/story/tiktok-german-voters-afd/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/getty-tiktok-760x380.jpg"
+    },
+    {
+      "author": "Lee Hutchinson",
+      "description": "On day two of Amazon's summer sale extravaganza, here are the deals we liked.",
+      "publishedAt": "2024-07-17T13:00:38+00:00",
+      "title": "The best summer Prime Day deals we could find for Ars readers",
+      "url": "https://arstechnica.com/shopping/2024/07/the-best-summer-prime-day-deals-we-could-find-for-ars-readers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2161663985-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Ars' leak analysis shows a large \"Games\" department and a very well-paid \"Admin\" team.",
+      "publishedAt": "2024-07-17T11:14:48+00:00",
+      "title": "Valve runs its massive PC gaming ecosystem with only about 350 employees",
+      "url": "https://arstechnica.com/gaming/2024/07/valve-runs-its-massive-pc-gaming-ecosystem-with-only-about-350-employees/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1346370023-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Stolen data includes customer names, addresses, birth dates, and driver's license numbers.",
       "publishedAt": "2024-07-16T22:09:58+00:00",
@@ -23,62 +79,6 @@
       "title": "Former OpenAI researcher\u2019s new company will teach you how to build an LLM",
       "url": "https://arstechnica.com/information-technology/2024/07/former-openai-researchers-new-company-will-teach-you-how-to-build-an-llm/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/teacher_robot-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Once again, EleutherAI's data frustrates professional content creators.",
-      "publishedAt": "2024-07-16T21:23:19+00:00",
-      "title": "YouTube creators surprised to find Apple and others trained AI on their videos",
-      "url": "https://arstechnica.com/ai/2024/07/apple-was-among-the-companies-that-trained-its-ai-on-youtube-videos/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Screenshot-2024-07-16-153158-760x380.png"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Hulu documentary Mastermind: To Think Like a Killer traces career of Dr. Ann Burgess.",
-      "publishedAt": "2024-07-16T21:00:35+00:00",
-      "title": "Meet the woman whose research helped the FBI catch notorious serial killers",
-      "url": "https://arstechnica.com/science/2024/07/meet-the-woman-whose-research-helped-the-fbi-catch-notorious-serial-killers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/mastermind5-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Opinion: Subscribers keep paying more and getting the same.",
-      "publishedAt": "2024-07-16T19:45:25+00:00",
-      "title": "Streaming\u2019s bundling obsession ignores the real problem with subscription costs",
-      "url": "https://arstechnica.com/gadgets/2024/07/streamings-bundling-obsession-ignores-the-real-problem-with-subscription-costs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1142824873-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "UK judge refers Wright to prosecutors, suggests arrest warrant and extradition.",
-      "publishedAt": "2024-07-16T18:58:32+00:00",
-      "title": "Craig Wright\u2019s claim of inventing bitcoin may get him arrested for perjury",
-      "url": "https://arstechnica.com/tech-policy/2024/07/craig-wrights-claim-of-inventing-bitcoin-may-get-him-arrested-for-perjury/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1989693346-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Ryzen 9000 will also have more overclocking headroom, for those interested.",
-      "publishedAt": "2024-07-16T18:44:14+00:00",
-      "title": "AMD brags about Ryzen 9000\u2019s efficiency, extends AM5 support guarantee to 2027",
-      "url": "https://arstechnica.com/gadgets/2024/07/amd-makes-improved-efficiency-a-core-part-of-the-pitch-for-its-ryzen-9000-cpus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/AMD-Ryzen\u2122-9000-Series-4-2-760x380.jpeg"
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "Seismic information now allows us to make a planet-wide estimate of impact rates.",
-      "publishedAt": "2024-07-16T18:32:59+00:00",
-      "title": "Seismic data shows Mars is often pummeled by planet-shaking meteorites",
-      "url": "https://arstechnica.com/science/2024/07/seismic-data-shows-mars-is-often-pummeled-by-planet-shaking-meteorites/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-1-760x380.png"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Developers canceled a beta test\u2014but may have gotten one anyway.",
-      "publishedAt": "2024-07-16T18:07:25+00:00",
-      "title": "Full dev build of Space Marine 2 leaks, and players are already leveling up",
-      "url": "https://arstechnica.com/gaming/2024/07/full-dev-build-of-space-marine-2-leaks-and-players-are-already-leveling-up/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/WARHAMMER-40K_SPACE-MARINE-2_SCREENSHOT_LOGO_1920x1080_01-Large-760x380.jpeg"
     }
   ],
   "sortBy": "top",
