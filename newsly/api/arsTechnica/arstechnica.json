@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "Oddly timed accessory is released as the Switch's life cycle is winding down.",
+      "publishedAt": "2024-07-18T16:45:16+00:00",
+      "title": "Switch 2 is around the corner, but Nintendo announces a new Switch accessory anyway",
+      "url": "https://arstechnica.com/gaming/2024/07/nintendo-waited-until-switch-was-7-years-old-to-release-a-joy-con-charging-stand/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/joy-con-charge1-760x380.jpeg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Aventon's entry into the mountain bike market is good, but not quite low-budget.",
+      "publishedAt": "2024-07-18T16:33:22+00:00",
+      "title": "Aventon, a major e-bike maker, tries its hand with a hardtail",
+      "url": "https://arstechnica.com/cars/2024/07/aventons-ramblas-an-e-bike-that-offers-a-hard-tail-and-a-solid-ride/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/lead_image-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Lower-cost AI language model will be free for ChatGPT users.",
+      "publishedAt": "2024-07-18T15:44:47+00:00",
+      "title": "OpenAI launches GPT-4o mini, which will replace GPT-3.5 in ChatGPT",
+      "url": "https://arstechnica.com/information-technology/2024/07/openai-launches-gpt-4o-mini-which-will-replace-gpt-3-5-in-chatgpt/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/openai_glowing_blue-760x380.jpg"
+    },
+    {
+      "author": "Amanda Hoover, wired.com",
+      "description": "RealPage faces multiple antitrust lawsuits, promises \"The Real Story\" online.",
+      "publishedAt": "2024-07-18T13:46:35+00:00",
+      "title": "Accused of using algorithms to fix rental prices, RealPage goes on offensive",
+      "url": "https://www.wired.com/story/realpage-says-rental-pricing-tech-is-misunderstood-but-landlords-arent-so-sure/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/rent-apt-760x380.jpg"
+    },
+    {
       "author": "Evan Williams",
       "description": "Less power and less weight almost always makes for a better electric vehicle.",
       "publishedAt": "2024-07-18T11:00:16+00:00",
@@ -47,38 +79,6 @@
       "title": "Researchers track individual neurons as they respond to words",
       "url": "https://arstechnica.com/science/2024/07/researchers-track-individual-neurons-as-they-respond-to-words/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-179796957-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "AT&T ditched internal system, stores user call logs on \"trusted\" cloud service.",
-      "publishedAt": "2024-07-17T18:48:06+00:00",
-      "title": "After breach, senators ask why AT&T stores call records on \u201cAI Data Cloud\u201d",
-      "url": "https://arstechnica.com/tech-policy/2024/07/after-breach-senators-ask-why-att-stores-call-records-on-ai-data-cloud/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-att-logo-umbrella-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Bizarre design uses a solar-powered motor that's optimized for weight.",
-      "publishedAt": "2024-07-17T18:40:39+00:00",
-      "title": "Researchers build ultralight drone that flies with onboard solar",
-      "url": "https://arstechnica.com/science/2024/07/researchers-build-ultralight-drone-that-flies-with-onboard-solar/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Screenshot-2024-07-17-at-2.16.57\u202fPM-760x380.png"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Researcher wants legal assurances before releasing his Unfollow Everything tool.",
-      "publishedAt": "2024-07-17T18:27:45+00:00",
-      "title": "Meta tells court it won\u2019t sue over Facebook feed-killing tool\u2014yet",
-      "url": "https://arstechnica.com/tech-policy/2024/07/meta-asks-court-to-toss-half-baked-suit-over-facebook-feed-killing-tool/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2071892278-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Another team built a lithium-ion battery with electrolyte layer that expands by 5,000%.",
-      "publishedAt": "2024-07-17T18:01:48+00:00",
-      "title": "Electric eels inspire novel \u201cjelly\u201d batteries for soft robotics, wearables",
-      "url": "https://arstechnica.com/science/2024/07/electric-eels-inspire-novel-jelly-batteries-for-soft-robotics-wearables/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/battery1-760x380.jpg"
     }
   ],
   "sortBy": "top",
