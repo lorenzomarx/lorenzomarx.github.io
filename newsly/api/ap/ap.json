@@ -1,12 +1,28 @@
 {
   "articles": [
     {
-      "author": "STEVE PEOPLES, JONATHAN J. COOPER and JILL COLVIN",
-      "description": "MILWAUKEE (AP) \u2014 Donald Trump, somber and bandaged, accepted the GOP presidential nomination on Thursday at the Republican National Convention in a speech that described in detail the assassination attempt that could have ended his life just five days earlier before laying out a sweeping populist agenda, particularly on immigration.",
-      "publishedAt": "2024-07-18T11:03:25Z",
-      "title": "Trump urges unity after assassination attempt while proposing sweeping populist agenda in RNC finale",
-      "url": "https://apnews.com/5f1f337ac39477e9d1c53d3e027edda3",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/50babdb13434450884d1e7dd47444251/1920.jpeg"
+      "author": "CHARLOTTE GRAHAM-McLAY and ELAINE KURTENBACH",
+      "description": "WELLINGTON, New Zealand (AP) \u2014 A global technology outage grounded flights, knocked banks and hospital systems offline and media outlets off air on Friday in a massive disruption that affected companies and services around the world and highlighted dependence on software from a handful of providers.",
+      "publishedAt": "2024-07-19T07:34:44Z",
+      "title": "Widespread technology outage disrupts flights, banks, media outlets and companies around the world",
+      "url": "https://apnews.com/0a5f792b6571b37a35181d64028fefc4",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/571181923c514488ba8137e4e1c9dce7/1920.jpeg"
+    },
+    {
+      "author": "The Associated Press",
+      "description": "A major internet outage affecting Microsoft is disrupting flights, banks, media outlets and companies across the world, with problems continuing hours after the technology company said it was gradually fixing an issue affecting access to Microsoft 365 apps and services.",
+      "publishedAt": "2024-07-19T09:57:15Z",
+      "title": "Internet outage latest | Airlines, businesses hit by global technology disruption",
+      "url": "https://apnews.com/f9002b97124a718a392997987d34c51d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/8b953006b354403bb8cec94860bec446/3000.jpeg"
+    },
+    {
+      "author": "GENE JOHNSON, JAKE OFFENHARTZ and RIO YAMAT",
+      "description": "MILWAUKEE (AP) \u2014 For those conservative voters long turned off by former President Donald Trump's rhetoric, his somewhat softened tone in accepting the Republican nomination Thursday night was a welcome relief.",
+      "publishedAt": "2024-07-19T04:53:19Z",
+      "title": "Some GOP voters welcome Trump's somewhat softened tone at Republican National Convention",
+      "url": "https://apnews.com/96d45401f46c61c7b33904dcd306a8d5",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/060c93efc08a42a9bd229b6fbcb409e2/3000.jpeg"
     },
     {
       "author": "LISA MASCARO, ZEKE MILLER, MICHAEL BALSAMO and AAMER MADHANI",
@@ -17,6 +33,22 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/1c880b739b9d48b69c81cfebc5a2c3ed/1920.jpeg"
     },
     {
+      "author": "STEVE PEOPLES, JONATHAN J. COOPER and JILL COLVIN",
+      "description": "MILWAUKEE (AP) \u2014 Donald Trump, somber and bandaged, accepted the GOP presidential nomination on Thursday at the Republican National Convention in a speech that described in detail the assassination attempt that could have ended his life just five days earlier before laying out a sweeping populist agenda, particularly on immigration.",
+      "publishedAt": "2024-07-18T11:03:25Z",
+      "title": "Trump urges unity after assassination attempt while proposing sweeping populist agenda in RNC finale",
+      "url": "https://apnews.com/5f1f337ac39477e9d1c53d3e027edda3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/50babdb13434450884d1e7dd47444251/1920.jpeg"
+    },
+    {
+      "author": "MELANIE LIDMAN and SAM METZ",
+      "description": "TEL AVIV, Israel (AP) \u2014 An Iranian-made drone sent by Yemen's Houthi rebels struck Tel Aviv on Friday, leaving one person dead and at least 10 wounded in the group's first lethal strike into Israel.",
+      "publishedAt": "2024-07-19T03:59:40Z",
+      "title": "Drone strike by Yemen's Houthi rebels kills 1 person and wounds at least 10 in Tel Aviv",
+      "url": "https://apnews.com/daa70aa0f6a3248a00997a281c3731ab",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/80fdbe20442a47c892042ce727a9a486/1920.jpeg"
+    },
+    {
       "author": "AAMER MADHANI, WILL WEISSERT and ZEKE MILLER",
       "description": "WASHINGTON (AP) \u2014 Former President Barack Obama has a delicate balance to strike: how to weigh the mounting opposition to President Joe Biden continuing his campaign with his loyalty to his former running mate.",
       "publishedAt": "2024-07-19T04:28:12Z",
@@ -25,28 +57,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/cb94ca3d9d054d6ba77669c3a8c0a550/3000.jpeg"
     },
     {
-      "author": null,
-      "description": "TEL AVIV, Israel (AP) \u2014 An explosion rumbled through the streets of central Tel Aviv early Friday morning after an apparent drone strike caused shards of shrapnel to rain down, injuring at least 10 people and leaving one dead, authorities said.",
-      "publishedAt": "2024-07-19T03:59:40Z",
-      "title": "Air attack leaves 1 dead, at least 10 injured in Tel Aviv",
-      "url": "https://apnews.com/daa70aa0f6a3248a00997a281c3731ab",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/80fdbe20442a47c892042ce727a9a486/1920.jpeg"
-    },
-    {
-      "author": "JULIA FRANKEL",
-      "description": "UMM AL-KHAIR, West Bank (AP) \u2014 First came the Israeli military bulldozers, which tore down a quarter of the homes in the West Bank Bedouin village of Umm al-Khair.",
-      "publishedAt": "2024-07-19T04:18:36Z",
-      "title": "Mounting home demolitions and settler attacks plunge a Palestinian village into crisis",
-      "url": "https://apnews.com/c1f0207f558e98151333441e6065a086",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/40957e71c69a45a7b5e75e6ee39d5817/3000.jpeg"
-    },
-    {
-      "author": "JULHAS ALAM and KRUTIKA PATHI",
-      "description": "NEW DELHI (AP) \u2014 Internet and mobile services were cut off in Bangladesh on Friday, following days of violent protests over the allocation of government jobs, with local media reports saying at least 28 people had been killed this week.",
-      "publishedAt": "2024-07-19T04:31:49Z",
-      "title": "Internet and mobile services cut off in Bangladesh amid violent protests that have killed 28 people",
-      "url": "https://apnews.com/622c6c464c47860afee293e80550c051",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/cc06411c8af949ab8b9ce1c01640abef/3000.jpeg"
+      "author": "KIRILL ZARUBIN",
+      "description": "YEKATERINBURG, Russia (AP) \u2014 Russian prosecutors on Friday sought a prison sentence of 18 years for Wall Street Journal reporter Evan Gershkovich as his espionage trial came to an unusually swift conclusion, perhaps clearing the way for a swap between Moscow and Washington.",
+      "publishedAt": "2024-07-19T05:58:11Z",
+      "title": "Russia seeks an 18-year sentence for US reporter as his espionage trial concludes",
+      "url": "https://apnews.com/ef2e9fffc44570cf797e97aa6afa50a1",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/22b3434a32ad4e5d97a4dfb0fa02d96f/3000.jpeg"
     },
     {
       "author": "SEUNG MIN KIM and LINLEY SANDERS",
@@ -57,28 +73,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/0311ac37d1d34b768280133596a4b6f5/3000.jpeg"
     },
     {
-      "author": "GENE JOHNSON",
-      "description": "For those conservative voters long turned off by former President Donald Trump's rhetoric, his somewhat softened tone in accepting the Republican nomination Thursday night was a welcome relief.",
-      "publishedAt": "2024-07-19T04:53:19Z",
-      "title": "Some GOP voters welcome Trump's somewhat softened tone at Republican National Convention",
-      "url": "https://apnews.com/96d45401f46c61c7b33904dcd306a8d5",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/060c93efc08a42a9bd229b6fbcb409e2/3000.jpeg"
-    },
-    {
-      "author": "YURAS KARMANAU",
-      "description": "TALLINN, Estonia (AP) \u2014 For three decades, European leaders have come and gone by the dozens, but Alexander Lukashenko remains in absolute control of Belarus.His longevity is due to a mixture of harshly silencing all dissent, reverting to Soviet-style economic controls and methods, and cozying up to Russia, even as he sometimes flirted with the West.",
-      "publishedAt": "2024-07-19T04:05:40Z",
-      "title": "Leader of Belarus marks 30 years in power after crushing all dissent and cozying up to Moscow",
-      "url": "https://apnews.com/4c789edaa5190e40be6e7912b04ffa6d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/362f8200383d45a4aa9d968c372c899c/2593.jpeg"
-    },
-    {
       "author": null,
-      "description": "LOS ANGELES (AP) \u2014 Bob Newhart, the deadpan accountant-turned-comedian who became one of the most popular TV stars of his time after striking gold with a classic comedy album, has died at 94.",
-      "publishedAt": "2024-07-18T19:53:12Z",
-      "title": "Comedian Bob Newhart, deadpan master of sitcoms and telephone monologues, dies at 94",
-      "url": "https://apnews.com/799460b72b3c47e7aaf4eeb246f00b8c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b15132eae27c42438b7117f124f5b85f/3000.jpeg"
+      "description": "HANOI, Vietnam (AP) \u2014 Nguyen Phu Trong, general secretary of Vietnam\u2019s ruling Communist Party and the country\u2019s most powerful politician, has died following months of ill health, official media said Friday.",
+      "publishedAt": "2024-07-19T11:18:00Z",
+      "title": "Vietnam Communist Party chief Nguyen Phu Trong, the country's most powerful leader, dies at age 80",
+      "url": "https://apnews.com/d0d858c015dd23af615cdfedc78b9a8d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/00b697bf861149ea99e35719bf3deffc/3000.jpeg"
     }
   ],
   "sortBy": "top",

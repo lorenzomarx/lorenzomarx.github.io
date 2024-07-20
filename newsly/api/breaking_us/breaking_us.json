@@ -1,69 +1,225 @@
 {
   "articles": [
     {
-      "author": "BBC.com",
+      "author": "CNN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-19T04:58:54Z",
+      "publishedAt": "2024-07-19T12:12:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Newspaper headlines: Climate activists jailed and Obama 'moves against' Biden - BBC.com",
-      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeDcyZXo0ZWpwOW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3g3MmV6NGVqcDlvLmFtcA?oc=5",
+      "title": "WSJ reporter Evan Gershkovich convicted of espionage by Russian court in case denounced by US as a sham - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xOS9tZWRpYS9ldmFuLWdlcnNoa292aWNoLWVzcGlvbmFnZS10cmlhbC12ZXJkaWN0LWludGwvaW5kZXguaHRtbNIBVmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMTkvbWVkaWEvZXZhbi1nZXJzaGtvdmljaC1lc3Bpb25hZ2UtdHJpYWwtdmVyZGljdC1pbnRs?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Financial Times",
+      "author": "Motorsport.com",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-19T04:44:54Z",
+      "publishedAt": "2024-07-19T11:28:14Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Donald Trump pledges tax cuts, trade wars and border crackdown - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2NkOTUzMjA2LWMxODktNGI4Yi04MjIzLTMxMmJiYmZmMWZlYdIBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-19T04:44:45Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Russell Westbrook expected to be bought out by Jazz after Clippers trade; Nuggets a front-runner: Sources - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU2NDU5NzUvMjAyNC8wNy8xOC9ydXNzZWxsLXdlc3Ricm9vay10cmFkZS1qYXp6LWNsaXBwZXJzL9IBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CBS News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-19T04:28:09Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "RNC Day 4: Trump to accept GOP presidential nomination as assassination attempt looms over speech - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvcm5jLWRheS00LXNwZWFrZXJzLXNjaGVkdWxlL9IBPWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3JuYy1kYXktNC1zcGVha2Vycy1zY2hlZHVsZS8?oc=5",
+      "title": "F1 live: Hungarian GP practice as it happens | Live text - Motorsport.com",
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1vdG9yc3BvcnQuY29tL2YxL2xpdmUtdGV4dC9mMS1odW5nYXJpYW4tZ3AtbGl2ZS1jb21tZW50YXJ5LWFuZC11cGRhdGVzLWZwMS1mcDItMTEyMjY3OC8xMTIyNjc5L9IBAA?oc=5",
       "urlToImage": null
     },
     {
       "author": "The Associated Press",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-19T03:59:00Z",
+      "publishedAt": "2024-07-19T11:11:24Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Air attack leaves 1 dead, at least 10 injured in Tel Aviv - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1wYWxlc3RpbmlhbnMtdGVsLWF2aXYtc3RyaWtlLWRhYTcwYWEwZjZhMzI0OGEwMDk5N2EyODFjMzczMWFi0gEA?oc=5",
+      "title": "Global tech outage live updates: Flights grounded and offices hit as internet users face disruptions - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vYXBuZXdzLmNvbS9saXZlL2ludGVybmV0LWdsb2JhbC1vdXRhZ2UtY3Jvd2RzdHJpa2UtbWljcm9zb2Z0LWRvd250aW1l0gEA?oc=5",
       "urlToImage": null
+    },
+    {
+      "author": "Kevin Purdy",
+      "content": "16\r\nLet me get three negative points about the Gazelle Eclipse out of the way first. First, its a 62-pound e-bike, so its tough to get moving without its battery. Second, its rack is a thick, non-sta\u2026 [+4105 chars]",
+      "description": "It's a powerful, comfortable, fun, and very smart ride. Is that enough?",
+      "publishedAt": "2024-07-19T11:00:38Z",
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "title": "Gazelle Eclipse C380+ e-bike review: A smart, smooth ride at a halting price - Ars Technica",
+      "url": "https://arstechnica.com/cars/2024/07/gazelle-eclipse-c380-e-bike-review-a-smart-smooth-ride-at-a-halting-price/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/gazelle_hero3-760x380.jpg"
+    },
+    {
+      "author": "Yahoo Sports",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-19T10:30:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "British Open second round leaderboard, live updates: Daniel Brown leads Shane Lowry, Justin Thomas early at Royal Troon - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9icml0aXNoLW9wZW4tY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC1sZWFkZXJib2FyZC1saXZlLXVwZGF0ZXMtaG93LXRvLXdhdGNoLWZvbGxvdy10aWdlci13b29kcy1zaGFuZS1sb3dyeS1kYW5pZWwtYnJvd24tcm95YWwtdHJvb24tMDUwMDUwMzU3Lmh0bWzSAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The New York Times",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-19T10:04:52Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Global IT Outage Wreaks Havoc, and Trump Makes Divisive Speech - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTkvcG9kY2FzdHMvaXQtb3V0YWdlLXRydW1wLXNwZWVjaC5odG1s0gEA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Independent",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-19T10:00:52Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "RNC 2024 live: Trump ends longest speech in convention history with kiss from Melania - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3MvdHJ1bXAtbGl2ZS11cGRhdGVzLXJuYy1zcGVlY2gtaHVsay1ob2dhbi1tZWxhbmlhLWIyNTgyNDg1Lmh0bWzSAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Guardian",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-19T10:00:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Extreme heat may be crucial factor in human spread of bird flu - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE5L2V4dHJlbWUtaGVhdC1odW1hbi1iaXJkLWZsddIBUWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE5L2V4dHJlbWUtaGVhdC1odW1hbi1iaXJkLWZsdQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-19T09:36:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Tel Aviv hit by drone attack claimed by Iranian-backed Houthis - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2lzcmFlbGktbWlsaXRhcnktc2F5cy10ZWwtYXZpdi1ibGFzdC1hcHBhcmVudGx5LWNhdXNlZC1ieS1kcm9uZS0yMDI0LTA3LTE5L9IBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Mohammad Ponir Hossain, Sam Jahan",
+      "content": null,
+      "description": "Three people died in Bangladesh on Friday in fresh protests against quotas for government jobs, media said, as telecoms links were widely disrupted and television news channels went off the air.",
+      "publishedAt": "2024-07-19T08:57:00Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Widespread telecoms disruptions in Bangladesh as student protests spike - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/communications-disrupted-bangladesh-amid-student-protests-2024-07-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/B66CAYYAAVLONHJPM5RJW5TSJA.jpg?auth=e6f958226cc8fc885d7323c8987633f36f97c46416b6d42dc1ffb5553194bac0&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Elizabeth Stanton",
+      "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag\u2026 [+9815 chars]",
+      "description": "Bob Newhart managed a quietly groundbreaking career, from his deadpan comedic style to creating two legendary sitcoms that left a lasting impact on TV.",
+      "publishedAt": "2024-07-19T08:00:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Bob Newhart dead at 94: How the comedy icon changed TV history, \u2018I just thought it was about time\u2019 - Fox News",
+      "url": "https://www.foxnews.com/entertainment/bob-newhart-dead-94-how-comedy-icon-changed-tv-history-i-just-thought-about-time",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/BobNewhartThumb.jpg"
+    },
+    {
+      "author": "The Washington Post",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-19T06:59:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Appeals court blocks Biden\u2019s student loan repayment plan - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lZHVjYXRpb24vMjAyNC8wNy8xOC9iaWRlbi1zdHVkZW50LWxvYW4tcmVwYXltZW50LXBsYW4tYmxvY2tlZC_SAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "AJ McDougall",
+      "content": "A grinning Donald Trump clapped and blew a kiss at Hulk Hogan as the mustachioed wrestling legend ripped off his shirt while speaking at the Republican National Convention on Thursday night. \r\nHogan,\u2026 [+1112 chars]",
+      "description": "\u201cOver my career, I've been in the ring with some of the biggest, some of the baddest dudes on the planet. Donald Trump is the toughest of them all.\u201d",
+      "publishedAt": "2024-07-19T06:55:58Z",
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "title": "Donald Trump Blows a Kiss as Hulk Hogan Rips His Shirt Onstage in Surreal RNC Scene - The Daily Beast",
+      "url": "https://www.thedailybeast.com/donald-trump-blows-a-kiss-as-hulk-hogan-rips-his-shirt-onstage-in-surreal-rnc-scene",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_576,w_1024,x_0,y_48/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1721356626/GettyImages-2162606960_qcyvrr"
+    },
+    {
+      "author": "Michelle Starr",
+      "content": "A rock on Mars has just spilled a surprising yellow treasure after Curiosity accidentally cracked through its unremarkable exterior.\r\nWhen the rover rolled its 899-kilogram (1,982-pound) body over th\u2026 [+3311 chars]",
+      "description": "A rock on Mars has just spilled a surprising yellow treasure after Curiosity accidentally cracked through its unremarkable exterior.",
+      "publishedAt": "2024-07-19T06:09:35Z",
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "title": "Curiosity Cracked Open a Rock on Mars And Found a Huge Surprise - ScienceAlert",
+      "url": "https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-huge-surprise",
+      "urlToImage": "https://www.sciencealert.com/images/2024/07/sulfur-mars.jpg"
+    },
+    {
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-19T05:10:04Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Fact Checking Donald Trump's RNC speech on immigration, the economy, world affairs and more - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvZmFjdC1jaGVja2luZy1kb25hbGQtdHJ1bXBzLXJuYy1zcGVlY2gtaW1taWdyYXRpb24tZWNvbm9teS9zdG9yeT9pZD0xMTIwOTEwMTnSAXFodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9mYWN0LWNoZWNraW5nLWRvbmFsZC10cnVtcHMtcm5jLXNwZWVjaC1pbW1pZ3JhdGlvbi1lY29ub215L3N0b3J5P2lkPTExMjA5MTAxOQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-19T04:24:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Majority of Democrats think Kamala Harris would make a good president, AP-NORC poll shows - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2thbWFsYS1oYXJyaXMtcG9sbC1iaWRlbi1uZXdzb20td2hpdG1lci03ZWY4M2U1YzhlNTEwZTM5ZDdjNTRmN2UyODMxMDA2NNIBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Associated Press",
+      "content": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services,\u2026 [+2751 chars]",
+      "description": "Rookie Bronny James put together his second promising Summer League performance in a row Thursday night, scoring 13 points in the Lakers\u2019 93-89 win.",
+      "publishedAt": "2024-07-19T04:07:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "Bronny James puts on another stellar Lakers show at NBA Summer League - New York Post ",
+      "url": "https://nypost.com/2024/07/19/sports/bronny-james-scores-13-points-in-lakers-nba-summer-league-win/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-6xljj0abv-1721361250885.jpg?quality=75&strip=all&1721346882&w=1024"
     },
     {
       "author": "The New York Times",
@@ -79,16 +235,16 @@
       "urlToImage": null
     },
     {
-      "author": "The Associated Press",
+      "author": "PBS NewsHour",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-19T03:27:00Z",
+      "publishedAt": "2024-07-19T03:28:35Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Illinois deputy charged with murder shot woman in face after ordering her to move pot of water - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lsbGlub2lzLXNoZXJpZmZzLWRlcHV0eS1jaGFyZ2VkLWNmMTY0MTg5ZDY3OGY5MjFkZWZmMDVmYTM3ODlkM2Ey0gEA?oc=5",
+      "title": "Illinois sheriff's deputy charged with murder shot Black woman in face after she called police for help - PBS NewsHour",
+      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL25hdGlvbi9pbGxpbm9pcy1zaGVyaWZmcy1kZXB1dHktY2hhcmdlZC13aXRoLW11cmRlci1zaG90LWJsYWNrLXdvbWFuLWluLWZhY2UtYWZ0ZXItc2hlLWNhbGxlZC1wb2xpY2UtZm9yLWhlbHDSAQA?oc=5",
       "urlToImage": null
     },
     {
@@ -103,164 +259,8 @@
       "title": "[Removed]",
       "url": "https://removed.com",
       "urlToImage": null
-    },
-    {
-      "author": "Matt Schudel",
-      "content": "Bob Newhart was still living with his parents when he was 30. He was a balding, slouch-eyed former accountant who talked in a calculated, halting stammer. He was no ones idea of a superstar.\r\nYet, wi\u2026 [+10701 chars]",
-      "description": "After his \u201cButton-Down Mind\u201d album hit No. 1 on the Billboard chart, he starred in two hit sitcoms and influenced a generation of comedians.",
-      "publishedAt": "2024-07-19T02:16:36Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Bob Newhart, who went from standup comedy to sitcom star, dies at 94 - The Washington Post",
-      "url": "https://www.washingtonpost.com/obituaries/2024/07/18/bob-newhart-dead/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JHUT3BQ5NDCFKOZJMEBQURK7E.jpg&w=1440"
-    },
-    {
-      "author": "BBC.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-19T02:15:25Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Bangladesh protests: Students set state broadcaster alight - BBC.com",
-      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jazVnOXhkOXJyd2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2s1Zzl4ZDlycndvLmFtcA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Yahoo Sports",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-19T02:15:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "5 players who should be moved at the MLB trade deadline - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS81LXBsYXllcnMtd2hvLXNob3VsZC1iZS1tb3ZlZC1hdC10aGUtbWxiLXRyYWRlLWRlYWRsaW5lLTAyMTU1MDM0My5odG1s0gEA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Variety",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-19T02:07:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Cheng Pei-pei, \u2018Crouching Tiger, Hidden Dragon\u2019 and \u2018Come Drink With Me\u2019 Star, Dies at 78 - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL25ld3MvY2hlbmctcGUtcGVpLWRlYWQtY3JvdWNoaW5nLXRpZ2VyLWhpZGRlbi1kcmFnb24tMTIzNjA3NzgwOS_SAWJodHRwczovL3ZhcmlldHkuY29tLzIwMjQvZmlsbS9uZXdzL2NoZW5nLXBlLXBlaS1kZWFkLWNyb3VjaGluZy10aWdlci1oaWRkZW4tZHJhZ29uLTEyMzYwNzc4MDkvYW1wLw?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Deadline",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-19T01:34:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "\u2018Twisters\u2019 Breaking Out With Around $7M In Previews \u2013 Box Office Early Look - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvYm94LW9mZmljZS10d2lzdGVycy0xMjM2MDE1MTI3L9IBQGh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvYm94LW9mZmljZS10d2lzdGVycy0xMjM2MDE1MTI3L2FtcC8?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "",
-      "content": "The final major of what has already been a thrilling 2024 golf season is underway with The Open Championship in its 152nd playing this week at Royal Troon. The oldest golf tournament in the world is \u2026 [+2838 chars]",
-      "description": "How to watch every memorable moment of the 152nd Open Championship on TV or streaming live online",
-      "publishedAt": "2024-07-19T01:22:00Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "2024 British Open TV schedule, coverage, live stream, where to watch online, channel, tee times at Royal Troon - CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/2024-british-open-tv-schedule-coverage-live-stream-where-to-watch-online-channel-tee-times-at-royal-troon/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/16/17fa2419-c00a-46cf-b3a6-836c9debcd72/thumbnail/1200x675/a916c716177eefe643fb78b85ff2f2e5/open-royal-troon-flag.jpg"
-    },
-    {
-      "author": "SpaceNews",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-19T01:07:56Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Enhanced Dragon spacecraft to deorbit the ISS at the end of its life - SpaceNews",
-      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vc3BhY2VuZXdzLmNvbS9lbmhhbmNlZC1kcmFnb24tc3BhY2VjcmFmdC10by1kZW9yYml0LXRoZS1pc3MtYXQtdGhlLWVuZC1vZi1pdHMtbGlmZS_SAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Deadline",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-19T00:31:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Netflix Acknowledges Mighty YouTube Rival But Says Services \u201cFeed Each Other\u201d And Only One Takes Big Creative Bets - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvbmV0ZmxpeC15b3V0dWJlLXRlbGV2aXNpb24tdmlld2luZy1yaXZhbHMtMTIzNjAxNTA4OS_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzA3L25ldGZsaXgteW91dHViZS10ZWxldmlzaW9uLXZpZXdpbmctcml2YWxzLTEyMzYwMTUwODkvYW1wLw?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "Technology stocks around the world have slumped on fears about the global computer chip industry.\r\nThe sell-off came after a report that the Biden administration could be set to further tighten restr\u2026 [+1877 chars]",
-      "description": "The sell-off came after a report that the US may further tighten rules on equipment exports to China.",
-      "publishedAt": "2024-07-19T00:08:04Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Chip stocks drop on report US plans to tighten China curbs - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c7241wmknm3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/33fb/live/03726c80-44b3-11ef-88b1-4d5ac55b562d.jpg"
-    },
-    {
-      "author": "BBC.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-18T23:19:08Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Robert Jenrick: Things could get worse for the Conservatives - BBC.com",
-      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcmc0ZHBrNDVyeW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3JnNGRwazQ1cnlvLmFtcA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Beth Mole",
-      "content": "Enlarge/ Long covid activists attend the Senate Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies hearing on the \"Fiscal Year 2025 Budget Request for th\u2026 [+3780 chars]",
-      "description": "In large study, rates of long COVID fell from 10% to 3.5% for the vaccinated.",
-      "publishedAt": "2024-07-18T23:07:41Z",
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "title": "Long COVID rates have declined, especially among the vaccinated, study finds - Ars Technica",
-      "url": "https://arstechnica.com/science/2024/07/long-covid-rates-have-declined-especially-among-the-vaccinated-study-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2153722732-760x380.jpg"
-    },
-    {
-      "author": "",
-      "content": "Justin Thomas is not someone who was anticipated to be near the top of the leaderboard across back to back weeks in Scotland. While obviously a tremendous golfer, his record overall at The Open Champ\u2026 [+9198 chars]",
-      "description": "Thomas hoisting the Claret Jug may still be unlikely, but an early clubhouse lead has him in contention at Royal Troon",
-      "publishedAt": "2024-07-18T21:27:00Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "2024 Open Championship takeaways: Justin Thomas stuns with hot start, Scottie Scheffler lurks after Round 1 - CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/2024-open-championship-takeaways-justin-thomas-stuns-with-hot-start-scottie-scheffler-lurks-after-round-1/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/18/9ba1036a-8441-4732-987b-c45cab0ea2d3/thumbnail/1200x675/3707e401156ffb47043f5121aa4e3e1a/justin-thomas-open-r1-g.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 37
+  "totalResults": 38
 }
