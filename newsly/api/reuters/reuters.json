@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli forces pounded several areas across the Gaza Strip on Saturday, killing at least 30 Palestinians, according to health officials, as tanks advanced deeper into western and northern Rafah.",
+      "publishedAt": "2024-07-20T13:27:32Z",
+      "title": "Israel kills dozens as it steps up Gaza bombardment",
+      "url": "https://www.reuters.com/world/middle-east/israel-kills-dozens-it-steps-up-gaza-bombardment-2024-07-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2WGVR3IF7VO6NE5XZFITUHNQ5M.jpg?auth=e9954ee2ff29e84ce3ae70c3ea204921077ee9236381d726454713d841b47f51&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Trevor Hunnicutt, Jeff Mason",
+      "description": "The crisis-in-confidence in Biden's ability to win has placed a huge spotlight on Kamala Harris, widely believed to be the most likely replacement if he steps down.",
+      "publishedAt": "2024-07-20T15:42:13Z",
+      "title": "VP Harris hits fundraising trail amid ongoing calls for Biden to quit race",
+      "url": "https://www.reuters.com/world/us/vp-harris-hits-fundraising-trail-amid-ongoing-calls-biden-quit-race-2024-07-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/NZNBBQOHNRKSFBV4C7NWULN2K4.jpg?auth=5cade985b76fa5511479dd01f4b6d3d419e8f855252ee609b3d9dc77b5aead89&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Jonathan Saul, Simon Lewis",
       "description": "Ruth Lieberman, a Jewish settler in the Israeli occupied West Bank, is determined to thwart international pressure for a sovereign Palestinian state. And her friendships with prominent U.S. Republicans from the party's religious right are helping, she says.",
       "publishedAt": "2024-07-20T09:20:35Z",
@@ -17,14 +33,6 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/X5TODWCG7BPORN3KNKZFYTWC4M.jpg?auth=0854684c1bcf73f9afcaf961eb6b6a4ec3e466dc7819d2ddec8c3a4fc4c7b8c2&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Kirsty Needham",
-      "description": "One of the world's youngest air forces is taking part in war games alongside cutting-edge stealth fighter jets as the Pacific Island nation of Papua New Guinea boosts defence ties with Australia and the United States.",
-      "publishedAt": "2024-07-20T09:36:39Z",
-      "title": "World's youngest air force Papua New Guinea takes to skies among Top Guns",
-      "url": "https://www.reuters.com/business/aerospace-defense/worlds-youngest-air-force-papua-new-guinea-takes-skies-among-top-guns-2024-07-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/2WOMANOTDZOJXFED6OY6WPAZA4.jpg?auth=6798148202449c7a618865009b38ba56eb882aac79d27fc2580b1cb75174a637&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Sam Jahan",
       "description": "Bangladesh soldiers patrolled Dhaka's deserted streets on Saturday amid a curfew to quell deadly students-led protests against government job quotas that have killed more than 100 people this week.",
       "publishedAt": "2024-07-20T06:09:33Z",
@@ -33,12 +41,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/XUEREAMA2RPKPHE3LYSGLZQ5YI.jpg?auth=74e1514c79f767b3262e993b5ddb73adf357013fd44adaf9bf58b7ac4f0228c5&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "President Xi Jinping urged all-out rescue efforts after a highway bridge collapse on Friday in Shaanxi province in China's northwest killed 11 people, state media reported on Saturday.",
-      "publishedAt": "2024-07-20T06:47:23Z",
-      "title": "China's Xi urges all-out rescue efforts after highway bridge collapse kills 11",
-      "url": "https://www.reuters.com/world/china/chinas-xi-urges-all-out-rescue-efforts-after-highway-bridge-collapse-kills-11-2024-07-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/V6QWFJ6IOBLYVK2R2PHK4Y6IXU.jpg?auth=b9f081538822521c2a6450a86dd5b72f3b375d267d3fc42866ad0e79976c1b87&height=1005&width=1920&quality=80&smart=true"
+      "author": "Kirsty Needham",
+      "description": "One of the world's youngest air forces is taking part in war games alongside cutting-edge stealth fighter jets as the Pacific Island nation of Papua New Guinea boosts defence ties with Australia and the United States.",
+      "publishedAt": "2024-07-20T09:36:39Z",
+      "title": "World's youngest air force Papua New Guinea takes to skies among Top Guns",
+      "url": "https://www.reuters.com/business/aerospace-defense/worlds-youngest-air-force-papua-new-guinea-takes-skies-among-top-guns-2024-07-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2WOMANOTDZOJXFED6OY6WPAZA4.jpg?auth=6798148202449c7a618865009b38ba56eb882aac79d27fc2580b1cb75174a637&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -49,36 +57,28 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/RTV3NITDAFOXLFNVQQ2U5BYPAA.jpg?auth=6c76ffd1800d10acb4eef66a7f843c146040272a3f4f1ba1e85f7a4eeb037c61&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "Russia increased imports tariffs for consumer goods, including wine, beer, candies, biscuits and shampoo, produced in countries that support sanctions against Moscow, according to a government order published late on Friday.",
-      "publishedAt": "2024-07-20T09:00:19Z",
-      "title": "Russia hikes import tariffs for consumer goods from 'unfriendly countries'",
-      "url": "https://www.reuters.com/markets/europe/russia-hikes-import-tariffs-consumer-goods-unfriendly-countries-2024-07-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/J3QYBDYGQ5OLBHH4BHRGQAOGQM.jpg?auth=5456a4fec4baec25adb5d211fe8f57e609386363568db2eacce0a388f23d6d5c&height=1005&width=1920&quality=80&smart=true"
+      "author": "Marco Trujillo, Elizabeth Pineau",
+      "description": "A police officer and five protesters were injured on Saturday when violence erupted during a demonstration in the French grains port of La Rochelle over the use of reservoirs to supply large-scale agriculture, local officials said.",
+      "publishedAt": "2024-07-20T15:10:26Z",
+      "title": "French police clash with reservoir protesters in La Rochelle",
+      "url": "https://www.reuters.com/world/europe/french-police-clash-with-reservoir-protesters-la-rochelle-2024-07-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XT5BM5VWOBNP7IWPRNTB7FLRVY.jpg?auth=149232fec65e6f37757fdefe076fd241972c250307b6a578d0750d3ec96f948c&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Nobuhiro Kubo, Tim Kelly",
-      "description": "A U.S. plan to use Japanese factories to boost production of Patriot air defence missiles - used by Ukraine to defend against Russian attacks - is being delayed by a shortage of a critical component manufactured by Boeing, four sources said.",
-      "publishedAt": "2024-07-20T02:00:49Z",
-      "title": "Exclusive: US-Japan Patriot missile production plan hits Boeing component roadblock",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-japan-patriot-missile-production-plan-hits-boeing-component-roadblock-2024-07-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/MXSEBWJSTBP63PIESVRCINGIFE.jpg?auth=53dca82c25fea3b485854f3454b977dc126047c3efaaeefea8b66b8a81b2a171&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Major U.S. airlines ordered ground stops on Friday citing communications issues, while other carriers, media companies, banks and telecoms firms around the world also reported system outages were disrupting their operations.",
-      "publishedAt": "2024-07-19T08:01:15Z",
-      "title": "Global cyber outage grounds flights and disrupts businesses",
-      "url": "https://www.reuters.com/technology/global-cyber-outage-grounds-flights-hits-media-financial-telecoms-2024-07-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/C3MIIIEHZNO5DOLIHZRIF6CU7Q.jpg?auth=60121aa0c71be428feb9de29e6d6ddcd4e9b7e8357eb36333b57e5f5a02d8e77&height=1005&width=1920&quality=80&smart=true"
+      "author": "Jan Strupczewski",
+      "description": "Poland wants the European Union to launch a campaign in the United States to raise awareness with the American public about the importance of the joint relationship.",
+      "publishedAt": "2024-07-20T16:56:45Z",
+      "title": "Poland calls on EU to stress ties with U.S. to counter Russian 'disinformation'",
+      "url": "https://www.reuters.com/world/europe/poland-calls-eu-stress-ties-with-us-counter-russian-disinformation-2024-07-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Three pro-Russian hackers have been arrested for alleged cyberattacks against Spain and other NATO countries for terrorist purposes, Spanish police said on Saturday.",
-      "publishedAt": "2024-07-20T11:39:29Z",
-      "title": "Three 'pro-Russian' hackers arrested in Spain over cyberattacks",
-      "url": "https://www.reuters.com/technology/cybersecurity/three-pro-russian-hackers-arrested-spain-over-cyberattacks-2024-07-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/MOHRXXPT4JJJLPB757STQJ4SYY.jpg?auth=23a860dbb98d080bad78e4b99efe78c5fa0dd83a1d7961736e279876b584e586&height=1005&width=1920&quality=80&smart=true"
+      "description": "Vietnam will hold a state funeral next week for Nguyen Phu Trong, the leader of its ruling Communist Party who died on Friday, the government said on Saturday.",
+      "publishedAt": "2024-07-20T12:24:34Z",
+      "title": "Vietnam to hold state funeral for late communist party leader Trong next week",
+      "url": "https://www.reuters.com/world/asia-pacific/vietnam-hold-state-funeral-late-communist-party-leader-trong-next-week-2024-07-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/NY2OO2ZBC5IBLDSHCZJJI7L2XU.jpg?auth=b9719a2f07a7c7261bd525fa6ff20d2510570a3ef0a4d987a10d565045e3c90b&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
