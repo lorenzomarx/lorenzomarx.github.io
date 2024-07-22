@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Jeff Mason, Jarrett Renshaw, Kanishka Singh",
+      "description": "U.S. President Joe Biden ended his reelection campaign on Sunday after fellow Democrats lost faith in his mental acuity and ability to beat Donald Trump, leaving the presidential race in uncharted territory.",
+      "publishedAt": "2024-07-21T17:58:36Z",
+      "title": "Biden, 81, pulls out of presidential race, will serve out term",
+      "url": "https://www.reuters.com/world/us/biden-81-pulls-out-presidential-race-2024-07-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KKG36G7N7RJBJH2E7L2WJNTZJY.jpg?auth=bbe25effd8ecef422792150619ce1f323b6645e49ffa200a8a51c2ae58d912a0&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The attack prolonged an escalation of violence that began with a deadly Houthi drone strike on Tel Aviv on Friday and an Israeli air raid near Yemen's Hodeidah port on Saturday that killed six and injured 80.",
+      "publishedAt": "2024-07-21T13:09:50Z",
+      "title": "Israel says it intercepts missile fired from Yemen, Houthis say they targeted Eilat",
+      "url": "https://www.reuters.com/world/middle-east/israel-says-it-intercepts-missile-fired-yemen-houthis-say-they-targeted-eilat-2024-07-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/WA22ZXL7AROHREACGKHMIUPVUE.jpg?auth=c6ac63f46b6a3821626cffbcdb03b085b106b4ccadf5e284d085ba23cb1e9fac&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Jeff Mason, Bianca Flowers",
+      "description": "Some Democrats remain concerned about Harris' shaky first two years in office, her short-lived campaign for the 2020 Democratic nomination, and a long history of racial and gender discrimination in the United States.",
+      "publishedAt": "2024-07-21T14:27:36Z",
+      "title": "With Kamala Harris, Democrats would bet against US history of sexism, racism",
+      "url": "https://www.reuters.com/world/us/with-kamala-harris-democrats-would-bet-against-us-history-sexism-racism-2024-07-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LN5DD6CFKJPILO6RIFPJDGSX7Y.jpg?auth=70be890b199156f4a8665a595c36931117595eaa60d090f9070aa36dae335db5&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli forces battled Palestinian fighters in the southern Gaza city of Rafah on Sunday, and struck areas in the centre of the coastal enclave where thousands of Palestinians displaced from their homes have been seeking shelter.",
+      "publishedAt": "2024-07-21T13:39:20Z",
+      "title": "Fighting rages in southern Gaza, Israeli strikes hit central areas",
+      "url": "https://www.reuters.com/world/middle-east/fighting-rages-southern-gaza-israeli-strikes-hit-central-areas-2024-07-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/IJHNYYRGTNINFBPEAHD7HWPQYQ.jpg?auth=332202bb12fb75673f1cb7910f9150961d385042d7a0a51c10b81b96f7154ad2&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Mohammad Ponir Hossain, Sam Jahan",
       "description": "Bangladesh extended a curfew on Sunday to control violent student-led protests that have killed at least 114 people, as authorities braced for a Supreme Court hearing later in the day on government job quotas that sparked the anger.",
       "publishedAt": "2024-07-21T04:39:33Z",
@@ -26,30 +58,6 @@
     },
     {
       "author": "Reuters",
-      "description": "Azerbaijan is proposing to sign a document with Armenia on the basic principles of a future peace treaty as an interim measure as they wrangle over a broader deal, a senior Azerbaijani official said on Sunday.",
-      "publishedAt": "2024-07-21T10:28:21Z",
-      "title": "Azerbaijan proposes document on principles of peace before full deal with Armenia",
-      "url": "https://www.reuters.com/world/asia-pacific/azerbaijan-proposes-document-principles-peace-before-full-deal-with-armenia-2024-07-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KB5DRYRJG5PX5GFF255BUA2ZAY.jpg?auth=45c6a4047c79113d37acd3ffd06ef6a47fc4be53d7e9eb202849c06e07a63594&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Angelo Amante, Gavin Jones",
-      "description": "Italian Prime Minister Giorgia Meloni's decision not to back Ursula von der Leyen as European Commission chief was driven by fear of losing rightwing grassroots supporters, analysts say, but may curb her influence over EU choices.",
-      "publishedAt": "2024-07-21T08:08:12Z",
-      "title": "Italy's Meloni put domestic concerns first in rejecting von der Leyen",
-      "url": "https://www.reuters.com/world/europe/italys-meloni-put-domestic-concerns-first-rejecting-von-der-leyen-2024-07-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XJ5XWHZVTJOJRLARWN6YT5V6TE.jpg?auth=f0857b672b241e95f48319b379800d52179e3cfe2bdf9bf1c377deae342391cf&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "President Tayyip Erdogan believes a potential change in the U.S. administration after November's election may be positive for Turkey's growing defence industry, he was quoted as saying by Turkish media on Sunday.",
-      "publishedAt": "2024-07-21T10:24:16Z",
-      "title": "Erdogan says US vote could further boost Turkey arms sector, TRT reports",
-      "url": "https://www.reuters.com/world/middle-east/erdogan-says-us-vote-could-further-boost-turkey-arms-sector-trt-reports-2024-07-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4ZNJZ4BL5JNVLEUFRO66QZ55XA.jpg?auth=0132ca9ae64ee7288ed4b6abd5dc06500409683f994b9b6c824b413508a80b35&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
       "description": "China released a 60-point document on Sunday on policy goals, ranging from developing advanced industries to improving the business environment, adopted at the end of a Communist Party Central Committee meeting, but with few implementation details.",
       "publishedAt": "2024-07-21T11:02:36Z",
       "title": "China publishes policy agenda with few implementation details",
@@ -58,27 +66,19 @@
     },
     {
       "author": "Reuters",
-      "description": "North Korea on Sunday was floating balloons carrying trash towards South Korea, the South's Joint Chiefs of Staff said.",
-      "publishedAt": "2024-07-21T01:03:14Z",
-      "title": "North Korea floats trash balloons towards South",
-      "url": "https://www.reuters.com/world/asia-pacific/north-korea-floats-trash-balloons-towards-south-yonhap-reports-2024-07-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QZHAZPMM4FOORNYNCVZMRU4USI.jpg?auth=f93f83d09eccf29da5e4993dff82f6e2010760a33cc2057a7af6984329fe46e3&height=1005&width=1920&quality=80&smart=true"
+      "description": "Brazil's Agriculture Ministry said on Sunday it has ruled out three potential new cases of Newcastle disease in poultry after testing additional samples taken from animals in the area close to where a first case was confirmed last week.",
+      "publishedAt": "2024-07-21T17:29:50Z",
+      "title": "Brazil rules out three potential new cases of Newcastle disease in poultry",
+      "url": "https://www.reuters.com/world/americas/brazil-rules-out-three-potential-new-cases-newcastle-disease-poultry-2024-07-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/CDI3MXHP6JKWFB43A3QV7FRE6I.jpg?auth=09f41d12363a8611e8e18f51df0039e90e385514c9ea4737da66b159e3cefeb3&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Russia's Defence Ministry said on Sunday that Russian warplanes prevented two U.S. strategic bombers from violating the state border over the Barents Sea.",
-      "publishedAt": "2024-07-21T10:55:38Z",
-      "title": "Russia says its jets prevented US bombers violating border over Barents Sea",
-      "url": "https://www.reuters.com/world/europe/russia-says-its-jets-prevented-us-bombers-violating-border-over-barents-sea-2024-07-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/6A3CDRDPM5NM7MEBJY3S2B5VEA.jpg?auth=2ebf976313bc097d2550f6588871f98a4f15b7a4957cd7b989535d607cfb1167&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Tim Reid",
-      "description": "Donald Trump will hold his first campaign rally on Saturday since he narrowly escaped an assassination attempt one week ago and fresh from his nominating convention where his takeover of the Republican Party was cemented.",
-      "publishedAt": "2024-07-20T10:03:54Z",
-      "title": "Trump to hold first campaign rally after assassination attempt",
-      "url": "https://www.reuters.com/world/us/trump-hold-first-campaign-rally-after-assassination-attempt-2024-07-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/X5TODWCG7BPORN3KNKZFYTWC4M.jpg?auth=0854684c1bcf73f9afcaf961eb6b6a4ec3e466dc7819d2ddec8c3a4fc4c7b8c2&height=1005&width=1920&quality=80&smart=true"
+      "description": "The Israeli military issued call-up notices to 1,000 members of the ultra-Orthodox community on Sunday in a move meant to bolster the army's ranks but which could further inflame tensions between religious and secular Israelis.",
+      "publishedAt": "2024-07-21T12:36:24Z",
+      "title": "Israeli military sends draft notices for ultra-Orthodox",
+      "url": "https://www.reuters.com/world/middle-east/israeli-military-sends-draft-notices-ultra-orthodox-2024-07-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/UIFJKSWF4VIV5MHZ7WIWCD2IOI.jpg?auth=9b0895c19a339f355778da5d6b0705d73957229c4e258c37d44fae27072f415b&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
