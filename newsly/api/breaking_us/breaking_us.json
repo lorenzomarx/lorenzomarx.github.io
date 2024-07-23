@@ -1,82 +1,251 @@
 {
   "articles": [
     {
-      "author": "CNN",
+      "author": "ABC News",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T00:38:00Z",
+      "publishedAt": "2024-07-22T05:55:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Inside Biden\u2019s unprecedented exit from the presidential race - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMS9wb2xpdGljcy9pbnNpZGUtYmlkZW5zLWV4aXQtZnJvbS0yMDI0LXJhY2UvaW5kZXguaHRtbNIBTWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjEvcG9saXRpY3MvaW5zaWRlLWJpZGVucy1leGl0LWZyb20tMjAyNC1yYWNl?oc=5",
+      "title": "Election 2024 updates: Democrats say they've raised $46.7M: 'Biggest fundraising day of the 2024 cycle' - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvbGl2ZS11cGRhdGVzL2JpZGVuLWRyb3BzLW91dC11cGRhdGVzLz9pZD0xMTIxMTMyODnSAVZodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9saXZlLXVwZGF0ZXMvYmlkZW4tZHJvcHMtb3V0LXVwZGF0ZXMvP2lkPTExMjExMzI4OQ?oc=5",
       "urlToImage": null
     },
     {
-      "author": "CBS News",
+      "author": "Claire Jackson",
+      "content": "For the last couple of years, PC gaming has sought to escape the rigid confines of its electric-outlet bound, RGB-coated monolithic towers with fast framerates at massive resolutions for something a \u2026 [+13935 chars]",
+      "description": "The Ally X is an awesome piece of gaming hardware with an operating system that frustratingly gets in the way",
+      "publishedAt": "2024-07-22T05:00:00Z",
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "title": "Asus\u2019 Steam Deck Competitor Just Got An Excellent Upgrade - Kotaku",
+      "url": "https://kotaku.com/asus-ally-x-review-steam-deck-sd-card-battery-windows-1851600340",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0fe87001bc0b0085102674663449bb14.jpg"
+    },
+    {
+      "author": "Melissa Quinn, Kathryn Watson, Caitlin Yilek",
+      "content": "Harris' team has begun calling Democratic delegates to ask them to back her for the nomination, one delegate told CBS News, though many had not received calls from either Biden's or Harris' teams by \u2026 [+1903 chars]",
+      "description": "President Biden announced Sunday he is dropping his reelection bid in the 2024 presidential race and endorsing Vice President Kamala Harris.",
+      "publishedAt": "2024-07-22T03:56:45Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Live Updates: Biden drops out and endorses Kamala Harris, upending 2024 presidential race against Trump - CBS News",
+      "url": "https://www.cbsnews.com/live-updates/biden-drops-out-2024-presidential-race/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/21/4c650601-4dcd-4af1-a884-22ed2587cf79/thumbnail/1200x630g2/741f9406b54cccf5b1c2b2ec732aae8b/gettyimages-2161415763.jpg?v=5710b2ed1cee1bdfd30cb9c02455b43d"
+    },
+    {
+      "author": "Yahoo Finance",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T00:11:09Z",
+      "publishedAt": "2024-07-22T03:44:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Democrats line up behind Kamala Harris after Biden drops reelection bid - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGVtb2NyYXRzLXN1cHBvcnQta2FtYWxhLWhhcnJpcy1iaWRlbi1kcm9wcy1yZWVsZWN0aW9uLWJpZC_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kZW1vY3JhdHMtc3VwcG9ydC1rYW1hbGEtaGFycmlzLWJpZGVuLWRyb3BzLXJlZWxlY3Rpb24tYmlkLw?oc=5",
+      "title": "Xi Vows to Rewire China\u2019s Finances, Help Indebted Regions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy94aS12b3dzLXRheC1yZWZvcm0taW1wcm92ZS0wOTM5MTc5MjkuaHRtbNIBAA?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Reuters.com",
+      "author": "DW (English)",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-21T23:54:00Z",
+      "publishedAt": "2024-07-22T03:19:23Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Trump campaign switches gears to confront a Harris challenge - Reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3RydW1wLWNhbXBhaWduLXN3aXRjaGVzLWdlYXJzLWNvbmZyb250LWhhcnJpcy1jaGFsbGVuZ2UtMjAyNC0wNy0yMS_SAQA?oc=5",
+      "title": "Germany issues advisory against travel to Bangladesh - DW (English)",
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmR3LmNvbS9lbi9nZXJtYW55LWlzc3Vlcy1hZHZpc29yeS1hZ2FpbnN0LXRyYXZlbC10by1iYW5nbGFkZXNoL2EtNjk3Mjc1NzbSAVVodHRwczovL2FtcC5kdy5jb20vZW4vZ2VybWFueS1pc3N1ZXMtYWR2aXNvcnktYWdhaW5zdC10cmF2ZWwtdG8tYmFuZ2xhZGVzaC9hLTY5NzI3NTc2?oc=5",
       "urlToImage": null
     },
     {
-      "author": "POLITICO",
+      "author": "ScienceAlert",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-21T22:33:46Z",
+      "publishedAt": "2024-07-22T03:15:02Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Kamala Harris takes over war chest as Biden campaign becomes Harris for President - POLITICO",
-      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjEva2FtYWxhLWhhcnJpcy1iaWRlbi1jYW1wYWlnbi1mdW5kcy0wMDE3MDEzNtIBAA?oc=5",
+      "title": "The True Extent of Long COVID Is Still Emerging \u2013 But Here's What We Know - ScienceAlert",
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vdGhlLXRydWUtZXh0ZW50LW9mLWxvbmctY292aWQtaXMtc3RpbGwtZW1lcmdpbmctYnV0LWhlcmVzLXdoYXQtd2Uta25vd9IBAA?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Forbes",
+      "author": "SciTechDaily",
       "content": null,
       "description": null,
+      "publishedAt": "2024-07-22T02:23:11Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Breathtaking Majesty: NASA\u2019s Juno Captures Jupiter\u2019s Colorful Chaos in Stunning Detail - SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9icmVhdGh0YWtpbmctbWFqZXN0eS1uYXNhcy1qdW5vLWNhcHR1cmVzLWp1cGl0ZXJzLWNvbG9yZnVsLWNoYW9zLWluLXN0dW5uaW5nLWRldGFpbC_SAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Jennifer Maas",
+      "content": "SPOILER ALERT:This story contains spoilers for HBOs House of the Dragon Season 2, Episode 6, titled Smallfolk, now streaming on Max.\r\nRhaenyra (Emma DArcy) and her new closest confidant and righthand\u2026 [+8889 chars]",
+      "description": "\"House of the Dragon\" stars Emma D'Arcy and Sonoya Mizuno break down intimate moment between Rhaenyra and Mysaria in Episode 6 of Season 2.",
+      "publishedAt": "2024-07-22T02:07:00Z",
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "title": "\u2018House of the Dragon\u2019: Emma D\u2019Arcy and Sonoya Mizuno Break Down Rhaenyra and Mysaria\u2019s [SPOILER] in Episode 6 - Variety",
+      "url": "https://variety.com/2024/tv/news/house-of-the-dragon-rhaenyra-mysaria-kiss-emma-darcy-sonoya-mizuno-1236078234/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/07/House-of-the-Dragon-3.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "author": "JIM GOMEZ",
+      "content": "MANILA, Philippines (AP) China and the Philippines reached a deal they hope will end confrontations at the most fiercely disputed shoal in the South China Sea, the Philippine government said Sunday.\r\u2026 [+4784 chars]",
+      "description": "China and the Philippines say they have reached a deal intended to end confrontations at the most fiercely disputed shoal in the South China Sea. The Philippines occupies Second Thomas Shoal but China also claims it, and increasingly hostile flare-ups between\u2026",
+      "publishedAt": "2024-07-22T01:52:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "China and the Philippines announce deal aimed at stopping stop clashes at fiercely disputed shoal - The Associated Press",
+      "url": "https://apnews.com/article/philippines-china-shoal-agreement-3450e06b61bbe6ef9cd5dd9e211f6f79",
+      "urlToImage": "https://dims.apnews.com/dims4/default/119f9b7/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B-%2F71%2F%2C%20-128%2C%203%2C%20106%2C%2016%2C%2023%2C%20101%2C%20-49%2C%2043%2C%20-125%2C%20115%2C%20-40%2C%2062%2C%20116%2C%20-21%2C%2090%2C%20122%2C%2080%2C%2084%2C%2078%2C%2082%2C%20100%2C%2092%2C%20104%2C%20-124%2C%2015%2C%2029%2C%20-44%5D%2F082e6277b7a64b02b23a47133e6d9f20"
+    },
+    {
+      "author": "MLB.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T01:41:15Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Alvarez completes cycle, gets keepsake ball from gracious fan - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy95b3JkYW4tYWx2YXJlei1oaXRzLWZvci1jeWNsZdIBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "BBC.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T01:31:53Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "CrowdStrike: 'Significant number' of impacted devices back online - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZ2w3ZTMzbjFkMG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2dsN2UzM24xZDBvLmFtcA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Deadline",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T01:14:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Top Hollywood Donors Already Writing Check, \u201cExcited & Motivated\u201d For Kamala Harris After Joe Biden\u2019s Exit - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvaG9sbHl3b29kLWRvbm9ycy1iYWNrLWthbWFsYS1oYXJyaXMtYmlkZW4tZXhpdC0xMjM2MDE3MDkyL9IBW2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvaG9sbHl3b29kLWRvbm9ycy1iYWNrLWthbWFsYS1oYXJyaXMtYmlkZW4tZXhpdC0xMjM2MDE3MDkyL2FtcC8?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Andrew Jeong, Annabelle Timsit, Jennifer Hassan",
+      "content": "Israeli forces intercepted a surface-to-surface missile fired from Yemen, the Israel Defense Forces said in a statement on social media Sunday.\r\nThe missile did not cross into Israeli territory, but \u2026 [+3843 chars]",
+      "description": "Israeli forces said the missile was launched from Yemen a day after Israel struck a Houthi-controlled port there and two days after a rare Houthi attack in Tel Aviv.",
+      "publishedAt": "2024-07-22T01:13:45Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Israel intercepts missile from Yemen after airstrikes on Houthi port - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2024/07/21/israel-hamas-war-news-gaza-yemen/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRI5JDMD76HWQ277MGBVPGBP6A_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "JOSH BOAK",
+      "content": "WASHINGTON (AP) Sitting in the Oval Office behind the iconic Resolute desk in 2022, an animated President Joe Biden described the challenge of leading a psychologically traumatized nation.\r\nThe Unite\u2026 [+8649 chars]",
+      "description": "Historians and political advisers say history will be kinder to President Joe Biden than voters have been. David Axelrod, a former senior adviser to President Barack Obama, said Biden's legacy will include many legislative achievements, but above all, he will\u2026",
+      "publishedAt": "2024-07-22T00:05:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Biden\u2019s legacy: Far-reaching accomplishments that didn\u2019t translate into political support - The Associated Press",
+      "url": "https://apnews.com/article/biden-political-legacy-presidential-election-5aee4f47ecb317d4f6ef2a2148eba1d8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f2003f7/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B-%2F5%2C%2F%2097%2C%20-10%2C%20-84%2C%20-13%2C%2010%2C%2011%2C%20-74%2C%20-32%2C%20-105%2C%2016%2C%20-81%2C%20-53%2C%20-126%2C%2090%2C%20-79%2C%20-54%2C%2093%2C%20-27%2C%2043%2C%20-40%2C%20-47%2C%2026%2C%20-41%2C%20-125%2C%20116%2C%20-73%2C%2082%5D%2F4dde32eb91d14997817d14172e06bb9e"
+    },
+    {
+      "author": null,
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un\u2026 [+1139 chars]",
+      "description": null,
+      "publishedAt": "2024-07-22T00:02:51Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "China surprises with cuts to key rates to support weak economy - Reuters",
+      "url": "https://consent.google.com/m",
+      "urlToImage": null
+    },
+    {
+      "author": "E! NEWS",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-21T23:52:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Jennifer Lopez Celebrates 55th Birthday at Bridgerton -Themed Party - E! NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTQwNTIyNy9qZW5uaWZlci1sb3Blei1jZWxlYnJhdGVzLTU1dGgtYmlydGhkYXktYXQtYnJpZGdlcnRvbi10aGVtZWQtcGFydHnSAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "IndyStar",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-21T23:00:25Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "'I love you, Indiana fans': Kyle Larson wins at Indianapolis Motor Speedway in NASCAR's Brickyard 400 - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5pbmR5c3Rhci5jb20vc3Rvcnkvc3BvcnRzL21vdG9yLzIwMjQvMDcvMjEvYnJpY2t5YXJkLTQwMC1hdC1pbmRpYW5hcG9saXMtbGl2ZS11cGRhdGVzLWNyYXNoZXMtaGlnaGxpZ2h0cy83NDQ4NTQxODAwNy_SAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Ewan Spence",
+      "content": "Updated July 21 with new design details of the upcoming iPhone SE.\r\nWith the launch of Apple Intelligence, Apple is ready to join the world of AI-first smartphones. While the iPhone 16 Pro will be th\u2026 [+5846 chars]",
+      "description": "The iPhone 16 may be on it's way, but a better iPhone is waiting and it will offer value for money, new hardware, and the power of artificial intelligence.",
       "publishedAt": "2024-07-21T22:30:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Forget The iPhone 16, Apple Has Something Much Better - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZXdhbnNwZW5jZS8yMDI0LzA3LzIxL2FwcGxlLWlwaG9uZS0xNi1pcGhvbmUtMTYtcHJvLWFpLWFwcGxlLWludGVsbGlnZW5jZS1hMTgtbmV3LWlwaG9uZS1zZS_SAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Kris Holt",
-      "content": "Answers for today's NYT Mini Crossword are just ahead.\r\nNew York Times\r\nIn case you missed Sundays NYT Mini, you can find the answers here:\r\nForbesToday's NYT Mini Crossword Clues And Answers For Sun\u2026 [+2313 chars]",
-      "description": "Looking for some help with Monday's NYT Mini crossword? The clues and answers are right here.",
-      "publishedAt": "2024-07-21T22:15:13Z",
       "source": {
         "id": null,
         "name": "Forbes"
       },
-      "title": "Today\u2019s NYT Mini Crossword Clues And Answers For Monday, July 22 - Forbes",
-      "url": "https://www.forbes.com/sites/krisholt/2024/07/21/nyt-mini-crossword-today-help-clues-answers-monday-july-22-halo-console-prescriptions-for-short-pasta-museum-spunk/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6698a348e6e4a36a76edc7fb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      "title": "Forget The iPhone 16, Apple Has Something Much Better - Forbes",
+      "url": "https://www.forbes.com/sites/ewanspence/2024/07/21/apple-iphone-16-iphone-16-pro-ai-apple-intelligence-a18-new-iphone-se/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669c4114681f6e5de9cb189c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "author": "Yahoo Finance",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-21T22:29:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Tellurian to be Acquired by Woodside for Approximately $900 Million - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90ZWxsdXJpYW4tYWNxdWlyZWQtd29vZHNpZGUtYXBwcm94aW1hdGVseS05MDAtMjIyOTAwOTQ5Lmh0bWzSAQA?oc=5",
+      "urlToImage": null
     },
     {
       "author": "Ben Schoon",
@@ -90,177 +259,8 @@
       "title": "Pixel 9 Pro XL leak shows 16GB RAM, 256GB storage, new Samsung modem [Gallery] - 9to5Google",
       "url": "http://9to5google.com/2024/07/21/google-pixel-9-pro-modem-ram-leak/",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Google-Pixel-9-Pro-teaser-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    },
-    {
-      "author": "ESPN",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T21:56:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Major season superlatives: Schauffele's second win caps year of U.S. golf dominance - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5lc3BuLmNvbS9nb2xmL3N0b3J5L18vaWQvNDA2MTA2MDkvbWFqb3Itc2Vhc29uLXN1cGVybGF0aXZlcy14YW5kZXItc2NoYXVmZmVsZS1zY290dGllLXNjaGVmZmxlci1icnlzb24tZGVjaGFtYmVhdS1yb3J5LW1jaWxyb3nSAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "ABC News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T21:45:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Replacing Biden on ticket would be 'unlawful' in some states, Johnson claims. Experts disagree. - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvam9obnNvbi1yZXBsYWNpbmctYmlkZW4tdGlja2V0LXdyb25nLXVubGF3ZnVsL3N0b3J5P2lkPTExMjEyOTA2M9IBZGh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL2pvaG5zb24tcmVwbGFjaW5nLWJpZGVuLXRpY2tldC13cm9uZy11bmxhd2Z1bC9zdG9yeT9pZD0xMTIxMjkwNjM?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Verge",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T21:40:01Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Galaxy Z Flip 6 and Z Fold 6 phones won\u2019t come with Samsung Messages in the US - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzcvMjEvMjQyMDMxMzcvc2Ftc3VuZy1tZXNzYWdlcy1uby1wcmUtaW5zdGFsbC1nYWxheHktei1mb2xkLWZsaXAtNi1nb29nbGUtbWVzc2FnZXMtYW5kcm9pZC1yY3PSAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CNN",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T19:58:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Live updates: Biden drops out of 2024 presidential race, endorses Kamala Harris - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNubi5jb20vcG9saXRpY3MvbGl2ZS1uZXdzL2JpZGVuLXRydW1wLWVsZWN0aW9uLTA3LTIxLTI0L2luZGV4Lmh0bWzSAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Keith Collantine",
-      "content": "Max Verstappen gave Red Bull both barrels over their strategy calls as he fell to fifth place in the Hungarian Grand Prix.\r\nHis dissatisfaction reached a peak when his race engineer Gianpiero Lambias\u2026 [+9451 chars]",
-      "description": "Red Bull team principal Christian Horner said he understood Max Verstappen \"venting\" over his strategy in Hungary. Here's what went wrong.",
-      "publishedAt": "2024-07-21T19:48:08Z",
-      "source": {
-        "id": null,
-        "name": "RaceFans"
-      },
-      "title": "Horner understood Verstappen \u201cventing his frustration\u201d over Red Bull\u2019s strategy - RaceFans",
-      "url": "https://www.racefans.net/2024/07/21/horner-understood-verstappen-venting-his-frustration-over-red-bulls-strategy/",
-      "urlToImage": "https://www.racefans.net/wp-content/uploads/2024/07/lapchart.jpg"
-    },
-    {
-      "author": "The Associated Press",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T19:48:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Tadej Pogacar celebrates his 3rd Tour de France victory in style with another audacious stage win - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvZ2FjYXItdG91ci1kZS1mcmFuY2UtdmluZ2VnYWFyZC1jMzM4NWExY2I5Y2YzYzcxMDU2MDc1NjM0NWNhNDcyMtIBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Rolling Stone",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T19:21:25Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Eminem Dethrones Taylor Swift to Claim the Number One Album in the Country - Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9lbWluZW0tZGVhdGgtb2Ytc2xpbS1zaGFkeS1kZWJ1dHMtbnVtYmVyLW9uZS1iaWxsYm9hcmQtY2hhcnQtMTIzNTA2NDQ1MS_SAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Yahoo Finance",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T18:32:05Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Joe Biden dropout fallout, inflation data, and the start of tech earnings: What to know this week - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvam9lLWJpZGVuLWRyb3BvdXQtZmFsbG91dC1pbmZsYXRpb24tZGF0YS1hbmQtdGhlLXN0YXJ0LW9mLXRlY2gtZWFybmluZ3Mtd2hhdC10by1rbm93LXRoaXMtd2Vlay0xODE3MTUwNzguaHRtbNIBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Nancy Tartaglione",
-      "content": "Refresh for latest: Universal/Warner Bros/Amblins Twisters positively blasted past forecasts domestically this session. While the international box office result is pretty close to where we saw it co\u2026 [+3515 chars]",
-      "description": "Twisters",
-      "publishedAt": "2024-07-21T17:33:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "\u2018Twisters\u2019 Swirls To $123M Global; \u2018Despicable Me 4\u2019 Gruves Towards $600M & \u2018Inside Out 2\u2019 Soon To Claim No. 1 Animated Movie Of All Time Worldwide \u2014 International Box Office - Deadline",
-      "url": "http://deadline.com/2024/07/twisters-despicable-me-4-inside-out-2-global-international-box-office-1236016844/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/twisters-dm4-inside-out.jpg?w=1024"
-    },
-    {
-      "author": "JOSEF FEDERMAN, MICHAEL WAKIN",
-      "content": "JERUSALEM (AP) The Israeli military said it intercepted a missile fired from Yemen early Sunday, hours after Israeli warplanes struck several Houthi targets in the Arabian Peninsula country.\r\nThe Isr\u2026 [+5110 chars]",
-      "description": "The Israeli military says it has intercepted a missile fired from Yemen. The interception early Sunday occurred after Israeli warplanes struck several Houthi rebel targets in Yemen. The Israeli airstrikes were launched in response to a deadly Houthi drone str\u2026",
-      "publishedAt": "2024-07-21T17:21:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Israel shoots down a missile fired from Yemen hours after a deadly Israeli strike on Houthi rebels - The Associated Press",
-      "url": "https://apnews.com/article/israel-hamas-gaza-war-houthis-hezbollah-iran-ddd11628677424d5fc21985c4764e22b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8526a87/2147483647/strip/true/crop/9094x5115+0+249/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B-%2F12%2F2%2C%20-113%2C%2090%2C%20-108%2C%2085%2C%20-20%2C%2075%2C%20100%2C%2040%2C%201%2C%20105%2C%20107%2C%2046%2C%2034%2C%2064%2C%20-77%2C%20-102%2C%2021%2C%20-122%2C%20-85%2C%2036%2C%2044%2C%20-13%2C%20-83%2C%2062%2C%20-105%2C%2078%2C%2062%5D%2F2578de5f2a2b44b99f3f73a480b8cd68"
-    },
-    {
-      "author": "Daily Mail",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T17:19:20Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Daily Mail health reporter goes vegan for a month after tests showed she was at risk for major diseases. What - Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMzYxMzA0OS9EYWlseS1NYWlsLWhlYWx0aC1yZXBvcnRlci12ZWdhbi1jaG9sZXN0ZXJvbC5odG1s0gFpaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL2hlYWx0aC9hcnRpY2xlLTEzNjEzMDQ5L2FtcC9EYWlseS1NYWlsLWhlYWx0aC1yZXBvcnRlci12ZWdhbi1jaG9sZXN0ZXJvbC5odG1s?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-21T17:19:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Fighting in southern Gaza, Israeli strikes hit central areas - Reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2ZpZ2h0aW5nLXJhZ2VzLXNvdXRoZXJuLWdhemEtaXNyYWVsaS1zdHJpa2VzLWhpdC1jZW50cmFsLWFyZWFzLTIwMjQtMDctMjEv0gEA?oc=5",
-      "urlToImage": null
     }
   ],
   "status": "ok",
-  "totalResults": 35
+  "totalResults": 33
 }
