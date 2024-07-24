@@ -1,101 +1,10 @@
 {
   "articles": [
     {
-      "author": "The Washington Post",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-22T18:37:17Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Congress grills Secret Service director about Trump rally shooting - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA3LzIyL3NlY3JldC1zZXJ2aWNlLWRpcmVjdG9yLWtpbWJlcmx5LWNoZWF0bGUtdGVzdGltb255LXRydW1wL9IBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Associated Press",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-22T18:26:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Most airlines except one are recovering from the CrowdStrike tech outage. The feds have noticed - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL291dGFnZS1haXJsaW5lLWRlbHRhLTQwZmMyMDhhYzgzOGNhZmFiNDA0ODJiNzMxMDcyMDE40gEA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "WTAE Pittsburgh",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-22T18:07:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Could Gov. Shapiro be a VP pick? What political experts are saying - WTAE Pittsburgh",
-      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lnd0YWUuY29tL2FydGljbGUvcGVubnN5bHZhbmlhLWpvc2gtc2hhcGlyby1rYW1hbGEtaGFycmlzLWpvZS1iaWRlbi82MTY2NjE0NNIBAA?oc=5",
-      "urlToImage": null
-    },
-    {
       "author": "CNN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T17:55:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "World leaders react to Biden\u2019s exit from the 2024 US presidential race - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMi93b3JsZC93b3JsZC1yZWFjdGlvbi1iaWRlbi1leGl0LTIwMjQtdXMtcHJlc2lkZW50aWFsLXJhY2UvaW5kZXguaHRtbNIBXGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjIvd29ybGQvd29ybGQtcmVhY3Rpb24tYmlkZW4tZXhpdC0yMDI0LXVzLXByZXNpZGVudGlhbC1yYWNl?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Hill",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-22T17:31:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Pelosi endorses Harris as Democratic nominee - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vNDc4NjE5Ny1wZWxvc2ktZW5kb3JzZXMtaGFycmlzLWRlbW9jcmF0aWMtbm9taW5lZS_SAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-22T17:05:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Sliding airline profits and plane delays cast shadows at air show - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL3NsaWRpbmctYWlybGluZS1wcm9maXRzLXBsYW5lLWRlbGF5cy1jYXN0LXNoYWRvd3MtYWlyLXNob3ctMjAyNC0wNy0yMi_SAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Vlad",
-      "content": "Ahead of Google's upcoming hardware launch event on August 13, we've seen a lot of leaks about the upcoming devices, and today two new renders have been leaked showing the vanilla Pixel 9 and the Pix\u2026 [+1343 chars]",
-      "description": "The entire Pixel 9 lineup is becoming official on August 13. Ahead of Google's upcoming hardware launch event on August 13, we've seen a lot of leaks about...",
-      "publishedAt": "2024-07-22T16:45:02Z",
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "title": "New Google Pixel 9 and Pixel 9 Pro XL renders leak - GSMArena.com news - GSMArena.com",
-      "url": "https://www.gsmarena.com/new_google_pixel_9_and_pixel_9_pro_xl_renders_leak-news-63806.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/07/google-pixel-9-pixel-9-pro-xl-new-leaked-renders/-952x498w6/gsmarena_000.jpg"
-    },
-    {
-      "author": "CNN",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-22T16:29:00Z",
+      "publishedAt": "2024-07-23T00:31:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
@@ -108,159 +17,250 @@
       "author": "NFL.com",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T16:19:00Z",
+      "publishedAt": "2024-07-23T00:00:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Ravens' John Harbaugh sets new goal for Lamar Jackson: Become the greatest QB in NFL history - NFL.com",
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy9yYXZlbnMtam9obi1oYXJiYXVnaC1zZXRzLW5ldy1nb2FsLWZvci1sYW1hci1qYWNrc29uLWJlY29tZS10aGUtZ3JlYXRlc3QtcWItaW4tbmZsLWhpc3RvcnnSAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CNN",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-22T16:07:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Scientists discover \u2018dark\u2019 oxygen being produced more than 13,000 feet below the ocean surface - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMi9zY2llbmNlL2Rhcmstb3h5Z2VuLWRpc2NvdmVyeS1kZWVwLXNlYS1taW5pbmcvaW5kZXguaHRtbNIBUGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjIvc2NpZW5jZS9kYXJrLW94eWdlbi1kaXNjb3ZlcnktZGVlcC1zZWEtbWluaW5n?oc=5",
+      "title": "Top 100 Players of 2024, Nos. 100-91: Aaron Rodgers falls to lowest ranking in his career - NFL.com",
+      "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy90b3AtMTAwLXBsYXllcnMtb2YtMjAyNC1ub3MtMTAwLTkxLWFhcm9uLXJvZGdlcnMtdHJldm9yLWxhd3JlbmNl0gEA?oc=5",
       "urlToImage": null
     },
     {
       "author": "BBC.com",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T15:52:22Z",
+      "publishedAt": "2024-07-22T23:45:39Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "The president's protectors are hardly noticeable - until things go wrong - BBC.com",
-      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMTZqODk2MDAzeG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzE2ajg5NjAwM3hvLmFtcA?oc=5",
+      "title": "Chimps share humans' 'snappy' conversational style - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMjVsdzE4enJqeW_SAQA?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Iain Carter",
-      "content": "While Xander Schauffele celebrates completing the first American shutout of the four men's majors in 42 years, it is worth reflecting on the maddening magnificence of UK links golf at its highest lev\u2026 [+2768 chars]",
-      "description": "The 152nd Open should be remembered as a classic, writes BBC golf correspondent Iain Carter.",
-      "publishedAt": "2024-07-22T15:30:07Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Xander Schauffele: American passes ultimate examination to win at Royal Troon - BBC.com",
-      "url": "https://www.bbc.com/sport/golf/articles/cv2g1glwypqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/e404/live/2ccb8690-483f-11ef-96a8-e710c6bfc866.jpg"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Variety",
+      "author": "The Washington Post",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T15:22:00Z",
+      "publishedAt": "2024-07-22T23:32:45Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "\u2018Twisters\u2019 Box Office: How 4DX Screenings and Midwestern Moviegoers Propelled the Sequel to Blockbuster Status - Variety",
-      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL2JveC1vZmZpY2UvdHdpc3RlcnMtNGR4LXNjcmVlbmluZ3MtYm94LW9mZmljZS1ibG9ja2J1c3Rlci1nbGVuLXBvd2VsbC0xMjM2MDc5NDkyL9IBc2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL2JveC1vZmZpY2UvdHdpc3RlcnMtNGR4LXNjcmVlbmluZ3MtYm94LW9mZmljZS1ibG9ja2J1c3Rlci1nbGVuLXBvd2VsbC0xMjM2MDc5NDkyL2FtcC8?oc=5",
+      "title": "Kamala Harris won\u2019t preside over Netanyahu\u2019s speech to Congress - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzA3LzIyL2thbWFsYS1oYXJyaXMtYmliaS1uZXRhbnlhaHUtc3BlZWNoLWNvbmdyZXNzL9IBAA?oc=5",
       "urlToImage": null
     },
     {
-      "author": "CNBC",
+      "author": "The Guardian US",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T14:44:37Z",
+      "publishedAt": "2024-07-22T23:11:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "McDonald\u2019s to extend $5 value meal in most U.S. markets as diners return to restaurants - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjIvbWNkb25hbGRzLXRvLWV4dGVuZC01LXZhbHVlLW1lYWwtaW4tbW9zdC1tYXJrZXRzLmh0bWzSAVlodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNy8yMi9tY2RvbmFsZHMtdG8tZXh0ZW5kLTUtdmFsdWUtbWVhbC1pbi1tb3N0LW1hcmtldHMuaHRtbA?oc=5",
+      "title": "\u2018Oh thank God\u2019: Democratic swing state voters feel relief after Biden drops out - The Guardian US",
+      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMjIvYmlkZW4tb3V0LWRlbW9jcmF0cy1zd2luZy1zdGF0ZS12b3RlcnPSAV5odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdXMtbmV3cy9hcnRpY2xlLzIwMjQvanVsLzIyL2JpZGVuLW91dC1kZW1vY3JhdHMtc3dpbmctc3RhdGUtdm90ZXJz?oc=5",
       "urlToImage": null
     },
     {
-      "author": "ESPN",
+      "author": "Hindustan Times",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T14:36:00Z",
+      "publishedAt": "2024-07-22T22:57:10Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Love won't practice without deal; Pack optimistic - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwNjE2NTI4L2pvcmRhbi1sb3ZlLXByYWN0aWNlLWRlYWwtcGFja2Vycy1vcHRpbWlzdGlj0gEA?oc=5",
+      "title": "NASA's \u2018mind-blowing\u2019 accidental Mars discovery was \u2018like finding an oasis in the desert\u2019 - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL25hc2FzLW1pbmQtYmxvd2luZy1hY2NpZGVudGFsLW1hcnMtZGlzY292ZXJ5LXdhcy1saWtlLWZpbmRpbmctYW4tb2FzaXMtaW4tdGhlLWRlc2VydC0xMDE3MjE2Nzk0OTA2MTUuaHRtbNIBnwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy91cy1uZXdzL25hc2FzLW1pbmQtYmxvd2luZy1hY2NpZGVudGFsLW1hcnMtZGlzY292ZXJ5LXdhcy1saWtlLWZpbmRpbmctYW4tb2FzaXMtaW4tdGhlLWRlc2VydC0xMDE3MjE2Nzk0OTA2MTUtYW1wLmh0bWw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T22:45:02Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "\u201cWe need to defend our sister everywhere\u201d: Inside the organizing call for Harris - POLITICO",
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjIva2FtYWxhLWhhcnJpcy16b29tLWZ1bmRyYWlzZXItMDAxNzA0NTLSAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Verge",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T22:25:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Google\u2019s next streaming player looks nothing like the Chromecast - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzcvMjIvMjQyMDM5OTMvZ29vZ2xlLXR2LXN0cmVhbWVyLWxlYWstZGVzaWduLWZlYXR1cmVz0gEA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Ars Technica",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T22:22:21Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Second Colorado poultry farm reports human bird flu case amid dairy outbreak - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyNC8wNy9zZWNvbmQtY29sb3JhZG8tcG91bHRyeS1mYXJtLXJlcG9ydHMtaHVtYW4tYmlyZC1mbHUtY2FzZS1hbWlkLWRhaXJ5LW91dGJyZWFrL9IBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T22:22:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Delta CEO sees flight disruptions lasting for another couple of days - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2RlbHRhLWNhbmNlbHMtYW5vdGhlci02MDAtZmxpZ2h0cy1tb25kYXktd2FrZS1jeWJlci1vdXRhZ2UtMjAyNC0wNy0yMi_SAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Fox News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T22:15:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Abdul 'Duke' Fakir, Four Tops singer, dead at 88 - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL2VudGVydGFpbm1lbnQvYWJkdWwtZHVrZS1mYWtpci1mb3VyLXRvcHMtc2luZ2VyLWRlYWQtODjSAVNodHRwczovL3d3dy5mb3huZXdzLmNvbS9lbnRlcnRhaW5tZW50L2FiZHVsLWR1a2UtZmFraXItZm91ci10b3BzLXNpbmdlci1kZWFkLTg4LmFtcA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Melissa Rudy",
+      "content": "Two people have died so far due to a listeria outbreak\r\n in the U.S., the Centers for Disease Control and Prevention (CDC) alerted on Friday.\r\nListeria is the third-leading cause of death from foodbo\u2026 [+2880 chars]",
+      "description": "Two people have died so far due to a listeria outbreak in the U.S., the CDC alerted on Friday. Here's what to know about risk factors and prevention of infection.",
+      "publishedAt": "2024-07-22T21:37:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Listeria infection linked to deli meats kills 2, infects 28 across US, CDC warns - Fox News",
+      "url": "https://www.foxnews.com/health/listeria-infection-linked-deli-meats-kills-2-infects-28-across-us-cdc-warns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/deli-meat-listeria.jpg"
+    },
+    {
+      "author": "USA TODAY",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T21:33:45Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Team USA Basketball Showcase highlights: US squeaks past Germany in final exhibition game - USA TODAY",
+      "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL29seW1waWNzLzIwMjQvMDcvMjIvdXNhLWdlcm1hbnktbGl2ZS11cGRhdGVzLXNjb3JlLWhpZ2hsaWdodHMtb2x5bXBpYy1zaG93Y2FzZS1iYXNrZXRiYWxsLzc0NDg0NDUzMDA3L9IBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "BBC.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T21:14:55Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Conservatives launch plans to elect new leader - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnAyNGw1MjU0eG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZwMjRsNTI1NHhvLmFtcA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "New York Post ",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T21:00:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Who\u2019s taking Ozempic? New data reveals \u2018significant\u2019 shift, prompts shortage fears - New York Post ",
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIyL2xpZmVzdHlsZS9uZXctb3plbXBpYy1kYXRhLXJldmVhbHMtd2hvcy1vbi1pdC1wcm9tcHRzLXNob3J0YWdlLWZlYXJzL9IBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Newsweek",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T20:53:37Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Satellite imagery shows extensive damage to Yemeni oil fields by Israel - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS95ZW1lbi1ob3V0aGktb2lsLWZpZWxkcy1pc3JhZWwtYWlyc3RyaWtlLXNhdGVsbGl0ZS1pbWFnZXMtMTkyODc0MtIBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "ALANNA DURKIN RICHER, FARNOUSH AMIRI, CLAUDIA LAUER",
+      "content": "WASHINGTON (AP) Secret Service Director Kimberly Cheatle said Monday that her agency failed in its mission to protect former President Donald Trump, as lawmakers of both major political parties deman\u2026 [+6792 chars]",
+      "description": "The Secret Service's director says the roof where a shooter opened fire at Donald Trump's Pennsylvania rally was identified as a potential vulnerability days before the event. Director Kimberly Cheatle made the comments Monday as she was grilled by lawmakers \u2026",
+      "publishedAt": "2024-07-22T20:41:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Secret Service director, grilled by lawmakers on the Trump assassination attempt, says 'we failed' - The Associated Press",
+      "url": "https://apnews.com/article/secret-service-trump-rally-shooting-kimberly-cheatle-fabaf9a0e57d5545e5b60f0b2215778f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/485de7d/2147483647/strip/true/crop/4928x2772+0+254/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B-%2F72%2F%2C%2098%2C%20-114%2C%20111%2C%20-89%2C%20127%2C%2053%2C%20-70%2C%20118%2C%20-67%2C%2028%2C%20-41%2C%20-41%2C%2074%2C%20-32%2C%2025%2C%20-41%2C%2042%2C%20-90%2C%20-74%2C%20-100%2C%20-90%2C%20-75%2C%20-70%2C%2047%2C%2081%2C%20-25%2C%20-17%5D%2F2a096db704a0442791bdcaffc4a1f3fc"
+    },
+    {
+      "author": "BBC.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-22T19:56:42Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Gaza war: Israel orders evacuation of part humanitarian zone - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZ2Vyejh3ZTF2Z2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2dlcno4d2UxdmdvLmFtcA?oc=5",
       "urlToImage": null
     },
     {
       "author": "CNN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T14:33:00Z",
+      "publishedAt": "2024-07-22T19:52:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Six killed after gunman opens fire in Croatian care home, local media reports - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMi9ldXJvcGUvY3JvYXRpYS1zaG9vdGluZy1jYXJlLWhvbWUtaW50bC9pbmRleC5odG1s0gFJaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yMi9ldXJvcGUvY3JvYXRpYS1zaG9vdGluZy1jYXJlLWhvbWUtaW50bA?oc=5",
+      "title": "Southwest flight flew just 150 feet above the ground, tracking data shows - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMi91cy9zb3V0aHdlc3QtZmxpZ2h0LWZsZXctanVzdC0xNTAtZmVldC1hYm92ZS10aGUtZ3JvdW5kLXRyYWNraW5nLWRhdGEtc2hvdy9pbmRleC5odG1s0gFtaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yMi91cy9zb3V0aHdlc3QtZmxpZ2h0LWZsZXctanVzdC0xNTAtZmVldC1hYm92ZS10aGUtZ3JvdW5kLXRyYWNraW5nLWRhdGEtc2hvdw?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Seana Smith",
-      "content": "Telecom and wireless network operator Verizon (VZ) is slipping ahead of Monday's market open after reporting second quarter earnings results: its adjusted earnings per share of $1.15 coming in line w\u2026 [+437 chars]",
-      "description": "Telecom and wireless network operator Verizon (VZ) is slipping ahead of Monday's market open after reporting second quarter earnings results: its adjusted...",
-      "publishedAt": "2024-07-22T14:00:44Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "Verizon stock falls, subscribers grow in Q2 revenue miss - Yahoo Finance",
-      "url": "https://finance.yahoo.com/video/verizon-stock-falls-subscribers-grow-140044519.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.6N5ULGv8dkYziAVVt6W5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c281f640-482d-11ef-9f8f-b26850ad0326"
-    },
-    {
-      "author": "Entertainment Tonight",
+      "author": "The Washington Post",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-22T13:47:00Z",
+      "publishedAt": "2024-07-22T19:48:26Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Kendall Jenner Is Called Out by Miley Cyrus for Singing During Her Intimate Concert - Entertainment Tonight",
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9rZW5kYWxsLWplbm5lci1pcy1jYWxsZWQtb3V0LWJ5LW1pbGV5LWN5cnVzLWZvci1zaW5naW5nLWR1cmluZy1oZXItaW50aW1hdGUtY29uY2VydC0yMjk0NTTSAXdodHRwczovL3d3dy5ldG9ubGluZS5jb20va2VuZGFsbC1qZW5uZXItaXMtY2FsbGVkLW91dC1ieS1taWxleS1jeXJ1cy1mb3Itc2luZ2luZy1kdXJpbmctaGVyLWludGltYXRlLWNvbmNlcnQtMjI5NDU0P2FtcA?oc=5",
+      "title": "What coconut trees and Charli XCX\u2019s \u2018Brat\u2019 have to do with Kamala Harris - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wNy8yMi9rYW1hbGEtaGFycmlzLWNvY29udXQtdHJlZS1icmF0LXN1bW1lci1tZW1lL9IBAA?oc=5",
       "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "Nicole Kidman has her eyes on memory lane.\r\nThe Eyes Wide Shut actress, who starred alongside her ex-husband Tom Cruise in the 1999 film directed by Stanley Kubrick, recently reflected on the filming\u2026 [+733 chars]",
-      "description": "Nicole Kidman detailed working with her ex Tom Cruise and director Stanley Kubrick on Eyes Wide Shut for the movie&rsquo;s 25th anniversary.",
-      "publishedAt": "2024-07-22T13:25:00Z",
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "title": "Nicole Kidman Makes Rare Comments About Ex-Husband Tom Cruise - E! Online - E! NEWS",
-      "url": "https://www.eonline.com/news/1405230/nicole-kidman-makes-rare-comments-about-ex-husband-tom-cruise",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20211130/rs_1200x1200-211230052433-1200-Nicole-Kidman-Tom-Cruise.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
     }
   ],
   "status": "ok",
-  "totalResults": 38
+  "totalResults": 37
 }

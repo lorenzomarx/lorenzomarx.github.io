@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "Seven cases have been reported in Colorado this month, bringing the total to 11.",
+      "publishedAt": "2024-07-22T22:22:21+00:00",
+      "title": "Human bird flu cases tick up; second Colorado poultry farm reports spread",
+      "url": "https://arstechnica.com/science/2024/07/second-colorado-poultry-farm-reports-human-bird-flu-case-amid-dairy-outbreak/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1247141930-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "DIYer picks a \"little insane\"-looking setup for less tracking, more control.",
+      "publishedAt": "2024-07-22T21:10:27+00:00",
+      "title": "Imperfect, Linux-powered, DIY smart TV is the embodiment of ad fatigue",
+      "url": "https://arstechnica.com/gadgets/2024/07/broken-linux-laptop-makes-for-a-fine-smart-tv-alternative/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/earlgreytv-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Consumer laws may change Meta\u2019s ad-free plans before EU's digital crackdown does.",
+      "publishedAt": "2024-07-22T19:37:36+00:00",
+      "title": "Meta risks sanctions over \u201csneaky\u201d ad-free plans confusing users, EU says",
+      "url": "https://arstechnica.com/tech-policy/2024/07/meta-risks-sanctions-over-sneaky-ad-free-plans-confusing-users-eu-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1246473636-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Google/academic project is great with weather, has some limits for climate.",
+      "publishedAt": "2024-07-22T17:45:59+00:00",
+      "title": "Model mixes AI and physics to do global forecasts",
+      "url": "https://arstechnica.com/science/2024/07/mixed-ai-physics-forecast-model-handles-both-weather-and-a-bit-of-climate/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Screenshot-2024-07-22-at-10.14.11\u202fAM-760x321.png"
+    },
+    {
+      "author": "Rachel Millard and Amanda Chu, Financial Times",
+      "description": "Global supply glut of panels is hurting producers but also helping installations.",
+      "publishedAt": "2024-07-22T17:42:21+00:00",
+      "title": "Can the solar industry keep the lights on?",
+      "url": "https://www.ft.com/content/9c53f696-6e32-4349-bd18-f4d431e2a577",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1453859222-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "When reboots don't work, bootable USB sticks may help ease fixes for some PCs.",
+      "publishedAt": "2024-07-22T17:07:31+00:00",
+      "title": "Microsoft says 8.5M systems hit by CrowdStrike BSOD, releases USB recovery tool",
+      "url": "https://arstechnica.com/information-technology/2024/07/microsoft-says-8-5m-systems-hit-by-crowdstrike-bsod-releases-usb-recovery-tool/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/crowdstrike-falcon-760x380.jpeg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Report: Apple vastly undercounts child sex abuse materials on iCloud and iMessage.",
+      "publishedAt": "2024-07-22T16:46:10+00:00",
+      "title": "Apple \u201cclearly underreporting\u201d child sex abuse, watchdogs say",
+      "url": "https://arstechnica.com/tech-policy/2024/07/apple-clearly-underreporting-child-sex-abuse-watchdogs-say/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2158085120-760x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "Researchers use technique to quantify eyeball reflections that often reveal deepfake images.",
       "publishedAt": "2024-07-22T16:19:42+00:00",
@@ -23,62 +79,6 @@
       "title": "The Falcon 9 rocket may return to flight as soon as Tuesday night",
       "url": "https://arstechnica.com/space/2024/07/the-falcon-9-rocket-may-return-to-flight-as-soon-as-tuesday-night/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/f9launchfile-760x380.jpg"
-    },
-    {
-      "author": "Jacek Krywko",
-      "description": "The military and NASA seem serious about building demonstration hardware.",
-      "publishedAt": "2024-07-22T11:00:25+00:00",
-      "title": "We\u2019re building nuclear spaceships again\u2014this time for real",
-      "url": "https://arstechnica.com/science/2024/07/were-building-thermonuclear-spaceships-again-this-time-for-real/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/2048px-DRACO_spacecraft-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Though carbon removal startups may limit global warming, significant questions remain.",
-      "publishedAt": "2024-07-20T11:20:14+00:00",
-      "title": "Will burying biomass underground curb climate change?",
-      "url": "https://arstechnica.com/?p=2038257",
-      "urlToImage": null
-    },
-    {
-      "author": "Elizabeth Rayne",
-      "description": "The density makes it look like a water world, but its dim host star keeps it cool.",
-      "publishedAt": "2024-07-20T10:00:48+00:00",
-      "title": "Mini-Neptune turned out to be a frozen super-Earth",
-      "url": "https://arstechnica.com/science/2024/07/exoplanet-could-possibly-be-a-frozen-alien-earth/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-6-760x380.jpeg"
-    },
-    {
-      "author": null,
-      "description": "\"It will miss the Earth. It will miss the Earth. It will miss the Earth.\"",
-      "publishedAt": "2024-07-20T00:26:42+00:00",
-      "title": "Armada to Apophis\u2014scientists recycle old ideas for rare asteroid encounter",
-      "url": "https://arstechnica.com/?p=2037417",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "New testing finds psilocin, related to psilocybin, in gummies purchased in 2023.",
-      "publishedAt": "2024-07-19T17:59:38+00:00",
-      "title": "Illegal drug found in Diamond Shruumz candies linked to severe illnesses",
-      "url": "https://arstechnica.com/?p=2038241",
-      "urlToImage": null
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "\"It tore from the inside instantly.\"",
-      "publishedAt": "2024-07-19T17:45:36+00:00",
-      "title": "Samsung delays Galaxy Buds3 Pro release over quality concerns",
-      "url": "https://arstechnica.com/gadgets/2024/07/samsung-delays-galaxy-buds3-pro-release-over-quality-concerns/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/006-Galaxy-Buds3-Pro-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "We all have a moment that defines us.",
-      "publishedAt": "2024-07-19T17:22:07+00:00",
-      "title": "Final Deadpool and Wolverine trailer features a familiar face from Logan",
-      "url": "https://arstechnica.com/?p=2038206",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
