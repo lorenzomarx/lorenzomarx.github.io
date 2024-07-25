@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "One snag: xAI might not have the electrical power contracts to do it.",
+      "publishedAt": "2024-07-24T16:19:41+00:00",
+      "title": "Elon Musk claims he is training \u201cthe world\u2019s most powerful AI by every metric\u201d",
+      "url": "https://arstechnica.com/information-technology/2024/07/elon-musk-claims-he-is-training-the-worlds-most-powerful-ai-by-every-metric/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/elon_musk_upclose-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The woman realized how serious her infection was once she was in custody.",
+      "publishedAt": "2024-07-24T15:01:25+00:00",
+      "title": "Woman who went on the lam with untreated TB is now cured",
+      "url": "https://arstechnica.com/science/2024/07/woman-who-went-on-the-lam-with-untreated-tb-is-now-cured/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/03/5149398678_97948614ea_o-514x215.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "There are also several new details about the iPhone 16, 17, and SE.",
+      "publishedAt": "2024-07-24T14:32:52+00:00",
+      "title": "Report: Apple beginning serious work on a foldable iPhone",
+      "url": "https://arstechnica.com/gadgets/2024/07/report-apple-begins-serious-work-on-a-foldable-iphone/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/iPhone-15-lineup-760x380.jpeg"
+    },
+    {
+      "author": "Ars Staff",
+      "description": "Got feelings about the future of AI and/or phone bezel width? Come apply!",
+      "publishedAt": "2024-07-24T14:00:01+00:00",
+      "title": "Ars is seeking a seasoned senior reporter for all things Google",
+      "url": "https://arstechnica.com/staff/2024/07/ars-is-seeking-a-seasoned-senior-reporter-for-all-things-google/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/googly-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Waymo is conducting more than 50,000 paid rides a week, Alphabet says.",
+      "publishedAt": "2024-07-24T13:57:36+00:00",
+      "title": "Alphabet invests another $5 billion in self-driving startup Waymo",
+      "url": "https://arstechnica.com/cars/2024/07/waymo-will-get-another-5-billion-investment-from-alphabet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/La-CP_002-760x380.jpg"
+    },
+    {
+      "author": "Andy Greenberg, WIRED.com",
+      "description": "The code was used to sabotage a heating utility in Lviv at the coldest point in the year.",
+      "publishedAt": "2024-07-24T11:15:43+00:00",
+      "title": "How Russia-linked malware cut heat to 600 Ukrainian buildings in deep winter",
+      "url": "https://arstechnica.com/security/2024/07/how-russia-linked-malware-cut-heat-to-600-ukrainian-buildings-in-deep-winter/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1913170731-760x380.jpg"
+    },
+    {
       "author": null,
       "description": "There were distinct patterns of cut marks, bone breakage in cooked vs. uncooked birds.",
       "publishedAt": "2024-07-24T04:01:46+00:00",
@@ -31,54 +79,6 @@
       "title": "The first GPT-4-class AI model anyone can download has arrived: Llama 405B",
       "url": "https://arstechnica.com/information-technology/2024/07/the-first-gpt-4-class-ai-model-anyone-can-download-has-arrived-llama-405b/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/lama405b_hero_3-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "The EPA's plan to cut carbon emissions from power plants can go ahead.",
-      "publishedAt": "2024-07-23T19:34:36+00:00",
-      "title": "Appeals Court denies stay to states trying to block EPA\u2019s carbon limits",
-      "url": "https://arstechnica.com/tech-policy/2024/07/epas-new-power-plant-emissions-rules-survive-first-attempt-to-kill-them/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-497323695-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "AT&T caused outage that blocked 92 million calls, 25,000 attempts to reach 911.",
-      "publishedAt": "2024-07-23T18:46:33+00:00",
-      "title": "AT&T failed to test disastrous update that kicked all devices off network",
-      "url": "https://arstechnica.com/tech-policy/2024/07/fcc-details-att-screwups-behind-outage-that-blocked-25000-calls-to-911/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The driverless Origin is dead; instead, Cruise will use next-generation Bolt EVs.",
-      "publishedAt": "2024-07-23T18:31:04+00:00",
-      "title": "The Cruise Origin driverless pod is dead, GM tells investors",
-      "url": "https://arstechnica.com/cars/2024/07/the-cruise-origin-driverless-pod-is-dead-gm-tells-investors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Cruise-Origin-in-SFs-Castro-District-760x380.jpg"
-    },
-    {
-      "author": "Paresh Dave, WIRED.com",
-      "description": "Driverless car service is getting aggressive against alleged vandals.",
-      "publishedAt": "2024-07-23T18:14:49+00:00",
-      "title": "Waymo is suing people who allegedly smashed and slashed its robotaxis",
-      "url": "https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1779067498-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "But microcode update can't fix CPUs that are already crashing or unstable.",
-      "publishedAt": "2024-07-23T17:45:28+00:00",
-      "title": "Intel has finally tracked down the problem making 13th- and 14th-gen CPUs crash",
-      "url": "https://arstechnica.com/gadgets/2024/07/intel-has-finally-tracked-down-the-problem-making-13th-and-14th-gen-cpus-crash/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/IMG_0561-760x380.jpeg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "A brief history of Google's ideas, proposals, and APIs for cookie replacements.",
-      "publishedAt": "2024-07-23T17:22:18+00:00",
-      "title": "Google halts its 4-plus-year plan to turn off tracking cookies by default in Chrome",
-      "url": "https://arstechnica.com/gadgets/2024/07/google-will-not-disable-tracking-cookies-in-chrome-after-years-of-trying/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1296611501-760x380.jpg"
     }
   ],
   "sortBy": "top",
