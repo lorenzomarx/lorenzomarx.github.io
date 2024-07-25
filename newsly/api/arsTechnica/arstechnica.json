@@ -1,12 +1,20 @@
 {
   "articles": [
     {
-      "author": "Jonathan M. Gitlin",
+      "author": "Jennifer Ouellette",
+      "description": "There were distinct patterns of cut marks, bone breakage in cooked vs. uncooked birds.",
+      "publishedAt": "2024-07-24T04:01:46+00:00",
+      "title": "Want to cook like a Neanderthal? Archaeologists are learning the secrets",
+      "url": "https://arstechnica.com/science/2024/07/hand-me-that-flint-flake-archaeologists-butcher-cook-fowl-like-a-neanderthal/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/neanderthal1-760x380.jpg"
+    },
+    {
+      "author": null,
       "description": "Tesla's status as a growth stock will require some explaining if this keeps up.",
       "publishedAt": "2024-07-23T21:19:19+00:00",
       "title": "Battery sales keep Tesla profitable in Q2 as EV sales still slumped",
-      "url": "https://arstechnica.com/cars/2024/07/battery-sales-keep-tesla-profitable-in-q2-as-ev-sales-still-slumped/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1170611827-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2038810",
+      "urlToImage": null
     },
     {
       "author": "Scharon Harding",
@@ -71,14 +79,6 @@
       "title": "Google halts its 4-plus-year plan to turn off tracking cookies by default in Chrome",
       "url": "https://arstechnica.com/gadgets/2024/07/google-will-not-disable-tracking-cookies-in-chrome-after-years-of-trying/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1296611501-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"For once in my life, I have someone who needs me.\"",
-      "publishedAt": "2024-07-23T17:03:38+00:00",
-      "title": "Gaga\u2019s Harley Quinn joins the Clown Prince of Crime in Joker: Folie \u00e0 Deux trailer",
-      "url": "https://arstechnica.com/culture/2024/07/gagas-harley-quinn-joins-the-clown-prince-of-crime-in-joker-folie-a-deux-trailer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/joker1-760x380.jpg"
     }
   ],
   "sortBy": "top",
