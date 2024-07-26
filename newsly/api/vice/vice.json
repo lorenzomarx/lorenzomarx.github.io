@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Nick Stockton, Duncan Cooper",
+      "content": "VICE may receive a commission if you buy products through the links on our site. Read morehere.\r\nTheres a fundamental paradox at the center of cannabis culture. I call it: the Grateful Dead problem. \u2026 [+3032 chars]",
+      "description": "Classy stoners rejoice: there\u2019s a gravity bong.",
+      "publishedAt": "2024-07-24T18:04:10Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "NWTN Makes Smokeware You\u2019ll Actually Want in Your Home",
+      "url": "https://www.vice.com/en/article/88x3e4/nwtn-glassware-smoking-accessories-review",
+      "urlToImage": "https://video-images.vice.com/articles/66a130af13d0cc6abb8dd182/lede/1721839992597-nwtn2-1.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Sammi Caramela, Duncan Cooper",
       "content": "Drug-tainted oceans are turning marine life into unwitting users. In this study, cocaine was in every shark they tested.\r\nFor years, researchers have explored the ecological threat of drug smuggling \u2026 [+1975 chars]",
       "description": "Drug-tainted oceans are turning marine life into unwitting users. In this study, cocaine was in every shark they tested.",
@@ -600,5 +613,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 46
+  "totalResults": 47
 }
