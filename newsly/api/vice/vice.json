@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Taylor Haught, Duncan Cooper",
+      "content": "VICE may receive a commission if you buy products through the links on our site. Read morehere.\r\nCouches are the heart of our living spaces. They support Netflix binges, smashed friends, naps, shit d\u2026 [+3611 chars]",
+      "description": "It's modular, durable, non-toxic, and doesn\u2019t take forever to ship.",
+      "publishedAt": "2024-07-25T16:02:02Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "The 7th Avenue Sectional Fixes What\u2019s Wrong with Buying a Couch",
+      "url": "https://www.vice.com/en/article/3akw4n/7th-avenue-modular-sofa-review",
+      "urlToImage": "https://video-images.vice.com/articles/66a2744b13d0cc6abb8dd2dd/lede/1721923122070-7th-ave.png?image-resize-opts=Y3JvcD0wLjkzNDZ4dzowLjkzMzN4aDswLjA0Nzl4dywwLjA1OTN4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+    },
+    {
+      "author": "Sammi Caramela, Duncan Cooper",
+      "content": "\u201cYou gotta figure out a way to make them go to their limits without killing them.\u201d \u2013Magn\u00fas Ver Magn\u00fasson",
+      "description": "Isolation and adversity have fueled this tiny nation\u2019s strongmen but also contributed to tragedy\u2014starting at its most famous gym.",
+      "publishedAt": "2024-07-25T15:01:27Z",
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "title": "Inside the Nest of Giants with Iceland\u2019s Strongest Men",
+      "url": "https://www.vice.com/en/article/ak39az/iceland-worlds-strongest-man-competition",
+      "urlToImage": "https://video-images.vice.com/articles/66a263e545d2e47319ff43e7/lede/1721918445865-iceland-strongmen.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+    },
+    {
       "author": "Nick Stockton, Duncan Cooper",
       "content": "VICE may receive a commission if you buy products through the links on our site. Read morehere.\r\nTheres a fundamental paradox at the center of cannabis culture. I call it: the Grateful Dead problem. \u2026 [+3032 chars]",
       "description": "Classy stoners rejoice: there\u2019s a gravity bong.",
@@ -613,5 +639,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 47
+  "totalResults": 49
 }

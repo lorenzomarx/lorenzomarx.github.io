@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "40 percent more power, 30 percent more torque, and a range boost to boot.",
+      "publishedAt": "2024-07-25T17:41:37+00:00",
+      "title": "The 2024 Volkswagen ID.4 Pro gets a new rear motor, way more efficiency",
+      "url": "https://arstechnica.com/cars/2024/07/the-2024-volkswagen-id-4-pro-gets-a-new-rear-motor-way-more-efficiency/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/2024-VW-ID4-Pro-1-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"All works of fiction in my mind have their own rules and their own internal physics.\"",
+      "publishedAt": "2024-07-25T17:41:08+00:00",
+      "title": "Ars Live recap: Pondering the complexities of time travel in the movies",
+      "url": "https://arstechnica.com/science/2024/07/ars-live-recap-pondering-the-complexities-of-time-travel-in-the-movies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/movies-and-time-travel-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Court says Universal Service fee is \"misbegotten tax\" that violates Constitution.",
+      "publishedAt": "2024-07-25T16:53:54+00:00",
+      "title": "5th Circuit court upends FCC Universal Service Fund, ruling it an illegal tax",
+      "url": "https://arstechnica.com/tech-policy/2024/07/5th-circuit-court-upends-fcc-universal-service-fund-ruling-it-an-illegal-tax/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/jessica-rosenworcel-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\u201cI\u2019m someone who wants to actually succeed from a business perspective.\"",
+      "publishedAt": "2024-07-25T16:03:31+00:00",
+      "title": "Pete Beck vs. Chris Kemp: The rocket rivalry you\u2019ve got to see to believe",
+      "url": "https://arstechnica.com/space/2024/07/pete-beck-vs-chris-kemp-the-rocket-rivalry-youve-got-to-see-to-believe/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/chris-kemp-co-founderceo-of-astra-space-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Updated robots.txt file hits Bing and others without a Reddit deal.",
+      "publishedAt": "2024-07-25T15:40:39+00:00",
+      "title": "Non-Google search engines blocked from showing recent Reddit results",
+      "url": "https://arstechnica.com/gadgets/2024/07/non-google-search-engines-blocked-from-showing-recent-reddit-results/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2056669534-760x380.jpg"
+    },
+    {
       "author": "Michael W. Crowder, The Conversation",
       "description": "Three methods strive to retain the bean's flavor while removing its caffeine.",
       "publishedAt": "2024-07-25T11:07:10+00:00",
@@ -18,7 +58,7 @@
     },
     {
       "author": "Stephen Clark",
-      "description": "Chandra almost didn't make it to orbit on a dramatic launch of space shuttle Columbia 25 years go.",
+      "description": "Chandra almost didn't make it to orbit on a dramatic launch of space shuttle Columbia 25 years ago.",
       "publishedAt": "2024-07-24T21:50:42+00:00",
       "title": "\u201cNot a bluff\u201d\u2014NASA\u2019s budget would shut down long-lived Chandra telescope",
       "url": "https://arstechnica.com/space/2024/07/astronomers-worry-time-is-running-out-for-the-worlds-premier-x-ray-telescope/",
@@ -26,7 +66,7 @@
     },
     {
       "author": "Beth Mole",
-      "description": "Hospitalizations also still rising with tally at 38.",
+      "description": "Hospitalizations also still rising, with tally at 38.",
       "publishedAt": "2024-07-24T21:14:42+00:00",
       "title": "Diamond Shruumz candies suspected of causing second death, FDA reports",
       "url": "https://arstechnica.com/science/2024/07/diamond-shruumz-candies-suspected-of-causing-second-death-fda-reports/",
@@ -39,46 +79,6 @@
       "title": "North Korean hacker got hired by US security vendor, immediately loaded malware",
       "url": "https://arstechnica.com/tech-policy/2024/07/us-security-firm-unwittingly-hired-apparent-nation-state-hacker-from-north-korea/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/knowbe4-760x380.jpg"
-    },
-    {
-      "author": "Nate Anderson",
-      "description": "Two Canadians have already been sent home over the incident.",
-      "publishedAt": "2024-07-24T20:36:40+00:00",
-      "title": "New Zealand \u201cdeeply shocked\u201d after Canada drone-spied on its Olympic practices\u2014twice",
-      "url": "https://arstechnica.com/culture/2024/07/new-zealand-deeply-shocked-after-canada-drone-spied-on-its-olympic-practices-twice/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/canada-soccer-drone-spy-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Six times bigger than Jupiter, the planet is the oldest and coldest yet imaged.",
-      "publishedAt": "2024-07-24T20:28:22+00:00",
-      "title": "Webb directly images giant exoplanet that isn\u2019t where it should be",
-      "url": "https://arstechnica.com/science/2024/07/webb-directly-images-giant-exoplanet-that-isnt-where-it-should-be/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-7-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "More rigorous testing and screening have reportedly corrected the problem.",
-      "publishedAt": "2024-07-24T20:09:23+00:00",
-      "title": "AMD delays Ryzen 9000 launch to August \u201cout of an abundance of caution\u201d",
-      "url": "https://arstechnica.com/gadgets/2024/07/quality-issue-pushes-amds-ryzen-9000-cpu-launch-from-july-to-august/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/ryzen-9000-hero-760x380.jpeg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Elon Musk does not control X or Tesla, X argued in lawsuit over ad boycott.",
-      "publishedAt": "2024-07-24T19:39:37+00:00",
-      "title": "No judge with Tesla stock should handle Elon Musk cases, watchdog argues",
-      "url": "https://arstechnica.com/tech-policy/2024/07/no-judge-with-tesla-stock-should-handle-elon-musk-cases-watchdog-argues/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2162678613-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Class action filed over price hikes on plans with Un-contract price guarantee.",
-      "publishedAt": "2024-07-24T18:36:57+00:00",
-      "title": "Lawsuit: T-Mobile must pay for breaking lifetime price guarantee",
-      "url": "https://arstechnica.com/tech-policy/2024/07/lawsuit-t-mobile-must-pay-for-breaking-lifetime-price-guarantee/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/john-legere-760x380.jpg"
     }
   ],
   "sortBy": "top",
