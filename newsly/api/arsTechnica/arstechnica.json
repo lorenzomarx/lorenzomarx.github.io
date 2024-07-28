@@ -2,83 +2,83 @@
   "articles": [
     {
       "author": "Beth Mole",
+      "description": "Bad math and unclear directions are behind overdoses of up to 20 times the normal amount.",
+      "publishedAt": "2024-07-26T21:22:08+00:00",
+      "title": "People are overdosing on off-brand weight-loss drugs, FDA warns",
+      "url": "https://arstechnica.com/science/2024/07/people-are-overdosing-on-off-brand-weight-loss-drugs-fda-warns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/GettyImages-1692436787-760x380.jpeg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Boeing won't start flying operational crew missions with Starliner until a year from now.",
+      "publishedAt": "2024-07-26T20:25:10+00:00",
+      "title": "NASA nears decision on what to do with Boeing\u2019s troubled Starliner spacecraft",
+      "url": "https://arstechnica.com/space/2024/07/nasa-nears-decision-on-what-to-do-with-boeings-troubled-starliner-spacecraft/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/53850328598_68abd7a7e3_k-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Use of motion-capture actors' performances for AI training is a sticking point.",
+      "publishedAt": "2024-07-26T19:44:26+00:00",
+      "title": "Union game performers strike over AI voice and motion-capture training",
+      "url": "https://arstechnica.com/gaming/2024/07/union-game-performers-strike-over-ai-voice-and-motion-capture-training/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/sagaftra-strike-760x380.png"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "From modeling tire wear and fuel use to predicting cautions based on radio traffic.",
+      "publishedAt": "2024-07-26T19:27:47+00:00",
+      "title": "AI and ML enter motorsports: How GM is using them to win more races",
+      "url": "https://arstechnica.com/cars/2024/07/ai-and-ml-enter-motorsports-how-gm-is-using-them-to-win-more-races/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2161323402-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Despite getting subsidies, ISPs oppose $30 plans for people with low incomes.",
+      "publishedAt": "2024-07-26T18:33:11+00:00",
+      "title": "ISPs seeking government handouts try to avoid offering low-cost broadband",
+      "url": "https://arstechnica.com/tech-policy/2024/07/isps-seeking-government-handouts-try-to-avoid-offering-low-cost-broadband/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Some users were outraged to learn this was opt-out, not opt-in.",
+      "publishedAt": "2024-07-26T18:13:20+00:00",
+      "title": "X is training Grok AI on your data\u2014here\u2019s how to stop it",
+      "url": "https://arstechnica.com/ai/2024/07/x-is-training-grok-ai-on-your-data-heres-how-to-stop-it/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/grok_1_hero-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Chance that first detected emission line is a noise fluctuation is one in half a billion.",
+      "publishedAt": "2024-07-26T18:00:13+00:00",
+      "title": "Astronomers find first emission spectra in brightest GRB of all time",
+      "url": "https://arstechnica.com/science/2024/07/still-the-boat-fermi-telescope-reveals-new-feature-in-rare-gamma-ray-burst/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/BOAT1-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Kernel access gives security software a lot of power, but not without problems.",
+      "publishedAt": "2024-07-26T17:46:16+00:00",
+      "title": "97% of CrowdStrike systems are back online; Microsoft suggests Windows changes",
+      "url": "https://arstechnica.com/information-technology/2024/07/97-of-crowdstrike-systems-are-back-online-microsoft-suggests-windows-changes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/crowdstrike-falcon-760x380.jpeg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "The visual environment of the ISS seems to influence people's experience of food.",
+      "publishedAt": "2024-07-26T17:17:28+00:00",
+      "title": "Astronauts find their tastes dulled, and a VR ISS hints at why",
+      "url": "https://arstechnica.com/science/2024/07/astronauts-find-their-tastes-dulled-and-a-vr-iss-hints-at-why/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-8-760x380.jpeg"
+    },
+    {
+      "author": "Beth Mole",
       "description": "The movie apparently sparked some questions.",
       "publishedAt": "2024-07-26T17:01:09+00:00",
       "title": "Barbie movie \u201cmay have spurred interest in gynecology,\u201d study finds",
       "url": "https://arstechnica.com/science/2024/07/barbie-movie-may-have-spurred-interest-in-gynecology-study-finds/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1553630327-760x380.jpg"
-    },
-    {
-      "author": "Morgan Meaker, WIRED.com",
-      "description": "New system foreshadows a future where there are too many CCTV cameras for humans to physically watch.",
-      "publishedAt": "2024-07-26T16:24:28+00:00",
-      "title": "At the Olympics, AI is watching you",
-      "url": "https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2163080005-760x380.jpg"
-    },
-    {
-      "author": "Lee Hutchinson",
-      "description": "Join us as we talk about the next few years in AI & storage, and what to watch for.",
-      "publishedAt": "2024-07-26T12:57:40+00:00",
-      "title": "Hang out with Ars in San Jose and DC this fall for two infrastructure events",
-      "url": "https://arstechnica.com/information-technology/2024/07/hang-out-with-ars-in-san-jose-and-dc-this-fall-for-two-infrastructure-events/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-463088525-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The team is investigating root cause.\"",
-      "publishedAt": "2024-07-26T11:00:26+00:00",
-      "title": "Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight",
-      "url": "https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/KSC-20240724-PH-JBS02_0049large-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "We're standing by for news on NASA's decision on what to do about Orion's heat shield.",
-      "publishedAt": "2024-07-25T22:24:32+00:00",
-      "title": "Rocket delivered to launch site for first human flight to the Moon since 1972",
-      "url": "https://arstechnica.com/space/2024/07/rocket-delivered-to-launch-site-for-first-human-flight-to-the-moon-since-1972/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/53879030703_4ef7cde038_k-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "AlphaProof and AlphaGeometry 2 solve problems, with caveats on time and human assistance.",
-      "publishedAt": "2024-07-25T21:54:52+00:00",
-      "title": "Google claims math breakthrough with proof-solving AI models",
-      "url": "https://arstechnica.com/information-technology/2024/07/google-ai-earns-silver-medal-equivalent-at-international-mathematical-olympiad/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/alphaproof_hero-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "New tool may solve a web-search problem partially caused by AI-generated junk online.",
-      "publishedAt": "2024-07-25T20:39:20+00:00",
-      "title": "OpenAI hits Google where it hurts with new SearchGPT prototype",
-      "url": "https://arstechnica.com/information-technology/2024/07/openai-hits-google-where-it-hurts-with-new-searchgpt-prototype/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/openai_newspaper_3-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Google says passwords and files will be deleted shortly after they are deep-scanned.",
-      "publishedAt": "2024-07-25T20:12:59+00:00",
-      "title": "Chrome will now prompt some users to send passwords for suspicious files",
-      "url": "https://arstechnica.com/security/2024/07/google-overhauls-chromes-safe-browsing-protection-to-scan-password-protected-files/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/Chrome.jpg"
-    },
-    {
-      "author": null,
-      "description": "$130 set is available for preorder now, ships on October 1.",
-      "publishedAt": "2024-07-25T19:59:12+00:00",
-      "title": "Lego\u2019s newest retro art piece is a 1,215-piece Super Mario World homage",
-      "url": "https://arstechnica.com/?p=2039293",
-      "urlToImage": null
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Restoring previously present features is Sonos' No. 1 priority.",
-      "publishedAt": "2024-07-25T19:53:41+00:00",
-      "title": "Sonos CEO apologizes for botched app redesign, promises month-by-month updates",
-      "url": "https://arstechnica.com/gadgets/2024/07/pained-by-having-let-you-down-sonos-apologizes-for-app-failures/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/sonos_app-760x380.jpg"
     }
   ],
   "sortBy": "top",
