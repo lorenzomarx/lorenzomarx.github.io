@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Also news re: Captain America: Brave New World, Thunderbolts, Fantastic Four: First Steps.",
+      "publishedAt": "2024-07-29T17:01:56+00:00",
+      "title": "Marvel has cast Robert Downey Jr. as Doctor Doom in two new Avengers movies",
+      "url": "https://arstechnica.com/culture/2024/07/robert-downey-jr-returns-to-mcu-as-doctor-doom-in-two-new-avengers-movies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/marvel1-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Betas of iOS 18.1 et al with Apple Intelligence could land as soon as this week.",
+      "publishedAt": "2024-07-29T15:54:08+00:00",
+      "title": "Apple Intelligence features reportedly won\u2019t be ready for iOS 18\u2019s launch this fall",
+      "url": "https://arstechnica.com/gadgets/2024/07/apple-intelligence-features-reportedly-wont-be-ready-for-ios-18s-launch-this-fall/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/new-2024-apple-update-760x380.jpeg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "If you're not ready for full-on NAS gear, consider this clever little drive.",
+      "publishedAt": "2024-07-29T11:00:54+00:00",
+      "title": "Synology BeeStation review: A great way to start getting real about backups",
+      "url": "https://arstechnica.com/gadgets/2024/07/synology-beestation-review-a-great-way-to-start-getting-real-about-backups/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/beestation_handout-760x380.jpg"
+    },
+    {
       "author": "Chris Woolston, Knowable Magazine",
       "description": "Psychologists now view an out-of-control compulsion to work as an addiction.",
       "publishedAt": "2024-07-28T11:02:37+00:00",
@@ -55,30 +79,6 @@
       "title": "Union game performers strike over AI voice and motion-capture training",
       "url": "https://arstechnica.com/gaming/2024/07/union-game-performers-strike-over-ai-voice-and-motion-capture-training/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/sagaftra-strike-760x380.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "From modeling tire wear and fuel use to predicting cautions based on radio traffic.",
-      "publishedAt": "2024-07-26T19:27:47+00:00",
-      "title": "AI and ML enter motorsports: How GM is using them to win more races",
-      "url": "https://arstechnica.com/cars/2024/07/ai-and-ml-enter-motorsports-how-gm-is-using-them-to-win-more-races/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2161323402-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Despite getting subsidies, ISPs oppose $30 plans for people with low incomes.",
-      "publishedAt": "2024-07-26T18:33:11+00:00",
-      "title": "ISPs seeking government handouts try to avoid offering low-cost broadband",
-      "url": "https://arstechnica.com/?p=2039582",
-      "urlToImage": null
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Some users were outraged to learn this was opt-out, not opt-in.",
-      "publishedAt": "2024-07-26T18:13:20+00:00",
-      "title": "X is training Grok AI on your data\u2014here\u2019s how to stop it",
-      "url": "https://arstechnica.com/ai/2024/07/x-is-training-grok-ai-on-your-data-heres-how-to-stop-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/grok_1_hero-760x380.jpg"
     }
   ],
   "sortBy": "top",
