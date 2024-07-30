@@ -1,6 +1,175 @@
 {
   "articles": [
     {
+      "author": "CNBC",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T04:01:01Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "McDonald\u2019s is about to report earnings. Here\u2019s what to expect - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjkvbWNkb25hbGRzLW1jZC1xMi0yMDI0LWVhcm5pbmdzLmh0bWzSAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "BBC.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T03:44:33Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Chris Mason: Politics to roar back in blame game over funding - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jOXd2NDIzbHo4eW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzl3djQyM2x6OHlvLmFtcA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Wall Street Journal",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T03:18:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "A Fed Rate Cut Is Finally Within View - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lndzai5jb20vZWNvbm9teS9jZW50cmFsLWJhbmtpbmcvZmVkLW5lYXItaW50ZXJlc3QtcmF0ZS1jdXQtZDMwM2RiZDXSAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Bradley Keoun",
+      "content": "Attending the Bitcoin Nashville conference last week hosted by BTC Inc. was an exercise in sensory-overload management: Try to stay in the moment, follow the thread, and hopefully don't lose your min\u2026 [+6390 chars]",
+      "description": "Surreal doesn't begin to describe the combination of visuals collected from last week's festival-style gathering in homage to the oldest and largest cryptocurrency, punctuated by former U.S. President Donald Trump's pro-crypto speech to an adoring crowd.",
+      "publishedAt": "2024-07-29T02:55:00Z",
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "title": "Bitcoin Nashville Conference in Pictures: Orange Athena, Pink Suits, Polymarket Swag, Trump's Song - CoinDesk",
+      "url": "https://www.coindesk.com/tech/2024/07/29/bitcoin-nashville-conference-in-pictures-orange-athena-pink-suits-polymarket-swag-trumps-song/",
+      "urlToImage": "https://www.coindesk.com/resizer/MzVBHSiH8T-VQGipFdVKiEQ1FsE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FOHAY4ICVVB3LD3AJ2YO6X5T6I.jpeg"
+    },
+    {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T02:46:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "US to revamp military forces in Japan in \u2018historic\u2019 move as regional tensions mount - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNy9hc2lhL3VzLWF1c3Rpbi10cmlsYXRlcmFsLWphcGFuLXNvdXRoLWtvcmVhLWludGwtaG5rL2luZGV4Lmh0bWzSAVdodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzI3L2FzaWEvdXMtYXVzdGluLXRyaWxhdGVyYWwtamFwYW4tc291dGgta29yZWEtaW50bC1obms?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "WESH 2 Orlando",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T02:44:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Tracking the Tropics: Weather disturbance over Atlantic Ocean expected to interact with Tropical wave - WESH 2 Orlando",
+      "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lndlc2guY29tL2FydGljbGUvdHJvcGljcy11cGRhdGUtZmxvcmlkYS10cmFjay82MTcxODg2MNIBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Axios",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T02:37:10Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Swelling Park Fire now California's 7th biggest wildfire on record - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzI4L2NhbGlmb3JuaWEtcGFyay1maXJlLXN0YXRlcy1sYXJnZXN00gEA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "WKRC TV Cincinnati",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T02:13:56Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Two meteor showers will flash across the sky around the same time in late July - WKRC TV Cincinnati",
+      "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL2xvY2FsMTIuY29tL25ld3MvbmF0aW9uLXdvcmxkL3NvdXRoZXJuLWRlbHRhLWFxdWFyaWlkLW1ldGVvci1zaG93ZXItYWxwaGEtY2Fwcmljb3JuaWRzLWRlbHRhLW1ldGVvcnMtc2hvd2Vycy1za3ktc2FtZS10aW1lLWxhdGUtanVseS1wZWFrLXBlYWtzLWNpbmNpbm5hdGktY2Fwcmljb3JuaWTSAbIBaHR0cHM6Ly9sb2NhbDEyLmNvbS9hbXAvbmV3cy9uYXRpb24td29ybGQvc291dGhlcm4tZGVsdGEtYXF1YXJpaWQtbWV0ZW9yLXNob3dlci1hbHBoYS1jYXByaWNvcm5pZHMtZGVsdGEtbWV0ZW9ycy1zaG93ZXJzLXNreS1zYW1lLXRpbWUtbGF0ZS1qdWx5LXBlYWstcGVha3MtY2luY2lubmF0aS1jYXByaWNvcm5pZA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "MLB.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T01:50:30Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "12 bold predictions for Tuesday's Trade Deadline - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy9ib2xkLXByZWRpY3Rpb25zLWZvci0yMDI0LW1sYi10cmFkZS1kZWFkbGluZdIBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Jerusalem Post",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T01:48:30Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "IDF tanks, heavy artillery target Khan Yunis neighborhood - report - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9icmVha2luZy1uZXdzL2FydGljbGUtODEyMjk20gEA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "USA TODAY",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T01:42:03Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Phoenix warehouse crews locate body of missing man 3 days after roof collapse - USA TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA3LzI4L2JvZHktZm91bmQtcGhvZW5peC13YXJlaG91c2UtY29sbGFwc2UvNzQ1ODA4MzgwMDcv0gEA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T01:34:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Live updates: Venezuelans await results in presidential election - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vYXBuZXdzLmNvbS9saXZlL3ZlbmV6dWVsYS1lbGVjdGlvbi11cGRhdGVzLW1hZHVyby1tYWNoYWRvLWdvbnphbGV60gEA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Eric Revell",
+      "content": "Apple's upcoming release of new artificial intelligence (AI)\r\n tools is now expected to occur later than originally expected, coming after the initial launch of the new iOS 18 software for iPhone and\u2026 [+2790 chars]",
+      "description": "Apple reportedly delayed the release of its new AI-powered Apple Intelligence features on devices until October after the release of the iOS 18 software in September.",
+      "publishedAt": "2024-07-29T00:44:00Z",
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "title": "Apple's new AI features to be delayed after iOS 18 release: report - Fox Business",
+      "url": "https://www.foxbusiness.com/technology/apples-new-ai-features-delayed-after-ios-18-release-report",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/Apple-Intelligence-0.jpg?ve=1&tl=1"
+    },
+    {
       "author": "The Washington Post",
       "content": null,
       "description": null,
@@ -14,253 +183,84 @@
       "urlToImage": null
     },
     {
-      "author": "Rob Picheta, Michael Schwartz, Catherine Nicholls, Gianluca Mezzofiore, Benjamin Brown",
-      "content": "Israel vowed Hezbollah will pay the price after blaming the Lebanese militant group for a rocket attack in the Israeli-occupied Golan Heights that killed 12 children, touching off fears once again th\u2026 [+10505 chars]",
-      "description": "Israel vowed Hezbollah will \u201cpay the price\u201d after blaming the Lebanese militant group for a rocket attack in the Israeli-occupied Golan Heights that killed 12 people, including children, touching off fears once again that an all-out war would envelop the regi\u2026",
-      "publishedAt": "2024-07-28T23:52:00Z",
+      "author": "Neuroscience News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T00:08:59Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Blood Tests Revolutionize Alzheimer\u2019s Diagnosis - Neuroscience News",
+      "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbmV1cm9zY2llbmNlbmV3cy5jb20vYWNjdXJhdGUtYWx6aGVpbWVycy1ibG9vZC10ZXN0LTI3NDg2L9IBAA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "E! NEWS",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-07-29T00:04:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Selena Gomez Claps Back at Plastic Surgery Speculation - E! Online - E! NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTQwNTUwNi9zZWxlbmEtZ29tZXotY2xhcHMtYmFjay1hdC1wbGFzdGljLXN1cmdlcnktc3BlY3VsYXRpb27SAQA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Zeena Saifi, Jeremy Diamond",
+      "content": "Majdal Shams, Golan HeightsCNN\r\n \u00a0\u00a0\r\nEleven-year-old Alma was daddys little girl. She used to get away with anything she wanted. Her father, Ayman Fakhr al-Din said she was always filled with energy \u2026 [+4087 chars]",
+      "description": "The Syrian\u00a0Druze\u00a0community of Majdal Shams in the Golan Heights are united in grief following the deaths of 12 children in a rocket strike on Saturday.",
+      "publishedAt": "2024-07-28T23:59:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "Israel says Hezbollah will \u2018pay the price\u2019 after blaming it for attack on soccer field that killed 12 children - CNN",
-      "url": "https://www.cnn.com/2024/07/28/middleeast/israel-hezbollah-golan-heights-soccer-strikes-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-07-27t171310z-870042342-rc2t39avewog-rtrmadp-3-israel-palestinians-lebanon.JPG?c=16x9&q=w_800,c_fill"
+      "title": "\u2018They were just kids. What did they do wrong?\u2019: In Majdal Shams, a town caught between Israel and Hezbollah mourns its young - CNN",
+      "url": "https://www.cnn.com/2024/07/28/middleeast/majdal-shams-mourning-israel-hezbollah-intl-latam/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/zeena2.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "BBC.com",
+      "author": "Yahoo Sports",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-28T23:14:57Z",
+      "publishedAt": "2024-07-28T23:57:48Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Venezuelans vote in election challenging Maduro's grip on power - BBC.com",
-      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMXdlMjIwZXc3MW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzF3ZTIyMGV3NzFvLmFtcA?oc=5",
+      "title": "Why Jayson Tatum didn't play in Team USA's win over Serbia - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS93aHktamF5c29uLXRhdHVtLWRpZG50LXBsYXktMTgyNTE2NDM4Lmh0bWzSAQA?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Forbes",
+      "author": "DW (English)",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-28T22:50:25Z",
+      "publishedAt": "2024-07-28T23:55:53Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Today\u2019s NYT Mini Crossword Clues And Answers For Monday, July 29 - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcGF1bHRhc3NpLzIwMjQvMDcvMjgvdG9kYXlzLW55dC1taW5pLWNyb3Nzd29yZC1jbHVlcy1hbmQtYW5zd2Vycy1mb3ItbW9uZGF5LWp1bHktMjkv0gEA?oc=5",
+      "title": "Italy's Meloni signs deal to 'relaunch' ties with China - DW (English)",
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmR3LmNvbS9lbi9pdGFseXMtbWVsb25pLXNpZ25zLWRlYWwtdG8tcmVsYXVuY2gtdGllcy13aXRoLWNoaW5hL2EtNjk3OTE4NTDSAVVodHRwczovL2FtcC5kdy5jb20vZW4vaXRhbHlzLW1lbG9uaS1zaWducy1kZWFsLXRvLXJlbGF1bmNoLXRpZXMtd2l0aC1jaGluYS9hLTY5NzkxODUw?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Vanessa Serna",
-      "content": "Call this a good romance.\r\nLady Gaga referred to longtime partner Michael Polansky as her fianc\u00e9 while attending a swimming competition at the 2024 Paris Olympics.\r\nThis is my fianc\u00e9, Michael, the si\u2026 [+2427 chars]",
-      "description": "In April, the pop star was photographed walking around West Hollywood, Calif., with a massive ring.",
-      "publishedAt": "2024-07-28T22:49:00Z",
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "title": "Lady Gaga calls Michael Polansky her 'fianc\u00e9' at Olympics - Page Six",
-      "url": "https://pagesix.com/2024/07/28/entertainment/lady-gaga-calls-michael-polansky-her-fiance-at-olympics/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/86309733.jpg?quality=75&strip=all&w=1024"
-    },
-    {
-      "author": "New York Post ",
+      "author": "CNN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-07-28T22:37:00Z",
+      "publishedAt": "2024-07-28T23:49:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Putin vows \u2018mirror measures\u2019 if US puts missiles in Germany in 2026, as planned - New York Post ",
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzI4L3VzLW5ld3MvcHV0aW4tdm93cy1taXJyb3ItbWVhc3VyZXMtaWYtdXMtcHV0cy1taXNzaWxlcy1pbi1nZXJtYW55LWluLTIwMjYtYXMtcGxhbm5lZC_SAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-28T22:33:53Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "From Believers to Bitcoin: 24 Hours in Trump\u2019s Code-Switching Campaign - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjgvdXMvcG9saXRpY3MvZG9uYWxkLXRydW1wLWNhbXBhaWduLTIwMjQtYml0Y29pbi5odG1s0gEA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Hollywood Reporter",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-28T22:19:02Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Ryan Reynolds on Stunning \u2018Deadpool & Wolverine\u2019 Box Office: I Think It\u2019s \u201cthe First 4-Quadrant, R-Rated Film\u201d - Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9yeWFuLXJleW5vbGRzLXRhbGtzLWRlYWRwb29sLWFuZC13b2x2ZXJpbmUtYm94LW9mZmljZS0xMjM1OTYwMzYxL9IBeWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9yeWFuLXJleW5vbGRzLXRhbGtzLWRlYWRwb29sLWFuZC13b2x2ZXJpbmUtYm94LW9mZmljZS0xMjM1OTYwMzYxL2FtcC8?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Associated Press",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-28T22:12:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Harris raised $200 million in first week of White House campaign and signed up 170,000 volunteers - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2hhcnJpcy1jYW1wYWlnbi1mdW5kcmFpc2luZy0yMDAtbWlsbGlvbi01ZGI1ZDdjNTAwMWM4NzM3N2U0YmExMTI1MGZmZjU5N9IBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Nick Robertson",
-      "content": "A blood test can determine whether memory loss is caused by Alzheimers disease with more than 90 percent accuracy, according to a new study published Sunday.\r\nA group of researchers at Lund Universit\u2026 [+2733 chars]",
-      "description": "A blood test can determine whether memory loss is caused by Alzheimer\u2019s disease with more than 90 percent accuracy, according to a new study published Sunday. A group of researchers at Lund University in Sweden found that a cutting-edge blood test can signifi\u2026",
-      "publishedAt": "2024-07-28T22:00:00Z",
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "title": "Blood test has a 90 percent accuracy rate in determining whether memory loss is due to Alzheimer\u2019s: Study - The Hill",
-      "url": "https://thehill.com/policy/healthcare/4797094-blood-test-has-a-90-accuracy-rate-in-determining-whether-memory-loss-is-due-to-alzheimers-study/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/alzheimersmeds_070523_adobe-stock_alzheimers.jpg?w=1280"
-    },
-    {
-      "author": "KABC-TV",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-28T21:28:46Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "NB 15 Freeway reopens between Barstow and Baker after fiery crash involving semitruck - KABC-TV",
-      "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYWJjNy5jb20vcG9zdC9uYi0xNS1mcmVld2F5LWNsb3NlZC1iZXR3ZWVuLWJhcnN0b3ctYmFrZXItYWZ0ZXIvMTUxMDUwMDgv0gEA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Hope Sloop",
-      "content": "A devastating plane crash has claimed the lives of three members of the popular gospel group The Nelons.\u00a0\r\nOn Friday,\u00a0Jason Clark and his wife, Kelly Nelon Clark, were traveling to their annual Gaith\u2026 [+2480 chars]",
-      "description": "The Nelons were on their way to the Gaither Homecoming Alaska Cruise when their plane crashed, killing three of the family members.",
-      "publishedAt": "2024-07-28T21:22:41Z",
-      "source": {
-        "id": null,
-        "name": "Entertainment Tonight"
-      },
-      "title": "3 Members of GRAMMY-Nominated Family Gospel Group The Nelons Die in Plane Crash - Entertainment Tonight",
-      "url": "https://www.etonline.com/3-members-of-grammy-nominated-family-gospel-group-the-nelons-die-in-plane-crash-229738",
-      "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-07/GettyImages-492504374.jpg?h=c1c33973"
-    },
-    {
-      "author": "WESH 2 Orlando",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-28T21:10:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "National Hurricane Center tracking tropical disturbance moving west - WESH 2 Orlando",
-      "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lndlc2guY29tL2FydGljbGUvdHJvcGljcy11cGRhdGUtZmxvcmlkYS10cmFjay82MTcxODg2MNIBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "NBC Olympics",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-28T21:03:45Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "USA's Huske and Walsh go 2-1 in women's 100m butterfly final - NBC Olympics",
-      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm5iY29seW1waWNzLmNvbS92aWRlb3MvdXNhcy1odXNrZS1hbmQtd2Fsc2gtZ28tMS0yLXdvbWVucy0xMDBtLWJ1dHRlcmZseS1maW5hbNIBAA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "E! News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-28T19:01:26Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Selena Gomez Claps Back at TikTok Analyzing Her Face: \u201cLeave Me Alone\u201d - E! News",
-      "url": "https://news.google.com/rss/articles/CCAiC00zakE2N1N5dkZZmAEB?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CHRISTINA LARSON",
-      "content": "Get ready for a meteor shower doubleheader. \r\nThe Southern Delta Aquariid meteor shower peaks in late July. And this year, it will coincide with a second smaller meteor shower, the Alpha Capricornids\u2026 [+2485 chars]",
-      "description": "There will be back-to-back meteor showers in late July. The Southern Delta Aquariid meteor shower peaks early Tuesday. And this year, it will coincide with a second smaller meteor shower, the Alpha Capricornids. The Delta Aquariids occur every year in North A\u2026",
-      "publishedAt": "2024-07-28T18:48:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Two meteor showers will flash across the sky around the same time in late July - The Associated Press",
-      "url": "https://apnews.com/article/double-meteor-showers-southern-delta-aquariid-134dc44b4f441ac94e70cb452cdc9d87",
-      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png"
-    },
-    {
-      "author": null,
-      "content": "Trump added: Youve got to get out and vote. In four years, you dont have to vote again, well have it fixed so good youre not going to have to vote.\r\nSununu, a Republican, took the word fixed to mean \u2026 [+1879 chars]",
-      "description": "Democrats have said they see the remarks as proof that the Republican nominee is a threat to democracy.",
-      "publishedAt": "2024-07-28T18:46:38Z",
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "title": "Trump\u2019s \u2018won\u2019t have to vote anymore\u2019 remark didn\u2019t mean anything, Chris Sununu claims - POLITICO",
-      "url": "https://www.politico.com/news/2024/07/28/trump-wont-have-to-vote-anymore-sununu-00171529",
-      "urlToImage": "https://static.politico.com/6b/24/9e751fb3407299eb12a710dbd786/election-2024-trump-39643.jpg"
-    },
-    {
-      "author": "Bloomberg",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-07-28T18:38:49Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Apple Intelligence to Miss Initial Launch of Upcoming iOS 18 Overhaul - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyNC0wNy0yOC9hcHBsZS1pbnRlbGxpZ2VuY2UtdG8tbWlzcy1pbml0aWFsLXJlbGVhc2Utb2YtdXBjb21pbmctaW9zLTE4LWlwYWRvcy1vdmVyaGF1bHPSAQA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Lauren Sforza",
-      "content": "Sen. Chris Van Hollen (D-Md.) said it was a mistake for Democrats to support Israeli Prime Minister Benjamin Netanyahu giving an address to Congress.\r\nI believe it was, and Ive expressed that view, h\u2026 [+1374 chars]",
-      "description": "Sen. Chris Van Hollen (D-Md.) said it was a \u201cmistake\u201d for Democrats to support Israeli Prime Minister Benjamin Netanyahu giving an address to Congress. \u201cI believe it was, and I\u2019ve expressed that view,\u201d he said when asked on CBS\u2019s \u201cFace the Nation\u201d whether it \u2026",
-      "publishedAt": "2024-07-28T18:26:00Z",
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "title": "Van Hollen says it was a \u2018mistake\u2019 for Democrats to support Netanyahu addressing Congress - The Hill",
-      "url": "https://thehill.com/homenews/senate/4796952-chris-van-hollen-democrats-supporting-benjamin-netanyahu-congress-address-mistake/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/vanhollenchris_050223gn01_w.jpg?w=1280"
-    },
-    {
-      "author": null,
-      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un\u2026 [+1139 chars]",
-      "description": null,
-      "publishedAt": "2024-07-28T18:25:10Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Park Fire in Northern California Spreads to Over 350,000 Acres - The New York Times",
-      "url": "https://consent.google.com/m",
+      "title": "Lady Gaga introduces Michael Polansky as her fianc\u00e9 in Paris - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOC9lbnRlcnRhaW5tZW50L2xhZHktZ2FnYS1taWNoYWVsLXBvbGFuc2t5LWVuZ2FnZWQvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjgvZW50ZXJ0YWlubWVudC9sYWR5LWdhZ2EtbWljaGFlbC1wb2xhbnNreS1lbmdhZ2Vk?oc=5",
       "urlToImage": null
     }
   ],
   "status": "ok",
-  "totalResults": 38
+  "totalResults": 37
 }
