@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Mandrake's ability to go unnoticed was the result of designs not often seen in Android malware.",
+      "publishedAt": "2024-07-30T23:00:04+00:00",
+      "title": "Mysterious family of malware hid in Google Play for years",
+      "url": "https://arstechnica.com/security/2024/07/mysterious-family-of-malware-hid-in-google-play-for-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/phone-malware-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "It's been a decade-long effort to end the US military's reliance on the RD-180 engine.",
       "publishedAt": "2024-07-30T20:52:10+00:00",
@@ -71,14 +79,6 @@
       "title": "Loss of popular 2FA tool puts security-minded GrapheneOS in a paradox",
       "url": "https://arstechnica.com/gadgets/2024/07/loss-of-popular-2fa-tool-puts-security-minded-grapheneos-in-a-paradox/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/graphene-760x380.jpg"
-    },
-    {
-      "author": "Stephanie Stacey and Hannah Murphy, Financial Times",
-      "description": "Facebook\u2019s parent accused of gathering data from photos and videos without \"informed consent.\"",
-      "publishedAt": "2024-07-30T16:21:08+00:00",
-      "title": "Meta to pay $1.4 billion settlement after Texas facial recognition complaint",
-      "url": "https://www.ft.com/content/faedc975-7a9b-4632-bc6e-3e2ea71587c1",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/meta-down-760x380.jpg"
     }
   ],
   "sortBy": "top",
