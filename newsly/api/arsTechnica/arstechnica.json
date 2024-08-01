@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Audi's next new electric vehicle is this aerodynamic five-door sedan.",
+      "publishedAt": "2024-07-31T11:00:44+00:00",
+      "title": "Audi\u2019s next EV is the A6 e-tron Sportback\u2014but no station wagon for the US",
+      "url": "https://arstechnica.com/cars/2024/07/audis-next-ev-is-the-a6-e-tron-sportback-but-no-station-wagon-for-the-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/A243192_large-760x380.jpg"
+    },
+    {
+      "author": "Simon Lee, Hayley Fowler, and Paul Davies, The Conversation",
+      "description": "Decades-old statistics no longer represent what is possible in the present day.",
+      "publishedAt": "2024-07-31T10:45:07+00:00",
+      "title": "The climate is changing so fast that we haven\u2019t seen how bad extreme weather could\u00a0get",
+      "url": "https://theconversation.com/the-climate-is-changing-so-fast-that-we-havent-seen-how-bad-extreme-weather-could-get-235726",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1410104332-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Mandrake's ability to go unnoticed was the result of designs not often seen in Android malware.",
       "publishedAt": "2024-07-30T23:00:04+00:00",
@@ -63,22 +79,6 @@
       "title": "Amazon forced to recall 400K products that could kill, electrocute people",
       "url": "https://arstechnica.com/tech-policy/2024/07/amazon-forced-to-recall-400k-products-that-could-kill-electrocute-people/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2115789924-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Exec says mouse that requires a regular fee for software updates is possible.",
-      "publishedAt": "2024-07-30T17:49:07+00:00",
-      "title": "Logitech has an idea for a \u201cforever mouse\u201d that requires a subscription",
-      "url": "https://arstechnica.com/gadgets/2024/07/logitech-has-an-idea-for-a-forever-mouse-thatrequires-a-subscription/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-485221091-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Losing access to Authy leads to another reckoning with Google's security model.",
-      "publishedAt": "2024-07-30T16:36:12+00:00",
-      "title": "Loss of popular 2FA tool puts security-minded GrapheneOS in a paradox",
-      "url": "https://arstechnica.com/gadgets/2024/07/loss-of-popular-2fa-tool-puts-security-minded-grapheneos-in-a-paradox/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/graphene-760x380.jpg"
     }
   ],
   "sortBy": "top",
