@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Meta \"programmed it to simply not answer questions,\" but it did anyway.",
+      "publishedAt": "2024-07-31T17:05:21+00:00",
+      "title": "Meta addresses AI hallucination as chatbot says Trump shooting didn\u2019t happen",
+      "url": "https://arstechnica.com/tech-policy/2024/07/meta-ai-called-trump-shooting-fake-despite-being-programmed-to-ignore-questions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Lunar Lake will be Intel's response to Ryzen AI and Snapdragon X Elite chips.",
+      "publishedAt": "2024-07-31T16:59:40+00:00",
+      "title": "Next-gen Intel Core Ultra chips with boosted GPU and NPU are coming in September",
+      "url": "https://arstechnica.com/gadgets/2024/07/intel-plans-september-3rd-launch-for-next-generation-copilot-capable-core-ultra-cpus/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/newsroom-core-ultra-series2-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Xbox Series X/S sales seem to have peaked early in 2022.",
+      "publishedAt": "2024-07-31T16:44:36+00:00",
+      "title": "Xbox console sales continue to crater with massive 42% revenue drop",
+      "url": "https://arstechnica.com/gaming/2024/07/xbox-console-sales-continue-to-crater-with-massive-42-revenue-drop/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The AWD hybrid is Ford's response to overwhelming customer requests.",
+      "publishedAt": "2024-07-31T14:43:21+00:00",
+      "title": "Ford facelifts its Maverick pickup, adds all-wheel-drive hybrid option",
+      "url": "https://arstechnica.com/cars/2024/07/ford-facelifts-its-maverick-pickup-adds-all-wheel-drive-hybrid-option/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/2025-ford-maverick-lariat_02-4096x2736-1-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"I'm just shocked they don't want more coverage of these things and not less.\"",
+      "publishedAt": "2024-07-31T14:05:53+00:00",
+      "title": "After years of leniency, ULA cracks down on hobbyist photographers",
+      "url": "https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/53891838413_2c9f565c76_k-1-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "Audi's next new electric vehicle is this aerodynamic five-door sedan.",
       "publishedAt": "2024-07-31T11:00:44+00:00",
@@ -39,46 +79,6 @@
       "title": "Apple stealthily adds minor features in iOS 17.6, macOS 14.6 releases",
       "url": "https://arstechnica.com/gadgets/2024/07/apple-stealthily-adds-minor-features-in-ios-17-6-macos-14-6-releases/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/iOS-176-iPhone-760x380.png"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Perplexity says WordPress.com, TIME, Der Spiegel, and Fortune have already signed up.",
-      "publishedAt": "2024-07-30T19:58:55+00:00",
-      "title": "AI search engine accused of plagiarism announces publisher revenue-sharing plan",
-      "url": "https://arstechnica.com/information-technology/2024/07/ai-search-engine-accused-of-plagiarism-announces-publisher-revenue-sharing-plan/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/robot_caught_in_spotlight-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "KOSA risks \u201cnearly limitless content regulation,\u201d senator warns.",
-      "publishedAt": "2024-07-30T19:31:58+00:00",
-      "title": "Kids Online Safety Act passes Senate despite concerns it will harm kids",
-      "url": "https://arstechnica.com/tech-policy/2024/07/kids-online-safety-act-passes-senate-despite-concerns-it-will-harm-kids/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-909597732-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Opinion: \"Help my daughter write a letter\" is not the same as \"Help me with boring busywork.\"",
-      "publishedAt": "2024-07-30T18:59:56+00:00",
-      "title": "Outsourcing emotion: The horror of Google\u2019s \u201cDear Sydney\u201d AI ad",
-      "url": "https://arstechnica.com/ai/2024/07/dear-sydney-why-i-find-googles-ai-olympics-ad-so-disturbing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/dearsydney-760x380.png"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Charter blames error with email notification and misunderstanding of FCC rules.",
-      "publishedAt": "2024-07-30T17:56:45+00:00",
-      "title": "Charter failed to notify 911 call centers and FCC about VoIP phone outages",
-      "url": "https://arstechnica.com/tech-policy/2024/07/charter-failed-to-notify-911-call-centers-and-fcc-about-voip-phone-outages/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/charter-spectrum-van-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "People may still be using unsafe products that Amazon sold and resold.",
-      "publishedAt": "2024-07-30T17:54:55+00:00",
-      "title": "Amazon forced to recall 400K products that could kill, electrocute people",
-      "url": "https://arstechnica.com/tech-policy/2024/07/amazon-forced-to-recall-400k-products-that-could-kill-electrocute-people/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2115789924-760x380.jpg"
     }
   ],
   "sortBy": "top",
