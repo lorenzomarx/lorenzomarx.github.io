@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "It's been a decade-long effort to end the US military's reliance on the RD-180 engine.",
+      "publishedAt": "2024-07-30T20:52:10+00:00",
+      "title": "With a landmark launch, the Pentagon is finally free of Russian rocket engines",
+      "url": "https://arstechnica.com/space/2024/07/with-a-landmark-launch-the-pentagon-is-finally-free-of-russian-rocket-engines/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/53891944579_49af4043a0_k-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "The M3 MacBook Pro now supports multiple external monitors.",
+      "publishedAt": "2024-07-30T20:08:35+00:00",
+      "title": "Apple stealthily adds minor features in iOS 17.6, macOS 14.6 releases",
+      "url": "https://arstechnica.com/gadgets/2024/07/apple-stealthily-adds-minor-features-in-ios-17-6-macos-14-6-releases/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/iOS-176-iPhone-760x380.png"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Perplexity says WordPress.com, TIME, Der Spiegel, and Fortune have already signed up.",
+      "publishedAt": "2024-07-30T19:58:55+00:00",
+      "title": "AI search engine accused of plagiarism announces publisher revenue-sharing plan",
+      "url": "https://arstechnica.com/information-technology/2024/07/ai-search-engine-accused-of-plagiarism-announces-publisher-revenue-sharing-plan/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/robot_caught_in_spotlight-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "KOSA risks \u201cnearly limitless content regulation,\u201d senator warns.",
+      "publishedAt": "2024-07-30T19:31:58+00:00",
+      "title": "Kids Online Safety Act passes Senate despite concerns it will harm kids",
+      "url": "https://arstechnica.com/tech-policy/2024/07/kids-online-safety-act-passes-senate-despite-concerns-it-will-harm-kids/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-909597732-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Opinion: \"Help my daughter write a letter\" is not the same as \"Help me with boring busywork.\"",
+      "publishedAt": "2024-07-30T18:59:56+00:00",
+      "title": "Outsourcing emotion: The horror of Google\u2019s \u201cDear Sydney\u201d AI ad",
+      "url": "https://arstechnica.com/ai/2024/07/dear-sydney-why-i-find-googles-ai-olympics-ad-so-disturbing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/dearsydney-760x380.png"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Charter blames error with email notification and misunderstanding of FCC rules.",
+      "publishedAt": "2024-07-30T17:56:45+00:00",
+      "title": "Charter failed to notify 911 call centers and FCC about VoIP phone outages",
+      "url": "https://arstechnica.com/tech-policy/2024/07/charter-failed-to-notify-911-call-centers-and-fcc-about-voip-phone-outages/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/charter-spectrum-van-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "People may still be using unsafe products that Amazon sold and resold.",
+      "publishedAt": "2024-07-30T17:54:55+00:00",
+      "title": "Amazon forced to recall 400K products that could kill, electrocute people",
+      "url": "https://arstechnica.com/tech-policy/2024/07/amazon-forced-to-recall-400k-products-that-could-kill-electrocute-people/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2115789924-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Exec says mouse that requires a regular fee for software updates is possible.",
+      "publishedAt": "2024-07-30T17:49:07+00:00",
+      "title": "Logitech has an idea for a \u201cforever mouse\u201d that requires a subscription",
+      "url": "https://arstechnica.com/gadgets/2024/07/logitech-has-an-idea-for-a-forever-mouse-thatrequires-a-subscription/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-485221091-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "Losing access to Authy leads to another reckoning with Google's security model.",
       "publishedAt": "2024-07-30T16:36:12+00:00",
@@ -15,70 +79,6 @@
       "title": "Meta to pay $1.4 billion settlement after Texas facial recognition complaint",
       "url": "https://www.ft.com/content/faedc975-7a9b-4632-bc6e-3e2ea71587c1",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/meta-down-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The problem seems more prevalent in China than elsewhere, \"for reasons unknown.\"",
-      "publishedAt": "2024-07-30T14:20:17+00:00",
-      "title": "Tesla recalls 1.8 million cars because their hoods can open while driving",
-      "url": "https://arstechnica.com/cars/2024/07/tesla-recalls-1-8-million-cars-because-their-hoods-can-open-while-driving/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-993427446-760x380.jpg"
-    },
-    {
-      "author": "Richard Pallardy",
-      "description": "Humans may be part of a hybrid swarm. And we\u2019re making more of them.",
-      "publishedAt": "2024-07-30T11:00:06+00:00",
-      "title": "Hybrids between two species can produce \u201cswarms\u201d that flourish",
-      "url": "https://arstechnica.com/science/2024/07/how-hybrid-swarms-can-break-down-species-boundaries-and-take-over-habitats/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/liger-hybrid-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Plus a bonus featurette introducing various exotic creatures\u2014including a young Shelob.",
-      "publishedAt": "2024-07-29T22:58:41+00:00",
-      "title": "Lavish The Rings of Power S2 trailer debuts at San Diego Comic-Con",
-      "url": "https://arstechnica.com/culture/2024/07/lavish-the-rings-of-power-s2-trailer-debuts-at-san-diego-comic-con/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/rings1-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"America's a hustle, not that I'm complaining.\"",
-      "publishedAt": "2024-07-29T22:11:07+00:00",
-      "title": "Dark and gritty The Penguin trailer debuts at San Diego Comic-Con",
-      "url": "https://arstechnica.com/culture/2024/07/brooding-colin-farrell-channels-tony-soprano-in-the-penguin-comic-con-trailer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/penguin2-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Let the way-too-late nights researching each Beach Boys album in order commence.",
-      "publishedAt": "2024-07-29T21:10:45+00:00",
-      "title": "Darkness reigns over Wikipedia as official dark mode comes to pass",
-      "url": "https://arstechnica.com/gadgets/2024/07/wikipedia-finally-has-an-official-dark-mode-on-desktop-and-mobile/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/wikipedia-dark-mode-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Create new group called \"ESX Admins\" and ESXi automatically gives it admin rights.",
-      "publishedAt": "2024-07-29T21:02:35+00:00",
-      "title": "Hackers exploit VMware vulnerability that gives them hypervisor admin",
-      "url": "https://arstechnica.com/security/2024/07/hackers-exploit-vmware-vulnerability-that-gives-them-hypervisor-admin/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Also: teaser for Section 31, news on Strange New Worlds S3, Starfleet Academy, and more.",
-      "publishedAt": "2024-07-29T20:45:48+00:00",
-      "title": "Star Trek: Lower Decks S5 teaser gives Cerritos crew one last mission",
-      "url": "https://arstechnica.com/culture/2024/07/star-treks-comic-con-panel-debuts-teaser-for-lower-decks-final-season/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/deck1-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Charter CEO says \"customers' ability to pay\" a concern after $30 discounts end.",
-      "publishedAt": "2024-07-29T20:40:29+00:00",
-      "title": "Low-income homes drop Internet service after Congress kills discount program",
-      "url": "https://arstechnica.com/tech-policy/2024/07/low-income-homes-drop-internet-service-after-congress-kills-discount-program/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/charter-spectrum-vehicle-760x380.jpg"
     }
   ],
   "sortBy": "top",
