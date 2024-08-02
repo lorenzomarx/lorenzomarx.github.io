@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Cloudflare masks the origin of roughly 10% of abusive domains, watchdog says.",
+      "publishedAt": "2024-07-31T23:22:54+00:00",
+      "title": "Cloudflare once again comes under pressure for enabling abusive sites",
+      "url": "https://arstechnica.com/security/2024/07/cloudflare-once-again-comes-under-pressure-for-enabling-abusive-sites/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Update also improves AI image features, adds OneAuth support on iOS.",
+      "publishedAt": "2024-07-31T21:48:31+00:00",
+      "title": "Microsoft strips ads from Skype in a move toward \u201cuser-centric design\u201d",
+      "url": "https://arstechnica.com/gadgets/2024/07/microsoft-strips-ads-from-skype-in-a-move-toward-user-centric-design/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Skype-desktop-760x380.png"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Steve Huffman says companies must pay to scrape Reddit data.",
+      "publishedAt": "2024-07-31T21:19:27+00:00",
+      "title": "Blocking AI bots from Microsoft, others has been \u201cpain in the a**\u201d: Reddit CEO",
+      "url": "https://arstechnica.com/gadgets/2024/07/reddit-ceo-stands-by-change-that-blocks-most-non-google-search-engines/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1231060013-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Google starts downranking more non-consensual intimate imagery in searches.",
+      "publishedAt": "2024-07-31T20:48:06+00:00",
+      "title": "Google won\u2019t downrank top deepfake porn sites unless victims mass report",
+      "url": "https://arstechnica.com/tech-policy/2024/07/google-starts-broadly-removing-explicit-deepfakes-from-search-results/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-515681495-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "A sharp decline in sunspot activity in the 17th century has long puzzled astronomers.",
+      "publishedAt": "2024-07-31T20:16:40+00:00",
+      "title": "How Kepler\u2019s 400-year-old sunspot sketches helped solve a modern mystery",
+      "url": "https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/kepler3CROP-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "App-connected toothbrushes bring new privacy concerns to the bathroom.",
+      "publishedAt": "2024-07-31T20:12:21+00:00",
+      "title": "\u201cAI toothbrushes\u201d are coming for your teeth\u2014and your data",
+      "url": "https://arstechnica.com/gadgets/2024/07/ai-toothbrushes-are-coming-for-your-teeth-and-your-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/X-Ultra2-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Structure of galaxy rules out early, bright objects were supermassive black holes.",
+      "publishedAt": "2024-07-31T18:55:00+00:00",
+      "title": "Webb confirms: Big, bright galaxies formed shortly after the Big Bang",
+      "url": "https://arstechnica.com/science/2024/07/webb-confirms-big-bright-galaxies-formed-shortly-after-the-big-bang/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Screenshot-2024-07-31-at-2.29.54\u202fPM-760x380.png"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Maybe, just maybe, players want more new ideas rather than live services.",
+      "publishedAt": "2024-07-31T18:30:42+00:00",
+      "title": "Is Palworld a \u201cdead game\u201d? Who cares, says the game\u2019s developer",
+      "url": "https://arstechnica.com/gaming/2024/07/is-palworld-a-dead-game-who-cares-says-the-games-developer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Palworld_Screenshot_09-760x380.png"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "AVM allows uncanny real-time voice conversations with ChatGPT that you can interrupt.",
+      "publishedAt": "2024-07-31T18:14:18+00:00",
+      "title": "ChatGPT Advanced Voice Mode impresses testers with sound effects, catching its breath",
+      "url": "https://arstechnica.com/information-technology/2024/07/when-counting-quickly-openais-new-voice-mode-stops-to-catch-its-breath/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/AI_voice_converstation_hero-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Meta \"programmed it to simply not answer questions,\" but it did anyway.",
       "publishedAt": "2024-07-31T17:05:21+00:00",
       "title": "Meta addresses AI hallucination as chatbot says Trump shooting didn\u2019t happen",
       "url": "https://arstechnica.com/tech-policy/2024/07/meta-ai-called-trump-shooting-fake-despite-being-programmed-to-ignore-questions/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Lunar Lake will be Intel's response to Ryzen AI and Snapdragon X Elite chips.",
-      "publishedAt": "2024-07-31T16:59:40+00:00",
-      "title": "Next-gen Intel Core Ultra chips with boosted GPU and NPU are coming in September",
-      "url": "https://arstechnica.com/gadgets/2024/07/intel-plans-september-3rd-launch-for-next-generation-copilot-capable-core-ultra-cpus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/newsroom-core-ultra-series2-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Xbox Series X/S sales seem to have peaked early in 2022.",
-      "publishedAt": "2024-07-31T16:44:36+00:00",
-      "title": "Xbox console sales continue to crater with massive 42% revenue drop",
-      "url": "https://arstechnica.com/gaming/2024/07/xbox-console-sales-continue-to-crater-with-massive-42-revenue-drop/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The AWD hybrid is Ford's response to overwhelming customer requests.",
-      "publishedAt": "2024-07-31T14:43:21+00:00",
-      "title": "Ford facelifts its Maverick pickup, adds all-wheel-drive hybrid option",
-      "url": "https://arstechnica.com/cars/2024/07/ford-facelifts-its-maverick-pickup-adds-all-wheel-drive-hybrid-option/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/2025-ford-maverick-lariat_02-4096x2736-1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"I'm just shocked they don't want more coverage of these things and not less.\"",
-      "publishedAt": "2024-07-31T14:05:53+00:00",
-      "title": "After years of leniency, ULA cracks down on hobbyist photographers",
-      "url": "https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/53891838413_2c9f565c76_k-1-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Audi's next new electric vehicle is this aerodynamic five-door sedan.",
-      "publishedAt": "2024-07-31T11:00:44+00:00",
-      "title": "Audi\u2019s next EV is the A6 e-tron Sportback\u2014but no station wagon for the US",
-      "url": "https://arstechnica.com/cars/2024/07/audis-next-ev-is-the-a6-e-tron-sportback-but-no-station-wagon-for-the-us/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/A243192_large-760x380.jpg"
-    },
-    {
-      "author": "Simon Lee, Hayley Fowler, and Paul Davies, The Conversation",
-      "description": "Decades-old statistics no longer represent what is possible in the present day.",
-      "publishedAt": "2024-07-31T10:45:07+00:00",
-      "title": "The climate is changing so fast that we haven\u2019t seen how bad extreme weather could\u00a0get",
-      "url": "https://theconversation.com/the-climate-is-changing-so-fast-that-we-havent-seen-how-bad-extreme-weather-could-get-235726",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1410104332-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Mandrake's ability to go unnoticed was the result of designs not often seen in Android malware.",
-      "publishedAt": "2024-07-30T23:00:04+00:00",
-      "title": "Mysterious family of malware hid in Google Play for years",
-      "url": "https://arstechnica.com/security/2024/07/mysterious-family-of-malware-hid-in-google-play-for-years/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/phone-malware-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "It's been a decade-long effort to end the US military's reliance on the RD-180 engine.",
-      "publishedAt": "2024-07-30T20:52:10+00:00",
-      "title": "With a landmark launch, the Pentagon is finally free of Russian rocket engines",
-      "url": "https://arstechnica.com/space/2024/07/with-a-landmark-launch-the-pentagon-is-finally-free-of-russian-rocket-engines/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/53891944579_49af4043a0_k-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "The M3 MacBook Pro now supports multiple external monitors.",
-      "publishedAt": "2024-07-30T20:08:35+00:00",
-      "title": "Apple stealthily adds minor features in iOS 17.6, macOS 14.6 releases",
-      "url": "https://arstechnica.com/gadgets/2024/07/apple-stealthily-adds-minor-features-in-ios-17-6-macos-14-6-releases/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/iOS-176-iPhone-760x380.png"
     }
   ],
   "sortBy": "top",

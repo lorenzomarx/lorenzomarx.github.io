@@ -1,12 +1,60 @@
 {
   "articles": [
     {
+      "author": "MATT BROWN and MICHELLE L. PRICE",
+      "description": "CHICAGO (AP) \u2014 Donald Trump falsely suggested Kamala Harris had misled voters about her race as the former president appeared before the National Association of Black Journalists in Chicago Wednesday in an interview that quickly turned hostile.",
+      "publishedAt": "2024-07-31T18:37:35Z",
+      "title": "Donald Trump falsely suggests Kamala Harris misled voters about her race",
+      "url": "https://apnews.com/1e96aa530e88013ed6f577feaf89ccb6",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/64b7210fff0c462480a5dd27731284a2/3000.jpeg"
+    },
+    {
+      "author": "ZEKE MILLER and COLLEEN LONG",
+      "description": "WASHINGTON (AP) \u2014 It was President Joe Biden's first public appearance since he dropped out of the race, and the applause for him from the crowded auditorium in Austin, Texas, just kept going.",
+      "publishedAt": "2024-07-31T22:36:31Z",
+      "title": "Biden is adjusting to a new reality, coming to terms with his departure from 2024 race",
+      "url": "https://apnews.com/16d5ce2c6fb8cbc803c3cfffc24b3bb2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/02349717534a47e887547de05c9dd480/3000.jpeg"
+    },
+    {
       "author": "ABBY SEWELL",
       "description": "BEIRUT (AP) \u2014 Hamas' top political leader was killed Wednesday by a predawn airstrike in the Iranian capital, Iran and the militant group said, blaming Israel for a shock assassination that risked escalating into an all-out regional war.",
       "publishedAt": "2024-07-31T03:09:49Z",
       "title": "Hamas' top political leader is killed in Iran in strike that risks triggering all-out regional war",
       "url": "https://apnews.com/30968a7acb31cd8b259de9650014b779",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/91d0faa7eb1c47e28f81237e682f9991/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/43b9e76dca684a128ec1bf0b97caac7e/1920.jpeg"
+    },
+    {
+      "author": "BASSEM MROUE and TIA GOLDENBERG",
+      "description": "BEIRUT (AP) \u2014 The Lebanese militant group Hezbollah confirmed Wednesday that Israel killed a top commander after a rare strike in Beirut.The Iran-backed group said earlier that Fouad Shukur was in the building during the attack on Tuesday, and they were searching for him in the rubble to determine his fate.",
+      "publishedAt": "2024-07-30T17:19:34Z",
+      "title": "Hezbollah confirms that a top commander was killed in Israeli strike in Beirut",
+      "url": "https://apnews.com/52c2a1711e274859b60daf8d2db3e0e2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c1132830c3bb42da9958c6916b2b54e7/1920.jpeg"
+    },
+    {
+      "author": "ELLEN KNICKMEYER and LARRY NEUMEISTER",
+      "description": "WASHINGTON (AP) \u2014 Khalid Sheikh Mohammed, accused as the mastermind of al-Qaida\u2019s Sept. 11, 2001, attacks on the United States, has agreed to plead guilty, the Defense Department said Wednesday.",
+      "publishedAt": "2024-07-31T22:00:40Z",
+      "title": "Khalid Sheikh Mohammed, accused as the main plotter of 9/11 attacks, agrees to plead guilty",
+      "url": "https://apnews.com/76a2dc11440cf9c4c287ee69bd742aa3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a83351e0873d4ab095697c4dba8a7993/3000.jpeg"
+    },
+    {
+      "author": "REGINA GARCIA CANO and GISELA SALOMON",
+      "description": "CARACAS, Venezuela (AP) \u2014 President Nicol\u00e1s Maduro on Wednesday asked Venezuela\u2019s Supreme Court to conduct an audit of the presidential election after opposition leaders disputed his claim of victory, drawing criticism from foreign observers who said the court is too close to the government to produce an independent review.",
+      "publishedAt": "2024-07-31T13:48:56Z",
+      "title": "Venezuela's Maduro asks Supreme Court to audit the presidential election, but observers cry foul",
+      "url": "https://apnews.com/00d399b74300b6d1ed010bed9539a166",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ccb6a6988be9435bac989bc0072fac7c/1920.jpeg"
+    },
+    {
+      "author": "AUDREY McAVOY",
+      "description": "HONOLULU (AP) \u2014 The parties involved in Lahaina wildfire lawsuits against the state of Hawaii, Maui County and utilities are close to a global settlement of claims that will be worth a little over $4 billion, Gov.",
+      "publishedAt": "2024-07-31T20:51:20Z",
+      "title": "Hawaii Gov. Josh Green tells AP a $4 billion settlement for 2023 Maui wildfire could come next week",
+      "url": "https://apnews.com/50b9118225baa0043f2de2f5b62fba54",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1668658ce8a547a886576becf26c541c/3000.jpeg"
     },
     {
       "author": "JAMEY KEATEN",
@@ -17,68 +65,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/a90ad0be6377466fa0b0e61038906332/3000.jpeg"
     },
     {
-      "author": "SARAH EL DEEB and BASSEM MROUE",
-      "description": "BEIRUT (AP) \u2014 The militant Palestinian group Hamas has a history of swift and smooth replacement of fallen leaders killed in Israeli airstrikes.",
-      "publishedAt": "2024-07-31T12:40:06Z",
-      "title": "The war in Gaza might complicate Haniyeh's replacement. Here are the possible contenders",
-      "url": "https://apnews.com/16859ac53059cd395cf1cd785bbde939",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6822b4ea2d2342918cd306ebe253430c/3000.jpeg"
-    },
-    {
-      "author": "MICHELLE CHAPMAN",
-      "description": "Delta Air Lines CEO Ed Bastian says the airline is facing $500 million in costs related to a global tech outage this month that disrupted emergency services, communications and thousands of businesses.",
-      "publishedAt": "2024-07-31T13:33:20Z",
-      "title": "Delta CEO says airline is facing $500 million in costs from global tech outage",
-      "url": "https://apnews.com/5902eb14e0ec23697d8ffd9c0e63f23e",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b88a9f7321ae46cb88c9d8018f4e3368/3000.jpeg"
-    },
-    {
-      "author": "KATE BRUMBACK and PAT GRAHAM",
-      "description": "PARIS (AP) \u2014 Olympic triathletes dove into the Seine River on Wednesday after organizers declared the water in Paris safe for swimming following days of concerns about elevated bacteria levels caused by heavy rains last week.",
-      "publishedAt": "2024-07-31T02:08:53Z",
-      "title": "Olympic triathletes swim in Seine River after days of concerns about water quality",
-      "url": "https://apnews.com/358b29063ac00253c072290281043eaa",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9eb891efd7a64e9ab95f359c5f91d0fe/3000.jpeg"
+      "author": "JAMES POLLARD and THALIA BEATY",
+      "description": "NEW YORK (AP) \u2014 MrBeast, YouTube's biggest star and a philanthropic force with nearly unrivaled influence among young audiences, acknowledged Wednesday that he used \u201cinappropriate language\u201d in his early online days, as numerous controversies bubbled up around him and a former collaborator.",
+      "publishedAt": "2024-07-31T22:29:35Z",
+      "title": "MrBeast, YouTube's biggest star, acknowledges past 'inappropriate language' as controversies swirl",
+      "url": "https://apnews.com/742306d7c77e2eca8d895bf439790c69",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/04d4a7b9fecf4db89caa78a7246ba4a6/3000.jpeg"
     },
     {
       "author": null,
-      "description": "CHATEAUROUX, France (AP) \u2014 A spinal injury ended Adriana Ruano's chances of competing at the Olympics as a gymnast. She came back as a shooter and won Guatemala's first gold medal on Wednesday.Ruano was training for the 2011 world championships in gymnastics, a qualifier for the London Olympics the following year, when she felt pain in her back.",
-      "publishedAt": "2024-07-31T14:45:06Z",
-      "title": "Gymnast-turned-shooter Adriana Ruano wins Guatemala's first Olympic gold",
-      "url": "https://apnews.com/72bb447ac25c35e5de27b4b1e0d7f7d1",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3a35a33c3a264044ab18eb399d1d56ad/3000.jpeg"
-    },
-    {
-      "author": "REGINA GARCIA CANO",
-      "description": "CARACAS, Venezuela (AP) \u2014 Pressure kept building against Venezuelan President Nicol\u00e1s Maduro on Wednesday, when his close ally Colombian President Gustavo Petro, joined other foreign leaders in urging him to release detailed vote counts from the recent presidential election after electoral authorities declared him the winner.",
-      "publishedAt": "2024-07-31T13:48:56Z",
-      "title": "Colombian president urges ally, Venezuela's Maduro, to release detailed vote counts from election",
-      "url": "https://apnews.com/00d399b74300b6d1ed010bed9539a166",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6baf9ade5361404ab7e9541dc8db22c4/3000.jpeg"
-    },
-    {
-      "author": "SEUNG MIN KIM and LINLEY SANDERS",
-      "description": "WASHINGTON (AP) \u2014 Vice President Kamala Harris appears to have energized Democrats in the early days of her candidacy, with the surge in warm feelings extending across multiple groups, including some key Democratic constituencies that had been especially tepid about President Joe Biden, a new poll shows.",
-      "publishedAt": "2024-07-31T04:02:02Z",
-      "title": "About 8 in 10 Democrats are satisfied with Harris in stark shift after Biden drops out: AP-NORC poll",
-      "url": "https://apnews.com/1feb5ed3c2e29623ce3cec3565b487cd",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0f361775658f4c0aae0e0642a4289bc7/3000.jpeg"
-    },
-    {
-      "author": "MATT BROWN",
-      "description": "WASHINGTON (AP) \u2014 Donald Trump's invitation to address the National Association of Black Journalists has sparked an intense debate within the organization and a flurry of arguments online.",
-      "publishedAt": "2024-07-30T21:09:59Z",
-      "title": "A speaking invitation to Donald Trump splits the most prominent American group for Black journalists",
-      "url": "https://apnews.com/c84311a4e3bec3fe3052236151597d81",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/34fce797702d4e54959a991a5da9e464/3000.jpeg"
-    },
-    {
-      "author": "LISA RATHKE, NICK PERRY and KATHY McCORMACK",
-      "description": "LYNDON, Vt. (AP) \u2014 Vermont\u2019s governor said Wednesday that the latest storms to hit the state have undone much of the cleanup and recovery work done since its last major bout of flooding only weeks ago, and he called on residents to \u201cstick together\u201d amid fears that more bad weather was on its way.",
-      "publishedAt": "2024-07-31T04:01:23Z",
-      "title": "Governor calls on flood-weary Vermonters to 'stick together' with more thunderstorms on the horizon",
-      "url": "https://apnews.com/7872348db84f506598624e9fb9c2ae40",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/56f3685db0174014a9e4a0ab5ded48d1/1920.jpeg"
+      "description": "NANTERRE, France (AP) \u2014 Katie Ledecky has tied one of swimming's most impressive records. Chances are, she'll have it all to herself by the time she completes the Paris Olympics.",
+      "publishedAt": "2024-07-31T20:35:20Z",
+      "title": "What's next for Katie Ledecky? Another race and a relay as she goes for more records",
+      "url": "https://apnews.com/841dd1990c0bc4a7ae2bb41c09b7a7fc",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9a9888f58a0345f982bb8b2843e5dfcd/3000.jpeg"
     }
   ],
   "sortBy": "top",
