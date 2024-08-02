@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "\"Risk remains that we may record additional losses in future periods.\"",
+      "publishedAt": "2024-08-01T00:27:39+00:00",
+      "title": "Boeing\u2019s Starliner has cost at least twice as much as SpaceX\u2019s Crew Dragon",
+      "url": "https://arstechnica.com/space/2024/07/boeing-warns-of-more-financial-losses-on-starliner-commercial-crew-program/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/cms_ksc-20191121-ph-boe01_0001-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Authorities worry that the contaminated meats are still sitting in people's fridges.",
+      "publishedAt": "2024-08-01T00:05:54+00:00",
+      "title": "7 million pounds of meat recalled amid deadly outbreak",
+      "url": "https://arstechnica.com/science/2024/07/7-million-pounds-of-meat-recalled-amid-deadly-outbreak/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2164656960-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Cloudflare masks the origin of roughly 10% of abusive domains, watchdog says.",
       "publishedAt": "2024-07-31T23:22:54+00:00",
@@ -63,22 +79,6 @@
       "title": "Is Palworld a \u201cdead game\u201d? Who cares, says the game\u2019s developer",
       "url": "https://arstechnica.com/gaming/2024/07/is-palworld-a-dead-game-who-cares-says-the-games-developer/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Palworld_Screenshot_09-760x380.png"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "AVM allows uncanny real-time voice conversations with ChatGPT that you can interrupt.",
-      "publishedAt": "2024-07-31T18:14:18+00:00",
-      "title": "ChatGPT Advanced Voice Mode impresses testers with sound effects, catching its breath",
-      "url": "https://arstechnica.com/information-technology/2024/07/when-counting-quickly-openais-new-voice-mode-stops-to-catch-its-breath/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/AI_voice_converstation_hero-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Meta \"programmed it to simply not answer questions,\" but it did anyway.",
-      "publishedAt": "2024-07-31T17:05:21+00:00",
-      "title": "Meta addresses AI hallucination as chatbot says Trump shooting didn\u2019t happen",
-      "url": "https://arstechnica.com/tech-policy/2024/07/meta-ai-called-trump-shooting-fake-despite-being-programmed-to-ignore-questions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-760x380.jpg"
     }
   ],
   "sortBy": "top",
