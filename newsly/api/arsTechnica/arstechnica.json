@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Benj Edwards",
+      "description": "Law would hold US individuals and firms liable for ripping off a person's digital likeness.",
+      "publishedAt": "2024-08-01T17:45:17+00:00",
+      "title": "Senators propose \u201cDigital replication right\u201d for likeness, extending 70 years after death",
+      "url": "https://arstechnica.com/information-technology/2024/08/senates-no-fakes-act-hopes-to-make-unauthorized-digital-replicas-illegal/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/deepfake_illustration-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "The first wave of Snapdragon X Plus and Elite systems are mostly $1,000 and up.",
+      "publishedAt": "2024-08-01T15:48:59+00:00",
+      "title": "Now that decent Arm-powered PCs exist, Qualcomm\u2019s CEO wants to make them cheaper",
+      "url": "https://arstechnica.com/gadgets/2024/08/qualcomm-promises-700-arm-powered-pcs-are-coming-sometime-in-2025/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_1904-760x380.jpeg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"These defects could lead the flight computers to unexpectedly restart.\"",
+      "publishedAt": "2024-08-01T15:38:23+00:00",
+      "title": "NASA\u2019s Lunar Gateway has a big visiting vehicles problem",
+      "url": "https://arstechnica.com/space/2024/08/nasas-lunar-gateway-has-a-big-visiting-vehicles-problem/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/gateway1-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The data explains why we keep seeing certain features on many new cars.",
+      "publishedAt": "2024-08-01T15:21:47+00:00",
+      "title": "The 10 things car buyers say they want in their next car",
+      "url": "https://arstechnica.com/cars/2024/08/from-rain-sensors-to-wireless-charging-the-10-tech-features-car-buyers-want/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1459042744-760x380.jpg"
+    },
+    {
+      "author": "Elizabeth Rayne",
+      "description": "Volunteers watched their own performances as an MRI tracked brain activity.",
+      "publishedAt": "2024-08-01T14:13:47+00:00",
+      "title": "Karaoke reveals why we blush",
+      "url": "https://arstechnica.com/science/2024/08/karaoke-reveals-why-we-blush/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-632171437-760x380.jpg"
+    },
+    {
       "author": "Julian Chokkattu, WIRED.com",
       "description": "Its news app is available on all Nothing and CMF handsets, including the new Phone (2a) Plus.",
       "publishedAt": "2024-08-01T10:43:35+00:00",
@@ -39,46 +79,6 @@
       "title": "Microsoft strips ads from Skype in a move toward \u201cuser-centric design\u201d",
       "url": "https://arstechnica.com/gadgets/2024/07/microsoft-strips-ads-from-skype-in-a-move-toward-user-centric-design/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Skype-desktop-760x380.png"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Steve Huffman says companies must pay to scrape Reddit data.",
-      "publishedAt": "2024-07-31T21:19:27+00:00",
-      "title": "Blocking AI bots from Microsoft, others has been \u201cpain in the a**\u201d: Reddit CEO",
-      "url": "https://arstechnica.com/gadgets/2024/07/reddit-ceo-stands-by-change-that-blocks-most-non-google-search-engines/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1231060013-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Google starts downranking more non-consensual intimate imagery in searches.",
-      "publishedAt": "2024-07-31T20:48:06+00:00",
-      "title": "Google won\u2019t downrank top deepfake porn sites unless victims mass report",
-      "url": "https://arstechnica.com/tech-policy/2024/07/google-starts-broadly-removing-explicit-deepfakes-from-search-results/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-515681495-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "A sharp decline in sunspot activity in the 17th century has long puzzled astronomers.",
-      "publishedAt": "2024-07-31T20:16:40+00:00",
-      "title": "How Kepler\u2019s 400-year-old sunspot sketches helped solve a modern mystery",
-      "url": "https://arstechnica.com/science/2024/07/how-keplers-400-year-old-sunspot-sketches-helped-solve-a-modern-mystery/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/kepler3CROP-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "App-connected toothbrushes bring new privacy concerns to the bathroom.",
-      "publishedAt": "2024-07-31T20:12:21+00:00",
-      "title": "\u201cAI toothbrushes\u201d are coming for your teeth\u2014and your data",
-      "url": "https://arstechnica.com/gadgets/2024/07/ai-toothbrushes-are-coming-for-your-teeth-and-your-data/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/X-Ultra2-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Structure of galaxy rules out early, bright objects were supermassive black holes.",
-      "publishedAt": "2024-07-31T18:55:00+00:00",
-      "title": "Webb confirms: Big, bright galaxies formed shortly after the Big Bang",
-      "url": "https://arstechnica.com/science/2024/07/webb-confirms-big-bright-galaxies-formed-shortly-after-the-big-bang/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Screenshot-2024-07-31-at-2.29.54\u202fPM-760x380.png"
     }
   ],
   "sortBy": "top",
