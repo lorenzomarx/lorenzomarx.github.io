@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Stefania Palma, Financial Times",
+      "description": "Justice Department has increased scrutiny of the chipmaker\u2019s power in the emerging sector.",
+      "publishedAt": "2024-08-02T17:03:56+00:00",
+      "title": "US probes Nvidia\u2019s acquisition of Israeli AI startup",
+      "url": "https://www.ft.com/content/666ee087-975f-459e-8444-1f9b1d94a008",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-2-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Devs cite Rollercoaster Tycoon, Dwarf Fortress, and, yes, SimCity as inspiration.",
+      "publishedAt": "2024-08-02T16:43:07+00:00",
+      "title": "Metropolis 1998 lets you design every building in an isometric, pixel-art city",
+      "url": "https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/metropolis2-760x380.jpg"
+    },
+    {
+      "author": "Jacek Krywko",
+      "description": "Astronauts' muscles atrophy in space, but we can identify the genes involved.",
+      "publishedAt": "2024-08-02T15:33:30+00:00",
+      "title": "Human muscle cells come back from space, look aged",
+      "url": "https://arstechnica.com/science/2024/08/human-muscle-cells-come-back-from-space-look-aged/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-9-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Intel's microcode fix won't help CPUs that are already damaged.",
+      "publishedAt": "2024-08-02T14:38:26+00:00",
+      "title": "Intel extends warranties by two years for crash-prone Core desktop CPUs",
+      "url": "https://arstechnica.com/gadgets/2024/08/intel-extends-warranties-by-two-years-for-crash-prone-core-desktop-cpus/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_0954-760x380.jpeg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "AliExpress retro laptop doesn't always live up to its promise.",
+      "publishedAt": "2024-08-02T13:42:43+00:00",
+      "title": "A few weeks with the Pocket 386, an early-\u201890s-style, half-busted retro PC",
+      "url": "https://arstechnica.com/gadgets/2024/08/a-few-weeks-with-the-pocket-386-an-early-90s-style-half-busted-retro-pc/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_2028-760x380.jpeg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Elon Musk doesn't expect the next Starship test flight to occur before late August.",
+      "publishedAt": "2024-08-02T12:39:46+00:00",
+      "title": "Rocket Report: Falcon 9 is back; Starship could be recovered off Australia",
+      "url": "https://arstechnica.com/space/2024/08/rocket-report-falcon-9-is-back-starship-could-be-recovered-off-australia/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GTedv9la8AAhWa1-760x380.jpeg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "Scientists performed a \"virtual autopsy\" but could not determine exact cause of death.",
       "publishedAt": "2024-08-02T04:15:23+00:00",
@@ -17,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking-760x380.jpg"
     },
     {
-      "author": "Beth Mole",
+      "author": null,
       "description": "A small sample of farm workers is enough to confirm fears about H5N1 outbreak.",
       "publishedAt": "2024-08-01T23:17:45+00:00",
       "title": "Troubling bird flu study suggests human cases are going undetected",
-      "url": "https://arstechnica.com/science/2024/08/troubling-bird-flu-study-suggests-human-cases-are-going-undetected/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-157204335-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2040675",
+      "urlToImage": null
     },
     {
       "author": "Eric Berger",
@@ -31,54 +79,6 @@
       "title": "NASA says it is \u201cevaluating all options\u201d for the safe return of Starliner crew",
       "url": "https://arstechnica.com/space/2024/08/yes-nasa-really-could-bring-starliners-astronauts-back-on-crew-dragon/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/53797942971_5ae4c07feb_4k-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "A Japanese company becomes the first to approach a piece of space junk in low-Earth orbit.",
-      "publishedAt": "2024-08-01T22:47:46+00:00",
-      "title": "There are 2,000-plus dead rockets in orbit\u2014here\u2019s a rare view of one",
-      "url": "https://arstechnica.com/space/2024/08/there-are-2000-plus-dead-rockets-in-orbit-heres-a-rare-view-of-one-of-them/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/astroscale-flyaround-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "\"Brand agnostic\" design flaws cause uniformity problems, RTINGs torture test finds.",
-      "publishedAt": "2024-08-01T22:16:33+00:00",
-      "title": "Testing shows \u201csignificant durability\u201d problems with edge-lit LCD TVs",
-      "url": "https://arstechnica.com/gadgets/2024/08/thin-lcd-tvs-fail-faster-due-to-edge-lit-backlights/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/2023_The_Frame_LS03B_01_KV_PC-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "CEO Tim Cook spent much of the earnings call hyping Apple Intelligence.",
-      "publishedAt": "2024-08-01T22:06:13+00:00",
-      "title": "Apple reports record revenues despite stagnant iPhone sales",
-      "url": "https://arstechnica.com/gadgets/2024/08/apple-reports-record-revenues-despite-stagnant-iphone-sales/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1388205526-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Software helps landlords \"indirectly coordinate\" by sharing nonpublic information.",
-      "publishedAt": "2024-08-01T19:00:36+00:00",
-      "title": "San Francisco to ban software that \u201cenables price collusion\u201d by landlords",
-      "url": "https://arstechnica.com/tech-policy/2024/08/san-francisco-to-ban-software-that-enables-price-collusion-by-landlords/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/san-fran-apartments-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Anti-monopoly groups want DOJ to probe Nvidia\u2019s AI chip bundling, alleged price-fixing.",
-      "publishedAt": "2024-08-01T18:14:43+00:00",
-      "title": "AI\u2019s future in grave danger from Nvidia\u2019s chokehold on chips, groups warn",
-      "url": "https://arstechnica.com/tech-policy/2024/08/nvidias-dominance-puts-ai-industry-in-dire-danger-groups-warn-doj/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1006384150-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Law would hold US individuals and firms liable for ripping off a person's digital likeness.",
-      "publishedAt": "2024-08-01T17:45:17+00:00",
-      "title": "Senators propose \u201cDigital replication right\u201d for likeness, extending 70 years after death",
-      "url": "https://arstechnica.com/information-technology/2024/08/senates-no-fakes-act-hopes-to-make-unauthorized-digital-replicas-illegal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/deepfake_illustration-760x380.jpg"
     }
   ],
   "sortBy": "top",
