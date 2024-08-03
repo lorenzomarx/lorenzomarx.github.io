@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Scharon Harding",
+      "description": "\"Brand agnostic\" design flaws cause uniformity problems, RTINGs torture test finds.",
+      "publishedAt": "2024-08-01T22:16:33+00:00",
+      "title": "Testing shows \u201csignificant durability\u201d problems with edge-lit LCD TVs",
+      "url": "https://arstechnica.com/gadgets/2024/08/thin-lcd-tvs-fail-faster-due-to-edge-lit-backlights/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/2023_The_Frame_LS03B_01_KV_PC-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "CEO Tim Cook spent much of the earnings call hyping Apple Intelligence.",
+      "publishedAt": "2024-08-01T22:06:13+00:00",
+      "title": "Apple reports record revenues despite stagnant iPhone sales",
+      "url": "https://arstechnica.com/gadgets/2024/08/apple-reports-record-revenues-despite-stagnant-iphone-sales/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1388205526-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Software helps landlords \"indirectly coordinate\" by sharing nonpublic information.",
+      "publishedAt": "2024-08-01T19:00:36+00:00",
+      "title": "San Francisco to ban software that \u201cenables price collusion\u201d by landlords",
+      "url": "https://arstechnica.com/tech-policy/2024/08/san-francisco-to-ban-software-that-enables-price-collusion-by-landlords/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/san-fran-apartments-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Anti-monopoly groups want DOJ to probe Nvidia\u2019s AI chip bundling, alleged price-fixing.",
+      "publishedAt": "2024-08-01T18:14:43+00:00",
+      "title": "AI\u2019s future in grave danger from Nvidia\u2019s chokehold on chips, groups warn",
+      "url": "https://arstechnica.com/tech-policy/2024/08/nvidias-dominance-puts-ai-industry-in-dire-danger-groups-warn-doj/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1006384150-760x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "Law would hold US individuals and firms liable for ripping off a person's digital likeness.",
       "publishedAt": "2024-08-01T17:45:17+00:00",
@@ -47,38 +79,6 @@
       "title": "Nothing\u2019s new AI widget is trying to make its CFO a news star",
       "url": "https://www.wired.com/story/nothing-news-reporter-widget-nothing-phone-2a-plus/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Screenshot-2024-07-31-at-14-58-27-Nothing-Phone-2a-AI-Widget-Reviewer-Collage-072024-SOURCE-Julian-Chokkattu.jpg-WEBP-Image-1920-\u00d7-1440-pixels-\u2014-Scaled-87-760x380.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"Risk remains that we may record additional losses in future periods.\"",
-      "publishedAt": "2024-08-01T00:27:39+00:00",
-      "title": "Boeing\u2019s Starliner has cost at least twice as much as SpaceX\u2019s Crew Dragon",
-      "url": "https://arstechnica.com/space/2024/07/boeing-warns-of-more-financial-losses-on-starliner-commercial-crew-program/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/cms_ksc-20191121-ph-boe01_0001-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Authorities worry that the contaminated meats are still sitting in people's fridges.",
-      "publishedAt": "2024-08-01T00:05:54+00:00",
-      "title": "7 million pounds of meat recalled amid deadly outbreak",
-      "url": "https://arstechnica.com/science/2024/07/7-million-pounds-of-meat-recalled-amid-deadly-outbreak/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2164656960-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Cloudflare masks the origin of roughly 10% of abusive domains, watchdog says.",
-      "publishedAt": "2024-07-31T23:22:54+00:00",
-      "title": "Cloudflare once again comes under pressure for enabling abusive sites",
-      "url": "https://arstechnica.com/security/2024/07/cloudflare-once-again-comes-under-pressure-for-enabling-abusive-sites/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Update also improves AI image features, adds OneAuth support on iOS.",
-      "publishedAt": "2024-07-31T21:48:31+00:00",
-      "title": "Microsoft strips ads from Skype in a move toward \u201cuser-centric design\u201d",
-      "url": "https://arstechnica.com/gadgets/2024/07/microsoft-strips-ads-from-skype-in-a-move-toward-user-centric-design/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Skype-desktop-760x380.png"
     }
   ],
   "sortBy": "top",
