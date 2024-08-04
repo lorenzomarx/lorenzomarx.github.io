@@ -1,12 +1,28 @@
 {
   "articles": [
     {
+      "author": "Nate Anderson",
+      "description": "Taking the \"human\" out of \"human communication.\"",
+      "publishedAt": "2024-08-02T22:42:35+00:00",
+      "title": "Google pulls its terrible pro-AI \u201cDear Sydney\u201d ad after backlash",
+      "url": "https://arstechnica.com/culture/2024/08/google-pulls-its-terrible-pro-ai-dear-sydney-ad-after-backlash/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/gemini-prompt-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "Risk assessment study of illegal online pharmacies offers some unsurprising data.",
       "publishedAt": "2024-08-02T21:52:27+00:00",
       "title": "Buying shady weight loss drugs online is a bad idea, in case you were wondering",
       "url": "https://arstechnica.com/science/2024/08/shady-weight-loss-drugs-sold-online-are-mislabeled-contaminated-study-finds/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/semaglutide-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Even TikTok's Kids Mode violates COPPA, DOJ alleged.",
+      "publishedAt": "2024-08-02T21:26:16+00:00",
+      "title": "DOJ sues TikTok, alleging \u201cmassive-scale invasions of children\u2019s privacy\u201d",
+      "url": "https://arstechnica.com/tech-policy/2024/08/doj-sues-tiktok-alleging-massive-scale-invasions-of-childrens-privacy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2161838418-760x380.jpg"
     },
     {
       "author": "Kevin Purdy",
@@ -63,14 +79,6 @@
       "title": "Metropolis 1998 lets you design every building in an isometric, pixel-art city",
       "url": "https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/metropolis2-760x380.jpg"
-    },
-    {
-      "author": "Jacek Krywko",
-      "description": "Astronauts' muscles atrophy in space, but we can identify the genes involved.",
-      "publishedAt": "2024-08-02T15:33:30+00:00",
-      "title": "Human muscle cells come back from space, look aged",
-      "url": "https://arstechnica.com/science/2024/08/human-muscle-cells-come-back-from-space-look-aged/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/image-9-760x380.jpeg"
     }
   ],
   "sortBy": "top",
