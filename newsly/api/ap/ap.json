@@ -1,10 +1,18 @@
 {
   "articles": [
     {
+      "author": "LINDSEY BAHR",
+      "description": "In our spoiler phobic culture, movie trailers don\u2019t often offer a lot of information. It\u2019s even dangerous territory for a critic to discuss too many specifics, sometimes years after a film or television show has come out.",
+      "publishedAt": "2024-08-01T23:33:36Z",
+      "title": "Movie Review: Josh Hartnett goes big as the serial killer in M. Night Shyamalan\u2019s 'Trap'",
+      "url": "https://apnews.com/f7bc0312e7f76e01c921c4622a8e0add",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e7948139fc5f406e843e5114485a7a8b/3000.jpeg"
+    },
+    {
       "author": "BILL BARROW and MEG KINNARD",
-      "description": "ATLANTA (AP) \u2014 Former President Donald Trump returns Saturday to Georgia, which he lost four years ago, to campaign in a state that both Democrats and Republicans see as up for grabs yet again.",
+      "description": "ATLANTA (AP) \u2014 Former President Donald Trump picked a new fight with Georgia's Republican governor as he campaigned in the key swing state where he's looking to avenge his narrow 2020 loss \u2014 a defeat he continues to blame on Republican officials based on his false theories of election fraud.",
       "publishedAt": "2024-08-03T04:06:03Z",
-      "title": "Trump and Vance return to Georgia days after a Harris event in the same arena",
+      "title": "Trump again tears into Georgia's Republican governor on the same day he campaigns in the state",
       "url": "https://apnews.com/b21c25bbbfafdd0343c8812f6c3d7c9e",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/2936aabedfea4f70a49b4a03c085e840/3000.jpeg"
     },
@@ -17,28 +25,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/bc4d0357b5574c3399c43515588a8b1a/3000.jpeg"
     },
     {
-      "author": "KAREEM CHEHAYEB and MELANIE LIDMAN",
-      "description": "FARDIS, Lebanon (AP) \u2014 Alma Ayman Fakhr al-Din, a lively 11-year-old who loved basketball and learning languages, was playing on a soccer field a week ago in Majdal Shams, a Druze town in the Israeli-occupied Golan Heights, when the rocket hit.",
-      "publishedAt": "2024-08-03T16:22:27Z",
-      "title": "Horror at deaths of 12 children unites Druze across borders. But Mideast's wars tear at their bonds",
-      "url": "https://apnews.com/cd1005be55b3893f0852e431643899bd",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f2825540bfc640e8a81b838f830cf6d4/3000.jpeg"
-    },
-    {
-      "author": "AREF TUFAHA and JACK JEFFERY",
-      "description": "ZEITA, West Bank (AP) \u2014 Two Israeli airstrikes in the West Bank killed nine Palestinian militants on Saturday, Israel's army said, as violence flared again in the Israeli-occupied territory with tensions high over the war in Gaza and a potential regional escalation.",
-      "publishedAt": "2024-08-03T09:46:00Z",
-      "title": "Israel kills militants in the West Bank as a nervous region watches latest on cease-fire talks",
-      "url": "https://apnews.com/4ccf2a50855866662cd21a0315395286",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1df5144e3d5d44ce8ac70d8d8c0ba3c4/1920.jpeg"
-    },
-    {
-      "author": "MEG KINNARD",
-      "description": "CHAPIN, S.C. (AP) \u2014 Donald Trump says he is pulling out of a scheduled September debate with Vice President Kamala Harris on ABC and wants them to face off on Fox News, making it increasingly unlikely that the candidates will confront each other on stage before the November election.",
-      "publishedAt": "2024-08-03T17:57:07Z",
-      "title": "Trump says he'll skip an ABC debate with Harris in September and wants them to face off on Fox News",
-      "url": "https://apnews.com/0d0be341bbe7877a71bfc4bed40610fa",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7ea84cf4bdb446e9a00f6a65dcd552ce/3000.jpeg"
+      "author": "PAUL NEWBERRY",
+      "description": "NANTERRE, France (AP) \u2014 Every year on August 3, Katie Ledecky is reminded of her first Olympic gold medal.She was just 15 years old, a reserved high schooler who had surprisingly made the U.S.",
+      "publishedAt": "2024-08-03T18:53:49Z",
+      "title": "Katie Ledecky swims into history with 800 freestyle victory at the Paris Olympics",
+      "url": "https://apnews.com/46342b7abd636282da995d1b0b9c4aff",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e83f6602e6854fabb4ea1e2de240911c/3000.jpeg"
     },
     {
       "author": "GREG BEACHAM",
@@ -49,36 +41,44 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/b7187726c7774f5a89c400f3431ef1d2/3000.jpeg"
     },
     {
-      "author": "WILL GRAVES",
-      "description": "PARIS (AP) \u2014 Simone Biles earned her seventh Olympic gold medal by soaring to victory in the women's vault final at the Paris Games on Saturday.",
-      "publishedAt": "2024-08-03T14:18:16Z",
-      "title": "Simone Biles captures her seventh Olympic gold medal by winning women's vault for a second time",
-      "url": "https://apnews.com/92723dd60b8c0d7113ab401e85433f57",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0d77c0418c74444f923d571cc7ffe4fb/3000.jpeg"
+      "author": "KAREEM CHEHAYEB and MELANIE LIDMAN",
+      "description": "FARDIS, Lebanon (AP) \u2014 Alma Ayman Fakhr al-Din, a lively 11-year-old who loved basketball and learning languages, was playing on a soccer field a week ago in Majdal Shams, a Druze town in the Israeli-occupied Golan Heights, when the rocket hit.",
+      "publishedAt": "2024-08-03T16:22:27Z",
+      "title": "Horror at deaths of 12 children unites Druze across borders. But Mideast's wars tear at their bonds",
+      "url": "https://apnews.com/cd1005be55b3893f0852e431643899bd",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f2825540bfc640e8a81b838f830cf6d4/3000.jpeg"
+    },
+    {
+      "author": "FABIOLA S\u00c1NCHEZ",
+      "description": "CARACAS, Venezuela (AP) \u2014 Thousands of people rallied in the streets of Venezuela's capital Saturday, waving the national flag and singing the national anthem in support of an opposition candidate they believe won the presidential election by a landslide.",
+      "publishedAt": "2024-08-03T18:08:52Z",
+      "title": "Opposition leader joins rally calling for Venezuela presidential election results to be overturned",
+      "url": "https://apnews.com/d6e70bd88ee9511298a4850c224a12e2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/66f26ed4e3ca4ee09cae4e58bc5791ee/3000.jpeg"
+    },
+    {
+      "author": "MEG KINNARD",
+      "description": "CHAPIN, S.C. (AP) \u2014 Donald Trump says he is pulling out of a scheduled September debate with Vice President Kamala Harris on ABC and wants them to face off on Fox News, making it increasingly unlikely that the candidates will confront each other on stage before the November election.",
+      "publishedAt": "2024-08-03T17:57:07Z",
+      "title": "Trump says he'll skip an ABC debate with Harris in September and wants them to face off on Fox News",
+      "url": "https://apnews.com/0d0be341bbe7877a71bfc4bed40610fa",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7ea84cf4bdb446e9a00f6a65dcd552ce/3000.jpeg"
+    },
+    {
+      "author": "AREF TUFAHA and JACK JEFFERY",
+      "description": "ZEITA, West Bank (AP) \u2014 Two Israeli airstrikes in the West Bank killed nine Palestinian militants on Saturday, Israel's army said, as violence flared again in the Israeli-occupied territory with tensions high over the war in Gaza and a potential regional escalation.",
+      "publishedAt": "2024-08-03T09:46:00Z",
+      "title": "Israel kills militants in the West Bank as a nervous region watches latest on cease-fire talks",
+      "url": "https://apnews.com/4ccf2a50855866662cd21a0315395286",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1df5144e3d5d44ce8ac70d8d8c0ba3c4/1920.jpeg"
     },
     {
       "author": null,
-      "description": "MIAMI (AP) \u2014 A tropical depression over Cuba is growing better organized, forecasters said Saturday, and is likely to bring drenching rain and coastal flooding to much of Florida's Gulf Coast.",
+      "description": "MIAMI (AP) \u2014 A tropical depression strengthened into Tropical Storm Debby north of Cuba on Saturday and was newly predicted to become a hurricane as it moves through the Gulf of Mexico on a collision course with Florida.",
       "publishedAt": "2024-08-03T14:07:45Z",
-      "title": "Forecasters expect depression to become Tropical Storm Debby as it nears Florida's Gulf Coast",
+      "title": "Tropical depression strengthens into Tropical Storm Debby as it moves through Gulf toward Florida",
       "url": "https://apnews.com/dce34e4d691b2c12a386964f86215220",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/f809c1753626486b876708cee46346f7/3000.jpeg"
-    },
-    {
-      "author": "OMAR FARUK",
-      "description": "MOGADISHU, Somalia (AP) \u2014 Police in Somalia said Saturday that 32 people died and 63 others were wounded in an attack on a beach hotel in the capital, Mogadishu, the previous evening. Al-Qaida\u2019s East Africa affiliate, al-Shabab, said through its radio station that its fighters carried out the attack.",
-      "publishedAt": "2024-08-03T09:04:56Z",
-      "title": "Somali police say 32 people died in an attack on a beach hotel. Al-Shabab claimed responsibility.",
-      "url": "https://apnews.com/62dad34358139d165905384a5971ba14",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/461a10997f754cd3835cc6ee8d345ad3/1920.jpeg"
-    },
-    {
-      "author": "DEVNA BOSE",
-      "description": "Lauren Bell was stressed out and just starting her first job post-college in New York City when she realized a bout of food poisoning wasn\u2019t going away after weeks. A doctor\u2019s appointment revealed she had irritable bowel syndrome, a surprising diagnosis \u2014 until she learned more about the connection between mental health and gut health, as well as the prevalence of digestive problems among women.",
-      "publishedAt": "2024-08-03T12:54:48Z",
-      "title": "Younger adults are going public with their digestive problems. Experts say it's mostly a good thing",
-      "url": "https://apnews.com/10d68f43e0244ada808b8c1c49acc6ac",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/afd4174630524bf294912dc07a447fd1/3000.jpeg"
     }
   ],
   "sortBy": "top",
