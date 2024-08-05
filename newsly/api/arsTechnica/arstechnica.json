@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "Tropical rainfall and training bands, it's going to be a soggy mess.",
+      "publishedAt": "2024-08-04T13:35:32+00:00",
+      "title": "Historic flooding possible as TS Debby bears down on southeastern United States",
+      "url": "https://arstechnica.com/science/2024/08/the-atlantic-hurricane-season-starts-to-sizzle-first-up-is-a-major-flood-storm/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/TS-Debby-760x380.jpg"
+    },
+    {
       "author": "Lulu Ramadan and Sydney Brownstone, The Seattle Times",
       "description": "States that offer tax exemptions to support the industry are reconsidering their approach.",
       "publishedAt": "2024-08-04T11:01:08+00:00",
@@ -70,14 +78,6 @@
       "publishedAt": "2024-08-02T18:08:54+00:00",
       "title": "Sam Altman accused of being shady about OpenAI\u2019s safety efforts",
       "url": "https://arstechnica.com/?p=2040870",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "FLUX.1 is the open-weights heir apparent to Stable Diffusion, turning text into images.",
-      "publishedAt": "2024-08-02T17:47:26+00:00",
-      "title": "FLUX: This new AI image generator is eerily good at creating human hands",
-      "url": "https://arstechnica.com/?p=2040748",
       "urlToImage": null
     }
   ],
