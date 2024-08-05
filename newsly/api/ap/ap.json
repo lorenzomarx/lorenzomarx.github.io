@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "NATALIE MELZER and SAMY MAGDY",
+      "description": "TEL AVIV, Israel (AP) \u2014 Israeli strikes early Sunday killed 18 people in Gaza, including four who were sheltering in a tent camp for displaced Palestinians inside a hospital complex, while a stabbing attack carried out by a Palestinian killed two people in a Tel Aviv suburb.",
+      "publishedAt": "2024-08-04T05:44:53Z",
+      "title": "Strikes on Gaza kill 18 and stabbing in Israel kills 2 as fears of wider war spike",
+      "url": "https://apnews.com/5b480a3b22538edec9fa05908f28303f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4f39f65da0934f65a460b31e042362a2/3000.jpeg"
+    },
+    {
+      "author": "KAREEM CHEHAYEB and MELANIE LIDMAN",
+      "description": "FARDIS, Lebanon (AP) \u2014 Alma Ayman Fakhr al-Din, a lively 11-year-old who loved basketball and learning languages, was playing on a soccer field a week ago in Majdal Shams, a Druze town in the Israeli-occupied Golan Heights, when the rocket hit.",
+      "publishedAt": "2024-08-03T16:22:27Z",
+      "title": "Horror at deaths of 12 children unites Druze across borders. But Mideast's wars tear at their bonds",
+      "url": "https://apnews.com/cd1005be55b3893f0852e431643899bd",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f2825540bfc640e8a81b838f830cf6d4/3000.jpeg"
+    },
+    {
+      "author": "JULHAS ALAM",
+      "description": "DHAKA, Bangladesh (AP) \u2014 A new round of violence in Bangladesh has left more than 20 people dead and hundreds injured as student protesters clashed with police and ruling party activists on Sunday, officials and media reports said.",
+      "publishedAt": "2024-08-04T09:48:56Z",
+      "title": "Violence in Bangladesh leaves many people dead, hundreds injured as protests continue",
+      "url": "https://apnews.com/1496d6471792cbc11f39c3bacee813f7",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/651da1123085400091b2852bfa04305e/3000.jpeg"
+    },
+    {
       "author": "SEUNG MIN KIM and JONATHAN J. COOPER",
       "description": "WASHINGTON (AP) \u2014 The crowds are psyched. The campaign donations are flooding in.",
       "publishedAt": "2024-08-04T02:02:09Z",
@@ -17,36 +41,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/0dd2bf54fd9c4b06acf334b3142dab1d/3000.jpeg"
     },
     {
-      "author": "KAREEM CHEHAYEB and MELANIE LIDMAN",
-      "description": "FARDIS, Lebanon (AP) \u2014 Alma Ayman Fakhr al-Din, a lively 11-year-old who loved basketball and learning languages, was playing on a soccer field a week ago in Majdal Shams, a Druze town in the Israeli-occupied Golan Heights, when the rocket hit.",
-      "publishedAt": "2024-08-03T16:22:27Z",
-      "title": "Horror at deaths of 12 children unites Druze across borders. But Mideast's wars tear at their bonds",
-      "url": "https://apnews.com/cd1005be55b3893f0852e431643899bd",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f2825540bfc640e8a81b838f830cf6d4/3000.jpeg"
-    },
-    {
-      "author": null,
-      "description": "JERUSALEM (AP) \u2014 Israeli police and medics say a woman in her 70s was killed and three other people were wounded in a stabbing attack in a suburb of Tel Aviv. The police said the attacker was a resident of the West Bank, suggesting that Sunday's attack was carried out by a Palestinian militant.",
-      "publishedAt": "2024-08-04T05:44:53Z",
-      "title": "A woman was killed and 3 others were wounded in a stabbing attack in Israel",
-      "url": "https://apnews.com/5b480a3b22538edec9fa05908f28303f",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b40fe6d64f6a42a881e58a2f6d1adc27/3000.jpeg"
-    },
-    {
       "author": "FABIOLA S\u00c1NCHEZ",
       "description": "CARACAS, Venezuela (AP) \u2014 Thousands of people rallied in the streets of Venezuela's capital Saturday, waving the national flag and singing the national anthem in support of an opposition candidate they believe won the presidential election by a landslide.",
       "publishedAt": "2024-08-03T18:08:52Z",
       "title": "Opposition leader joins rally calling for Venezuela presidential election results to be overturned",
       "url": "https://apnews.com/d6e70bd88ee9511298a4850c224a12e2",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/66f26ed4e3ca4ee09cae4e58bc5791ee/3000.jpeg"
-    },
-    {
-      "author": "MEG KINNARD",
-      "description": "CHAPIN, S.C. (AP) \u2014 Donald Trump says he is pulling out of a scheduled September debate with Vice President Kamala Harris on ABC and wants them to face off on Fox News, making it increasingly unlikely that the candidates will confront each other on stage before the November election.",
-      "publishedAt": "2024-08-03T17:57:07Z",
-      "title": "Trump says he'll skip an ABC debate with Harris in September and wants them to face off on Fox News",
-      "url": "https://apnews.com/0d0be341bbe7877a71bfc4bed40610fa",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7ea84cf4bdb446e9a00f6a65dcd552ce/3000.jpeg"
     },
     {
       "author": null,
@@ -65,20 +65,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/fbe6134b08b34dba808b8b111864f91f/3000.jpeg"
     },
     {
-      "author": "VANESSA GERA",
-      "description": "WARSAW, Poland (AP) \u2014 When Russia invaded Ukraine in February 2022, reporters from around the world rushed to the Polish-Ukrainian border to cover an exodus of refugees fleeing Russian bombs.",
-      "publishedAt": "2024-08-04T03:04:05Z",
-      "title": "Spanish journalist or Russian spy? The mystery around Pablo Gonz\u00e1lez's double life",
-      "url": "https://apnews.com/dbd435bad5a1a435922550d09026b45d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5423528d07b348f4ac8b4f107d201dab/3000.jpeg"
+      "author": "ALANIS THAMES",
+      "description": "VILLEPINTE, France (AP) \u2014 Boxer Lin Yu-ting of Taiwan clinched her first Olympic medal Sunday in front of a crowd that chanted her name, one day after fellow boxer Imane Khelif of Algeria secured one as well following days of online abuse and intense scrutiny about their participation at the Paris Games.",
+      "publishedAt": "2024-08-04T09:28:46Z",
+      "title": "Lin Yu-ting of Taiwan clinches first Olympic medal amid outcry tied to gender misconceptions",
+      "url": "https://apnews.com/daffab2911d6451bcef347af085e2174",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b0c631834f124f57b6931a5a99baee89/3000.jpeg"
     },
     {
-      "author": "PAUL NEWBERRY",
-      "description": "NANTERRE, France (AP) \u2014 Every year on Aug. 3, Katie Ledecky is reminded of her first Olympic gold medal.She was just 15 years old, a reserved high schooler who had surprisingly made the U.S. swim team for the London Games.",
-      "publishedAt": "2024-08-03T18:53:49Z",
-      "title": "Katie Ledecky swims into history with 800 freestyle victory at the Paris Olympics",
-      "url": "https://apnews.com/46342b7abd636282da995d1b0b9c4aff",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ddbb01425e504402b6c999b90cc25451/3000.jpeg"
+      "author": "TIM REYNOLDS",
+      "description": "PARIS (AP) \u2014 Unbeaten at last year\u2019s World Cup on the way to the gold medal. Unbeaten so far at the Paris Olympics. No team in this tournament has better defensive numbers, either.",
+      "publishedAt": "2024-08-04T09:40:00Z",
+      "title": "World Cup champion Germany unbeaten and rolling into basketball quarterfinals at Paris Olympics",
+      "url": "https://apnews.com/36ba8fd3f20ba5a44f19ad51aa8790f1",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/349e73d0bb904cc19656d533a5cdb99c/3000.jpeg"
     }
   ],
   "sortBy": "top",

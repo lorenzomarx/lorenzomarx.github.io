@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Lulu Ramadan and Sydney Brownstone, The Seattle Times",
+      "description": "States that offer tax exemptions to support the industry are reconsidering their approach.",
+      "publishedAt": "2024-08-04T11:01:08+00:00",
+      "title": "Data centers demand a massive amount of energy. Here\u2019s how some states are tackling the industry\u2019s impact.",
+      "url": "https://www.propublica.org/article/data-centers-power-usage-washington-virginia",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/google-data-center-500x215.jpg"
+    },
+    {
       "author": "Nicholas Kusnetz, Inside Climate News",
       "description": "New paper digs into congressional archives to settle a legal debate.",
       "publishedAt": "2024-08-03T11:15:52+00:00",
@@ -49,12 +57,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/NZXT-1-760x380.jpg"
     },
     {
-      "author": "John Timmer",
+      "author": null,
       "description": "There are still longevity problems, but things continue to get better.",
       "publishedAt": "2024-08-02T18:36:26+00:00",
       "title": "Silicon plus perovskite solar reaches 34 percent efficiency",
-      "url": "https://arstechnica.com/science/2024/08/continued-progress-with-dual-layer-solar-cells/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2159351178-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2040875",
+      "urlToImage": null
     },
     {
       "author": null,
@@ -65,20 +73,12 @@
       "urlToImage": null
     },
     {
-      "author": "Benj Edwards",
+      "author": null,
       "description": "FLUX.1 is the open-weights heir apparent to Stable Diffusion, turning text into images.",
       "publishedAt": "2024-08-02T17:47:26+00:00",
       "title": "FLUX: This new AI image generator is eerily good at creating human hands",
-      "url": "https://arstechnica.com/information-technology/2024/08/flux-this-new-ai-image-generator-is-eerily-good-at-creating-human-hands/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/jOmxRsxgXSWnh5YEvFI5b-760x380.png"
-    },
-    {
-      "author": "Stefania Palma, Financial Times",
-      "description": "Justice Department has increased scrutiny of the chipmaker\u2019s power in the emerging sector.",
-      "publishedAt": "2024-08-02T17:03:56+00:00",
-      "title": "US probes Nvidia\u2019s acquisition of Israeli AI startup",
-      "url": "https://www.ft.com/content/666ee087-975f-459e-8444-1f9b1d94a008",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-2-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2040748",
+      "urlToImage": null
     }
   ],
   "sortBy": "top",
