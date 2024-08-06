@@ -1,18 +1,42 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Gamification plus cash prizes worked even better.",
+      "publishedAt": "2024-08-05T15:54:45+00:00",
+      "title": "Gamification gets drivers to put down their phones, study finds",
+      "url": "https://arstechnica.com/cars/2024/08/gamification-gets-drivers-to-put-their-phones-down-study-finds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1021542964.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "The primary reason for the delay is rather surprising.",
+      "publishedAt": "2024-08-05T15:37:41+00:00",
+      "title": "NASA likely to significantly delay the launch of Crew 9 due to Starliner issues",
+      "url": "https://arstechnica.com/space/2024/08/nasa-likely-to-significantly-delay-the-launch-of-crew-9-due-to-starliner-issues/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/53659367267_bc270d779a_k-760x380.jpg"
+    },
+    {
+      "author": "Stephanie Stacey and Philip Georgiadis, FT",
+      "description": "Delta is creating a \"misleading narrative,\" according to CrowdStrike's lawyers.",
+      "publishedAt": "2024-08-05T13:37:15+00:00",
+      "title": "CrowdStrike claps back at Delta, says airline rejected offers for help",
+      "url": "https://www.ft.com/content/a330cabc-5e32-4f22-bfc5-4e0813a0b8a5",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/delta-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "What started in a scientist's dining room is now in tissue-agnostic combo trials.",
       "publishedAt": "2024-08-05T11:00:48+00:00",
-      "title": "How we went from paper chromosomes to today\u2019s precision cancer drugs",
+      "title": "Path to precision: Targeted cancer drugs go from table to trials to bedside",
       "url": "https://arstechnica.com/science/2024/08/precision-cancer-treatments/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/cancer-chromosome-matching-760x380.jpg"
     },
     {
       "author": "Eric Berger",
-      "description": "Tropical rainfall and training bands, it's going to be a soggy mess.",
+      "description": "Tropical rainfall and training bands: It's going to be a soggy mess.",
       "publishedAt": "2024-08-04T13:35:32+00:00",
-      "title": "Historic flooding possible as TS Debby bears down on southeastern United States",
+      "title": "Historic flooding possible as TS Debby bears down on southeastern US",
       "url": "https://arstechnica.com/science/2024/08/the-atlantic-hurricane-season-starts-to-sizzle-first-up-is-a-major-flood-storm/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/TS-Debby-760x380.jpg"
     },
@@ -25,12 +49,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/google-data-center-500x215.jpg"
     },
     {
-      "author": "Nicholas Kusnetz, Inside Climate News",
+      "author": null,
       "description": "New paper digs into congressional archives to settle a legal debate.",
       "publishedAt": "2024-08-03T11:15:52+00:00",
       "title": "Memo to the Supreme Court: Clean Air Act targeted CO2 as climate pollutant, study says",
-      "url": "https://insideclimatenews.org/news/02082024/clean-air-act-carbon-dioxide-climate-pollutant-study/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-supreme-court-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2040871",
+      "urlToImage": null
     },
     {
       "author": "Nate Anderson",
@@ -55,30 +79,6 @@
       "title": "DOJ sues TikTok, alleging \u201cmassive-scale invasions of children\u2019s privacy\u201d",
       "url": "https://arstechnica.com/tech-policy/2024/08/doj-sues-tiktok-alleging-massive-scale-invasions-of-childrens-privacy/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2161838418-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Disputes about how to keep the site going led founder to archive and close it.",
-      "publishedAt": "2024-08-02T20:04:22+00:00",
-      "title": "Legendary ROM hacking site shutting down after almost 20 years",
-      "url": "https://arstechnica.com/gaming/2024/08/rom-hackings-premier-site-is-going-read-only-after-internal-struggle/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/marioland2_color2-760x380.png"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "NZXT Flex subscription has \"new or like-new\" PCs, one-time $50 shipping fee.",
-      "publishedAt": "2024-08-02T18:48:03+00:00",
-      "title": "NZXT wants you to pay up to $169/month to rent a gaming PC",
-      "url": "https://arstechnica.com/gadgets/2024/08/nzxt-wants-you-to-pay-up-to-169-month-to-rent-a-gaming-pc/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/NZXT-1-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "There are still longevity problems, but things continue to get better.",
-      "publishedAt": "2024-08-02T18:36:26+00:00",
-      "title": "Silicon plus perovskite solar reaches 34 percent efficiency",
-      "url": "https://arstechnica.com/?p=2040875",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
