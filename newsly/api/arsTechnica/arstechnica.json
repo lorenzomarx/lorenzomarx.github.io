@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "What started in a scientist's dining room is now in tissue-agnostic combo trials.",
+      "publishedAt": "2024-08-05T11:00:48+00:00",
+      "title": "How we went from paper chromosomes to today\u2019s precision cancer drugs",
+      "url": "https://arstechnica.com/science/2024/08/precision-cancer-treatments/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/cancer-chromosome-matching-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "Tropical rainfall and training bands, it's going to be a soggy mess.",
       "publishedAt": "2024-08-04T13:35:32+00:00",
@@ -70,14 +78,6 @@
       "publishedAt": "2024-08-02T18:36:26+00:00",
       "title": "Silicon plus perovskite solar reaches 34 percent efficiency",
       "url": "https://arstechnica.com/?p=2040875",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "OpenAI CEO Sam Altman pushed to explain recent changes to safety efforts.",
-      "publishedAt": "2024-08-02T18:08:54+00:00",
-      "title": "Sam Altman accused of being shady about OpenAI\u2019s safety efforts",
-      "url": "https://arstechnica.com/?p=2040870",
       "urlToImage": null
     }
   ],
