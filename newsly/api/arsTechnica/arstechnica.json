@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "The man developed atrial fibrillation and required hospitalization.",
+      "publishedAt": "2024-08-05T22:31:40+00:00",
+      "title": "Man suffers heart problem after rapid weight loss: A GLP-1 cautionary tale",
+      "url": "https://arstechnica.com/science/2024/08/the-dangers-of-losing-weight-faster-than-your-doctors-can-keep-up/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-157482086-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Some say watermarking is the responsible thing to do, but it's complicated.",
+      "publishedAt": "2024-08-05T22:12:20+00:00",
+      "title": "OpenAI has the tech to watermark ChatGPT text\u2014it just won\u2019t release it",
+      "url": "https://arstechnica.com/ai/2024/08/openai-has-the-tech-to-watermark-chatgpt-text-it-just-wont-release-it/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Finding elusive pictorial, textual references to hydraulic device may help convince skeptics.",
+      "publishedAt": "2024-08-05T21:20:22+00:00",
+      "title": "Study suggests Egyptians used hydraulic lifts to build Pyramid of Djoser",
+      "url": "https://arstechnica.com/science/2024/08/did-ancient-egyptians-use-a-hydraulic-lift-to-build-the-pyramid-of-djoser/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/djoserTOP-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Google's exclusive deals maintained monopolies in two markets, judge ruled.",
+      "publishedAt": "2024-08-05T19:30:54+00:00",
+      "title": "Google loses DOJ\u2019s big monopoly trial over search business",
+      "url": "https://arstechnica.com/tech-policy/2024/08/google-loses-dojs-big-monopoly-trial-over-search-business/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1935927066-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "It's not over, but three judges said ISPs \"are likely to succeed on the merits.\"",
+      "publishedAt": "2024-08-05T18:51:15+00:00",
+      "title": "Court blocks net neutrality, says ISPs are likely to win case against FCC",
+      "url": "https://arstechnica.com/tech-policy/2024/08/fcc-suffers-major-setback-in-attempt-to-defend-net-neutrality-rules/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-rosenworcel-net-neutrality-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Chrome is warning users that their extension makers need to update soon.",
+      "publishedAt": "2024-08-05T17:56:15+00:00",
+      "title": "Chrome\u2019s Manifest V3, and its changes for ad blocking, are coming real soon",
+      "url": "https://arstechnica.com/gadgets/2024/08/chromes-manifest-v3-and-its-changes-for-ad-blocking-are-coming-real-soon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/chrome_ad_squircle-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Elon Musk asks court to void Microsoft\u2019s exclusive deal with OpenAI.",
+      "publishedAt": "2024-08-05T17:49:48+00:00",
+      "title": "Elon Musk sues OpenAI, Sam Altman for making a \u201cfool\u201d out of him",
+      "url": "https://arstechnica.com/tech-policy/2024/08/openai-wouldnt-exist-without-me-elon-musk-says-reviving-lawsuit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-491588398-760x380.jpg"
+    },
+    {
       "author": "Jonathan M. Gitlin",
       "description": "Gamification plus cash prizes worked even better.",
       "publishedAt": "2024-08-05T15:54:45+00:00",
@@ -23,62 +79,6 @@
       "title": "CrowdStrike claps back at Delta, says airline rejected offers for help",
       "url": "https://www.ft.com/content/a330cabc-5e32-4f22-bfc5-4e0813a0b8a5",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/delta-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "What started in a scientist's dining room is now in tissue-agnostic combo trials.",
-      "publishedAt": "2024-08-05T11:00:48+00:00",
-      "title": "Path to precision: Targeted cancer drugs go from table to trials to bedside",
-      "url": "https://arstechnica.com/science/2024/08/precision-cancer-treatments/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/cancer-chromosome-matching-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Tropical rainfall and training bands: It's going to be a soggy mess.",
-      "publishedAt": "2024-08-04T13:35:32+00:00",
-      "title": "Historic flooding possible as TS Debby bears down on southeastern US",
-      "url": "https://arstechnica.com/science/2024/08/the-atlantic-hurricane-season-starts-to-sizzle-first-up-is-a-major-flood-storm/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/TS-Debby-760x380.jpg"
-    },
-    {
-      "author": "Lulu Ramadan and Sydney Brownstone, The Seattle Times",
-      "description": "States that offer tax exemptions to support the industry are reconsidering their approach.",
-      "publishedAt": "2024-08-04T11:01:08+00:00",
-      "title": "Data centers demand a massive amount of energy. Here\u2019s how some states are tackling the industry\u2019s impact.",
-      "url": "https://www.propublica.org/article/data-centers-power-usage-washington-virginia",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/google-data-center-500x215.jpg"
-    },
-    {
-      "author": null,
-      "description": "New paper digs into congressional archives to settle a legal debate.",
-      "publishedAt": "2024-08-03T11:15:52+00:00",
-      "title": "Memo to the Supreme Court: Clean Air Act targeted CO2 as climate pollutant, study says",
-      "url": "https://arstechnica.com/?p=2040871",
-      "urlToImage": null
-    },
-    {
-      "author": "Nate Anderson",
-      "description": "Taking the \"human\" out of \"human communication.\"",
-      "publishedAt": "2024-08-02T22:42:35+00:00",
-      "title": "Google pulls its terrible pro-AI \u201cDear Sydney\u201d ad after backlash",
-      "url": "https://arstechnica.com/culture/2024/08/google-pulls-its-terrible-pro-ai-dear-sydney-ad-after-backlash/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/gemini-prompt-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Risk assessment study of illegal online pharmacies offers some unsurprising data.",
-      "publishedAt": "2024-08-02T21:52:27+00:00",
-      "title": "Buying shady weight loss drugs online is a bad idea, in case you were wondering",
-      "url": "https://arstechnica.com/science/2024/08/shady-weight-loss-drugs-sold-online-are-mislabeled-contaminated-study-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/semaglutide-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Even TikTok's Kids Mode violates COPPA, DOJ alleged.",
-      "publishedAt": "2024-08-02T21:26:16+00:00",
-      "title": "DOJ sues TikTok, alleging \u201cmassive-scale invasions of children\u2019s privacy\u201d",
-      "url": "https://arstechnica.com/tech-policy/2024/08/doj-sues-tiktok-alleging-massive-scale-invasions-of-childrens-privacy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2161838418-760x380.jpg"
     }
   ],
   "sortBy": "top",
