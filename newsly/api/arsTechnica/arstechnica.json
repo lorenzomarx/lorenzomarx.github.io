@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "DNS poisoning attack worked even when targets used DNS from Google and Cloudflare.",
+      "publishedAt": "2024-08-05T23:43:06+00:00",
+      "title": "Mac and Windows users infected by software updates delivered over hacked ISP",
+      "url": "https://arstechnica.com/security/2024/08/hacked-isp-infects-users-receiving-unsecure-software-updates/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/cyber-attack-760x380.jpg"
+    },
+    {
       "author": "Beth Mole",
       "description": "The man developed atrial fibrillation and required hospitalization.",
       "publishedAt": "2024-08-05T22:31:40+00:00",
@@ -71,14 +79,6 @@
       "title": "NASA likely to significantly delay the launch of Crew 9 due to Starliner issues",
       "url": "https://arstechnica.com/space/2024/08/nasa-likely-to-significantly-delay-the-launch-of-crew-9-due-to-starliner-issues/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/53659367267_bc270d779a_k-760x380.jpg"
-    },
-    {
-      "author": "Stephanie Stacey and Philip Georgiadis, FT",
-      "description": "Delta is creating a \"misleading narrative,\" according to CrowdStrike's lawyers.",
-      "publishedAt": "2024-08-05T13:37:15+00:00",
-      "title": "CrowdStrike claps back at Delta, says airline rejected offers for help",
-      "url": "https://www.ft.com/content/a330cabc-5e32-4f22-bfc5-4e0813a0b8a5",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/delta-760x380.jpg"
     }
   ],
   "sortBy": "top",
