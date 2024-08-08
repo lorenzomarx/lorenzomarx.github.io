@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "\"Delta, unlike its competitors... has not modernized its IT infrastructure.\"",
+      "publishedAt": "2024-08-07T16:18:35+00:00",
+      "title": "Microsoft says Delta\u2019s ancient IT explains long outage after CrowdStrike snafu",
+      "url": "https://arstechnica.com/tech-policy/2024/08/microsoft-says-deltas-ancient-it-explains-long-outage-after-crowdstrike-snafu/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/delay-delay-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "The 2013 documentary Particle Fever is being turned into a Broadway musical.",
+      "publishedAt": "2024-08-07T16:13:24+00:00",
+      "title": "Broadway embraces particle physics with musical about Higgs boson discovery",
+      "url": "https://arstechnica.com/science/2024/08/broadway-embraces-particles-physics-with-musical-about-higgs-boson-discovery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2013/02/img_23595_higgs-boson-rgov-800width-640x215.jpg"
+    },
+    {
+      "author": "Michael Acton, Financial Times",
+      "description": "A reliable source of billions of dollars in income is at risk for the iPhone maker.",
+      "publishedAt": "2024-08-07T14:11:16+00:00",
+      "title": "Google antitrust verdict leaves Apple with \u201cinconvenient alternatives\u201d",
+      "url": "https://www.ft.com/content/6ab6ce33-5417-4b27-bff8-e5c6b3903be2",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/apple_google_hero_3-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "Like Starlink, China's Qianfan satellites have an easy-to-pack flat-panel design.",
       "publishedAt": "2024-08-07T00:27:46+00:00",
@@ -55,30 +79,6 @@
       "title": "\u201cDo not hallucinate\u201d: Testers find prompts meant to keep Apple Intelligence on the rails",
       "url": "https://arstechnica.com/gadgets/2024/08/do-not-hallucinate-testers-find-prompts-meant-to-keep-apple-intelligence-on-the-rails/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/apple_intelligence_hero-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Not even ad tiers are safe as Disney looks to coax people into bundle packages.",
-      "publishedAt": "2024-08-06T18:50:18+00:00",
-      "title": "\u201cSo tired\u201d: Disney+, Hulu, ESPN+ prices increase by up to 25 percent in October",
-      "url": "https://arstechnica.com/gadgets/2024/08/so-tired-disney-hulu-espn-prices-increase-by-up-to-25-percent-in-october/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/docwho9-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "\"Compared to it, Microsoft Word is pure madness\"\u2014Anne Rice.",
-      "publishedAt": "2024-08-06T18:36:10+00:00",
-      "title": "Sci-fi writer and WordStar lover re-releases the cult DOS app for free",
-      "url": "https://arstechnica.com/gadgets/2024/08/wordstar-7-for-dos-gets-a-free-re-release-from-one-of-its-biggest-author-fans/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/wordstar-760x380.png"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A 700,000-year-old humerus suggests small hominins have a long history on Flores.",
-      "publishedAt": "2024-08-06T18:26:44+00:00",
-      "title": "Indonesia\u2019s tiny hobbits descended from even smaller ancestors",
-      "url": "https://arstechnica.com/science/2024/08/indonesias-tiny-hobbits-descended-from-even-smaller-ancestors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/image-scaled-e1722967845123-760x380.jpeg"
     }
   ],
   "sortBy": "top",
