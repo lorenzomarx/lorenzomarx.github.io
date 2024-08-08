@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "\"I especially have confidence since I have the final decision.\"",
+      "publishedAt": "2024-08-06T21:45:09+00:00",
+      "title": "NASA chief will make the final decision on how Starliner crew flies home",
+      "url": "https://arstechnica.com/space/2024/08/nasa-confirms-slip-of-crew-9-launch-to-late-september-for-flexibility/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GJI_PsmbkAABBI4-760x380.jpeg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Mass wiping occurs after hack of mobile device management platform.",
+      "publishedAt": "2024-08-06T21:26:03+00:00",
+      "title": "Students scramble after security breach wipes 13,000 devices",
+      "url": "https://arstechnica.com/security/2024/08/students-scramble-after-security-breach-wipes-13000-devices/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/ipads-students-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "The owners do not have nearly a billion dollars, so the order is largely symbolic.",
+      "publishedAt": "2024-08-06T20:19:25+00:00",
+      "title": "After 190 bodies found rotting, funeral home owners ordered to pay $950M",
+      "url": "https://arstechnica.com/science/2024/08/horrifying-funeral-home-ordered-to-pay-950m-over-fake-ashes-rotting-bodies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1230670065-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "\"We tried peace for 2 years, now it is war,\" Musk writes.",
+      "publishedAt": "2024-08-06T19:13:24+00:00",
+      "title": "Elon Musk declares \u201cit is war\u201d on ad industry as X sues over \u201cillegal boycott\u201d",
+      "url": "https://arstechnica.com/tech-policy/2024/08/elon-musk-declares-it-is-war-on-ad-industry-as-x-sues-over-illegal-boycott/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/twitter-bird-burial-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Long lists of instructions show how Apple is trying to navigate AI pitfalls.",
+      "publishedAt": "2024-08-06T18:59:44+00:00",
+      "title": "\u201cDo not hallucinate\u201d: Testers find prompts meant to keep Apple Intelligence on the rails",
+      "url": "https://arstechnica.com/gadgets/2024/08/do-not-hallucinate-testers-find-prompts-meant-to-keep-apple-intelligence-on-the-rails/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/apple_intelligence_hero-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Not even ad tiers are safe as Disney looks to coax people into bundle packages.",
+      "publishedAt": "2024-08-06T18:50:18+00:00",
+      "title": "\u201cSo tired\u201d: Disney+, Hulu, ESPN+ prices increase by up to 25 percent in October",
+      "url": "https://arstechnica.com/gadgets/2024/08/so-tired-disney-hulu-espn-prices-increase-by-up-to-25-percent-in-october/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/docwho9-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "\"Compared to it, Microsoft Word is pure madness\"\u2014Anne Rice.",
+      "publishedAt": "2024-08-06T18:36:10+00:00",
+      "title": "Sci-fi writer and WordStar lover re-releases the cult DOS app for free",
+      "url": "https://arstechnica.com/gadgets/2024/08/wordstar-7-for-dos-gets-a-free-re-release-from-one-of-its-biggest-author-fans/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/wordstar-760x380.png"
+    },
+    {
+      "author": "John Timmer",
+      "description": "A 700,000-year-old humerus suggests small hominins have a long history on Flores.",
+      "publishedAt": "2024-08-06T18:26:44+00:00",
+      "title": "Indonesia\u2019s tiny hobbits descended from even smaller ancestors",
+      "url": "https://arstechnica.com/science/2024/08/indonesias-tiny-hobbits-descended-from-even-smaller-ancestors/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/image-scaled-e1722967845123-760x380.jpeg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Possible damages payments dramatically lowered by change to 2008 Illinois law.",
       "publishedAt": "2024-08-06T17:15:06+00:00",
@@ -15,70 +79,6 @@
       "title": "Return-to-office mandates hurt employee retention, productivity, survey says",
       "url": "https://arstechnica.com/tech-policy/2024/08/remote-workers-are-27-percent-more-likely-to-look-forward-to-work/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-85406293-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "BMW has no timeline to integrate humanoid robots into its production lines.",
-      "publishedAt": "2024-08-06T15:59:44+00:00",
-      "title": "This AI humanoid robot helped assemble BMWs at US factory",
-      "url": "https://arstechnica.com/cars/2024/08/bmw-tests-ai-humanoid-robot-on-south-carolina-production-line/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/P90563511_highRes_figure02-bmw-group-p-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Parody site ClownStrike defended the \"obvious\" fair use.",
-      "publishedAt": "2024-08-06T15:49:49+00:00",
-      "title": "Parody site ClownStrike refused to bow to CrowdStrike\u2019s bogus DMCA takedown",
-      "url": "https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1349097864-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Google hate is no longer reserved for conservatives.",
-      "publishedAt": "2024-08-06T15:42:44+00:00",
-      "title": "Does everyone hate Google now?",
-      "url": "https://arstechnica.com/?p=2041185",
-      "urlToImage": null
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "AI gets all the buzz, but these laptop CPUs still get the fundamentals right.",
-      "publishedAt": "2024-08-06T15:20:23+00:00",
-      "title": "Ryzen AI 300 performance review: Impressive CPUs, even if you don\u2019t care about AI",
-      "url": "https://arstechnica.com/gadgets/2024/08/ryzen-ai-300-performance-review-impressive-cpus-even-if-you-dont-care-about-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_2054-760x380.jpeg"
-    },
-    {
-      "author": "Michael Frank",
-      "description": "Lamborghini's CTO tells us how hybrids, EVs, and AI will \"generate the wow.\"",
-      "publishedAt": "2024-08-06T14:42:28+00:00",
-      "title": "Lamborghini\u2019s biggest EV challenge? Not being seen as \u201cfake,\u201d says CTO.",
-      "url": "https://arstechnica.com/cars/2024/08/future-lamborghinis-may-measure-their-drivers-excitement-says-cto/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/653063-760x380.jpg"
-    },
-    {
-      "author": "Eric Ravenscraft, wired.com",
-      "description": "What are they and why do they matter.",
-      "publishedAt": "2024-08-06T14:10:53+00:00",
-      "title": "Explaining color gamuts and color spaces in HDTVs and monitors",
-      "url": "https://www.wired.com/story/what-are-color-gamuts-and-why-do-they-matter/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/gamut-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Warranty also covers CPUs sold in pre-built PCs; Intel publishes list of models.",
-      "publishedAt": "2024-08-06T13:30:26+00:00",
-      "title": "Intel is offering extended warranties for crashing 13th- and 14th-gen desktop CPUs",
-      "url": "https://arstechnica.com/gadgets/2024/08/intel-extends-warranties-by-two-years-for-crash-prone-core-desktop-cpus/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_0954-760x380.jpeg"
-    },
-    {
-      "author": "Lee Hutchinson",
-      "description": "Join us as we talk about the next few years in AI & storage, and what to watch for.",
-      "publishedAt": "2024-08-06T12:50:40+00:00",
-      "title": "Hang out with Ars in San Jose and DC this fall for two infrastructure events",
-      "url": "https://arstechnica.com/information-technology/2024/08/hang-out-with-ars-in-san-jose-and-dc-this-fall-for-two-infrastructure-events/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-463088525-760x380.jpg"
     }
   ],
   "sortBy": "top",
