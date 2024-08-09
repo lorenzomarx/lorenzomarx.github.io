@@ -2,6 +2,38 @@
   "articles": [
     {
       "author": "Eric Berger",
+      "description": "NASA declines to penalize Boeing for the deficiencies.",
+      "publishedAt": "2024-08-08T16:25:52+00:00",
+      "title": "A new report finds Boeing\u2019s rockets are built with an unqualified work force",
+      "url": "https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/MAF_20210209_EUS_testpanels27large-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "A whole new desktop aims to appeal with tiling, themes, and a safer Rust core.",
+      "publishedAt": "2024-08-08T15:30:32+00:00",
+      "title": "You can kick the alpha tires on System76\u2019s Cosmic, a new Linux desktop",
+      "url": "https://arstechnica.com/gadgets/2024/08/you-can-kick-the-alpha-tires-on-system76s-cosmic-a-new-linux-desktop/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/cosmic-alpha1-custom-dark-steel-theme-760x380.png"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The Omni Port has a Tesla-style J3400 plug as well as a CCS1 plug.",
+      "publishedAt": "2024-08-08T14:09:30+00:00",
+      "title": "This new charger lets all EVs plug in without an adapter",
+      "url": "https://arstechnica.com/cars/2024/08/this-new-charger-lets-all-evs-plug-in-without-an-adapter/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/ChargePoint_Omni_AC-copy-760x380.png"
+    },
+    {
+      "author": "Stephen Morris, Hannah Murphy, and \u2068Hannah McCarthy, FT",
+      "description": "Project disregarded Google rules barring personalizing and targeting ads to minors.",
+      "publishedAt": "2024-08-08T13:21:49+00:00",
+      "title": "Google and Meta ignored their own rules in secret teen-targeting ad deals",
+      "url": "https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/kidsonphones-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
       "description": "\"We heard from a lot of folks that had concerns.\"",
       "publishedAt": "2024-08-07T22:40:11+00:00",
       "title": "NASA official acknowledges internal \u201cdisagreement\u201d on safety of Starliner return",
@@ -47,38 +79,6 @@
       "title": "All the possible ways to destroy Google\u2019s monopoly in search",
       "url": "https://arstechnica.com/?p=2041575",
       "urlToImage": null
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "But nothing is changing about the kinds of software you can run on your Mac.",
-      "publishedAt": "2024-08-07T18:28:15+00:00",
-      "title": "macOS 15 Sequoia makes you jump through more hoops to disable Gatekeeper app checks",
-      "url": "https://arstechnica.com/gadgets/2024/08/macos-15-sequoia-makes-you-jump-through-more-hoops-to-disable-gatekeeper-app-checks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/gatekeeper-760x380.png"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Current ad load is relatively \"light,\" COO says.",
-      "publishedAt": "2024-08-07T17:26:01+00:00",
-      "title": "Reddit considers search ads, paywalled content for the future",
-      "url": "https://arstechnica.com/gadgets/2024/08/reddit-mulls-showing-ads-in-more-places-paywalled-subreddits/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1233984842-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Other DVD drives are cheap and plentiful, but Apple's slot-loader was unique.",
-      "publishedAt": "2024-08-07T16:56:59+00:00",
-      "title": "Report: Apple\u2019s external DVD drive is up burning discs in dongle heaven",
-      "url": "https://arstechnica.com/gadgets/2024/08/apples-venerable-superdrive-dvd-burner-may-finally-be-fading-away/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/superdrive-760x380.jpeg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The partisan divide on vaccine falsehoods threatens the health of children nationwide.",
-      "publishedAt": "2024-08-07T16:31:14+00:00",
-      "title": "31% of Republicans say vaccines are more dangerous than diseases they prevent",
-      "url": "https://arstechnica.com/science/2024/08/31-of-republicans-say-vaccines-are-more-dangerous-than-diseases-they-prevent/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1298943661-760x380.jpg"
     }
   ],
   "sortBy": "top",
