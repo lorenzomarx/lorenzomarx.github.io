@@ -1,0 +1,23 @@
+h1 {
+     font-weight: 200;
+}
+
+h2 {
+     font-weight: 200;
+}
+
+
+
+.parallax-container {
+     height: 200px;
+}
+
+#nav {
+     bottom: 24px;
+     right: 24px;
+}
+@media screen and (max-width: 600px) {
+    body {
+        margin-bottom: 96px;
+    }
+}
