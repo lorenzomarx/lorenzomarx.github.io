@@ -1,10 +1,36 @@
 {
   "articles": [
     {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-08T04:13:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Three Taylor Swift concerts in Vienna canceled over alleged planned terrorist attack - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWg1STF6YnA2R3hRM095SDllekduckVJVFYzVzNhX3dac1p5WDhKazY1aUNYWVNoLXlXcEdrUlllLTlTc0YzNlN1T2d3YW1fUXVUSDZRdFV6cGQ2eUt0cjl0SjNoYTJYTVIzRllhYW0tcUxlNWEyYkVIVXgzTzY4NDZIcW1vVE1DUXE4LW81UTBTRU1md1HSAYwBQVVfeXFMTmlFdXQ1Y2h5VXQ4dkNGaEItUldZTERnZVJLUkRUMnBoaFNMS0tkVTNxSzNKV2haOVptWlpqYzBWUG55NDBpaWpOR0tnUGc5Y0dWaFRldkg0NWFjcEtJM2NFLTNfbUExM1JZZzJZZVYzVk4tb2c3QVE2a2hqVUtFMWpqdWhtWU5BQzNvdy0?oc=5",
+      "urlToImage": null
+    },
+    {
       "author": "The Washington Post",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T22:26:00Z",
+      "publishedAt": "2024-08-08T04:07:40Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Quincy Hall, to whom nothing\u2019s been given, took the Olympic 400 meters - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcjBRNmRDVEZCR0t6MmZLQ0tOUXIyakVlbklrTzgtd0ZNLW8ya1F6U25vZ0xGbzNuNjhQRW9WUEd1d0dPNW1aYUItR2FWWGd6UVdzeWN3MnZyS3FQaHliaXBvY1UxQnBzN0ZYOFZ1bWNlQ0gzX0JoVWtwd2h3cFlLa3pneXh4N1RNbUZLYnpmU1poQWxPQ2JOenVDZjVKbDNabF9sWlpRVGk?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Washington Post",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-08T03:34:10Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
@@ -14,250 +40,224 @@
       "urlToImage": null
     },
     {
-      "author": "CBS News",
+      "author": "CDC",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T21:54:28Z",
+      "publishedAt": "2024-08-08T02:59:22Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "USA's Quincy Hall passes 3 runners in final stretch to win gold medal in Olympic 400 meters - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE51TDBrYkVaRU1iWGtTYktjU1hiemZiR1dWb2dmSi1meXN1UzdxUTRJb2ZlNjZZYjJKeGhiYWpoVE1vLUJabGxwM1Q2enNaMXU1cmtydTNmdm1WQ1IzNDJybkxLOVdlOGxOMEtMSDlwc3Vob09DV055ck1MbGt2VnBCQ2pfUkZqTEFxa1BZcw?oc=5",
+      "title": "U.S. Selected Practice Recommendations for Contraceptive Use, 2024 - CDC",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pbFdqOTN2dm8tYnVabzVCZU1aajBNUkpCR0JueXNHZV9HamV1YlIxY1M5VlkxVUFoZE1mRlZ1WlFEczNGX3ZZdG1HZ29lNlY4T2dOVFdOZWpxZ3drZFZVZw?oc=5",
       "urlToImage": null
     },
     {
-      "author": "The Wall Street Journal",
+      "author": "New York Post ",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T21:52:00Z",
+      "publishedAt": "2024-08-08T02:51:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq Close Lower After Rally Stumbles -- Live Updates - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUY4VmlYMFlBcDhQU1UyVTlkckFRTnVENXdKbThhMG41WHR2cmZRajItRFhEWDJBYVFwZEVqNG1mS0UwdVhGaENUdmt3ZFpWUXQyMzRxZ0NKdWpydHI3RHNVOG01Tk9xc2E4ZllBeGUtdFlDUW52bmxNcU1ReDNoTGpjM3BRY1NHNFdPWA?oc=5",
+      "title": "Steve Martin turns down offer from Lorne Michaels to play Kamala Harris\u2019 VP pick Tim Walz on \u2018SNL\u2019: \u2018I\u2019d be struggling\u2019 - New York Post ",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSjVIOF8zVWN1d3k1TzUtRDAxN3NLNlJjSHJzNzdDQ19ab3BQUlRPeG1CWDY2Y0Z2eTNVTmtDeGRMQWNGVGJFTXlMVFM4ZUp0czFTNlk4OWpZTlh3aFFtS3VsUUVMR0NKMm02UVZXRlFacUhxRkJlSHlFRndKY2NWV1FDUzhVZzl2VElQaTMwSEQ0QjRBaWtqWU1tV2RoTlRPaFoxaDNCLVdmQkE2M3pKZE1mWTkzQVBPNkc0YTZvSHlwdUk5dVU4MzR4enVYZGlu?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Washington Post",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-08T02:41:03Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Starliner crew may stay in space until February as NASA weighs SpaceX option - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3FkWThyTnlrTXJXUG5oUjQtdW5Cbl9iRjNMRTNHVk5nMldoSDMySDF1Q19YVC15aXg2ZTlBX0JZZlB2RlRWQWdKeXZ6OFFDaDdLSXhnMTFpQnBBYVRDMVhBOWhKZHpxTWsteS1UamRjTlF5VlczRXZKVmdBSlliR1RadUN5UDA?oc=5",
       "urlToImage": null
     },
     {
       "author": "CBS News",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T21:50:00Z",
+      "publishedAt": "2024-08-08T02:30:33Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Biden says he's \"not confident at all\" there will be a peaceful transfer of power if Trump loses - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0M3b1lMc3lrZ1BodXV1SnplSzRmbUxQbWpmOGRhLW81ejFzZG53MWxlRGFLUWR0UmQ3MkVqVzhDdHBBOGR0VlpVSUhEZExGOUxCcVF6aXBIaFJYbmJiSTg2akRLeG8tb1FfdlZCcVdKRGxmMWdZT2o0UXpEbjMtMXdzVzBQY1VBemU1blZSdl90bzkzRmpGaEdWWFppVmVELW1LNy1QdFJsbnY0S0RYMVpGONIBuAFBVV95cUxNOVFQcU9VSkVzMmFDX1QzSjAzTEhLWmFPbFpBSzA0T1h3WmpvMk9DTXlNdDg2cWJ3S29lNjE2YUo5QUhOQkNFeGhSejFpc0pmUG1ZRUFwSWstV3R3WENmQm1KTHVvQVZNQzY5RU5EWk9uV3BBaDZpZE9NUnUtbWsyUUNlTUppVEFwZFNKZFY2UjdnOXhzZ09vV0VET0VPNlZtalgzMHVNV2x5N2dUNC14N0VrVHpuQldw?oc=5",
+      "title": "Arizona prosecutors asked grand jurors not to indict Trump in fake electors case, court records show - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzFuaUx0VGN1UThZZnNxbjZJUjlTR1F3WnNMdVFWY0dfX2ZwNkNpdUgtWG5SdVJDaTk4UkNSbW15V01sb3Z0RjVsbUlzMlhOQVRwVlF4c3A3Z1MxNWprN21XbFJYOVBYUk43aUxGNXpvWHRVdUh2Ql9valBUeHdmQzZEMlRadXVQdWZTb1VIOW1TVExSd2NaUkNJQU92LW8ydmkxX0hyODRiSTTSAbABQVVfeXFMTWwzWF9SWTVZZFlKQjNBR0E5SkltVUJqeFhsY3pscU1LbTBEWFJqa19KSXBjNnR1YWFLVjM2eEZGZDJEVVhLVGRJYkJSVkIzRk9FOFVoT0dSRGtsSmkycm04MXNJSklOcUNnNWYyQ3B0SUZ3VlNQOVp0LWZjdGY4RktHXzN2UmIzQW10SmR4c0dNd01NaE9kLXZWVTdDWlQyRDc1WUZWcnQyME5yOEdWbnY?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-08T02:27:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Who is Muhammad Yunus, the Nobel laureate leader of Bangladesh\u2019s interim government? - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDVVT3A4UTA5Y21RVUZ1Q1U4bV9LTXpXUkRseHFxLXBYOWJjaWdEaDM0MkhBT1hIUmpUNzNJVXo0NDNtY1dEUC0zbkJ3T2Vxd3IzcnF6ZnBMTlBuNV9INjVlR0hBbDVudjJFRjJtZ1hORmZ4VnllVjFDbXlidldCM1JFVFFFYkVBckdCY1Q0WWYwa0E2ZzRZ0gGOAUFVX3lxTE9KYjd3LUlCRGRrOGZHajBRWWdOY0YtdVMzWVdtTkNYYWRXV1JOQmZuY0Z1RGFLYU5JclFhZ1JEQXlzcXhmTjRmYkVNYVhLNDFfTXVvVHhMbjhwYktURlZkX040WlV5bTJMWlMtazJMRnVGRFZCSlhUWFkzazAyd0pOdHdrOGVmRnNVd1FxaUE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "KABC-TV",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-08T02:17:44Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Dozens of aftershocks continue to rattle SoCal a day after 5.2 earthquake in Kern County - KABC-TV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTY1dVljdVVtOFFBOEtMSDRZQXl4aU5MN1NnZjE1NE5JS2NCTkh5SkZBb1VTSm8zRTV5NGpWM1N2YUxzYUpZRXozbXBPZ0JDaTAwNGp1ZUdOTjMzMmExRm81UXotWFRPN0QzQi1MWWdLdW82R1FEX3ctMVVJSlQtYlRXR3Ffc201a21Ma1JreWZDdVo1Y3VCNEdSZTRqZ25iOHdMYlFfT0FUb2VwTERoOVNkUGJIZEFrNnVKTW05SmFkQ1E?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "TheStreet",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-08T01:33:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Disney flags startling shift in consumer behavior at theme parks - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGg2TzRINjQzTC0yaDJDbU9ZaXdvUU1jMDRqczNydEZaOWh1T0FPbVQzYWpBdk5PY1ozaE9OX2hiel9KeVlmY2FLaXZoYkR5U2MwNmxHMEJkWmE5bDNnM3pVRGMxQXEwNUwyNzVCM1puRTcweUE1VHVzVTFSQkptSjQ3bkpyZ0cycnpGaDBVZnY2Y052Uk1XX1VudnZOa1VMX3JGWXkyRDFUTVpOWlE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-08T01:16:36Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "See Harris' reaction to hecklers interrupting her speech - CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlBoNWNqRXFoUDRuWnMwODJHZ25jaGhhdDRVZndJWnRnLXpOcEd6OGdXY1plcy1MXzVmLV9zQ0FMYkVMTXl3ekttcG8tbXhKVzV4WGwwa3FBa1BTSVp6VFlUOW03Y1FtUUpabkFwU29TZDd3QThJN0NxTUpVVEpPX1A3VG95VW5YSjdfOWRRTUlzRXhCclY0cg?oc=5",
       "urlToImage": null
     },
     {
       "author": "Reuters.com",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T21:24:00Z",
+      "publishedAt": "2024-08-08T01:14:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "UK, Egypt issue alerts for Iran, Lebanon airspace as risks of military conflict rise - Reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWlILXR1UzlrdXpQcDdSY2ZaNFlVTWNDXzRnOGhJTTdGOU1QU3pHVDc5WDNKakd3N0R4eW9HWVVQekJpUWtVUWVGZ05VcWxVOURPTkFiX2E3VHFCUkZBSEFKWFRLZzNCckNqQVU0MUdPOUxVMnBXZnMyNFVob2I0YTRxakpHNnpaRzl4SjE5QnFHM2VSS2RNU2Q3cFh0VnZFRm1pV3ZESDNrMlA0LXBBemRoQ014NGxIdVZJ?oc=5",
+      "title": "Democrats Harris, Walz test Midwest credentials at Michigan and Wisconsin rallies - Reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWM2Q25PZWlEYVFma3Fyb2xBTmZYdjZ6cEpjX1ZZYXlPZENhNDJRMGRoNG40NWI2dkxJMFhvbnVVMFRBcHdlVG1oZVhORzdPX1IwZmhyRWtoSXBVRV9scDhIcE5OODBacUFPNmJleGtLMWQ4X01hUGRDWHNTa2pnekM4Qi1hZHNhWjRBb1ZVd3pOVHVyZloxbkZXNHh0MlQ3d3ptTQ?oc=5",
       "urlToImage": null
     },
     {
-      "author": "The New York Times",
+      "author": "The Associated Press",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T21:11:30Z",
+      "publishedAt": "2024-08-08T01:09:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "49ers, Steelers talking Aiyuk, no deal yet - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDVaRzN1bmd2UWg5a3ZzN1RWWE5pdjJpdlBocjVPNkRsaEtfMVVNaGZUMTVfejN0MGU4eEIzbkhRTmlVVkZEcVpzbHJSN3owVTJEaGlEaFFMRDhFUWlFQXgtZ0pZTDI4aDA4cG1iRXVzS21SVmEyNjRIeFhHLUplM2RJcl80NmpFM1dzdWt2bGVUWUxtNzFxcg?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "BBC.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-07T20:44:55Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Who is Gwen Walz? Meet the teacher and wife of Harris's VP pick - BBC.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50eGp2cVFDaWs5RkZRN3Z6eWcwdFZUWEgwdHRnUG9ncmJTZ3RVLVhQN3lOZFppNEl0dmtScG51R1g0dXdONG8yRWJCVGxKZnk4Q25YZWVDM2RhQdIBX0FVX3lxTE45My13SWM5R3ZGU2xaSEtfUVdxRzlLVlQ0M3dKb1VpMUJmMDNUMHZoZm1xbkpzc18xbmdPaTRvVFJ1cnBIbkY3VnBMVUFtYXZhcW9nd1VwYmozM2VROEZF?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Verge",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-07T20:33:13Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Sonos delays two new products as it races to fix buggy app - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHlSUDJqYjhrWmpnWHlxbjFpM0k3MlNRWTRLOFVkMEV4ZU42YlZmYTkzZXRyS2tmeDk5UHd4R3ExVFpMNDhnUFVhek13TVpsU19seXp4SU1IWXlxMDVqWEF1N09CaHpJbnJjTzlaZzBTMHhLRjlBd0FOZWRhcm5uQ2RHZTcwNXN6VDk3bmNQdUwwNk0?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "9to5Google",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-07T20:30:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "The Google TV Streamer still supports external storage - 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TclZOcFVVZGdUcW9zNHQ0ZzltUVpGbFFIaEdfREo4b2FGbG5vcmQ4MFZEc0dpYWFRZmF6RUlfRkY4dUpxSXJDcXpOa3NqU3U5aFFjYWtNOTNXeVBtNGdyc1liTXlFTkxncmVSV3JXWmZ0TGhuMVFVbVd3?oc=5",
+      "title": "British police prepared for far-right agitators. They found peaceful anti-racism protesters instead - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEZaT0ZNMExxZUNUcXh0MjJpTHVQdUsxUEdxY3JBdnZFTzVvSzZnYzhiVll1eXdCY2Fmb0NwNkM5bEU2RExOZGp3T0F4aHF0RE44by1mS0xzbnA0dWplQWZpaUttbk5mdXJuYzNLTDhTRFlxQ3A1OGJmTDR1MlJnRTl4d3dmMkNNdFU3TzBaUHBMSFVjbDBieWk5eVUwSXk1MzJPeVh6R1U?oc=5",
       "urlToImage": null
     },
     {
       "author": "POLITICO",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T20:12:26Z",
+      "publishedAt": "2024-08-08T00:23:56Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Harris\u2019 blue-collar pitch: New candidate, same pro-labor policies - POLITICO",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEJSQ2FxSGRYRlFVdWVLZHQ3QWZmM0Z2dzVoczN0ZlVtdlhQWjRqNE9jdUxZV1RpRTVLUl9hVktrcVQ1aTdZRW9ScXk5SFpLN2pleEVQaERwcnpSZExaTUd2MjVxYmJiX1VZbEJENGxsemNyWnl1NW5WYnNxOEpjRFZLNnE1LXhzdHc?oc=5",
+      "title": "Trump praised Walz in 2020 over handling of George Floyd protests - POLITICO",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV3VzZEF2V0hrWlJYNUpIZ0VWRDJKYTlLWm5tZ0pUX3FCRVVTai12dXAxTm5WTzBMNDM4LUkyTWFSMHd4X0Y0akRkT0pOR1pEek1VU1BQcmpGdlJNUlhVekF0X3lfNTB0aXQwc3E0ekdsUlhBT2J5b1lUSWcweU42SmdGb2hGR3Y2dlowR0Q3b1p4ckw5cmJRQUZmRQ?oc=5",
       "urlToImage": null
     },
     {
-      "author": "ABC News",
+      "author": "The Weather Channel",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T20:09:13Z",
+      "publishedAt": "2024-08-08T00:15:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Taylor Swift shows in Vienna canceled after 2 arrested for planning terror plot - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkRpQnduNWpkTHhDZmFXZVlCZ3NjTEJ6bm5uTW9ZUTd3Q0lCQTM3YjFyd2szQVlkRUJ1MzdsR1Zoa1ZmOGFRQTVzNzRsZEpZc0JvWEtzdldRaEcyYVVkdWExVFpqTHZHb2lkSkZzTkNaUUR6djFpbWlva3RmUEl5YVREUGVyUVJsSGtGZEx0Qy0yb3VUR096b2RoTlJQQ1d6OTYzQUNIX1TSAa4BQVVfeXFMT0stREZMcW9ubVFFZzBMWUxKc1JHbE9KcXhadXZUV0VNMXBaUkFodU5sOVhqUXluVjJLeVIyek9CYlRRMlFPUkZSRE04QjhxZGpsZ1owQlliX3h3UzM4a0NJZUNhdVJRVjRrRTlPRDMyR20tX3I4NHNwX0pTTzh4MUxpcTNKNmdDaF9oTTVaTmZ3WUhacnl0YzFmeHNGZGtjUXEwM0pYQVVwRDZxd3p3?oc=5",
+      "title": "Debby A Flood Threat From Carolinas To Northeast - The Weather Channel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUdpWGdYdmNYdWJPNlJsSU9OTmpuX3BQZjl3YnZycDVFRER1ckhHZmtTaTFCX3ZUN3doX1E0SjBSVHZXVmZGX1laX1Z0d2RBU01NcHdZeVp6cmw0U01xVDRwaGJWN1BWWmFmTkFWNmxUNDdvNG5nTmVuaVk4b0VURng1ak1ZZjR5ZHNjWi1wUTh4azlhS2NOWnI0bWpMNE1veUI0cWpfaGttSEhONnVaTlNGRQ?oc=5",
       "urlToImage": null
     },
     {
-      "author": "NFL.com",
+      "author": "The Wall Street Journal",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T20:02:00Z",
+      "publishedAt": "2024-08-07T23:59:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Browns unveil plans for $2.4 billion dome, team considering move from longtime downtown home - NFL.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEpoWFNaNGUwNEtfNU1lRERYTVBjOXZmSFJhWkJIMEpkaE0yVE9WMEt1T2x0M0RKdUQ0SER4dFVIMjN0cjMyODlaSS1tcE5KSGNMaDUxRGZxcE5aT3ZwNmpNMzJmQUQ2MzNxSUUtMlE1VVlVcUdxcGZoSmdtZGptM05jVGR1UGJDOFRFSTZNVTZYcU4zY0l3YmMzQTlQZw?oc=5",
+      "title": "Stock Market News, Aug. 7, 2024: S&P 500 Drops With Investors on Edge After Global Selloff - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUY4VmlYMFlBcDhQU1UyVTlkckFRTnVENXdKbThhMG41WHR2cmZRajItRFhEWDJBYVFwZEVqNG1mS0UwdVhGaENUdmt3ZFpWUXQyMzRxZ0NKdWpydHI3RHNVOG01Tk9xc2E4ZllBeGUtdFlDUW52bmxNcU1ReDNoTGpjM3BRY1NHNFdPWA?oc=5",
       "urlToImage": null
     },
     {
-      "author": "USA TODAY",
+      "author": "CBS Sports",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T19:42:19Z",
+      "publishedAt": "2024-08-07T23:53:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "USA women's basketball live updates at Olympics: Highlights from quarterfinal vs Nigeria - USA TODAY",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNazNuNms2bkhBb0pkajZCR0JWbUlwM2huT2YxVWxlV3BzOTY0ZVlnejFkQmJ3ZmxUdDRxOGU3UHRiYk5lbmY5OVVEZmFzR2dUcElLbEk0eXFiTDFPVmlRdTl3SldRUW1tcXA2aWY3Zm80UHVOcXpXb0xmUmF1VVZGU1N1UnRmNUJsMnV3c2VPM1B2WlJrY0FTOVhTSktyampZVWZuXzlXdV9TcFlzUVNXNVFRUV8?oc=5",
+      "title": "Brandon Aiyuk trade rumors: Steelers in mix for 49ers WR; San Francisco asking for two No. 1 picks, per report - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZVhjNkFHZ3JiZ3FkOXk2SDJRNlk3eWM5RXZyNXJiSGVSNll0dW5lSzZCLVlxeGtkU1ZiR2U5M085ckJPSmpXeVRxbV9CRW5iTWRBSVFpa3ZaOFVkaEt4ZTFRVUxWQ1d2SHg4N0FRNEZDRjl3a1pFUzlvQjhwOHFRRTdSVnplcm5Jd0U0WEhCMTMtRW1RcUMtOEdMc2t4UlIyUFFzM1dIYk1BUzVLN2dWS2RpcEpnbDlKTHVIbVRpZlNGamNlYXpjaVpKa3VWdGFBdG9UZDdkZDhEQdIB3wFBVV95cUxNc3FWaVBETmFFYTA2OURDYkhtTEtvTGZrVUtmSFd0anlScmhyV2hEZldqTEJya0JKVjZOMDBGY1pUWGFNVFBUb0l6WDN2TTdCTHJuQlYwaEY4cGlsalFiME45ZXZ0Rm9qSWU2MjJlMFZJdHl0QzBYektKOThmQ2ZDLURvYnJLZ2VOdXRRVXRsQy1GUzhKdmNZRU5QaUhWNHFtcEpSVHJoU0IyQVdFZXY1MWJpQkpIQm1jVVZnQXVKajN6b1k3aVI2MWRGb0FMOWJueGo3MmVId01weEhsOU5N?oc=5",
       "urlToImage": null
     },
     {
-      "author": "The Associated Press",
+      "author": "News 5 Cleveland WEWS",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T19:21:00Z",
+      "publishedAt": "2024-08-07T22:51:01Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "UK police prepare for more unrest amid fears that anti-immigration groups have a list of targets - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEZaT0ZNMExxZUNUcXh0MjJpTHVQdUsxUEdxY3JBdnZFTzVvSzZnYzhiVll1eXdCY2Fmb0NwNkM5bEU2RExOZGp3T0F4aHF0RE44by1mS0xzbnA0dWplQWZpaUttbk5mdXJuYzNLTDhTRFlxQ3A1OGJmTDR1MlJnRTl4d3dmMkNNdFU3TzBaUHBMSFVjbDBieWk5eVUwSXk1MzJPeVh6R1U?oc=5",
+      "title": "Cleveland Browns release first renderings, details of Brook Park stadium proposal - News 5 Cleveland WEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFhOVk9rYndkeWtPM01EVU9SMFBJM3pmRldJcVdySXFZOVVSeDNOUUtiaV9UWUFEaXVfUkJvNDh2TnpiWEt3U2xsRG0tY1VQY3NmaFh5MzZfS0JPMk5rVnRUN1RieEhQWFRXM3BtS3dBb1pNd29aRnJsVjBiTnV5MUc0dzBqdF9ab05hdHVZTmRPSlJEZll5Ry1EcDdVQkhneDk5Z1M5ZjdwaVlxUU5TMGMtbFB0YkFYRUNkclNIV3dhRWc?oc=5",
       "urlToImage": null
     },
     {
-      "author": "CNBC",
+      "author": "The Washington Post",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T19:10:23Z",
+      "publishedAt": "2024-08-07T22:45:48Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Jamie Dimon says he still sees a recession on the horizon - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONi00WUktSFUzZG9WalFReDQzaGg2TjZHbzJhRkY3dFBFRHByb0l5S3B0OGQ4cEFJT0ZHUTZRdy1nVTlsTldwVW9HS21KcWI5c1JJMUwteGdhZ19wdUV5ZHIxMGVOV3E4TUFEVkNEQ092NENPbjhpRzh4NHgyeFVnZG5kWdIBiAFBVV95cUxPeUhFODl5NDFHV2NDUDFXY0lMR2ZTc251UTlmSjFtaEtFQ2pqSnVNV3VJYmF3WUhRRXMzR2NHcW1FZVRjeXBoWXlCUkJQbFdCZWZkcWNqNzVYclJLOW90cTZVZl9hai1OS1VQTGFKSzdMRVBzZkNIazdEZExNVG1oRU1VQ0JrU19a?oc=5",
+      "title": "PM Update: Spotty downpours through tonight, and more rain likely Thursday - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkVSYTZEWjZHN1RtV2J1MFcyX2JSYkFWSHFsSEpwejMyamRMVVNJWFcyZFVXRjNLZFM2NlJ3SjBEQWkyYTRGQmxMRVRwWTRNZGhIdlFlcFVrMjh3RFhCWFNDU0NoMTJmN1BqNzRMam50aXJucE14SmdMc0tSdEVmRTZZN3k5R1lUUHlBT0tsVQ?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Daily Mail",
+      "author": "Sports Illustrated",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-07T18:57:29Z",
+      "publishedAt": "2024-08-07T22:38:59Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "NASA tells Americans to flee cities during Perseid meteor shower this weekend - Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXNMc3M5SUtLRDBDUG53WUM2bGMwLWdmUnJSdW5KVzlpMEZwQnBHS1B5NzYxVFpxTmlqWXlFdGRodW9UVVFZRnF4V0RuOVhLbjJlVFpGbEtPcUVnVlBJNHpUQnM2cndPcnhTTzktbnl4aGd5YXItQWZLbXFXWHJPd0FBMkpiZWdwUDlmWGtTbmktamxNVmpFcm1jVdIBoAFBVV95cUxOTDJvTTJsQXRNRm5JeFhyd0Rvb2JCZ1hrNWRibk81V0FGTnpSV2lzcHRpNDBlNVNZZUJ4VU1BWG8tdnN0T3RDYnRQZ2MzczRIbERUVGM5OUV2a2VBTXNKS1VjOThnVllOOWozSW1McERXRzliOEdyU1E4TFB5dG5JbTZiMUx2LUlJcVlDZEdiM0hIZ3A1UkZlQ3ZTdWw5WS1F?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Associated Press",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-07T18:37:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Illinois governor calls for resignation of sheriff whose deputy fatally shot Black woman in her home - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhxdHBHN0J1dTlQRWRCNzl5RVRMQ040NFEyNTZtQkQ3cE00d3l5M0pfanNSaEZSTFI1RjAybWxGZGU3dVNpM3Zwb1Y1a1hMLURGQi1jSkxJMmpnVFExX290RkFmWHg1NHZjempZMVpYU0t6OWV0ZlBQV0pTbElnTGctUkhGRUxwNzIwci1iWlVZRkpoUXAzelV3?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "NBC News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-07T18:36:34Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Tropical Storm Debby churns over the Atlantic before making second landfall on East Coast - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JoNmRmZGpLQWhQODM5aUdvd1F2aEJoOVpsTGJtM1NNN2hka2d5NDc1TExWaXU4a3ZDSnZxb2lyLV80OTA1REpWdEtxWmc0ZWJTWGYwQURNVHdib21MMWZNUXNiV0xrZGpfRlJ2NnlJcGRDOEVya0V5OUE3ejNES2VzN1huMGZkZjNERFVFRGNQOW4zOG04WTFOc3BvaW9YbFlJNnJlVDllbm9PN1hPT1NLUF9BMnVtNGfSAVZBVV95cUxNYTk3UkRKSVV2amZJZWlWWXF5SDlEdWtyNWdYVy1qRE42UDkyS0c0Z2dtMFJ6OERGNlVjRndWTVdoUTRGS3Badzl5cURpQkgtdGtLZ3B5UQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Hollywood Reporter",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-07T18:36:01Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "\u2018It Ends With Us\u2019 Star Blake Lively Steps Out in Same Versace Dress Worn by Britney Spears in 2002 - Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVTE4SF9BdWlIZE9DUVhaN1MzMGU3TUl0bkQ4WGsxVDhaeHFOYVV6Rkx3U2VQTzdWSXF0RnVDNnFaQUhWdTV5VzhzOGxxQWFBR21vbURxREJEUWZvcEluRjRZX1hqUGU0eGp4aHExN19QSm4yYW9WbzNodkx0OGtqbWJ2WExZejlYQk1QSWlrNWdXNnE0QUJnZi1FV0RscWZTY25NOHZRaFpKWlJiWjd3cjhBOE9nT2VXSXR0LVNmZWE0WF94d2c?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Fox News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-07T18:32:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "WHO asks experts to help decide if mpox outbreak in Africa is global emergency - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU2x0TDlSRDNjVC10bzJFcUV0eF9laUZSRHEyX3RmMzRzall2UmpDdXlHTlQ2NFhDZV9VSmV2Ny1KU1JaSWJuaUtjaFkySG1iU2FVald4dFpPTnB2ckZyOG9iWjBiNHl0eklrQkE4dGFMUDRqaVg1YVZTc2RfUkdMQ3BsYVI0UldvVk1hRGVpRmVPME81Zk1xRlZnbXl1Z9IBowFBVV95cUxQeFJKUVEtekxfNUdmNFpzRnVybmY4bWlpRDJtWnRsQnZDb29NQWVpQWRfSE56QmdvaF92cGR0bnNmNUdHZWNDekh2dkNhai1aRllhZkU5YkhSTFNleExlMHN5cklOVkVPNEllbzdLM3phR1JTejRyLXU1aGJKSmZ5WjJPdENveGw4SzdKZDlJNGxPNmNHSVh5b2VmVDJFU2xuUlE4?oc=5",
+      "title": "U.S.\u2019s Sarah Hildebrandt Wins Wrestling Gold After Unprecedented Disqualification of Her Opponent - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHVpdVRyNEFDZjVabXJacHJjVjItMEFZdnBiYUhMbUNPTVhGXzh3Z01Oa0JUYUlVaktFcjZPYWM4VlVfbWo5RHYzZFI4RlhFdkd6VGxxRUlEam84Q3FHcTg4NWpGRzBubjlxaFo4T1kzejJpVjJvbEpLT2VQTGEwLVFQa2pmS2hkM1FTQkNqS0tPYkpPSDRnNGZMWXMtaTJSSEJKbw?oc=5",
       "urlToImage": null
     }
   ],
