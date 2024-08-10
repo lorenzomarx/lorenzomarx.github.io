@@ -1,84 +1,84 @@
 {
   "articles": [
     {
-      "author": "Eric Berger",
-      "description": "NASA declines to penalize Boeing for the deficiencies.",
-      "publishedAt": "2024-08-08T16:25:52+00:00",
-      "title": "A new report finds Boeing\u2019s rockets are built with an unqualified work force",
-      "url": "https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/MAF_20210209_EUS_testpanels27large-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "A whole new desktop aims to appeal with tiling, themes, and a safer Rust core.",
-      "publishedAt": "2024-08-08T15:30:32+00:00",
-      "title": "You can kick the alpha tires on System76\u2019s Cosmic, a new Linux desktop",
-      "url": "https://arstechnica.com/gadgets/2024/08/you-can-kick-the-alpha-tires-on-system76s-cosmic-a-new-linux-desktop/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/cosmic-alpha1-custom-dark-steel-theme-760x380.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The Omni Port has a Tesla-style J3400 plug as well as a CCS1 plug.",
-      "publishedAt": "2024-08-08T14:09:30+00:00",
-      "title": "This new charger lets all EVs plug in without an adapter",
-      "url": "https://arstechnica.com/cars/2024/08/this-new-charger-lets-all-evs-plug-in-without-an-adapter/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/ChargePoint_Omni_AC-copy-760x380.png"
-    },
-    {
-      "author": "Stephen Morris, Hannah Murphy, and \u2068Hannah McCarthy, FT",
-      "description": "Project disregarded Google rules barring personalizing and targeting ads to minors.",
-      "publishedAt": "2024-08-08T13:21:49+00:00",
-      "title": "Google and Meta ignored their own rules in secret teen-targeting ad deals",
-      "url": "https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/kidsonphones-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"We heard from a lot of folks that had concerns.\"",
-      "publishedAt": "2024-08-07T22:40:11+00:00",
-      "title": "NASA official acknowledges internal \u201cdisagreement\u201d on safety of Starliner return",
-      "url": "https://arstechnica.com/space/2024/08/nasa-official-acknowledges-internal-disagreement-on-safety-of-starliner-return/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Photo-May-18-3-55-30-PM-760x380.jpg"
-    },
-    {
-      "author": "Nate Anderson",
-      "description": "Anything you dislike can now be called an \"AI fake.\"",
-      "publishedAt": "2024-08-07T22:15:36+00:00",
-      "title": "The conspiracy theorists who think Biden has been replaced by AI",
-      "url": "https://arstechnica.com/ai/2024/08/the-conspiracy-theorists-who-think-biden-has-been-replaced-by-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-biden-760x380.jpg"
-    },
-    {
       "author": "Beth Mole",
-      "description": "A different clade of mpox than the previous outbreak is spilling out of the DRC.",
-      "publishedAt": "2024-08-07T21:52:54+00:00",
-      "title": "New mpox outbreak raises alarm; WHO considers declaring international emergency",
-      "url": "https://arstechnica.com/science/2024/08/new-mpox-outbreak-raises-alarm-who-considers-declaring-international-emergency/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-151056898-760x380.jpeg"
+      "description": "The outbreak tally has increased to 43 amid recall of 7 million pounds of meat.",
+      "publishedAt": "2024-08-08T21:44:45+00:00",
+      "title": "Another death in nationwide outbreak that spurred massive meat recall",
+      "url": "https://arstechnica.com/science/2024/08/another-death-in-nationwide-outbreak-that-spurred-massive-meat-recall/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2164656715-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "\"Most consumers do not think about what happens to data collected by smart home devices.\"",
+      "publishedAt": "2024-08-08T21:36:26+00:00",
+      "title": "PrivacyLens uses thermal imaging to turn people into stick figures",
+      "url": "https://arstechnica.com/science/2024/08/privacylens-camera-turns-you-into-a-stick-figure-to-protect-your-privacy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/privacy4-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "US commodities trading agency claimed its largest recovery ever for FTX victims.",
+      "publishedAt": "2024-08-08T21:21:40+00:00",
+      "title": "FTX to pay $12.7B to victims of Sam Bankman-Fried\u2019s massive scheme",
+      "url": "https://arstechnica.com/tech-policy/2024/08/ftx-to-pay-12-7b-to-victims-of-sam-bankman-frieds-massive-scheme/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1244719410-760x380.jpg"
     },
     {
       "author": "Scharon Harding",
-      "description": "Disney is \"not concerned\" about blowback from higher prices, per CEO.",
-      "publishedAt": "2024-08-07T21:38:00+00:00",
-      "title": "Disney has \u201cearned\u201d latest streaming price hike, CFO says",
-      "url": "https://arstechnica.com/gadgets/2024/08/disney-has-earned-latest-streaming-price-hike-cfo-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/secret-invasion-760x380.jpeg"
+      "description": "Sonos is delaying two hardware releases because of the app's problems.",
+      "publishedAt": "2024-08-08T21:11:36+00:00",
+      "title": "Sonos\u2019 $30M app fail is cautionary tale against rushing unnecessary updates",
+      "url": "https://arstechnica.com/gadgets/2024/08/app-redesign-blowback-will-cost-sonos-up-to-30-million-ceo-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/06b240eb-6426-4160-8cea-d9fec64c224f_thumb-760x380.jpg"
+    },
+    {
+      "author": "Nate Anderson",
+      "description": "At least it wasn't novichok.",
+      "publishedAt": "2024-08-08T20:23:33+00:00",
+      "title": "In world first, Russian chess player poisons rival\u2019s board with mercury",
+      "url": "https://arstechnica.com/culture/2024/08/in-world-first-russian-chess-player-poisons-rivals-board-with-mercury/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/russian-chess-poisoning-mercury-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Global Alliance for Responsible Media disputes X lawsuit but stops operations.",
+      "publishedAt": "2024-08-08T19:58:14+00:00",
+      "title": "Ad industry initiative abruptly shuts down after lawsuit filed by Elon Musk\u2019s X",
+      "url": "https://arstechnica.com/tech-policy/2024/08/ad-industry-initiative-abruptly-shuts-down-after-lawsuit-filed-by-elon-musks-x/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/musk-x-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "What was \"mini\" in 2010 is not particularly mini in 2024.",
+      "publishedAt": "2024-08-08T19:07:46+00:00",
+      "title": "Apple reportedly plans updated M4 Mac mini that\u2019s actually mini",
+      "url": "https://arstechnica.com/gadgets/2024/08/report-apple-plans-mini-er-mac-mini-its-first-design-update-in-14-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_0919-760x380.jpeg"
     },
     {
       "author": "Benj Edwards",
-      "description": "De Kraker: \"If OpenAI is right on the verge of AGI, why do prominent people keep leaving?\"",
-      "publishedAt": "2024-08-07T19:08:22+00:00",
-      "title": "Major shifts at OpenAI spark skepticism about impending AGI timelines",
-      "url": "https://arstechnica.com/information-technology/2024/08/major-shifts-at-openai-spark-skepticism-about-impending-agi-timelines/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/openai_redbrickwall-760x380.jpg"
+      "description": "Human-beating ping-pong AI learned to play in a simulated environment.",
+      "publishedAt": "2024-08-08T18:59:59+00:00",
+      "title": "Man vs. machine: DeepMind\u2019s new robot serves up a table tennis triumph",
+      "url": "https://arstechnica.com/information-technology/2024/08/man-vs-machine-deepminds-new-robot-serves-up-a-table-tennis-triumph/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/pingpong_robot_2-760x380.jpg"
     },
     {
-      "author": null,
-      "description": "What the future of search could look like as DOJ seeks to end Google's monopoly.",
-      "publishedAt": "2024-08-07T18:32:08+00:00",
-      "title": "All the possible ways to destroy Google\u2019s monopoly in search",
-      "url": "https://arstechnica.com/?p=2041575",
-      "urlToImage": null
+      "author": "John Timmer",
+      "description": "July had the two hottest days recorded but fell 0.04\u00b0 Celsius short of last year.",
+      "publishedAt": "2024-08-08T18:17:52+00:00",
+      "title": "String of record hot months came to an end in July",
+      "url": "https://arstechnica.com/science/2024/08/string-of-record-hot-months-came-to-an-end-in-july/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Screenshot-2024-08-08-at-1.27.53\u202fPM-760x380.png"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Amazon risks heavy fines if Anthropic deal violates UK's latest competition law.",
+      "publishedAt": "2024-08-08T17:57:14+00:00",
+      "title": "Amazon defends $4B Anthropic AI deal from UK monopoly concerns",
+      "url": "https://arstechnica.com/tech-policy/2024/08/amazon-defends-4b-anthropic-ai-deal-from-uk-monopoly-concerns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2147920468-760x380.jpg"
     }
   ],
   "sortBy": "top",
