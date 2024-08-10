@@ -1,20 +1,28 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "When war last came to the edges of Lebanon's capital nearly two decades ago, Bilal Sahlab drove his family to a secluded mountain town, rented an apartment and waited out the bombing.",
+      "publishedAt": "2024-08-09T11:27:29Z",
+      "title": "As war drums beat, those in Beirut suburb have nowhere to flee",
+      "url": "https://www.reuters.com/world/middle-east/war-drums-beat-those-beirut-suburb-have-nowhere-flee-2024-08-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MXINVF2YGBLOZMFWAVI7UAZ53I.jpg?auth=e08a64ef01344fe6f60fbb69a1fc0456a6476f7e74b149c560a67f5744e44ed5&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "A Russian missile strike hit a supermarket in the Ukrainian town of Kostiantynivka in the front-line Donetsk region on Friday, killing at least ten people and injuring 35 others, Ukrainian officials said.",
+      "publishedAt": "2024-08-09T11:38:16Z",
+      "title": "Ten killed, 35 hurt in Russian strike on supermarket in Ukraine's east",
+      "url": "https://www.reuters.com/world/europe/two-killed-17-injured-russian-strike-supermarket-ukraines-east-2024-08-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/UQP5TG5BL5KHDFQCWFBVQAP42I.jpg?auth=1e753c2575aba329e6b635c77bbf538cd9ec1f93d1eaa9e7b2c54d85678b861b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Nathan Layne, Joseph Ax",
       "description": "Republican presidential nominee Donald Trump said he will hold a news conference on Thursday afternoon at his residence in Palm Beach, Florida, his first public appearance since his Democratic opponent, Kamala Harris, selected Minnesota Governor Tim Walz as her running mate.",
       "publishedAt": "2024-08-08T16:11:29Z",
       "title": "Trump to hold news conference while Harris visits Michigan auto workers",
       "url": "https://www.reuters.com/world/us/trump-hold-news-conference-while-harris-visits-michigan-auto-workers-2024-08-08/",
       "urlToImage": "https://www.reuters.com/resizer/v2/GSAWWAJ74VLILJ2MWVTHCXK5FM.jpg?auth=571a0835f4e16edc83c58dfbecb82521fa9de6d567cdf32db678f50b9fdbd3ef&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Nidal Al-Mughrabi, Hatem Khaled",
-      "description": "Israeli tanks returned to the southern Gaza city of Khan Younis on Friday, forcing thousands to evacuate along congested roadways, as Palestinian fighters continued to attack Israeli troops from the ruins, residents and the military said.",
-      "publishedAt": "2024-08-09T11:15:42Z",
-      "title": "Families flee new Israeli assault in Gaza's Khan Younis",
-      "url": "https://www.reuters.com/world/middle-east/families-flee-new-israeli-assault-gazas-khan-younis-2024-08-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/CGNNC4BBT5OAPNRJYIR2YJSBJI.jpg?auth=d02876f33e7a0d18ee49e136948a3a9ba6a11b8feec0f474302b2af9f1ba46b8&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -34,14 +42,6 @@
     },
     {
       "author": "Reuters",
-      "description": "The Ukrainian military said on Friday it had hit a Russian military airfield in the Lipetsk region of western Russia overnight, damaging stockpiles of guided bombs and causing a series of detonations.",
-      "publishedAt": "2024-08-09T08:59:39Z",
-      "title": "Ukraine says it hit Russian military airfield in Lipetsk region",
-      "url": "https://www.reuters.com/world/europe/ukraine-says-it-hit-russian-military-airfield-lipetsk-region-2024-08-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
       "description": "Venezuela's President Nicolas Maduro on Thursday said he has signed a resolution to block access to social media platform X in the country for 10 days.",
       "publishedAt": "2024-08-08T23:46:54Z",
       "title": "Venezuela's Maduro signs decree blocking X access for 10 days",
@@ -50,35 +50,35 @@
     },
     {
       "author": "Reuters",
+      "description": "Catalan separatist leader Carles Puigdemont was headed back to Belgium on Friday, having eluded police after appearing at a rally in Barcelona despite a warrant for his arrest in Spain, his party said.",
+      "publishedAt": "2024-08-09T11:55:38Z",
+      "title": "Catalan separatist Puigdemont heads for Belgium after dodging arrest in Spain, party says",
+      "url": "https://www.reuters.com/world/europe/wanted-catalan-separatist-puigdemont-back-belgium-after-avoiding-arrest-spain-2024-08-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VWJ62MYA7RPF3AW5GJOUIZ55UU.jpg?auth=9f164ec3c3b85d11cb212cb98c393f686a04bfa8c980ea1fe4aa7810ccf46461&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Hatem Khaled, Mohammed Salem",
+      "description": "A newly opened camp for displaced Palestinians with disabilities is providing some much needed help for around 100 vulnerable people in the town of Deir al-Balah in the central area of the war-ravaged Gaza Strip.",
+      "publishedAt": "2024-08-09T12:42:00Z",
+      "title": "New Gaza camp offers relief for Palestinians with disabilities amid war",
+      "url": "https://www.reuters.com/world/middle-east/new-gaza-camp-offers-relief-palestinians-with-disabilities-amid-war-2024-08-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LFJWWUVJGZP6VGS7LU4CLNM52E.jpg?auth=7f800a0929442494700c48e9358680cf2234a3216cb8ca407c2d1549bdb9bf40&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "A weakened Debby churned further north along the U.S. East Coast on Friday, spawning tornadoes and spreading heavy rains that could cause catastrophic flooding from Maryland to Vermont before the one-time hurricane blows out to sea.",
+      "publishedAt": "2024-08-09T13:01:27Z",
+      "title": "Debby picks up speed, spreading heavy rain along US East Coast",
+      "url": "https://www.reuters.com/world/us/debby-picks-up-speed-spreading-heavy-rain-along-us-east-coast-2024-08-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JXZ5RWQOO5MDDPHMGT2BGGYGTU.jpg?auth=eb40e55ad26d01c08c333a030dd5025edef9e58dd364645f3b090dfb164846c1&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
       "description": "Extreme rainfall and severe flooding in China led to a near doubling in economic losses from natural disasters in July from a year earlier, the government said.",
       "publishedAt": "2024-08-09T05:08:10Z",
       "title": "China's rains and floods led to near doubling of natural disaster losses in July",
       "url": "https://www.reuters.com/world/china/chinas-rains-floods-led-near-doubling-natural-disaster-losses-july-2024-08-09/",
       "urlToImage": "https://www.reuters.com/resizer/v2/HOW6KTMK2RKXNJIAXWYXUSZSOM.jpg?auth=1fbfcfe40298e3d8a102ded1a1efbe1d58fa3884086a10ec39f6a5363ae490f7&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "A magnitude-5.3 earthquake hit Tokyo and surrounding areas on Friday evening, the Japan Meteorological Agency said, a day after the government issued a first-ever advisory about the risk of a huge earthquake on the country's Pacific coast.",
-      "publishedAt": "2024-08-09T11:21:19Z",
-      "title": "M5.3 earthquake hits Tokyo after Japan issued megaquake advisory",
-      "url": "https://www.reuters.com/business/environment/japan-issues-m53-earthquake-warning-tokyo-areas-2024-08-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The Iranian Revolutionary Guards said on Friday that its navy has new cruise missiles equipped with highly explosive warheads that are undetectable, state media reported.",
-      "publishedAt": "2024-08-09T11:01:15Z",
-      "title": "Iranian Guards navy has new highly explosive missiles, state media say",
-      "url": "https://www.reuters.com/world/middle-east/iranian-guards-navy-has-new-highly-explosive-missiles-state-media-say-2024-08-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3Q6LO256HZLT7LFHJOBIHJBSY4.jpg?auth=5510e7f8067f47821d0cc82a751363dfbe910071746fa5a325b5f2389d49791a&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Panu Wongcha-Um, Panarat Thepgumpanat",
-      "description": "Thailand's disbanded opposition Move Forward unveiled a new leadership and political vehicle on Friday that will become the biggest party in parliament, naming it People's Party, and promising to advance its predecessor's progressive platform.",
-      "publishedAt": "2024-08-09T05:58:16Z",
-      "title": "Thailand's disbanded opposition regroups under new anti-establishment party",
-      "url": "https://www.reuters.com/world/asia-pacific/thailands-disbanded-opposition-regroups-under-new-anti-establishment-party-2024-08-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/IRKN2IA6IZKZPLD4H6JUYHD77I.jpg?auth=a1ab13c72164568f25f443eb97f4d04c8e82d5245d4988427f5e254a27654a4b&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
