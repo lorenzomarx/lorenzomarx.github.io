@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "author": "WAFAA SHURAFA and SAMY MAGDY",
-      "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 An Israeli airstrike hit a school-turned-shelter in Gaza early Saturday, killing at least 80 people and wounding nearly 50 others, Palestinian health authorities said, in one of the deadliest attacks of the 10-month Israel-Hamas war.",
-      "publishedAt": "2024-08-10T04:26:06Z",
-      "title": "Israeli airstrike on a Gaza school used as a shelter kills at least 80, Palestinian officials say",
-      "url": "https://apnews.com/f33867d7596ebb70c1cb3a77fd4437cc",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/dca0492fad394609bd4c672897e58cdc/3000.jpeg"
-    },
-    {
       "author": "JAMIE STENGLE",
       "description": "DALLAS (AP) \u2014 As law enforcement officers hung back outside Khloie Torres' fourth-grade classroom in Uvalde, Texas, she begged for help in a series of 911 calls, whispering into the phone that there were \u201ca lot\u201d of bodies and telling the operator: \u201cPlease, I don\u2019t want to die.",
       "publishedAt": "2024-08-10T17:08:06Z",
@@ -18,11 +10,19 @@
     },
     {
       "author": "RIO YAMAT, DARLENE SUPERVILLE, WILL WEISSERT and JOSH BOAK",
-      "description": "LAS VEGAS (AP) \u2014 Vice President Kamala Harris promised Saturday to work to eliminate taxes on tips paid to restaurant workers and other service employees, echoing a pledge that her opponent in November, Donald Trump, has made, and creating a rare instance of political overlap from both sides.",
+      "description": "LAS VEGAS (AP) \u2014 Vice President Kamala Harris promised Saturday to work to eliminate taxes on tips paid to restaurant and other service industry employees, echoing a pledge that her opponent, Republican Donald Trump, has made, and marking a rare instance of political overlap from both sides.",
       "publishedAt": "2024-08-10T04:01:25Z",
       "title": "Harris pledges to work to end taxes on tips for service industry employees, echoing Trump vow",
       "url": "https://apnews.com/ac21118dbb24290e46d32ad9669507d4",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/cb6d76069a704e1faea2054b6129822d/3000.jpeg"
+    },
+    {
+      "author": "WAFAA SHURAFA and SAMY MAGDY",
+      "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 The Israeli military ordered more evacuations in southern Gaza early Sunday after a deadly airstrike on a school-turned-shelter in the north killed at least 80 Palestinians, according to local health authorities.",
+      "publishedAt": "2024-08-11T07:15:02Z",
+      "title": "Israel broadens its evacuation orders after deadly strike on Gaza school-turned-shelter",
+      "url": "https://apnews.com/18b0a73f930e3cc472a4207168b09ac1",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/34a7e5fd5ad141efb3db32d90cc35e1e/1920.jpeg"
     },
     {
       "author": "BILL BARROW",
@@ -33,12 +33,28 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/fe198d963fee4c0e8cfd490a8929d082/3000.jpeg"
     },
     {
+      "author": "WILL GRAVES",
+      "description": "PARIS (AP) \u2014 American gymnast Jordan Chiles must return the bronze medal she won in the Paris Olympics floor exercise after sport's highest court voided an on-floor appeal by Chiles' coach that vaulted Chiles to third, the International Olympic Committee confirmed Sunday.",
+      "publishedAt": "2024-08-11T08:55:00Z",
+      "title": "American gymnast Jordan Chiles must return bronze medal after court mandates score change, IOC says",
+      "url": "https://apnews.com/d246c9d544faf9dfb44185ae3661e869",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/34de8522f41647a69a90928edaf24621/3000.jpeg"
+    },
+    {
       "author": "MAURICIO SAVARESE and TATIANA POLLASTRI",
       "description": "SAO PAULO (AP) \u2014 Families of victims of an airliner crash in Brazil are gathering Sunday at a morgue and hotels in Sao Paulo as forensics experts work to identify the remains of the 62 people killed in the accident.",
       "publishedAt": "2024-08-11T05:17:03Z",
       "title": "Families of Brazilian plane crash victims gather in Sao Paulo as experts work to identify the dead",
       "url": "https://apnews.com/c92b1f4cb8fd27feaa073fd2553fcbcb",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6d24eca695024162ab879ada62b7d1b2/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/8961f2053f5845948a958dddaf5f1a5e/3000.jpeg"
+    },
+    {
+      "author": "SAMYA KULLAB",
+      "description": "KYIV, Ukraine (AP) \u2014 Days after Ukraine began a surprise military incursion into Russia\u2019s Kursk border region, Zelenskyy broke the government\u2019s silence on it late Saturday by indirectly acknowledging ongoing military actions to \u201cpush the war out into the aggressor\u2019s territory\u201d in his nightly address.",
+      "publishedAt": "2024-08-11T07:00:19Z",
+      "title": "Ukraine's president indirectly confirms daring military incursion onto Russian soil",
+      "url": "https://apnews.com/256adcd7e5ad8beef792a08fc0f0fe8a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1a54c306508a4b8790b0bbcf5a9d026b/3000.jpeg"
     },
     {
       "author": "DAVID SHARP, MICHAEL HILL, MARK SCOLFORO and PATRICK WHITTLE",
@@ -49,36 +65,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/f073224caf054c0d8714a2821cb79a49/1920.jpeg"
     },
     {
-      "author": "RODNEY MUHUMUZA",
-      "description": "NEAR MOUNT ELGON, Uganda (AP) \u2014 The dancers shook their hips to the beat of drummers who led the way, anticipating the start of mass circumcision among the Bamasaaba people of Uganda\u2019s mountainous east.",
-      "publishedAt": "2024-08-11T05:13:47Z",
-      "title": "In a remote Ugandan region, a sacred circumcision ritual faces a contentious test of purity",
-      "url": "https://apnews.com/e2a29cfa85eb1dd8d03fcdd4b4696653",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ace8695199374ff1bd39feb0cb1c033d/3000.jpeg"
+      "author": "JEROME PUGMIRE",
+      "description": "PARIS (AP) \u2014 Sifan Hassan traded elbows with Tigst Assefa with 150 meters left in the women\u2019s marathon, then passed her along the railing to win the race for her third distance medal of the Paris Games on Sunday.",
+      "publishedAt": "2024-08-11T08:41:53Z",
+      "title": "Sifan Hassan wins women's marathon at Paris Olympics, edging ahead of Tigst Assefa",
+      "url": "https://apnews.com/1111dfc094501fec1d1bbbedce196e46",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d6ffb0de47014e85811b32702fb1b7bf/3000.jpeg"
     },
     {
-      "author": "GREG BEACHAM",
-      "description": "PARIS (AP) \u2014 Lin Yu-ting fought to remain poised and calm throughout the Paris Olympics boxing tournament, even when it seemed like most of the chattering world was maligning her, misrepresenting her and questioning the very nature of her being.",
-      "publishedAt": "2024-08-10T19:56:51Z",
-      "title": "Boxer Lin Yu-ting wins gold, following Imane Khelif to conclude an Olympics filled with scrutiny",
-      "url": "https://apnews.com/28d3e1a46ed8fe5c1aa6cd612e2561ca",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/247c56adecc4426b8f47b484f847e9e0/3000.jpeg"
-    },
-    {
-      "author": "WILL GRAVES",
-      "description": "PARIS (AP) \u2014 Romania\u2019s Ana Barbosu could replace American Jordan Chiles as the Olympic bronze medalist in gymnastics floor exercise after the International Gymnastics Federation restored Barbosu to third.",
-      "publishedAt": "2024-08-10T21:19:09Z",
-      "title": "Jordan Chiles could lose her bronze medal from the Olympic floor finals. What happened?",
-      "url": "https://apnews.com/5a7db5537e2defb3ebe57b0b746556f3",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7ddbab3d17ba44a28bb19c1af177bfce/3000.jpeg"
-    },
-    {
-      "author": "TIM REYNOLDS",
-      "description": "PARIS (AP) \u2014 Stephen Curry was thinking about this two years ago, after winning his fourth NBA title with the Golden State Warriors. The only thing left for him to win was Olympic gold.And in the ultimate moment, he made sure that medal would be his.",
-      "publishedAt": "2024-08-10T21:20:34Z",
-      "title": "Golden Steph: Curry's late barrage seals another Olympic men's basketball title, as US beats France",
-      "url": "https://apnews.com/11c95e9b6dfdb25f77c122cd1abe58e5",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/05c00480b2664ad0ad3b8576806c7974/3000.jpeg"
+      "author": "JOHN LEICESTER",
+      "description": "PARIS (AP) \u2014 In French, there are no goodbyes. Instead, Olympic crowds from Paris to the surfing venue in Tahiti were saying \u201cau revoir\u201d \u2014 see you again \u2014 as the 2024 Games drew to a close Sunday.",
+      "publishedAt": "2024-08-11T08:56:36Z",
+      "title": "Paris and the Olympics have changed each other during their summer fling",
+      "url": "https://apnews.com/1da49a20c1af4c83f58b370736c0e59b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/54fc0489ce4649aa99ab9dcfa0f08302/3000.jpeg"
     }
   ],
   "sortBy": "top",
