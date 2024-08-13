@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Eric Berger",
+      "description": "\"The lessons of Columbia have not been forgotten.\"",
+      "publishedAt": "2024-08-12T15:14:09+00:00",
+      "title": "With Starliner stuck in space, has NASA\u2019s safety culture changed since Columbia?",
+      "url": "https://arstechnica.com/space/2024/08/with-starliner-stuck-in-space-has-nasas-safety-culture-changed-since-columbia/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/01/16271647815_f0b8187e11_o-640x215.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "When the Cybertruck debuted in 2019 it was supposed to start at $39,900.",
+      "publishedAt": "2024-08-12T14:39:14+00:00",
+      "title": "The cheapest Tesla Cybertruck is $99,990; promised $60K model canceled",
+      "url": "https://arstechnica.com/cars/2024/08/the-cheapest-tesla-cybertruck-is-99990-promised-60k-model-canceled/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/2024-Tesla-Cybertruck-in-a-showroom-1-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "Three Starliner mission managers had key roles on Columbia's ill-fated final flight.",
+      "publishedAt": "2024-08-12T14:35:59+00:00",
+      "title": "NASA is about to make its most important safety decision in nearly a generation",
+      "url": "https://arstechnica.com/space/2024/08/nasa-is-about-to-make-its-most-important-safety-decision-in-nearly-a-generation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/53850067896_816d8bc83c_k-760x380.jpg"
+    },
+    {
+      "author": "Stephanie Stacy, Financial Times",
+      "description": "News-style notifications include false claims about Taylor Swift, other misleading info.",
+      "publishedAt": "2024-08-12T13:34:03+00:00",
+      "title": "Push alerts from TikTok include fake news, expired tsunami warning",
+      "url": "https://www.ft.com/content/8f0a08c9-1ba6-4df5-a6bd-ac7d288e5ca2",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/tiktok-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "\"The Witch's Road will give you the thing you want most... if you make it to the end.\"",
       "publishedAt": "2024-08-11T21:32:38+00:00",
@@ -10,19 +42,19 @@
     },
     {
       "author": "Jennifer Ouellette",
-      "description": "The standalone series is set in the same time frame as The Mandalorian and Ahsoka.",
+      "description": "The standalone series is set in the same timeframe as The Mandalorian and Ahsoka.",
       "publishedAt": "2024-08-11T20:47:40+00:00",
       "title": "Jude Law\u2019s Jedi befriends kids lost in space in Star Wars: Skeleton Crew trailer",
       "url": "https://arstechnica.com/culture/2024/08/jude-laws-jedi-befriends-kids-lost-in-space-in-star-wars-skeleton-crew-trailer/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/crew4-760x380.jpg"
     },
     {
-      "author": "Elizabeth Rayne",
+      "author": null,
       "description": "Early arthropod development illuminated by a microscopic fossil.",
       "publishedAt": "2024-08-11T11:30:52+00:00",
       "title": "520-million-year-old larva fossil reveals the origins of arthropods",
-      "url": "https://arstechnica.com/science/2024/08/520-million-year-old-larva-fossil-reveals-the-origins-of-arthropods/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/image-1-e1723154345662-760x380.png"
+      "url": "https://arstechnica.com/?p=2041992",
+      "urlToImage": null
     },
     {
       "author": "Andy Greenberg, wired.com",
@@ -47,38 +79,6 @@
       "title": "Infamous $30 Logitech F710 called out in $50M lawsuit over Titan sub implosion",
       "url": "https://arstechnica.com/culture/2024/08/infamous-30-logitech-f710-called-out-in-50m-lawsuit-over-titan-sub-implosion/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/sub_gamecontroller_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Controlling a problematic instability could lead to cheaper internal fusion.",
-      "publishedAt": "2024-08-09T20:48:58+00:00",
-      "title": "Pass the mayo: Condiment could help improve fusion energy yields",
-      "url": "https://arstechnica.com/science/2024/08/kitchen-science-how-mayonnaise-is-advancing-nuclear-fusion-research/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/mayo2-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "AT&T reluctantly adds disclaimer: \"Satellite calling is not currently available.\"",
-      "publishedAt": "2024-08-09T20:36:58+00:00",
-      "title": "AT&T rebuked over misleading ad for nonexistent satellite phone calling",
-      "url": "https://arstechnica.com/?p=2042344",
-      "urlToImage": null
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Laptop farm gave the impression North Korean nationals were working from the US.",
-      "publishedAt": "2024-08-09T20:31:13+00:00",
-      "title": "Nashville man arrested for running \u201claptop farm\u201d to get jobs for North Koreans",
-      "url": "https://arstechnica.com/security/2024/08/nashville-man-arrested-for-running-laptop-farm-to-get-jobs-for-north-koreans/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/north-korea-hackers-760x380.jpeg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "They reject more of the AI's offers, probably to get it to be more generous.",
-      "publishedAt": "2024-08-09T20:13:50+00:00",
-      "title": "People game AIs via game theory",
-      "url": "https://arstechnica.com/ai/2024/08/people-act-differently-when-they-think-theyre-training-an-ai/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1571202037-760x380.jpg"
     }
   ],
   "sortBy": "top",
