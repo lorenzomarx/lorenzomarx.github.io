@@ -1,8 +1,48 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "Intel's latest chips often fall behind Ryzen, or even older Intel CPUs.",
+      "publishedAt": "2024-08-13T16:00:33+00:00",
+      "title": "Framework Laptop 13 reviewed, again: Meteor Lake meh, Linux upgrades good",
+      "url": "https://arstechnica.com/gadgets/2024/08/framework-laptop-13-reviewed-again-meteor-lake-meh-linux-upgrades-good/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_2067-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Using one photo and free software, someone can impersonate your appearance in a video chat.",
+      "publishedAt": "2024-08-13T15:36:26+00:00",
+      "title": "New AI tool enables real-time face swapping on webcams, raising fraud concerns",
+      "url": "https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/jdvance_example-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The owners have now ignored three safety recalls.",
+      "publishedAt": "2024-08-13T15:05:04+00:00",
+      "title": "Ford tells owners to stop driving if they\u2019ve ignored 9-year-old airbag recall",
+      "url": "https://arstechnica.com/cars/2024/08/765000-owners-still-have-airbags-recalled-in-2015-stop-driving-ford-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-172965150-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "PlayStation Store page bizarrely leaks \"now on PC\" promo message.",
+      "publishedAt": "2024-08-13T14:54:57+00:00",
+      "title": "The 5,200+ day wait for Red Dead Redemption\u2019s PC port may soon be over",
+      "url": "https://arstechnica.com/gaming/2024/08/the-5200-day-wait-for-red-dead-redemptions-pc-port-may-soon-be-over/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/rdr-760x380.jpg"
+    },
+    {
+      "author": "Alex Rogers, James Politi, and Hannah Murphy, FT",
+      "description": "X was reminded to not spread \"content that promotes hatred or disorder.\"",
+      "publishedAt": "2024-08-13T13:54:02+00:00",
+      "title": "EU warned Elon Musk about \u201cdisinformation\u201d before Trump interview on X",
+      "url": "https://arstechnica.com/?p=2042731",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-x-musk-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
-      "description": "The highest inclination flight by a human spacecraft to date is 65.1 degrees.",
+      "description": "The highest-inclination flight by a human spacecraft to date is 65.1 degrees.",
       "publishedAt": "2024-08-12T22:45:05+00:00",
       "title": "SpaceX announces first human mission to ever fly over the planet\u2019s poles",
       "url": "https://arstechnica.com/space/2024/08/spacex-announces-first-human-mission-to-ever-fly-over-the-planets-poles/",
@@ -18,7 +58,7 @@
     },
     {
       "author": "Jennifer Ouellette",
-      "description": "High-ridged dentricles reduce drag at low speeds; alternating ridges do so at high speeds.",
+      "description": "High-ridged denticles reduce drag at low speeds; alternating ridges do so at high speeds.",
       "publishedAt": "2024-08-12T21:09:05+00:00",
       "title": "Studying the skin of the great white shark could help reduce drag in aircraft",
       "url": "https://arstechnica.com/science/2024/08/how-the-great-white-shark-reduces-drag-while-swimming-at-different-speeds/",
@@ -39,46 +79,6 @@
       "title": "RFK Jr\u2019s anti-vaccine group can\u2019t sue Meta for agreeing with CDC, judge rules",
       "url": "https://arstechnica.com/tech-policy/2024/08/rfk-jrs-anti-vaccine-group-cant-sue-meta-for-agreeing-with-cdc-judge-rules/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Heated platforms and purge towers are among Stratasys' infringement claims.",
-      "publishedAt": "2024-08-12T17:59:31+00:00",
-      "title": "Stratasys sues Bambu Lab over patents used widely by consumer 3D printers",
-      "url": "https://arstechnica.com/gadgets/2024/08/stratasys-sues-bambu-lab-over-patents-used-widely-by-consumer-3d-printers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/bambu1-760x380.jpeg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "But Trump's false accusation highlights problems with media trust in the AI age.",
-      "publishedAt": "2024-08-12T17:18:47+00:00",
-      "title": "The many, many signs that Kamala Harris\u2019 rally crowds aren\u2019t AI creations",
-      "url": "https://arstechnica.com/ai/2024/08/the-many-many-signs-that-kamala-harris-rally-crowds-arent-ai-creations/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/harriswalz-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "User outcry ushered in a renaissance for classic MS Paint, and Paint 3D faded.",
-      "publishedAt": "2024-08-12T17:13:56+00:00",
-      "title": "Microsoft\u2019s Paint 3D was once the future of MS Paint, but now it\u2019s going away",
-      "url": "https://arstechnica.com/gadgets/2024/08/microsofts-paint-3d-was-once-the-future-of-ms-paint-but-now-its-going-away/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/paint-3d-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"The lessons of Columbia have not been forgotten.\"",
-      "publishedAt": "2024-08-12T15:14:09+00:00",
-      "title": "With Starliner stuck in space, has NASA\u2019s safety culture changed since Columbia?",
-      "url": "https://arstechnica.com/space/2024/08/with-starliner-stuck-in-space-has-nasas-safety-culture-changed-since-columbia/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/01/16271647815_f0b8187e11_o-640x215.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "When the Cybertruck debuted in 2019 it was supposed to start at $39,900.",
-      "publishedAt": "2024-08-12T14:39:14+00:00",
-      "title": "The cheapest Tesla Cybertruck is $99,990; promised $60K model canceled",
-      "url": "https://arstechnica.com/cars/2024/08/the-cheapest-tesla-cybertruck-is-99990-promised-60k-model-canceled/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/2024-Tesla-Cybertruck-in-a-showroom-1-760x380.jpg"
     }
   ],
   "sortBy": "top",
