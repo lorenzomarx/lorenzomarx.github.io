@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "author": "The Wall Street Journal",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T09:55:47Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Stock Market Today: Nasdaq, S&P 500 Futures Rise Ahead of PPI Data - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHhFRUpIRzJfeF85N3JzUGZZRmdaREZSM2N1dHJOOGUyUGwyY0gxMFREX2x5Q29IYmFuem4tcEhyWWtqcExXVVpmbmo4ZWFWSjRSMjdRODJ5UEFRdGYzdGM4bjFKY1FhM0VkZEszNC1DOFhQbTlTZTVjaGJtTk9zaG9R?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Daily Beast",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T09:36:09Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Iran Hacked Roger Stone and Used His Email to Try and Breach Trump Campaign Staff - The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUlaUEMtbzcwRDBzUXI5LXFOTGFVLW9RcEd2TkdySG1DVk8yRGctNlcwRXZGRXdzZmprT1E1WWQ0NXZvd0NaU2VVVEtXMDdXQjRHeWt5c2ZKN2oyd29QRF9DUjJsYU5HZWszV0NVSXZVTXNEZE5XQTNNS0ZXT0ZQemxFcFluTXFvMFk5Sy1ZeDlXRm1qN1k3ZkVPaFFtYUxTYXc?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T09:31:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Sterling rises after UK unemployment rate unexpectedly falls - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQem9rM0Z1c01vVmt2Z1VrTE9kUGpxZWxaSk1iVjdYcS1qVXl5Rk9jTjU4XzVSUFV3MER4MkZlQnhDR0l5b1M1YlZ2aC1XRjR4aTBrTDNXNVFTS21VYl93M0lxYTdkWmExWUhGa0IyVG8ySWFqbGFVbVVBcEQxRmR1cDhRWnVIdDFZeU82THFiNUUyV3dKcHZEXy1WV2o?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T09:00:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Progressives jostle for nat sec jobs under Harris - POLITICO",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV19iSjBfOWg0bi1VZHo4MlFqd3ZrbTVEUFNhRXZXSFB6ZjBYTUVoVDJqcDVvclJ0Rl9ObkRhTThkUGNNNHpYZ2xpZ3FKOEYxY1hGTklza0dISWJiaUFrT3pKUHUwaExGQjJfc0RMSEVRNzRIQW1mZnpTUHV6NTRPV1dFS2gtWTVFRjRHTVhwaUU3MzQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "BBC.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T07:57:15Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Greece fires: Fresh evacuation alert in place as threat continues - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMDdEZUFvb3R5VnBxQ0hySm94RlhUc1E5dG54SGV6U0dfQlAtdGU5dmtWUUdiY3R2MlhrZ2VUR0V2ZExBakpuZGJjRnByZUFBWUZtTDBlZnZuQdIBX0FVX3lxTE53QjF1VzBMRDZETGo2YThmM3VkRFJYR3RIM2ZxQkFxWXhyblAtR0tXNTVBa0dRNVVqNnY1X1M0dExqNUVYaWgxeVZxLUJ3Tm9PMy01Z2JzSUJxVGJZQjZj?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T07:49:04Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "5 diagnosed with Legionnaires' disease in New Hampshire, health officials say - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN19yWHpwLU9UMzdDQzg4dUg1Rm9FLVhPb1hkX2U3Q0ZzTnRDVU1KN0pZN2hNY1VFSnFoMktKbUZEdDVzQ3lZTGF0M3Fqb1dzbU9iRzV0Qzh0Y2U2SFpkWTRKWlJVV2d2ekxmRVFiVDRRZkVIODRuSUx0eFQtZFRMb3JJdllkc2tGLXdQUER6ZkVrdWdsaDNpcjBDVzNLRXNQdzZEbFRwcVRDNmN40gGyAUFVX3lxTE9RaldlbHdYWVZjZmd4S21ua2tkUWtJRkstM05wOFBGdDdfMDJXN0pFZ1BlZmtaV0dhMzQ0WFpmaFpBN3FUa2V4VXRtZ3VDTE85dXc2bG9XQWtZNmpjUUdSaGJWNHZfWm05NnZtTXFpOUU0MFdQV3A3QUJNbm40QXVzN0dNS3Q4Wm1jYVIwY1dXc2FaTHluU0VrYmtjMXZWTkpfbnp6V3plVTJlR2I3cjdJS0E?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "BBC.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T07:38:42Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Ukraine claims to control 1,000 sq kms of Russian territory - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSzhaN0xOWU5FRlpJS2tkS01samVWcHR6RTRsZFNNUTQtSUlGWWNnUXZWZnJCVkI5UGRLb3NfdlQxaExDME55YVJ4bERxa2ZnT3ZiUE5sd0p2QdIBX0FVX3lxTE93cHFDa1FuUHAzRTRtanFSTGNpZ24yYlBuWnJUQXBzcDJwNmdPUjhpOWdGb2VPRm1tVXVDRzRoU09MR0VhTlhMZF9kVVdtenRTeTU3OXZaTGxPbWt6SGZR?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T06:56:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Teenager wearing a helmet and bulletproof vest randomly stabs 5 people at a cafe in Turkey - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzRfTm1HUFZjVVg1Ui1GWXhYcU1Sd3FuMkFvbVd6UW9fSWxlbEZNdGhMbG9QeTQ5XzhwQ24za041alJnMVhPb3g2U1Z2Qk42WFhRLUUzcVM5YkliWmkxcnF1cVVoYzhSbDF5SEl1bkZpMlVUQVdHRFZ4NC1BY1NQQkxhX1duVWVGU2FFQV9SNk5mN0hJOHF5SGk1ZTBPMmM?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Al Jazeera English",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T06:01:26Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Hidden ocean on Mars: Researchers suggest water could be 20km beneath the surface - Al Jazeera English",
+      "url": "https://news.google.com/rss/articles/CCAiC1dtRXR4NXFDSWpBmAEB?oc=5",
+      "urlToImage": null
+    },
+    {
       "author": "Reuters.com",
       "content": null,
       "description": null,
@@ -14,16 +131,29 @@
       "urlToImage": null
     },
     {
-      "author": "The Associated Press",
+      "author": "Variety",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-13T05:19:00Z",
+      "publishedAt": "2024-08-13T05:03:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Top Ukrainian commander says his forces now control almost 390 square miles of Russia's Kursk region - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQalY1TGszakhxU3NjYVJULWRiUnktU3d3ejdnM0dRR3lZY2V3VG1LV1hCTmdlZ3RHZ2txYzdWcmFCSzJheG92NFc0QmVPbmE2U2VDeTBMZ19ZY0pNVFI5Qlo1OFVySU4zbnc0aU5JeE1QaDlyNENhZmJpbmJkZjRtb1k0cmEzeXBjV09MNHFKN0tYbDBRUm1QOEJB?oc=5",
+      "title": "\u2018Alien: Romulus\u2019 First Reactions Highlight the Film\u2019s \u2018Glorious Gore\u2019 and \u2018Incredible Creature Design\u2019: \u2018Pays Perfect Homage to the Original\u2019 - Variety",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVFiTWZ3VWRNc0ItSUJOaTM3WFBiaWlxM0FYWVR4WWNhME1CUEUxRUVDQ0QwaGZFTmN4TjIyd0xGOEhNNkltQU9qbDM1bG9weWdWT2dCTGxRa2xINW5VN0NYU2x2clRkVVEwd2k1T2pqdXdBN01qMHVmM3MzVzZKZnhpLVY0bkF5eTFQYXFHSWh3YVNLazcwSmlsRk90QdIBowFBVV95cUxNMjYxMXhmbG1zbHl4R2NPd1paMXJDekpFRHpmbGtrV1FDUk5qMEhlQ09BemhzamI1N0d1UWw1VnRYYm56OXpHZ21VbEhsXzJlVm1tZzBJb082eGkxcml0NDlTV1Z2TTlra2pyT0pvdThETzIyMDY0UlZrTkQxMTZQTE5DRGZlN1NHSGNPamNQMDh3Y2hCRVQ0Nk04S2Y1S2c4THhR?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-13T04:19:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Israel and US brace for Iranian attack as diplomats push hard for Gaza ceasefire - CNN",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd25VREZTbnB5dkYtdGNOZEk5bXU5czFEXzhaajlETjdwSHU0LUZCSHF0TjZBRWd0cWstNUwyVUZGM053QzZZelhZV2l1QjU0bEZaZ1BfZVNQUjA1ZDE5NnJ1dnVSTVk5VDQ4aEh1TFh6MnlTSnFyRkUyRk15c2ZNOUlGMVVlU0dhczNYOFdBZENSUEhWdEVreG52cHc5NWfSAZYBQVVfeXFMUE9ocWdoWm9yRmhuRlVmTXFlbDFob2lOUlluakpRaVFGanpCRUxpWW5UNW1uMFdmTi1Jc1NZWXpaYjRnbEVDbGszVXhPWjk1VFZYZl9wRkpQeDBrSnZtQVRIMjhZdEtHSnlpWTdtR3U5VFN1NHJGcnRVa2tLRVQ0TUNMemNuTHRPOTZ6cy12REVxTE5idWxB?oc=5",
       "urlToImage": null
     },
     {
@@ -40,211 +170,81 @@
       "urlToImage": null
     },
     {
-      "author": "Reuters.com",
+      "author": "The Jerusalem Post",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-13T03:04:43Z",
+      "publishedAt": "2024-08-13T03:38:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Japanese shares lift Asian stocks ahead of US data barrage - Reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1icTQ4WDREbWdhSE9remZHZlRBdm5sc0J1b3h3TmQxYy1ieWhtbXNRcUVmamFPMDl3aVRqODBTSW55UkNrcHlmQVhkMGpIY2ZNM1JMWVlMUHFVN3NmSTJueGhMTjN1eWU3dGdhV1I3cUNnSmZSdEE?oc=5",
+      "title": "Violent altercations between IDF forces and Palestinians break out in Ramallah - report - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqb1ZSVlJBdEhJYUkxWS1sSldXX0U2Ylk0N2xLbHJFbFkxWW9TVFhsVEdjOHRYY3RKT21kcUV0RDBxMlNWWGV3NzJWWkppUXBXNF8zS2g2UU12ZERKQTNR?oc=5",
       "urlToImage": null
     },
     {
       "author": "The Washington Post",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-13T02:46:38Z",
+      "publishedAt": "2024-08-13T03:24:02Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Jarren Duran suspended two games by Red Sox for using homophobic slur - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEJmc2FfZGxxaFU3OFFxT29rZEVpNnpPUGpCRGgwZGVrT2VFWWR2MVdSelJudC1UZmdudFVNclFEYUpLSDJLbzRIRlEtMFFTZUVkR0kwOThpMnlkbHk4MWVlSU1NMXNNZVdGeUtkYi02VGZuSWZSVTluWDA0WUJvbHJKQ01DVi1FOThBX0tB?oc=5",
+      "title": "Analysis | Trump\u2019s laundry list of increasingly bizarre claims - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVcteW5FamFtYi1OcjVFMVZoUmNoRjNUcldxVFZickFDVW5nNWlDOHVfczRSczRudTlFaHUwMVlaMmhoMktRYnJ2TDNjTzBEeUVmQjItN0VCLUM5SVY4azhtMFhSSlJlNDROTm1RS0dwU3E5RHpMYkVOMFBaZEJidzBiRDFwaVdL?oc=5",
       "urlToImage": null
     },
     {
-      "author": "The Associated Press",
+      "author": "NDTV",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-13T02:36:00Z",
+      "publishedAt": "2024-08-13T03:14:46Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Former Colorado clerk Tina Peters, one-time hero to election deniers, convicted in computer breach - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p3cFQ2OEwzU3ZpSEI3bDU2ZDRheGZGOEpwelg0VkRsNkQtVVVmMlcxNmg1ejRTdVJCZWR2UkstS0d2bFhyS0dvUlBHNjBubjNoMm9zaThfd1RqTW1nYl9LeVhaLXRseXhmS2piUThYUzcyY0dBNlA4OXdXdTZWZDJWcE9aaXlvUmZGZjhGclQ0YVBzWlVDZS1IZ1Q?oc=5",
+      "title": "Cancer Cases And Deaths In Men Predicted To Increase By 93% By 2050, Says Study - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLU90MFA5MUR6a2wtQVZTR2FtcXp4TGM0Nm9LU1VMVU9PcWhWVDFtaDZVbG04YTJWQnZSLXY2U1JLVUVWc0x4Nzd6MHZzOEpMTlVEUUpUeGc3dTlmdGVUcGdscDBYU2FIbUNuNWZYNzNNbnlyM01MYmtiek5NbDFVYi1UQnR0ajlNdUh2ZTNySzdabUVlX01OZnM1cXRVX2VqZmkyYzRuZTdfMkIxbG40Wjh6Qy3SAbwBQVVfeXFMTkxBQk9VNFVWLVhyUnc4REh2aVNSbW1wRThxV0EteWJBdEt4ZjNkZmpESl9QT0Rfd20zQVhfUXFQRDVOdTI2M295a0x1U1hfQzVJdFFVZGE3MTFhcFpld3U3VDNQSGlRRk1kcnI4azRaUV9pZFkxcVFwYjN2dU5TVnJxYzI0dmIzc0p2elFKNHpyNjhYSmJkeGM2aWlVdm1HMm10N0NUalJLMzFtUXVQRkp5eVJaZmFZaDBIWm4?oc=5",
       "urlToImage": null
     },
     {
-      "author": "The Associated Press",
+      "author": "ScienceAlert",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-13T02:28:00Z",
+      "publishedAt": "2024-08-13T02:19:22Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Judge rules against RFK Jr. in fight to be on New York\u2019s ballot, says he is not a state resident - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnFzQXEyd25sWkJmVUdIanFzcE8yOWpSNTlSeFlTMnBKYmRNT2kwSHh1UUptWFpwZm9iWE0tLWVtMm9kREZ0bVZRYXpKRUtFUmR2QnpJaC0xNzNXUF9ZUGMtaXNBM0R4Y0xkZllNckJxcmp4VXNSMEhOU2RnMEo1cEpjRkREZ053UkhZSUVIYlhWN0hTY2tCeGFWVS1iQ0cxM1E?oc=5",
+      "title": "Northern Lights Predicted in California Following Severe Solar Storm - ScienceAlert",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUM3a0hNVmQxZTh2WGhSVkcydnhsVFpFS2N5Z2VDb0V6X1hNQ2xPb0pXd05CaF83S0xqTkQ4N3ZxWHRTR09PRzNwNlg1RnhEVGw4MVdYam9WY192TGJMSU01WG9SZWFOS2RPLVVsQ3hQeUh5dkZtSkZJYU40MXhsVGJKU1pPNjIxT2gtNHg3cWJicGxOeFRhT3ROYVoydw?oc=5",
       "urlToImage": null
     },
     {
-      "author": "The New York Times",
+      "author": "Hollywood Reporter",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-13T02:12:38Z",
+      "publishedAt": "2024-08-13T02:02:15Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Demolition Crew Tears Down Texas Church Where Gunman Killed 26 - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORzVBd1BPRS00VXZ4Z0hJTU45amtvNVpvdkNEWjRuVkhPOGVtUTNXb19rNTlTLWVXbHJPQUhFcEJkTnljWktvRXc4WXVhRklNM05mOXpsRU52VC0zcndZTF8yNXdkQnMtQWtaOFVZcTd4UUJKM0tEcFFnNnB6SF91RDhBZW1Bdw?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Variety",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-13T02:01:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "\u2018The Bachelor\u2019: Grant Ellis Named Season 29\u2019s Leading Man After Exit From Jenn Tran\u2019s Season - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkFqOE5aN0NoYkY0YWFmMUU3M051YV81bnRYV0l6U0tlWUhXOS01NWRjTEdyUHFkODh6M1RnMGtEazlDc09NODVDM2ZRclhnZTFSaHZtelhGVkVweF9QSmszOHFqMUNMak04cXdidGRfSlBYaHBfRUh1a1ZQRlh4WnVTT1ZQNHBpbkVr?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "BBC.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-13T01:43:09Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "FBI opens probe into attempts to hack Trump campaign - BBC.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BNXQwbXBwQ3lXRW9adzhGQ2E3Y1kweXJ2UGJEQUs2NzBTUjRGZTRobmdnSGMyNzdHcDh0dWxiYkdkNEFYb2FCRVJJazV1UkZBYTRGWlFVT0F2QdIBX0FVX3lxTE45RHR1OUg5M2dLLWF5SWpBSXJ5U3VfM2dmYUNTRkdGdU5BNkRYM0Q2aHBKU3VveF9iQ2h1bnNFZ2dudmlNWGFqWDB5LTh3ZUFFRURhSEszZ1RrLUVWVkcw?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-13T00:36:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Israel keeps up strikes in Gaza as fears of wider war grow - Reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDNKN1BuQkdsZUsyMVVEeEEza0ZwSGNrR2FFV1ROWmJxZjhzYlBjSGNSVnQwZTNtd2VnSWRoWWE3dkg5SUlqRGh5T0tYeGptb2x3UWpNMURTdlk5V3FBV1hMQ2VaMmF4bTNWY3MtYXlWVGk5SlZYbm1fdS03UEMwbjJXajdKblNGN0J2TFdhVGlQczlLMEJXUmpoSDYycEVwblN3ZlV3?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CBS News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-13T00:18:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "White House says potential Iran retaliation against Israel could come this week - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY2QwR0Q2N0VBWGVsN1pRTDMwTXRIbnZSZGZON19hR194NU5XQWJVSjJWdzFsRThydnZDalJybkRSVmlHOUY1cjF6eklybnVOVURBOGhBRUlKN09PVzZERnp3aFZ6QnRhT0ZJSy1DaDlMTTE2UjR5dUdGLS1WS012bFZ1TXBjX2dxTi1QZDhSTVA2RU9hX1ZFQW9Kd9IBoAFBVV95cUxOSnFtTzBZVzUxQUUyT2FHcnNTRlFidmRBdmxIRVhvREpQU3duZ1RfemxKcE9TN3k3Vy1VSDFRdTAzMktqWE1rbmFmMzdZS3RnZS1udWRPNmlSU1VfMVNHTUR3cG55V0dsVW5lMkJNdTNWR0pCTm15NWhpdDZ6bTkyYzkxTy1COFlrLVRCYmZWOTh6LUNBLXdMN1J1X3dId1Fn?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "USA TODAY",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-13T00:12:49Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Ex-Cornell student sentenced to 21 months for making antisemitic threats - USA TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMnJvNTFtQ1RRWTNFQy00UXpNdVdVTnNSVmc0aHI1eEJuREJ4RVR6Z1FqYVVqbEN3TEM5SFFnNE1PZ3ZCM3RPdFZfUWNka2JkNFlFWlVlandqUV9TQWk1b0RJUlZSUHJHNVpyVEVZVlpkdEkybmtHNDRJUWpmQjBvd2MxV01aMGQ1VjhBOFFQYXAtVkNwdnYtU1V0RzNfZmh4cHp3RGxIcU4tMzlxamp1RVBHd0hrY3Rx?oc=5",
+      "title": "ABC Names Second Black \u2018Bachelor\u2019 for Season 29 - Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjZ1XzN1YVZHYVBoS3BRVlV2TGlaTEpfbzRGM0pvQUxMWGNPcnZ5V2g3QnRCN25YMWF2VWhtakZFMnNnaFM5NkdDM1UtWWNNcUZ5WGRSMGJzWTExazE1QzUwXzNkTFdwRWNzclhMc3F0bmlxQ0ZFLVhUYWE2WGZibE1LYjVKZzVlSk5FWVpkeUlNZWFocVHSAZsBQVVfeXFMTVlKUWFhUzdKWVRLX25rdjRKbWJNaUR2dlhvWTdBQ0gtM2szVTRCblZWdjB2RlZad2JIeUp6NGFUNzFNODQ0NUc0RW5jSVAwTkFBcmZCT1JxaFUzQ2Rfamx6Uk9SdUNNbmtaTDhMZ0Z3NmxzNUNHeVhqUEVCRERVOE0tV3MtTWRvUUk3Q2R4Z3I3NFgyVHI0S3U1WkU?oc=5",
       "urlToImage": null
     },
     {
       "author": "Fox News",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-12T23:50:24Z",
+      "publishedAt": "2024-08-13T00:00:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Vince Vaughn makes rare appearance with kids at Hollywood Walk of Fame: 'Most important thing in the world' - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHNQWV9DMU9MVzFKQzdlZndpVU14TU8tMXMxREZJaDJhVkVfMVNQZGpDRFJSLUN5cThiNWxNUVc3Z1F3YlhGbVBMMC1Ba1htWmRzaExud0hjVk95RFV2SGJwTklqdEptWnpXSmRSOG9aZm45TjQxblg3a2Q5cEFKSG9HencyQjlXYVVhZUJFelk5aGtHanNjOFplTHZmcVpDU1R4SUhpRDRJR3JURVBoemVzWDMwSkdQQWREalNzM1psUdIBxwFBVV95cUxQQWpsQ21TTE1JcWVON2t1c3pRRWlJd0Z2UkU1ZXI1aS1STEJCcWlwX05FRE9QSnFnSGM2UnhmZnZ4a1RlZ1RmNlQ3RXFmMWhVWXpOendpdlM0a0R3aDlhcXpEOVotaFNGblMwbEtfMW9ucXIwdTJ4THdTUXF2anl6a2p4TUhPaEYzOG5PQV9DQkJDY2hmTmJpcW53N29FTDBqbVhGbVZ1N29NYU8zUHhzUFZsNXBYVjdUMTF4X0hlcEJUN1p3dHpV?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CBS News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-12T23:41:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Cancer deaths among men predicted to increase 93% by 2050, study finds - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTTBlXzRhSUYzMHE4SUFvRUJJSmg4dFkwY3pmZE9XZ2wyaFJaaEF5RWw0SDFiU2VWang1d2hDb0hYQWVYNEp3LWphc2RjOC1IX25XTzBIRGxxZlhjVnh6dDZBTGo4SjNsRmxlcE93WFhfdjNV0gF6QVVfeXFMTVlyZG9BSUEyQjF5dDB3b2E1aWEzemE4T0VCbTZVVzI3MGw4WmtQOEszTEtFUTV3bTlzRkROQmxwSGI5dk4tUTBSTkplMzdGdkRzNzJKLW5MblR1Mjc2eFhTWXRVYXpFNzRlSFlGMUdNQXVfY2RWaDJHdHc?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CNN",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-12T23:36:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Both Trump and Harris want to eliminate taxes on tips. This is how it could affect workers - CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZDZNb2ZkbXdtaUxDNGV2c0tjNXgxbDFpVHl5MGpxUmFBbXNfQzBLT1JSd2Y0cVZVWG5SajJKNTNucnIyb2d6V09tSWdDS0puR3QxUG9EZF95OExGS1FNZnYySTFzUDNjMldlYjVvRW1YSWVLbjBxT1RVT3pxWEXSAXZBVV95cUxOVi1vSzhMdTNyNUNOYkJQSnFDWERiNFZGcktESmxVUDhNaUFTVFoxcTVSYU9NOWU2Tjlac0huMHZaajJydnpWZGtOcDVzZ0pEa2pxUVlEWDdVRFZjai1WbXpUbi1ra3dBcWl5b1BMaTdFOFMzeTVn?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Sky News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-12T23:10:17Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Mars could have enough water stored underground to cover the planet's surface, scientists say - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkh3alFoak96ZWZVMzcxakJQQlBiUVNmOGNUblQ5Q2R5d016a3NiNFAzSEFtbEhaaDZDNzBwcWdzSHl0Uk02Y0hKNm5uWE9mNnVYbUNBd0ttUk9IRXM0RFBZWXd2Mm9JZXR0UHd0MWNrTkZ3N1BPX29sTlRmQkI2Y2hTUnBRWmhuVkRSRTNhSFhhMG51ZkpXWFBhRU5SU01LTHE1STRIM2NHN1dsaGVLZHZ1aWhHVVFId0tsXzMyVXRCVi1hVGfSAcsBQVVfeXFMTUE2ZzRNTDllNGZqTEtvTF9udEE1S2R0WGM3NkRDYzhyOG1aQjRtSGt0b0tBSGctOUw1c29pbkNQZm5URWMxcngxY3h0QTZnbENsemlzQ0QtMXpLOWpGWmpwTDNZY3JlN2k4ckVzR0NKTF9PWFUzWWNwb0FNWnJQWVBCWWFGbUQ4Z0RSZmMwbGVoSW9OZWh2TDFjRXhHWFpZdGl2aVBKbkNCZzIwbEhnQTVsRm1kTXQteXNLSG1kbF8xVkJRSU1MNnJ4aU0?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "MacRumors",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-12T23:07:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Apple Likely Won't Charge for Apple Intelligence Features Until At Least 2027 - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMlRBTUhqNzVscnN3RzBvOGRaV240eE9vZGxqS25QbU1BSUxQcEhIbDlEclE0N1dSbDY1aGlEY0k1VmZ4a3Ewc0x1b2NkdzU4SXBRUWc4SDhpMERDWFlQWU9DMVFCUjFCRERTWUdaUUplbHpx?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Daily Dot",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-12T23:00:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "\u2018I got it in mint\u2019: Young people are dumping Apple for the Galaxy Z Flip6. Should you? - The Daily Dot",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UbW1jUy1qWlFmaUt0NTVMbmJBVlZtaEl5VmV2b29ndXMyY0kzOWFYQUV1UXhMYUdWWTY4NU9pakJVaC15QThFZERxeVRfTlJla2UwU09vS0RqM1hPSVdDM3JyeVdYazhkbDhVNEtR0gFzQVVfeXFMTXhNQmxtYjlOZXF0NEhWZnNXbk1LS3Y1dG9MbVdrdkUxeXZCZ19mV1FsTGtKZno2bVRJUUh2VzRnYXlhVFNleElScVV3U0FHNVVTVWJBNDFDNWk5RTdCUEFxZHpvV1JKUmpZZVNESHVCb25ZYw?oc=5",
+      "title": "Newsweek headline rewrites Trump's pledge to eliminate taxes on tips as 'Kamala Harris' tax proposal' - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjRoY2dMRVFQTFJ4Y0hFNndyMm5nVHBxYkVnNk9QZDFvQnp2VkhMZmo0S1VwajdVTUhPT3NJT0tPWlhZY05mRXEzNUlsRi1VaHViZFRYUlhEdDZoWXlPVExyVXdabzNGNDZCTTIxZTJ2Z1BRMGxxV3BWMzhrZzEtTmpEZU1EZDE0a05TeFk4dzlKUW5oSkE0dVJTendWY2Rkdm41dExtNVlETGFYQjZZc0xtOHZOQ2JBdEHSAb8BQVVfeXFMT0FTY3F1NDVwcTEyYk5NajRPM2xZZXR1S2EzcTdJc1N0U1ozbE5RVTdNa2lfdzlKN3E0QzNiY2JtcjRQN20wMWdWWXBudVBtZzZ1bDMxbThKUG54TzV4WWNEVG42bUNDNTcyZ2pSVnRVdUNTYlRlc2hGZ3RDSExXRDRTRVJxOUNhclRTb0pQcXJaTktmVnZtaTNhTTlySnJJNXBHUGpBQzg1dWIyVlpOLThfNURnR0ZuQzZLWnFwWVk?oc=5",
       "urlToImage": null
     },
     {
