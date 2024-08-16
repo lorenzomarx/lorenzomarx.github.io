@@ -1,20 +1,36 @@
 {
   "articles": [
     {
+      "author": "JULIA FRANKEL and WAFAA SHURAFA",
+      "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 Tiers of graves are stacked deep underground in a bloated Gaza cemetery, where Sa\u2019di Baraka spends his days hacking at the earth, making room for more dead.",
+      "publishedAt": "2024-08-15T10:43:28Z",
+      "title": "As Gaza death toll passes 40,000, corpses are buried in yards, streets, tiered graves",
+      "url": "https://apnews.com/988d16b648e06e222f04964dc9440da0",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7324a26694034ed099568ad064fc0055/3000.jpeg"
+    },
+    {
+      "author": "The Associated Press",
+      "description": "More than 40,000 Palestinians have been killed in the Israel-Hamas war in Gaza, which is now in its 11th month, the territory\u2019s Health Ministry said Thursday. This photo gallery highlights images of Palestinians as they mourn their loved ones, as captured by Associated Press photographer Fatima Shbair throughout the war in Gaza.",
+      "publishedAt": "2024-08-15T10:32:58Z",
+      "title": "AP Photos: Gaza In Mourning",
+      "url": "https://apnews.com/8e79e824c75698414537b52af374c414",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7d3ac681bec449dd957ed9109bd8ab2f/3000.jpeg"
+    },
+    {
+      "author": "ABBY SEWELL and TIA GOLDENBERG",
+      "description": "DOHA, Qatar (AP) \u2014 International mediators were set to hold a new round of talks Thursday aimed at halting the Israel-Hamas war and securing the release of scores of hostages, with a potential deal seen as the best hope of heading off an even larger regional conflict.",
+      "publishedAt": "2024-08-15T06:28:38Z",
+      "title": "Mediators are set to hold new Gaza cease-fire talks, hoping to head off an even wider war",
+      "url": "https://apnews.com/a6a5b35859e1d1d1511729b40a71f837",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9c293078e8684ea19cd54c5b3e66ee3a/3000.jpeg"
+    },
+    {
       "author": "SAMYA KULLAB",
       "description": "KYIV, Ukraine (AP) \u2014 Ukraine's stunning incursion into Russia\u2019s Kursk border region was a bold gamble for the country's military commanders, who committed their limited resources to a risky assault on a nuclear-armed enemy with no assurance of success.",
       "publishedAt": "2024-08-15T04:28:16Z",
       "title": "Ukraine gambled on an incursion deep into Russian territory. The bold move changed the battlefield",
       "url": "https://apnews.com/e862afd58c65d6d2d5b7b3747423ca4d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/201c13d7acd4487ca564533067f498e5/3000.jpeg"
-    },
-    {
-      "author": "ABBY SEWELL",
-      "description": "DOHA, Qatar (AP) \u2014 A top Hamas official said the Palestinian militant group is losing faith in the United States\u2019 ability to mediate a cease-fire in Gaza ahead of a new round of talks scheduled for this week amid mounting pressure to bring an end to the 10-month-old war with Israel.",
-      "publishedAt": "2024-08-14T15:44:47Z",
-      "title": "A top Hamas official says the group is losing faith in the US as a mediator in Gaza cease-fire talks",
-      "url": "https://apnews.com/8509c5e68d57c96af99653c8292180b2",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/078bd9aec3634dddaad0d99cc78e02a9/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/dbcbe15c55874093ab3d9b8eade2e736/3000.jpeg"
     },
     {
       "author": null,
@@ -26,11 +42,27 @@
     },
     {
       "author": "LINLEY SANDERS",
-      "description": "WASHINGTON (AP) \u2014 As the Democratic National Convention approaches, a recent poll from The Associated Press-NORC Center for Public Affairs Research finds that Democrats have slightly higher trust in Vice President Kamala Harris' ability to address the issue of climate change than President Joe Biden.",
+      "description": "WASHINGTON (AP) \u2014 As the Democratic National Convention approaches, a poll from The Associated Press-NORC Center for Public Affairs Research finds that Democrats have slightly higher trust in Vice President Kamala Harris' ability to address the issue of climate change than President Joe Biden.",
       "publishedAt": "2024-08-15T04:01:47Z",
-      "title": "Democrats trust Harris slightly more than Biden on climate change, AP-NORC poll finds",
+      "title": "Democrats trust Harris slightly more than Biden on climate change, an AP-NORC poll finds",
       "url": "https://apnews.com/affebfcfe34d3f5e38c37bf597f10953",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9fa9d129895c411bb25f304046b30d81/3000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/eba26ab93ad741bf9336a0bd25899555/3000.jpeg"
+    },
+    {
+      "author": "AMANDA SEITZ and ZEKE MILLER",
+      "description": "WASHINGTON (AP) \u2014 The Biden administration is taking a victory lap after federal officials inked deals with drug companies to lower the price for 10 of Medicare\u2019s most popular and costliest drugs, but shared few immediate details about the new price older Americans will pay when they fill those prescriptions.",
+      "publishedAt": "2024-08-15T09:04:28Z",
+      "title": "White House says deals struck to cut prices of popular Medicare drugs that cost $50 billion yearly",
+      "url": "https://apnews.com/34886d6f362c242be268c05d5efd5411",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1cdc4794d4294c6a80bd17dd1a534b2f/3000.jpeg"
+    },
+    {
+      "author": "D\u00c1NICA COTO",
+      "description": "TOA BAJA, Puerto Rico (AP) \u2014 Hurricane Ernesto dropped torrential rain on Puerto Rico and knocked out power for nearly half of all customers in the U.S.",
+      "publishedAt": "2024-08-14T10:42:25Z",
+      "title": "Hurricane Ernesto drops torrential rain on Puerto Rico as it strengthens heading toward Bermuda",
+      "url": "https://apnews.com/cb633e600fad24430d3d540f8a522974",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f201728f2835470e8ed64de0d82d0055/1920.jpeg"
     },
     {
       "author": "MICHAEL R. SISAK and PHILIP MARCELO",
@@ -41,44 +73,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/4ab29cefbdb041ad99435bf1d4ecfadd/3000.jpeg"
     },
     {
-      "author": "RIAZAT BUTT",
-      "description": "KABUL, Afghanistan (AP) \u2014 The Taliban have deliberately deprived 1.4 million Afghan girls of schooling through bans, a U.N.",
-      "publishedAt": "2024-08-15T04:56:17Z",
-      "title": "Taliban have deliberately deprived 1.4 million Afghan girls of schooling through bans, says UNESCO",
-      "url": "https://apnews.com/da2c1ec7b1b5e27c6bcf34052553860b",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3f7bf00093bb4a2081daabfc00ff8206/3000.jpeg"
-    },
-    {
-      "author": "FRANKLIN BRICE\u00d1O, ASTRID SU\u00c1REZ and NAYARA BATSCHKE",
-      "description": "LIMA, Peru (AP) \u2014 President Nicol\u00e1s Maduro's contested claim of victory in last month's election not only threw Venezuela into uncertainty but also spread anxiety from neighboring Colombia to faraway Chile as the region braced for a new migration surge.",
-      "publishedAt": "2024-08-15T04:04:11Z",
-      "title": "As fallout surges from Venezuela's election crisis, the region fears another mass exodus",
-      "url": "https://apnews.com/4f922c50fae4bd0c1ca97e0735194c2f",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/8a52d7482f3441a1bd0802fc1e83251f/1920.jpeg"
-    },
-    {
-      "author": "D\u00c1NICA COTO",
-      "description": "TOA BAJA, Puerto Rico (AP) \u2014 Hurricane Ernesto dropped torrential rain on Puerto Rico and knocked out power for nearly half of all customers in the U.S.",
-      "publishedAt": "2024-08-14T10:42:25Z",
-      "title": "Hurricane Ernesto drops torrential rain on Puerto Rico while pummeling northeast Caribbean",
-      "url": "https://apnews.com/cb633e600fad24430d3d540f8a522974",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2dd825083c244425a6e076b773ae5e36/1920.jpeg"
-    },
-    {
-      "author": "SEJAL GOVINDARAO",
-      "description": "PHOENIX (AP) \u2014 An informational pamphlet for Arizona voters, who will decide in the fall whether to guarantee a constitutional right to an abortion, can refer to an embryo or fetus as an \u201cunborn human being,\u201d the state\u2019s highest court ruled Wednesday.",
-      "publishedAt": "2024-08-14T19:46:57Z",
-      "title": "Ruling: Fetus can be referred to as 'unborn human being' in Arizona abortion measure voter pamphlet",
-      "url": "https://apnews.com/b0ea37c92692533da109fd74a07b25f7",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/78fcc690ff5f485580afe4507c62a8c6/3000.jpeg"
-    },
-    {
-      "author": "MARIA CHENG",
-      "description": "LONDON (AP) \u2014 The World Health Organization declared the mpox outbreaks in Congo and elsewhere in Africa a global emergency on Wednesday, with cases confirmed among children and adults in more than a dozen countries and a new form of the virus spreading.",
-      "publishedAt": "2024-08-14T17:30:34Z",
-      "title": "WHO declares mpox outbreaks in Africa a global health emergency as a new form of the virus spreads",
-      "url": "https://apnews.com/cc9bdf31b49d06bec5efd44fb55d5e42",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6fbd0ba40dcb4650b5f23979fd2dbca2/3000.jpeg"
+      "author": "JOCELYN GECKER, BIANCA V\u00c1ZQUEZ TONESS and SHARON LURYE",
+      "description": "MEDFORD, Mass. (AP) \u2014 Flerentin \u201cFlex\u201d Jean-Baptiste missed so much school he had to repeat his freshman year at Medford High outside Boston. At school, \u201cyou do the same thing every day,\u201d said Jean-Baptiste, who was absent 30 days his first year.",
+      "publishedAt": "2024-08-15T04:05:31Z",
+      "title": "Millions of kids are still skipping school. Could the answer be recess \u2014 and a little cash?",
+      "url": "https://apnews.com/270f6d07041760e90bf84d9f4108aa4d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/289bc050ef8b4480b3e74ecad409e904/3000.jpeg"
     }
   ],
   "sortBy": "top",

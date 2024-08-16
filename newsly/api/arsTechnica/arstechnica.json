@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "High prices on an already-expensive AM5 platform make them a hard sell, though.",
+      "publishedAt": "2024-08-15T11:00:34+00:00",
+      "title": "AMD Ryzen 9000 review: Impressive efficiency, with bugs and so-so speed boosts",
+      "url": "https://arstechnica.com/gadgets/2024/08/amd-ryzen-9000-review-impressive-efficiency-with-bugs-and-so-so-speed-boosts/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_2107-760x380.jpeg"
+    },
+    {
+      "author": "Andy Greenberg, wired.com",
+      "description": "If you've got a Shimano Di2 groupset, be sure to update its firmware.",
+      "publishedAt": "2024-08-15T11:00:09+00:00",
+      "title": "Researchers hack electronic shifters with a few hundred dollars of hardware",
+      "url": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/cyclist-760x380.jpg"
+    },
+    {
       "author": "Benj Edwards",
       "description": "With Grok's new AI image generator, X users put Musk's \"freedom of speech\" to the test.",
       "publishedAt": "2024-08-14T22:22:14+00:00",
@@ -33,12 +49,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1469487697-760x380.jpg"
     },
     {
-      "author": "Scharon Harding",
+      "author": null,
       "description": "Customers uncertain as app remains downloadable after company's Chapter 7 filing.",
       "publishedAt": "2024-08-14T20:54:38+00:00",
       "title": "Redbox app axed, dashing people\u2019s hopes of keeping purchased content",
-      "url": "https://arstechnica.com/gadgets/2024/08/redbox-app-starts-going-away-removing-purchased-content-from-owners/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-57460265-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2043269",
+      "urlToImage": null
     },
     {
       "author": "Stephen Clark",
@@ -63,22 +79,6 @@
       "title": "Disney fighting restaurant death suit with Disney+ terms \u201cabsurd,\u201d lawyer says",
       "url": "https://arstechnica.com/tech-policy/2024/08/disney-fighting-restaurant-death-suit-with-disney-terms-absurd-lawyer-says/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1394096299-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "The stone's chemical fingerprint closely matches old red sandstone from Orkney region.",
-      "publishedAt": "2024-08-14T19:45:26+00:00",
-      "title": "Scientists solved mysterious origin of Stonehenge\u2019s Altar Stone: Scotland",
-      "url": "https://arstechnica.com/science/2024/08/study-stonehenges-central-altar-stone-actually-hails-from-scotland/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/altar1-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Every 10 million years, lungfish have added a human genome's worth of junk DNA.",
-      "publishedAt": "2024-08-14T19:29:52+00:00",
-      "title": "The fish with the genome 30 times larger than ours gets sequenced",
-      "url": "https://arstechnica.com/science/2024/08/the-fish-with-the-genome-30-times-larger-than-ours-gets-sequenced/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-824574880-760x380.jpg"
     }
   ],
   "sortBy": "top",
