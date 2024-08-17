@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "If the prices were set in 2023, Medicare would have saved $6 billion.",
+      "publishedAt": "2024-08-15T21:40:06+00:00",
+      "title": "Medicare drug price negotiations: 10 list prices drop between 38% to 79%",
+      "url": "https://arstechnica.com/science/2024/08/big-name-drugs-see-price-drops-in-first-round-of-medicare-negotiations/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2163305420-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "It controls and looks great, though the game was outshined by its sequels.",
+      "publishedAt": "2024-08-15T21:15:42+00:00",
+      "title": "Behold, Diablo is fully playable in your browser",
+      "url": "https://arstechnica.com/gaming/2024/08/behold-diablo-is-fully-playable-in-your-browser/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Diablo-dungeon-760x380.png"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "It's \"actually a real company in the Boston area\"\u2014or is that just a cover?!",
+      "publishedAt": "2024-08-15T20:55:08+00:00",
+      "title": "Mysterious \u201cBlack Mesa\u201d website says it\u2019s \u201cnot secretly working on Half Life 3\u201d",
+      "url": "https://arstechnica.com/gaming/2024/08/mysterious-black-mesa-website-says-its-not-secretly-working-on-half-life-3/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/blackmesa-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Carriers allege Starlink/T-Mobile will interfere with existing mobile networks.",
+      "publishedAt": "2024-08-15T20:23:22+00:00",
+      "title": "AT&T and Verizon ask FCC to throw a wrench into Starlink\u2019s mobile plan",
+      "url": "https://arstechnica.com/tech-policy/2024/08/att-and-verizon-ask-fcc-to-throw-a-wrench-into-starlinks-mobile-plan/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/t-mobile-spacex-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Limited in size and power, Kei cars are like fishes out of water on US roads.",
+      "publishedAt": "2024-08-15T19:36:02+00:00",
+      "title": "A cute, cheap deathtrap? Japanese Kei cars banned by yet another US state",
+      "url": "https://arstechnica.com/cars/2024/08/states-keep-banning-cheap-little-kei-cars-for-fear-theyre-deathtraps/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/no-kei-cars-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Another Big Tech firm seems to confirm Trump adviser Roger Stone was hacked.",
+      "publishedAt": "2024-08-15T18:26:50+00:00",
+      "title": "Google\u2019s threat team confirms Iran targeting Trump, Biden, and Harris campaigns",
+      "url": "https://arstechnica.com/security/2024/08/googles-threat-team-confirms-iran-targeting-trump-biden-and-harris-campaigns/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2161918622-Large-760x380.jpeg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Analysis of ruthenium isotopes showed the impactor was a carbonaceous-type asteroid.",
+      "publishedAt": "2024-08-15T18:00:57+00:00",
+      "title": "An asteroid wiped out the dinosaurs, not a comet, new study finds",
+      "url": "https://arstechnica.com/science/2024/08/scientists-conclude-chicxulub-impactor-was-an-asteroid-from-beyond-jupiter/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/asteroid1-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "\"This forces us to build a new economy in severe conditions.\"",
       "publishedAt": "2024-08-15T17:52:21+00:00",
@@ -23,62 +79,6 @@
       "title": "New Zealand official signs extradition order to send Kim Dotcom to US",
       "url": "https://arstechnica.com/tech-policy/2024/08/kim-dotcom-plans-more-appeals-after-losing-yet-another-extradition-ruling/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/kim-dotcom-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Sonos execs considering bringing back the old app, report claims.",
-      "publishedAt": "2024-08-15T16:08:54+00:00",
-      "title": "Sonos laying off 100 people amid expensive app problems",
-      "url": "https://arstechnica.com/gadgets/2024/08/sonos-laying-off-100-people-amid-expensive-app-problems/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/sonos_app-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "They will also offer the architecture to other tier 1s and OEMs.",
-      "publishedAt": "2024-08-15T14:01:20+00:00",
-      "title": "Intel and Karma partner to develop software-defined car architecture",
-      "url": "https://arstechnica.com/cars/2024/08/intel-and-karma-partner-to-develop-software-defined-car-architecture/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/KPKI010-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"We don\u2019t have enough insight and data to make some sort of simple black-and-white calculation.\"",
-      "publishedAt": "2024-08-15T13:20:56+00:00",
-      "title": "NASA acknowledges it cannot quantify risk of Starliner propulsion issues",
-      "url": "https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/starliner_omacs-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "High prices on an already-expensive AM5 platform make them a hard sell, though.",
-      "publishedAt": "2024-08-15T11:00:34+00:00",
-      "title": "AMD Ryzen 9000 review: Impressive efficiency, with bugs and so-so speed boosts",
-      "url": "https://arstechnica.com/gadgets/2024/08/amd-ryzen-9000-review-impressive-efficiency-with-bugs-and-so-so-speed-boosts/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_2107-760x380.jpeg"
-    },
-    {
-      "author": "Andy Greenberg, wired.com",
-      "description": "If you've got a Shimano Di2 groupset, be sure to update its firmware.",
-      "publishedAt": "2024-08-15T11:00:09+00:00",
-      "title": "Researchers hack electronic shifters with a few hundred dollars of hardware",
-      "url": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/cyclist-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "With Grok's new AI image generator, X users put Musk's \"freedom of speech\" to the test.",
-      "publishedAt": "2024-08-14T22:22:14+00:00",
-      "title": "Musk\u2019s new Grok upgrade allows X users to create largely uncensored AI images",
-      "url": "https://arstechnica.com/information-technology/2024/08/musks-new-grok-upgrade-allows-x-users-to-create-largely-uncensored-ai-images/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/trump_catgirls_1-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The declaration is \"the highest level of alarm under international health law.\"",
-      "publishedAt": "2024-08-14T21:36:27+00:00",
-      "title": "Mpox outbreak is an international health emergency, WHO declares",
-      "url": "https://arstechnica.com/science/2024/08/mpox-outbreak-is-an-international-health-emergency-who-declares/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-151054421-e1653346027144-760x380.jpeg"
     }
   ],
   "sortBy": "top",
