@@ -1,12 +1,20 @@
 {
   "articles": [
     {
-      "author": "Beth Mole",
+      "author": "Stephen Clark",
+      "description": "The first missions of Stoke Space's reusable Nova rocket will fly in expendable mode.",
+      "publishedAt": "2024-08-16T11:00:13+00:00",
+      "title": "Rocket Report: ULA is losing engineers; SpaceX is launching every two days",
+      "url": "https://arstechnica.com/space/2024/08/rocket-report-faa-seeks-answers-from-spacex-falcon-9-is-back-in-a-big-way/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GVCfiWiaEAAYkJ9-760x380.jpeg"
+    },
+    {
+      "author": null,
       "description": "If the prices were set in 2023, Medicare would have saved $6 billion.",
       "publishedAt": "2024-08-15T21:40:06+00:00",
       "title": "Medicare drug price negotiations: 10 list prices drop between 38% to 79%",
-      "url": "https://arstechnica.com/science/2024/08/big-name-drugs-see-price-drops-in-first-round-of-medicare-negotiations/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2163305420-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2043687",
+      "urlToImage": null
     },
     {
       "author": "Samuel Axon",
@@ -71,14 +79,6 @@
       "title": "New Geekbench AI benchmark can test the performance of CPUs, GPUs, and NPUs",
       "url": "https://arstechnica.com/gadgets/2024/08/geekbench-ml-becomes-geekbench-ai-a-cross-platform-performance-test-for-npus-and-more/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Geekbench-AI-Banner-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "12 years after Megaupload shutdown, Dotcom will keep fighting extradition to US.",
-      "publishedAt": "2024-08-15T16:38:07+00:00",
-      "title": "New Zealand official signs extradition order to send Kim Dotcom to US",
-      "url": "https://arstechnica.com/tech-policy/2024/08/kim-dotcom-plans-more-appeals-after-losing-yet-another-extradition-ruling/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/kim-dotcom-760x380.jpg"
     }
   ],
   "sortBy": "top",
