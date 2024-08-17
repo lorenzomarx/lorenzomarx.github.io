@@ -1,49 +1,114 @@
 {
   "articles": [
     {
-      "author": "The Guardian",
+      "author": "CNN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T12:09:00Z",
+      "publishedAt": "2024-08-16T16:36:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Rarely seen deep-sea fish washes up in California \u2013 video - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0tfOS13YkpDVWhOTVNqZkFod3RhUHlZSUtXbDltSDI2WE1tWnFqQU1ZWVJKbkhzbjV0WVh3NGt4bUdkVnFKb25RSVg0SzVaUWRWZmVaOEdRSW5YT1lXMXk3X2VzdzRQMFBSZ1N0LUtKUHBzbmhvd3NoTTVEbjc3MGc5dG80Q3kxUUdCeEpZaF82S3NrOHJrb1piWlhVcUdxQmwtc2pIclEzdVFkeEE?oc=5",
+      "title": "Trump says civilian award is \u2018much better\u2019 than Medal of Honor - CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRS1KUER2Q3VCV0k1NF9VYXdiZmVTV1VPN3pVNDladUVBbmlyUURmVlo1RTJoN0NMY2dqeTAwYURNRUR2SGxLbU9ydm5GVlBHbFJZZXR3ZF9vR21oWWY4dzVFMmJwdEV1QUExMm9hbzVoZjRweWVPTHhHWdIBckFVX3lxTFA2ZWFsdXJBS2xCbWFkenBDYVhYVzR6LWNMYzZFQmJmZ3F0b0J5Tmo0WHp2YWVlUjFYTWdCekowZWZrQUdWQWVWem5Dek9YMWZBVEFMRXhJY0FLRkpweHZnUXVEeVJfaDNTQ0gxZ1Z1SmkzQQ?oc=5",
       "urlToImage": null
     },
     {
-      "author": "USA TODAY",
+      "author": "Financial Times",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T12:01:43Z",
+      "publishedAt": "2024-08-16T16:25:01Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Parvovirus B19 increasing in US, CDC warns. How to prevent it, recognize symptoms. - USA TODAY",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDR2T2NiY0xNUXl2NE1kM25RYWdHS01LQnctNDRTWmZZSlRmbDF3Ui1Id2x2UGhwMWxjVUtMd1hxZ0RiU0ppdkZaOFBwMmZkOTFmVUp4aWpKRmNINkFlZEZZTUxTaWR6aUIzQkJ0czhPSS05T1p6WmwtT1hVTm5nd255M3hDYUJ3S29YZDNySnVhSC1GY2pvSXlFak4?oc=5",
+      "title": "Kamala Harris plans tax breaks for families to ease cost of living crisis - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSkVXVXB1aDAwek9WRjd1RnV0OTZhcjBOb3M2WmF4Z0xQRzRQYWdDbVZzUEp4YlRNSWpnOU8ya3J6YkF1N0Rwd1c1MHgxaEJLWXZGT3hjd3daNlBFQlNrZ0VZbTMxZmllNjlaNGZ5czU?oc=5",
       "urlToImage": null
     },
     {
-      "author": "CBS Sports",
+      "author": "CNBC",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T12:00:00Z",
+      "publishedAt": "2024-08-16T16:00:01Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "NBA schedule 2024-25: 10 must-see games this season, including Knicks at Celtics and Lakers at Warriors - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN0dmSmtQQ0owV0NXR3MwaG1fRzBGS2swWEgzWHR6Ny12dTg5SC10NDVtZjZRN2l2TWhaMnF3OTFhU2gySnVyWHczTXFjc3Y4dEU3TzdYY25hVERPTEtfUmZ1dzBwV2kyMnYyaEZsMW9Tc3EzVnljdHNmX0NFbkQ0NGRhR3J3cm10LWpnNkNZQ1JxaHp6V2ZORmhuVXNMMW5MdkY3SWlRb0M5Ni1QdGNKbkdwRDdKYkFPNDdTbDBueVczRVhfTnVmNllEZWVlSW9tV0VZ?oc=5",
+      "title": "Cadillac reveals new 'Opulent Velocity' performance EV concept - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmlNR2MybUZVS2loWVo2cGxIQko5akx4OTQ1SlNEQnNDRmpHVUlQN2FuXy1NME1zeXlqazhOLVJhdUVpQk92a2tWZjRvTExyanhwZ1lWU29FUzhVdl9iNXVsLWlEOFVDaC12Ylk3WWM0bGVzSE5Hamp0SVQ3TG9LZWtRS3NzYW51b0ZSVllOakVScVlQeFVfUWd3R3ppbEhK0gGmAUFVX3lxTFBLNEVIWHBGbnVZZzE2aEVxMWdrWnBUTzJneVRpWlFiNEtTLUFwY3RPV2xCaWNkcW8zMksxeWxRdEgyVzBDcjdDUmZfUjlNdU9waTBVVmRNQ1BYOFNzVzJQR2UtOGdBdERmWTdZYUN1aGRzbVJQd1VhS2w0dFZFbzdvS3F6Y29za29NeHl2SnIzNTdmQVpjcXNLb2c1Zy1IanZyLTlqLXc?oc=5",
       "urlToImage": null
     },
     {
       "author": "CNN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T11:53:00Z",
+      "publishedAt": "2024-08-16T15:54:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Dinosaur-killing asteroid was likely a giant mudball, study says - CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWVuX3NQSHRGM3lOUEY5cUxQZXBQcFg0WHJWNi1CMXMzT1dWWXRlRmZpWFZ1X2dmRVpmZGF0T2tUR1dNRmtSSXMtb1h3T3lxSnNEdU1KYTd5aTVmcFVmNndudnY4SUt0SUI5WUthM3ZJcm9mSEJMRllYRmRUemNrRG1xZHlod1pCVUZwMkZ0Qi1UZnE0dy1CWFRRONIBkgFBVV95cUxQRXR5VjJFUnMtSE1ZVUdMdmZtM0JrZVlXWnNHSWdUcXAzRk5fSmhLREpwSWVfdUdUdktHc2xzYWFEakdhd1NyQnpSQncta0RZbGdfVkZNd3NJN3NRSjJsUl9xLXZtYUYxaFhSeHpmSl9NV2dubTNiamtadmloVEhSY3p4dVFDM3d0WnB6cHdFMzlRUQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "NBC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-16T15:45:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Woman charged in alleged scheme to steal Graceland, extort Elvis Presley family - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNei00TFl2Ml81VE1HUk5CU211M3dkOXJMbkhqd1FjLUh6ZnlPQ1JBdldqNVJ5YWlHSHJ0OThwYV9pRHA2RHkyRVhuelF4TUFja0JlRWsxV0hBS2k0UkJoaEJ5c1l5WVJ0dzl0aXQ0OTVuQ1dmT1NmRmg1WmhtODdkZXhPMVBjak1UQ3FjRzZPbWhsemd3ZzFuTGhLWmJpNXJfN1lGT0laTFdmdjEwS1FqVVl2RFpQRGlRa0HSAVZBVV95cUxQOGkwUUhGUkxDdVl4S0RZRy12WHo4WktPT2JJMGxrRDYxOVpObkgzX2RGRjY1LUJMWDF2bFlDa0syelVqTkktYVhURlJlaDdqRzhkX2x1QQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-16T15:15:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "High-stakes Gaza ceasefire talks have ended. Here\u2019s what to know - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGZvUWtRRVJwemx2alFqM1dUQ1dUTmxvYTJ5WExpb2pIRE04aWlKdk9pTzFuUmRuVVFuUE5oMDdmM2dvbnE4MGVIRmZZN3RTQnlKTXhnMkxoWmg1MnBGQzQ3WUdMNkRyOHdGTEliQXUxVzhJUUlHOFRRbllUdWh6OUVocTVpYkZDcEFCRFJidDhTNGlhSnA5N1NCT09XVHRXWVE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The New York Times",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-16T15:09:22Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Trump Names Friends and Major Donors to Oversee Transition Team - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkxDUFVGRDhLTDRXVzl4M3RoMUR5blRoaXczcEJjUEY5R0hyOWQ4eHk0Mm9pQ1c1VmR5Q0taWi04UGRfWjV0dENsNmVVeVVyRFZlaGdvendVQkpDbloxM1FsVldZNEZCNGkyV3k4S3JPLWtzX0FQcGtZUE84U1RCQ1MtRDk1aFh3WGpQODNuNk4wQXUzeXZ6NmN3?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "ESPN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-16T15:00:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "'It's the old Izzy, but also old Izzy': A motivated Israel Adesanya is back - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFNLMlFNd2RDdDNNVlBPRzdsZkpNWDZNaG9jWUtRZUxNdE9uZVI1b1dTY0pCaEMxaEptUnNVTXhoQ19VblBkS25DUVlYdWJVMGJ2TEZ6eWVpS1pxV29pTzRrTEdpeW5CcGx5OGtQZ2hkSWsxUzY2NWphX0hkZ1Q1TnlOYUFQLUFvaFg4Ylh4bXV4WGJueUxnelZPYXNxcUlVQldqcVpiVDJEMGF0ajZmbDlqSnVETzR2RWRj?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-16T14:49:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
@@ -53,211 +118,146 @@
       "urlToImage": null
     },
     {
-      "author": "NFL.com",
+      "author": "Deadline",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T11:26:00Z",
+      "publishedAt": "2024-08-16T14:42:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Jerod Mayo on Judon trade: Patriots have 'gone years without having a premier rusher' in the past - NFL.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjYxbEtmVDRUWWNpal9hVW5tRlh1Um1HOXFMaHRpR0Z0TS13M3ptb3BhTG1FS29CVGhBQ3pCRk8waVVsa1VReDIxRksxYnNfM1VZb3d5MHhRdHpGbl9QcDNvdmYyWTZIU21oWE10S1BMWmFfQXR1bWx5QnA3VThkY2IwdFUxX2M0LTVDRUpmSzVTU1ZyeUplemJXRExTNHVOVEF0eFFWZ0cwOXYxelpicUtOaUNDNnNkWG5F?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Verge",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-16T11:06:42Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Fortnite is back on the iPhone \u2014 with a whole app store in tow - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmJTWThaZmdkQ0pBSVZrQTBISld0TVlLSWY3OGtWRlgyWVlYLW85NVYySU1kQ1lnVjA3RHJndVBrVFJ5bE0xYXdDTWlpdWRvd2FVbTFmVnUyZGxxWml0dWNaWlJEMDB0MmM2MS1vVHNYTDJPM2kwV2xCX19NRXdCcnV0emdPdGs?oc=5",
+      "title": "\u2018Alien: Romulus\u2019 Devours $6.5M In Thursday Previews \u2013 Box Office - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uWTE2M1hyOGxvNUJ0OGRIQjZIbllkajR2djZtdTF3TThNMmRXbjhnNWlTZm90WUdYTTl2elYzNXhkTFVmMy1xY3pMZVAweTN0TG5JSGZNTkZaZzBtanUxYktXR0VENW1UbjJiRVZWcUNRZE0?oc=5",
       "urlToImage": null
     },
     {
       "author": "New York Post ",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T11:01:00Z",
+      "publishedAt": "2024-08-16T14:42:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "\u2018Ketamine Queen\u2019 charged in Matthew Perry\u2019s overdose death is a Mafia superfan - New York Post ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmZKeHlCYlIzdlBfYWw5SHhxeXNpVUw5clpKZGJsRlVSdG5nM3ZsaDc5NUI0Vmp1cEItRFRNMFJMSUVEOFJxYkF1RlRoUUt0SEtzeDZ1TEVVeTFHWmhqdE9aSlZjN3JPajA3V2YyZHZhZmgyazhrYUxDU3BNNndXdEctYmNOX1pfTlMzaWhMVkdkX2VxYWZQQkRJZXJ3dDlWcXdQc2tR?oc=5",
+      "title": "What is parvovirus B19, the highly contagious virus the CDC alerted? - New York Post ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IcTdGWEFZMEN1dWs2bnBzQ1liM09nZkZlSUdwSExrQ0t5N0F2ZnJVWUZ2UXBGNEswZzBtazVsd3RfU1A0bmxfOTBZU01wd2ttMld5M2NNNEk0N1BBTHd0RjdR?oc=5",
       "urlToImage": null
     },
     {
-      "author": "CNBC",
+      "author": "WFTV Orlando",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T11:00:01Z",
+      "publishedAt": "2024-08-16T14:15:51Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Harris economic plan features new tax cuts, housing incentives and price caps - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMXlzb0MxT0tBaVctUmg4TTBUQmFxSDNOSTFJQUMtT3dxeG5GbnVKa0xWSnp1TVNhaTF2NS1Tc3BLcVZNanVoeVNNR1VfUWdEQXgwZXR2SGp2Z1FrMmdwVmxrX0c4Vm4xVVhWd3d6aHE3U0pp?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CNBC",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-16T11:00:01Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Streaming is getting more expensive for consumers. Here's why - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1U5eko4ajFsTk5OcDhjSG9EcHBpTUJQZV9OWFNUeDc1LTBKYVEyRGVEMWtiVkxKMDl6VGYxWmdPOFgtUkx3dk1GLTBOZUZPOWkwbmxrempNZ1cxdGFvMHd0Y0xWSVBLMi1yUm81TTdSWWZkOXU1aGxFS28xUTZjcUpwU0p2anIwT3V30gGQAUFVX3lxTE12RUpoZUJENzhicHdJX1VtSG9EemhLcXpwamIwUno5LTYzSW85UERaX3UwZ1R1MlZqa0wxWW1yelZ3YnpWTHVrSWlDZGhFelp0NDRSSHhqMzRIdllzS0pMZUpEY3RRVTlMTTVES1hXRWxzX2ZOUU1ldEI2eW4yM1Q0Qi01YzlEUm9fWUZfRl9icQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Forbes",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-16T10:34:16Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Mpox Vaccine Maker\u2019s Shares Continue Rising As Concern Over Virus Outbreak Grows - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0luZlVEc1JFM0tGNWtXVUo0LURtdHRzXzE0TExEVG9od1YyNTE3dkJFZmY0TnFBQ0FjbUlXZ3dmeDZFcWlXeUNUQVNKZnJSS3ZJeEpNNWFrendKTERLVWlOa09UNVpsN1JNaGI2UUlBLUQ4SVd0Yi1YRUVsZFZmRXdxWDZyY2htUTc4OHhTSkxsQm5vVldIc20yYmN1ZjkyS3h0Yks4MWhRa01CRmJVVHFYaW82NnRVZkRTd3pIOW0tWlFYODVCeTVQNA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "MarketWatch",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-16T10:33:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "History shows investors should keep a tight leash on risk once the Fed cuts rates, strategist says - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTlneU5Ba1J5Q3lEcjJRUWNVTC13cGxJSTZadzlSNklQSm5xU2lrbGR1cHpwcE90N1YteDZyRjdtM3I0N3ctMkptX21rWHZjUnBiWmhlbkxvdnd0RUU1N19zZU1GUGdOdW42dGU0cjVWQUdZSFh1cmV4RjU1T3JBaXM2RzFzSGttZHJEbkhBWTNRMFZPVnhRaWZrMTRscGZFbi1qdU9aS1RmNl9lMnFvNXptNUIxQk1SLVY3VFlOQzVJbUp2Sk9VaTgzdWllXzJTZTJjUlpyNA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-16T10:30:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Gaza ceasefire negotiations to resume as Israel orders new evacuations - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlN2eVZZNEx5dE9saFZrS1d4T2FWWHBvbkg4RGZRUU9aUF9Ta2FXcTZ1eEx4TzVhbDAycTJsbl9RSzVNeU0tdkR0WHdrVnNUdkYzNlM0RC1rNklGa3FlSHB2QW5YX2tuWUJVTmw3cFlPTXB6X2t3UTZVc1ZnTFYxb0hyTXNpQjBRT3cwanZrMVg4ejRqM1l0UlhEOUQtdkUwb2dhOFM0X19EcGNuREJCdXlpMXlTazdFUkc5ZHpZWDhiTVk?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Financial Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-16T09:59:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Australian breakdancer \u2018Raygun\u2019 stirs debate on Olympics selection - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jVWFYZ2JQRjhRbTJXVXpxbGZwUVpaTEdabGNya2c2a2hrcUFXOE40Y3Y0Uk1yZmFLSVBaTUJBOE5xV2U2OUdYMHJGdTBvLVRiSTJqWHNMT0l1TGJuM2x2UmRWY3lIYkdiMVhqTFVPWjQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "PennLive",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-16T09:15:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Former \u2018Saturday Night Live\u2019 star has terminal cancer - PennLive",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWxPZGhrSU5kNEtFcVhQOE9aUU9IaXFoUTEwQ2hHUnc4SDVkanQtNHRLeDBzNUZTWEpud0twZDc2enJWNXhnbEJsaWF1WmZWeTc0dUZjQnJfNGpIZ3Z4c1cyQ1ljLTFGVHdiRVpHWHRmTG40Wi0wWnNrUTNSbWcxeUhoMEJmWmE1TE85MW9PUmU2bDRKUVhBQm9ZRHRMWlByVWpPMThR0gG6AUFVX3lxTFBaUXlPU0RQcWhfekIzNGhXUDE5VDBJS2dfU0JUTHJ4Ukp1QzdBSXdyVmItcXQ3SEFFYU9PbGNvTnppdmRCbjJteWtKZEMxSGp5djFPclVpZE9wZ0FSRjlYOEhYRXkzMkRsOGFZZ3VSTDZTazJiME1yNi1lR2c0RHM1UVlNcDljQk9qNlZ3aURTMGlnZ3hOZ1hfakx5a0dXSnVySTJqaHU1Mks3YWwwNzBPVWlCWkFlU1lXZw?oc=5",
+      "title": "Supermoon to rise Monday: What you need to know - WFTV Orlando",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDNlM0NOdWZ1d3NWQlp6TmM5dThJZzJRZEVIbTlPUTgxNVdnekZPREVoQUoxQmtzTVd5RktnZ1F3MnJKLUlPc2VRTTJ4MS00R1Z6X2tTN3JGcThhYlJNRUVxc2RBczVLUko0SHJYNVFtLXhoelBVcy1iZll6UGRnY3hSVnZyWXNmNG1xR1hIWkNvVjh4QWhUcVFjWmc0X3B2Nl82TVFn?oc=5",
       "urlToImage": null
     },
     {
       "author": "The Associated Press",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T09:05:00Z",
+      "publishedAt": "2024-08-16T14:15:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Thaksin\u2019s daughter Paetongtarn Shinawatra is elected Thailand\u2019s prime minister - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVh3TDBxRjlmaGFmTng1LVlmQ0dNanUxTjIyWFl1QmUxa25Mdjc1TkVmYmwzaUdWUVZ1Z1dEWlNldEhLTHNrY1ZQTkxaVVdkNzByVE9YZFJRSjhBdDN2Tmd1UFFWRXNsRzVoN1FVeU9kc1NYLVpOdGhIVjBMOUhOTHRXcW9qT3d5RUdEcjJOSWJtUWNWTU9PR0x1eW14UTh1ekJpU24yb2owaV91WWhlZ1h6MlQ?oc=5",
+      "title": "US consumer sentiment rises slightly on Democratic optimism over Harris' presidential prospects - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXZUeFJGV05YRnZPOFN0T2VJMTJScklaMXE0X29sTjN6bE5ybDBrNUhqckJOUHl4TU50UDZBLV9mR1RDNUplS1hRQ1ROT1EzbVdJRTFhNkFmYVcxU1k5akc4ODdvUXV1X3pkMTVYai1mTFllWUVJU09GOEx0Z21pd2YxS3E2YTdya0NoTkRXVHZDTmhUNl9ZWFBRQWItSWFKTFRfZmxoZE5JbmQ4ZS1DZVRMUEVndXVwdTRR?oc=5",
       "urlToImage": null
     },
     {
-      "author": "The New York Times",
+      "author": "Forbes",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T09:04:32Z",
+      "publishedAt": "2024-08-16T14:10:11Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "U.S. Awards $1.6 Billion to Texas Instruments to Build Semiconductor Plants - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkVleFlmeXlGZVVRMFUyTjZ6QXlsdmxZVTIzcS1jbTVESXlSbEZwVE5nSFg5SmJrZlY1WmNTaHdoY3ZnUXhCREc0VlVnTWxTZFFGVTZPdzRkcUFENkhsVG5FT3RlVDdmU0FYVkpZSjBJX3JBbXFZOHotQVBWUzZPbXJwbTBwUTQ2dkYtc2Y1WmpiMUE?oc=5",
+      "title": "Who Is The 'Ketamine Queen?' Jasveen Sangha Charged In Death Of Matthew Perry. - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMy1QU2l0WlBRb1ZrMmdnUEowR1N1eFFNSm1UNnBRb2E1R1N1Ukg2amF1WHRuT3JodGd6OVpSa003QlA4aW5nRkJpVG10QU5lZnFqUVZwcUhsejdIWjQ2amY4MlV4WXVSRW9MZzR0QThHd3U3eVNmTm5HSG9BMUtTVHpLcU8wQWFRTUtUSEtYZ3RVekRIQnp0QUxWNi12eFNON0IyXzAwOVZrMXZpVE9TRzBfWTRld1JxaGV4WDY4MGNJMDk5cU40?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Phys.org",
+      "author": "Al Jazeera English",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T09:00:01Z",
+      "publishedAt": "2024-08-16T14:05:52Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "The banana apocalypse is near, but biologists might have found a key to their survival - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYlFkeHhFRVZ1aXJTRFNCaVNiUUN4d19WMjBmVktLNkRqb1FjYTZzd1JfVnJuN3FfUWdSbUZmZVZyX2RZUTUtWlZGMkRHZ0hCU1IwUG9PQThFOVd5N0laRnlpTlB4R1RDZkJyMkdxNTJPNkluTlB6dUU3RjV0NUdqN2dR?oc=5",
+      "title": "Who is Paetongtarn Shinawatra, Thailand\u2019s new, youngest prime minister? - Al Jazeera English",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnVNTEk4eVl4YmdFbWZMR0JRT1VHU2d3Ry11a25nUzhZQmJ3TWg4d1ZqSmpsdWFYektMT1dXRTRtQXd0YXNYU0dBMHppZS1kRVY5d21sMUNBdEZkYkpxcFc1N18wMWcwWE1xemF3MkhqcnZ1TDg4NGRBcVAwSXpLYzcwZVI4b1dqMmR3MVJmY3NXVFRmSzRqQUx0TU9Qa1Z3RHBuWkVhekdqc1lY0gGyAUFVX3lxTE9qT3VYMDhJRUFwZ1FkWHBXN2I0LWRJNEVpLW4tMDd5NDhYZk1YSXhfTlVDT1dSazZDR2lGbkRpczJRNVhSUURpQnRsXzBkWG5MOTdvVl9rSWI0elJ4N2FwcGNidG9aZzhWZy1ZRzlEU0cxaXdHSVR3SnJ5SHlGT19lMlh1RV8zNUt5UzFPUFBseFI1V3RkMzNMZ05HSHVTUndyUE40al9tOUN2TUtJMUNYYlE?oc=5",
       "urlToImage": null
     },
     {
-      "author": "CBS News",
+      "author": "The Verge",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T08:34:00Z",
+      "publishedAt": "2024-08-16T14:03:45Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Ramone Alston, escaped killer of 1-year-old girl, caught outside Charlotte after multi-day manhunt - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnlXWTJCOG00LWZmTFNKWWVSQlFHNElyUXZqUXQyMWNQMEFHcnoybnFCeHc2WC1FOU1KM0NIWVpMOGIzR0pQNHVocjd3b2prQTdnNnhnM2Vadl9YQ285ZHJNaTk5SDBCOEs5TUN2Ql9nN0xsNWMzLUxpeC0xX2IxTjJhbWhRWWZnT3RlSmUxTGxKS0hyMlVBY3ZQeG9xZmtFWTNSak5UOWZGT0ZRNDdwalRVd0FITUZMQkJETTYtWmNTd05M0gHKAUFVX3lxTE9QZzZvVmc0ZXd6cXlGMDlhVk1VbEt2LU1wdXJfVmJsLWwwOGZsUWRxaEc2eEp1ZmZkaUlsYjQ0QmR1U0lKYzFjZnBkMXBHTGN5QThZMEdGTWJENkUzSUFvVmJ0cFRYZmwyYWNlbnRjVEFLcnR5dzZkYkVLdm5HRi1ETXVVbEMtdWlabW51N2sxS2VsWUpFeEtubzNIc3d4MlJMT1dpU2o4aF9BUUwyaVk5UWdzVV8xSVRmMmtPZHR4bGVFb3hYRl82MEE?oc=5",
+      "title": "Gemini is taking over Google | The Vergecast - The Verge",
+      "url": "https://news.google.com/rss/articles/CCAiC19LbzdoZUxPRnlVmAEB?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Phys.org",
+      "author": "Barron's",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T08:28:14Z",
+      "publishedAt": "2024-08-16T13:58:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Scientists pinpoint dino-killing asteroid's origin: past Jupiter - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZFNtWWc0NGFqTTlPRjBmV0QtZ2RMS05pcE5xdVhGVFNFOHJucExRVEFvNXZhVU1QVmo5cWQxY1FFNTN4UDFmX2R3dF9HMXQ2TWVXNkJEcmZ3TkUwX2VaeGMwRFRaczN1QzZtZ1hfT1ZQY2paNnc?oc=5",
+      "title": "Nvidia Stock Rises. AI Chip Demand Looks Good Ahead of Earnings. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nZHVZdDhkakJEb0E5SG5IZWt2Skdld1lsWFBiNlI2ZUhTdnQtdGw0NlpSN1FtbVZocm1uT3FEM1FMdkcwcHlVdVFLQl9RU1dBWUNxT05KWGd2aWNLNVdUUjlfTGt1RjNkT1FNUm9jYzdYNE1GQ0dLVNIBfkFVX3lxTE1mejh2QVdjRXIwUFhET0Iyd3VGWWtHOG45ajJSTVpOUV9aNFo5TDQ3U1pmZ0hveld1S1V3eXBaZ2lTT3FzMlU2N0tXTzdYVk40cHhsYkR1RG1SLWNxSWRORTlhLU5tV2VfUFJwZzFIbF9xdXRtVDF3MG5NdUIxdw?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Reuters",
+      "author": "TechCrunch",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-16T08:16:00Z",
+      "publishedAt": "2024-08-16T13:39:01Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "BMW, venture to recall 1.36 mln cars in China due to airbag risks, regulator says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnIwcmo1T3JQaE9BM2VkZEM5WENMZ1JoalRqZW95LWtfdXVYY0J2Y0pJNHZWTXhHSXhXeDNoUHpNLWVUZTZ1RXRaVUgtLTlXb0Q5M3FMZXliRlVnaUd0Nld5TXBvTHpYTEItLWtyNTB5dHQ0ZG5Qb3ZxMXh3dDc1OWl3Tk82dUFnZDNLT19ENHZ2YnFXMEhyUDFpV2hRa3Q5NlB6VWt3UFk0TVVJRjZTZFRvZllSX3ZyWE55QnpWZFdxa1BCb2k5eWhFbnZ1N1NF?oc=5",
+      "title": "\u2018Fortnite\u2019 maker Epic Games launches its app store on iOS in the EU, worldwide on Android - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjBEVGNjNmh2M3BZS3pibGg0RDFtenhqRWttWkRoelN3UXplS0FyM0d5MzJLRDYyZWc1eUw2YmJTcEpqa3BKeVM0OF8tanY3RWt5RmhqYVFodGdaYTZ4dGtmamE1eERha2xBTi1BWEVMdFNOXzkxX2d0QldOS0k3NVdXLXZRZ043YWh0RFg4MlBpdnh1eG16RlRIR1hrc25XLUozdEtMSVhuejg1alROeXQ4M1A2ZV9ra0lDdUF3?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "MarketWatch",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-16T13:01:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Retailers have pulled back on raising prices. More are now lowering them. - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXU3RUNRR3I2V1ZpZXNFbTMxWDZTYVFuczJ3MnpERWN5eWQzNnlLUG9pWWF4Y1FaVTkxVGtNQWJoaUpLbWpHRm9KRTgyUEVIaGRPMDJGTllWRnBveUxxTFFlakFaZlJQdkxnNmpHU3UyTVVfTC1CUVpFSDFtZWEtTGg1TkVEUnQyTVA3YzJLWURWamotNzdVTXlpOVNGTHFtWkpHa1pWWFdkc2pGY3dtZzZzM2bSAboBQVVfeXFMUF9wYkF6YXU3YVhlTC1fNXBaNnlpSnFJV2E2RDNzc2xhQUdDeDJfbXBybWRNTXIydmtSbE5peWtfa3Z4TGJ1ODB3RnJMLWxvOXdFRm9xRDFXTkZmVTI1TngxWWlhWExiT3k0bF9DMVlPWk13Q21vVDh0ajBsLTc1em5XU1Q3WnVvZ2Z0SDVHTUpUOHJiUGUwNWY1UktDb3k0X0lyVUF2T0dyWnY1VzdpTEo0cHlweE12SkV3?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "SciTechDaily",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-16T12:21:24Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "James Webb Telescope May Have Finally Solved the Crisis in Cosmology - SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXkxQUVkb1BjVHQwZUVFRHVyeGtVZklwdzhvYkpubjhxYUs2bVgzbkZNTUppV3I0bzlhOHhZUVdnelR3ejBYZVRiM1JhT0tUd1hlajA4anhEakZDaWxUOUY5cnRtVHhwSmRpUDZSeUY5QlFYZWY2WndrdEFDLWtmbE5UUDhLQkFsR0ZUbG95RGc1ZE5UYXFYS2V3?oc=5",
       "urlToImage": null
     }
   ],
