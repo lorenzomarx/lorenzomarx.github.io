@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "author": null,
-      "description": "SAN DIEGO (AP) \u2014 A rarely seen deep sea fish resembling a serpent was found floating dead on the ocean surface off the San Diego coast and was brought ashore for study, marine experts said.The silvery, 12-foot-long (3.6-meter) oarfish was found last weekend by a group of snorkelers and kayakers in La Jolla Cove, north of downtown San Diego, the Scripps Institution of Oceanography said in a statement.",
-      "publishedAt": "2024-08-15T20:20:49Z",
-      "title": "A rarely seen deep sea fish is found in California, and scientists want to know why",
-      "url": "https://apnews.com/833218b1d02125d3dee86c4df640a89e",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/addae5d2172b44c19f2f9569735a8f33/3000.jpeg"
-    },
-    {
       "author": "JULIA FRANKEL and WAFAA SHURAFA",
       "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 Tiers of graves are stacked deep underground in a bloated Gaza cemetery, where Sa\u2019di Baraka spends his days hacking at the earth, making room for more dead.",
       "publishedAt": "2024-08-15T10:43:28Z",
@@ -17,20 +9,52 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/7324a26694034ed099568ad064fc0055/3000.jpeg"
     },
     {
-      "author": "ABBY SEWELL and TIA GOLDENBERG",
-      "description": "DOHA, Qatar (AP) \u2014 International mediators held a new round of talks Thursday aimed at halting the Israel-Hamas war and securing the release of scores of hostages, with a potential deal seen as the best hope of heading off an even larger regional conflict.",
-      "publishedAt": "2024-08-15T06:28:38Z",
-      "title": "Mediators hold new Gaza cease-fire talks and hope to head off a wider war",
-      "url": "https://apnews.com/a6a5b35859e1d1d1511729b40a71f837",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/16d25313ab544b019b21b57ee6b4fade/1920.jpeg"
+      "author": "TIA GOLDENBERG",
+      "description": "TEL AVIV, Israel (AP) \u2014 Some families of hostages held in Gaza believe the latest round of cease-fire talks between Israel and Hamas could be the last best chance to set their loved ones free after more than 300 days of captivity.",
+      "publishedAt": "2024-08-16T04:08:31Z",
+      "title": "Families of hostages in Gaza hope cease-fire talks will end their nightmare",
+      "url": "https://apnews.com/339a8dd7966143f04f012fa4d2b67162",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b6834dc04259421782a9bdcb3564c61d/3000.jpeg"
     },
     {
-      "author": "NICK PERRY, JAKE OFFENHARTZ and JOCELYN GECKER",
-      "description": "NEW YORK (AP) \u2014 As students return to colleges across the United States, administrators are bracing for a resurgence in activism against the war in Gaza, and some schools are adopting rules to limit the kind of protests that swept campuses last spring.",
-      "publishedAt": "2024-08-15T16:49:51Z",
-      "title": "US colleges revise rules on free speech in hopes of containing anti-war demonstrations",
-      "url": "https://apnews.com/b2321b9626e4a824f47cfce6b680e6d9",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4390a13747cf4cc5bf6bb513b9c8aeec/3000.jpeg"
+      "author": "The Associated Press",
+      "description": "A daring Ukrainian military push into Russia\u2019s Kursk region has seen Kyiv's forces seize scores of villages, take hundreds of prisoners and force the evacuation of tens of thousands of civilians in what has become the largest attack on the country since World War II.",
+      "publishedAt": "2024-08-16T04:10:08Z",
+      "title": "Ukraine\u2019s swift push into the Kursk region shocked Russia and exposed its vulnerabilities",
+      "url": "https://apnews.com/1178b99b32b476816db3a48ffa06b11a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/360c1b78d8744f21b2127fbba23d2c88/3000.jpeg"
+    },
+    {
+      "author": "BRIAN SLODYSKO, MICHAEL R. BLOOD and ALAN SUDERMAN",
+      "description": "WASHINGTON (AP) \u2014 As California\u2019s attorney general, Kamala Harris successfully defended the death penalty in court, despite her past crusade against it.As a new senator, she proposed to abolish cash bail \u2014 a reversal from when she chided San Francisco judges for making it \u201ccheaper\u201d to commit crimes by setting bail amounts too low.",
+      "publishedAt": "2024-08-16T04:41:06Z",
+      "title": "What do marijuana, the death penalty and fracking have in common? Harris shifted positions on them",
+      "url": "https://apnews.com/f35dbacc2137e6aebc214befd4503ff8",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/deda05646db44bf58d71474a52ef0b9c/3000.jpeg"
+    },
+    {
+      "author": "Associated Press",
+      "description": "Former President Donald Trump on Thursday gave his second news conference in as many weeks as he adjusts to a newly energized Democratic ticket ahead of next week's Democratic National Convention.",
+      "publishedAt": "2024-08-15T23:49:24Z",
+      "title": "FACT FOCUS: Trump blends falsehoods and exaggerations at rambling NJ press conference",
+      "url": "https://apnews.com/f8ed52f64a12cf450b0d0f2591c9d92b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/fa795622c6594802a2bb90d0b6af884e/3000.jpeg"
+    },
+    {
+      "author": "ADRIANA GOMEZ LICON",
+      "description": "MIAMI (AP) \u2014 Five summers ago, Donald Trump\u2019s running mate JD Vance \u2014 then a 34-year-old memoirist and father of a 2-year-old boy \u2014 took the stage at a conservative conference and tackled an issue that would become a core part of his political brand: the United States' declining fertility rate.",
+      "publishedAt": "2024-08-16T04:38:44Z",
+      "title": "Beyond 'childless cat ladies,' JD Vance has long been on a quest to encourage more births",
+      "url": "https://apnews.com/555c0f78ef8dd4c13c88b9e8d5f0024a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2906e6bb717b4294a6e7221bf9ab566d/2828.jpeg"
+    },
+    {
+      "author": "JINTAMAS SAKSORNCHAI",
+      "description": "BANGKOK (AP) \u2014 Thailand\u2019s Parliament elected Paetongtarn Shinawatra, the youngest daughter of the divisive former leader Thaksin Shinawatra, as the country\u2019s new prime minister Friday.",
+      "publishedAt": "2024-08-16T03:07:02Z",
+      "title": "Parliament elects Thaksin's daughter Paetongtarn Shinawatra as Thailand's prime minister",
+      "url": "https://apnews.com/59d65bc10b9a7e16505b9e574a1ba66b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b65bfd5a39a542248f7b8f52a60379d8/3000.jpeg"
     },
     {
       "author": "REGINA GARCIA CANO and GABRIELA S\u00c1 PESSOA",
@@ -41,44 +65,20 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/e50f86933190459b9309d190a0a110e7/3000.jpeg"
     },
     {
+      "author": "D\u00c1NICA COTO",
+      "description": "SAN JUAN, Puerto Rico (AP) \u2014 Hurricane Ernesto strengthened into a Category 2 storm Thursday night as it barreled toward Bermuda after leaving hundreds of thousands of people in Puerto Rico without power or water.",
+      "publishedAt": "2024-08-15T11:05:42Z",
+      "title": "Ernesto grows into Cat 2 hurricane as it aims for Bermuda, leaving many in Puerto Rico without power",
+      "url": "https://apnews.com/6d919d9b8f9831c8a664457aeebdb8da",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ec9a2bacde954b94941ad48d9c936c41/1920.jpeg"
+    },
+    {
       "author": "ANDREW DALTON and KAITLYN HUAMANI",
-      "description": "LOS ANGELES (AP) \u2014 Five people including his personal assistant and two doctors have been charged in connection with Matthew Perry's death in what prosecutors called a \u201cbroad underground criminal network\u201d dedicated to getting the \u201cFriends\u201d star the powerful surgical anesthetic that killed him.",
-      "publishedAt": "2024-08-15T14:32:32Z",
-      "title": "Matthew Perry's assistant among 5 people, including 2 doctors, charged in 'Friends' star's death",
-      "url": "https://apnews.com/b3708a3818f1c649f234f83a6cd16e30",
+      "description": "LOS ANGELES (AP) \u2014 Nearly 10 months after the death of Matthew Perry, the long-simmering investigation into the ketamine that killed him came dramatically into public view with the announcement that five people had been charged with having roles in the overdose of the beloved \u201cFriends\u201d star.",
+      "publishedAt": "2024-08-16T05:22:51Z",
+      "title": "Matthew Perry's death leads to sweeping indictment of 5, including doctors and reputed dealers",
+      "url": "https://apnews.com/eb5fd5af85e2cffdc61642b7a4fbe0b8",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/233f68aa8a9c4f6d9d91c746a2146768/1920.jpeg"
-    },
-    {
-      "author": "Associated Press",
-      "description": "Former President Donald Trump on Thursday gave his second news conference in as many weeks as he adjusts to a newly energized Democratic ticket ahead of next week's Democratic National Convention.",
-      "publishedAt": "2024-08-15T23:49:24Z",
-      "title": "FACT FOCUS: Trump blends falsehoods and exaggerations at rambling NJ press conference",
-      "url": "https://apnews.com/f8ed52f64a12cf450b0d0f2591c9d92b",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c4b3e4656e0b4c3c9c3b2cdfc7304a8d/1920.jpeg"
-    },
-    {
-      "author": "ZEKE MILLER",
-      "description": "WASHINGTON (AP) \u2014 Vice President Kamala Harris is zeroing in on high food prices as her campaign previews an economic policy speech Friday in North Carolina, promising to push for a federal ban on price gouging on groceries as she looks to address one of voters' top concerns.",
-      "publishedAt": "2024-08-15T13:49:57Z",
-      "title": "Harris zeroes in on high food prices as inflation plays a big role in the presidential race",
-      "url": "https://apnews.com/c3bbfd8aa3bfd2be3e98d021f0a182ac",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/34bee420054c41a5813922eeab5482c2/3000.jpeg"
-    },
-    {
-      "author": "MICHAEL R. SISAK and FRANKLIN BRICENO",
-      "description": "NEW YORK (AP) \u2014 A reputed Peruvian gang leader suspected in nearly two dozen killings in his home country was arrested Wednesday in New York by U.S. immigration authorities.Gianfranco Torres-Navarro, the leader of \u201cLos Killers\u201d who is wanted for 23 killings in Peru, was arrested in Endicott, New York, about 145 miles (233 kilometers) northwest of New York City, U.S.",
-      "publishedAt": "2024-08-15T22:16:04Z",
-      "title": "US arrests reputed Peruvian gang leader wanted for 23 killings in his home country",
-      "url": "https://apnews.com/9ba446c26cde81e48396a30a7a687bba",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d378cb06734d42a8815a0af8f09c7f07/3000.jpeg"
-    },
-    {
-      "author": "SAMYA KULLAB and HANNA ARHIROVA",
-      "description": "KYIV, Ukraine (AP) \u2014 Ukrainian President Volodymyr Zelenskyy said Thursday that his country's troops had taken full control of Sudzha, the largest Russian town to fall to Ukraine's forces since the start of their cross-border incursion more than a week ago.",
-      "publishedAt": "2024-08-15T09:27:47Z",
-      "title": "Zelenskyy says Ukrainian troops have taken full control of the Russian town of Sudzha",
-      "url": "https://apnews.com/b7fb57c21a43f0f06bf79a4477eb62e9",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/db2ad4a809564036963b184a8adfea46/1920.jpeg"
     }
   ],
   "sortBy": "top",
