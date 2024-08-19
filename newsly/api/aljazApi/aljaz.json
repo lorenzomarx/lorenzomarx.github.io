@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Lyndal Rowlands",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsraeli forces continue killing Palestinians across Gaza as Hamas says Netanyahu remains the main obstacle to a truce.",
+      "description": "Israeli forces continue killing Palestinians across Gaza as Hamas says Netanyahu remains the main obstacle to a truce.",
+      "publishedAt": "2024-08-18T00:15:04Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israel\u2019s war on Gaza live: Funerals held for family killed in az-Zawayda",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/8/18/israels-war-on-gaza-live-israeli-attack-killed-family-asleep-in-bed",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP24230315758738-1723930906.jpg?resize=1200%2C675"
+    },
+    {
       "author": "Al Jazeera Staff",
       "content": "The international mediators engaged in talks to bring Sudans war to an end have welcomed decisions by the warring sides to facilitate the delivery of humanitarian relief to the country.\r\nIn a joint s\u2026 [+4232 chars]",
       "description": "Countries call for 'unhindered' access to respond to growing humanitarian crisis in war-torn African nation.",
@@ -1286,21 +1299,8 @@
       "title": "Russia evacuates thousands from Kursk as Ukrainian forces advance",
       "url": "https://www.aljazeera.com/news/2024/8/15/russia-evacuates-thousands-from-kursk-as-ukrainian-forces-advance",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/2024-08-11T183206Z_127039775_RC2MD9AL8YDQ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-KURSK-BORDER-1723504934.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Israel has approved a new illegal settlement on a UNESCO World Heritage Site near Bethlehem in the occupied West Bank.\r\nBezalel Smotrich, the countrys far-right finance minister, said on Wednesday hi\u2026 [+2585 chars]",
-      "description": "The Nahal Heletz settlement shrinks Palestinian land and poses 'imminent threat' to a World Heritage Site.",
-      "publishedAt": "2024-08-15T09:05:20Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Israel approves new illegal settlement on UNESCO site near Bethlehem",
-      "url": "https://www.aljazeera.com/news/2024/8/15/israel-approves-new-illegal-settlement-on-unesco-site-near-bethlehem",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/AFP__20240306__34KU6DD__v1__HighRes__PalestinianIsraelConflictSettlement-1723705364.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1311
+  "totalResults": 1312
 }
