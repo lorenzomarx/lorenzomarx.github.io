@@ -1,44 +1,12 @@
 {
   "articles": [
     {
-      "author": "Reuters",
-      "description": "At least 15 Palestinians were killed and dozens wounded in an Israeli strike in the Gaza town of Zawayda, the official Palestinian news agency WAFA reported on Saturday, as Israel issued new evacuation orders, citing Hamas rocket fire nearby.",
-      "publishedAt": "2024-08-17T09:20:27Z",
-      "title": "At least 15 Palestinians killed in Israeli strike in central Gaza, WAFA agency says",
-      "url": "https://www.reuters.com/world/middle-east/ten-palestinians-killed-israeli-strike-central-gazas-zawayda-wafa-agency-says-2024-08-17/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Israel said it killed two senior Hamas militants in an airstrike on their car in Jenin in the occupied West Bank on Saturday, claiming they were involved in the killing of an Israeli.",
-      "publishedAt": "2024-08-17T22:18:56Z",
-      "title": "Israel kills two Hamas militants in West Bank air strike",
-      "url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-two-palestinians-west-bank-health-ministry-says-2024-08-17/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/LACUCFWZUJN5FB42S7HAZFBN2Q.jpg?auth=f8ec4c2ab5f722c1a544c9ea54f720f852540f7485decbf91c473a012099c782&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Mark Trevelyan, Anastasiia Malenko, Gleb Stolyarov",
-      "description": "The idea that Ukraine could turn the tables on Russia seemed unthinkable before last week. The operation has raised questions about Russian surveillance and the caliber of its border fortifications and forces.",
-      "publishedAt": "2024-08-17T10:08:28Z",
-      "title": "How Russia looked the wrong way as Ukraine invaded",
-      "url": "https://www.reuters.com/world/europe/how-russia-looked-wrong-way-ukraine-invaded-2024-08-17/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/EKL4DYZXYZMBHINVPRGSXXI7LM.jpg?auth=ebd46d4a19e784948201e31704a5ea8d9f312586f1dacdfba295c18ec4d78b80&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Humeyra Pamuk",
-      "description": "U.S. Secretary of State Antony Blinken is set to arrive in Israel on Sunday as part of Washington's intensifying diplomatic push to achieve a ceasefire in Gaza that will end the 10-month-old war between Israel and Hamas.",
-      "publishedAt": "2024-08-18T04:02:05Z",
-      "title": "Blinken to arrive in Israel as US pushes for Gaza ceasefire",
-      "url": "https://www.reuters.com/world/middle-east/blinken-arrive-israel-us-pushes-gaza-ceasefire-2024-08-18/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/VGRKYZNSGJPLLDGWHGRYBSDMFI.jpg?auth=92a519609f6256555d465f291459bf3276d4ce4bd03fc8ee7fbe11aee7a33586&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Indian medical professionals started a 24-hour shutdown of non-emergency services across the country on Saturday in protest against the brutal rape and murder of a doctor in the eastern city of Kolkata.",
-      "publishedAt": "2024-08-17T04:02:22Z",
-      "title": "Indian doctors begin 24-hour strike to protest brutal rape of medic",
-      "url": "https://www.reuters.com/world/india/indian-doctors-begin-24-hour-strike-protest-brutal-rape-medic-2024-08-17/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4LTIYI3JERLMPOMQIU5OM3UQBE.jpg?auth=f06ba993e982798cd1282d644d0dc6594684da17b260ac75e3f085938e3228df&height=1005&width=1920&quality=80&smart=true"
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli strikes killed 19 people in Gaza on Sunday, including six children, Palestinian health authorities said, ahead of a visit to the region by U.S. Secretary of State Antony Blinken to try to push forward ceasefire talks.",
+      "publishedAt": "2024-08-18T09:00:49Z",
+      "title": "Blinken to push for Gaza ceasefire; Israel launches fresh strikes",
+      "url": "https://www.reuters.com/world/middle-east/blinken-push-gaza-ceasefire-israel-launches-fresh-strikes-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6LB5ASVWMBPRPLYOAS3SRHTGCY.jpg?auth=4f992e6f4270b30f7d01e9a0a6be57587da3c419f21257f5aec1f27d1e79fc9a&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -49,36 +17,68 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/G4VWSIA6ORK3DCBGVEF6PJPUEE.jpg?auth=464d2ec2e27b23bba6fddadb73aa6a69dda464a644d6bb57774ebf48fc6165cd&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Justyna Pawlak, Marek Strzelecki",
-      "description": "Ukraine is reaping \"huge political gains\" from its military offensive into western Russia but the incursion is not altering the \"anti-escalation approach\" of the West, Polish Interior Minister Tomasz Siemoniak said.",
-      "publishedAt": "2024-08-17T18:00:03Z",
-      "title": "Ukraine offensive doesn't alter Western anti-escalation stance, Poland says",
-      "url": "https://www.reuters.com/world/europe/ukraine-offensive-doesnt-alter-western-anti-escalation-stance-poland-says-2024-08-17/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/LXMQ2NXHSNMLDABKUC35P4QRR4.jpg?auth=8c1fdc6144b49f46c67c9be36da9ef670db0138e200baa306ec1e2e274d5dcd9&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Belarusian President Alexander Lukashenko said on Sunday that Ukraine had stationed more than 120,000 troops at its border with Belarus and Minsk had deployed nearly a third of its armed forces along the entire border, the Belta state news agency reported.",
+      "publishedAt": "2024-08-18T10:17:36Z",
+      "title": "Belarus' Lukashenko says nearly a third of army sent to Ukraine border, Belta reports",
+      "url": "https://www.reuters.com/world/europe/belarus-lukashenko-says-nearly-third-army-sent-ukraine-border-belta-reports-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MBMMG3U4BZPOVFOGDDW5SCFZLQ.jpg?auth=47578eda24be5f72a1d97fdfc1fd11d59eaab0e07c7b61240b9def91c3a8be05&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Subrata Nag Choudhury, Jatindra Dash",
+      "description": "Junior doctors in many Indian hospitals remained off the job on Sunday demanding swift justice for a colleague who was raped and murdered, despite the end of a 24-hour strike called by the country's biggest association of doctors.",
+      "publishedAt": "2024-08-18T06:18:24Z",
+      "title": "India doctors end one strike over colleague's rape and murder",
+      "url": "https://www.reuters.com/world/india/india-doctors-end-one-strike-over-colleagues-rape-murder-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4F53JRUJ7BLFRM3M7PUUS6ATCQ.jpg?auth=c6c53ddcb68e5ff8dcce2c80214e39024259cdc0bc0a9955b9ae9b0b359eab5a&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Mohammed Ghobari, Clauda Tanios",
+      "description": "Acute malnutrition is rapidly increasing in areas of Yemen controlled by the government, with the most critical cases along areas of the Red Sea coast, U.N. food security experts said in a report issued on Sunday.",
+      "publishedAt": "2024-08-18T10:12:36Z",
+      "title": "Malnutrition worsening in Yemen's government-controlled areas, UN says",
+      "url": "https://www.reuters.com/world/middle-east/malnutrition-worsening-yemens-government-controlled-areas-un-says-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ZGFIQ3U5WFOPVEJONCGH3URENY.jpg?auth=e4ce0fb5d6f2f2ceee6c7bbbe7380799806393b00bc73dd53171c01ad4bee7f0&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Fifteen fire engines and around 100 firefighters were deployed to a fire at Somerset House in central London on Saturday, with clouds of black smoke visible across the city's skyline.",
-      "publishedAt": "2024-08-17T13:27:18Z",
-      "title": "Firefighters tackle large blaze at London's Somerset House",
-      "url": "https://www.reuters.com/world/uk/firefighters-tackle-blaze-londons-somerset-house-2024-08-17/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/E764SL6D75MQDFGCLXQ4NHHTSI.jpg?auth=b0a4031af87493edb058da54dfdd8db3c15e5cdc7bd861e0fdc9f51465266078&height=1005&width=1920&quality=80&smart=true"
+      "description": "Paetongtarn, 37, becomes Thailand's youngest prime minister just days after ally Srettha Thavisin was dismissed as premier by the Constitutional Court.",
+      "publishedAt": "2024-08-18T11:11:17Z",
+      "title": "Thai king endorses Paetongtarn Shinawatra as prime minister",
+      "url": "https://www.reuters.com/world/asia-pacific/thai-king-endorses-paetongtarn-shinawatra-prime-minister-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/7OI4R52FDJNOTGOE4VHD6XALPQ.jpg?auth=fbe24fe98b17a3cae3c1fdde791da91f0ebf70f5ae4b11886fc2c0d54d26f470&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Jasmine Patterson, Nicola Muirhead",
-      "description": "Hurricane Ernesto was weakening as it closed in on Bermuda early on Saturday, downgraded to a Category 1 storm but still threatening the British island territory with powerful winds, a dangerous storm surge and potentially deadly flooding.",
-      "publishedAt": "2024-08-17T04:04:46Z",
-      "title": "Hurricane Ernesto weakens, but still dangerous, as it closes in on Bermuda",
-      "url": "https://www.reuters.com/business/environment/hurricane-ernesto-weakens-still-dangerous-it-closes-bermuda-2024-08-17/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ABOMIFDHD5NR3KM3HLHKWZTOXM.jpg?auth=d71db46e2a0eba151b69aec84b6d829bd1d5570ac2a3733fd823c2122787f36c&height=1005&width=1920&quality=80&smart=true"
+      "author": "Frank Phiri",
+      "description": "Malawi's main opposition party, the Democratic Progress Party endorsed on Sunday former President Peter Mutharika to be its candidate in next year's presidential election.",
+      "publishedAt": "2024-08-18T11:05:32Z",
+      "title": "Malawi's main opposition endorses ex-president Mutharika to run in 2025",
+      "url": "https://www.reuters.com/world/africa/malawis-main-opposition-endorses-ex-president-mutharika-run-2025-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/TOR6EXC62RKL7OIZDFIQOWUSXY.jpg?auth=3916a29915db0644c3048e7a80366e3eb70bf4719af874e24e6a821b3b408d77&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Deisy Buitrago, Mariela Nava",
-      "description": "Venezuela's political opposition and its supporters gathered in cities around the country on Saturday to demand recognition of what they say is their candidate's resounding victory in a presidential vote nearly three weeks ago.",
-      "publishedAt": "2024-08-17T17:30:24Z",
-      "title": "Venezuelan opposition protests as election dispute drags on",
-      "url": "https://www.reuters.com/world/americas/venezuelan-opposition-protests-election-dispute-drags-2024-08-17/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3DFBRJWOXBOIZFPIDMTZ2FHWRA.jpg?auth=b7791835198d1b6795eab613a50bf4386c8a3588dc5f61349746f0342343ddd1&height=1005&width=1920&quality=80&smart=true"
+      "author": "Lincoln Feast",
+      "description": "On the remote south coast of Tahiti, its Jurassic peaks and azure lagoon accessible only by boat, Patrick Rochette is explaining how centuries-old Polynesian conservation traditions are being revived to protect this unique environment.",
+      "publishedAt": "2024-08-18T09:06:06Z",
+      "title": "At Tahiti's Olympic surfing venue, Polynesians fight for a reef and a way of life",
+      "url": "https://www.reuters.com/sports/olympics/tahitis-olympic-surfing-venue-polynesians-fight-reef-way-life-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/UKCTRYNEXFP7XPK767KIOKCYKA.jpg?auth=471d0289350041644c5355efc99976b048620456298e9664ea7ecf175b8028b8&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "North Korea condemned Ukraine's incursion into Russia as an unforgivable act of terror backed by Washington and the West, adding it would always stand with Russia as it seeks to protect its sovereignty, state media said on Sunday.",
+      "publishedAt": "2024-08-18T08:36:48Z",
+      "title": "North Korea condemns Ukraine's incursion into Russia as act of terror",
+      "url": "https://www.reuters.com/world/europe/north-korea-condemns-ukraines-incursion-into-russia-act-terror-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ZA7VD4E7CRL37H6E2TVW6PYF2U.jpg?auth=e91130a3569092fbc7579d84962020269ed854d186c1d61a813d5ec10c890b3f&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Heavy rains lashed Alpine regions of Austria and left parts of Vienna under water at the weekend, causing severe damage in parts of the country and disrupting road and rail transport, authorities and local media said.",
+      "publishedAt": "2024-08-18T11:13:47Z",
+      "title": "Austria battles major flooding after record downpours",
+      "url": "https://www.reuters.com/world/europe/austria-battles-major-flooding-after-record-downpours-2024-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
