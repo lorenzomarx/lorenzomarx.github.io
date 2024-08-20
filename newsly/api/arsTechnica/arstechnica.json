@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "In order to send NASA's ESCAPADE mission to Mars, Blue Origin must launch in September or October.",
+      "publishedAt": "2024-08-19T17:16:05+00:00",
+      "title": "Rocket Lab entered \u201chero mode\u201d to finish Mars probes\u2014now it\u2019s up to Blue Origin",
+      "url": "https://arstechnica.com/space/2024/08/rocket-lab-entered-hero-mode-to-finish-mars-probes-now-its-up-to-blue-origin/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Rocket-Lab-ESCAPADE-Twin-Spacecraft-web-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Copying a trick from the animal kingdom can help cut aircraft emissions.",
+      "publishedAt": "2024-08-19T16:53:55+00:00",
+      "title": "Lufthansa is using artificial sharkskin to streamline airplanes",
+      "url": "https://arstechnica.com/cars/2024/08/lufthansa-is-using-artificial-sharkskin-to-streamline-airplanes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/shark-plane-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Claims that there will be no new Versas or Senses is incorrect, rep says.",
+      "publishedAt": "2024-08-19T16:30:59+00:00",
+      "title": "Google denies report that it\u2019s discontinuing Fitbit products",
+      "url": "https://arstechnica.com/gadgets/2024/08/google-denies-report-that-its-discontinuing-fitbit-products/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Fitbit-Sense-2-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "2014's Nvidia GTX 970 is still a \"minimum requirements\" workhorse.",
+      "publishedAt": "2024-08-19T15:57:27+00:00",
+      "title": "Your 10-year-old graphics card can run Dragon Age: The Veilguard",
+      "url": "https://arstechnica.com/gaming/2024/08/your-10-year-old-graphics-card-can-run-dragon-age-the-veilguard/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/gtx970-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Despite changes, 2GB Pi 5 is \"functionally identical\" to other iterations.",
+      "publishedAt": "2024-08-19T15:34:17+00:00",
+      "title": "$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU",
+      "url": "https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_0625-760x380.jpeg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "TV software is getting loaded with ads, changing what it means to own a TV set.",
       "publishedAt": "2024-08-19T11:00:30+00:00",
@@ -39,46 +79,6 @@
       "title": "Epic Games Store and Fortnite arrive on EU iPhones",
       "url": "https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/fortnite-760x360.png"
-    },
-    {
-      "author": null,
-      "description": "The parser works much better than you'd think, and the mystery is pitch-perfect.",
-      "publishedAt": "2024-08-16T18:39:21+00:00",
-      "title": "The Crimson Diamond is a wonderful EGA-like graphic adventure game for 2024",
-      "url": "https://arstechnica.com/?p=2043870",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "description": "The good news: There's little risk beyond the rash. The bad: The rash is awful.",
-      "publishedAt": "2024-08-16T18:04:00+00:00",
-      "title": "Explosion of cicada-eating mites has the state of Illinois scratching",
-      "url": "https://arstechnica.com/?p=2043885",
-      "urlToImage": null
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "But the Windows NT-era disk formatting UI hasn't been fixed yet.",
-      "publishedAt": "2024-08-16T17:41:54+00:00",
-      "title": "New Windows 11 build removes ancient, arbitrary 32GB size limit for FAT32 disks",
-      "url": "https://arstechnica.com/gadgets/2024/08/new-windows-11-build-removes-ancient-arbitrary-32gb-size-limit-for-fat32-disks/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/format-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Cox tries to get contributory infringement ruling in Sony lawsuit overturned.",
-      "publishedAt": "2024-08-16T17:35:47+00:00",
-      "title": "ISP to Supreme Court: We shouldn\u2019t have to disconnect users accused of piracy",
-      "url": "https://arstechnica.com/tech-policy/2024/08/isp-to-supreme-court-we-shouldnt-have-to-disconnect-users-accused-of-piracy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/getty-ethernet-cable-cut-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Ibrahim Al-Nasser said he got tired of juggling plugs just to play his collection.",
-      "publishedAt": "2024-08-16T16:47:54+00:00",
-      "title": "Saudi man earns world record for 444 game consoles hooked to one TV",
-      "url": "https://arstechnica.com/?p=2043824",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
