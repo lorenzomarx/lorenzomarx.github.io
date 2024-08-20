@@ -2,11 +2,27 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Ukrainian forces continue their incursion into Russia's Kursk region, claiming destruction of a second bridge.",
+      "publishedAt": null,
+      "title": "Ukraine says second Russian bridge destroyed in strike",
+      "url": "https://www.bbc.co.uk/news/articles/c5y36rdreq1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/eacc/live/9404eec0-5d9b-11ef-918e-fdf51f7439db.png"
+    },
+    {
+      "author": "BBC News",
       "description": "The Australian hip-hop community has been shaken by Raygun's efforts in Paris.",
       "publishedAt": null,
       "title": "Raygun: How did B-Girl Rachael Gunn make it to the Olympics?",
       "url": "https://www.bbc.co.uk/news/articles/c4gl34v4r98o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/71af/live/02615d00-5ca1-11ef-8c32-f3c2bc7494c6.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Dozens of workers from around the world may have been trafficked by a family-owned Scottish fishing firm.",
+      "publishedAt": null,
+      "title": "'Treated like slaves' on Scottish fishing boats",
+      "url": "https://www.bbc.co.uk/news/articles/cd9dnk34k41o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8ad8/live/5ae5c690-565d-11ef-b2d2-cdb23d5d7c5b.jpg"
     },
     {
       "author": "BBC News",
@@ -18,11 +34,11 @@
     },
     {
       "author": "BBC News",
-      "description": "When Kamala Harris arrives at the Democratic National Convention this week, she will face many who spent years doubting her.",
+      "description": "Thousands of tonnes of ammunition lie beneath the tranquil waters of Swiss lakes - but the country wants it out.",
       "publishedAt": null,
-      "title": "After years of doubt, Kamala Harris becomes Democrats' leader",
-      "url": "https://www.bbc.co.uk/news/articles/c4gqr48zld2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6e22/live/305f3e80-5ce1-11ef-ad2e-252430c5dda7.png"
+      "title": "Switzerland offers prize money to get munition out of lakes",
+      "url": "https://www.bbc.co.uk/news/articles/cdd7y3nm09lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c65c/live/14688770-5bf3-11ef-bce7-d32f2332e835.jpg"
     },
     {
       "author": "BBC News",
@@ -34,19 +50,19 @@
     },
     {
       "author": "BBC News",
-      "description": "Thousands of tonnes of ammunition lie beneath the tranquil waters of Swiss lakes - but the country wants it out.",
-      "publishedAt": null,
-      "title": "Switzerland offers prize money to get munition out of lakes",
-      "url": "https://www.bbc.co.uk/news/articles/cdd7y3nm09lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c65c/live/14688770-5bf3-11ef-bce7-d32f2332e835.jpg"
-    },
-    {
-      "author": "BBC News",
       "description": "Studies show the hearts and brains of Bolivia's indigenous Tsimane people are the healthiest on the planet.",
       "publishedAt": null,
       "title": "The community where people age more slowly than the rest of the world",
       "url": "https://www.bbc.co.uk/news/articles/ceq55l2gdxxo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72b5/live/94474040-5cdd-11ef-b221-c97fbd9ada66.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "When Kamala Harris arrives at the Democratic National Convention this week, she will face many who spent years doubting her.",
+      "publishedAt": null,
+      "title": "After years of doubt, Kamala Harris becomes Democrats' leader",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqr48zld2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6e22/live/305f3e80-5ce1-11ef-ad2e-252430c5dda7.png"
     },
     {
       "author": "BBC News",
@@ -58,27 +74,11 @@
     },
     {
       "author": "BBC News",
-      "description": "As a hot war rages between Russia and Ukraine, there are fears Europe has slipped into a new Cold War.",
+      "description": "A charity says it wants to help families struggling with toilet training ahead of September.",
       "publishedAt": null,
-      "title": "Phone taps, sabotage and an assassination plot: Is Germany in Cold War 2.0?",
-      "url": "https://www.bbc.co.uk/news/articles/clyn8vk4g42o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fcdc/live/67dfdd80-5bfe-11ef-b970-9f202720b57a.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The official resigned over arms sales to Israel, saying the UK government \"may be complicit in war crimes\".",
-      "publishedAt": null,
-      "title": "British Foreign Office diplomat Mark Smith resigns over Israel arms sales",
-      "url": "https://www.bbc.co.uk/news/articles/cyvpm1049d9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/78d3/live/e8d4ec10-5d5b-11ef-86e5-2fc5046baeb0.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The Home Office will look at hatred of women as one of the ideological trends that the government says is gaining traction.",
-      "publishedAt": null,
-      "title": "Misogyny to be treated as extremism by UK government",
-      "url": "https://www.bbc.co.uk/news/articles/c15gn0lq7p5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a8c/live/e657e120-5d3a-11ef-b43e-6916dcba5cbf.jpg"
+      "title": "Intervention as one in four school starters in nappies",
+      "url": "https://www.bbc.co.uk/news/articles/cp3dykw576yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ceb/live/c6e96900-5a4a-11ef-a35a-ff8deca54a26.jpg"
     }
   ],
   "sortBy": "top",
