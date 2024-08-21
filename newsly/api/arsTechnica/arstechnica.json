@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Disney said it \"strive[s] to put humanity above all other considerations.\"",
+      "publishedAt": "2024-08-20T17:07:20+00:00",
+      "title": "Disney abandons Disney+ arbitration defense in restaurant allergy death case",
+      "url": "https://arstechnica.com/tech-policy/2024/08/disney-stops-claiming-disney-terms-require-arbitration-in-allergy-death-case/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/getty-world-of-disney-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Procreate CEO: \"I really f\u2014ing hate generative AI.\"",
+      "publishedAt": "2024-08-20T16:52:22+00:00",
+      "title": "Procreate defies AI trend, pledges \u201cno generative AI\u201d in its illustration app",
+      "url": "https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/procreate_cuda_header_2-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"It's not easy to ever raise for an asteroid mining company, right?\"",
+      "publishedAt": "2024-08-20T16:00:38+00:00",
+      "title": "Against all odds, an asteroid mining company appears to be making headway",
+      "url": "https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/August-2024-Odin-4-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"They don't know how to get back. We ask you to help them.\"",
+      "publishedAt": "2024-08-20T15:44:48+00:00",
+      "title": "Russian pensioners urge Vladimir Putin to rescue Starliner astronauts",
+      "url": "https://arstechnica.com/space/2024/08/boeings-starliner-problems-have-become-fodder-for-putins-propaganda-squads/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/0-9-screenshot-760x380.png"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "\"We were aware of the higher risks attached to this approach.\"",
+      "publishedAt": "2024-08-20T14:19:19+00:00",
+      "title": "A frontrunner in Europe\u2019s private launch industry just lost its first rocket",
+      "url": "https://arstechnica.com/space/2024/08/a-frontrunner-in-europes-private-launch-industry-just-lost-its-first-rocket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GP3AtsqWAAA4NKX-760x380.jpeg"
+    },
+    {
       "author": "Beth Mole",
       "description": "Wastewater SARS-CoV-2 levels suggest the summer surge is high and peaking right now.",
       "publishedAt": "2024-08-19T23:53:12+00:00",
@@ -39,46 +79,6 @@
       "title": "Texas judge who bought Tesla stock won\u2019t recuse himself from X v. Media Matters",
       "url": "https://arstechnica.com/tech-policy/2024/08/texas-judge-who-bought-tesla-stock-wont-recuse-himself-from-x-v-media-matters/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/judges-gavel-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "In order to send NASA's ESCAPADE mission to Mars, Blue Origin must launch in September or October.",
-      "publishedAt": "2024-08-19T17:16:05+00:00",
-      "title": "Rocket Lab entered \u201chero mode\u201d to finish Mars probes\u2014now it\u2019s up to Blue Origin",
-      "url": "https://arstechnica.com/space/2024/08/rocket-lab-entered-hero-mode-to-finish-mars-probes-now-its-up-to-blue-origin/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Rocket-Lab-ESCAPADE-Twin-Spacecraft-web-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Copying a trick from the animal kingdom can help cut aircraft emissions.",
-      "publishedAt": "2024-08-19T16:53:55+00:00",
-      "title": "Lufthansa is using artificial sharkskin to streamline airplanes",
-      "url": "https://arstechnica.com/cars/2024/08/lufthansa-is-using-artificial-sharkskin-to-streamline-airplanes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/shark-plane-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Claims that there will be no new Versas or Senses is incorrect, rep says.",
-      "publishedAt": "2024-08-19T16:30:59+00:00",
-      "title": "Google denies reports that it\u2019s discontinuing Fitbit products",
-      "url": "https://arstechnica.com/gadgets/2024/08/google-denies-report-that-its-discontinuing-fitbit-products/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Fitbit-Sense-2-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "2014's Nvidia GTX 970 is still a \"minimum requirements\" workhorse.",
-      "publishedAt": "2024-08-19T15:57:27+00:00",
-      "title": "Your 10-year-old graphics card can run Dragon Age: The Veilguard",
-      "url": "https://arstechnica.com/gaming/2024/08/your-10-year-old-graphics-card-can-run-dragon-age-the-veilguard/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/gtx970-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Despite changes, 2GB Pi 5 is \"functionally identical\" to other iterations.",
-      "publishedAt": "2024-08-19T15:34:17+00:00",
-      "title": "$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU",
-      "url": "https://arstechnica.com/?p=2043981",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
