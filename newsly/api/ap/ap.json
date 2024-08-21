@@ -1,20 +1,60 @@
 {
   "articles": [
     {
+      "author": "ZEKE MILLER, JONATHAN J. COOPER, AAMER MADHANI and DARLENE SUPERVILLE",
+      "description": "CHICAGO (AP) \u2014 President Joe Biden delivered his valedictory address to the Democratic National Convention on Monday night, saying, \u201cI gave my best to you\u201d and basking in a long ovation that reflected the energy released by his decision to cede the stage to Vice President Kamala Harris.",
+      "publishedAt": "2024-08-19T04:06:05Z",
+      "title": "Biden gets a rousing ovation from Democrats as he gives Harris an enthusiastic endorsement",
+      "url": "https://apnews.com/0a0e65ab69a1e338d9c1f3f137a45e82",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d3431e5a81074446879341be2ef4139c/1920.jpeg"
+    },
+    {
+      "author": "WILL WEISSERT and NICHOLAS RICCARDI",
+      "description": "CHICAGO (AP) \u2014 The Democratic National Convention 's first night showcased speeches from the last Democrat to lose to Donald Trump and the last one to beat him.",
+      "publishedAt": "2024-08-20T01:50:01Z",
+      "title": "Joe Biden's exit, talk of the glass ceiling, a nod to Gaza protesters. Takeaways from DNC's Day 1",
+      "url": "https://apnews.com/dcb94aad3450d69c9ce1c25b9699f737",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/eec471eb51d54830bc9fc46fd6c0e982/3000.jpeg"
+    },
+    {
+      "author": "BILL BARROW",
+      "description": "Barack Obama was days shy of his 43rd birthday and months from being elected to the U.S. Senate when he stepped onto a Boston stage at the 2004 Democratic National Convention.A state lawmaker from Illinois, he had an unusual profile to be a headline speaker at a presidential convention.",
+      "publishedAt": "2024-08-20T04:40:07Z",
+      "title": "Obama made his DNC debut 20 years ago. He's returning to make the case for Kamala Harris",
+      "url": "https://apnews.com/58f15df279a382be92040dfbc6adde13",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a4321860ff4c4965a1348f9cbbc51657/3000.jpeg"
+    },
+    {
       "author": "SOPHIA TAREEN, JOEY CAPPELLETTI and LEA SKENE",
-      "description": "CHICAGO (AP) \u2014 Protesters broke through a fence set up by police near the site of the Democratic National Convention on its opening day Monday as thousands took to the streets to voice their opposition to the war in Gaza.",
+      "description": "CHICAGO (AP) \u2014 Dozens of protesters broke through a security fence near the site of the Democratic National Convention on its opening day Monday as thousands took to the streets to voice their opposition to the war in Gaza.",
       "publishedAt": "2024-08-19T06:16:05Z",
-      "title": "Protesters break through security fence near site of Democratic National Convention",
+      "title": "Some protesters tear down security fence as thousands march outside Democratic National Convention",
       "url": "https://apnews.com/87d32321eb5714e2005fe8410b928513",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/cd73264bf9a94898902fe9ff075c3ff8/1920.jpeg"
     },
     {
-      "author": "FARNOUSH AMIRI, STEVE PEOPLES, ZEKE MILLER and BILL BARROW",
-      "description": "CHICAGO (AP) \u2014 A refreshed Democratic Party gathered Monday night for a valedictory speech from President Joe Biden, whose decision to end his reelection bid released newfound energy with Vice President Kamala Harris \u2032 rise to the top of the ticket.",
-      "publishedAt": "2024-08-19T04:06:05Z",
-      "title": "Democrats will honor Biden while pivoting to Harris on first day of convention",
-      "url": "https://apnews.com/0a0e65ab69a1e338d9c1f3f137a45e82",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/828aeba5fe034711b63c36b78f7205a7/1920.jpeg"
+      "author": "MATTHEW LEE",
+      "description": "TEL AVIV, Israel (AP) \u2014 U.S. Secretary of State Antony Blinken said Monday that Israel has accepted a proposal to bridge differences holding up a cease-fire and hostage release in Gaza, and he called on Hamas to do the same, without saying whether concerns cited by the militant group had been addressed.",
+      "publishedAt": "2024-08-19T06:38:11Z",
+      "title": "Blinken says Israel OKs a plan to break the cease-fire impasse and urges Hamas to do the same",
+      "url": "https://apnews.com/34f91f99c9a4f63e98134aaecb7af971",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/05d0ed0942ad41d39f6608bc35c75fc5/3000.jpeg"
+    },
+    {
+      "author": "JOSEPH KRAUSS",
+      "description": "Israel's demand for lasting control over two strategic corridors in Gaza, which Hamas has long rejected, threatens to unravel cease-fire talks aimed at ending the 10-month-old war, freeing scores of hostages and preventing an even wider conflict.",
+      "publishedAt": "2024-08-20T04:43:27Z",
+      "title": "Why is Israel demanding control over 2 Gaza corridors in the cease-fire talks?",
+      "url": "https://apnews.com/03deb20a6c549273fb4b8ce3475fff17",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/da80598594474835bfc00d13d5a6ac1f/3000.jpeg"
+    },
+    {
+      "author": "ALEX BABENKO",
+      "description": "POKROVSK, Ukraine (AP) \u2014 Civilians with small children in their arms and lugging heavy suitcases fled Monday from Ukraine\u2019s eastern city of Pokrovsk, where the Russian army was bearing down fast despite a lightning Ukrainian incursion into Russia\u2019s Kursk region.",
+      "publishedAt": "2024-08-19T10:26:46Z",
+      "title": "Civilians flee Pokrovsk as Russia's army bears down on the key eastern Ukraine city",
+      "url": "https://apnews.com/b8c4c6cc0dd81658fecdf1c83145908d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/cf9c3337d8554a8395e7e61cfc437794/1920.jpeg"
     },
     {
       "author": "JILL COLVIN and ADRIANA GOMEZ LICON",
@@ -26,59 +66,19 @@
     },
     {
       "author": "ERIC TUCKER",
-      "description": "WASHINGTON (AP) \u2014 U.S. intelligence officials said Monday they were confident that Iran was responsible for the hack of Donald Trump's presidential campaign, casting the cyber intrusion as part of a brazen and broader effort by Tehran to interfere in American politics and undermine faith in democratic institutions.",
+      "description": "WASHINGTON (AP) \u2014 U.S. intelligence officials said Monday they were confident that Iran was responsible for the hack of Donald Trump's presidential campaign, casting the cyber intrusion as part of a brazen and broader effort by Tehran to interfere in American politics and potentially shape the outcome of the election.",
       "publishedAt": "2024-08-19T21:54:24Z",
       "title": "US intelligence officials say Iran is to blame for hacks targeting Trump, Biden-Harris campaigns",
       "url": "https://apnews.com/52641cd66412d7c01d73876acab3d989",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/b7f8e6630e0a43fb8b4cceaa060dc96f/3000.jpeg"
     },
     {
-      "author": "MATTHEW LEE",
-      "description": "TEL AVIV, Israel (AP) \u2014 U.S. Secretary of State Antony Blinken said Monday that Israel has accepted a proposal to bridge differences holding up a cease-fire and hostage release in Gaza, and he called on Hamas to do the same, without saying whether concerns cited by the militant group had been addressed.",
-      "publishedAt": "2024-08-19T06:38:11Z",
-      "title": "Blinken says Israel OKs a plan to break the cease-fire impasse and urges Hamas to do the same",
-      "url": "https://apnews.com/34f91f99c9a4f63e98134aaecb7af971",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7d03eeebfa084ee69cccfaa66229997a/1920.jpeg"
-    },
-    {
-      "author": "ALEX BABENKO",
-      "description": "POKROVSK, Ukraine (AP) \u2014 Civilians with small children in their arms and lugging heavy suitcases fled Monday from Ukraine\u2019s eastern city of Pokrovsk, where the Russian army was bearing down fast despite a lightning Ukrainian incursion into Russia\u2019s Kursk region.",
-      "publishedAt": "2024-08-19T10:26:46Z",
-      "title": "Civilians flee Pokrovsk as Russia's army bears down on the key eastern Ukraine city",
-      "url": "https://apnews.com/b8c4c6cc0dd81658fecdf1c83145908d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/cf9c3337d8554a8395e7e61cfc437794/1920.jpeg"
-    },
-    {
-      "author": "PHILIP MARCELO and MICHAEL R. SISAK",
-      "description": "CENTRAL ISLIP, N.Y. (AP) \u2014 George Santos, who spun lies about his life into an 11-month stint in Congress, pleaded guilty Monday to wire fraud and aggravated identity theft in a case that led to his expulsion from office and the admission that he'd allowed ambition to cloud his judgment.",
-      "publishedAt": "2024-08-19T04:13:33Z",
-      "title": "George Santos pleads guilty, acknowledging lies and blaming ambition for conning his way to Congress",
-      "url": "https://apnews.com/90741d068fd94090419fc0fd79be30cc",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/68205667ea0342b080e14417a763c13f/1920.jpeg"
-    },
-    {
-      "author": null,
-      "description": "GALVESTON, Texas (AP) \u2014 The parents of a former student accused of killing 10 people in a 2018 school shooting near Houston cannot be held responsible for what happened, a jury decided Monday.",
-      "publishedAt": "2024-08-19T04:16:37Z",
-      "title": "Jury finds parents of Texas student accused in 2018 deadly school shooting not negligent",
-      "url": "https://apnews.com/4405cb94df864c97ba46461f8aca4700",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1bc31ff3440745c48124478dfff3909c/2400.jpeg"
-    },
-    {
-      "author": "NICOLE WINFIELD and ANDREA ROSA",
-      "description": "PORTICELLO, Sicily (AP) \u2014 British tech magnate Mike Lynch and five other people were missing after their luxury superyacht sank during a freak storm off Sicily early Monday, Italy\u2019s civil protection and authorities said.",
-      "publishedAt": "2024-08-19T07:58:46Z",
-      "title": "Search continues for British tech magnate and 5 others after luxury superyacht sinks off Sicily",
-      "url": "https://apnews.com/060bf26f426708c8eb59e81d88787d11",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a2e5f4e0c8fa47008746c9a200e7c130/1920.jpeg"
-    },
-    {
-      "author": "JULIE CARR SMYTH",
-      "description": "Phil Donahue, whose pioneering daytime talk show launched an indelible television genre that brought success to Oprah Winfrey, Montel Williams, Ellen DeGeneres and many others, has died.",
-      "publishedAt": "2024-08-19T13:56:16Z",
-      "title": "Phil Donahue, whose pioneering daytime talk show launched an indelible television genre, has died",
-      "url": "https://apnews.com/337b3630524a576407c1119f590d1dd4",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4398a071513e4cccb97a3b19bbb61464/2500.jpeg"
+      "author": "ANDREW DALTON",
+      "description": "LOS ANGELES (AP) \u2014 For nearly two decades, Phil Donahue was virtually the only TV talk show host to roam his audience with microphone and make them an essential part of his show.",
+      "publishedAt": "2024-08-20T04:02:23Z",
+      "title": "Phil Donahue, who ruled daytime talk for years until Oprah overtook him, left a lasting imprint",
+      "url": "https://apnews.com/e62596c40eb44cc1ab772b2377aeb3c5",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/53439641b56c4a20a82456ff98854506/2998.jpeg"
     }
   ],
   "sortBy": "top",

@@ -1,114 +1,205 @@
 {
   "articles": [
     {
-      "author": "ABC News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T21:56:15Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Phil Donahue, influential TV talk show host, dead at 88 - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMlc4U21iek85V2trLU5vZklBQ3ZVYVN1dWlLVWlGd2Vua2xlUkdMTUdjNHNkdGlyQThpX2I2YVFlM0F1U242LUhIbFc0UGQyRzJKQXFKUFNWa21WaC1HaE0xM2Q3UTRNRU1kdE5iRnlNOEkzZDBsMkFTdUZYMWlIcERueVhFX3U3UGlhMFhCeU5mVGNqUWhUS29tM3VTM2ZfUHl30gGoAUFVX3lxTFAwTTJ4Y1liYzB4TU1rYVFPb2FOV1M3NXBEa2RzY0RiZU9TMTdSOEJUSGE0UTJ3WmJhbnFTM0FVV2JpQUNGWHpPZFk0OW9DUmw3TTFwU19odDdDRDduckNFTG9DaEtWbFM4dUkyUzcxU3MwZkpvVXhYb3NkanB4dFdTQTlWcldEMGtpUmQ3N3k5SzdXalJKYlgzcmpPcmI3cnVYaTUwQm8tWg?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T21:48:32Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Blinken says Israel accepts Gaza proposal, urges Hamas to do same - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmlUUlVFRjh5MDB1aDJJVXBEVDQ5MVl1cm81VzZvSVl0TGZNS3k4YVRaR05ST1NqQl84aWxPWWh5T05hNEV6aVdKM1NzVG93WkxxSy0wYzFoejZaRGJqYllhNWN6cGxieS1NcWlMS3hJVHcyb1R5RlpTUVc2SS1Rb1FMaEtLNDFMN19qbmhuejl1c0F6aDNnbGxmNVVtT1pIX3BnZnFiZjl2SHl5aVdN?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CBS News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T21:38:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Trump insults Harris' intelligence, discusses election outcome, release of medical records - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFlPWEZMNnFFTWpGX0U0cXBYLVdiUnhCTnBUbEJqTnEtQldSYnlyV0Y3SUpNbWlXVi03R011ZVpyT2YtWWVRZk9udGlBWlBXSjNqdzJCMzhqQTM3aHRuUGlMbGlKc3dyeXNPeFhkVFBwaFItWTRmRnVoZzJpWXExdXM5cU9JX2pNdWtLWnQ4MFgzZVp4T1dR?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Inman",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T21:17:15Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "NAR settlement rules: Live updates as the real estate changes roll out - Inman",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOam8zR3E1N2d2bXRVZHRwbWxPT3I5RzZ0aU9FclMzWFBFX21DTGY2TEw4QjNSdjFkcXBIaFNyY2NVcDI0OWpfMkRpN1pnaU1pY05rOFY3clZlb1Naazd5Um5PdzdlRE9QU0pHYTE1RWZCMEczbHhCQzgwSUZ2SEUwc1h1aW1hTU9YSDdoenR2ZW9LWGtoNkdHdnpCMndHRm5seU1ZRk130gGrAUFVX3lxTE1IY3NiRS1YbjI4M2lUTGxDNXBxb3pweDVzUDZaeEl4Z0RqYXd5REVzYVUzd2VvRGN5TVkyU0J6UG9kV2pQQVZvWlRQX1VfYXdENk85Q0lBQlR0UTJMeTE4MzNQalJOS1VzalJuZlZDZWNrY3U5bGp0SUVCM0NIRzJkRWhCNzdfeFkzUVNLaURlZ09HZnZ2OXdDYV9PVmw3allDbzFVTkttcHdaNA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Neuroscience News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T20:43:13Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Long COVID Linked to Brain Inflammation and Low Cortisol - Neuroscience News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Sd2NpTFNQbUhmLTlBQjEyRzJPT0FDUHBITkQwNlpCTjVsY3VwcEpXb3RydW1Jc3A0ZlhHYktuSkkyN29wcnFxRXM2czBwTGU5YkM4ODNaSnI0QXNZbTNlb0xoaHpFZU94aDdUVXFSZXBndF9GSnlF?oc=5",
-      "urlToImage": null
-    },
-    {
       "author": "CNN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-19T20:26:00Z",
+      "publishedAt": "2024-08-20T05:42:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Six people missing and one dead after tornado sinks luxury yacht off Sicily - CNN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25HLVJUaXFkdHE0eDZKVlZONnQ5WUYtWkZmSm5fZjZlNjVVX1k1OWROM1lnYVFadUp3UHRsUjl0RExPLS1BSDNUVWl4YTdWZ0pJTWxKRU56bW9WUkJyak9iWXpZa1FReVpOVUM5S193WXUtWklfWUtYNTJycGpocXd4RUV4MDNqMkdxa05fUkdCVlFvZjBMYWZQc9IBkgFBVV95cUxPc0JWR2MzS1FzSUU0TVVWakhLdjlOaE5KSG01SW84WWVvNWpPNVNNUkdzNkhSN2xzVTZ0ZFlGbkNlWWttdENLQ0tjb0daZ0RLSmtBY2dOMXZ4bHFsdGdteTZEblJwMTEwaDhscXRUT2FBNEJtM05JT204TXJ6d3QzZjJURkdEbXROeFpDUmZoaExtQQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Forbes",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T20:24:08Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Ukraine Is Trying To Double The Area Of Russia It Controls\u2014By Destroying Bridges And Blocking Reinforcements - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNHIwX2ZIT3Rla3U0WEVfdTBWb3QyTmtsdkNrWWJCUkhPbkROSENHMHVQRlJlTUFoT2ozQ1c4R3E2dW1ybmlfMU5WakFsUTloZlZtMndaT29GSE1wTUtTZnM1WnZmT0FsNW9RdTNJRmlGdmN4V2ItXzNFckRvNXlZREhUVWtuazJvZzNEOXFOTzFQcVktM08zdDVkUFFNRXI2Z0lLNFNIV29rRW5GVjNzZjhTOFlfdjY3UEdCbUhxQlFsNURkMjZNSUR5NnlJSEwyaC1UdHV2SVNMbE5pbjlkemZQYi1SUGlYbnlzSE1nNA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "ABC News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T20:14:14Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "George Santos pleads guilty to wire fraud, aggravated identity theft - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVZDQ284aV9yLVRCVVI4SnN5UXhHTmRiWGRDVzUzNi1QTG43cVhKQXdwTlBZTjBZTzR2VWtXdXNlVEhiQnBxdkdsUWljNkR0RU9jMy00emdPUzdwTmwtcm8tUm1wMHVvbTdFLXprcXBqWk9EZ1dvS2lqZzRUVXVPaTU4YWRsWmlHY3QzQmJvTWVIUXNOSzM2WV9CNlRFNUY2T2dXODZBejQ1OUtnd0HSAbMBQVVfeXFMTV9uX0hQZTB1dFp1SF9IMExkcnJSUVdhckpCZlk1YzI3MzN2Y3NYX3ZpMXNwY0ZpbEplUmpLd0V6V0VuZmwwN3F4Mi1rMnBsQzM1cFFUcERQb0lIdFJlT3BOOWpnc3RHQ0VHT2FlcVdtdnNjdWhhUWoxSmFFUUJKS19PcXZ4eVZUT0ZRZGM4VjllbVF1bGlVYnhzanlPREVhTE5JMm1neTZFM3NodHBPV1ZNX3M?oc=5",
+      "title": "Fact-checking night 1 of the Democratic National Convention - CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXNNNlBlYklBWU02dVFTbXBGaEcyYUl0Y04yMTRyVm4tZWlZYndWOXJOaVZVQnpxY1BOZVlKdUlMRWZMbzVGUVQ3RFZscW5QZkQybktsa3FLeGRvWWZCeHRjQm5uWlJWeUZkeHltTUROTDVWYVlZRVJ6d3ZFdDBWZ1lVeWFYcDhMbnpVaE5iOWtoSm9VN2dFM0ZTSGlVcm1wU0pUcg?oc=5",
       "urlToImage": null
     },
     {
       "author": "The Associated Press",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-19T19:46:00Z",
+      "publishedAt": "2024-08-20T05:28:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "August\u2019s supermoon is the first of four lunar spectacles - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWQ3ZlltM21rUThFeHhvYWo1a0ljS1VwcktyVzRBajc1RWJqRGVMVjZHUU42VUhkWWhJM1AyQzFIZ0dXa3ZYdGdBeTZnelc4TVMxMUZvMTlrUVNuUE5jSGp4bkdjUWR6Q055RDZxNUhNM1VYV2hjZUZvd1RIU3g0ODRzUWxnUQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CBS New York",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T04:44:14Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "George Santos reaches plea deal, pleads guilty to wire fraud and identity theft - CBS New York",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhdVdfYXJFWk91TXVjdENrUkdvOHZNWGVUNVU2aG4xY1JYa3VTN2dsZFdpdFFVSldPQ1k5cVpMUk5lQzRMWEh5ckNkSncyWnNLQnByaEwzNkVKbjJ6MUFOYWZyZURjS0U5dWVrVTNJakZiS0YyUGFJ0gF8QVVfeXFMTnRJbU9xamI0SkhYQmVmRlRYLUZYbG9JZzVsTHRQaUg0Rm5Fc0RwbFdxdWZUay1pZVY3MlBDR2EtRUhpNm83Z0F4b1Z6Q1Vta1hhcVJONS1qRHl3YjRaSnRyNHZNQ0dxcXo3ZXZZT3k0YWVQYVlaMmJIOW9weQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Alaska Airlines Blog",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T04:33:01Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "DOJ review period under HSR Act expires; Alaska Airlines awaiting next steps with DOT - Alaska Airlines Blog",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWJuUWdWUTlYd2VyZlltcUExODJRR1loNUwyTmFoZFRrMFZuMVg5aTJjSnpJZDRpTU9BZnFlaXg2MTRhRkFZeWZicmVSSS1qV1JjanJyVHE0aC1COW50RDNGdENxNkhaUF9QSEFSSGNmZGVHWDM2eHlVVWppOUltdHVYZ2RQNVIxZG1fM3FvVUtLQXhmQnRPbW96UmcwTzNTOUpwMVJNeTdqZHNMSUdrZ0NGMG1sTUduQ0ZwYw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Al Jazeera English",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T03:24:39Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Trump posts AI fakes implying Taylor Swift endorsement - Al Jazeera English",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWw0OWRGUUF1RmRrZl9mTHE5ZWEwNE1rVzNZdEdjUi00Z2pqRHJnWVpKU2tOMElKaHJPU25pSTczTk1kUFV6RWtKSzYwUVpiMktIcFFqVW1ybmF1UGlrQlJNM1dYWTBWSEtQUlNwY1dnRTdaSEVlM0lOZ3Ywb2FBV1k1anJpb2ZEYUJFYmlXcndGUXJtZmt6ZllPVdIBoAFBVV95cUxOdmR2S0tqbDY2aGVkR1NqdnR0SlpmZ0Fjb1FGMXZwb1VGYlhKdVRCdmozQlpIcGNPUTZ5cGtkRGN1R2FpN2hfWktyM2Z5U2QtREhNQTlCZm54Sk1tSjRfaGNKdE9TdFQ5Wkl1cWRPVjVSMjh5Nnoxa2twd1NmalhFbEVzOWx6MXNXSVRmak1SRFBidEVEU1BWS0ZWdHZNLXFI?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T03:18:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Ernesto retains strength as a hurricane over the open Atlantic - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSndWR3YwLUZicjg3aXJvT1ZtdHZlQU1uei0wUW8zaGFYc2tGQVd3U05CNXlzNVB5RlpCM2RNY0FmenRZWWduTTJzQ09wbzA0ZktJYlpsRlJHR19CWjdxTWRuemFTSFNhWDJCM1I2LWNVb3VoWjBuVWQxQmN3Q3hkOTZObl9pVjkzT0tsM3ZkZVFVRmFzUXZvbEZsNHk?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Guardian US",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T03:15:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Two men charged with murder of General Hospital actor Johnny Wactor - The Guardian US",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFMyMWgwb0ljNzV5QUdNb29SNDNzTjQ0bWV4a0NMZmtwbDFrcjJiaGR5aGJHb3FCLUVyVUhLOWtNcUQxcUxseTdYemZ5VUNKalhHQmkxbFpRY1hrRmxib3RmbU9jbGJCc2NCcEE0SXdlcmVUQi1CMnZPdzc4RExhSENqUHdJelV3YXVR?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Deadline",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T02:43:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Marlo Thomas Remembers Her Late Husband Of 44 Years, Phil Donahue - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVjBaNFRiOWFwQjhlMkF3a3kxRnFnRFN3ajA3YlB6V21oa3pxb3h2RjNqSjBPX2VCSy1fMnIteFB0T3VMRlRWZlpVeG5LX2R0OVI0cEdIaHhRSHpBT0FFQ0lEakJySkFKNlJsbDNRZHR4QjRxVy0yY2hGaERvQ3p2MmJR?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Guardian",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T01:03:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Sicily yacht sinking: Morgan Stanley International chair Jonathan Bloomer among missing - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzZxcmU1TkdqRTRTaE10bXV6SEQxOEk0VTN5S1NFcS1BS0RRS3N4UkFkbG9scG9makZoc2hWY1UwRzl4bFlHRXVDRjY5U3M4QlJucm5lMVNLVk85bWxrWXVVN0J5QzZ3VGdhanBONkx6Zlh6TGNMZjdsZlk2VGhWRWJyVTQ5UTZCcUk5VFJIY2gzc0prdWdBYnFGVEVDWWZieHF4alBDMzMzTWRWZURTWkM3UkJ5bXgxdG1waGJVNA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Axios",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T00:58:15Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Netanyahu's ceasefire doublespeak: Dovish with U.S., hawkish with negotiators - Axios",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55czJOMTJYejBweC1hZ19KODExSHlyVHdwLVFqbW1ETVNTdUY4MlRnY3g1U213NDM1cURYd2hob25PanlsWEU4bERiZXpOa1lZc25mNnV4X0xPZEkwTnR5Zk1YZUZrcmtFX1VWSGZrZE1OclZKdDE0WlZ3UjJiUQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "USA TODAY",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-20T00:56:15Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Let us use long-range weapons, Zelenskyy says after Ukraine strikes 3rd Kursk bridge - USA TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHZaTHhfTFQ3Q0djQU82U05jUGpCVmhlNXZfeGEwMjNJVXZVWWdaX1d1N0VpbHpLaDdnZkZhMmRxdDJVc05iUmV5Q3A2Mk93VFJ6aFFrSF9QLUdTTV9OUzVoX1J6TWtId0duQ2l0MXFyTXJzWUdaYUJfelB2M2k1aUNCYk52LWVIR2wtU3VrMl9yc3VOU0hhUDlfRFJVYldtWEtvNk43azFKcW5iRG5xTUE5UF80LTdkckE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Ars Technica",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-19T23:53:12Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Amid summer COVID surge, FDA reportedly poised to approve updated shots - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY25oQlgzN0cyejFiYXgtNjJrN3c5cTFTUzNYZUMwOW9Dck81M2w4WnNkS2VTT0hTMDBRNzNIZXFKU0hGbU5tNXM1VE5IRng5cGltd1J6aWYwV0RNWW9aVU9VQ183aHY4RDhsTzllT21LZTBxcGxTcjRZTXNpUjYxQ3Nua2NRZHp3RkJiRHV6WV96OGdlR2M4d2hfcnF4bTFwOHNEMmhYVHhoLTBpZE1YXw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Fox Business",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-19T23:35:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Musk's SpaceX takes bold step beyond space station on the way to making humanity an 'interplanetary species' - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblZHWDBfU19Oa0FOMjAzT05jX0FfV0Zsc2JUREJRd200NGRVbV90Z1dhX3Z5aWIteWRBN0hyUDJLRVBHMFFwSnM3dDJtWkxxaXpCeEFmOUFVVmE1aUVzUVR4MHpKak85SENydG15Uzc3VXZ6alFGdlFFVGt1RFhSdVE0SVFjZW1RZm1zaVQxU2hyQndGdEdva2p3U294eUY4X2kxMWVheGdueV8yUklMR0NZQmdLZVZISEoyQU00MndYZ9IBxwFBVV95cUxQanVFbHFVbUF0a2xQdTRrX05yZUtaaHNyNFIwblV0V3BTZXZkQWpmUHV3U0JsZ1NOTmxwaDlkczllSnF5ei1WUjllYTNraU1aTzVUMWxqOGNxZkRpaUtPQmUwVWNfeXJhTUR4Wjh1VHJYVmNKQmRNWVhyUEdqR2xnLVpFb3A3RXBfRUNnS25pRUktclQwYWY1SDAwLWdJclQwWEZIT0x2dFRhQWlHa0tGU3BDUkdKaVJGNUZlODhDXzZSX2d6ZmhJ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Rolling Stone",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-19T23:28:38Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Chappell Roan Says She's 'Allowed to Say No to Creepy Behavior' After Facing 'Harassment' - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzVieGdjd1U3ZGl4X1ZpRWwteXVxYXZqVWgwNkt4OUIzOW5fay1kdVFYY2FoVTBMeC1tRVZ6NGRTb1BoQkg3QjVPZTNTUkVsT1Z2NEJyOHRheWozMGZXZXF3elZwSkEtbk9WemVuZ05FbU5UNXlyWEhjZmVVMlREcFNfTVVPTGhIRnc3QWg5NkxsdUptNkNWUzdlYkhCUXVxZmlSSA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "NBC Sports",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-19T23:27:49Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "NFL preseason Week 2 fantasy takeaways - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjdlWXYtQlhUeTRHM0p5OWZDck9QNXZlM0gwM2ZmLWxqdVFyejlIYXNOdGtZSmd4VEpiNzlYWUl3bWNqNDFUUElxdjk4VXA5bXd3NlNnNHAxdlA0T0YtTWxrSER1SENrT204VzhMa05OdGs0czU2Y21GeDNPazNieDZOZ2hWUVRqMktNYzJicw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-19T23:20:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
@@ -118,146 +209,55 @@
       "urlToImage": null
     },
     {
-      "author": "The Guardian US",
+      "author": "Fox News",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-19T19:42:00Z",
+      "publishedAt": "2024-08-19T22:59:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Washington DC council member arrested on bribery charges - The Guardian US",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdW9XM2dQTU94RF9ZbTVyQVZubGdpMXN1ekQ3RmtjdjdjX1RWaVpCYnFUOXRxX3RHcjg3dEhLTkMwaDl0N1hPMmFENEJzbktSUC1TMF9UOEFrQzB1Qmlac0pOOWRPT2hhMTVsYW9LOWVsV2FJdmRoOG53NklWaTlQWElmakpPcG9nbDNBYXBRaWo3WWZQQ0Rsc3VR?oc=5",
+      "title": "Chicago grocery owner skeptical of Harris 'gouging' plan: 'What exactly are we trying to control?' - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUNuNnlpUGxpTGpzU0pXVms5Zkp3T3VtQlZPeER5aUUzU0o0Q294UkdmNXJtLWtpSFE0aGRhUE03MzUxYWhpT3k2TXBRUUUtOFZmVjlQNl9rZ253dHRUZkRHdkYyNUlmemVNTTdWLWxVYUFoUWlmNHlJakt4SG16a2ZkQ0FEYmFUNmhGX2pGVDFnTW9rd214aFBrZDdZa1hyQjNlbDlTWk90enNqN3ctbG1OWWp2d9IBuwFBVV95cUxQOFloUTFQZ3d5WnFPTVZsTkNVczAtaWtJaWJzNURkRGNmYUJxZUlOSU5hM0ZBazdYX3pNZmVRT3R3ZlBjUThXTE5FQk5tb2VIRlVnYUZ5OGV0NmN5UHFRclRkcGVZd3AtRVFaNkVwWXhidE1sOEJPdW56aW40Qi1ybDMtSUhiZzZZYnZDZHFZTzUySTVsbzdUeFh1Q1FTY0xmZnJ5OXJ1ZTlJYkIyRGV6dHVtcWw5VFpST0lF?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Yahoo! Voices",
+      "author": "Fox News",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-19T19:11:54Z",
+      "publishedAt": "2024-08-19T22:50:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "The blue supermoon has been lighting up the globe. Here's how you can view it tonight in the United States. - Yahoo! Voices",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZThZQ2tGbDFUdUpHblJicGNaU1BwTk5ETTMxdlhhU245dmlINHlZbGtWX3dzQUNVVHpWMV9rREZsQ2ljU1hvamxnU1p3X1prQXBwQXp5Tlh4VDF6UjV3dUZpYWY4N0MxLUhmOWZvaVNQT0hQNTB3bjFhTExvSExBdVh6T0dCYXRIUnRmbHdwYlpqR1hfUkpoNERMV0t5SXN5RUl2RkVpTzQzVWViQzA4ZlQ2YXREb203ZnI0VzgtVmdkSFdhUTRmZnFTeDVBWUdtZFpYYWpQa1hqSFBYRklZ?oc=5",
+      "title": "First at-home syphilis antibody test gets FDA authorization as STD cases spike in US - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGY4cl94eHZ6RmZuQ3dRQXMyN0F1dUdMWEpQdGZyRHNZTUxiXzlxUERYVmpTTlY5eDlNYVZxSFZyU0RWMm9ZUkxNamgtZmpUcGxVeTBIMXhvNmRyRWdRMC14cktmQXoyZTR1aW5JQkdDeGhiY3B4YUdDekVDVjA4eDlaaHZ1Z1p2ekhNU21jMXAzOHhveHJhMWM4eDZfYlFvVmxFZlVqQWJwUdIBrwFBVV95cUxNVkJBZG9JV2F0cUFaY2hZc1pWWDNlZHRxSzgycjJtai0yYmZCYTFYN3lNQ2E3bmhFcDV5a20zMTkwd2pMbzRDN1AtZGhiTktSMVJ4Wk5kWWhCa3F6Wmp3M2RFUzgyR1VmY0tjbHp1aTMyMGlSN0RMYWw4VVVQNkhxcXVnamhodmwxaVJneXB1dDNFMWF2OXIxOVRURTJkcXBTUlNpMmtFd3Z5VzFfU0hN?oc=5",
       "urlToImage": null
     },
     {
-      "author": "CBS News",
+      "author": "Bloomberg",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-19T18:34:47Z",
+      "publishedAt": "2024-08-19T22:42:45Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "The 2024 Democratic National Convention starts today. Here's what to know. - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTW1KSUl6T3lDLUIxUXlfSTNqME0yWm13WEhMSHp1Zi1yUFdJMTN1TERnOTBFVWE4ZHB5dloxMlBjeFNpUTRmdG9SSENWUFB1Ylg1ZURQMVhKdzJITFJtbi0tT1NCclVFaExVYzZVNk1ISERfdzJPNzF3a3FTOHlJV2RCSlXSAYoBQVVfeXFMUGZpRHFsSWh6bzU1SUs3U0NOUDdnNm9UN083ckU0c3hNb1ZmZ1pVU2JVRmRMODl6U1hvMW5PMWF5T2JTMDVJTVZSZUVEZGRSdTZuQW1jaHpEUFBVd1FRZ0o5R2FhVmp6dDNBMjdyVnFBVW1DRTltM1ctdUlldExWMEh5VVF4NnlWelln?oc=5",
+      "title": "Asian Stocks to Get Boost From Bullish Wall Street: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGpHMUdqZkxDNUxBQlN3WXRwejhLWl8tYzhfajNZY0kzQ0ZiUC10bHF6ZUh1dk5MQi11SWZvRW5wYzhzNTRsajRUZm1GWWQ2YlVadVNTRXhQeGQ1MTlDYmU4Si05OE4xQ2RRcm9LRVJuNm5FdVpwVVFvbmZtVnlXM0E5cExWRWhiNTE0MWpZQkMwY3RC?oc=5",
       "urlToImage": null
     },
     {
-      "author": "ESPN",
+      "author": "PBS NewsHour",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-19T17:59:00Z",
+      "publishedAt": "2024-08-19T22:40:58Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Commanders officially name Daniels starting QB - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3RDQ3Rialo4WTBNcnJJTy1OSFJfMG9QQXd3NFdYWUk3RFJmaXJoaFdtWXFwakVmUnRMUXp0aDNOSjBHNHdVQVJFQ2tzVVdnMFdJY3hHckc2RGd0TUdiaEhzSy1IcUVuZTJYazQ1cE0zQ24tZUk1S05taFVkelB4TEFia1V2Wm1STmliT001aVRjZ2ZEX2hxZE9WUHBib1M2bEUwbjhHeUc?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Fortune",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T17:53:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Kamala Harris\u2019s housing plan is similar to a Singaporean strategy\u2014where 90% of residents own their homes - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2U4V0Zjd0c2bHU1aW9mWmpOSmRZakZ5UklabDBtYjFGeHI4TVNOcWFxcXdWVWJwSzFsVDZrYTNuMFdTb25WSzdrLTNrTGx4RkZzZlRsX2hXQTZIVmZNd0stRm1ST1NSS094UzZNN2Z4c3dmQ2ZubDBGaTNQZmFvZVJBRjF2QQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Cut",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T17:49:50Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Which Celebrities Will Be at the DNC? - The Cut",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUNZd1RVOUFIaVc4b3lCZ2U0Y3V1RGduY3B6ZTRES2NfWF9lQkg2eXpjZlFNMU5HVldyOVpFSDc4WmdQVlFIN2dYeTRFVXlkSC1HT3FkZWZ3NTc0Z0JOd09ESlNVMkJFX2FCVHg3cmJlUEU2akxZQlM3cHpaZ01MT1duN2dmcEdSX3c?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Register",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T17:41:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Microsoft closes Windows 11 upgrade loophole in latest Insider build - The Register",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByR3Z6czMyT042NDJhRW1Zejg5ZTRHZWV2Qkh3ZWd4OVZReTNMTGRfLTdqcUNVWWgxYmpzYlRzbEpKSU53ODZBTjkyQ2FyQnUtSUFwSGd6cXBJZkhKcDFoWjF6cERvQjdhN05DeFFpMDNlclpQ0gF6QVVfeXFMTll3STY4QU8tQVlRajVyWm1oMzBycTNDUEZpMkhZTDJ4QzR2R295QXVXa0JhQUw1eFpZNWlsUjFuMUhZcDlqUWJuTTNyZmlydHBSLW1OYkhaSXMwNmh2NzR5TVk2OGhwWWFlNHRMVVI4Y09odTJmY1d0a3c?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CNN",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T17:27:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Exclusive: Conservative Republican endorses Harris, calls Trump a threat to democracy - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlVwV2E0YU1KSEpFdllWZ083MFN2ZFNjLTJ2S0lGM2pCVm85Z1dMRHlUVjBuVW8wMXpJWHB5dGtWejJ4RkdTYVM0YWxWNXZUYzNvLVdzZUZvTG5qZ3BsLUhjQnFiQkU4NnVnSVVxZ1U0MlI3WWEyUHRZMWp2RjFiWGlpS2JnRkZlUHNzVDBwLWU2dXd3NllTOUFfQURtNWJpSmFhVWZkWlpQOS1ObldWV3I2RUpxdC1yTWFyYl9vZEpxUdIBuAFBVV95cUxQQklWVVp1NWtDVkJHMFRjSmd4ZzlDYmViOWo5V0xjYUdqSjFidldlVXhwR2hUQ2JlR2JfWXB0X2N3d2hROWEzN3BiclFzSFRrQmlWbTRtMTc4cERqejNzaWQ1LXBrSjkxQVVoRnZUX2N1Qy1GVDY1aEg0ZzhFWHdwMldoYkJGeHByM0pMdTFEQkZiUnNoSmo2a3VQYzZ4eVFPN2s1ODdxdmRpQlM3NmhVZnREMndKWHp2?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "MarketWatch",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T17:26:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Here\u2019s how U.S. stocks historically perform around Fed\u2019s Jackson Hole gathering - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1FQMTBaSGhZeGhGTXBIQUdXaEctQ2ZwX2VsVXA0UG80bkwwRWhvaFhLZTJpVU8zOG9DZC1tTVNtZ2RoaTFKeXlndXRmM1pVTjBGNlF4WG1aMmd4c01FTkx0WmI3Rm0xVjAtNkxtU0VBRUZadnhFa2MycDFrMU93SVpEQnl3bnEzYlRMd3NibzFudG5ZbFpjMFpyTjlyVThjWGVMRE15S3ZaS19SM0Z1V3Q2OW5wSXdRRHhzZFd4Q1HSAcYBQVVfeXFMTjNiTmVUd3htLTZIXzdKTllHT1JNTmZrY1Y2a2VoWUZVczU5c0VwbHVaOVBQeGlhV21vYmhGVWxGNFpQaVR4c25JeEVxSk1oazBoQWlxbnVjLXZCSjBaZXExdk9uQXo4akM0eUFRYzVnenN5emREOFpqdUh5OWVkWFRPWllDcmtrQW9fdmg0S2JtZ3pBdEhFVDhTNWt1QVk2Vm9BVXU5SjlZMXpmMFBIWXdVVWZaWFhSY2lWYXVVS294b2FYZ1hB?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Washington Post",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T17:15:38Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Hamas claims Tel Aviv attack as Blinken promotes cease-fire in Israel - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXlodnhoUWtZT2RkMkRpNG5WTWF0clNLUWoyaGx3N3NmU01KdndtR0w0TnE2UzZnT2RNd0FlMDJSSWhpbjFibkNIbEJTRWtpb2lBNVYtUGVraUF4ZGRJYUNSbU5sQVNYZkliaHVLR3R3ampXd2ZLaE9XY2g5NDNWcFBLOG5FWS1RdTBPMVhuQzZLZw?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "WPLG Local 10",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-19T17:05:25Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "South Florida AT&T workers go on strike - WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnFTXy00SUVhemtrQzBwNnI5UUdWbHVmWlk4SHRpSUNSdlFYcC1aLWxiRlBGcXFGOVBaNTBkandIMndpR3NpekJ1Q0dDcVlMOGhfOC1xY1RDM0FnZWhLREhNOVlIQmRHOHBfam1GVTUtRDdzNzhuOWRGUld4UE85TmVhLVpKTlFYYkNkUkZ3?oc=5",
+      "title": "Key takeaways from the House GOP's Biden impeachment inquiry report - PBS NewsHour",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWThjTEtORm4yYjdPdUE5WVlJbWc1NHA0R2JITHdGQjN2ZTNkNTR2Y1l1TVpKUVVVMHZpaVlyc042VHk1QlB4S2ZoMXZteVFLR05BcWpjSUlTOWhWRkJOSEpxVV9ZaEFMNURnOVY5a2VMdk82YUtRSWVJR245Z3pnZTdQVGF4R0gtVzZlOGQwRFIxOFJGaXQyTldOMzZiTE84Z2fSAacBQVVfeXFMT0RUOGJtSWZWVm5SRW4wdjNWaU5IX2xSSFJ5NFJaU21VTS1lSTVnbE5WTk9EREI5WktrVF82MWV6ZURXNnJ2c09fdzYxZk5tdGt4OFVkQm9yRmRDT2xRSlZxd21NMnhuV1U0T3NERUtVMmp3Q2tqblVoTldBVGotUkhQVUoxWTVva2ZpTkVFUVRwUHoyaHdvNDVoa2lUV3FCcU5QNEJ2X2M?oc=5",
       "urlToImage": null
     }
   ],
