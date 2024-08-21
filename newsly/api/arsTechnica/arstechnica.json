@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "Old books with toxic dyes may be in universities, public libraries, private collections.",
+      "publishedAt": "2024-08-19T21:58:43+00:00",
+      "title": "That book is poison: Even more Victorian covers found to contain toxic dyes",
+      "url": "https://arstechnica.com/science/2024/08/that-book-is-poison-even-more-victorian-covers-found-to-contain-toxic-dyes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/poisonTOP-760x380.jpg"
+    },
+    {
+      "author": "Michael Acton, Financial Times",
+      "description": "Company hopes acquisition of ZT Systems will accelerate adoption of its data center chips.",
+      "publishedAt": "2024-08-19T20:32:11+00:00",
+      "title": "AMD signs $4.9 billion deal to challenge Nvidia\u2019s AI infrastructure lead",
+      "url": "https://www.ft.com/content/f00c0e11-b0dd-419a-a11a-f2cc586bba08",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2158733771-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Judge dismisses Tesla/X link, accuses Media Matters of seeking \"backdoor recusal.\"",
+      "publishedAt": "2024-08-19T17:41:39+00:00",
+      "title": "Texas judge who bought Tesla stock won\u2019t recuse himself from X v. Media Matters",
+      "url": "https://arstechnica.com/tech-policy/2024/08/texas-judge-who-bought-tesla-stock-wont-recuse-himself-from-x-v-media-matters/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/judges-gavel-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "In order to send NASA's ESCAPADE mission to Mars, Blue Origin must launch in September or October.",
       "publishedAt": "2024-08-19T17:16:05+00:00",
@@ -20,7 +44,7 @@
       "author": "Scharon Harding",
       "description": "Claims that there will be no new Versas or Senses is incorrect, rep says.",
       "publishedAt": "2024-08-19T16:30:59+00:00",
-      "title": "Google denies report that it\u2019s discontinuing Fitbit products",
+      "title": "Google denies reports that it\u2019s discontinuing Fitbit products",
       "url": "https://arstechnica.com/gadgets/2024/08/google-denies-report-that-its-discontinuing-fitbit-products/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Fitbit-Sense-2-760x380.jpg"
     },
@@ -55,30 +79,6 @@
       "title": "Meteorites give the Moon its extremely thin atmosphere",
       "url": "https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/image-2-760x380.png"
-    },
-    {
-      "author": "Christopher Grimes, Financial Times",
-      "description": "Upcoming launch of $42.99 sports package likely to \"substantially lessen competition.\"",
-      "publishedAt": "2024-08-17T03:15:22+00:00",
-      "title": "Judge calls foul on Venu, blocks launch of ESPN-Warner-Fox streaming service",
-      "url": "https://www.ft.com/content/4316c318-b4d8-4042-81fe-3800a071fd83",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/hookedem-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "TikTok and Bilibili users transform nonsensical AI glitches into real-world performance art.",
-      "publishedAt": "2024-08-16T19:09:03+00:00",
-      "title": "Chinese social media users hilariously mock AI video fails",
-      "url": "https://arstechnica.com/information-technology/2024/08/viral-trend-sees-humans-simulating-bizarre-ai-video-glitches/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/ai_video_imitation_2-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Epic also launched its store on Android.",
-      "publishedAt": "2024-08-16T18:48:57+00:00",
-      "title": "Epic Games Store and Fortnite arrive on EU iPhones",
-      "url": "https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/fortnite-760x360.png"
     }
   ],
   "sortBy": "top",
