@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Microsoft said its update wouldn't install on Linux devices. It did anyway.",
+      "publishedAt": "2024-08-21T00:17:10+00:00",
+      "title": "\u201cSomething has gone seriously wrong,\u201d dual-boot systems warn after Microsoft update",
+      "url": "https://arstechnica.com/security/2024/08/a-patch-microsoft-spent-2-years-preparing-is-making-a-mess-for-some-linux-users/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/power-on-button-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "Star Wars series was admittedly uneven, but didn't deserve the online hate it received.",
       "publishedAt": "2024-08-20T21:38:53+00:00",
@@ -71,14 +79,6 @@
       "title": "Procreate defies AI trend, pledges \u201cno generative AI\u201d in its illustration app",
       "url": "https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/procreate_cuda_header_2-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"It's not easy to ever raise for an asteroid mining company, right?\"",
-      "publishedAt": "2024-08-20T16:00:38+00:00",
-      "title": "Against all odds, an asteroid mining company appears to be making headway",
-      "url": "https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/August-2024-Odin-4-760x380.jpg"
     }
   ],
   "sortBy": "top",
