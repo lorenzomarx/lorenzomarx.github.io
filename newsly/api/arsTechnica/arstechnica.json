@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "A newcomer dives into AI with the Pixel 9 Pro.",
+      "publishedAt": "2024-08-21T17:18:30+00:00",
+      "title": "Pixel 9 phones: The Gemini AI stuff, reviewed",
+      "url": "https://arstechnica.com/gadgets/2024/08/pixel-9-phones-the-gemini-ai-stuff-reviewed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_51333-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Google's AI says you can use Pixel 9 without AI. Is that a reason to upgrade?",
+      "publishedAt": "2024-08-21T17:00:06+00:00",
+      "title": "Pixel 9 family: The \u201cjust hardware\u201d review (no AI)",
+      "url": "https://arstechnica.com/gadgets/2024/08/pixel-9-family-the-just-hardware-review-no-ai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_51335-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Patrick Spence admits Sonos has made \"painful mistakes\" recently.",
+      "publishedAt": "2024-08-21T15:38:47+00:00",
+      "title": "\u201cDisappointing\u201d: Sonos CEO says old, user-preferred app can\u2019t be re-released",
+      "url": "https://arstechnica.com/gadgets/2024/08/disappointing-sonos-ceo-says-old-user-preferred-app-cant-be-re-released/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/Sonos-Ace-lifestyle-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Judge: FTC Act doesn't give substantive rulemaking authority to FTC.",
+      "publishedAt": "2024-08-21T15:31:57+00:00",
+      "title": "Federal judge in Texas strikes down FTC\u2019s ban on noncompete agreements",
+      "url": "https://arstechnica.com/tech-policy/2024/08/ftc-cant-enforce-ban-on-noncompete-agreements-thanks-to-judge-in-texas/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/lina-khan-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The automaker plans some new pickups and smaller, cheaper EVs.",
+      "publishedAt": "2024-08-21T15:12:22+00:00",
+      "title": "Ford rethinks EV strategy again\u2014ditching 3-row SUVs, adding vans",
+      "url": "https://arstechnica.com/cars/2024/08/ford-rethinks-ev-strategy-again-ditching-3-row-suvs-adding-vans/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/All-New-Ford-E-Transit_Mustang-Mach-E_All-Electric-F-150-760x380.jpg"
+    },
+    {
+      "author": "Stephanie Stacey, Financial Times",
+      "description": "Botched update leads to claims that competitors are \"ambulance chasing.\"",
+      "publishedAt": "2024-08-21T13:51:18+00:00",
+      "title": "CrowdStrike unhappy with \u201cshady commentary\u201d from competitors after outage",
+      "url": "https://www.ft.com/content/0cd35741-8002-4cb7-9eb2-8e0933b6331a",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/bluescreens-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Range tops out with $70K AWD 1st Edition. Deliveries happen later this year.",
+      "publishedAt": "2024-08-21T12:00:50+00:00",
+      "title": "VW has finally announced ID. Buzz pricing\u2014it\u2019s better than we expected",
+      "url": "https://arstechnica.com/cars/2024/08/the-volkswagen-id-buzz-will-start-at-59995/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Large-16619-Three-rowID.Buzz_-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Microsoft said its update wouldn't install on Linux devices. It did anyway.",
       "publishedAt": "2024-08-21T00:17:10+00:00",
@@ -10,7 +66,7 @@
     },
     {
       "author": "Jennifer Ouellette",
-      "description": "Star Wars series was admittedly uneven, but didn't deserve the online hate it received.",
+      "description": "Star Wars series was admittedly uneven, but it didn't deserve the online hate it received.",
       "publishedAt": "2024-08-20T21:38:53+00:00",
       "title": "Disney cancels The Acolyte after one season",
       "url": "https://arstechnica.com/culture/2024/08/disney-cancels-the-acolyte-after-one-season/",
@@ -23,62 +79,6 @@
       "title": "CEO of failing hospital chain got $250M amid patient deaths, layoffs, bankruptcy",
       "url": "https://arstechnica.com/?p=2044320",
       "urlToImage": null
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Classic turn-based gameplay meets a radical rethink of the overall structure.",
-      "publishedAt": "2024-08-20T21:00:55+00:00",
-      "title": "Civilization VII hands-on: This strategy sequel rethinks the long game",
-      "url": "https://arstechnica.com/gaming/2024/08/civilization-vii-preview-a-new-age-dawns-for-this-decades-old-4x-series/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Sid-Meier_s-Civilization-VII-Mayan-City-760x380.png"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Masters of Albion promises \"an open world... full of combat, choices, mysteries, and story.\"",
-      "publishedAt": "2024-08-20T20:49:12+00:00",
-      "title": "Peter Molyneux is back with yet another new take on the \u201cgod game\u201d",
-      "url": "https://arstechnica.com/gaming/2024/08/peter-molyneux-is-back-with-yet-another-new-take-on-the-god-game/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/albion1-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "MachineGames isn't just throwing Indy into Wolfenstein: The New Order.",
-      "publishedAt": "2024-08-20T20:00:25+00:00",
-      "title": "The Great Circle is Indiana Jones for a post-Uncharted world",
-      "url": "https://arstechnica.com/gaming/2024/08/the-great-circle-is-indiana-jones-for-a-post-uncharted-world/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Archive-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "But G-Sync will still require specific G-Sync-capable MediaTek scaler chips.",
-      "publishedAt": "2024-08-20T19:09:52+00:00",
-      "title": "Nvidia is ditching dedicated G-Sync modules to push back against FreeSync\u2019s ubiquity",
-      "url": "https://arstechnica.com/gaming/2024/08/nvidia-is-ditching-dedicated-g-sync-modules-to-push-back-against-freesyncs-ubiquity/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/nvidia-mediatek-gsync-760x380.jpeg"
-    },
-    {
-      "author": "Cailbhe Doherty, The Conversation",
-      "description": "Wide variance underscores need for a standardized approach to validation of devices.",
-      "publishedAt": "2024-08-20T18:49:06+00:00",
-      "title": "How accurate are wearable fitness trackers? Less than you might\u00a0think",
-      "url": "https://theconversation.com/how-accurate-are-wearable-fitness-trackers-less-than-you-might-think-236462",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Ars-Technica-Best-Fitness-Trackers-2022-4-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Disney said it \"strive[s] to put humanity above all other considerations.\"",
-      "publishedAt": "2024-08-20T17:07:20+00:00",
-      "title": "Disney abandons Disney+ arbitration defense in restaurant allergy death case",
-      "url": "https://arstechnica.com/?p=2044230",
-      "urlToImage": null
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Procreate CEO: \"I really f\u2014ing hate generative AI.\"",
-      "publishedAt": "2024-08-20T16:52:22+00:00",
-      "title": "Procreate defies AI trend, pledges \u201cno generative AI\u201d in its illustration app",
-      "url": "https://arstechnica.com/information-technology/2024/08/procreate-defies-ai-trend-pledges-no-generative-ai-in-its-illustration-app/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/procreate_cuda_header_2-760x380.jpg"
     }
   ],
   "sortBy": "top",
