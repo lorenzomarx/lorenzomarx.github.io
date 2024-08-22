@@ -1,12 +1,68 @@
 {
   "articles": [
     {
-      "author": "Jon Brodkin",
+      "author": "Jennifer Ouellette",
+      "description": "Star Wars series was admittedly uneven, but didn't deserve the online hate it received.",
+      "publishedAt": "2024-08-20T21:38:53+00:00",
+      "title": "Disney cancels The Acolyte after one season",
+      "url": "https://arstechnica.com/culture/2024/08/disney-cancels-the-acolyte-after-one-season/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/acolyte9-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "Steward Health Care System, run by CEO Ralph de la Torre, filed for bankruptcy in May.",
+      "publishedAt": "2024-08-20T21:20:06+00:00",
+      "title": "CEO of failing hospital chain got $250M amid patient deaths, layoffs, bankruptcy",
+      "url": "https://arstechnica.com/?p=2044320",
+      "urlToImage": null
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Classic turn-based gameplay meets a radical rethink of the overall structure.",
+      "publishedAt": "2024-08-20T21:00:55+00:00",
+      "title": "Civilization VII hands-on: This strategy sequel rethinks the long game",
+      "url": "https://arstechnica.com/gaming/2024/08/civilization-vii-preview-a-new-age-dawns-for-this-decades-old-4x-series/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Sid-Meier_s-Civilization-VII-Mayan-City-760x380.png"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Masters of Albion promises \"an open world... full of combat, choices, mysteries, and story.\"",
+      "publishedAt": "2024-08-20T20:49:12+00:00",
+      "title": "Peter Molyneux is back with yet another new take on the \u201cgod game\u201d",
+      "url": "https://arstechnica.com/gaming/2024/08/peter-molyneux-is-back-with-yet-another-new-take-on-the-god-game/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/albion1-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "MachineGames isn't just throwing Indy into Wolfenstein: The New Order.",
+      "publishedAt": "2024-08-20T20:00:25+00:00",
+      "title": "The Great Circle is Indiana Jones for a post-Uncharted world",
+      "url": "https://arstechnica.com/gaming/2024/08/the-great-circle-is-indiana-jones-for-a-post-uncharted-world/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Archive-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "But G-Sync will still require specific G-Sync-capable MediaTek scaler chips.",
+      "publishedAt": "2024-08-20T19:09:52+00:00",
+      "title": "Nvidia is ditching dedicated G-Sync modules to push back against FreeSync\u2019s ubiquity",
+      "url": "https://arstechnica.com/gaming/2024/08/nvidia-is-ditching-dedicated-g-sync-modules-to-push-back-against-freesyncs-ubiquity/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/nvidia-mediatek-gsync-760x380.jpeg"
+    },
+    {
+      "author": "Cailbhe Doherty, The Conversation",
+      "description": "Wide variance underscores need for a standardized approach to validation of devices.",
+      "publishedAt": "2024-08-20T18:49:06+00:00",
+      "title": "How accurate are wearable fitness trackers? Less than you might\u00a0think",
+      "url": "https://theconversation.com/how-accurate-are-wearable-fitness-trackers-less-than-you-might-think-236462",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Ars-Technica-Best-Fitness-Trackers-2022-4-760x380.jpg"
+    },
+    {
+      "author": null,
       "description": "Disney said it \"strive[s] to put humanity above all other considerations.\"",
       "publishedAt": "2024-08-20T17:07:20+00:00",
       "title": "Disney abandons Disney+ arbitration defense in restaurant allergy death case",
-      "url": "https://arstechnica.com/tech-policy/2024/08/disney-stops-claiming-disney-terms-require-arbitration-in-allergy-death-case/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/getty-world-of-disney-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2044230",
+      "urlToImage": null
     },
     {
       "author": "Benj Edwards",
@@ -23,62 +79,6 @@
       "title": "Against all odds, an asteroid mining company appears to be making headway",
       "url": "https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/August-2024-Odin-4-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"They don't know how to get back. We ask you to help them.\"",
-      "publishedAt": "2024-08-20T15:44:48+00:00",
-      "title": "Russian pensioners urge Vladimir Putin to rescue Starliner astronauts",
-      "url": "https://arstechnica.com/space/2024/08/boeings-starliner-problems-have-become-fodder-for-putins-propaganda-squads/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/0-9-screenshot-760x380.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"We were aware of the higher risks attached to this approach.\"",
-      "publishedAt": "2024-08-20T14:19:19+00:00",
-      "title": "A frontrunner in Europe\u2019s private launch industry just lost its first rocket",
-      "url": "https://arstechnica.com/space/2024/08/a-frontrunner-in-europes-private-launch-industry-just-lost-its-first-rocket/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GP3AtsqWAAA4NKX-760x380.jpeg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Wastewater SARS-CoV-2 levels suggest the summer surge is high and peaking right now.",
-      "publishedAt": "2024-08-19T23:53:12+00:00",
-      "title": "This year\u2019s summer COVID wave is big; FDA may green-light COVID shots early",
-      "url": "https://arstechnica.com/science/2024/08/amid-summer-covid-surge-fda-reportedly-poised-to-approve-updated-shots/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1238557761-760x380.jpeg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "FudModule rootkit burrows deep into Windows, where it can bypass key security defenses.",
-      "publishedAt": "2024-08-19T23:37:08+00:00",
-      "title": "Windows 0-day was exploited by North Korea to install advanced rootkit",
-      "url": "https://arstechnica.com/security/2024/08/windows-0-day-was-exploited-by-north-korea-to-install-advanced-rootkit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/north-korea-hacking-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Old books with toxic dyes may be in universities, public libraries, private collections.",
-      "publishedAt": "2024-08-19T21:58:43+00:00",
-      "title": "That book is poison: Even more Victorian covers found to contain toxic dyes",
-      "url": "https://arstechnica.com/science/2024/08/that-book-is-poison-even-more-victorian-covers-found-to-contain-toxic-dyes/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/poisonTOP-760x380.jpg"
-    },
-    {
-      "author": "Michael Acton, Financial Times",
-      "description": "Company hopes acquisition of ZT Systems will accelerate adoption of its data center chips.",
-      "publishedAt": "2024-08-19T20:32:11+00:00",
-      "title": "AMD signs $4.9 billion deal to challenge Nvidia\u2019s AI infrastructure lead",
-      "url": "https://www.ft.com/content/f00c0e11-b0dd-419a-a11a-f2cc586bba08",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2158733771-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Judge dismisses Tesla/X link, accuses Media Matters of seeking \"backdoor recusal.\"",
-      "publishedAt": "2024-08-19T17:41:39+00:00",
-      "title": "Texas judge who bought Tesla stock won\u2019t recuse himself from X v. Media Matters",
-      "url": "https://arstechnica.com/tech-policy/2024/08/texas-judge-who-bought-tesla-stock-wont-recuse-himself-from-x-v-media-matters/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/judges-gavel-760x380.jpg"
     }
   ],
   "sortBy": "top",
