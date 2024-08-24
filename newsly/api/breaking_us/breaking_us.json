@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "author": "The Wall Street Journal",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T09:39:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Stock Market Today: S&P 500, Nasdaq Futures Rise Ahead of Powell\u2019s Jackson Hole Speech - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnBlMFEyTlpscXNCVUZ2amFxUVpKVzUtN2lWU3hsbjA4bG9WNTZMbFA1ZHdOa0xhcF82bGNlM21yWlJITS1iRExHdzZ3SzdNVExpTGQzMWlCZmtkSnExZHVEa0t5UHR6NVkxYUV4eUlISTMzV2cybW5iN29JWDBQWW9YdmFmQkVlTUxwaXZ3eGZXYmM?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "NPR",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T09:00:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "5 takeaways from Kamala Harris\u2019 historic acceptance speech - NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaWU9hMElLa1pDRlhNQnFZcFdZeWVGN0JHbDliT3JqNlRnTUctbmdiQkNGSzZQUUpob3dBWWtVa29IUDVCcUZFdjZOT0FESkRhMnRXMTk4ejkyME51dkpEbElkSmJGMXhWeHBkZ3pLSQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Newsweek",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T07:52:50Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Huge Russian Black Sea Cargo Ship Sinks after Ukraine Missile Strike: Video - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEZSbDhqQUZSenYxc29IOHBkVk5mSE1WMXRUTlVPUXVvQXo3Uk5NdzRNYVFSSVl5dkg4OVVZelBMMWduYWNxYzV5UVJVNDhRVEFSZ0t1SmdZa1hNbDIxaTRaQ3FsVVZwN0Y3VmZlWjAtZmNGay1HNC1pUWpxZVQySXRNdFdlM0tpQlYw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "New York Post ",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T07:29:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Spacesuits of Boeing-launched astronauts stranded on space station are incompatible with SpaceX craft - New York Post ",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV0dQR0ZUODd0SzRtRzE4OXE5Vngxam5rZHFZM01YdTFDRnRBWjJaZF9BZWotR29aT0FhNnZXR0swTUFNSk1xa2NOX2hMNWt4cnZZZXNTaDBFODNwWDRqcDFobTR6WGxibldDOW5YcXZXSmNCYVY1aEFaeTdtVEoxQzN3aTB2ZGlSVlZySjhEdURncGc3VE5aMkg5b0tBOVAzVnMwX0lOb0FoVC1VRDNqbzBkUDVtUmROWk15OTNtT3lPOTRuY19kbm1OZzB5ZkZLMEo4SWF3Zw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "BBC.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T07:17:27Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Modi in Ukraine: Diplomatic tightrope for Indian PM as he visits Kyiv after Moscow - BBC.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xcThBLVJ3TkdaMjBNc2gzM0w0T0FjZk95U1ZwYWFWaXlsODBZbkpUWVRNTTJTZFhYTW15Qkx0ME5SaE54Q1QxZi1ySzZFLTQ2a2M0ZFE2bHBmd9IBX0FVX3lxTE8zMlpvenU2U01sNTBXYXV2LUhCcjJkVXE1XzhldlZkQzJJdC1EZ1E0NmVUZnBsTUZXZWFwTURvYXdVV1dqT3UyWGlycTUxWXYwa0dfYWlvcHFHbjhBY3Rr?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Yahoo Finance",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T06:43:17Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Nestle shares tumble following abrupt departure of CEO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjR1Nzhma3hUVVhLV0ZlSExveEpQaUg3dkhaSWVtVk5vblVmWHJEcEgydzVMUFJVVnFNVUxVNUxkcmV0aXN0b0ZkWlozX2UyZmlSV3NrYjdsMHo3MUxlUl9iSDF1bXhhN2U2bUJPQkNUSE9nR0xzQTUzbktMRkpfYzl2dFplYnpuSXNJ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The New York Times",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T05:22:06Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "5 Takeaways From the Democratic Convention - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2xhcnU3cmxpVzZsbjI4a0NsQzRzZlM1dlpsdjh2anBaWXhvd1hpQXdEU3VMR1FJYnRlOVpWYWFYYjU5OEV0Yzd1MmRReUdrcGJSNmlDQUFXWkhGNWdiYjVvblpabXRFSVZvUkhjN0ZsVXN0UHJMci10ODlaV3Q1ZmlLNnRIUUk?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Washington Post",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T05:18:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Accused of murdering reporter, former county official says he was framed - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalQ0U25pdVZYZFhvRUNCandRLXREcGZTWWlfa2hGcGoydFh1dWlqMWtKMmlIbEMzSi1ISXhzUTVDQ2NDMlVhOFM1VHhxQXR4ZTZJN1Q1TEl3V2p2RGdlZnl1SzNLZnBGTDNJRldPZk1uMXFkeWR1WXQxWkt3NzNYaXNDQ0xUdTg?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Independent",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T05:00:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Mike Lynch yacht sinking latest: Tributes pour in for \u2018genius\u2019 tycoon as search for daughter Hannah continues - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFM5clBJcVMyNUVGdWVxbTVXelZWblB6QTByUEdVM1RITVc2RUhKelQ4X2lmZWRmZ192SThuemNiNG1FeVJ6bE9SVDV3cWRsc0dxZUpMdnRUOHVxZGRIQ184ZTRVeTB4cDlGOHJtcjliOHhtTlFfUmhsbkJfSW5QTktfMl9aczUzVk5mM3dmNHphRnl3ejFySC1jV01nb2JiTG1ncGZnUW9wemNtNFZGOV9uQQ?oc=5",
+      "urlToImage": null
+    },
+    {
       "author": "NBC Chicago",
       "content": null,
       "description": null,
@@ -14,16 +131,42 @@
       "urlToImage": null
     },
     {
-      "author": "The New York Times",
+      "author": "ESPN",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-23T03:45:48Z",
+      "publishedAt": "2024-08-23T04:35:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Fact-Checking Harris\u2019s Speech and More: Day 4 of the D.N.C. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JQnRibE1jajUxRWxqckNXM1Vvd2pHMlExMWw5VDlrTzdDUGtkMV93aWxXS1dLR0JkUDRZcHp1VDItTVlVS1hISXY1c1lzWDVoejVMNVRfTW9xck4wTjRiSS16RXVEcFhqcktvME96N0FrQQ?oc=5",
+      "title": "Stellar in practice, Burrow skips preseason finale - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFMxSnFmdExFNUd6ZzM5NUNYOWJrS3NNNG5VNW1lcEJDREdoS2FUTWk1RUlxVWhEdEJjR0d5bXZCc1BQdFZlR0ZITTdsdkljVFZFRE9TMUJIQXQzdG5UaWV0OG81QWFYV1p2cHNYYUJWdG9LRnd2T25iZFlmRkczSjRoZXZRWmJPcVdiWTl3T240cy1yR1FqeFAyM0owZHB6UXkwVUFR?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T04:09:47Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Russian ambassador says US plans to give Ukraine carte blanche on weapons - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLXFtUUtBS0xhT2w1b291bXBpbXhhMm11Q0JVOUZ1RHJnM2JSQmJzM29Ha3phWXllY2lmUWZvSDNzMXlZVEtMUGlXd0NJazl5aHREZDJRSUZ3Vk93UG9fTmpFMGd1Wi1CMnl2NUMwNFQ5RmVkWUlzN3J1ZllUbjd6UFpvdi1FY3BXNTF6V21WcFl5Q3daWkFIb2pTa1kwWklZcTJjS3Z0UDFuaWF4YnVHeGM0YUFNSWs?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CBS News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T04:02:26Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "12 highlights from the 2024 Democratic National Convention - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wd05pRUs3cDBkRVdZSDJzR19NMjBOVmF0cXBBUklxYUlhZUxlX3NLU3VIOXJ5NVMwY1RqYmZHRV9Zd1FDRW1yS0hURFROeDNpQW5tdEtmMVoxTl9ubnfSAWNBVV95cUxPeUFkQjF1MzBhenRSbEdYTjNlVFhldnplVnc0RnlodGdaQ2RpVUN5UVlIbWFibGRpaVdHN0phSUhzSzN0cmxQNTdGTEJQZUd4cW55alllY3BZOHZSb0hJeEI2eGc?oc=5",
       "urlToImage": null
     },
     {
@@ -40,6 +183,19 @@
       "urlToImage": null
     },
     {
+      "author": "Bleacher Report",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-08-23T03:14:15Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Brandon Aiyuk Trade Rumors: Commanders Not Out on 49ers WR After Jahan Dotson Move - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXpNTm5xY0hEN19yY1B6TEVvM2o4WXI5QXdKakZ3VmJEZklmLW5wNzZQV3o3cVpYeGJBQ0s3a09vSlNmSXZTNXFudTdDZS1MSUUxQ2JUbzhDU1pBdHhHalNmdUx6YWdSUTZFWElpSGE3WkV2bzQzM0t5cGZuSEY1ZXFYMzF3aXF1ZlF4R0VqOWNJQzNHTTdxNEdUMUdwN0x3QmctTlIwQUQ2ZDdNWXFZOEtxSWpra0twcHRCRFAwWkpsRXY30gHaAUFVX3lxTE9oalVnajJ1OEo2U1MyQ0ExZHZBVGR3UFdZMy1FREhjU1RRMXI4MlBDZXVnYmpzcDZ0T1A0TW9LY2hIamx2cHhFVnhDNURVdFJvTllrSXFVLXNnLWdlcVlkZ2x3Vlo2SzkwRzlPM3h6VXJ1OFNtX2NNNC00LVYyR3JDdkhZN00tRFl5NjcxVzJEb2R3SDBGOURjUGotbGlPQnJscFJha3U5UTBEUjFLY0I1OER6Wm9WaEhqMjZkVV85OW4zZXRfRWFnNTF0NU91WWFGTllOaU1vTUl3?oc=5",
+      "urlToImage": null
+    },
+    {
       "author": "NFL.com",
       "content": null,
       "description": null,
@@ -53,214 +209,58 @@
       "urlToImage": null
     },
     {
-      "author": "Fox News",
+      "author": "Page Six",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-23T02:54:25Z",
+      "publishedAt": "2024-08-23T02:55:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Kamala Harris pays tribute to Joe Biden: 'Forever thankful' - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYWkR2bXNTdlRMb3ZFMkJsalFGc1hRNERsV1l0NXhpeVE1M1lCR0hqc2tCbksyZW9NNk5DR3Nwb1RvSUdBYmwweDZIMk1pRnlGSngwRk13?oc=5",
+      "title": "Jennifer Lopez helped Ben Affleck \u2018become a family man again\u2019 before divorce filing: report - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVVwS043ZURVYTNIdldDQlNiT1NSbHBNQkhDMlNLVkVjM1ZHLVdNcXgxVnl6S043ekRfUkNHNGtEVUJXblFYdEJlMVB3cFcwaFZXel9yZ3NsdUlvVl81Z0pmdVRvZV9EU0ZMM2NtazR5RTFubTBDckRWeXcxcXBkel9fVnBwSHVBX3NFWkIxWEFPUUJoLUdXbXFlc05uY2F1Z2VGTkRLZWhyblc3NjFHRUdJXzJxQQ?oc=5",
       "urlToImage": null
     },
     {
-      "author": "ESPN",
+      "author": "NBC News",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-23T02:49:00Z",
+      "publishedAt": "2024-08-23T02:42:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Bears DB Coleman taken from field in ambulance - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXdjT0VPcmRLakFaOTBVSGVTTkR3cHU0SVZoY3RhSlBMQ2pKcEh3eFRpa3ZndVhyUTl6QlZsaFZmcFlUWFdxZmVyZFpaNDNYZDAtbFhpRnFid25XUU53LUpTQkpBVVVOZzl5c2dmV1B0NlBpU1R5d25tckY3MWhLSG1jTFdMVF9tNjZYVUxWN3dyX0hsNThUemp0eUpoOWZnQnAwSGtoYmU?oc=5",
+      "title": "Iceland volcano erupts for sixth time since December, spewing fountains of lava - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1Q3QmdqcGZnNU1qRkJhUW5fS1lhZ2Jyb2NLU1dBS3dYejlac080ZnVJX0E5eVhndFk4T0p0YjZEclRpQnlEMTRURGRDQTA2SWJ4eFJhVjI4bTk2eXVkcGNIQVBkb1Bobko1cUZXRWdxdnhkX19ONG9mUWZXdjc5YTZSMndIYzQ0V2ZWaWJDUldTWlM3Ry01b2VnM3hhOFBQYTJGOWJna2xGQXJ6NGfSAVZBVV95cUxPcHVVcGhrN1ptdHo4VDlqV0M2ZVR5Vmp1NS1oWjNvc3pUcFVaSXNyMlRIUlltZ1Z3X0hyU1R6bTJ5ekRvZUhkZElsUGFMS0lBLXNzYXZHZw?oc=5",
       "urlToImage": null
     },
     {
-      "author": "CNN",
+      "author": "Deadline",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-23T02:38:03Z",
+      "publishedAt": "2024-08-23T02:37:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Kinzinger delivers message to Republicans about Democrats - CNN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3RXc1I2NXV6M0FMN0k0TUhKSzYxX0RLTjU5RmRwUFRQSVZOZFFaRldqc1I2SFNscVdtc0U5TFQ0MkxVWFFEejhzMThELVptZzhOaGRoQUhteXQ3MW42X01RYnFyQlFCdE5sM2NIM3BDUGlIZ0YzNmF6M25SNFNmei1UYTl2MGVnZTRwSHRlOVRKRnM2dFdlWkxB?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Axios",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-23T02:31:48Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Democrats refused to give Palestinian Americans DNC speaking slot - Axios",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mZXdaNzZBX2FUU1kxREczTVVlUWhyaUZGLXplRVhYdUtWTG02OW43VEcyT3IyZEdzdUpKUnZOa0hVUW1mU0pFdGY3WUs2c0lidjRUUTBGMWdpNDdfSi1INUF2bE1FWEJKLUlILWhSYy13TGhKMGVwektTUQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "USA TODAY",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-23T02:05:30Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Jennifer Lopez wants to go by her maiden name after Ben Affleck divorce, filing shows - USA TODAY",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGVUNWl5empRUTFYUkg5TzRyVjRrUXFoRE0ycFdDek5vVTJGMmluaEh2YkhHOF9EengwN2lYNmpGTjdSeUI5M2RtRGdQdmpoeHlQbERRWWg0cV9GUUFJSTBzZzc2dUVfZHp1RElGckNjdldUMUVuZ0JCMkJ0TFFpY3Vlby1IV0UtVTR0N19Wd1JLeU51SFJ3Y1VwOXo0N2JLSnlTWTVzenZLSHhfWnhVOFZrcm5wWjl1RkFyWEgySEhWSW9Ydmc?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Hollywood Reporter",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-23T02:02:33Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Rep: \u201cBeyonc\u00e9 Was Never Scheduled\u201d to Attend DNC (Exclusive) - Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmdRNjhFcDc2cjFLQVM1R25DM1QxakNfNVAwV24xNVhUb09GQnNUYkh6bUZXa0p4NUpZLXpHMHRhOWVtdU5XMzBjYXNTY053dWU2TjZCNnJ2ZmRycTlZUjBQRUx0all3ZF9tNzZKT1hGdkJrMEUtajJfRzU2eXVaVTUyejVNcVRNX2daZWhaa3JJaTVzSWI2VTRSSdIBoAFBVV95cUxPeWVtMGVRbUp6SWdmSjVjem10emlUVnpoTTd2TW5BcVhWZkNVM3NUV0U1WU5ydDhxWFQybXVPZHlCdEpLcEJGeHhpajZlQTcycWpPNXJjUWk1aVplal9TWmllc2tBXzRYOEJVXzBFMndBcnlDbTZXRjFpdUxUQUN1TTgyRGx4RmEwc1NwSmg3dEpBWFEteGFIbjFEbDlTZXcy?oc=5",
+      "title": "Ann Coulter Deletes Post Mocking Gus Walz After Backlash From Rosie O\u2019Donnell & Ana Navarro - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVZkZ3Y1YmR1U0dfeHNlanViWGd1Zk5sYU9IZ08tWUZnRzFJOXp2WHh1VmJQcF9Ca2xYckU5ZkZMMDJrT3FGalhQRkgtYUR5eVZYelh3UzU2aFRaSU9MdFNiQ3B2Rl9UT0tYU2FycUlBRThhX0FkTTdTNVFFNEoybHhRTzBDSFBNVDJ4Uk9KaWIxQ3lESGVoSlg3ZTA3bllTelNYX1ItQ2VGSWZ3eGlKZktPcE85VWlPVHc?oc=5",
       "urlToImage": null
     },
     {
       "author": "The Associated Press",
       "content": null,
       "description": null,
-      "publishedAt": "2024-08-23T01:27:00Z",
+      "publishedAt": "2024-08-23T02:17:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Canada forces arbitration in freight train labor dispute to avert economic crisis. Union cries foul - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFBWTTduSFhIdDdPODZjYnQ1MFpaQl9qREJxV29NSXVCU2FEWE1pZFZhWWtJQko5UlU4eHR6S2JKWGNYSE9hRW5BaUY3c2pWdm5pRGhFVkhERzZVYzhkQ2xVYlJCM0VVS2NaYlJxc29JS1MwZlh6UVdIazJDNEh2VktlMGp5cV9ycTh0VHd3?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-23T01:22:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Country act The Chicks to sing US anthem at Democratic convention - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzNzVGZkMl9JdjBYbXRNRWxlQUdoZnRNT3UxZmVCT3FDeVlzWnJnZHQ0X3MzTXY3NTdHczJxYkUySXhmaEdSeFN5bUZqalF4SjdDVWVuYUJjMDJWWXNtVTNBSVJHSC11RmkxN05maFVmNV9XTHFCVTk2NGp4cF9lQXFJX1A3YTB6SEhpX0Q0ZG9YSW1EQkhKRFNrdWFPNHI0N3c?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Associated Press",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-23T00:47:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "India\u2019s Modi urges efforts to end Ukraine war after talks in Poland - The Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQm1LeXpzZlFFUmFkMC1wS0p6cVR6VHNNWmRsdzAyWmxkNWlJNm15cnVZdUdqOC1BSHB2Uk9Gb0FRLXRTUUZRMEdJUUc0VFNDdGlOb2Q2TzNsX2lTV2Q1M1A2TURpVUhkZXpCdS1RSjEwcDhxUVpQWGc4WHVDVHpqLVdtU2lYclgzWDF0dEh6SUlJRm9xOUszb2lwaUI1bTlON1ZYVU0xTQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "NBC Sports",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-23T00:32:14Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Creed Humphrey agrees to extension that makes him the highest-paid center - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkFqRE85NUVVWFdSdktRaXUzYks3Z2ptb0hnLTZQdThFSDhNRHdGTjQ0NExuQi1HTmUxQUNjZTFJcU5Rc2F6QkNGZ2d5M3RzQkU0NE1yTnZ2S2pIRmNZdGhJeXg0aWgyek1vby0tN2RGVUVKNEZSMXk2eVNucTZEMUZHOXVCb2ZjSmxNRVE4U1prQ2hvY0tLWjlmVFFPM0NYekg2N2M4T205cEJaMUxhamZnSm5hQ1U4WXRhYUUyZ3BRV3hTandPRGFXQVk0YmlB?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Washington Post",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-23T00:23:18Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "New coronavirus vaccines are now approved. Here\u2019s what to know. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3hRNF9uVDRUVmUxc2VPS0pGOHZkV1V3dkR1MEhXRGxVeGN1LUNSc3hYeUhtRHhMcGg0UjRVOHFFalBPNGNUNGFKM3NKMl95LWJCSFpsMFl0NjdvN2ZDNkZyNTFMeFY0TGhmZThNSzU2cDlkMFdEMU84S24yN2dqbjhwcWkwUQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-23T00:10:30Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Members of \u2018Central Park 5\u2019 Say Trump Is Too Dangerous for Second Term - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hanpGeTdDN3FJeVA0WEJiUGxmLU91elBqQ3ZKSkdHc3VpcUhqYW1nRTNNa1h2MjFpV3J1Mm50VXNhWDZOZXdaMlBBZUtvdWVtd3N0LTdNYlJkMk9LaWdoUlFOSVFfQm9JdEQ2b2dWeHBLYVFMcVJEcHZDTG9QUQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Fox News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-22T23:41:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Spacesuits of Boeing-launched astronauts stranded on space station are incompatible with SpaceX craft - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDc3SzlQeEdycUwtb2xQWmxWNk52OG51c21US21lYXhjV2tFM2J1YS1WWW85VVYtNXp4YWVBY3FObVZVSjBOM1Z0Q0pFSjFLd1FiZnZheEZGeGZzeDNpc0JzS2IycnNWZGQ3RU1McmFRNXF3TjlfVTVST0k1Wk1yRG1RTXVFRXVPNm9yVkdDeVc4NmdXLU82MUJNMzgtcGprTmlKOE1CV2FlZE01NUlmaVdVWdIBuAFBVV95cUxOdWRmaWdmSVM5Wk1LZGE0Wlg3ZU55OGQ2NTg0NzZ2bWJiT2wxQkZQS2RIbXZxOFpBNE5XNUdyZ3I2c3Z2Zmg4ZlNVblZMdGpUOFdKZm5JcUxFUzhPdXFnaUw2U3pkdHJ2TFNpY3VQbzVDQ1dsekkzUkliNUx4U2V5a2ItOWxXUFJYMm8wMzdnbHUwaWVHSGVoa2dCQ2syZFFnVmpwYlNRYmIxQ200bmF3X01nNy1HLVlM?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "New York Post ",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-22T22:53:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Negotiators are \u2018showing weakness\u2019 in cease-fire talks with Hamas: Netanyahu - New York Post ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnV6dmNJaW9yMHFtSEUwYWJhVk1idjM5TF9TWFg1MFg0d0ZKT0JpWTZIVF8tQ3Vkbm9reHNIbUwtM2k2a2ZZSW1iVWxDTjVMeWF2MjR5WGl0azV4ZC1UX1BhZ3VMUjRTd3V2MDRkY2hLMVBSeHFPMVk5cUM2dS11SnpETWhSdEN2bzR2bUZiUlAyQ2paUnp4ejVKLXE2dWdLRHA1WC1KdE5ycnNvYzlTakhLNng0MWpf?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "CNBC",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-22T22:35:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Stock futures inch up with all eyes on Powell's key Jackson Hole speech: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWDA1SmJXN1BzUlRDY3YzT2RLN2ZhNVZfb2NvaWZTbU1uNGJIZVRkbUdMLUxvVFdRTjIzN2Z5Znk2NUR2cEJNYW9RMDN4WDBMTkQxTkh1UmNWWWZUWURBb1dDbF93bTVTS01xTmNTRTFlQXVuMHZJ0gF8QVVfeXFMUEtqc3k0Z0dvMGlKX1BBZU1XOThwYm1IMXZGT0xHVVZvZlZfN0xyUi0zLXNmYURFYzAxcEt2ZzlzcmtuOVhNR0Fpd1JqRDJXWXpqczBhZ1liY3oya1d4WjNSbWtxSjM4YXFUV1FJNkdyMWgybmplZmVsZVd0Rw?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Reuters.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-08-22T22:29:06Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Venezuela's top court ratifies Maduro election win as government tightens control - Reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTTRUX20tQ0JFRzBfVldNVVA2aWRkR1ZjOUNkQkdQSVltLVhjR0NRcE9GR0c5WlZQMEdET0R0RUhqbnFnVlFDOUdJV05pbXdta2tiSmoyNDBHeVRsWTZwTFl5VGsyaUJZRVFmaVRyWDhsNWRiUUxwRGF6VUZEZGt1NjVGUVZIVXlKUndFcjhxZlgwZlhiZkJZRDhQSmZOcE5GZkM3X1BXS1VsY05xWDBibW96R2t3aVRXdF9tTWhQdGpZc3YyZG80?oc=5",
+      "title": "Supreme Court rejects GOP push to block 41K Arizona voters, but partly OKs proof of citizenship law - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2lORk9DcDQ0cEI0MHdGcllDRXdNRW82TzJBRFlNRGlDem9tNVVhTWpwcWFDTDdQYnBqMzZXQWlLekpaNHY2RUZaV3F4aWpNSzZuNENmNno5bExkcGF0MHZQeUhNX0h3SlZ4MVhQdkU0eURzQ3d0N0ZUNHhndU8waHFPc3JxdzhybWNKTTk2U29rMzlEWENveUxkcmhCZkk3UHUxeGhR?oc=5",
       "urlToImage": null
     }
   ],
   "status": "ok",
-  "totalResults": 37
+  "totalResults": 38
 }
