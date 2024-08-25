@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "author": "JONATHAN J. COOPER, MICHELLE L. PRICE and GABRIEL SANDOVAL",
-      "description": "PHOENIX (AP) \u2014 Robert F. Kennedy Jr. suspended his independent campaign for the White House and endorsed Donald Trump on Friday, a late-stage shakeup of the race that could give the former president a modest boost from Kennedy\u2019s supporters.",
-      "publishedAt": "2024-08-23T03:29:03Z",
-      "title": "RFK Jr. suspends his presidential bid and backs Donald Trump before appearing with him at his rally",
-      "url": "https://apnews.com/a2638f89ddcb5de03edbe4574ca17d45",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2342a1f581954110a01b0fe5333430a9/1920.jpeg"
-    },
-    {
-      "author": "JULIA FRANKEL and WAFAA SHURAFA",
-      "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 Young girls screamed and elbowed each other in a crush of bodies in southern Gaza, trying desperately to reach the front of the food line. Men doled out rice and chicken as fast as they could, platefuls of the nourishment falling to the ground in the tumult.",
-      "publishedAt": "2024-08-24T06:07:30Z",
-      "title": "Israeli evacuation orders cram Palestinians into shrinking 'humanitarian zone' where food is scarce",
-      "url": "https://apnews.com/f4833f8faf3cdb683e2ddd964767b438",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/63b64adf9edd4af3ac1c5973baf40365/3000.jpeg"
-    },
-    {
-      "author": "JON GAMBRELL",
-      "description": "DUBAI, United Arab Emirates (AP) \u2014 Fires broke out Friday on a Greek-flagged oil tanker previously attacked by Yemen's Houthi rebels this week, with the vessel now appearing to be adrift in the Red Sea, authorities said.",
-      "publishedAt": "2024-08-23T16:42:56Z",
-      "title": "Fires break out on abandoned Greek-flagged oil tanker Sounion that Yemen rebels attacked in Red Sea",
-      "url": "https://apnews.com/9eb36bb2450b986bb677d67a32ec5ef0",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/301d189df31d4474a726a31a77c62227/1920.jpeg"
-    },
-    {
       "author": "ALI SWENSON, FARNOUSH AMIRI and GARY FIELDS",
       "description": "CHICAGO (AP) \u2014 Before dropping his bid for reelection, President Joe Biden framed voters\u2019 choice in November in dark and ominous terms, painting Republican nominee Donald Trump as a menace to American democracy and questioning whether the country could survive if he won.",
       "publishedAt": "2024-08-24T04:06:34Z",
@@ -33,12 +9,36 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/24d0035ff2ba4c748c909f9736ec651f/3000.jpeg"
     },
     {
+      "author": "JULIA FRANKEL and WAFAA SHURAFA",
+      "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 Young girls screamed and elbowed each other in a crush of bodies in southern Gaza, trying desperately to reach the front of the food line. Men doled out rice and chicken as fast as they could, platefuls of the nourishment falling to the ground in the tumult.",
+      "publishedAt": "2024-08-24T06:07:30Z",
+      "title": "Israeli evacuation orders cram Palestinians into shrinking 'humanitarian zone' where food is scarce",
+      "url": "https://apnews.com/f4833f8faf3cdb683e2ddd964767b438",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/82fc2c3eb02b41cd94a05c75248ec902/1920.jpeg"
+    },
+    {
+      "author": "SAMY MAGDY and DAVID RISING",
+      "description": "CAIRO (AP) \u2014 Multiple Israeli airstrikes killed at least three dozen Palestinians in southern Gaza, health workers said Saturday, as officials including a Hamas delegation gathered for high-level cease-fire talks in neighboring Egypt.",
+      "publishedAt": "2024-08-24T10:08:49Z",
+      "title": "Israeli airstrikes kill dozens in Gaza ahead of high-level cease-fire talks in Egypt",
+      "url": "https://apnews.com/2abd1983d176c6ea3d19a5ace02688b6",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ad2a2ea47de941c39221164ff18a9d0c/1920.jpeg"
+    },
+    {
       "author": "MARTHA IRVINE",
       "description": "CHICAGO (AP) \u2014 Bearded and bespectacled, YM Masood has a quiet nature that suggests he's older than age 20. A political science major, he plans to graduate from college in December, well ahead of schedule.",
       "publishedAt": "2024-08-24T04:10:45Z",
       "title": "Portrait of a protester: Outside the Democratic convention, a young man talks of passion and plans",
       "url": "https://apnews.com/b08b13802194c245e6a40a1b9be657a8",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/6c67f11911694e9eb0c2f6d6e2e54e45/3000.jpeg"
+    },
+    {
+      "author": "MARCIA DUNN",
+      "description": "CAPE CANAVERAL, Fla. (AP) \u2014 NASA decided Saturday it\u2019s too risky to bring two astronauts back to Earth in Boeing\u2019s troubled new capsule, and they'll have to wait until next year for a ride home with SpaceX.",
+      "publishedAt": "2024-08-24T17:17:24Z",
+      "title": "NASA decides to keep 2 astronauts in space until February, nixes return on troubled Boeing capsule",
+      "url": "https://apnews.com/e4e81e5a6c23dee2f8f72260ddea011c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c5d1a79ee2204ec7b56881bd4eb1012a/3000.jpeg"
     },
     {
       "author": "DAVID A. LIEB",
@@ -50,35 +50,35 @@
     },
     {
       "author": "DANIEL NIEMANN and STEPHANIE LIECHTENSTEIN",
-      "description": "SOLINGEN, Germany (AP) \u2014 Special police units on Saturday joined the search for an unknown man who carried out a stabbing attack at a crowded festival in the western German city of Solingen, killing three people and wounding at least eight others, five of them seriously.",
+      "description": "SOLINGEN, Germany (AP) \u2014 Special police units on Saturday joined the search for an unknown knifeman who cut the throats of revelers at a crowded festival in the western German city of Solingen, killing three people and wounding at least eight others, four of them seriously.",
       "publishedAt": "2024-08-24T06:38:10Z",
       "title": "German police scour a western city for a knife attacker who killed 3 at a community festival",
       "url": "https://apnews.com/84ad7df23ca5ecc8c2145d57e75090d6",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/59f3007d67004be3ab305d5b9d3c0705/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1f0c4339f1c04c8ab051114de363134f/1920.jpeg"
     },
     {
-      "author": "BETH HARRIS",
-      "description": "LOS ANGELES (AP) \u2014 Shohei Ohtani is baseball's fastest 40-40 man.The Japanese superstar blasted a two-out grand slam in the ninth inning for his 40th homer after earlier stealing his 40th base, lifting the Los Angeles Dodgers to a 7-3 win over the Tampa Bay Rays on Friday night.",
-      "publishedAt": "2024-08-24T03:19:04Z",
-      "title": "Ohtani hits grand slam in 9th inning, becomes fastest player in MLB history to join 40-40 club",
-      "url": "https://apnews.com/95275537b52aa8334aa06dd9589671ea",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/625bc18d0c43429d9aa5fdfc9edebc0d/2452.jpeg"
+      "author": null,
+      "description": "TAIPEI, Taiwan (AP) \u2014 Former U.S. ambassador to the United Nations Nikki Haley said on a visit to Taiwan Saturday that an isolationist policy isn't \u201chealthy\u201d and called on the Republican Party to stand with her country's allies, while still putting in good words for the party's nominee, Donald Trump.",
+      "publishedAt": "2024-08-24T07:18:50Z",
+      "title": "Nikki Haley in Taiwan says an isolationist policy is not healthy while expressing support for Trump",
+      "url": "https://apnews.com/6ac4cc72f3e4d3de91c6db337c590485",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9c06d4f72a954889b273939d6db0a95c/3000.jpeg"
     },
     {
-      "author": "BARBARA SURK",
-      "description": "Two weeks after French star swimmer L\u00e9on Marchand extinguished the Olympic flame to close the Paris Olympics, the spotlight is now on its Paralympic counterpart.",
-      "publishedAt": "2024-08-24T06:09:15Z",
-      "title": "Under sea and over land, the Paris Paralympics flame is beginning an exceptional journey",
-      "url": "https://apnews.com/9d776abdf8b3a84f464e82073ea60d49",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/85fc776dae894468b399d6b79a39de6d/3000.jpeg"
+      "author": "CATHY BUSSEWITZ",
+      "description": "On a hot summer day in Oak Ridge, Tennessee, dozens of men removed pipes, asbestos and hazardous waste while working to decontaminate a nuclear facility and prepare it for demolition.",
+      "publishedAt": "2024-08-24T12:07:36Z",
+      "title": "Sensors can read your sweat and predict overheating. Here's why privacy advocates care",
+      "url": "https://apnews.com/9948cbdb608e1716f554d8263c81b2cf",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/afe1c1a287db43999c35ae5042efaf02/3000.jpeg"
     },
     {
-      "author": "SEAN MURPHY",
-      "description": "BIXBY, Okla. (AP) \u2014 Oklahoma's Bixby school district has lots to show off for a fast-growing Tulsa suburb: a state-of-the-art new high school set to open by 2025, a new ninth grade gymnasium and plans for a $12 million upgrade to a football complex that already rivals that of many small colleges.",
-      "publishedAt": "2024-08-24T04:06:04Z",
-      "title": "Oklahoma teachers were told to use the Bible. There's resistance from schools as students return",
-      "url": "https://apnews.com/19e235a16d9aefd350df9106a5d759b3",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2a3fd299caff413a96ff9e11a177aea8/3000.jpeg"
+      "author": "AUDREY McAVOY",
+      "description": "HONOLULU (AP) \u2014 Tropical Storm Hone was approaching the southern edges of Hawaii on Saturday with gusts of wind and heavy rain, potentially inflicting flooding and wind damage on the Big Island over the weekend and raising the risk of wildfires on the drier sides of the islands.",
+      "publishedAt": "2024-08-24T04:08:51Z",
+      "title": "Hawaii's Big Island is under a tropical storm warning as Hone approaches with rain and wind",
+      "url": "https://apnews.com/7c086ba23441e6e69177e3da3d703655",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6a164a5d9e974dd7a3f22f17e3b22895/1800.jpeg"
     }
   ],
   "sortBy": "top",
