@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Reece Rogers, wired.com",
+      "description": "It's very rare, but lithium-ion batteries in electric vehicles can catch fire.",
+      "publishedAt": "2024-08-24T11:17:47+00:00",
+      "title": "Electric vehicle battery fires\u2014what to know and how to react",
+      "url": "https://www.wired.com/story/ev-battery-fires-explained/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/buzz-battery-760x380.jpg"
+    },
+    {
       "author": "Stephanie Stacey and Richard Waters, FT",
       "description": "Redmond wants to improve the resilience of Windows to buggy software.",
       "publishedAt": "2024-08-23T21:40:17+00:00",
@@ -71,14 +79,6 @@
       "title": "Amazon is bricking primary feature on $160 Echo device after 1 year",
       "url": "https://arstechnica.com/gadgets/2024/08/amazon-is-bricking-primary-feature-on-160-echo-device-after-1-year/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/Echo_Show_8_Glacier_White_Group_Call-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Pitchford's prediction that Steam could be \"a dying store\" have not come to pass.",
-      "publishedAt": "2024-08-23T15:19:18+00:00",
-      "title": "Gearbox founder says Epic Games Store hopes were \u201cmisplaced or overly optimistic\u201d",
-      "url": "https://arstechnica.com/gaming/2024/08/misplaced-hopes-why-borderlands-4-wont-be-another-epic-games-store-exclusive/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/bl4-760x380.png"
     }
   ],
   "sortBy": "top",
