@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "Partially automated driving systems scored particularly poorly.",
+      "publishedAt": "2024-08-26T15:23:53+00:00",
+      "title": "A lot of new in-car tech is \u201cnot necessary,\u201d survey finds",
+      "url": "https://arstechnica.com/cars/2024/08/ai-good-passenger-infotainment-screens-bad-says-car-technology-survey/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/2021-08-31_Image_2022-MerceedesEQS-450-103-source-760x380.jpg"
+    },
+    {
+      "author": "Richard Milne, Financial Times",
+      "description": "Retailer launches peer-to-peer sales platform for its customers.",
+      "publishedAt": "2024-08-26T13:54:37+00:00",
+      "title": "Ikea takes on Craigslist with classifieds site for its used furniture",
+      "url": "https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/furniture-ikea-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "The Settings app has taken over, but Control Panels aren't going anywhere yet.",
+      "publishedAt": "2024-08-26T13:40:56+00:00",
+      "title": "Microsoft backtracks on deprecating the 39-year-old Windows Control Panel",
+      "url": "https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/win-nt-control-panel-760x380.jpeg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "It's unlikely Boeing can fly all six of its Starliner missions before retirement of the ISS in 2030.",
       "publishedAt": "2024-08-25T02:16:01+00:00",
@@ -55,30 +79,6 @@
       "title": "COVID shot now or later? Just getting it at all is great, officials respond.",
       "url": "https://arstechnica.com/science/2024/08/covid-shot-now-or-later-just-getting-it-at-all-is-great-officials-respond/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-760x380.jpeg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Attacker then emulates the card and makes withdrawals or payments from victim's account.",
-      "publishedAt": "2024-08-23T20:12:21+00:00",
-      "title": "Android malware steals payment card data using previously unseen technique",
-      "url": "https://arstechnica.com/security/2024/08/android-malware-uses-nfc-to-read-payment-card-data-then-sends-it-to-attacker/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/atm-bank-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Having two laptop screens needn't mean foregoing a built-in keyboard.",
-      "publishedAt": "2024-08-23T19:57:26+00:00",
-      "title": "Dual-screen laptops make more sense with this spiral notebook-like hinge",
-      "url": "https://arstechnica.com/gadgets/2024/08/acemagics-x1-is-a-clever-but-delicate-approach-to-dual-screen-laptops/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/20240823_133513-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "The Settings app has taken over, but Control Panels aren't going anywhere yet.",
-      "publishedAt": "2024-08-23T18:38:56+00:00",
-      "title": "Microsoft formally deprecates the 39-year-old Windows Control Panel",
-      "url": "https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/win-nt-control-panel-760x380.jpeg"
     }
   ],
   "sortBy": "top",
