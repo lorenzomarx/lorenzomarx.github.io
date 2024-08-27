@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Nidal Al-Mughrabi, Ramadan Abed",
+      "description": "Israel issued new evacuation orders for Deir Al-Balah in the central Gaza Strip late on Sunday, forcing more families to flee, saying forces intended to act against militant group Hamas and others operating in the area.",
+      "publishedAt": "2024-08-26T09:22:20Z",
+      "title": "Families flee after new Israeli evacuation orders in Gaza as ceasefire hopes dim",
+      "url": "https://www.reuters.com/world/middle-east/families-flee-after-new-israeli-evacuation-orders-gaza-ceasefire-hopes-dim-2024-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/5AWYNGRCRZOYLOVEFD5NJEJZP4.jpg?auth=b0359c35bf6da4bcdd6c505db2de6e3180f90a23e0389b4c1dfdcb5d50a9425c&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Pavel Polityuk, Gleb Garanich",
+      "description": "The sound of explosions rang out in central Kyiv on Monday morning during rush hour as Ukraine's military warned of a massive Russian missile and drone attack following waves of drone attacks in the early hours.",
+      "publishedAt": "2024-08-26T06:22:14Z",
+      "title": "Russia launches massive missile and drone attack on Ukraine, Kyiv says",
+      "url": "https://www.reuters.com/world/europe/russia-launches-drone-attack-kyiv-ukraines-military-says-2024-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Tassilo Hummel, Elizabeth Pineau",
+      "description": "Pavel Durov, the Russian-born founder of Telegram who was arrested in Paris, has nothing to hide it is absurd to hold an owner responsible for abuse of the messaging and social media platform, Telegram said in a statement.",
+      "publishedAt": "2024-08-26T10:54:17Z",
+      "title": "Pavel Durov, detained in France, has nothing to hide, Telegram says",
+      "url": "https://www.reuters.com/world/europe/pavel-durov-has-nothing-hide-telegram-says-arrested-founder-2024-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/GYBWOR4GNJI6ZARM4V56PMW4OA.jpg?auth=fece65f8a9bde34ae40a907d454e8f059f209725d1dc6004b917b9de5f2e7e07&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The Philippine government slammed China on Monday for \"repeated aggressive, unprofessional and illegal\" actions in the South China Sea after a string of clashes and incidents on air and at sea over the past week.",
+      "publishedAt": "2024-08-26T08:16:00Z",
+      "title": "Philippines says China's South China Sea moves aggressive, illegal",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-actions-south-china-sea-patently-illegal-philippine-defence-min-says-2024-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/QFJHQM5EUNKSVNWJKEURBSXHLM.jpg?auth=e68a2c04cfc1afaaad0e117d01136adb73736f9262ee1f9319199f2a4c8b50ba&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Reuters",
       "description": "A member of the Reuters team covering the war in Ukraine was missing and two others were hospitalised after a strike on a hotel in the eastern Ukrainian city of Kramatorsk.",
       "publishedAt": "2024-08-25T08:39:34Z",
@@ -18,67 +50,35 @@
     },
     {
       "author": "Reuters",
-      "description": "Homes were damaged and flights restricted in Russia's Saratov region as a result of Ukraine's drone attack on Monday in which a woman was also wounded, Russian officials and news agencies said.",
-      "publishedAt": "2024-08-26T04:39:02Z",
-      "title": "Flights restricted as Ukraine drone attack on Russia's Saratov damages homes, governor says",
-      "url": "https://www.reuters.com/world/europe/drone-debris-damages-homes-russias-saratov-governor-says-2024-08-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "China's military said on Monday that it organised army units to go to Ruili, Zhenkang and other border front lines to carry out armed patrols and air-ground joint police patrols, to maintain security and stability in border areas.",
-      "publishedAt": "2024-08-26T00:43:01Z",
-      "title": "China's military says it conducted armed patrols, joint police patrols near China-Myanmar border",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-military-says-it-conducted-armed-patrols-joint-police-patrols-near-china-2024-08-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Italian prosecutors have begun an official investigation of James Cutfield, captain of the superyacht belonging to British tech magnate Mike Lynch that sank off Sicily last week, killing its owner and six others, Italian media said on Monday.",
-      "publishedAt": "2024-08-26T05:50:26Z",
-      "title": "Lynch yacht captain faces investigation, Italian papers say",
+      "description": "Italian prosecutors have placed under investigation the captain of the superyacht that sank off Sicily last week in a storm, killing British tech magnate Mike Lynch and six other people, a judicial source said on Monday.",
+      "publishedAt": "2024-08-26T09:38:46Z",
+      "title": "Captain of sunken Lynch family yacht put under investigation, source says",
       "url": "https://www.reuters.com/world/europe/italy-prosecutors-put-captain-under-investigation-after-sinking-lynch-yacht-2024-08-26/",
       "urlToImage": "https://www.reuters.com/resizer/v2/UU36FHUSMZKLBOZB2EDNUKAB54.jpg?auth=0e1ec4c55925d12b406257af32590057a99650a2f56882c2390bcb7bdb21bf36&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Ahmed Elimam",
-      "description": "The Greek-flagged ship Sounion has been on fire since Aug. 23 after an attack by Yemen's Houthis with no obvious signs of an oil spill, EU Red Sea naval mission Aspides said in a post on X on Monday.",
-      "publishedAt": "2024-08-26T05:22:35Z",
-      "title": "Greek-flagged ship on fire since Aug 23 after Houthi attack, EU naval mission says",
-      "url": "https://www.reuters.com/world/middle-east/eu-naval-mission-greek-flagged-ship-sounion-fire-since-august-23-after-houthi-2024-08-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/EWU6INCT5VP2JBDVN24RPQP5YA.jpg?auth=b70d3fc53ddec132fcf9f458e70c51a69eed73ec67463cad254761a4aad3d34e&height=1005&width=1920&quality=80&smart=true"
+      "author": "Maxwell Adombila",
+      "description": "The two main contenders in Ghana's presidential election have launched duelling manifestos promising fiscal stability, jobs and a path out of the country's worst economic downturn in a generation.",
+      "publishedAt": "2024-08-26T10:51:51Z",
+      "title": "Ghana presidential contenders promise to ease hardship as campaign ramps up",
+      "url": "https://www.reuters.com/world/africa/ghana-presidential-contenders-promise-ease-hardship-campaign-ramps-up-2024-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DEFM3I2YAJMTBNEEH5RKXWHRK4.jpg?auth=559ed014ad466e6fcc49d71b661c9c2ebacfc82f41e0c4d646566064129fb076&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "Israeli jets launched strikes in Lebanon after the military assessed that the Iranian-backed Hezbollah movement was preparing to fire rockets and missiles towards Israel, the military said early on Sunday.",
-      "publishedAt": "2024-08-25T02:49:59Z",
-      "title": "Israeli military says jets striking in Lebanon",
-      "url": "https://www.reuters.com/world/middle-east/israel-strikes-hezbollah-targets-lebanon-military-says-2024-08-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "author": "Saleem Ahmad, Saud Mehsud",
+      "description": "Separatist militant attacks on police stations, railway lines and highways in Pakistan's restive province of Balochistan, coupled with retaliatory operations by security forces, killed at least 51 people, officials said on Monday.",
+      "publishedAt": "2024-08-26T12:05:40Z",
+      "title": "More than 50 killed after militant attacks in Pakistan's Balochistan",
+      "url": "https://www.reuters.com/world/asia-pacific/twenty-three-people-killed-pakistan-militant-attack-interior-minister-says-2024-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/PCPVUQ6BKJM5HH574FHJMTNPTQ.jpg?auth=b12f5f0687ace645b9da401f91273cb4853efd7b3c04d23fcffd6846065d9a1e&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "An earthquake of magnitude 5.6 struck south of Panama on Monday, the German Research Centre for Geosciences (GFZ) said.",
-      "publishedAt": "2024-08-26T05:25:27Z",
-      "title": "Earthquake of magnitude 5.6 strikes south of Panama, says GFZ",
-      "url": "https://www.reuters.com/world/americas/earthquake-magnitude-56-strikes-south-panama-says-gfz-2024-08-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Palestinian militant group Hamas is sticking to a July 2 Gaza ceasefire proposal, rejects new Israeli conditions for a ceasefire and says talk of an imminent deal is false, group official Osama Hamdan told Hamas-run Al-Aqsa TV on Sunday.",
-      "publishedAt": "2024-08-25T17:36:58Z",
-      "title": "Hamas says it rejects new Israeli conditions in Gaza ceasefire talks",
-      "url": "https://www.reuters.com/world/middle-east/hamas-says-it-rejects-new-israeli-conditions-gaza-ceasefire-talks-2024-08-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/67L24T5C65IUDPSSW5MXB5LGTA.jpg?auth=910935aacc33bee52bcc461ecfdf4e976fbd0b66b6dbaee2e243aa77698a227c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "China's actions in the South China Sea are \"patently illegal\", the Philippines' defence secretary said Monday following a clash in disputed waters on Sunday over what Manila said was a resupply mission for fishermen.",
-      "publishedAt": "2024-08-26T02:23:34Z",
-      "title": "China's actions in South China Sea patently illegal, Philippine Defence Min says",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-actions-south-china-sea-patently-illegal-philippine-defence-min-says-2024-08-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QFJHQM5EUNKSVNWJKEURBSXHLM.jpg?auth=e68a2c04cfc1afaaad0e117d01136adb73736f9262ee1f9319199f2a4c8b50ba&height=1005&width=1920&quality=80&smart=true"
+      "author": "Dani Morera Trettin",
+      "description": "It was June 12, Lover's Day in Brazil. Leo Nunes, 24, had spent a few days talking to someone he met on Hornet, a popular gay dating app, before arranging their first encounter in Sao Paulo's middle-class Sacoma neighborhood.",
+      "publishedAt": "2024-08-26T10:09:01Z",
+      "title": "Gay Brazilians targeted in deadly stickups, lured by dating apps",
+      "url": "https://www.reuters.com/world/americas/gay-brazilians-targeted-deadly-stickups-lured-by-dating-apps-2024-08-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/HJLZRJUI2JNS3FNXZNYIYSF26A.jpg?auth=41785a7008068b7a71bb79864d68d304b8a8207491a5a0a412ede9c12d4ea673&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
