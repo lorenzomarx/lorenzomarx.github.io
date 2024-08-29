@@ -1,28 +1,20 @@
 {
   "articles": [
     {
+      "author": "JULIA FRANKEL and NASSER NASSER",
+      "description": "AL-FARAA REFUGEE CAMP, West Bank (AP) \u2014 Israel launched a large-scale military operation in the occupied West Bank on Wednesday, where its forces killed at least nine Palestinians and sealed off the volatile city of Jenin, according to Palestinian officials.",
+      "publishedAt": "2024-08-28T06:03:07Z",
+      "title": "Israel launches a large-scale military operation in the occupied West Bank, killing 9 Palestinians",
+      "url": "https://apnews.com/41d98ed3cda2ba4a783913b06fbdc7d1",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/90a2d799a59243efa018898127f12657/1920.jpeg"
+    },
+    {
       "author": "JOSEPH KRAUSS",
       "description": "The latest flurry of Gaza cease-fire talks \u2014 the back-and-forth over now-familiar sticking points and appeals from around the world \u2014 obscures a grim truth about the monthslong efforts to end the Israel-Hamas war and free scores of hostages.",
       "publishedAt": "2024-08-28T04:05:52Z",
       "title": "Two sworn enemies hold the key to ending the war in Gaza. Does either man want a deal?",
       "url": "https://apnews.com/c00b30d31ac8d25592ce63c2398097a5",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/9203c48a20f84a39b3ad37d17d563cef/1920.jpeg"
-    },
-    {
-      "author": "SAM McNEIL and MELANIE LIDMAN",
-      "description": "BEERSHEBA, Israel (AP) \u2014 Qaid Farhan Alkadi was alone underground Tuesday after 326 days of captivity in Gaza when Israeli forces scouring Hamas\u2019 vast tunnel network found and freed him.",
-      "publishedAt": "2024-08-27T12:33:09Z",
-      "title": "A hostage in Gaza is rescued by Israel after 326 days of captivity",
-      "url": "https://apnews.com/696f8ee830207815efd31320976ef118",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/78acd2a4793c4f96b6f3ac33288ede8b/1600.jpeg"
-    },
-    {
-      "author": "WAFAA SHURAFA and SAMY MAGDY",
-      "description": "DEIR AL-BALAH, Gaza Strip (AP) \u2014 Born into the devastating Israel-Hamas war, 10-month-old Abdel-Rahman Abu El-Jedian started crawling early. Then one day, he froze \u2014 his left leg appeared to be paralyzed.",
-      "publishedAt": "2024-08-27T21:13:48Z",
-      "title": "A 10-month-old Palestinian baby suddenly stopped crawling. Polio had struck Gaza",
-      "url": "https://apnews.com/59a09fbb2257dd9fcfaac0878dc3fe58",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/dddb8971db6f45c784d684b343b1ecc3/3000.jpeg"
     },
     {
       "author": "ERIC TUCKER and ALANNA DURKIN RICHER",
@@ -49,36 +41,44 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/8090a73dda944949bfc10112b0be7945/3000.jpeg"
     },
     {
-      "author": "SOPHIA TAREEN",
-      "description": "CHICAGO (AP) \u2014 As a second straight day of hot soupy temperatures approaching triple digits hung over much of the Midwest on Tuesday, residents looked for ways to stay cool and indoors.",
-      "publishedAt": "2024-08-27T17:34:07Z",
-      "title": "From cold towels to early dismissal, people are finding ways to cope with a 2nd day of heat wave",
-      "url": "https://apnews.com/e800296c8fa3e89164d4f46c67f1183c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d9725733931440939bf5021ab5ea2eee/1920.jpeg"
+      "author": "ILLIA NOVIKOV",
+      "description": "KYIV, Ukraine (AP) \u2014 A Russian missile slammed into Ukrainian President Volodymyr Zelenskyy\u2019s home city on Wednesday, local authorities said, just as Kryvyi Rih was observing an official day of mourning for an attack the previous day that killed four civilians at a hotel.",
+      "publishedAt": "2024-08-28T10:00:36Z",
+      "title": "A Russian missile strikes the Ukrainian president's home city as it mourns deaths in earlier attack",
+      "url": "https://apnews.com/00f695dbd2bf21e149c908e6f5f21cbd",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/585a42ef1b3a4613adf5bc7ef4138219/3000.jpeg"
     },
     {
-      "author": "KIRSTEN GRIESHABER",
-      "description": "JENA, Germany (AP) \u2014 When electrical engineer Preetam Gaikwad first moved to Jena in 2013, she was smitten by what the eastern German city had to offer: a prestigious university, top research institutions, and cutting-edge technology companies, global leaders in their field.",
-      "publishedAt": "2024-08-28T04:42:51Z",
-      "title": "As the far right rises in eastern Germany, companies struggle to attract skilled foreign workers",
-      "url": "https://apnews.com/c3fdba1942bb8959c9f92eb321466a47",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/85412c2223a040ecaffaa82532153cbc/3000.jpeg"
+      "author": null,
+      "description": "PARIS (AP) \u2014 French prosecutors are expected to charge or release the CEO of the popular messaging app Telegram, Pavel Durov, after his police custody order expires on Wednesday.",
+      "publishedAt": "2024-08-28T09:29:38Z",
+      "title": "French prosecutors set to charge or release Telegram CEO Pavel Durov as his custody order expires",
+      "url": "https://apnews.com/6e213d227458f330ed16e7fe221a696c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ecafb659b7f84f0fabd30e82e921dab1/1894.jpeg"
+    },
+    {
+      "author": "SARAH PARVINI",
+      "description": "LOS ANGELES (AP) \u2014 Nvidia has led the artificial intelligence boom to become one of the stock market\u2019s biggest companies, as tech giants continue to spend heavily on the company's chips and data centers needed to train and operate their AI systems.",
+      "publishedAt": "2024-08-28T04:01:56Z",
+      "title": "All eyes are on Nvidia as it prepares to report its earnings. Here's what to expect",
+      "url": "https://apnews.com/464d35670b6e91a698751ec7ee157532",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0922d68c7e834993aa48728b1f60e96c/3000.jpeg"
     },
     {
       "author": "NINIEK KARMINI, DAVID RISING and NICOLE WINFIELD",
       "description": "DILI, East Timor (AP) \u2014 When the Vatican acknowledged in 2022 that the Nobel Peace Prize-winning, East Timorese independence hero Bishop Carlos Ximenes Belo had sexually abused young boys, it appeared that the global clergy sexual abuse scandal that has compromised the Catholic Church\u2019s credibility around the world had finally arrived in Asia\u2019s newest country.",
       "publishedAt": "2024-08-28T04:30:39Z",
-      "title": "Pope Francis is visiting East Timor after a clergy abuse scandal, but will he address it?",
+      "title": "Church sex abuse scandals in East Timor met by silence, but Pope Francis\u2019 visit brings new attention",
       "url": "https://apnews.com/403444937a155db9dafc947607183aee",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/934967f5e14549e2bf631aac6fc8586d/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/50caab7ab96a403e9025cc49ec45bd55/3000.jpeg"
     },
     {
-      "author": "HOWARD FENDRICH",
-      "description": "NEW YORK (AP) \u2014 A year ago, still on maternity leave and still unsure when she would play elite tennis again, Naomi Osaka visited the U.S.",
-      "publishedAt": "2024-08-27T18:59:25Z",
-      "title": "US Open: Naomi Osaka gets her first top-10 win in more than four years by defeating Ostapenko",
-      "url": "https://apnews.com/1a647ffda4587179368b9425dff73f4c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/045a4410fe8d4eac9c4180468eb31b17/3000.jpeg"
+      "author": "JEROME PUGMIRE",
+      "description": "PARIS (AP) \u2014 Just weeks after hosting the Olympics, the summer of sports in Paris begins its final chapter Wednesday with the opening ceremony of the Paralympic Games.",
+      "publishedAt": "2024-08-28T09:15:27Z",
+      "title": "Paris to inaugurate Paralympic Games with 'never seen before' opening ceremony in city's heart",
+      "url": "https://apnews.com/8edcc0df006bf081074331943d5b947d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e658389ae8cf45c2a3139904e1eb56a4/3000.jpeg"
     }
   ],
   "sortBy": "top",
