@@ -2,6 +2,38 @@
   "articles": [
     {
       "author": "Jon Brodkin",
+      "description": "Lacey gets 5 years for one money laundering charge but was acquitted on 50 counts.",
+      "publishedAt": "2024-08-29T16:48:13+00:00",
+      "title": "DOJ declares victory over Backpage as judge sends founder Lacey to prison",
+      "url": "https://arstechnica.com/tech-policy/2024/08/backpage-founder-michael-lacey-gets-5-years-in-prison-for-money-laundering/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/michael-lacey-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Governor will balance worries about \"over-regulation\" with calls from AI luminaries.",
+      "publishedAt": "2024-08-29T16:07:41+00:00",
+      "title": "California legislature passes controversial \u201ckill switch\u201d AI safety bill",
+      "url": "https://arstechnica.com/ai/2024/08/as-contentious-california-ai-safety-bill-passes-critics-push-governor-for-veto/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/newsom-760x380.png"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Experts warn chatbots writing police reports can make serious errors.",
+      "publishedAt": "2024-08-29T14:38:06+00:00",
+      "title": "Chatbots offer cops the \u201cultimate out\u201d to spin police reports, expert says",
+      "url": "https://arstechnica.com/tech-policy/2024/08/chatbots-offer-cops-the-ultimate-out-to-spin-police-reports-expert-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/police-ai-body-camera-760x380.jpg"
+    },
+    {
+      "author": "Henry Foy, Alice Hancock, Paola Tamma, and Adrienne Klasa, FT",
+      "description": "The new probe is separate from the French investigation into the platform.",
+      "publishedAt": "2024-08-29T13:10:23+00:00",
+      "title": "EU investigating if Telegram played down user numbers to avoid regulation",
+      "url": "https://www.ft.com/content/1f96e66d-00fe-46ca-9cb8-73e526125922",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/telegram-logo-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
       "description": "Multi-billionaire must post bail of 5 million euros, report to police twice a week.",
       "publishedAt": "2024-08-28T21:43:31+00:00",
       "title": "Telegram CEO charged with numerous crimes and is banned from leaving France",
@@ -47,38 +79,6 @@
       "title": "Court: Section 230 doesn\u2019t shield TikTok from Blackout Challenge death suit",
       "url": "https://arstechnica.com/tech-policy/2024/08/court-section-230-doesnt-shield-tiktok-from-blackout-challenge-death-suit/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1444592082-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Find your game in a convoluted landscape of streaming services and TV channels.",
-      "publishedAt": "2024-08-28T19:55:13+00:00",
-      "title": "ESPN\u2019s Where to Watch tries to solve sports\u2019 most frustrating problem",
-      "url": "https://arstechnica.com/gadgets/2024/08/espns-where-to-watch-tries-to-solve-sports-most-frustrating-problem/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Man-iPhone-11-Pro-TV-760x380.png"
-    },
-    {
-      "author": "Nate Anderson",
-      "description": "Drones are everywhere. Traffic cameras don't care.",
-      "publishedAt": "2024-08-28T17:50:21+00:00",
-      "title": "Trying to outrun Ukrainian drones? Kursk traffic cams still issue speeding tickets.",
-      "url": "https://arstechnica.com/culture/2024/08/trying-to-outrun-ukrainian-drones-kursk-traffic-cams-still-issue-speeding-tickets/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/ukr-drones-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "It's unclear how long upgrades will take or when the FAA will approve a booster catch.",
-      "publishedAt": "2024-08-28T17:43:08+00:00",
-      "title": "Sparks are flying day and night as SpaceX preps Starship pad to catch a rocket",
-      "url": "https://arstechnica.com/space/2024/08/spacex-is-beefing-up-its-starship-launch-pad-to-catch-a-20-story-tall-rocket/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/weld1-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Mono had many homes over 23 years, but Wine's repos might be its final stop.",
-      "publishedAt": "2024-08-28T17:15:35+00:00",
-      "title": "A long, weird FOSS circle ends as Microsoft donates Mono to Wine project",
-      "url": "https://arstechnica.com/gadgets/2024/08/a-long-weird-foss-circle-ends-as-microsoft-donates-mono-to-wine-project/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-961309558-760x380.jpg"
     }
   ],
   "sortBy": "top",
