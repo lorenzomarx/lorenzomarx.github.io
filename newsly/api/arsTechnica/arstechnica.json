@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Multi-billionaire must post bail of 5 million euros, report to police twice a week.",
+      "publishedAt": "2024-08-28T21:43:31+00:00",
+      "title": "Telegram CEO charged with numerous crimes and is banned from leaving France",
+      "url": "https://arstechnica.com/tech-policy/2024/08/pavel-durov-indicted-as-prosecutor-cites-telegrams-refusal-to-work-with-police/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/pavel-durov-760x380.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "description": "Vulnerability is easy to exploit and allows attackers to remotely execute commands.",
+      "publishedAt": "2024-08-28T21:25:04+00:00",
+      "title": "Unpatchable 0-day in surveillance cam is being exploited to install Mirai",
+      "url": "https://arstechnica.com/security/2024/08/unpatchable-0-day-in-surveillance-cam-is-being-exploited-to-install-mirai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/zeroday-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "CDC implores consumers to check their fridges for the recalled meats.",
+      "publishedAt": "2024-08-28T20:50:10+00:00",
+      "title": "Massive nationwide meat-linked outbreak kills 5 more, now largest since 2011",
+      "url": "https://arstechnica.com/science/2024/08/five-more-dead-in-record-breaking-outbreak-linked-to-boars-head-meats/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-179795324-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Ars testing shows some historical prompts no longer generate artificially diverse scenes.",
+      "publishedAt": "2024-08-28T20:31:27+00:00",
+      "title": "Google AI reintroduces human image generation after historical accuracy outcry",
+      "url": "https://arstechnica.com/ai/2024/08/months-after-controversy-google-ai-can-generate-images-of-humans-again/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/imagen1-760x380.png"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "It hired a hardware chief who previously worked on Apple Vision Pro.",
+      "publishedAt": "2024-08-28T20:15:58+00:00",
+      "title": "AI company Midjourney teases hardware product in a new form factor",
+      "url": "https://arstechnica.com/gadgets/2024/08/ai-image-generation-company-midjourney-says-its-getting-into-hardware/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/pondermyorb.png"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "TikTok must face claim over For You Page recommending content that killed kids.",
+      "publishedAt": "2024-08-28T20:09:43+00:00",
+      "title": "Court: Section 230 doesn\u2019t shield TikTok from Blackout Challenge death suit",
+      "url": "https://arstechnica.com/tech-policy/2024/08/court-section-230-doesnt-shield-tiktok-from-blackout-challenge-death-suit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1444592082-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "Find your game in a convoluted landscape of streaming services and TV channels.",
+      "publishedAt": "2024-08-28T19:55:13+00:00",
+      "title": "ESPN\u2019s Where to Watch tries to solve sports\u2019 most frustrating problem",
+      "url": "https://arstechnica.com/gadgets/2024/08/espns-where-to-watch-tries-to-solve-sports-most-frustrating-problem/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/Man-iPhone-11-Pro-TV-760x380.png"
+    },
+    {
+      "author": "Nate Anderson",
+      "description": "Drones are everywhere. Traffic cameras don't care.",
+      "publishedAt": "2024-08-28T17:50:21+00:00",
+      "title": "Trying to outrun Ukrainian drones? Kursk traffic cams still issue speeding tickets.",
+      "url": "https://arstechnica.com/culture/2024/08/trying-to-outrun-ukrainian-drones-kursk-traffic-cams-still-issue-speeding-tickets/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/ukr-drones-760x380.jpg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "It's unclear how long upgrades will take or when the FAA will approve a booster catch.",
+      "publishedAt": "2024-08-28T17:43:08+00:00",
+      "title": "Sparks are flying day and night as SpaceX preps Starship pad to catch a rocket",
+      "url": "https://arstechnica.com/space/2024/08/spacex-is-beefing-up-its-starship-launch-pad-to-catch-a-20-story-tall-rocket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/weld1-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "Mono had many homes over 23 years, but Wine's repos might be its final stop.",
       "publishedAt": "2024-08-28T17:15:35+00:00",
       "title": "A long, weird FOSS circle ends as Microsoft donates Mono to Wine project",
       "url": "https://arstechnica.com/gadgets/2024/08/a-long-weird-foss-circle-ends-as-microsoft-donates-mono-to-wine-project/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-961309558-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "\"Why write rules for software by hand when AI can just think every pixel for you?\"",
-      "publishedAt": "2024-08-28T17:06:09+00:00",
-      "title": "New AI model can hallucinate a game of 1993\u2019s Doom in real time",
-      "url": "https://arstechnica.com/information-technology/2024/08/new-ai-model-can-hallucinate-a-game-of-1993s-doom-in-real-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/ai-simulated-doom-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Australian police called it \"one of the worst sextortion cases in history.\"",
-      "publishedAt": "2024-08-28T16:46:32+00:00",
-      "title": "Man posing as teen YouTuber gets 17 years for horrific global sextortion scheme",
-      "url": "https://arstechnica.com/tech-policy/2024/08/man-posing-as-teen-youtuber-gets-17-years-for-horrific-global-sextortion-scheme/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1141229196-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "All the layoffs were in the company's fast-moving services division.",
-      "publishedAt": "2024-08-28T16:35:58+00:00",
-      "title": "Apple lays off employees working on Books and News",
-      "url": "https://arstechnica.com/gadgets/2024/08/apple-lays-off-employees-working-on-books-and-news/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Apple-Books-760x380.png"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Despite \"full self driving,\" Teslas still can't cope with one-way tunnels.",
-      "publishedAt": "2024-08-28T16:33:16+00:00",
-      "title": "Elon Musk\u2019s Boring Company can\u2019t get Tesla FSD to work in tunnels",
-      "url": "https://arstechnica.com/cars/2024/08/autonomous-teslas-still-a-pipe-dream-in-boring-company-tunnels/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-1246021612-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Durov released from police custody, brought to court after days of questioning.",
-      "publishedAt": "2024-08-28T15:53:52+00:00",
-      "title": "Telegram CEO released by police, transferred to court for possible indictment",
-      "url": "https://arstechnica.com/tech-policy/2024/08/telegram-ceo-released-by-police-transferred-to-court-for-possible-indictment/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/pavel-durov-1-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "With enough interest, the \"seriously clean fun\" concept could go into production.",
-      "publishedAt": "2024-08-28T15:48:36+00:00",
-      "title": "Sick of heavy electric SUVs and crossovers? Ariel debuts the E-Nomad.",
-      "url": "https://arstechnica.com/cars/2024/08/a-lightweight-go-anywhere-ev-ariel-reveals-e-nomad-concept/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/03-Ariel-E-Nomad-front-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Feedback gets rid of overt biases but leaves subtle racism intact.",
-      "publishedAt": "2024-08-28T15:00:59+00:00",
-      "title": "LLMs have a strong bias against use of African American English",
-      "url": "https://arstechnica.com/ai/2024/08/llms-have-a-strong-bias-against-use-of-african-american-english/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/speech-target-public-enemy-760x380.png"
-    },
-    {
-      "author": "Bob Berwyn, Inside Climate News",
-      "description": "Attempts to cut greenhouse gases made tougher by increased emissions.",
-      "publishedAt": "2024-08-28T14:38:16+00:00",
-      "title": "Climate change feedbacks lead to surge in natural methane emissions",
-      "url": "https://insideclimatenews.org/news/28082024/surging-methane-emissions-major-climate-shift/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/pantanal-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "Engineers are redesigning parts of the propulsion system on Astrobotic's next lunar lander.",
-      "publishedAt": "2024-08-28T13:35:35+00:00",
-      "title": "Astrobotic\u2019s lander didn\u2019t make it to the Moon because of a failed valve",
-      "url": "https://arstechnica.com/space/2024/08/astrobotics-lander-didnt-make-it-to-the-moon-because-of-a-failed-valve/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/23.10.25_PM1_Documentation_Cleanroom_JR-3383_PS.3-scaled-1-760x380.jpg"
     }
   ],
   "sortBy": "top",
