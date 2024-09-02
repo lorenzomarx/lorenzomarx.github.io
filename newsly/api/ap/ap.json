@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "author": "YURI KAGEYAMA",
-      "description": "TOKYO (AP) \u2014 Japan, a nation so hardworking its language has a term for literally working oneself to death, is trying to address a worrisome labor shortage by coaxing more people and companies to adopt four-day workweeks.",
-      "publishedAt": "2024-08-31T04:14:47Z",
-      "title": "Japan wants its hardworking citizens to try a 4-day workweek",
-      "url": "https://apnews.com/f78a95a89d99e7b323f7554721088d66",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5e7febcba6d847619df13787c9772c74/3000.jpeg"
-    },
-    {
       "author": "MATTHEW DALY",
       "description": "WASHINGTON (AP) \u2014 As the Earth sizzled through a summer with four of the hottest days ever measured, Vice President Kamala Harris and former President Donald Trump have starkly different visions on how to address a changing climate while ensuring a reliable energy supply.",
       "publishedAt": "2024-08-31T04:04:27Z",
@@ -25,6 +17,14 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/cded91040e0e4808848f26f7de73c5a7/3000.jpeg"
     },
     {
+      "author": "ALI SWENSON, MORIAH BALINGIT and AYANNA ALEXANDER",
+      "description": "WASHINGTON (AP) \u2014 In her welcoming remarks at Moms for Liberty\u2019s annual gathering in the nation\u2019s capital on Friday, the group\u2019s co-founder, Tiffany Justice, urged members to \u201cfight like a mother\u201d against the Democratic presidential ticket.",
+      "publishedAt": "2024-08-31T20:04:50Z",
+      "title": "Moms for Liberty fully embraces Trump and widens role in national politics as election nears",
+      "url": "https://apnews.com/7c252c611b5bc73c333a24392b979372",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e371b812d8cc4d63b5f11dfa6dbecbda/3000.jpeg"
+    },
+    {
       "author": null,
       "description": "JOHNSTOWN, Pa. (AP) \u2014 Police said Saturday that a man will face misdemeanor charges after he stormed into the press area at Donald Trump's rally in Johnstown, Pennsylvania, before being surrounded by authorities and eventually subdued with a Taser as the former president spoke at the campaign stop.",
       "publishedAt": "2024-08-30T22:32:46Z",
@@ -33,12 +33,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/0bd60d54c5a04b079b67739c73fa9979/3000.jpeg"
     },
     {
-      "author": "ELLIOT SPAGAT",
-      "description": "SAN DIEGO (AP) \u2014 Arrests for illegal border crossings from Mexico during August are expected to rise slightly from July, officials said, likely ending five straight months of declines.Authorities made about 54,000 arrests through Thursday, which, at the current rate, would bring the August total to about 58,000 when the month ends Saturday, according to two U.S.",
-      "publishedAt": "2024-08-31T15:21:28Z",
-      "title": "Border arrests are expected to rise slightly in August, hinting 5-month drop may have bottomed out",
-      "url": "https://apnews.com/12357799e15b1b1f5399dac19184fcc4",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c070465ec37c4760a0debb0e71503a29/3000.jpeg"
+      "author": "GABRIELA S\u00c1 PESSOA",
+      "description": "SAO PAULO (AP) \u2014 The blocking of social media platform X in Brazil divided users and politicians over the legitimacy of the ban, and many Brazilians on Saturday had difficulty and doubts over navigating other social media in its absence.",
+      "publishedAt": "2024-08-31T21:38:22Z",
+      "title": "On the first day without X, many Brazilians say they feel disconnected from the world",
+      "url": "https://apnews.com/1e896a1daedeaed6a09cf27205feb08a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/46bd73bfb66c49ed844ca1da0c19b900/1920.jpeg"
     },
     {
       "author": null,
@@ -46,13 +46,21 @@
       "publishedAt": "2024-08-31T17:20:15Z",
       "title": "Mississippi bus crash kills 7 people and injures 37",
       "url": "https://apnews.com/eb16d10eed0abcdfd30f053d899a5767",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9bdac461f0fe4236aa2fc4fd39ecaa73/3000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/69aa2e0d4f3f4bb898589c86d7c2b1e9/1920.jpeg"
+    },
+    {
+      "author": "ELLIOT SPAGAT",
+      "description": "SAN DIEGO (AP) \u2014 Arrests for illegal border crossings from Mexico during August are expected to rise slightly from July, officials said, possibly ending a streak of five straight monthly declines but the numbers are hovering near four-year lows.",
+      "publishedAt": "2024-08-31T15:21:28Z",
+      "title": "Border arrests are expected to rise slightly in August but are hovering near 4-year lows",
+      "url": "https://apnews.com/12357799e15b1b1f5399dac19184fcc4",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c070465ec37c4760a0debb0e71503a29/3000.jpeg"
     },
     {
       "author": "Associated Press",
-      "description": "JERUSALEM (AP) \u2014 A campaign to inoculate children in Gaza against polio and prevent the spread of the virus began on Saturday, the Health Ministry said, as Palestinians in the Hamas-governed enclave and in the occupied West Bank reeled from Israel's military offensives.",
+      "description": "JERUSALEM (AP) \u2014 A campaign to inoculate children in Gaza against polio and prevent the spread of the virus has begun, the Health Ministry said Saturday, as Palestinians in the Hamas-governed enclave and the occupied West Bank reeled from Israel's military offensives.",
       "publishedAt": "2024-08-31T13:26:37Z",
-      "title": "Polio vaccine campaign begins in Gaza a day before an expected pause in fighting",
+      "title": "Polio vaccine campaign begins in Gaza a day before fighting is expected to pause",
       "url": "https://apnews.com/b3016b2ac2085c103b412a437f7579eb",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/b52b3a9f53944945b393a7d23efef2ed/1920.jpeg"
     },
@@ -60,25 +68,17 @@
       "author": "JULIA FRANKEL",
       "description": "JERUSALEM (AP) \u2014 The U.N. health agency and partners are launching a campaign starting Sunday to vaccinate 640,000 Palestinian children in Gaza against polio, an ambitious effort amid a devastating war that has destroyed the territory's healthcare system.",
       "publishedAt": "2024-08-31T04:05:00Z",
-      "title": "3 days, 640,000 children, 1.3M doses. The plan to vaccinate Gaza's young against polio",
+      "title": "9 days, 640,000 children, 1.3M doses. The plan to vaccinate Gaza's young against polio",
       "url": "https://apnews.com/3acaa0dcf9744810c51032f45e609a2f",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/9a27176603c443899973224749ef4eee/1920.jpeg"
     },
     {
-      "author": "VASILISA STEPANENKO and SAMYA KULLAB",
-      "description": "KYIV, Ukraine (AP) \u2014 When the air raid siren bellows in the dead of night, the women in arms rush to duty. Barely two months since joining the mobile air-defense unit, 27-year-old Angelina has perfected the drill to a tee: Combat gear fitted, anti-aircraft machine gun in place, she cruised behind the wheel of a pickup, singing along to a Ukrainian song about rebellion.",
-      "publishedAt": "2024-08-31T04:16:30Z",
-      "title": "With men at the front lines, women watch over Ukraine's night sky for Russian drones",
-      "url": "https://apnews.com/c93d97de4c39ca5a12d5906c3ee014c2",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0521c0893b5946158b8102b9837aadc8/1920.jpeg"
-    },
-    {
-      "author": "MITCH STACY",
-      "description": "Columbus Blue Jackets officials could hardly believe their luck when they persuaded superstar Johnny Gaudreau to pass up larger markets and sign here two years ago.Ecstatic fans looked to \u201cJohnny Hockey\u201d to score goals and jump-start the fortunes of a struggling team that had reached the playoffs just six times in the previous 21 seasons and advanced beyond the opening round only twice.",
-      "publishedAt": "2024-08-31T13:10:21Z",
-      "title": "Sudden death of 'Johnny Hockey' means more hard times for beleaguered Columbus Blue Jackets",
-      "url": "https://apnews.com/74fec73925bcd72179b771b06758b71b",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6195bcc7d385414883e9c7b18d220510/3000.jpeg"
+      "author": "JOCELYN GECKER",
+      "description": "SACRAMENTO, Calif. (AP) \u2014 When she was in fifth grade, Scarlett Goddard Strahan started to worry about getting wrinkles.By the time she turned 10, Scarlett and her friends were spending hours on TikTok and YouTube watching influencers tout products for achieving today\u2019s beauty aesthetic: a dewy, \u201cglowy,\u201d flawless complexion.",
+      "publishedAt": "2024-08-31T04:08:10Z",
+      "title": "Young girls are using anti-aging products they see on social media. The harm is more than skin deep",
+      "url": "https://apnews.com/f59bb09114ab93323e3a47197a1ad914",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b40a4722bbc14a988b39744963977e80/3000.jpeg"
     }
   ],
   "sortBy": "top",
