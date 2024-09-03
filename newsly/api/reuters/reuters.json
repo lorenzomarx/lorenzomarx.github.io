@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli forces killed at least 48 Palestinians in the past 24 hours across the Gaza Strip as they battled Hamas-led militants, Palestinian officials said on Monday, while medics conducted a second day of polio vaccinations for children in the enclave.",
+      "publishedAt": "2024-09-02T11:43:55Z",
+      "title": "Israeli fire kills dozens in Gaza, polio vaccinations in full swing",
+      "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-dozens-gaza-polio-vaccinations-full-swing-2024-09-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ENZXMQH5ONOJRBSOQYSQYFLXIY.jpg?auth=69804cd65e5b1e1fc24a7fdbcd1655ef651b2945acfddb840391f0c5fb32e078&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Ari Rabinovitch, Stephanie Kelly",
       "description": "Israel recovered the bodies of six hostages from a tunnel in southern Gaza where they were apparently killed not long before Israeli troops reached them, the military said on Sunday.",
       "publishedAt": "2024-09-01T06:12:33Z",
@@ -25,14 +33,6 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/PB6PURUMW5MDRJTO6ZZDNDBWGM.jpg?auth=9dc97a23b0bfaf229c13f2344ebe5ea3b51ce3ece5397a7bcf2afc78e3510e0d&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Pavel Polityuk",
-      "description": "Kyiv launched one of the biggest drone attacks on Russia since the full-scale war began, targeting power plants and an oil refinery overnight, while Moscow's forces made further advances towards a key town in eastern Ukraine, officials said on Sunday.",
-      "publishedAt": "2024-09-01T12:09:58Z",
-      "title": "Ukraine launches mass drone attack on Russia, loses more ground in east",
-      "url": "https://www.reuters.com/world/europe/ukraine-launches-mass-drone-attack-russia-loses-more-ground-east-2024-09-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Pavel Polityuk, Valentyn Ogirenko",
       "description": "Russia pounded Ukraine's capital of Kyiv with missiles early on Monday, while falling debris from the downed weapons injured at least two people, sparking fires and damaging homes and infrastructure, officials said.",
       "publishedAt": "2024-09-02T04:59:15Z",
@@ -41,12 +41,28 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/MLXSCZ27JZLIJJDGQALHVIPSPQ.jpg?auth=d382a52bc414432bf11603f39eac8be8060f881fd8b911dfbdf24ecaa852d4c3&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Diego Or\u00e9",
-      "description": "The backbone of the constitutional reform would see more than 7,000 judges and magistrates elected by popular vote.",
-      "publishedAt": "2024-09-02T01:51:25Z",
-      "title": "Mexico's Congress to debate controversial judicial reform on Tuesday",
-      "url": "https://www.reuters.com/world/americas/mexicos-congress-debate-controversial-judicial-reform-tuesday-2024-09-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/W3JCTF3SSBI3NMA2OOTTX6INXY.jpg?auth=e6c697750a976218cbda55b97805f12ac8a91626ddb79982fc64d2ef27d84ded&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Pavel Durov, the Telegram boss arrested in France, was \"too free\" in his approach to running the social media platform, and this was his undoing, Russian Foreign Minister Sergei Lavrov said on Monday.",
+      "publishedAt": "2024-09-02T08:44:16Z",
+      "title": "Russia says Telegram boss Durov is a victim of his own independence",
+      "url": "https://www.reuters.com/world/europe/russia-says-telegram-boss-durov-is-victim-his-own-independence-2024-09-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/AFHLUES6GVPBTNADV3THYNQZUM.jpg?auth=35ada1f159926c3114aa0ae23697a3103c7cdfa8962cb97d38dfd2e00dc20119&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Steven Scheer",
+      "description": "Municipal services in several Israeli districts were disrupted on Monday after the country's biggest labour union launched a general strike to pressure Prime Minister Benjamin Netanyahu into agreeing to a deal to bring Israeli hostages in Gaza home.",
+      "publishedAt": "2024-09-02T08:14:31Z",
+      "title": "Israeli labour strike to push for Gaza hostage deal disrupts flights and buses",
+      "url": "https://www.reuters.com/world/middle-east/israeli-labour-strike-push-gaza-hostage-deal-disrupts-flights-buses-2024-09-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/WOPEYXYNZFMFTBAWHD6FDF6UNU.jpg?auth=c1dc9246f8715d4393dcb45cb890cdc0067cffad4be7e9df30593b57dce8f9d3&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Stephanie Kelly",
+      "description": "U.S. President Joe Biden will join Vice President Kamala Harris on the campaign trail this week for the first time since Harris replaced him at the top of the Democratic ticket, but the discovery of Israeli hostage deaths in Gaza over the weekend is likely to overshadow events.",
+      "publishedAt": "2024-09-02T10:07:57Z",
+      "title": "Biden, Harris campaign in Pennsylvania as Israel crisis intensifies",
+      "url": "https://www.reuters.com/world/us/biden-harris-campaign-pennsylvania-israel-crisis-intensifies-2024-09-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XKGVE35RSBMKXODP52PKPYLOFA.jpg?auth=70b4f2cad23ab0f3bb86d3baa90e17d07813362c9da2ed2b573de8d075ae8286&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Sakshi Dayal, Subrata Nag Choudhury",
@@ -58,27 +74,11 @@
     },
     {
       "author": "Reuters",
-      "description": "If China's claims on Taiwan are about territorial integrity then it should also take back land from Russia signed over by the last Chinese dynasty in the 19th century, Taiwan President Lai Ching-te said in an interview with Taiwanese media.",
-      "publishedAt": "2024-09-02T02:24:08Z",
-      "title": "If China wants Taiwan it should also take back land from Russia, president says",
-      "url": "https://www.reuters.com/world/asia-pacific/if-china-wants-taiwan-it-should-also-take-back-land-russia-president-says-2024-09-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QCPY7AK4WJPPVNWJ6IKOPIOUYQ.jpg?auth=d06dac6de2c9782c81d70019385557af5fe4169fce87457e2056351d9978519e&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Lewis Jackson",
-      "description": "Former childcare worker Ashley Paul Griffith on Monday pleaded guilty to raping, sexually abusing and exploiting dozens of girls under his care in Australia and Italy.",
-      "publishedAt": "2024-09-02T06:00:55Z",
-      "title": "Australian ex-childcare worker pleads guilty to sexual abuse of some 60 girls",
-      "url": "https://www.reuters.com/world/asia-pacific/australian-ex-childcare-worker-pleads-guilty-sexual-abuse-some-60-girls-2024-09-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Nailia Bagirova",
-      "description": "Azerbaijan's ruling party was on course for a single-seat majority on Sunday in a snap parliamentary election called by President Ilham Aliyev, according to an exit poll.",
-      "publishedAt": "2024-09-01T16:37:59Z",
-      "title": "Azerbaijan's ruling party on course for one-seat majority in election, exit poll says",
-      "url": "https://www.reuters.com/world/asia-pacific/azerbaijans-ruling-party-course-one-seat-majority-election-exit-poll-forecasts-2024-09-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GMZB5RGS3NOJBNFBFLVINGCSPE.jpg?auth=72d4ec0e8b2da4b21f672eb081da7c95bd163b7d13175ec8a926852052146eb9&height=1005&width=1920&quality=80&smart=true"
+      "description": "Russian forces are advancing faster in eastern Ukraine than they have done for a long time, taking several square kilometres per day, President Vladimir Putin said on Monday as Moscow's forces tried to smash through a major Ukrainian defensive line.",
+      "publishedAt": "2024-09-02T10:17:31Z",
+      "title": "Putin says Russia advancing fast - by kilometres - in eastern Ukraine",
+      "url": "https://www.reuters.com/world/europe/pro-russian-bloggers-says-moscows-forces-push-into-two-eastern-ukrainian-cities-2024-09-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/K432DHL24JJ6XELSTYO34NKBOA.jpg?auth=5be986834e972a0e2dd47d0ca99341567c08980abcb635871d764976ed980481&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
