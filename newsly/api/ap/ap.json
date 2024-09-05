@@ -1,28 +1,68 @@
 {
   "articles": [
     {
+      "author": null,
+      "description": "WASHINGTON (AP) \u2014 US government announces criminal charges, seizure of internet domains arising from Russian effort to influence election.",
+      "publishedAt": "2024-09-04T17:44:15Z",
+      "title": "US government announces criminal charges, seizure of internet domains arising from Russian effort to influence election",
+      "url": "https://apnews.com/fc508e22856ed09d44eb0c74ee04f016",
+      "urlToImage": ""
+    },
+    {
+      "author": "ERIC TUCKER and MATTHEW LEE",
+      "description": "WASHINGTON (AP) \u2014 The Biden administration on Wednesday announced criminal charges, the seizure of internet domains and sanctions related to Russian disinformation efforts to influence the U.S. presidential election.",
+      "publishedAt": "2024-09-04T15:50:04Z",
+      "title": "US accuses Russia of using state media to spread disinformation before the November election",
+      "url": "https://apnews.com/4888f4bfc61e46173101060ad0321d2f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0f91b7f37dd9498fa19577627292c98e/3000.jpeg"
+    },
+    {
       "author": "ILLIA NOVIKOV and EMMA BURROWS",
-      "description": "KYIV, Ukraine (AP) \u2014 Foreign Minister Dmytro Kuleba, one of Ukraine's most recognizable faces on the international stage, submitted his resignation Wednesday ahead of an expected major government reshuffle.",
+      "description": "KYIV, Ukraine (AP) \u2014 Foreign Minister Dmytro Kuleba, one of Ukraine's most recognizable faces on the international stage, resigned Wednesday ahead of an expected reshuffling of government leaders. Russian strikes, meanwhile, killed seven people in a western city, a day after one of the deadliest missile attacks since the war began.",
       "publishedAt": "2024-09-04T06:29:42Z",
-      "title": "Ukraine's Foreign Minister Kuleba resigns as Russian strikes kill 7 people in Lviv",
+      "title": "Ukrainian foreign minister resigns ahead of expected reshuffling of government leaders",
       "url": "https://apnews.com/bb5195cc2df40d32bac374ece6dbc0b8",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/749abb9b3a0a457f960904510dd15072/960.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/fd8ade71a2a1492a9c2567a802490871/1920.jpeg"
     },
     {
-      "author": "ERIC TUCKER",
-      "description": "WASHINGTON (AP) \u2014 The Justice Department announced criminal charges Tuesday against Hamas leader Yahya Sinwar and other senior militants in connection with the Oct.",
-      "publishedAt": "2024-09-03T21:00:24Z",
-      "title": "US charges Hamas leader, other militants in connection with Oct. 7 massacre in Israel",
-      "url": "https://apnews.com/87674285aa9b066392953db1310312ca",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/62c0bfd29d93409db97a9301c690435a/3000.jpeg"
+      "author": "JACK JEFFERY and JULIA FRANKEL",
+      "description": "For more than a week, hundreds of Israeli forces have carried out the deadliest operation in the occupied West Bank since the war in Gaza began.",
+      "publishedAt": "2024-09-04T12:32:28Z",
+      "title": "What to know about Israel\u2019s major weeklong raid in the West Bank city of Jenin",
+      "url": "https://apnews.com/c1618cc024d8a5269486e266593b5434",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/09d203d8e6fc48a8bb5fed95626ae4a2/3000.jpeg"
     },
     {
-      "author": "MICHAEL R. SISAK",
-      "description": "NEW YORK (AP) \u2014 A federal judge on Tuesday swiftly rejected Donald Trump\u2019s request to intervene in his New York hush money criminal case, spurning the former president\u2019s attempt at an end-run around the state court where he was convicted and is set to be sentenced in two weeks.",
-      "publishedAt": "2024-09-03T16:46:33Z",
-      "title": "Federal judge rejects Donald Trump's request to intervene in wake of hush money conviction",
-      "url": "https://apnews.com/a905207c7db9fc48d022d68ac6cc12e1",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/36474db466ce442b8b572bfc130ed9a6/3000.jpeg"
+      "author": "PETER SMITH and MICHELLE R. SMITH",
+      "description": "By his own account, Ohio Sen. JD Vance\u2019s 2019 conversion to Catholicism provided a spiritual fulfillment he couldn\u2019t find in his Yale education or career success. It also amounted to a political conversion.",
+      "publishedAt": "2024-09-04T12:02:22Z",
+      "title": "JD Vance's Catholicism helped shape his views. So did this little-known group of Catholic thinkers",
+      "url": "https://apnews.com/7e37e43cb1976c516d642a95d495266a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/baabf974c9184694b765796c8b5ab43d/3000.jpeg"
+    },
+    {
+      "author": "JEFF AMY",
+      "description": "WINDER, Ga. (AP) \u2014 A shooting at a Georgia high school Wednesday caused an unknown number of injuries and a suspect was arrested in a chaotic scene in which officers swarmed the campus and students rushed for shelter in the football stadium.",
+      "publishedAt": "2024-09-04T15:56:03Z",
+      "title": "Shooting at Georgia high school leads to unknown number of injuries",
+      "url": "https://apnews.com/3969d34cf6a7adc787facf21c469ef4d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/95e4df61b34b40a7af45c079566d8f67/1920.jpeg"
+    },
+    {
+      "author": "NICOLE WINFIELD and EDNA TARIGAN",
+      "description": "JAKARTA, Indonesia (AP) \u2014 Pope Francis urged Indonesia to live up to its promise of \u201charmony in diversity\u201d and fight religious intolerance on Wednesday, as he set a rigorous pace for an 11-day, four-nation trip through tropical Southeast Asia and Oceania that will test his stamina and health.",
+      "publishedAt": "2024-09-04T04:53:19Z",
+      "title": "The pope urges Indonesia to live up to its promise of 'harmony in diversity'",
+      "url": "https://apnews.com/90b9bbc4f12f7e13a2d8951d6b4ebc67",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ea66ddac76dd4cec8c76cc3497c3bcb5/2884.jpeg"
+    },
+    {
+      "author": "SETH BORENSTEIN",
+      "description": "The world creates 57 million tons of plastic pollution every year and spreads it from the deepest oceans to the highest mountaintop to the inside of people's bodies, according to a new study that also said more than two-thirds of it comes from the Global South.",
+      "publishedAt": "2024-09-04T15:08:09Z",
+      "title": "The world is pumping out 57 million tons of plastic pollution a year",
+      "url": "https://apnews.com/dd9ce2a092c5d5826a3436d9f47764c7",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9c0fbbc3c96e4d2ead74104d4834dde5/1920.jpeg"
     },
     {
       "author": "JOSH BOAK",
@@ -33,52 +73,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/dd44d4144c7c49e387e053bd608ad282/3000.jpeg"
     },
     {
-      "author": "WILL WEISSERT",
-      "description": "WASHINGTON (AP) \u2014 Vice President Kamala Harris is using a New Hampshire campaign stop on Wednesday to propose an expansion of tax incentives for small businesses, a pro-entrepreneur plan that may soften her previous calls for wealthy Americans and large corporations to pay higher taxes.",
-      "publishedAt": "2024-09-04T04:06:00Z",
-      "title": "Harris is visiting New Hampshire, away from bigger swing states, to tout her small business tax plan",
-      "url": "https://apnews.com/6dce74635a82647c44f8d6446ebffd17",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1870b95954e6485f8f696b730be30296/3000.jpeg"
-    },
-    {
-      "author": "NICOLE WINFIELD and EDNA TARIGAN",
-      "description": "JAKARTA, Indonesia (AP) \u2014 Pope Francis urged Indonesia to live up to its promise of \u201charmony in diversity\u201d and fight religious intolerance on Wednesday, as he set a rigorous pace for an 11-day, four-nation trip through tropical Southeast Asia and Oceania that will test his stamina and health.",
-      "publishedAt": "2024-09-04T04:53:19Z",
-      "title": "In Asia, pope urges Indonesia to live up to promise of 'harmony in diversity,' fight extremism",
-      "url": "https://apnews.com/90b9bbc4f12f7e13a2d8951d6b4ebc67",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ea66ddac76dd4cec8c76cc3497c3bcb5/2884.jpeg"
-    },
-    {
-      "author": "JILL LAWLESS",
-      "description": "LONDON (AP) \u2014 A damning report on a deadly London high-rise fire said Wednesday that decades of failures by government, regulators and industry turned Grenfell Tower into a \u201cdeath trap\u201d where 72 people lost their lives.",
-      "publishedAt": "2024-09-04T05:05:45Z",
-      "title": "Grenfell Tower was a 'death trap' due to failures by UK government and industry, inquiry finds",
-      "url": "https://apnews.com/361f5e836218a1feee0bd66cb5d0ef92",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f075a11db62c4d78aed3fef00199bba5/3000.jpeg"
-    },
-    {
-      "author": "ZIMO ZHONG",
-      "description": "HONG KONG (AP) \u2014 World stocks tumbled Wednesday after Wall Street had its worst day since early August, with heavyweight Nvidia falling 9.5%, leading to a global decline in chip-related stocks.",
-      "publishedAt": "2024-09-04T05:06:14Z",
-      "title": "Global stocks tumble after Wall Street drops on worries about the economy",
-      "url": "https://apnews.com/3c351ab22c11531bb69ff06352f5e7db",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/85b9772573b14ccaa47eeeb538837659/3000.jpeg"
-    },
-    {
-      "author": "WYATTE GRANTHAM-PHILIPS",
-      "description": "NEW YORK (AP) \u2014 \u201cVery demure, very mindful\u201d has become the latest vocabulary defining the internet\u2019s summer.",
-      "publishedAt": "2024-09-04T10:00:55Z",
-      "title": "Jools Lebron filed trademark applications related to her 'very demure' content. Here's what to know",
-      "url": "https://apnews.com/67d661d0afa825bb939b15f4730f1295",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a15c584f30e049d8b722c7714bc15664/3000.jpeg"
-    },
-    {
-      "author": null,
-      "description": "ROME (AP) \u2014 Lightning struck Rome's Constantine Arch near the Colosseum during a violent thunderstorm, loosening fragments from the ancient structure. The fragments from Tuesday's lightning strike were immediately gathered and secured by workers at the Colosseum Archeological Park, officials said.",
-      "publishedAt": "2024-09-04T07:30:27Z",
-      "title": "Lightning damages Rome's ancient Constantine Arch during a violent thunderstorm",
-      "url": "https://apnews.com/174c1a045767b14c933d845a7ac62dff",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7c185d36e004411cb45ef197ee1c9569/3000.jpeg"
+      "author": "LAURA UNGAR",
+      "description": "TULSA, Okla. (AP) \u2014 At the site of a race massacre that reduced neighborhoods to ashes a century ago, where murals memorialize a once-thriving \u201c Black Wall Street,\u201d one African American mother strives to keep others from dying as they try to bring new life into the world.",
+      "publishedAt": "2024-09-04T14:04:48Z",
+      "title": "America is trying to fix its maternal mortality crisis with federal, state and local programs",
+      "url": "https://apnews.com/0aa1fa2a141ef82607026b384cc14af7",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/56dab6e22d30483f82035eefb752c5bf/3000.jpeg"
     }
   ],
   "sortBy": "top",
