@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "author": "Nidal Al-Mughrabi",
-      "description": "Israeli forces killed 33 Palestinians across Gaza in the past 24 hours as they battled Hamas-led militants, Palestinian officials said on Tuesday, but brief pauses in fighting allowed medics to conduct a third day of polio vaccinations for children.",
-      "publishedAt": "2024-09-03T13:21:44Z",
-      "title": "Israeli attacks in Gaza kill 33 Palestinians but pauses allow third day of polio vaccinations",
-      "url": "https://www.reuters.com/world/middle-east/israeli-attacks-gaza-kill-33-palestinians-pauses-allow-third-day-polio-2024-09-03/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/V7GWZMMO2FLSZLV2RZJ2SORILU.jpg?auth=1f6ff61e0f400b008bfe84179da35ca147e740d1265d64a70d06ff5ac4d6de4a&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
       "description": "At least 41 people were killed and more than 180 wounded on Tuesday when Russia hit a military institute in the central town of Poltava, President Volodymyr Zelenskiy said, in one of the deadliest single strikes of the war.",
       "publishedAt": "2024-09-03T11:53:55Z",
       "title": "Russian missile strike kills 41 people in Ukraine's Poltava, Zelenskiy says",
       "url": "https://www.reuters.com/world/europe/russian-missile-strike-kills-41-people-ukraines-poltava-zelenskiy-says-2024-09-03/",
       "urlToImage": "https://www.reuters.com/resizer/v2/JMCXNQYVPNISHAL5DZOL6544NU.jpg?auth=cd6aa2eadebd0f648e5eda94bc678ec5e9fbb9067ac05275b487a117b2e31103&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli forces killed 33 Palestinians across Gaza in the past 24 hours as they battled Hamas-led militants, Palestinian officials said on Tuesday, but brief pauses in fighting allowed medics to conduct a third day of polio vaccinations for children.",
+      "publishedAt": "2024-09-03T13:21:44Z",
+      "title": "Israeli attacks in Gaza kill 33 Palestinians but pauses allow third day of polio vaccinations",
+      "url": "https://www.reuters.com/world/middle-east/israeli-attacks-gaza-kill-33-palestinians-pauses-allow-third-day-polio-2024-09-03/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/V7GWZMMO2FLSZLV2RZJ2SORILU.jpg?auth=1f6ff61e0f400b008bfe84179da35ca147e740d1265d64a70d06ff5ac4d6de4a&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Olena Harmash, Tom Balmforth",
@@ -33,6 +33,14 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/5TQH7MHL35JCNMBX3XHC5JGES4.jpg?auth=d0124007f5df5aabc343ff0dc87a5ca0818abf09836f53d840901d8dcc9d2e6d&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Reuters",
+      "description": "The United States announced criminal charges on Tuesday against Hamas' top leaders over their roles in planning, supporting and perpetrating the deadly Oct. 7 attack in southern Israel.",
+      "publishedAt": "2024-09-03T21:58:24Z",
+      "title": "US charges Hamas leaders over Oct. 7 attack on Israel",
+      "url": "https://www.reuters.com/world/us-files-criminal-charges-against-hamas-leadership-including-sinwar-2024-09-03/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6CHLCUCKQ5JSRB4J44KWHIXTBE.jpg?auth=b938857c5514959821b7898aefe809bf373c4023ae58bdefe3688d47e871512b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Amina Ismail",
       "description": "At least 12 migrants died on Tuesday after their boat capsized on its way across the Channel to Britain, French Interior Minister Gerald Darmanin said, adding that rescue operations were underway to find two people still missing.",
       "publishedAt": "2024-09-03T15:22:07Z",
@@ -41,44 +49,36 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/YTHG5ZTHBFKGFKOSPWVXK4424I.jpg?auth=3a2ba42c211b9e8450ec548857f6b72a7664722eae6a7fd83d4d378a9c69f898&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Laila Bassam, Timour Azhari, Maya Gebeily",
-      "description": "Lebanon's former central bank governor, Riad Salameh, was arrested in Beirut on Tuesday over alleged financial crimes linked to a brokerage company, three judicial sources said, his first arrest after years of accusations at home and abroad.",
-      "publishedAt": "2024-09-03T15:31:05Z",
-      "title": "Lebanon ex-central bank chief Riad Salameh arrested over alleged financial crimes",
-      "url": "https://www.reuters.com/world/middle-east/lebanon-former-central-bank-governor-riad-salameh-arrested-judicial-source-says-2024-09-03/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/IP6P2FEENFOIVMJUD65FAKWKSY.jpg?auth=0d75ae5f3654f8e0ef0a5d1e45ce4bfc6dd2d25a70f6ecc81e6adcf5e69f9b28&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Former U.S. President Donald Trump said in a court filing on Tuesday that he would plead not guilty to criminal charges in a revised indictment accusing him of attempting to overturn his 2020 election defeat.",
+      "publishedAt": "2024-09-03T20:50:26Z",
+      "title": "Trump to plead not guilty to charges in revised US indictment",
+      "url": "https://www.reuters.com/legal/trump-plead-not-guilty-charges-revised-us-indictment-2024-09-03/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/REMPQZWMCFJSTOJOCLVIXWGZ7M.jpg?auth=5df75113878dd8a1823e15d71bf2172f62016133ee98b6c1447d6a8193363fb2&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Michelle Nichols",
+      "description": "Patience is running out among United Nations Security Council members and the 15-member body will likely consider taking action if a ceasefire cannot soon be brokered between Israel and Palestinian militants Hamas in the Gaza Strip, Slovenia's U.N. envoy - council president for September - said on Tuesday.",
+      "publishedAt": "2024-09-03T21:06:35Z",
+      "title": "UN Security Council patience for Gaza truce talks running out, says Slovenia",
+      "url": "https://www.reuters.com/world/un-security-council-patience-gaza-truce-talks-running-out-says-slovenia-2024-09-03/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KJQ763IE6JPOFMVJCJW7BJJWAE.jpg?auth=b0d0995c428a3c37f35a44fa4328b293e55acf17cee42a69d357f72fd8f2852a&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Russian President Vladimir Putin received a red carpet welcome on Tuesday on a state visit to Mongolia, whose failure to arrest him under a warrant from the International Criminal Court was criticised by Ukraine as a blow against justice.",
-      "publishedAt": "2024-09-03T09:46:18Z",
-      "title": "Putin gets lavish welcome in Mongolia despite ICC warrant",
-      "url": "https://www.reuters.com/world/putin-gets-lavish-welcome-mongolia-despite-icc-warrant-2024-09-03/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JYZUIFBMYVJQXKHMVDLZNUOURU.jpg?auth=e6185924e7f363b5a5dd2e63c675167349bc1ff63f5eb73b57d56b5969caf5a2&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Anna Mehler Paperny",
-      "description": "Canada is closing its doors to more visitors and temporary residents by approving fewer visas and turning away more people who reach its borders with official documents, according to government data obtained by Reuters.",
-      "publishedAt": "2024-09-03T10:15:08Z",
-      "title": "Border crackdown: Canada turning away more foreigners",
-      "url": "https://www.reuters.com/world/americas/canada-turning-away-more-foreigners-approving-fewer-visas-border-crackdown-2024-09-03/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KAJOU6ZYMBPPRCVYPDQG4DXRDM.jpg?auth=3514b95fee12e7ba0e030976e1b527ab6239f5ae58f5413ae042f8da97cea7e3&height=1005&width=1920&quality=80&smart=true"
+      "description": "U.S. House of Representatives Foreign Affairs Committee Chairman Michael McCaul subpoenaed Secretary of State Antony Blinken on Tuesday, saying he had refused to appear before the panel to testify on the U.S. withdrawal from Afghanistan in August 2021.",
+      "publishedAt": "2024-09-03T22:18:14Z",
+      "title": "US congressional committee subpoenas Blinken over Afghanistan",
+      "url": "https://www.reuters.com/world/us/us-congressional-committee-subpoenas-blinken-over-afghanistan-2024-09-03/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/7SFW3TCDG5PUZCYBSQTQQWWHZM.jpg?auth=df704ac6032581027eb1b3b68b62e281af9db2d650ff767c2a7f841a8605f004&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "The arrest warrant issued for Venezuelan opposition leader Edmundo Gonzalez is \"very concerning\" and \"the wrong thing to do,\" Brazil's top foreign policy advisor Celso Amorim said on Tuesday.",
-      "publishedAt": "2024-09-03T16:59:59Z",
-      "title": "Brazil's Amorim says arrest warrant for Venezuela's Gonzalez 'very concerning'",
-      "url": "https://www.reuters.com/world/americas/brazils-amorim-says-arrest-warrant-venezuelas-gonzalez-very-concerning-2024-09-03/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GMNFQXVAY5PIPMWON33226YWZI.jpg?auth=4017faee5cfeb432a1bde4f12517e7b6def938e8026de5150742120f733a0f81&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Two loggers in Peru's Amazon have been killed and two others are missing after a clash with the Mashco Piro, an indigenous community that has long isolated itself, a local advocacy organization said Tuesday.",
-      "publishedAt": "2024-09-03T17:15:37Z",
-      "title": "Clash between isolated indigenous group and loggers leaves two dead in Peru's Amazon",
-      "url": "https://www.reuters.com/world/americas/clash-between-isolated-indigenous-group-loggers-leaves-two-dead-perus-amazon-2024-09-03/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "description": "Mexico's lower house of Congress launched into a debate on a controversial judicial reform on Tuesday despite a rare, last-ditch work stoppage by Supreme Court judges in protest.",
+      "publishedAt": "2024-09-03T22:59:57Z",
+      "title": "Mexican Congress debates judicial reform as Supreme Court judges join work stoppage in protest",
+      "url": "https://www.reuters.com/world/americas/mexican-congress-debates-judicial-reform-supreme-court-judges-join-work-stoppage-2024-09-03/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KNLEHSCZJNJSDM6WOXM437NP24.jpg?auth=9e9630734f8aa4c723d080a583b0e4e9669991cb108f6900f83d3d22f3767e04&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",

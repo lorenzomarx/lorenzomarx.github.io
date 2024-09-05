@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Beth Mole",
+      "description": "The highly pathogenic strain has now spread to 197 herds in 14 states.",
+      "publishedAt": "2024-09-03T22:12:41+00:00",
+      "title": "Bird flu reaches cows in California, the country\u2019s largest milk producer",
+      "url": "https://arstechnica.com/science/2024/09/bird-flu-reaches-cows-in-california-the-countrys-largest-milk-producer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-2150341585-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "Two days into blackout, DirecTV will fight Disney \"as long as it needs to.\"",
+      "publishedAt": "2024-09-03T20:49:10+00:00",
+      "title": "TV viewers get screwed again as Disney channels are blacked out on DirecTV",
+      "url": "https://arstechnica.com/tech-policy/2024/09/tv-viewers-get-screwed-again-as-disney-channels-are-blacked-out-on-directv/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/espn-college-football-camera-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Skill of the hitters was still the biggest factor in how fast the ball came off the bat.",
+      "publishedAt": "2024-09-03T20:37:39+00:00",
+      "title": "Metal bats have pluses for young players, but in the end it comes down to skill",
+      "url": "https://arstechnica.com/security/2024/09/metal-bats-have-pluses-for-young-players-but-in-the-end-it-comes-down-to-skill/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/bats1-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "AI opponents say Gates, Altman, and others will guide Oprah through an AI \"sales pitch.\"",
+      "publishedAt": "2024-09-03T19:59:50+00:00",
+      "title": "Oprah\u2019s upcoming AI television special sparks outrage among tech critics",
+      "url": "https://arstechnica.com/information-technology/2024/09/oprahs-upcoming-ai-television-special-sparks-outrage-among-tech-critics/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/oprah_ai_header-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "How long can the C languages maintain their primacy in the kernel?",
+      "publishedAt": "2024-09-03T19:38:06+00:00",
+      "title": "Rust in Linux lead retires rather than deal with more \u201cnontechnical nonsense\u201d",
+      "url": "https://arstechnica.com/gadgets/2024/09/rust-in-linux-lead-retires-rather-than-deal-with-more-nontechnical-nonsense/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1443097169-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Another mixed year for CPU speed, but battery and graphics upgrades are welcome.",
+      "publishedAt": "2024-09-03T19:26:17+00:00",
+      "title": "Intel Core Ultra 200V promises Arm-beating battery life without compatibility issues",
+      "url": "https://arstechnica.com/gadgets/2024/09/intel-announces-first-batch-of-second-gen-lunar-lake-core-ultra-laptop-cpus/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/core-ultra-series2-v-hero-05-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "How does an unreactive, barely soluble metal end up forming giant chunks?",
+      "publishedAt": "2024-09-03T18:37:52+00:00",
+      "title": "Natural piezoelectric effect may build gold deposits",
+      "url": "https://arstechnica.com/science/2024/09/natural-piezoelectric-effect-may-build-gold-deposits/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-858519402-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Team-based shooter eight years in the making had just 25,000 estimated sales.",
+      "publishedAt": "2024-09-03T18:26:57+00:00",
+      "title": "Sony is shutting down Concord, refunding players after just two weeks",
+      "url": "https://arstechnica.com/gaming/2024/09/two-weeks-after-launch-sony-shooter-concord-goes-offline-and-offers-refunds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/concord-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Clearview AI insists Dutch fine is \"unlawful\" but missed its chance to appeal.",
+      "publishedAt": "2024-09-03T18:18:53+00:00",
+      "title": "Cops\u2019 favorite face image search engine fined $33M for privacy violation",
+      "url": "https://arstechnica.com/tech-policy/2024/09/clearview-ai-fined-33m-for-building-illegal-database-of-face-images/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2164220623-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Sophisticated attack breaks security assurances of the most popular FIDO key.",
       "publishedAt": "2024-09-03T17:58:06+00:00",
       "title": "YubiKeys are vulnerable to cloning attacks thanks to newly discovered side channel",
       "url": "https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/yubikeys-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "There's also an off-road focused variant called the Ioniq 5 XLT.",
-      "publishedAt": "2024-09-03T17:48:22+00:00",
-      "title": "Hyundai updates Ioniq 5 with bigger battery, Tesla-style port",
-      "url": "https://arstechnica.com/cars/2024/09/hyundai-ioniq-5s-will-be-made-in-usa-with-native-tesla-style-ports/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Large-63188-2025IONIQ5XRT-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "More than one Musk company involved in battle with powerful Brazilian judge.",
-      "publishedAt": "2024-09-03T17:11:26+00:00",
-      "title": "Starlink tells Brazil it won\u2019t block X until government unfreezes its assets",
-      "url": "https://arstechnica.com/tech-policy/2024/09/starlink-vows-to-defy-brazilian-order-that-isps-block-musks-x-platform/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/x-brazil-760x380.jpg"
-    },
-    {
-      "author": "Eleanor Olcott, Ryan McMorrow, and Tina Hu, FT",
-      "description": "Export controls bar import of Nvidia chips, but homegrown alternative is struggling.",
-      "publishedAt": "2024-09-03T13:34:56+00:00",
-      "title": "Bugs, performance issues hinder Huawei\u2019s AI chips",
-      "url": "https://www.ft.com/content/3dab07d3-3d97-4f3b-941b-cc8a21a901d6",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/huawei-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Some of the EX90's features won't be enabled until next year.",
-      "publishedAt": "2024-09-03T07:00:23+00:00",
-      "title": "The good and bad about the 2025 Volvo EX90, the company\u2019s new electric SUV",
-      "url": "https://arstechnica.com/cars/2024/09/ex90review/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/2025-Volvo-EX90-1-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "The large rocket will attempt to land on its debut flight.",
-      "publishedAt": "2024-09-02T12:45:11+00:00",
-      "title": "Blue Origin to roll out New Glenn second stage, enter final phase of launch prep",
-      "url": "https://arstechnica.com/space/2024/09/blue-origin-to-roll-out-new-glenn-second-stage-enter-final-phase-of-launch-prep/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GS2-on-mobile-test-stand-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "Yet again, the US misses out on some options, like the mild hybrid.",
-      "publishedAt": "2024-09-01T22:01:44+00:00",
-      "title": "Audi replaces its bestseller\u2014here\u2019s the next Q5 SUV",
-      "url": "https://arstechnica.com/cars/2024/09/audi-replaces-its-bestseller-heres-the-next-q5-suv/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/A244010_large-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "\"I don't know what's making it.\"",
-      "publishedAt": "2024-09-01T14:13:18+00:00",
-      "title": "The Starliner spacecraft has started to emit strange noises",
-      "url": "https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/53797942971_5ae4c07feb_4k-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"This journey... it's a death wish.\"",
-      "publishedAt": "2024-08-30T21:35:07+00:00",
-      "title": "Agatha All Along\u2019s latest teaser hints at one character\u2019s true identity",
-      "url": "https://arstechnica.com/culture/2024/08/agatha-all-alongs-latest-teaser-hints-at-one-characters-true-identity/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/agatha1-1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Mayor said data was unusable to criminals; researcher proved otherwise.",
-      "publishedAt": "2024-08-30T20:00:41+00:00",
-      "title": "City of Columbus sues man after he discloses severity of ransomware attack",
-      "url": "https://arstechnica.com/security/2024/08/city-of-columbus-sues-man-after-he-discloses-severity-of-ransomware-attack/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-597257986-760x380.jpg"
     }
   ],
   "sortBy": "top",
