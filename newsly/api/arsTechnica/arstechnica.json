@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Durov: Telegram will do more to fight criminals who \"abuse our platform.\"",
+      "publishedAt": "2024-09-06T17:44:31+00:00",
+      "title": "Telegram is not an \u201canarchic paradise,\u201d CEO Pavel Durov says after arrest",
+      "url": "https://arstechnica.com/tech-policy/2024/09/telegram-is-not-an-anarchic-paradise-ceo-pavel-durov-says-after-arrest/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/telegram-app-760x380.jpg"
+    },
+    {
+      "author": "Nate Anderson",
+      "description": "\"It was just so hot in that voting booth!\"",
+      "publishedAt": "2024-09-06T17:27:47+00:00",
+      "title": "Internet picks \u201cwerewolf clawing off its own shirt\u201d as new Michigan \u201cI Voted\u201d sticker",
+      "url": "https://arstechnica.com/culture/2024/09/internet-picks-werewolf-clawing-off-its-own-shirt-as-new-michigan-i-voted-sticker/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/werewolf-sticker.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Hyundai N's attention to detail is on vivid display with this performance EV.",
+      "publishedAt": "2024-09-06T15:57:26+00:00",
+      "title": "This EV will make you grin from ear to ear\u2014the 2025 Hyundai Ioniq 5 N",
+      "url": "https://arstechnica.com/cars/2024/09/the-2025-hyundai-ioniq-5-n-is-the-antidote-to-boring-electric-cars/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/2025-Hyundai-Ioniq-5-N-1-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Core drilling is tricky. Getting a 6 GHz signal through concrete is now easier.",
+      "publishedAt": "2024-09-06T15:32:45+00:00",
+      "title": "WaveCore runs right through a concrete wall with gigabit-speed network signal",
+      "url": "https://arstechnica.com/gadgets/2024/09/wavecore-blasts-gigabit-speed-signals-through-12-inch-thick-concrete/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1139019989-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "A budget offering with a torque sensor (good!) and a whole lot of issues (not good).",
+      "publishedAt": "2024-09-06T13:20:54+00:00",
+      "title": "A cargo bike with a low price and pedals so low they scrape the ground",
+      "url": "https://arstechnica.com/cars/2024/09/a-cargo-bike-with-a-low-price-and-pedals-so-low-they-scrape-the-ground/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/IMG_1441-760x380.jpeg"
+    },
+    {
       "author": "Eric Berger",
       "description": "\"Branson was determined to be the first billionaire in space.\"",
       "publishedAt": "2024-09-06T11:00:20+00:00",
@@ -39,46 +79,6 @@
       "title": "US charges Russian military officers for unleashing wiper malware on Ukraine",
       "url": "https://arstechnica.com/security/2024/09/us-charges-russian-military-officers-for-unleashing-wiper-malware-on-ukraine/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking-760x380.jpg"
-    },
-    {
-      "author": "John Timmer",
-      "description": "Eruptions seem to have continued long after widespread volcanism had ended.",
-      "publishedAt": "2024-09-05T20:35:40+00:00",
-      "title": "The Moon had volcanic activity much more recently than we knew",
-      "url": "https://arstechnica.com/science/2024/09/the-moon-had-volcanic-activity-much-more-recently-than-we-knew/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/image-1-760x380.jpeg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "Puzzle of child's misdiagnosed cheek lesion solved with one look at dad",
-      "publishedAt": "2024-09-05T19:47:39+00:00",
-      "title": "Parenting nightmare: Kiss on the cheek causes child\u2019s incurable infection",
-      "url": "https://arstechnica.com/science/2024/09/with-kiss-on-the-cheek-father-may-have-spread-incurable-virus-to-kid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-837482030-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Ars cited in lawsuit AT&T recently filed against Broadcom.",
-      "publishedAt": "2024-09-05T19:28:26+00:00",
-      "title": "AT&T sues Broadcom for refusing to renew perpetual license support",
-      "url": "https://arstechnica.com/information-technology/2024/09/att-sues-broadcom-for-refusing-to-renew-perpetual-license-support/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-969249136-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Verizon once sold part of its network to Frontier; now it's buying the company.",
-      "publishedAt": "2024-09-05T18:33:43+00:00",
-      "title": "Verizon to buy Frontier for $9.6 billion, says it will expand fiber network",
-      "url": "https://arstechnica.com/tech-policy/2024/09/frontiers-3-million-users-to-become-verizon-users-in-latest-telco-merger/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/getty-fios-truck-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Here's what we already know about the new flagship iPhones.",
-      "publishedAt": "2024-09-05T18:24:49+00:00",
-      "title": "What to expect from Apple\u2019s \u201cIt\u2019s Glowtime\u201d event",
-      "url": "https://arstechnica.com/gadgets/2024/09/what-to-expect-from-apples-september-9-iphone-event/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-05-124054-760x380.png"
     }
   ],
   "sortBy": "top",
