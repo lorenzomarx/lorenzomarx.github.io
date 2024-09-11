@@ -1,10 +1,66 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "New unit won't include a disc drive, but will improve frame rate in high-fidelity games.",
+      "publishedAt": "2024-09-10T15:20:24+00:00",
+      "title": "Sony announces PS5 Pro, a $700 graphical upgrade available Nov. 7",
+      "url": "https://arstechnica.com/gaming/2024/09/sony-announces-ps5-pro-a-700-graphics-workhorse-available-nov-7/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/ps5pro-760x380.png"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Even people with 1,000 hours in the game are still learning about it.",
+      "publishedAt": "2024-09-10T15:00:56+00:00",
+      "title": "Satisfactory is officially released, officially a scary wonderful time sink",
+      "url": "https://arstechnica.com/gaming/2024/09/satisfactory-hits-1-0-removing-your-last-excuse-to-avoid-falling-in-deep/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Satisfactory-1.0-Landscape-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Microsoft boosts error correction on Quantinuum machine, partners with Atom Computing.",
+      "publishedAt": "2024-09-10T14:46:36+00:00",
+      "title": "Microsoft performs operations with multiple error-corrected qubits",
+      "url": "https://arstechnica.com/science/2024/09/microsoft-performs-operations-with-multiple-error-corrected-qubits/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-2-760x380.jpeg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Making diamonds is cheaper than ever, creating a weird problem: too many diamonds.",
+      "publishedAt": "2024-09-10T14:08:10+00:00",
+      "title": "You can buy a diamond-making machine for $200,000 on Alibaba",
+      "url": "https://arstechnica.com/science/2024/09/you-can-buy-a-diamond-making-machine-for-200000-on-alibaba/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/diamonds_1-760x380.jpg"
+    },
+    {
+      "author": "Javier Espinoza, Jude Webber, and Emma Agyemang, FT",
+      "description": "EU's top court also upholds \u20ac2.4 billion antitrust fine against Google.",
+      "publishedAt": "2024-09-10T13:47:52+00:00",
+      "title": "Apple must pay \u20ac13 billion in back taxes after losing final appeal",
+      "url": "https://www.ft.com/content/d6b7d0fd-a41b-45a9-a830-9cacb10c5151",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/apple-eu-760x380.jpg"
+    },
+    {
+      "author": "Lee Hutchinson",
+      "description": "Come register to join us on September 18, learn some stuff, and hang out!",
+      "publishedAt": "2024-09-10T12:00:40+00:00",
+      "title": "Speakers announced for the Ars Technica infrastructure event in San Jose",
+      "url": "https://arstechnica.com/information-technology/2024/09/hang-out-with-ars-in-san-jose-and-dc-this-fall-for-two-infrastructure-events/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-689705348-760x380.jpg"
+    },
+    {
+      "author": null,
+      "description": "I visited two startups working to bring driverless technology to long-haul trucking.",
+      "publishedAt": "2024-09-10T11:00:46+00:00",
+      "title": "Driverless semis could be months away",
+      "url": "https://arstechnica.com/?p=2048055",
+      "urlToImage": null
+    },
+    {
       "author": "Eric Berger",
       "description": "Weather had confounded the launch attempt for nearly two weeks.",
       "publishedAt": "2024-09-10T09:53:10+00:00",
-      "title": "Bold private spaceflight begins early Tuesday, with a break in the weather",
+      "title": "Polaris Dawn takes to the skies, setting the stage for a daring private spacewalk",
       "url": "https://arstechnica.com/space/2024/09/bold-private-spaceflight-begins-early-tuesday-with-a-break-in-the-weather/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/spacex1-760x380.jpg"
     },
@@ -23,62 +79,6 @@
       "title": "Roblox announces AI tool for generating 3D game worlds from text",
       "url": "https://arstechnica.com/information-technology/2024/09/open-source-roblox-tool-will-allow-3d-world-creation-from-text-prompts/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/roblox_genai_1-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Ad tech monopoly trial may hurt Google more than DOJ\u2019s search case, experts say.",
-      "publishedAt": "2024-09-09T21:08:22+00:00",
-      "title": "DOJ claims Google has \u201ctrifecta of monopolies\u201d on Day 1 of ad tech trial",
-      "url": "https://arstechnica.com/tech-policy/2024/09/doj-claims-google-has-trifecta-of-monopolies-on-day-1-of-ad-tech-trial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2170357445-760x380.jpg"
-    },
-    {
-      "author": "Lisa Song, ProPublica",
-      "description": "51 companies were asked if they agreed with the proposed redefinition of \u201crecyclable\u201d plastic.",
-      "publishedAt": "2024-09-09T19:51:00+00:00",
-      "title": "These household brands want to redefine what counts as \u201crecyclable\u201d",
-      "url": "https://www.propublica.org/article/recycling-recyclable-plastics-consumer-brands-association",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/plastic-recycle-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "It's unknown if demonstrating responsible handling actually keeps kids safe.",
-      "publishedAt": "2024-09-09T19:37:25+00:00",
-      "title": "Unlocked, loaded guns more common among parents who give kids firearm lessons",
-      "url": "https://arstechnica.com/science/2024/09/parents-are-more-likely-to-keep-unlocked-loaded-guns-if-kids-get-gun-lessons/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1251934120-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple Intelligence won\u2019t be part of the initial launch.",
-      "publishedAt": "2024-09-09T18:50:59+00:00",
-      "title": "Apple will release iOS 18, macOS 15, iPadOS 18, other updates on September 16",
-      "url": "https://arstechnica.com/gadgets/2024/09/apple-will-release-ios-18-macos-15-ipados-18-other-updates-on-september-16th/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/new-2024-apple-update-760x380.jpeg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Both new iPhones get new chips at the same time for the first time in years.",
-      "publishedAt": "2024-09-09T18:36:32+00:00",
-      "title": "Apple updates both of its new iPhones with A18 and A18 Pro chips",
-      "url": "https://arstechnica.com/gadgets/2024/09/apples-a18-chip-designed-for-apple-intelligence-from-the-ground-up/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/a18-hero-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "A 48-megapixel ultra-wide camera and the A18 Pro chip headline Apple's flagship.",
-      "publishedAt": "2024-09-09T18:24:28+00:00",
-      "title": "Apple\u2019s iPhone 16 Pro boasts a bigger screen and better camera zoom",
-      "url": "https://arstechnica.com/gadgets/2024/09/apples-iphone-16-pro-boasts-bigger-screens-and-a-better-camera-zoom/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-13.15.34-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "The 16 is positioned as the first non-Pro iPhone optimized for generative AI.",
-      "publishedAt": "2024-09-09T17:51:44+00:00",
-      "title": "iPhone 16 gets two new buttons and a new camera layout",
-      "url": "https://arstechnica.com/gadgets/2024/09/iphone-16-gets-two-new-buttons-and-a-new-camera-look/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-12.44.44-760x380.jpg"
     }
   ],
   "sortBy": "top",
