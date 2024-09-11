@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "Typhoon Yagi and the landslides and floods it triggered have killed at least 58 people and 40 others are missing in northern Vietnam, the disaster management agency said on Tuesday.",
+      "publishedAt": "2024-09-10T02:05:07Z",
+      "title": "Death toll in Vietnam from Typhoon Yagi rises to 58",
+      "url": "https://www.reuters.com/world/asia-pacific/death-toll-vietnam-typhoon-yagi-rises-58-2024-09-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/3AOSZI3R2RLG5PEV2XM6DPDPVA.jpg?auth=759c1dbe5d316dd1527489fdf523ae7271d67676a40fad5def309513daec1070&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Daniel Fastenberg, Kevin Fogarty, Jarrett Renshaw",
       "description": "It is the birthplace of U.S. independence, the \"City of Brotherly Love,\" and the hometown of beloved fictional boxer \"Rocky\" Balboa.",
       "publishedAt": "2024-09-09T19:31:15Z",
@@ -10,11 +18,51 @@
     },
     {
       "author": "Reuters",
-      "description": "German Interior Minister Nancy Faeser will on Monday announce temporary border controls at all of Germany's land borders, a government source told Reuters.",
-      "publishedAt": "2024-09-09T13:34:06Z",
-      "title": "Germany to put temporary controls on all land borders, source says",
-      "url": "https://www.reuters.com/world/europe/germany-put-temporary-controls-all-land-borders-source-says-2024-09-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QIDHFSWTGZL27A3VZSC3QG2E7M.jpg?auth=93c150a3fb1b7e5150bc0eb24ac12261e1d975550191d027b65aa28749396563&height=1005&width=1920&quality=80&smart=true"
+      "description": "Russian officials said on Tuesday they shot down at least 15 drones around Moscow overnight in a wave of attacks that set residential buildings on fire, killed a woman and forced more than 30 flights in the capital to be suspended.",
+      "publishedAt": "2024-09-09T23:49:54Z",
+      "title": "Ukraine's drones target Moscow, more than 30 airline flights suspended, Russia says",
+      "url": "https://www.reuters.com/world/europe/russia-destroys-ukraine-launched-drone-flying-towards-moscow-mayor-says-2024-09-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli airstrikes on a tent camp for displaced Palestinians killed and wounded 65 people in southern Gaza, the enclave's civil emergency service said early on Tuesday, as the Israeli military said it had targeted a Hamas command centre.",
+      "publishedAt": "2024-09-09T22:35:26Z",
+      "title": "Dozens killed, wounded in Israeli strikes on Gaza tent camp, Gaza agency says",
+      "url": "https://www.reuters.com/world/middle-east/several-palestinians-killed-wounded-israeli-strike-tent-encampment-gaza-medics-2024-09-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The United States and China held theatre-level commander talks for the first time on Tuesday, Chinese authorities said, as the two nations look to stabilise military ties and prevent military misunderstandings.",
+      "publishedAt": "2024-09-10T03:26:32Z",
+      "title": "Top US, Chinese military officials hold first video call",
+      "url": "https://www.reuters.com/world/top-us-chinese-military-officials-hold-first-video-call-2024-09-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/IVMYTUVQMFMTBH36D3PKRPED2M.jpg?auth=b7d4ef4249db8f79699be9428790c1ee524bfd7bb045932be8de9ca1d0faadea&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The U.S. is set to launch economic talks this week with Bangladesh's interim government, including its leader Nobel Peace Prize laureate Muhammad Yunus, the Financial Times reported on Tuesday.",
+      "publishedAt": "2024-09-10T04:33:21Z",
+      "title": "US plans economic talks with Bangladesh's interim leader Muhammad Yunus, FT reports",
+      "url": "https://www.reuters.com/world/us-plans-economic-talks-with-bangladeshs-interim-leader-muhammad-yunus-ft-2024-09-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/OUMY2I2UDZJ3BEK72ETB4J72UQ.jpg?auth=82628c5302945063590d619be2ba93d2e487b49549e3b46c01331d93ca3a238e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Australia said on Tuesday it planned to introduce legislation this year to ban children from using social media platforms, citing the risks it could pose to physical and mental health.",
+      "publishedAt": "2024-09-09T23:43:40Z",
+      "title": "Australia plans social media ban for children",
+      "url": "https://www.reuters.com/technology/australia-plans-social-media-ban-children-2024-09-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/TK7SXJD3EBK4PB74T6U524HNRQ.jpg?auth=aca3000b6976ba2e089f4b6e379bca1cfb8864540aba982862d9ed2f3512d618&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Subrata Nag Choudhury",
+      "description": "Junior doctors in India's state of West Bengal vowed on Tuesday to keep up a protest strike over the rape and murder of a trainee doctor unless their demands were met, flouting a Supreme Court deadline.",
+      "publishedAt": "2024-09-10T04:07:35Z",
+      "title": "Striking Indian doctors want demands met before returning to work",
+      "url": "https://www.reuters.com/world/india/striking-indian-doctors-want-demands-met-before-returning-work-2024-09-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/PPDGANP2FBNL3DNO3ZYYEPORGE.jpg?auth=683a25ffcd12f8ede2b0589369af2959f35bac9b65696a2252f56e24d724879d&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -26,59 +74,11 @@
     },
     {
       "author": "Reuters",
-      "description": "Ukraine's foreign ministry said on Monday it had summoned a senior Iranian diplomat to warn of \"devastating and irreparable consequences\" for bilateral relations if reports that Tehran had supplied Russia with ballistic missiles were correct.",
-      "publishedAt": "2024-09-09T10:26:27Z",
-      "title": "Ukraine summons Iranian diplomat as Tehran denies missile transfer to Russia",
-      "url": "https://www.reuters.com/world/middle-east/iran-denies-reports-missile-transfer-russia-2024-09-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/6D5ZNH2E45J3NI7KEAJRL3ELTE.jpg?auth=de830184110e4a8963b0c0db31efecad718a1abdf4777335404edb846d2e234d&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "At least 14 people were killed late on Sunday in multiple Israeli strikes targeting the vicinity of Masyaf, a city in Syria's Hama province, Syria's state news agency reported on Monday.",
-      "publishedAt": "2024-09-08T21:07:54Z",
-      "title": "Israeli strikes on Syria kill at least 14 people, Syrian state media say",
-      "url": "https://www.reuters.com/world/middle-east/syrian-air-defences-confront-aggression-central-region-2024-09-08/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Nidal Al-Mughrabi",
-      "description": "The new school year in the Palestinian territories officially began on Monday, with all schools in Gaza shut after 11 months of war and no sign of a ceasefire.",
-      "publishedAt": "2024-09-09T10:51:29Z",
-      "title": "Fear of 'lost generation' as Gaza school year begins with all classes shut",
-      "url": "https://www.reuters.com/world/middle-east/fear-lost-generation-gaza-school-year-begins-with-all-classes-shut-2024-09-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ZP2CNJ4TEVPTDFSBTCSMVLHFKU.jpg?auth=d26877bc96974cff9ab06858304416619faebc20a23b5366e4ea21015e1378a8&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "North Korean leader Kim Jong Un said the country is now implementing a nuclear force construction policy to increase the number of nuclear weapons \"exponentially,\" state media KCNA said on Tuesday.",
-      "publishedAt": "2024-09-09T21:29:08Z",
-      "title": "North Korea's Kim Jong Un says country to increase number of nuclear weapons, KCNA says",
-      "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-says-country-increase-number-nuclear-weapons-kcna-says-2024-09-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/J6WRXGWW2FIPLLS3GPMECBRQ2M.jpg?auth=c27a439001ab1b1f7563ecdd16814b57a93e6c13009d20281821a9d7d7353fa9&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Typhoon Yagi and the landslides and floods it triggered have killed at least 24 people and injured another 299 in northern Vietnam on the weekend, the government said, as authorities on Monday warned of more flooding.",
-      "publishedAt": "2024-09-09T02:17:52Z",
-      "title": "Vietnam's death toll from Typhoon Yagi rises to 24, govt says",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnams-death-toll-typhoon-yagi-rises-24-govt-says-2024-09-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/EVE2C3NCYNJUDJSWH6DEDRXIZM.jpg?auth=4125dad0b0b7edb89ce93aea7bb320181b624e1376e8c90a970f8a3e23b83388&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Bill Trott, Lisa Richwine",
-      "description": "American actor James Earl Jones, an imposing stage and screen presence who overcame a childhood stutter to develop a stentorian voice recognized the world over as intergalactic villain Darth Vader, died on Monday at the age of 93.",
-      "publishedAt": "2024-09-09T21:12:03Z",
-      "title": "James Earl Jones, renowned actor and voice of Darth Vader, dies at 93",
-      "url": "https://www.reuters.com/world/us/james-earl-jones-voice-darth-vader-dies-93-2024-09-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/7TYIJUXQXNPGVNJJ56VHHCR34E.jpg?auth=c569c0d4f84b32d463fd27d50db7d0e8058b3b12fb9809fdafabf6b82c214f5b&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Kate, Britain's Princess of Wales, said on Monday she had finished her course of preventative chemotherapy for cancer and would be carrying out a handful of public engagements later this year, but said her path to full recovery would be long.",
-      "publishedAt": "2024-09-09T15:32:44Z",
-      "title": "Kate, Britain's Princess of Wales, says she has finished chemotherapy course",
-      "url": "https://www.reuters.com/world/uk/kate-britains-princess-wales-says-she-has-finished-chemotherapy-course-2024-09-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/2HZ4F2XTSJJILH4C5SCWTEVYDQ.jpg?auth=8885b9e4ec6ba80f8e8347cdf254aa7246b21a8d5cf11f03e1c6a137791017ac&height=1005&width=1920&quality=80&smart=true"
+      "description": "German Interior Minister Nancy Faeser will on Monday announce temporary border controls at all of Germany's land borders, a government source told Reuters.",
+      "publishedAt": "2024-09-09T13:34:06Z",
+      "title": "Germany to put temporary controls on all land borders, source says",
+      "url": "https://www.reuters.com/world/europe/germany-put-temporary-controls-all-land-borders-source-says-2024-09-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/QIDHFSWTGZL27A3VZSC3QG2E7M.jpg?auth=93c150a3fb1b7e5150bc0eb24ac12261e1d975550191d027b65aa28749396563&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
