@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Stephen Clark",
+      "description": "SpaceX blames the regulatory delay on \"issues ranging from the frivolous to the patently absurd.\"",
+      "publishedAt": "2024-09-10T23:18:11+00:00",
+      "title": "SpaceX says regulators will keep Starship grounded until at least November",
+      "url": "https://arstechnica.com/space/2024/09/spacex-says-regulators-will-keep-starship-grounded-until-at-least-november/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/catch_art-760x380.jpg"
+    },
+    {
       "author": "Ashley Belanger",
       "description": "Nevada\u2019s plan to let AI rule on unemployment claims is risky, experts warn.",
       "publishedAt": "2024-09-10T21:48:26+00:00",
@@ -57,12 +65,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/ps5pro-760x380.png"
     },
     {
-      "author": "Kevin Purdy",
+      "author": null,
       "description": "Even people with 1,000 hours in the game are still learning about it.",
       "publishedAt": "2024-09-10T15:00:56+00:00",
       "title": "Satisfactory is officially released, officially a scary wonderful time sink",
-      "url": "https://arstechnica.com/gaming/2024/09/satisfactory-hits-1-0-removing-your-last-excuse-to-avoid-falling-in-deep/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Satisfactory-1.0-Landscape-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2048711",
+      "urlToImage": null
     },
     {
       "author": "John Timmer",
@@ -71,14 +79,6 @@
       "title": "Microsoft performs operations with multiple error-corrected qubits",
       "url": "https://arstechnica.com/science/2024/09/microsoft-performs-operations-with-multiple-error-corrected-qubits/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/image-2-760x380.jpeg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Making diamonds is cheaper than ever, creating a weird problem: too many diamonds.",
-      "publishedAt": "2024-09-10T14:08:10+00:00",
-      "title": "You can buy a diamond-making machine for $200,000 on Alibaba",
-      "url": "https://arstechnica.com/science/2024/09/you-can-buy-a-diamond-making-machine-for-200000-on-alibaba/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/diamonds_1-760x380.jpg"
     }
   ],
   "sortBy": "top",
