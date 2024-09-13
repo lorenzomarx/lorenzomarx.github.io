@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Kevin Purdy",
+      "description": "\"Select Play Partners\" can block unofficial installation of their apps.",
+      "publishedAt": "2024-09-11T21:31:37+00:00",
+      "title": "Android apps are blocking sideloading and forcing Google Play versions instead",
+      "url": "https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/get_this_app_play-753x380.png"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Taylor Swift on AI: \"The simplest way to combat misinformation is with the truth.\"",
+      "publishedAt": "2024-09-11T19:56:30+00:00",
+      "title": "Taylor Swift cites AI deepfakes in endorsement for Kamala Harris",
+      "url": "https://arstechnica.com/ai/2024/09/taylor-swift-cites-ai-deepfakes-in-endorsement-for-kamala-harris/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/taylor_screenshot_2-760x380.jpg"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Sterilizations spike with abortion bans and declining access to care and contraception.",
+      "publishedAt": "2024-09-11T19:10:59+00:00",
+      "title": "In abortion ban states, sterilization spiked after Dobbs and kept climbing",
+      "url": "https://arstechnica.com/science/2024/09/in-abortion-ban-states-sterilization-spiked-after-dobbs-and-kept-climbing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1243262189-760x380.jpg"
+    },
+    {
+      "author": "Timothy B. Lee",
+      "description": "We took a close look at the 23 most serious Waymo crashes.",
+      "publishedAt": "2024-09-11T19:05:10+00:00",
+      "title": "Human drivers keep rear-ending Waymos",
+      "url": "https://arstechnica.com/cars/2024/09/human-drivers-are-to-blame-for-most-serious-waymo-collisions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2149191992-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Sony relegates physical game discs to a peripheral afterthought.",
+      "publishedAt": "2024-09-11T18:36:26+00:00",
+      "title": "The PS5 Pro brings the game console\u2019s disc drive era to an end",
+      "url": "https://arstechnica.com/gaming/2024/09/the-ps5-pro-brings-the-game-consoles-disc-drive-era-to-an-end/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/ps5prohw-760x380.png"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Native American DNA in the genomes dates to roughly when Rapa Nui was settled.",
+      "publishedAt": "2024-09-11T18:20:50+00:00",
+      "title": "Old Easter Island genomes show no sign of a population collapse",
+      "url": "https://arstechnica.com/science/2024/09/old-easter-island-genomes-show-no-sign-of-a-population-collapse/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2068621148-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Google Ad Manager is key to ad tech monopoly, DOJ aims to prove.",
+      "publishedAt": "2024-09-11T18:20:19+00:00",
+      "title": "Google\u2019s ad tech empire may be $95B and \u201ctoo big\u201d to sell, analysts warn DOJ",
+      "url": "https://arstechnica.com/tech-policy/2024/09/google-holds-publishers-hostage-ex-news-corp-exec-testifies-at-ad-tech-trial/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2170357434-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "Get the manual while you can.",
+      "publishedAt": "2024-09-11T17:09:13+00:00",
+      "title": "The 2024 VW Golf GTI is the last of its kind with a manual transmission",
+      "url": "https://arstechnica.com/cars/2024/09/the-2024-vw-golf-gti-is-the-last-of-its-kind-with-a-manual-transmission/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/2024-VW-Golf-GTI-1-760x380.jpg"
+    },
+    {
       "author": "Eric Berger",
       "description": "\"The final chapter on Starliner has not been written yet.\"",
       "publishedAt": "2024-09-11T15:01:10+00:00",
@@ -15,70 +79,6 @@
       "title": "Proposed underwater data center surprises regulators who hadn\u2019t heard about it",
       "url": "https://www.wired.com/story/networkocean-datacenter-san-francisco-bay-environment/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/data-center-640x215.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": ".mobi top-level-domain managers changed the location of its WHOIS server. No one got the memo.",
-      "publishedAt": "2024-09-11T10:00:40+00:00",
-      "title": "Rogue WHOIS server gives researcher superpowers no one should ever have",
-      "url": "https://arstechnica.com/security/2024/09/rogue-whois-server-gives-researcher-superpowers-no-one-should-ever-have/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/whois-tower-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "SpaceX blames the regulatory delay on \"issues ranging from the frivolous to the patently absurd.\"",
-      "publishedAt": "2024-09-10T23:18:11+00:00",
-      "title": "SpaceX says regulators will keep Starship grounded until at least November",
-      "url": "https://arstechnica.com/space/2024/09/spacex-says-regulators-will-keep-starship-grounded-until-at-least-november/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/catch_art-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Nevada\u2019s plan to let AI rule on unemployment claims is risky, experts warn.",
-      "publishedAt": "2024-09-10T21:48:26+00:00",
-      "title": "AI ruling on jobless claims could make mistakes courts can\u2019t undo, experts warn",
-      "url": "https://arstechnica.com/tech-policy/2024/09/ai-ruling-on-jobless-claims-could-make-mistakes-courts-cant-undo-experts-warn/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1390191632-760x380.jpg"
-    },
-    {
-      "author": "Nate Anderson",
-      "description": "White accelerationist terror meets social media.",
-      "publishedAt": "2024-09-10T21:31:35+00:00",
-      "title": "\u201cHAIL HOLY TERROR\u201d: Two US citizens charged for running online \u201cTerrorgram Collective\u201d",
-      "url": "https://arstechnica.com/culture/2024/09/hail-holy-terror-two-us-citizens-charged-for-running-online-terrorgram-collective/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/saint-encylopedia-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "After just 75 seconds of chewing, large drops of sweat ran down the woman's face.",
-      "publishedAt": "2024-09-10T21:13:28+00:00",
-      "title": "Woman drips with sweat from a bite of food due to rare nerve-wiring mix-up",
-      "url": "https://arstechnica.com/science/2024/09/woman-drips-with-sweat-from-a-bite-of-food-due-to-rare-nerve-wiring-mix-up/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-82180277-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "\"It\u2019s a piece of work that everyone has thought of but never managed to create.\"",
-      "publishedAt": "2024-09-10T20:48:54+00:00",
-      "title": "Huawei\u2019s $2,800 trifold phone is a real thing it wants people to hold and use",
-      "url": "https://arstechnica.com/gadgets/2024/09/forget-everything-huawei-is-doing-two-folds-on-the-mate-xt-ultimate/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-10-at-3.02.53\u202fPM-760x380.jpeg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "It took escaping eels 56 seconds on average to free themselves from death.",
-      "publishedAt": "2024-09-10T18:37:43+00:00",
-      "title": "X-ray footage shows how Japanese eels escape from a predator\u2019s stomach",
-      "url": "https://arstechnica.com/science/2024/09/watch-japanese-eels-escape-through-a-predatory-fishs-gills/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/eels1-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "New design has sleeker profile, uses more RAM and better CPU than the original.",
-      "publishedAt": "2024-09-10T18:08:44+00:00",
-      "title": "\u201cMNT Reform Next\u201d combines open source hardware and usable performance",
-      "url": "https://arstechnica.com/gadgets/2024/09/all-open-source-mnt-reform-laptop-is-getting-a-sequel-with-a-refined-design/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/mnt-next-prototype-4-760x380.jpg"
     }
   ],
   "sortBy": "top",
