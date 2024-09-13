@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Two algorithms added so far, two more planned in the coming months.",
+      "publishedAt": "2024-09-12T00:20:08+00:00",
+      "title": "As quantum computing threats loom, Microsoft updates its core crypto library",
+      "url": "https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/encryption-key-recovery-attack-760x380.jpg"
+    },
+    {
       "author": "Kevin Purdy",
       "description": "\"Select Play Partners\" can block unofficial installation of their apps.",
       "publishedAt": "2024-09-11T21:31:37+00:00",
@@ -71,14 +79,6 @@
       "title": "The future of Boeing\u2019s crewed spaceflight program is muddy after Starliner\u2019s return",
       "url": "https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/53986153279_21b185c887_k-760x380.jpg"
-    },
-    {
-      "author": "Paresh Dave and Reece Rogers, wired.com",
-      "description": "Startup NetworkOcean wants to sink GPUs into San Francisco Bay.",
-      "publishedAt": "2024-09-11T13:54:51+00:00",
-      "title": "Proposed underwater data center surprises regulators who hadn\u2019t heard about it",
-      "url": "https://www.wired.com/story/networkocean-datacenter-san-francisco-bay-environment/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/data-center-640x215.jpg"
     }
   ],
   "sortBy": "top",
