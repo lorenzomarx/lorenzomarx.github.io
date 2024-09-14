@@ -1,20 +1,76 @@
 {
   "articles": [
     {
-      "author": "CHRIS MEGERIAN, JONATHAN J. COOPER and GARY D. ROBERTSON",
-      "description": "WASHINGTON (AP) \u2014 Vice President Kamala Harris and former President Donald Trump are making a beeline for swing states that they hope to flip in their favor this year, both of them trying to expand their narrow paths to victory in a closely fought presidential campaign.",
+      "author": "SUSAN MONTOYA BRYAN",
+      "description": "ALBUQUERQUE, N.M. (AP) \u2014 A bag of Cheetos gets dropped and left on the floor. Seems inconsequential, right?Hardly.Rangers at Carlsbad Caverns National Park in southern New Mexico describe it as a \u201cworld-changing\u201d event for the tiny microbes and insects that call this specialized subterranean environment home.",
+      "publishedAt": "2024-09-12T12:03:17Z",
+      "title": "A bag of Cheetos created a huge impact on a national park ecosystem",
+      "url": "https://apnews.com/04f30c48dfa7fa3deee29702e083aa56",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/07b9ae567f2849bba06eda15bce788c4/1466.jpeg"
+    },
+    {
+      "author": "BILL BARROW, CHRIS MEGERIAN, JONATHAN J. COOPER and GARY D. ROBERTSON",
+      "description": "CHARLOTTE (AP) \u2014 Kicking off a day of battleground campaigning by Kamala Harris and Donald Trump, the Democratic vice president is highlighting her support from Republicans who have endorsed her and emphasizing her defense of abortion rights and heath care access.",
       "publishedAt": "2024-09-12T04:09:29Z",
-      "title": "Harris and Trump are jockeying for battleground states after their debate",
+      "title": "Harris tries to pull away swing-state voters from Trump by highlighting Republican endorsements",
       "url": "https://apnews.com/34bca16175c387a076131ad69bc18d47",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/621836f883fc4320adc83ad9a21e9e62/3000.jpeg"
     },
     {
-      "author": "JAKE OFFENHARTZ",
-      "description": "NEW YORK (AP) \u2014 New York City Police Commissioner Edward Caban resigned Thursday, one week after it emerged that his phone was seized as part of a federal investigation that touched several members of Mayor Eric Adams\u2019 inner circle.",
-      "publishedAt": "2024-09-12T16:01:56Z",
-      "title": "New York City police commissioner resigns after his phone was seized in federal investigation",
-      "url": "https://apnews.com/670388e653bc2d9bd19b7e7e9638e80d",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2d578afe788e4ce4a838dabd3ba7b226/3000.jpeg"
+      "author": "ERIC TUCKER",
+      "description": "WASHINGTON (AP) \u2014 The Justice Department is preparing criminal charges in connection with an Iranian hack that targeted Donald Trump's presidential campaign in a bid to shape the outcome of the November election, two people familiar with the matter said Thursday.",
+      "publishedAt": "2024-09-12T22:05:25Z",
+      "title": "The US is preparing criminal charges in Iran hack targeting Trump, AP sources say",
+      "url": "https://apnews.com/9e4870739885399ccad9dae900ae43d1",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/aa765acfad8641d38eb75641becd5be9/3000.jpeg"
+    },
+    {
+      "author": "KATE BRUMBACK",
+      "description": "ATLANTA (AP) \u2014 The judge overseeing the Georgia election interference case against Donald Trump and others on Thursday tossed out three counts in the indictment \u2014 including two counts brought against the former president \u2014 saying that they lie beyond the state\u2019s jurisdiction.",
+      "publishedAt": "2024-09-12T20:48:33Z",
+      "title": "Judge tosses some counts in Georgia election case against Trump and others",
+      "url": "https://apnews.com/32c6cbcb02de94a166567b15365d82ec",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/60ef4b1d63e242dcae917a14d879c16d/3000.jpeg"
+    },
+    {
+      "author": "MATTHEW LEE",
+      "description": "WARSAW (AP) \u2014 U.S. Secretary of State Antony Blinken wrapped up a three-nation, Ukraine-focused European tour in Poland on Thursday after hearing repeated appeals from Ukrainian officials to use Western-supplied weaponry for long-range strikes inside Russia.",
+      "publishedAt": "2024-09-12T08:50:37Z",
+      "title": "Blinken wraps up Ukraine-focused Europe trip in Poland with arms requests on the table",
+      "url": "https://apnews.com/54232b14cae7785df02f9d48a77e7823",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9a40c0ad222f45798b614bce108b017a/3000.jpeg"
+    },
+    {
+      "author": "PATRICK AFTOORA ORSAGOS, MIKE CATALINI and JULIE CARR SMYTH",
+      "description": "SPRINGFIELD, Ohio (AP) \u2014 The father of an Ohio boy killed last year when a Haitian immigrant driver hit a school bus is imploring Donald Trump and other politicians to stop invoking his son's name in the debate about immigration.",
+      "publishedAt": "2024-09-12T17:42:01Z",
+      "title": "Father of Ohio boy asks Trump not to invoke his son's death in immigration debate",
+      "url": "https://apnews.com/d119b387175434c08597784ba82860ed",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/808db39cf78e49c0bfdbee403eb1fa16/1920.jpeg"
+    },
+    {
+      "author": "DIDI TANG and ELSIE CHEN",
+      "description": "WASHINGTON (AP) \u2014 The U.S. House this week approved a sweeping package of bills to counter China's influence, shoring up a largely bipartisan push to ensure America comes out ahead in the competition between the world's superpowers.",
+      "publishedAt": "2024-09-12T20:02:37Z",
+      "title": "US House clears a largely bipartisan package of bills to counter China",
+      "url": "https://apnews.com/b5a56798058c7bd823280eecebf59c65",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c90a1f41598b4f0cbfb14d47fae553db/3000.jpeg"
+    },
+    {
+      "author": "VALERIE GONZALEZ and JAMIE STENGLE",
+      "description": "U.S. Border Patrol agents who rushed to the school shooting in Uvalde, Texas in 2022 failed to establish command and had inadequate training to confront what became one of the nation\u2019s deadliest classroom attacks, according to a federal report released Thursday.",
+      "publishedAt": "2024-09-12T20:21:42Z",
+      "title": "Border Patrol response to Uvalde school shooting marred by breakdowns and poor training, report says",
+      "url": "https://apnews.com/090d36868527e0dc3626cfe2ab87831a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/10827e54a7014760a3a11d266b868c23/3000.jpeg"
+    },
+    {
+      "author": null,
+      "description": "NEW YORK (AP) \u2014 New York City lawmakers approved legislation Thursday to study the city's significant role in slavery and consider reparations to descendants of enslaved people.If signed into law, the package of bills passed by the City Council would follow in the footsteps of several other municipalities across the U.S.",
+      "publishedAt": "2024-09-12T21:35:00Z",
+      "title": "New York City lawmakers approve bill to study slavery and reparations",
+      "url": "https://apnews.com/5a9a707552b782c25df1ab2375bc6be8",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/09b177b8975b47daa75df731b58e623f/3000.jpeg"
     },
     {
       "author": "ADAM GELLER and JALAL BWAITEL",
@@ -23,62 +79,6 @@
       "title": "As war rages in Gaza, Israel\u2019s crackdown on West Bank insurgency is killing Palestinian youths",
       "url": "https://apnews.com/852c8a636713ed0d99956f0ec7504ecc",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/3485734a0eaa45cd91e8934c209aba9e/3000.jpeg"
-    },
-    {
-      "author": "MARCIA DUNN",
-      "description": "CAPE CANAVERAL, Fla. (AP) \u2014 A tech billionaire popped out from a SpaceX capsule hundreds of miles above Earth and performed the first private spacewalk Thursday, a high-risk endeavor once reserved for professional astronauts.",
-      "publishedAt": "2024-09-12T06:00:40Z",
-      "title": "Tech billionaire pulls off first private spacewalk high above Earth",
-      "url": "https://apnews.com/87d4c78853f0249baf29631bedfac749",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6865b6d1ec0b49fba914bc549aa0c28e/1920.jpeg"
-    },
-    {
-      "author": "DAVID SHARP and RON HARRIS",
-      "description": "ATHENS, Ga. (AP) \u2014 The Postal Service\u2019s new delivery vehicles aren\u2019t going to win a beauty contest. They're tall and ungainly. The windshields are vast. Their hoods resemble a duck bill. Their bumpers are enormous.",
-      "publishedAt": "2024-09-12T04:10:47Z",
-      "title": "USPS' long-awaited new mail truck makes its debut to rave reviews from carriers",
-      "url": "https://apnews.com/a2ebbfc7afec0eea2e036eef93bee4d9",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/55ed4f6aa5ed4a03989d1b3afb6fd86c/3000.jpeg"
-    },
-    {
-      "author": "ALI SWENSON and LINLEY SANDERS",
-      "description": "WASHINGTON (AP) \u2014 Jim Duggan uses ChatGPT almost daily to draft marketing emails for his carbon removal credit business in Huntsville, Alabama. But he\u2019d never trust an artificial intelligence chatbot with any questions about the upcoming presidential election.",
-      "publishedAt": "2024-09-12T04:04:49Z",
-      "title": "Most Americans don't trust AI-powered election information: AP-NORC/USAFacts survey",
-      "url": "https://apnews.com/7131822c0f2ebe843b4c7e3cb111a3d3",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9d7d3cebf34a4588b9962a64c6ac90ef/3000.jpeg"
-    },
-    {
-      "author": "MICHAEL R. SISAK",
-      "description": "NEW YORK (AP) \u2014 Disgraced ex-movie mogul Harvey Weinstein has been indicted on additional sex crimes charges in New York ahead of a retrial in his landmark #MeToo case, Manhattan prosecutors said at a court hearing Thursday.",
-      "publishedAt": "2024-09-12T14:33:04Z",
-      "title": "Harvey Weinstein indicted on additional sex crimes charges ahead of New York retrial",
-      "url": "https://apnews.com/76b7b85baf0472a2a3571824b100b5d9",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e0e032722a7747678a7a90f4e3052da8/3000.jpeg"
-    },
-    {
-      "author": "JAIMIE DING and AMY TAXIN",
-      "description": "LOS ANGELES (AP) \u2014 A 4.7 magnitude earthquake rattled the Los Angeles area Thursday morning, unleashing boulders onto a Malibu road, visibly shaking Santa Monica's 1909 wooden pier and jolting some people from bed.",
-      "publishedAt": "2024-09-12T14:51:30Z",
-      "title": "A 4.7 magnitude earthquake rattles the Los Angeles area",
-      "url": "https://apnews.com/25803cb194024135fba633f14a6b83ac",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2539512b23464aac9f8f879a1e7a1a0b/3000.jpeg"
-    },
-    {
-      "author": "MIKE STOBBE",
-      "description": "NEW YORK (AP) \u2014 Health officials on Thursday said they don\u2019t know how a Missouri person caught bird flu but believe it may be a rare instance of a \u201cone-off\" standalone illness.Investigators trying to determine how the person caught the virus have not been able to confirm the exact strain of flu.",
-      "publishedAt": "2024-09-12T16:57:39Z",
-      "title": "Officials call Missouri bird flu case a 'one-off' and say risk to public is still low",
-      "url": "https://apnews.com/808b4db88bc5e70ed32760d8b01f627b",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/21d4a63d2c6146d085f43b1be61f2e70/3000.jpeg"
-    },
-    {
-      "author": "BARBARA ORTUTAY",
-      "description": "Coco loved being the life of the party \u2014 cracking jokes, doing pranks and making people laugh, her mom, Julianna Arnold, recalled recently.\u201cHer favorite pastime was fashion,\u201d Arnold said. \u201cShe didn\u2019t like looking at magazines or going to fancy stores, but preferred to make her own creations from used clothing she would find at thrift stores....",
-      "publishedAt": "2024-09-12T10:11:39Z",
-      "title": "Dealers' paradise? How social media became a storefront for deadly fake pills as families struggle",
-      "url": "https://apnews.com/8adb28d33f11cd3f52a104aa83a54e32",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4c1a2c4b28e1414a9621a73cffaa5a4d/3000.jpeg"
     }
   ],
   "sortBy": "top",
