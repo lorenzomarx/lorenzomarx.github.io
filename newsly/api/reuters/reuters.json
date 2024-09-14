@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "Russia's FSB security service said on Friday it had revoked the accreditation of six British diplomats in Moscow whose actions it said showed signs of spying and sabotage work.",
+      "publishedAt": "2024-09-13T04:58:09Z",
+      "title": "Russia expels six British diplomats it accuses of spying and sabotage activity",
+      "url": "https://www.reuters.com/world/europe/russia-revokes-accreditation-six-uk-diplomats-interfax-reports-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "At least 14 people were killed and six injured in an attack by unknown armed individuals in Afghanistan on Thursday night, a spokesperson for the Taliban said on Friday.",
+      "publishedAt": "2024-09-13T10:43:11Z",
+      "title": "14 killed, 6 injured in Afghanistan attack, Taliban\u00a0says",
+      "url": "https://www.reuters.com/world/asia-pacific/14-killed-6-injured-afghanistan-attack-taliban-says-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Anthony Deutsch, Tom Balmforth",
+      "description": "Russia started producing a new long-range attack drone called the Garpiya-A1 last year using Chinese engines and parts, which it has deployed in the war in Ukraine, according to two sources from a European intelligence agency and documents seen by Reuters.",
+      "publishedAt": "2024-09-13T10:13:41Z",
+      "title": "Exclusive: Russia produces new kamikaze drone with Chinese engine, say European intel sources",
+      "url": "https://www.reuters.com/world/europe/russia-produces-new-kamikaze-drone-with-chinese-engine-say-european-intel-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JUQDIVIVB5O5DAPVFV7MQALGKY.jpg?auth=dceb066200b9e69b846a7a3a8827c6560e2fd5e93d9c61f324e7a887604f9b5a&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Jan Strupczewski",
+      "description": "Nine European countries protested on Friday against the International Monetary Fund's plans to resume missions to Russia, saying it would damage the reputation of the Fund to resume dialogue with a country that has invaded another.",
+      "publishedAt": "2024-09-13T10:16:50Z",
+      "title": "Exclusive: Nine European countries protest against IMF resuming missions to Russia",
+      "url": "https://www.reuters.com/world/europe/nine-european-countries-protest-against-imf-resuming-missions-russia-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/TE3RFSDQENJTFFYC6SW6PIPCBE.jpg?auth=5a8ba592f5fcf93b427db7068edad48fb16b497e5d9908c52d7f48534d25be1e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Hyunsu Yim, Josh Smith",
       "description": "North Korea for the first time showed images of the centrifuges that produce fuel for its nuclear bombs on Friday, as leader Kim Jong Un visited a uranium enrichment facility and called for more weapons-grade material to boost the arsenal.",
       "publishedAt": "2024-09-12T21:47:58Z",
@@ -9,76 +41,44 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/ER5XPQLPABP75ND6XDYJRC2UOE.jpg?auth=8be13f783ae589207eb9a1c3726bf5da6c2f76cae6fd2ccb22b40d2da086219d&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Laurie Chen",
-      "description": "China's defence minister said on Friday that China would enhance military ties with its neighbours, saying major countries had to take a lead in safeguarding global security.",
-      "publishedAt": "2024-09-13T01:36:55Z",
-      "title": "China's defence minister asks major countries to take lead in safeguarding global security",
-      "url": "https://www.reuters.com/world/china/chinas-defence-minister-asks-major-countries-take-lead-safeguarding-global-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4VKFRURQSJLTJKGA24K7ANBEN4.jpg?auth=f8c008c4f6caf671459fcb3d8c7d549e917d3e45f7d7e6cf2684ae32b380b84c&height=1005&width=1920&quality=80&smart=true"
+      "author": "Joe Brock, David Shepardson",
+      "description": "Boeing's U.S. West Coast factory workers walked off the job early on Friday after overwhelmingly rejecting a contract deal, halting production of the planemaker's strongest-selling jet as it wrestles with severe output delays and heavy debt.",
+      "publishedAt": "2024-09-13T04:38:21Z",
+      "title": "Boeing's US factory workers strike, halting 737 MAX production",
+      "url": "https://www.reuters.com/business/aerospace-defense/boeing-us-factory-workers-strike-blow-planemaker-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JMVLFJISBZK5HPXXYHOCD6OGCA.jpg?auth=14b71e46d2272170f10c87a0e14472c11af7a2b272fff6cc9765206822966525&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Jarrett Renshaw, Heather Timmons",
+      "description": "Global pop star Taylor Swift's support for Kamala Harris may have boosted the Democratic vice president's hopes of attracting young voters, but the question remains: Will the celebrity endorsement make a difference on Election Day?",
+      "publishedAt": "2024-09-13T10:02:27Z",
+      "title": "Will Taylor Swift's Harris endorsement influence the U.S. election?",
+      "url": "https://www.reuters.com/world/us/will-taylor-swifts-harris-endorsement-influence-us-election-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/RWQ7OG5A6RKNXADFGOHLQ3RX5U.jpg?auth=2d8c7ab2bc02725411fff2bfde7d01da76b88ccd0c73e967e12896ecb11ce7be&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "A Russian missile hit a civilian vessel carrying grain from Ukraine that had already left Ukrainian waters in the Black Sea, President Volodymyr Zelenskiy said on Thursday.",
-      "publishedAt": "2024-09-12T12:52:34Z",
-      "title": "Russian missile hit civilian ship carrying Ukrainian grain in Black Sea, Zelenskiy says",
-      "url": "https://www.reuters.com/world/europe/russian-missile-hits-civilian-ship-with-ukrainian-grain-black-sea-zelenskiy-says-2024-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XAASCMM35VKDPFN5WUFVU7LAMM.jpg?auth=d800853740a12c5ec99897048e7370f267b603870acdf96f6aaf75118bfceab5&height=1005&width=1920&quality=80&smart=true"
+      "description": "Russian forces focused their assaults in eastern Ukraine near the embattled town of Kurakhove on Friday as Ukrainian troops tried to hold the line at a critical juncture of the war, Kyiv said.",
+      "publishedAt": "2024-09-13T11:25:17Z",
+      "title": "Russia steps up attacks near Ukraine's Kurakhove in east",
+      "url": "https://www.reuters.com/world/europe/russia-steps-up-attacks-near-ukraines-kurakhove-east-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "The Israeli military on Thursday named nine men it said were Hamas militants killed in Gaza airstrikes that the U.N. Palestinian refugee agency UNRWA said had left six of its staffers dead.",
-      "publishedAt": "2024-09-12T17:59:34Z",
-      "title": "Israel names Hamas gunmen it says were targeted in strike that killed UNRWA staff",
-      "url": "https://www.reuters.com/world/middle-east/israel-names-hamas-gunmen-it-says-were-targeted-strike-that-killed-unrwa-staff-2024-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/O2UQCLOKJVPDHNILYGF5YVNEZ4.jpg?auth=e496c73bf8aefa7ad2a8d60eeff20e63d9653b034cc15628d01ce7e5bbda65e3&height=1005&width=1920&quality=80&smart=true"
+      "author": "Tim Kelly",
+      "description": "Canada is in discussions about joining an expanded AUKUS deal between the U.S., Britain, and Australia formed to counter China's growing military influence in the Asia Pacific region, Canadian Defence Minister Bill Blair said.",
+      "publishedAt": "2024-09-13T11:29:04Z",
+      "title": "Canada in talks about joining expanded AUKUS, defence chief Blair says",
+      "url": "https://www.reuters.com/world/canada-talks-about-joining-expanded-aukus-defence-chief-blair-says-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2HXW5USA7VJGRLUU4KAZTP5JGU.jpg?auth=b7dd787bd7b647a103e02abb49ac9565a68d6cbd50ace1599317c78a822b1eab&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Jesus Bustamante",
-      "description": "Authorities in the western Mexican state of Sinaloa on Thursday canceled national day celebrations and shut schools on the back of escalating violence stemming from internal Sinaloa Cartel fighting, which has left 12 people dead since Monday.",
-      "publishedAt": "2024-09-13T00:37:19Z",
-      "title": "Worsening Sinaloa Cartel war paralyzes life in Mexican city",
-      "url": "https://www.reuters.com/world/americas/worsening-sinaloa-cartel-war-paralyzes-life-mexican-city-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/HJLZ52POWVIXHNJNMBUQTFT4EA.jpg?auth=7b3392a0cbb08818fc367450b1c526bb981d746c468874f209263b10aeae9272&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Philippine celebrity pastor Apollo Quiboloy, the self-proclaimed \"Appointed Son of God\", pleaded not guilty on Friday to a charge of sex trafficking, his lawyer said.",
-      "publishedAt": "2024-09-13T02:27:13Z",
-      "title": "Philippine 'Son of God' preacher pleads not guilty to sex trafficking charge",
-      "url": "https://www.reuters.com/world/asia-pacific/philippine-son-god-preacher-pleads-not-guilty-sex-trafficking-charge-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4OZWE6L6RZIEBAJUP3R73OHMFQ.jpg?auth=0b8e3d5745005b6e23f94834f61e8a90551eb19215f6dfca68008bbf2da35c34&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Renju Jose",
-      "description": "Elon Musk, owner of social media platform X, on Friday called Australia's centre-left government \"fascists\" over proposed legislation to slap fines on social media firms for failing to prevent the spread of misinformation online.",
-      "publishedAt": "2024-09-13T00:50:27Z",
-      "title": "Musk calls Australian government 'fascists' over misinformation law",
-      "url": "https://www.reuters.com/world/asia-pacific/musk-calls-australian-government-fascists-over-misinformation-law-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/2OQRWSJ7XBKSRPME4OQLSZVF2Y.jpg?auth=39b883d9154e2987e8b639f8d4be23fc35fa8d0ad23b858d4d48d243697ff239&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Diadie Ba",
-      "description": "Senegal President Bassirou Diomaye Faye on Thursday dissolved the opposition-led national assembly, clearing the way for early legislative elections on Nov. 17.",
-      "publishedAt": "2024-09-12T20:59:34Z",
-      "title": "Senegal's president sets parliament election on Nov. 17",
-      "url": "https://www.reuters.com/world/africa/senegals-president-sets-parliament-election-nov-17-2024-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OSN42YFJINJFPBPNAPZM2VPEIA.jpg?auth=254617a887513fabf8952789174f6fac33edb8fcc5b4595f4bcacb893d36e82c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "A Georgia judge on Thursday dismissed two criminal counts in the U.S. state's 2020 election interference case against Republican presidential candidate Donald Trump and one other count against allies of the former president.",
-      "publishedAt": "2024-09-12T19:15:11Z",
-      "title": "Georgia judge dismisses two criminal counts against Trump, court filing shows",
-      "url": "https://www.reuters.com/legal/georgia-judge-dismisses-two-criminal-counts-against-trump-court-filing-shows-2024-09-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3NRBZJVR6JPIFICOXSUARJNFBI.jpg?auth=0bcbfc9ade379d2246cc31192d4243b9a81e6bf450412f18501b1cb1772cd332&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Yimou Lee",
-      "description": "As tropical storm Bebinca barrels towards waters off northern Taiwan gathering strength into a possible typhoon, weather forecasters in Taipei are using a new and so far successful method to help track its path - artificial intelligence (AI).",
-      "publishedAt": "2024-09-13T03:39:52Z",
-      "title": "As storm Bebinca approaches, Taiwan uses AI to predict typhoon paths",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/storm-bebinca-approaches-taiwan-uses-ai-predict-typhoon-paths-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JNNOK7LEW5IRZDAODROHPPDSAU.jpg?auth=e4ab2e6219dbedc8358af361fcc40090837e7365f1a49983f954db534f1bb990&height=1005&width=1920&quality=80&smart=true"
+      "author": "Hussam Al-Masri",
+      "description": "Israeli air strikes destroyed the building housing Adli al-Assar's gym in Khan Younis in February. So he decided he doesn't need a building.",
+      "publishedAt": "2024-09-13T11:43:59Z",
+      "title": "In gym salvaged from rubble, Gazans release anger on weight machines",
+      "url": "https://www.reuters.com/world/middle-east/gym-salvaged-rubble-gazans-release-anger-weight-machines-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
