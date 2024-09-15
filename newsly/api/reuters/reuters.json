@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Joe Brock, David Shepardson",
+      "description": "Boeing and union leaders are eager to return to the bargaining table and quickly settle on a contract acceptable to factory workers who went on strike on Friday at a crucial time for the planemaker trying to turn around its operations.",
+      "publishedAt": "2024-09-13T04:38:21Z",
+      "title": "Boeing eager to return to union talks as strike shuts factories",
+      "url": "https://www.reuters.com/business/aerospace-defense/boeing-us-factory-workers-strike-blow-planemaker-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/WSZZPY3OBVPVLN2Z4QTXTEFCME.jpg?auth=20b950c47ca453c5d66eda7865f1effa27c3e9bbebc47fdd06d263a60b7372ed&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Anthony Deutsch, Tom Balmforth",
       "description": "Russia started producing a new long-range attack drone called the Garpiya-A1 last year using Chinese engines and parts, which it has deployed in the war in Ukraine, according to two sources from a European intelligence agency and documents seen by Reuters.",
       "publishedAt": "2024-09-13T10:13:41Z",
@@ -17,30 +25,6 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "The death toll in Vietnam from typhoon Yagi and the landslides and flash floods it triggered rose to 254 on Friday, the state disaster management agency said, as flood waters receded and search efforts pressed on.",
-      "publishedAt": "2024-09-13T12:56:42Z",
-      "title": "Typhoon Yagi death toll rises to 254 in Vietnam",
-      "url": "https://www.reuters.com/world/asia-pacific/typhoon-yagi-death-toll-rises-254-vietnam-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FLKQEEPS3FMUJBDDFX3BZES36E.jpg?auth=59a2166f3280ba270dede8a3e1f893b033cceb91de5e3b7c12f271f4d07f90db&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "At least 14 people were killed and six injured in an attack by unknown armed individuals in Afghanistan on Thursday night, a spokesperson for the Taliban said on Friday.",
-      "publishedAt": "2024-09-13T10:43:11Z",
-      "title": "14 killed, 6 injured in Afghanistan attack, Taliban\u00a0says",
-      "url": "https://www.reuters.com/world/asia-pacific/14-killed-6-injured-afghanistan-attack-taliban-says-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Ukraine has secured the release of 49 people from Russian captivity in the latest exchange of prisoners with Moscow, President Volodymyr Zelenskiy said on Friday.",
-      "publishedAt": "2024-09-13T12:25:47Z",
-      "title": "Ukraine secures return of 49 people in POW exchange with Russia",
-      "url": "https://www.reuters.com/world/europe/ukraine-secures-return-49-people-pow-exchange-with-russia-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/24FWYQPHOFJ3NLEL5IEOCSCFVE.jpg?auth=61c681c6b990ef328d0db5157dc1bb15677c3e03740dc8d54bdddf292c20eb5e&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Andrew Osborn, Lucy Papachristou",
       "description": "Splits in Russia's opposition in exile have widened sharply, shifting their focus from political activism to infighting after allies of late opposition leader Alexei Navalny accused another opposition figure of ordering attacks on their activists.",
       "publishedAt": "2024-09-13T16:58:53Z",
@@ -49,36 +33,52 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/ICRBQIELJVLLNNOPS2J4UWYY3M.jpg?auth=8c9747dee4c848ad9cc5321fc17c7f0f752b2bf37154c7efbf8b5387c7ee2a3a&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Phil Stewart, Jonathan Landay, Matt Spetalnick",
+      "description": "As the U.S. and Britain discuss allowing Ukraine to use Western weapons to strike deep within Russia, some U.S. officials are deeply skeptical that doing so would make a significant difference in Kyiv's battle against Russian invaders.",
+      "publishedAt": "2024-09-13T23:41:28Z",
+      "title": "US officials question if easing Ukraine weapons restrictions would pay off",
+      "url": "https://www.reuters.com/world/us-officials-question-if-easing-ukraine-weapons-restrictions-would-pay-off-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/HIR6SNGQYRO6FBVVNYZO3O4TWA.jpg?auth=22053434f1ac726a653840ac9f9f848e2f1aaf0a3a3a6e8eb7926c6d2ae46786&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Andrea Shalal",
+      "description": "President Joe Biden is planning a trip to Angola in coming weeks, fulfilling an earlier promise that would make him the first U.S. head of state to visit sub-Saharan Africa since Barack Obama in 2015, three sources familiar with the plans said.",
+      "publishedAt": "2024-09-13T19:19:10Z",
+      "title": "Exclusive: Biden to make first Africa visit with Angola trip in coming weeks, sources say",
+      "url": "https://www.reuters.com/world/biden-make-first-africa-visit-with-angola-trip-coming-weeks-sources-say-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2VYE4WUJ2VOOTC265YQOJYO6MM.jpg?auth=7ad61c918f9cebba444013e4d6eba40b7981f77358b8ba268d45bb876058a4d4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Tarek Amara",
+      "description": "Thousands of Tunisians marched in the streets on Friday to protest against President Kais Saied, whom they accuse of trying to rig the Oct. 6 presidential election by detaining and intimidating his rivals.",
+      "publishedAt": "2024-09-13T18:56:41Z",
+      "title": "Tunisians protest against president ahead of election",
+      "url": "https://www.reuters.com/world/africa/tunisians-protest-against-president-ahead-election-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LCH6FUADVJJLHDGLH4PSR3CAIY.jpg?auth=68c95e8fa71b1c3a7efc7faa535b99a3a737c0509c2e2dc3921f17c7f207aaf3&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Luc Cohen",
+      "description": "The jury that convicted Sam Bankman-Fried of stealing billions of dollars from customers of his FTX cryptocurrency exchange only saw \"half the picture\" because the judge did not allow in critical evidence, his lawyer argued in their appeal on Friday.",
+      "publishedAt": "2024-09-13T20:05:23Z",
+      "title": "Sam Bankman-Fried's jury only saw 'half the picture,' lawyer says in appeal",
+      "url": "https://www.reuters.com/legal/sam-bankman-frieds-jury-only-saw-half-picture-lawyer-says-appeal-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JWCXVJDFQRIQXKSX7C7PJ3CNRA.jpg?auth=82e0b0867e5996655214d3ea27c78c43b332fa94f17a0cf22f4fcae3b8f77402&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "North Korean leader Kim Jong Un met with top Russian security official Sergei Shoigu and discussed deepening strategic dialogue between the two countries, state media KCNA said on Saturday.",
+      "publishedAt": "2024-09-13T21:53:30Z",
+      "title": "North Korea's Kim Jong Un meets Russia's Shoigu, KCNA says",
+      "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-meets-russias-shoigu-kcna-says-2024-09-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SFAYPQPFQVOQZNCGPLN35L3LCM.jpg?auth=b015220997ae053eb5c3fdcb0cc5d8e7f50a6df7116917d95760bb55e60dfdb4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Jarrett Renshaw, Heather Timmons",
       "description": "Global pop star Taylor Swift's support for Kamala Harris may have boosted the Democratic vice president's hopes of attracting young voters, but the question remains: Will the celebrity endorsement make a difference on Election Day?",
       "publishedAt": "2024-09-13T10:02:27Z",
       "title": "Will Taylor Swift's Harris endorsement influence the U.S. election?",
       "url": "https://www.reuters.com/world/us/will-taylor-swifts-harris-endorsement-influence-us-election-2024-09-13/",
       "urlToImage": "https://www.reuters.com/resizer/v2/RWQ7OG5A6RKNXADFGOHLQ3RX5U.jpg?auth=2d8c7ab2bc02725411fff2bfde7d01da76b88ccd0c73e967e12896ecb11ce7be&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Russian forces focused their assaults in eastern Ukraine near the embattled town of Kurakhove on Friday as Ukrainian troops tried to hold the line at a critical juncture of the war, Kyiv said.",
-      "publishedAt": "2024-09-13T11:25:17Z",
-      "title": "Russia steps up attacks near Ukraine's Kurakhove in east",
-      "url": "https://www.reuters.com/world/europe/russia-steps-up-attacks-near-ukraines-kurakhove-east-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Hussam Al-Masri",
-      "description": "Israeli air strikes destroyed the building housing Adli al-Assar's gym in Khan Younis in February. So he decided he doesn't need a building.",
-      "publishedAt": "2024-09-13T11:43:59Z",
-      "title": "In gym salvaged from rubble, Gazans release anger on weight machines",
-      "url": "https://www.reuters.com/world/middle-east/gym-salvaged-rubble-gazans-release-anger-weight-machines-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Three U.S. citizens on trial for their role in a failed coup in Democratic Republic of Congo were sentenced to death by a military court on Friday.",
-      "publishedAt": "2024-09-13T16:23:54Z",
-      "title": "Three US citizens sentenced to death in Congo over role in failed coup",
-      "url": "https://www.reuters.com/world/africa/us-citizens-trial-role-congo-coup-attempt-sentenced-death-2024-09-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/5YLBFZB2GNNOJHRDNR2QDV645A.jpg?auth=b76d68347527724ca44c21a00da2d677cb7bbf1dcede04fb35a4b37a553f304a&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
