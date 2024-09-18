@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "author": "Nate Anderson",
+      "description": "Lithium-ion batteries or supply chain attack may be to blame.",
+      "publishedAt": "2024-09-17T16:35:10+00:00",
+      "title": "8 dead, 2,700 injured after simultaneous pager explosions in Lebanon",
+      "url": "https://arstechnica.com/security/2024/09/8-dead-2700-injured-after-simultaneous-pager-explosions-in-lebanon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/lebanon-ambulance-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "US said Russian media worked with Kremlin to influence election, foment unrest.",
+      "publishedAt": "2024-09-17T16:35:02+00:00",
+      "title": "Russian state media outlet RT banned by Facebook \u201cfor foreign interference\u201d",
+      "url": "https://arstechnica.com/tech-policy/2024/09/russian-state-media-outlet-rt-banned-by-facebook-for-foreign-interference/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/putin-rt-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Decadelong trademark fight culminates in new game hinting at \"Web3 innovation.\"",
+      "publishedAt": "2024-09-17T15:40:27+00:00",
+      "title": "How crypto bros wrested Flappy Bird from its creator",
+      "url": "https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/flappy-760x380.jpg"
+    },
+    {
+      "author": "Jennifer Ouellette",
+      "description": "Scientists measured scaling of the brush strokes to arrive at their conclusions.",
+      "publishedAt": "2024-09-17T15:10:12+00:00",
+      "title": "Physicists discover \u201chidden turbulence\u201d throughout van Gogh\u2019s Starry Night",
+      "url": "https://arstechnica.com/science/2024/09/physicists-discover-hidden-turbulence-throughout-van-goghs-starry-night/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/vangogh2-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "As drivers become familiar with the systems, they exploit them.",
+      "publishedAt": "2024-09-17T15:00:59+00:00",
+      "title": "Driver assists become de facto autopilots as drivers multitask, study finds",
+      "url": "https://arstechnica.com/cars/2024/09/tesla-autopilot-and-other-assists-increase-distracted-driving-study-finds/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1633254374-760x380.jpg"
+    },
+    {
+      "author": "Jeanne Timmons",
+      "description": "The new finds confirm the existence of a feature seen in cave art.",
+      "publishedAt": "2024-09-17T14:31:33+00:00",
+      "title": "Rare woolly rhino mummies emerge from the permafrost",
+      "url": "https://arstechnica.com/science/2024/09/rare-woolly-rhino-mummies-emerge-from-the-permafrost/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-468920612-2-760x380.jpg"
+    },
+    {
+      "author": "Stephen Morris, Financial Times",
+      "description": "Hot-desking is out, assigned floor plans are in.",
+      "publishedAt": "2024-09-17T13:34:01+00:00",
+      "title": "Amazon kills remote working, tells workers to be in office 5 days a week",
+      "url": "https://www.ft.com/content/401e13fe-d065-4c07-9b51-e21fa38ad6e1",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/getty-amazon-warehouse-760x380.jpg"
+    },
+    {
       "author": "Samuel Axon",
       "description": "Wiggle mode gets an update that opens up almost Android-like customization.",
       "publishedAt": "2024-09-17T09:00:50+00:00",
@@ -23,62 +79,6 @@
       "title": "Ban warnings fly as users dare to probe the \u201cthoughts\u201d of OpenAI\u2019s latest model",
       "url": "https://arstechnica.com/?p=2049959",
       "urlToImage": null
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Origins of Hounds and Jackals, aka Fifty-Eight Holes, may lie in Asia rather than Egypt.",
-      "publishedAt": "2024-09-16T22:30:59+00:00",
-      "title": "Archaeologists believe this Bronze Age board game is the oldest yet found",
-      "url": "https://arstechnica.com/science/2024/09/archaeologists-believe-this-bronze-age-board-game-is-the-oldest-yet-found/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hounds1-760x380.jpg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Keys were marked \"DO NOT TRUST.\" More devices than previously known used them anyway.",
-      "publishedAt": "2024-09-16T22:13:12+00:00",
-      "title": "Secure Boot-neutering PKfail debacle is more prevalent than anyone knew",
-      "url": "https://arstechnica.com/security/2024/09/secure-boot-neutering-pkfail-debacle-is-more-prevalent-than-anyone-knew/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Indefinitely closed plant rated area with Listeria as \"low risk\" for Listeria.",
-      "publishedAt": "2024-09-16T21:44:49+00:00",
-      "title": "Boar\u2019s Head will never make liverwurst again after outbreak that killed 9",
-      "url": "https://arstechnica.com/?p=2050174",
-      "urlToImage": null
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "TikTok's survival in the US may depend on an appeals court ruling this December.",
-      "publishedAt": "2024-09-16T21:23:11+00:00",
-      "title": "US can\u2019t ban TikTok for security reasons while ignoring Temu, other apps",
-      "url": "https://arstechnica.com/tech-policy/2024/09/tiktok-ban-poses-staggering-risks-to-americans-free-speech-tiktok-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2172424134-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Apple often launches Macs and iPads in October, after the iPhone dust settles.",
-      "publishedAt": "2024-09-16T20:35:57+00:00",
-      "title": "Apple software leaks new Mac mini with five USB-C ports ahead of rumored event",
-      "url": "https://arstechnica.com/gadgets/2024/09/report-big-batch-of-m4-macs-and-cheaper-ipads-on-tap-for-october-apple-event/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/IMG_1415-760x380.jpeg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Starlink and X treated as one economic group, forcing both to pay X fines.",
-      "publishedAt": "2024-09-16T20:04:00+00:00",
-      "title": "Brazil judge seizes cash from Starlink to cover fine imposed on Elon Musk\u2019s X",
-      "url": "https://arstechnica.com/tech-policy/2024/09/brazil-judge-seizes-cash-from-starlink-to-cover-fine-imposed-on-elon-musks-x/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/bolsonaro-musk-760x380.jpg"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "A future iOS update may be needed to unlock better Apple-to-Android messages.",
-      "publishedAt": "2024-09-16T19:57:35+00:00",
-      "title": "iOS 18 brings RCS to major carrier iPhones, but prepaid plans are still waiting",
-      "url": "https://arstechnica.com/gadgets/2024/09/ios-18-brings-rcs-to-major-carrier-iphones-but-prepaid-plans-are-still-waiting/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2055623763-760x380.jpg"
     }
   ],
   "sortBy": "top",
