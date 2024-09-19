@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "author": "Andrew Cunningham",
+      "description": "Apple's servers have stopped signing the 18.0 update for M4 iPad Pros for now.",
+      "publishedAt": "2024-09-17T23:35:21+00:00",
+      "title": "Apple pauses iPadOS 18 rollout for M4 iPad Pro after bricking complaints",
+      "url": "https://arstechnica.com/gadgets/2024/09/apple-pauses-ipados-18-rollout-for-m4-ipad-pro-after-bricking-complaints/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/apple-ipados-18-760x380.jpeg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "AT&T data should have been deleted but remained in cloud for years before hack.",
+      "publishedAt": "2024-09-17T21:17:23+00:00",
+      "title": "AT&T fined $13M for data breach after giving customer bill info to vendor",
+      "url": "https://arstechnica.com/tech-policy/2024/09/att-fined-13m-for-data-breach-after-giving-customer-bill-info-to-vendor/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-att-logo-umbrella-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The three-seater is a four-wheeled testbed for Lotus' imagination.",
+      "publishedAt": "2024-09-17T20:18:28+00:00",
+      "title": "Troubled Lotus shows off wedge-like vision for an EV sportscar",
+      "url": "https://arstechnica.com/cars/2024/09/troubled-lotus-shows-off-wedge-like-vision-for-an-ev-sportscar/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Theory-1_EXT-SIDE-A-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "C2PA system aims to give context to search results, but trust problems run deeper than AI tech.",
+      "publishedAt": "2024-09-17T20:07:14+00:00",
+      "title": "Google seeks authenticity in the age of AI with new content labeling system",
+      "url": "https://arstechnica.com/information-technology/2024/09/google-seeks-authenticity-in-the-age-of-ai-with-new-content-labeling-system/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/real_photo-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Would such a scam really be worth it?",
+      "publishedAt": "2024-09-17T19:52:10+00:00",
+      "title": "TCL accused of selling quantum dot TVs without actual quantum dots",
+      "url": "https://arstechnica.com/gadgets/2024/09/tcl-accused-of-selling-quantum-dot-tvs-without-actual-quantum-dots/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/tcl-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Request continues a long tradition of modding concerns from Japanese game studios.",
+      "publishedAt": "2024-09-17T18:46:15+00:00",
+      "title": "No \u201coffensive or inappropriate\u201d Final Fantasy XVI mods, producer pleads",
+      "url": "https://arstechnica.com/gaming/2024/09/no-offensive-or-inappropriate-final-fantasy-xvi-mods-producer-pleads/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/clouddress-760x380.png"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"The business model had to change.\"",
+      "publishedAt": "2024-09-17T18:37:03+00:00",
+      "title": "A key NASA commercial partner faces severe financial challenges",
+      "url": "https://arstechnica.com/space/2024/09/a-key-nasa-commercial-partner-faces-severe-financial-challenges/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/2021-02-10_AXIOM_2-crew_quarter_interior-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Zynga plans to appeal and confirms no games will be affected.",
+      "publishedAt": "2024-09-17T17:54:25+00:00",
+      "title": "Zynga owes IBM $45M after using 1980s patented technology for hit games",
+      "url": "https://arstechnica.com/tech-policy/2024/09/zynga-must-pay-ibm-45-million-for-farmville-patent-infringement/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/ext_char_collage_B-760x380.jpg"
+    },
+    {
       "author": "Nate Anderson",
       "description": "Lithium-ion batteries or supply chain attack may be to blame.",
       "publishedAt": "2024-09-17T16:35:10+00:00",
@@ -15,70 +79,6 @@
       "title": "Russian state media outlet RT banned by Facebook \u201cfor foreign interference\u201d",
       "url": "https://arstechnica.com/tech-policy/2024/09/russian-state-media-outlet-rt-banned-by-facebook-for-foreign-interference/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/putin-rt-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Decadelong trademark fight culminates in new game hinting at \"Web3 innovation.\"",
-      "publishedAt": "2024-09-17T15:40:27+00:00",
-      "title": "How crypto bros wrested Flappy Bird from its creator",
-      "url": "https://arstechnica.com/gaming/2024/09/how-crypto-bros-wrested-flappy-bird-from-its-creator/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/flappy-760x380.jpg"
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "Scientists measured scaling of the brush strokes to arrive at their conclusions.",
-      "publishedAt": "2024-09-17T15:10:12+00:00",
-      "title": "Physicists discover \u201chidden turbulence\u201d throughout van Gogh\u2019s Starry Night",
-      "url": "https://arstechnica.com/science/2024/09/physicists-discover-hidden-turbulence-throughout-van-goghs-starry-night/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/vangogh2-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "As drivers become familiar with the systems, they exploit them.",
-      "publishedAt": "2024-09-17T15:00:59+00:00",
-      "title": "Driver assists become de facto autopilots as drivers multitask, study finds",
-      "url": "https://arstechnica.com/cars/2024/09/tesla-autopilot-and-other-assists-increase-distracted-driving-study-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1633254374-760x380.jpg"
-    },
-    {
-      "author": "Jeanne Timmons",
-      "description": "The new finds confirm the existence of a feature seen in cave art.",
-      "publishedAt": "2024-09-17T14:31:33+00:00",
-      "title": "Rare woolly rhino mummies emerge from the permafrost",
-      "url": "https://arstechnica.com/science/2024/09/rare-woolly-rhino-mummies-emerge-from-the-permafrost/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-468920612-2-760x380.jpg"
-    },
-    {
-      "author": "Stephen Morris, Financial Times",
-      "description": "Hot-desking is out, assigned floor plans are in.",
-      "publishedAt": "2024-09-17T13:34:01+00:00",
-      "title": "Amazon kills remote working, tells workers to be in office 5 days a week",
-      "url": "https://www.ft.com/content/401e13fe-d065-4c07-9b51-e21fa38ad6e1",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/getty-amazon-warehouse-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Wiggle mode gets an update that opens up almost Android-like customization.",
-      "publishedAt": "2024-09-17T09:00:50+00:00",
-      "title": "iOS 18\u2019s new home screen features are a long-awaited win for flexibility",
-      "url": "https://arstechnica.com/gadgets/2024/09/ios-18s-new-home-screen-features-are-a-long-awaited-win-for-flexibility/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/iOS-18-home-screen-header-760x380.png"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"Authorities will have high-resolution imagery that is updated globally every 20 minutes.\"",
-      "publishedAt": "2024-09-16T23:22:37+00:00",
-      "title": "Google backs privately funded satellite constellation for wildfire detection",
-      "url": "https://arstechnica.com/space/2024/09/google-backs-privately-funded-satellite-constellation-for-wildfire-detection/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1235418773-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "OpenAI does not want anyone to know what o1 is \u201cthinking\" under the hood.",
-      "publishedAt": "2024-09-16T22:49:11+00:00",
-      "title": "Ban warnings fly as users dare to probe the \u201cthoughts\u201d of OpenAI\u2019s latest model",
-      "url": "https://arstechnica.com/?p=2049959",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
