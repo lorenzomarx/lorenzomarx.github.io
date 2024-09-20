@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "author": "LINLEY SANDERS and JONATHAN J. COOPER",
-      "description": "WASHINGTON (AP) \u2014 Until recently, Lillian Dunsmuir of Bullhead City, Arizona, \u201cdidn\u2019t really think about\" Kamala Harris and had no opinion of the vice president. But now she likes what she\u2019s seeing.",
-      "publishedAt": "2024-09-19T04:01:37Z",
-      "title": "Voters view Harris more favorably as she settles into role atop Democratic ticket: AP-NORC poll",
-      "url": "https://apnews.com/3f0a52c889027df9b46f2d9407190217",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/db67a953b9e446f8b8a684dd7d760116/3000.jpeg"
-    },
-    {
-      "author": "KAREEM CHEHAYEB",
-      "description": "BEIRUT (AP) \u2014 Hezbollah fired a new barrage into northern Israel on Thursday, continuing its drumbeat of exchanges with the Israeli military as fears of a greater war rise after hundreds of electronic devices exploded in Lebanon, killing at least 32 people and wounding more than 3,000 others.",
-      "publishedAt": "2024-09-19T11:14:00Z",
-      "title": "Hezbollah fires new volley at Israel as fears of greater war mount after electronic devices bombing",
-      "url": "https://apnews.com/ab2436cf5bae5e2fe2dddb293671a0ac",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/718b7f9af95244a7ad35e66c38402e18/1920.jpeg"
-    },
-    {
-      "author": "JULIA FRANKEL",
-      "description": "JERUSALEM (AP) \u2014 With Israel's defense minister announcing a \u201cnew phase\u201d of the war and an apparent Israeli attack setting off explosions in electronic devices in Lebanon, the specter of all-out combat between Israel and Hezbollah seems closer than ever before.",
-      "publishedAt": "2024-09-18T20:15:01Z",
-      "title": "Is Israel preparing for a war with Hezbollah?",
-      "url": "https://apnews.com/df4c835ee3d1471e79d1a7fe951226bf",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/961b243688a042ad8b77de2cbd3271d0/3000.jpeg"
-    },
-    {
       "author": "WILL WEISSERT",
       "description": "WASHINGTON (AP) \u2014 Both major presidential candidates are making appearances Thursday meant to fire up their core supporters, with Vice President Kamala Harris participating in a livestream with Oprah Winfrey and Donald Trump attending an event with prominent Jewish donors before addressing a gathering of the Israeli-American Council.",
       "publishedAt": "2024-09-19T11:12:53Z",
@@ -33,12 +9,28 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/b685599831884f2a8f39ecf2a78dd006/3000.jpeg"
     },
     {
+      "author": "KAREEM CHEHAYEB and BASSEM MROUE",
+      "description": "BEIRUT (AP) \u2014 The leader of Hezbollah vowed to keep up daily strikes on Israel despite this week's mass bombing attack on its communication devices, and said Israelis displaced by the fighting from homes near the Lebanon border would not be able to return until the war in Gaza ends.",
+      "publishedAt": "2024-09-19T11:14:00Z",
+      "title": "Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes",
+      "url": "https://apnews.com/ab2436cf5bae5e2fe2dddb293671a0ac",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/718b7f9af95244a7ad35e66c38402e18/1920.jpeg"
+    },
+    {
       "author": "LINLEY SANDERS and JONATHAN J. COOPER",
       "description": "WASHINGTON (AP) \u2014 Until recently, Lillian Dunsmuir of Bullhead City, Arizona, \u201cdidn\u2019t really think about\" Kamala Harris and had no opinion of the vice president. But now she likes what she\u2019s seeing.",
       "publishedAt": "2024-09-19T04:01:37Z",
       "title": "Voters view Harris more favorably as she settles into role atop Democratic ticket: AP-NORC poll",
       "url": "https://apnews.com/3f0a52c889027df9b46f2d9407190217",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/db67a953b9e446f8b8a684dd7d760116/3000.jpeg"
+    },
+    {
+      "author": "CURTIS YEE and TIFFANY STANLEY",
+      "description": "WASHINGTON (AP) \u2014 When the Rev. Lee Scott publicly endorsed Kamala Harris for president during the Evangelicals for Harris Zoom call on Aug. 14, the Presbyterian pastor and farmer said he was taking a risk.",
+      "publishedAt": "2024-09-19T12:01:32Z",
+      "title": "These evangelicals are voting their values \u2014 by backing Kamala Harris",
+      "url": "https://apnews.com/9d5cb379dc3c2fdb3f4954c556a29ec5",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7b53b38f2d18476c973bb58eb63f2bd3/3000.jpeg"
     },
     {
       "author": "KIM TONG-HYUNG and CLAIRE GALOFARO",
@@ -49,28 +41,36 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/02f165c4cbf0466c901d285ab4333ce0/3000.jpeg"
     },
     {
+      "author": "LISA MASCARO",
+      "description": "WASHINGTON (AP) \u2014 In the most contested races for control of the U.S. House, many Republican candidates are speaking up about women\u2019s rights to abortion access and reproductive care in new and surprising ways, a deliberate shift for a GOP blindsided by some political ramifications of the post-Roe v.",
+      "publishedAt": "2024-09-19T17:12:19Z",
+      "title": "Republicans are trying a new approach to abortion in the race for Congress",
+      "url": "https://apnews.com/bf0da946328ab06f122a99d696c04774",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/6fe722ddaf2e4488810d48c6c30481e6/2910.jpeg"
+    },
+    {
+      "author": "MARIA CHENG",
+      "description": "LONDON (AP) \u2014 Scientists searching for the origins of COVID-19 have zeroed in on a short list of animals that possibly helped spread it to people, an effort they hope could allow them to trace the outbreak back to its source.",
+      "publishedAt": "2024-09-19T16:47:34Z",
+      "title": "A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin",
+      "url": "https://apnews.com/05d573cfd019a20cb46d675af0c669dd",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/d30c25379bbb4ab0ad15255e79f8c9ea/3000.jpeg"
+    },
+    {
+      "author": "MONIKA SCISLOWSKA",
+      "description": "WARSAW, Poland (AP) \u2014 European Union chief Ursula von der Leyen on Thursday pledged billions of euros for flood recovery for Central European countries that suffered enormous damage to infrastructure and housing during the current flooding that has claimed 24 lives in the region.",
+      "publishedAt": "2024-09-19T10:16:14Z",
+      "title": "EU chief visits flood-stricken region in Europe and pledges billions in swift aid",
+      "url": "https://apnews.com/d96d5343577cd6e11c680c1ed08d604f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/37de23c6984f4d089b4c8db7b5b1cc01/3000.jpeg"
+    },
+    {
       "author": "JULIE CARR SMYTH",
       "description": "SPRINGFIELD, Ohio (AP) \u2014 In the quiet corners of Springfield, Ohio \u2014 out of sight of the drumbeat of politicians and journalists, troopers and newly installed security cameras \u2014 the people who live here are taking a breath, praying and attempting to carry on.",
       "publishedAt": "2024-09-19T04:14:58Z",
       "title": "Residents of Springfield, Ohio, hunker down and pray for a political firestorm to blow over",
       "url": "https://apnews.com/7e8b09654c0dd90d72c884dbb798c71b",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/76ef6de867df4f4fbffa5636dc2d2024/3000.jpeg"
-    },
-    {
-      "author": "MICHAEL R. SISAK and MICHAEL BALSAMO",
-      "description": "NEW YORK (AP) \u2014 As they unsuccessfully fought to keep Sean \u201cDiddy\u201d Combs out of jail after his sex trafficking arrest, the music mogul\u2019s lawyers highlighted a litany of horrors at the Brooklyn federal lockup where he was headed: horrific conditions, rampant violence and multiple deaths.",
-      "publishedAt": "2024-09-18T18:56:36Z",
-      "title": "Inside the Brooklyn federal jail where Sean \u2018Diddy\u2019 Combs is locked up: violence, squalor and death",
-      "url": "https://apnews.com/8c910839adf3ac54a8adc8d7cb3f0b79",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/dbc711284ba048de92cb6abdd50fbc44/1920.jpeg"
-    },
-    {
-      "author": "BRUCE SCHREINER",
-      "description": "FRANKFORT, Ky. (AP) \u2014 A body found in rural southeastern Kentucky is believed to be the man suspected of shooting and wounding five people on an interstate highway, authorities said Wednesday night.",
-      "publishedAt": "2024-09-18T21:34:37Z",
-      "title": "Search for suspect in Kentucky highway shooting ends with discovery of body believed to be his",
-      "url": "https://apnews.com/aaf9f458a2e715b5b3a31fbda8dba25c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/80d3449599ba4d0b8b1058e1a4242a78/3000.jpeg"
     },
     {
       "author": "SAM MEDNICK",
