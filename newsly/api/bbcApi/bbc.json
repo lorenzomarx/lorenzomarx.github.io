@@ -2,11 +2,59 @@
   "articles": [
     {
       "author": "BBC News",
-      "description": "An in-depth look at the polls and what they can and can\u2019t tell us about who will win the White House.",
+      "description": "Reports say walkie-talkies used by Hezbollah blew up a day after pager blasts killed 12 people.",
       "publishedAt": null,
-      "title": "US election polls 2024: Who is ahead - Harris or Trump?",
-      "url": "https://www.bbc.co.uk/news/articles/cj4x71znwxdo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e457/live/d48d2d60-6f55-11ef-8c1a-df523ba43a9a.png"
+      "title": "Twenty killed by second wave of Lebanon device explosions",
+      "url": "https://www.bbc.co.uk/news/articles/ce9jglrnmkvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c302/live/de0c7390-75f5-11ef-b85d-05db734995da.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Queen Camilla is said to have looked at the painting and told the artist: \"Yes, you've got him.\"",
+      "publishedAt": null,
+      "title": "King Charles: First official portrait since coronation is unveiled, painted by Jonathan Yeo",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-68981200",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11AF8/production/_133304427_c3400905-3742-4db3-b546-f919a4cdf24e.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The decision is a blow to the Harris campaign's efforts to woo working-class voters in swing states.",
+      "publishedAt": null,
+      "title": "Teamsters union declines to endorse either Harris or Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c8elwrklrk7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d693/live/bfa769d0-75f2-11ef-8aee-9bfe32559ed4.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "It is an angry, sweary version of the Duke of York in a new film about his interview with BBC Two's Newsnight programme.",
+      "publishedAt": null,
+      "title": "Prince Andrew film: No holds barred on royal scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3yyz1914o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fce5/live/0dcbb8c0-75b5-11ef-8c1a-df523ba43a9a.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "US officials say the info was sent unsolicited and there is no evidence any recipients replied",
+      "publishedAt": null,
+      "title": "US says Iran sent Biden associates info from Trump hack",
+      "url": "https://www.bbc.co.uk/news/articles/cglk9kypn36o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/171c/live/20216af0-7610-11ef-a0c2-b9ea3e64b0da.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "A second wave of communication device explosions killed at least 20 people, Lebanese officials say.",
+      "publishedAt": null,
+      "title": "Walkie-talkie explosions spark fresh day of chaos in Lebanon",
+      "url": "https://www.bbc.co.uk/news/articles/c781d8y397do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7911/live/a5755d90-75fe-11ef-b85d-05db734995da.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The social media platform X, formerly Twitter, was banned in the country on 31 August.",
+      "publishedAt": null,
+      "title": "Elon Musk's X working in Brazil after ban loophole",
+      "url": "https://www.bbc.co.uk/news/articles/cy4dn4z02emo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f8bc/live/eee777d0-75fc-11ef-b85d-05db734995da.jpg"
     },
     {
       "author": "BBC News",
@@ -18,35 +66,11 @@
     },
     {
       "author": "BBC News",
-      "description": "Reports said Israel's planned attack was not used in the way they hoped, and was triggered early.",
+      "description": "An in-depth look at the polls and what they can and can\u2019t tell us about who will win the White House.",
       "publishedAt": null,
-      "title": "Bowen: Tactical triumph for Israel, but Hezbollah won't be deterred",
-      "url": "https://www.bbc.co.uk/news/articles/c30lpyl46z3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/928a/live/ff149830-75a8-11ef-b356-959831a32da9.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Lawsuit alleges negligence and \"catastrophic failures\" on board Dali were cause of Francis Key Scott bridge crash.",
-      "publishedAt": null,
-      "title": "US sues ship owners for $100m over Baltimore bridge crash",
-      "url": "https://www.bbc.co.uk/news/articles/cgj47q3ejeqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80c9/live/266535c0-75cc-11ef-a985-29aba0fe5f9c.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Radio waves from the satellites are \"blinding\" radio telescopes and hurting research, say scientists.",
-      "publishedAt": null,
-      "title": "Elon Musk's Starlink satellites 'blocking' view of the universe",
-      "url": "https://www.bbc.co.uk/news/articles/cy4dnr8zemgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ef84/live/22878a60-75a0-11ef-8c1a-df523ba43a9a.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Dozens of Indian men have been discharged from the Russian army and are making their way home.",
-      "publishedAt": null,
-      "title": "Ukraine war: Indians who fought in Russia return home with tales from war zone",
-      "url": "https://www.bbc.co.uk/news/articles/cly6ve2x72xo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbc6/live/889f4a30-74e8-11ef-807a-672431f2b200.jpg"
+      "title": "US election polls 2024: Who is ahead - Harris or Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/cj4x71znwxdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e457/live/d48d2d60-6f55-11ef-8c1a-df523ba43a9a.png"
     },
     {
       "author": "BBC News",
@@ -55,30 +79,6 @@
       "title": "Ex-agent explains why protecting Trump is such a unique challenge",
       "url": "https://www.bbc.co.uk/news/articles/cd6qvg78z8no",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1bc6/live/6b302570-7522-11ef-b2b6-fb0fab5e97c6.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Drone wreckage causes fire in Tver region, the governor says, amid reports that a weapons depot is hit.",
-      "publishedAt": null,
-      "title": "Russia Tver region orders evacuation after Ukrainian drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/c30lp1qq6pzo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e778/live/4f2cc3b0-7572-11ef-93b1-19ac55658816.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "The US company says it will ask for court permission to start a sale process of the business.",
-      "publishedAt": null,
-      "title": "Tupperware: Embattled food container firm files for bankruptcy",
-      "url": "https://www.bbc.co.uk/news/articles/c4gdprv2ddxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/92a2/live/b8ecac40-7570-11ef-b6b8-dbe1ad87f50f.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The tech tycoon has deleted the post about assassination attempts on the president and vice-president, saying it was a joke.",
-      "publishedAt": null,
-      "title": "Secret Service 'aware' of Elon Musk post about Harris and Biden",
-      "url": "https://www.bbc.co.uk/news/articles/c74882jq39vo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58e2/live/5dfbe8b0-7484-11ef-85ed-1789b17e44e1.jpg"
     }
   ],
   "sortBy": "top",
