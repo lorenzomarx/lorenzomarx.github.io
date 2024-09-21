@@ -2,11 +2,43 @@
   "articles": [
     {
       "author": "Reuters",
+      "description": "Israel's military said on Thursday it had struck hundreds of Hezbollah rocket launchers that had been targeted at Israel.",
+      "publishedAt": "2024-09-20T09:34:42Z",
+      "title": "UN peacekeepers in Lebanon urge de-escalation after heavy airstrikes",
+      "url": "https://www.reuters.com/world/middle-east/un-peacekeepers-lebanon-urge-de-escalation-after-heavy-airstrikes-2024-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ABAW4BISK5LJBGPLZXURZ47ZTY.jpg?auth=f9ae310afbf5027b5fe2eb7a036adf14afd092564d782159baa7461d85652e7b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
       "description": "Israeli jets and artillery hit multiple targets in southern Lebanon overnight, Israel's military said on Thursday, amid spiralling tensions following the mass attack on Hezbollah communications devices this week.",
       "publishedAt": "2024-09-19T06:49:55Z",
       "title": "Israeli strikes hit multiple targets in Lebanon",
       "url": "https://www.reuters.com/world/middle-east/israeli-strikes-hit-multiple-targets-lebanon-2024-09-19/",
       "urlToImage": "https://www.reuters.com/resizer/v2/WKTZIJL7X5IZBK4YFXNQ3IEGHE.jpg?auth=3709cc21bc7cbe1c3c542df0f254ad9e36a400ae90749733e7b04f48375e2827&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli forces killed at least 14 Palestinians in tank and air strikes on north and central areas of the Gaza Strip on Friday, medics said, as tanks advanced further into northwest Rafah near the border with Egypt.",
+      "publishedAt": "2024-09-20T08:49:34Z",
+      "title": "Israeli forces deepen raid in Rafah, kill 14 people across Gaza",
+      "url": "https://www.reuters.com/world/middle-east/israeli-forces-deepen-raid-rafah-kill-14-people-across-gaza-2024-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/TKNF6T6ALRLLVPVG5NISAAHGY4.jpg?auth=1f2de4f6916db86f5d3716f6784581b675d6e8e2de4a19a95331dcfea46e83ef&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Barbara Erling, Janis Laizans",
+      "description": "A social media producer whose accounts would normally show people where to eat out and relax in the historic Polish city of Wroclaw has shifted his focus to showing people where they can volunteer to protect the city against flood waters.",
+      "publishedAt": "2024-09-20T07:49:25Z",
+      "title": "Social media mobilises Poles to battle floods in historic city",
+      "url": "https://www.reuters.com/world/europe/social-media-mobilises-poles-battle-floods-historic-city-2024-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/QXHVOW6VSBLTVG4NF3DYHX7TZM.jpg?auth=e52666982733bfe2ee0ef36dec1923ca0c107b9151dc408feb7d61fa077819da&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Charlotte Van Campenhout",
+      "description": "A knife-wielding assailant stabbed and killed a man in the Dutch port city of Rotterdam on Thursday night before he was overpowered by police and bystanders, police said.",
+      "publishedAt": "2024-09-20T06:33:18Z",
+      "title": "One dead in Rotterdam stabbing, bystanders overpower suspect",
+      "url": "https://www.reuters.com/world/europe/one-killed-rotterdam-stabbing-suspect-arrested-2024-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Trevor Hunnicutt",
@@ -17,28 +49,20 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/5CQLJH6XUZLQ3EA54W4IU65AG4.jpg?auth=c04ae87e5c366212e6263208b5219d3f9ac19c29d0e8790d536b736c408ba37b&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Barbara Erling",
-      "description": "The army said 16,000 soldiers were helping out in the region, alongside police and thousands of volunteers.",
-      "publishedAt": "2024-09-19T08:54:11Z",
-      "title": "Poland's third-largest city braces for peaking floods",
-      "url": "https://www.reuters.com/world/europe/polands-third-largest-city-braces-peaking-floods-2024-09-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/X7ED4FQ4MZO7XE6XZXS67QOW3U.jpg?auth=588dc070c07e0ea781bfb1688dd89b7f7f5953cd464443c5c3924c2f33a38c94&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Anastasiia Malenko",
-      "description": "U.N. monitoring body criticised Russia over its repeated strikes on the energy grid.",
-      "publishedAt": "2024-09-19T06:46:12Z",
-      "title": "Russia attacks Ukraine geriatric centre and power grid",
-      "url": "https://www.reuters.com/world/europe/ukraine-says-it-downed-42-drones-one-missile-russian-attacks-overnight-2024-09-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ARZ6JSB6GZOCVEINCX55THEMJQ.jpg?auth=e769dbe1f7c060ccc7595bc2f0d005c5f75fffac136bf63e7ec6a36129c6579f&height=1005&width=1920&quality=80&smart=true"
+      "author": "Navesh Chitrakar",
+      "description": "Tamils form 12% of the country's 22 million population, but have long been electorally sidelined.",
+      "publishedAt": "2024-09-20T07:11:19Z",
+      "title": "For Sri Lanka's minority Tamils, election does not offer hope",
+      "url": "https://www.reuters.com/world/asia-pacific/sri-lankas-minority-tamils-election-does-not-offer-hope-2024-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/HR4UWLJPYFMC7LV3C2PLDXJDAI.jpg?auth=ce271e6d86489068cdf3893be7fd848fc100c1820e1b5466089dddf714e496c5&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Six Palestinians were killed and 18 others injured by Israeli forces during a military raid in the occupied West Bank city of Qabatiya, the governor of Jenin told Reuters on Thursday.",
-      "publishedAt": "2024-09-19T20:02:24Z",
-      "title": "Six Palestinians killed by Israeli forces in occupied West Bank's Qabatiya",
-      "url": "https://www.reuters.com/world/middle-east/six-palestinians-killed-by-israeli-forces-occupied-west-banks-qabatiya-2024-09-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/5AOIB2EGF5I5JJGE7ZTNTSNETU.jpg?auth=dfff10b51240f16d6d97693bb4f14006854cf2880c35702ed39ef1392e3c956a&height=1005&width=1920&quality=80&smart=true"
+      "description": "Russia warned the West and Ukraine on Friday of \"disastrous consequences\" if Kyiv moved against close Russian ally Belarus, making clear it would intervene to defend a country where it has deployed tactical nuclear weapons.",
+      "publishedAt": "2024-09-20T11:00:51Z",
+      "title": "Russia warns West and Ukraine of 'disastrous consequences' if Kyiv moves against Belarus",
+      "url": "https://www.reuters.com/world/europe/russia-warns-west-ukraine-disastrous-consequences-if-kyiv-moves-against-belarus-2024-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4W72HLVZUNLOPP7ZI4DI4KQO3Q.jpg?auth=12196a1e611e9ef24e50f82b4c69ca388b4ae1f0dde252e49c1dee8ce3ccde93&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": null,
@@ -49,36 +73,12 @@
       "urlToImage": null
     },
     {
-      "author": "Gram Slattery, Tim Reid",
-      "description": "Republican presidential candidate Donald Trump said on Thursday that Jewish-American voters would be partly to blame if he loses the Nov. 5 election to Vice President Kamala Harris, the Democratic candidate.",
-      "publishedAt": "2024-09-20T04:28:55Z",
-      "title": "Donald Trump says Jews will be partly to blame if he loses election",
-      "url": "https://www.reuters.com/world/us/donald-trump-says-jews-will-be-partly-blame-if-he-loses-election-2024-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/VAIZLXZGIZI4RN2WWWLEWE54ZE.jpg?auth=95d953e0effff732e727aa195aea8f73a2a1d4b74bf8e701956164c7c8a4ed3f&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Subrata Nag Choudhury",
-      "description": "Striking junior doctors in India's West Bengal state agreed to resume essential services, in a partial resumption of medical facilities, but they will continue their strike over the rape and murder of a colleague over a month ago.",
-      "publishedAt": "2024-09-20T03:59:20Z",
-      "title": "Striking Indian doctors set to resume essential services",
-      "url": "https://www.reuters.com/world/india/striking-indian-doctors-set-resume-essential-services-2024-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/UBRYYVP2CRL5PFXWCYOZ4E3AXI.jpg?auth=8d14ad897d2baed80a57e910da7dadcca179ae9603e0db8c40ef3f9013a2967f&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Japan's ambassador to Beijing has asked for more security for Japanese nationals in China after a 10-year-old Japanese boy was killed this week in a knife attack that was the second to target school students.",
-      "publishedAt": "2024-09-20T04:17:12Z",
-      "title": "Japanese embassy in China calls for more security after school boy stabbed",
-      "url": "https://www.reuters.com/world/asia-pacific/japanese-embassy-china-calls-more-security-after-school-boy-stabbed-2024-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/HL7VLWMFNZPPHLM22GW2LRTUSM.jpg?auth=79f84f183854feb40779749bba1b372a87130a3063b5d4e6e8d03d1cdcefc679&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "U.S. arms sales to Taiwan have seriously violated China's \"One China Principle\" and provisions of joint communiques between China and the U.S., Zhang Xiaogang, a spokesperson for China's defence ministry said on Friday.",
-      "publishedAt": "2024-09-20T03:24:42Z",
-      "title": "US arm sales to Taiwan violate \"One China Principle,\" China says",
-      "url": "https://www.reuters.com/world/asia-pacific/us-arm-sales-taiwan-violate-one-china-principle-china-says-2024-09-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KU53YLFUHBKEJPSNCAXHQZT42M.jpg?auth=7df477781fda2aff116b65de28014deaa516340cd488e2b2e90a8ebb98c3d0ea&height=1005&width=1920&quality=80&smart=true"
+      "author": "Tim Kelly, Casey Hall, Ben Blanchard",
+      "description": "The lethal hack of Hezbollah's Asian-branded pagers and walkie-talkies has sparked an intense search for the devices' path, revealing a murky market for older technologies where buyers may have few assurances about what they are getting.",
+      "publishedAt": "2024-09-20T10:39:47Z",
+      "title": "Hack of Hezbollah devices exposes dark corners of Asia supply chains",
+      "url": "https://www.reuters.com/world/asia-pacific/hack-hezbollah-devices-exposes-dark-corners-asia-supply-chains-2024-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/H622BRLMURNKJLPKRSBNGWWZ7I.jpg?auth=aee4903427de89476baeeb62059aa8ecc7e8a7e9b7699787f91e2e0bd7a76142&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
