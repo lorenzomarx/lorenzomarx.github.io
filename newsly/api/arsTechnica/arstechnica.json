@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Morgan Meaker, wired.com",
+      "description": "\"Legislation has been adopted and now needs to be enforced.\"",
+      "publishedAt": "2024-09-21T11:05:32+00:00",
+      "title": "European leadership change means new adversaries for Big Tech",
+      "url": "https://www.wired.com/story/big-techs-new-adversaries-in-europe/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/eu-social-760x380.jpg"
+    },
+    {
       "author": "Stephen Clark",
       "description": "\"If the deorbit vehicle is ready, do we go ahead and bring it home?\"",
       "publishedAt": "2024-09-21T00:28:48+00:00",
@@ -49,20 +57,20 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/security-760x380.jpeg"
     },
     {
-      "author": "Samuel Axon",
+      "author": null,
       "description": "Never mind emojis\u2014here\u2019s some stuff that makes iOS more efficient.",
       "publishedAt": "2024-09-20T19:53:56+00:00",
       "title": "Reviewing iOS 18 for power users: Control Center, iCloud, and more",
-      "url": "https://arstechnica.com/gadgets/2024/09/a-quick-guide-to-ios-power-user-features-the-new-control-center-and-beyond/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Control-Center-header-760x380.jpeg"
+      "url": "https://arstechnica.com/?p=2050326",
+      "urlToImage": null
     },
     {
-      "author": "Eric Berger",
+      "author": null,
       "description": "\"This has really been a transformational year for us.\"",
       "publishedAt": "2024-09-20T18:43:33+00:00",
       "title": "One company appears to be thriving as part of NASA\u2019s return to the Moon",
-      "url": "https://arstechnica.com/space/2024/09/nasa-takes-a-giant-leap-toward-streaming-4k-video-back-from-the-moon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/IM_01766-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2051271",
+      "urlToImage": null
     },
     {
       "author": "Nate Anderson",
@@ -71,14 +79,6 @@
       "title": "Life imitates xkcd comic as Florida gang beats crypto password from retiree",
       "url": "https://arstechnica.com/security/2024/09/forget-hacking-this-gang-just-beat-people-to-steal-their-crypto/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/wrench-and-drugs-password-method-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Lawsuit: SpaceX took over \"pristine\" land CAH bought to stop Trump border wall.",
-      "publishedAt": "2024-09-20T18:24:27+00:00",
-      "title": "Cards Against Humanity sues SpaceX, alleges \u201cinvasion\u201d of land on US/Mexico border",
-      "url": "https://arstechnica.com/tech-policy/2024/09/cards-against-humanity-sues-spacex-alleges-invasion-of-land-on-us-mexico-border/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/cards-against-elon-musk-760x380.jpg"
     }
   ],
   "sortBy": "top",
