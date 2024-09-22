@@ -2,51 +2,27 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Arab-American voters in swing states like Michigan could decide who wins the US presidential election",
+      "publishedAt": null,
+      "title": "Michigan's Arab-Americans face dilemma over Harris's Gaza policy",
+      "url": "https://www.bbc.co.uk/news/articles/c8xejx07exro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6690/live/342a01c0-7772-11ef-8c1a-df523ba43a9a.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The strike in Lebanon's capital, which killed at least 14 people, adds to fears of an all-out war.",
+      "publishedAt": null,
+      "title": "Beirut strike: Top Hezbollah commander killed in Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/c5y9wyy9pr2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82eb/live/6d179900-7765-11ef-810e-397f19423bb9.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "The Democratic presidential nominee has discussed her gun ownership in a jokey exchange with Oprah Winfrey.",
       "publishedAt": null,
       "title": "Harris says anyone breaking into her home is 'getting shot'",
       "url": "https://www.bbc.co.uk/news/articles/cn4yxe2xxzdo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b65b/live/25f33cf0-7733-11ef-8c1a-df523ba43a9a.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "More than 70,000 Russian soldiers have died in Ukraine - volunteers now make up the highest number of deaths.",
-      "publishedAt": null,
-      "title": "Russia\u2019s war dead tops 70,000 as volunteers face 'meat grinder'",
-      "url": "https://www.bbc.co.uk/news/articles/cjr3255gpjgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5921/live/a421a040-76b5-11ef-b282-4535eb84fe4b.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The sabotage of thousands of pagers and walkie-talkies has raised many who, what and whys.",
-      "publishedAt": null,
-      "title": "Hezbollah device explosions: The unanswered questions",
-      "url": "https://www.bbc.co.uk/news/articles/c0e1wpr0q44o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5adf/live/168e1730-7729-11ef-b282-4535eb84fe4b.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The 1979 accident at Three Mile Island had cast a shadow on nuclear power in the US for decades.",
-      "publishedAt": null,
-      "title": "Three Mile Island nuclear site to reopen in Microsoft deal",
-      "url": "https://www.bbc.co.uk/news/articles/cx25v2d7zexo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ec6/live/788c84b0-7762-11ef-861f-71b4ea79cd37.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "A team of volunteer archaeologists in Normandy has had a surprise communication from the past.",
-      "publishedAt": null,
-      "title": "French dig team gets 200-year-old note from archaeologist",
-      "url": "https://www.bbc.co.uk/news/articles/c5yj7kg3zd1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b7f7/live/6ea1f120-7676-11ef-b1c4-496bb3338395.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The IDF says the incident does not \"conform\" to its values, while Palestinian officials say it is a \"crime\".",
-      "publishedAt": null,
-      "title": "Israel investigates after its soldiers filmed throwing bodies off roof",
-      "url": "https://www.bbc.co.uk/news/articles/cn8jg0x5xg8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a6e6/live/46c0e6a0-7754-11ef-b02d-c5f3b724a1ea.jpg"
     },
     {
       "author": "BBC News",
@@ -58,6 +34,38 @@
     },
     {
       "author": "BBC News",
+      "description": "A study suggests 54% of Ukrainians suffer from PTSD as Russia's war of conquest grinds on.",
+      "publishedAt": null,
+      "title": "Ukraine war: Mental health crisis grows in shattered country",
+      "url": "https://www.bbc.co.uk/news/articles/c20mn1z3vm6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/20e2/live/45e87c50-7675-11ef-b02d-c5f3b724a1ea.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The IDF says the incident does not \"conform\" to its values, while Palestinian officials say it is a \"crime\".",
+      "publishedAt": null,
+      "title": "Israel investigates after its soldiers filmed throwing bodies off roof",
+      "url": "https://www.bbc.co.uk/news/articles/cn8jg0x5xg8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a6e6/live/46c0e6a0-7754-11ef-b02d-c5f3b724a1ea.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The 1979 accident at Three Mile Island had cast a shadow on nuclear power in the US for decades.",
+      "publishedAt": null,
+      "title": "Three Mile Island nuclear site to reopen in Microsoft deal",
+      "url": "https://www.bbc.co.uk/news/articles/cx25v2d7zexo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ec6/live/788c84b0-7762-11ef-861f-71b4ea79cd37.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The hip-hop mogul is accused of sex trafficking involving drug-fuelled orgies known as \"freak-offs\".",
+      "publishedAt": null,
+      "title": "Sean 'Diddy' Combs: What's a 'freak off', and what are the accusations against him?",
+      "url": "https://www.bbc.co.uk/news/articles/c869qd5j09xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de55/live/a19cdac0-75b0-11ef-85d0-83a5bb291f55.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "An in-depth look at the polls and what they can and can\u2019t tell us about who will win the White House.",
       "publishedAt": null,
       "title": "US election polls tracker 2024: Who is ahead - Harris or Trump?",
@@ -66,19 +74,11 @@
     },
     {
       "author": "BBC News",
-      "description": "Dr Shah Nawaz is the second blasphemy suspect to be shot dead by police in the space of a week.",
+      "description": "The agency's director cites a failure to secure the building the shooter fired from among a litany of security breakdowns.",
       "publishedAt": null,
-      "title": "Pakistani blasphemy: Suspect dead in alleged shootout with police",
-      "url": "https://www.bbc.co.uk/news/articles/cz9pg8d4245o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c80d/live/ac580150-7737-11ef-8fc1-d5cebdd30c6b.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "The BBC visits the border with Myanmar, where a war is raging on China\u2019s doorstep.",
-      "publishedAt": null,
-      "title": "Myanmar's civil war threatens key China trade route",
-      "url": "https://www.bbc.co.uk/news/articles/czjyj2rd1zpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3c6a/live/d84c53b0-7665-11ef-8c1a-df523ba43a9a.jpg"
+      "title": "Secret Service admits 'complacency' before Trump rally shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c870dx37y2qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cfb9/live/90337670-779c-11ef-82fc-8f6b668b4a57.jpg"
     }
   ],
   "sortBy": "top",
