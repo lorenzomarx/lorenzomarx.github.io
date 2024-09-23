@@ -1,23 +1,75 @@
 {
   "articles": [
     {
-      "author": "Alex Yoon-Hendricks",
-      "content": "Tall, smart, athletic and blessed with a commanding voice and an integrity that earned him the nickname Straight Arrow, former Gov. Dan Evans, who died Friday at the age of 98, had all the qualities \u2026 [+9895 chars]",
-      "description": "Evans, the three-term Republican governor and U.S. senator who never lost a political race after high school, died Friday.",
-      "publishedAt": "2024-09-22T00:19:50Z",
+      "author": "Max Olson",
+      "content": "AUSTIN, Texas -- Arch Manning threw for 258 yards with two touchdowns and two interceptions in his first career start at Texas, leading a 51-3 win over UL Monroe in relief of injured starter Quinn Ew\u2026 [+1291 chars]",
+      "description": "Picked off on Texas' first drive, Arch Manning settled in and finished with 258 yards and two touchdowns in his first career start as the No. 1 Longhorns routed UL Monroe.",
+      "publishedAt": "2024-09-22T03:56:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Manning keeps No. 1 Texas rolling in first start - ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/41370391/arch-manning-keeps-no-1-texas-rolling-rout-ul-monroe",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0922%2Fr1389993_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "JON GAMBRELL",
+      "content": "DUBAI, United Arab Emirates (AP) Israeli troops raided the offices of the satellite news network Al Jazeera in the Israeli-occupied West Bank early Sunday, ordering the bureau to shut down amid a wid\u2026 [+5248 chars]",
+      "description": "Israeli troops have raided the offices of the satellite news network Al Jazeera in the Israeli-occupied West Bank. The troops ordered the bureau to shut down early Sunday amid a widening campaign by Israel targeting the Qatar-funded broadcaster as it covers t\u2026",
+      "publishedAt": "2024-09-22T03:49:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Israel raids and shuts down Al Jazeera\u2019s bureau in Ramallah in the West Bank - The Associated Press",
+      "url": "https://apnews.com/article/israel-palestinians-al-jazeera-gaza-war-hamas-4abdb2969e39e7ad99dfbf9caa7bb32c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bbd5a4a/2147483647/strip/true/crop/1920x1080+0+2/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F1e%2Fde6057bdc12d1cae8f99cb19bc19%2F6e4ed1d4fa084cfe9887260936b1ed0f"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-09-22T03:22:30Z",
       "source": {
         "id": null,
-        "name": "The Seattle Times"
+        "name": "[Removed]"
       },
-      "title": "Former WA Gov. Dan Evans dies at 98 - The Seattle Times",
-      "url": "https://www.seattletimes.com/seattle-news/former-wa-gov-dan-evans-dies-at-98/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/09/09212024_tzr_tzr_120245.jpg?d=1200x630"
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Eyewitness News",
+      "content": "NEW YORK (WABC) -- Federal authorities are now investigating Interim Police Commissioner Thomas Donlon just days into the job.\r\nDonlon says authorities executed search warrants at his home on Friday.\u2026 [+1224 chars]",
+      "description": "Donlon says authorities executed search warrants at his home on Friday. He says agents took materials that came into his possession 20 years ago.",
+      "publishedAt": "2024-09-22T03:21:53Z",
+      "source": {
+        "id": null,
+        "name": "WABC-TV"
+      },
+      "title": "Federal authorities execute search warrants at home of Interim Police Commissioner Thomas Donlon - ABC7 New York",
+      "url": "https://abc7ny.com/post/federal-authorities-execute-search-warrants-home-interim-police-commissioner-thomas-donlon/15337543/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15337559_092124-donlon.jpg?w=1600"
+    },
+    {
+      "author": "James Marson",
+      "content": null,
+      "description": "The Wall Street Journal was granted rare access to the patch of land that Ukraine recaptured in summer 2022",
+      "publishedAt": "2024-09-22T03:00:00Z",
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "title": "Exclusive | On Ukraine\u2019s Snake Island, the Heart of the Battle for the Black Sea - The Wall Street Journal",
+      "url": "https://www.wsj.com/world/on-ukraines-snake-island-the-heart-of-the-battle-for-the-black-sea-5bc5744d",
+      "urlToImage": "https://images.wsj.net/im-02585858/social"
     },
     {
       "author": "BASSEM MROUE, ABBY SEWELL",
       "content": "BEIRUT, Lebanon (AP) The Lebanese militant group Hezbollah announced that it fired a barrage of missiles at a military base deep inside Israel early Sunday following an Israeli airstrike more than a \u2026 [+7084 chars]",
       "description": "The Lebanese militant group Hezbollah has announced that it fired a barrage of missiles at a military base deep inside Israel following an Israeli airstrike more than a day earlier that killed at least 37 people, including one of the militant group\u2019s senior l\u2026",
-      "publishedAt": "2024-09-21T23:55:00Z",
+      "publishedAt": "2024-09-22T02:55:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
@@ -27,82 +79,160 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/7f4557a/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F97%2F082685dc88d3745fd674c726374d%2F5ede35c0d0f9460aa7565328ebfe4880"
     },
     {
-      "author": "Aaron McMann | amcmann@mlive.com",
-      "content": "ANN ARBOR, Mich. A new quarterback helped breathe life into the Michigan football team, but it was running back Kalel Mullings who helped save the day.\r\nThe senior running back turned in a career day\u2026 [+2730 chars]",
-      "description": "Late TD, career day from Kalel Mullings propels Wolverines to 27-24 victory",
-      "publishedAt": "2024-09-21T23:22:00Z",
+      "author": "Eric Bradner",
+      "content": "Donald Trump returned Saturday for a campaign rally in North Carolina, where the former president is confronting a mess he played a key role in making in the critical battleground state.\r\nThe Republi\u2026 [+6676 chars]",
+      "description": "Donald Trump returns Saturday for a campaign rally in North Carolina, where the former president is confronting a mess he played a key role in making in the critical battleground state.",
+      "publishedAt": "2024-09-22T02:27:00Z",
       "source": {
-        "id": null,
-        "name": "mlive.com"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Michigan football wins thriller over USC to open Big Ten play - MLive.com",
-      "url": "https://www.mlive.com/wolverines/2024/09/michigan-football-wins-thriller-over-usc-to-open-big-ten-play.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/7ETPC4ZX3VE35EANSSJDCBD22A.JPG?auth=e90233bc60016ac8de4ce1037627b56e15c949c9218021239f0b8a64e5b7f3d3&width=1280&quality=90"
+      "title": "Trump rallies in North Carolina as controversy engulfs his handpicked candidate for governor - CNN",
+      "url": "https://www.cnn.com/2024/09/21/politics/donald-trump-north-carolina-mark-robinson/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1239877314.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "",
-      "content": "No. 6 Tennessee makes the trip to No. 15 Oklahoma\u00a0for one of Week 4's marquee matchups which will make SEC history. Obviously, it's an important matchup as the SEC opener for both teams, but there ar\u2026 [+4746 chars]",
-      "description": "Tennessee and Oklahoma open their respective SEC slates in one of Week 4's marquee clashes",
-      "publishedAt": "2024-09-21T23:15:00Z",
+      "author": "Lucia Suarez Sang",
+      "content": "Vice President Kamala Harris has accepted CNN's invitation for a possible second debate and has challenged former President Donald Trump to join her.\r\nHarris campaign chair Jen O'Malley Dillon said i\u2026 [+2253 chars]",
+      "description": "The Kamala Harris campaign was quick to call for a second debate between the two nominees shortly after their Sept. 10 meeting on ABC wrapped.",
+      "publishedAt": "2024-09-22T01:29:25Z",
       "source": {
-        "id": null,
-        "name": "CBS Sports"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "title": "Tennessee vs. Oklahoma live stream, where to watch, TV channel, prediction, pick, spread, football game odds - CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/tennessee-vs-oklahoma-live-stream-where-to-watch-tv-channel-prediction-pick-spread-football-game-odds/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/18/13a85da3-8129-465b-814f-51377ea8c0ad/thumbnail/1200x675/5bdb16f8fd4e8d7009635f58ad694348/jackson-arnold-tenn-1.jpg"
+      "title": "Harris accepts invitation for 2nd presidential debate, Trump says \"it's just too late\" for another one - CBS News",
+      "url": "https://www.cbsnews.com/news/harris-trump-debate-cnn-invitation/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/21/0be9d5db-2f29-4fac-9ba5-f45a5795b63a/thumbnail/1200x630g2/6b074af14185b80a055e80d40494419d/ap24265015225372.jpg?v=159d4576ec63c034c87559bf5085176a"
     },
     {
       "author": "POLITICO",
       "content": null,
       "description": null,
-      "publishedAt": "2024-09-21T22:24:20Z",
+      "publishedAt": "2024-09-22T01:28:12Z",
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "title": "Trump went to N.C. and didn\u2019t mention Mark Robinson this time - POLITICO",
-      "url": "https://www.politico.com/news/2024/09/21/trump-nc-rally-mark-robinson-00180368",
+      "title": "Ukrainian President Zelenskyy will visit a Pennsylvania ammunition factory to thank workers - POLITICO",
+      "url": "https://www.politico.com/news/2024/09/21/zelenskyy-will-visit-a-pennsylvania-ammunition-factory-to-thank-workers-00180373",
       "urlToImage": null
     },
     {
-      "author": "Natalie Oganesyan, Dominic Patten",
-      "content": "Janet Jackson knows a lot about Rhythm Nation, but she clearly doesn\u2019t know anything about Vice President Kamala Harris\u2018 heritage.\r\nIn a sprawling and at times confusing interview with The Guardian, \u2026 [+3059 chars]",
-      "description": "In an interview with The Guardian, Jackson postulated about Kamala Harris' family background, parroting right-wing talking points.",
-      "publishedAt": "2024-09-21T22:05:00Z",
+      "author": "Eduardo Cuevas",
+      "content": "The mother of the 14-year-old Georgia student charged in the Apalachee High School shooting that killed four people has been indicted in a domestic violence case involving her mother in 2023, accordi\u2026 [+2583 chars]",
+      "description": "Marcee Gray was indicted in a domestic violence case involving her mother in 2023, according to reports.",
+      "publishedAt": "2024-09-22T00:06:03Z",
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Mother of Georgia school shooting suspect indicted on elder abuse charges, report says - USA TODAY",
+      "url": "https://www.usatoday.com/story/news/nation/2024/09/21/georgia-school-shooting-suspect-mother-indicted/75330611007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/11/USAT/75182441007-xxx-2024-apalachee-school-shooting-th-1490.JPG?crop=2159,1215,x0,y810&width=2159&height=1215&format=pjpg&auto=webp"
+    },
+    {
+      "author": "",
+      "content": "North Carolina coach Mack Brown told his team following Saturday's 70-50 loss to James Madison that he would \"walk away and step down if he was the problem,\" sources told 247Sports' Inside Carolina. \u2026 [+1651 chars]",
+      "description": "North Carolina's players supported Brown and took the blame for the loss",
+      "publishedAt": "2024-09-22T00:01:00Z",
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "CBS Sports"
       },
-      "title": "Janet Jackson Goes On Bizarre Kamala Harris Tangent Over VP\u2019s Family And Heritage - Deadline",
-      "url": "http://deadline.com/2024/09/janet-jackson-interview-kamala-harris-race-1236096441/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/09/kamala-janet.jpg?w=1000"
+      "title": "Mack Brown offered to step down after stunning loss to James Madison, rebuffed by North Carolina players - CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/mack-brown-offered-to-step-down-after-stunning-loss-to-james-madison-rebuffed-by-north-carolina-players/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/21/d7aea677-9b92-4193-8d8b-553ce5378aca/thumbnail/1200x675/8c8ce488bdabaa0453e37cd7dfebd3a7/file-2024-09-21t195653-678.jpg"
     },
     {
-      "author": "Nick Parkinson",
-      "content": "LONDON -- Daniel Dubois left Anthony Joshua's career in disarray after knocking out his English rival with a right to the jaw in Round 5 in a first defense of his IBF world heavyweight title Saturday\u2026 [+4716 chars]",
-      "description": "Daniel Dubois left Anthony Joshua's career in disarray after knocking out his English rival with a right to the jaw in Round 5 in a first defense of his IBF world heavyweight title Saturday.",
-      "publishedAt": "2024-09-21T21:40:00Z",
+      "author": "Reuters, Tara Prindiville",
+      "content": "Leaders of Australia, India, Japan and the United States announced plans for new security initiatives in the Indian Ocean on Saturday, while outgoing U.S. President Joe Biden is hosting counterparts \u2026 [+5577 chars]",
+      "description": "Leaders of Australia, India, Japan and the United States announced plans for new security initiatives in the Indian Ocean, when outgoing President Joe Biden hosted counterparts from the Quad grouping established due to shared concerns about China.",
+      "publishedAt": "2024-09-21T23:18:25Z",
       "source": {
-        "id": "espn",
-        "name": "ESPN"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "title": "Dubois upsets Joshua with stunning 5th-round KO - ESPN",
-      "url": "https://www.espn.com/boxing/story/_/id/41364598/daniel-dubois-anthony-joshua-retains-ibf-heavyweight-title-wembley-ko",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0921%2Fr1389827_1296x729_16%2D9.jpg"
+      "title": "Indo-Pacific leaders expand maritime security cooperation at Biden\u2019s farewell summit - NBC News",
+      "url": "https://www.nbcnews.com/politics/joe-biden/quad-maritime-security-cooperation-biden-farewell-summit-rcna172118",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240921-joe-biden-quad-summit-wm-303p-65c92e.jpg"
     },
     {
-      "author": "ABC News",
+      "author": "Emell Derra Adolphus",
+      "content": "The Menendez brothers have slammed Ryan Murphys new Netflix series, Monsters: The Lyle and Erik Menendez Story, for what they say are awful lies and ruinous character portrayals in the show.\r\nLyle an\u2026 [+1842 chars]",
+      "description": "\u201cHow demoralizing to know that one man with power can undermine decades of progress,\u201d wrote Erik Menendez about his depiction in the Ryan Murphy-produced \u201cMonsters.\u201d",
+      "publishedAt": "2024-09-21T23:15:21Z",
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "title": "Menendez Brothers Slam \u2018Ruinous\u2019 Netflix Show\u2019s Portrayal - The Daily Beast",
+      "url": "https://www.thedailybeast.com/menendez-brothers-slam-ryan-murphys-monsters-netflix-show",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1247,w_2219,x_8,y_216/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1726936787/GettyImages-1462355302_qp7ish"
+    },
+    {
+      "author": null,
+      "content": "French President Emmanuel Macron has unveiled his new government almost three months after a snap general election delivered a hung parliament.\r\nThe long-awaited new line up, led by Prime Minister Mi\u2026 [+2723 chars]",
+      "description": "The new cabinet pulls in allies from the centre and right, despite left-wing parties winning France's election.",
+      "publishedAt": "2024-09-21T22:56:46Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "French President Emmanuel Macron announces new right-wing government - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c8rd52zl018o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dda4/live/24562180-7861-11ef-8c1a-df523ba43a9a.jpg"
+    },
+    {
+      "author": "POLITICO",
       "content": null,
       "description": null,
-      "publishedAt": "2024-09-21T21:23:07Z",
+      "publishedAt": "2024-09-21T22:42:05Z",
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": "politico",
+        "name": "Politico"
       },
-      "title": "Cal Fire employee arrested in connection with off-duty arson - ABC News",
-      "url": "https://abcnews.go.com/US/cal-fire-employee-arrested-connection-off-duty-arson/story?id\\\\u003d113901339",
+      "title": "An Israeli strike on a school kills at least 22 people, Gaza Health Ministry says - POLITICO",
+      "url": "https://www.politico.com/news/2024/09/21/israeli-strike-on-school-kills-at-least-22-gaza-health-ministry-00180367",
       "urlToImage": null
+    },
+    {
+      "author": "Benj Edwards, Ars Technica",
+      "content": "On Saturday, a YouTube creator called ChromaLock published a video detailing how he modified a Texas Instruments TI-84 graphing calculator to connect to the internet and access OpenAI's ChatGPT, pote\u2026 [+3236 chars]",
+      "description": "Cheaters of the world, rejoice. Although you're going to need some serious hardware skills.",
+      "publishedAt": "2024-09-21T21:30:00Z",
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "title": "Some Mad Genius Put ChatGPT on a TI-84 Graphing Calculator - WIRED",
+      "url": "https://www.wired.com/story/chatgpt-on-a-ti-84-graphing-calculator-cheating-device/",
+      "urlToImage": "https://media.wired.com/photos/66edf5f1474edc0daa4c9f57/191:100/w_1280,c_limit/Ars_TI-84_GettyImages-458705775.jpg"
+    },
+    {
+      "author": null,
+      "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n\u2026 [+105 chars]",
+      "description": null,
+      "publishedAt": "2024-09-21T21:17:13Z",
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "title": "Elon Musk complies with Brazilian court\u2019s legal demands for X - Financial Times",
+      "url": "https://www.ft.com/content/a5fb842a-2c57-48ad-bb57-349903300821",
+      "urlToImage": null
+    },
+    {
+      "author": "Michael Levitt",
+      "content": "Earth will be hosting a new guest this fall.\r\nNo, it's not an alien. It's an asteroid.\r\nThe space rock, which has been named 2024 PT5, has been traveling along its normal path around the sun, but wil\u2026 [+1834 chars]",
+      "description": "An newly discovered asteroid will be captured by Earth's gravity this fall. The \"mini-moon\" will spend about two months in Earth's orbit, before being flung back on its normal path around the sun.",
+      "publishedAt": "2024-09-21T20:57:44Z",
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "title": "A new 'mini-moon' comes to Earth this fall - NPR",
+      "url": "https://www.npr.org/2024/09/21/nx-s1-5121914/mini-moon-earth-asteroid",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+436/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F3f%2Fcf9c8c624d6587afa80d60ba0f03%2Fgettyimages-1244816556.jpg"
     },
     {
       "author": "Jason Ma",
@@ -118,147 +248,17 @@
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-2172944676_8dad7e-e1726946780515.jpg?resize=1200,600"
     },
     {
-      "author": null,
-      "content": "CAMERON COUNTY, Texas \u2014 The maker of the popular party game Cards Against Humanity is accusing Elon Musk's SpaceX of trespassing on and damaging a plot of vacant land the company owns in Texas.\r\nIn a\u2026 [+1084 chars]",
-      "description": "The company is asking for $15 million in damages, which it says includes a loss of vegetation on the land.",
-      "publishedAt": "2024-09-21T20:39:25Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Elon Musk's SpaceX sued by Cards Against Humanity over alleged trespassing in Texas - CBS News",
-      "url": "https://www.cbsnews.com/texas/news/elon-musks-spacex-sued-by-cards-against-humanity-alleged-trespassing-texas/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/08/30/e485f21b-e58e-4137-bf96-a677e2d9995f/thumbnail/1200x630/7cd5dbb27429eeda455484d4939e1140/ap24242042810863.jpg?v=159d4576ec63c034c87559bf5085176a"
-    },
-    {
-      "author": "Samantha Waldenberg",
-      "content": "Vice President Kamala Harris\u00a0on Saturday\u00a0accepted an invitation from CNN to debate former President Donald Trump on October 23, challenging her rival to another engagement on a public stage in the fi\u2026 [+2851 chars]",
-      "description": "Vice President Kamala Harris\u00a0on Saturday\u00a0accepted an invitation from CNN to debate former President Donald Trump on October 23, challenging her rival to another engagement on a public stage in the final weeks of the campaign.",
-      "publishedAt": "2024-09-21T20:10:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Harris accepts CNN debate invitation for October 23, again challenging Trump to another showdown - CNN",
-      "url": "https://www.cnn.com/2024/09/21/politics/presidential-debate-harris-trump-cnn/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240913-trumpharrisrallies-full16x9.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Ian Casselberry",
-      "content": "James Madison quarterback Alonza Barnett III (14) celebrates with Tanner Morris (58) after Barnett threw a touchdown pass against the North Carolina on Saturday in Chapel Hill, North Carolina. (Photo\u2026 [+2820 chars]",
-      "description": "James Madison stunned previously undefeated North Carolina, blowing out the Tar Heels, 70-50, in Chapel Hill.",
-      "publishedAt": "2024-09-21T20:09:08Z",
+      "author": "",
+      "content": "Millions of people with diabetes need insulin to survive. For years, many of them have been forced to pay exorbitant prices for a product that's inexpensive to make. Now, the federal government is ta\u2026 [+3182 chars]",
+      "description": "The Federal Trade Commission said pharmacy benefit managers created a \"perverse drug rebate system\" that artificially inflated the cost of insulin.",
+      "publishedAt": "2024-09-21T20:06:39Z",
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "NPR"
       },
-      "title": "James Madison scores school-record 53 first-half points in 70-50 win at North Carolina - Yahoo Sports",
-      "url": "https://sports.yahoo.com/james-madison-scores-school-record-53-first-half-points-in-70-50-win-at-north-carolina-200001767.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Jwb3G9rndzL_mK5iiCBR.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/1067bd60-7847-11ef-8ff6-7b27bf5fbf05"
-    },
-    {
-      "author": null,
-      "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n\u2026 [+105 chars]",
-      "description": null,
-      "publishedAt": "2024-09-21T19:59:58Z",
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "title": "French prime minister takes rightward tilt with new government - Financial Times",
-      "url": "https://www.ft.com/content/278f9e38-58e9-476d-b4a4-c56790aac536",
-      "urlToImage": null
-    },
-    {
-      "author": "David Axe",
-      "content": "Tikhoretsk explodes.\r\nVia social media\r\nFour days after blowing up a huge Russian ammunition stockpile in the town of Toropets, in western Russia 300 miles from Ukraine, Ukrainian drones struck again\u2026 [+3753 chars]",
-      "description": "The ammo stockpile in Tikhoretsk is\u2014or was\u2014one of the biggest in Russia.",
-      "publishedAt": "2024-09-21T19:56:29Z",
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "title": "Ukrainian Drones Just Blew Up 2,000 Tons Of Ammo in Southern Russia - Forbes",
-      "url": "https://www.forbes.com/sites/davidaxe/2024/09/21/ukrainian-drones-just-blew-up-2000-tons-of-ammo-in-southern-russia/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66ef23af3fe9d51ea15e9151/0x0.jpg?format=jpg&crop=665,443,x0,y62,safe&height=900&width=1600&fit=bounds"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Erik Menendez isn't a fan of \"demoralizing\" Ryan Murphy-led Netflix series about his crimes",
-      "publishedAt": "2024-09-21T19:41:00Z",
-      "source": {
-        "id": null,
-        "name": "Salon"
-      },
-      "title": "\"Is the truth not enough?\": Erik Menendez slams portrayal in Murphy's \"Monsters\" - Salon",
-      "url": "https://www.salon.com/2024/09/21/is-the-truth-not-enough-erik-menendez-slams-portrayal-in-murphys-monsters/",
-      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/09/menendez.jpg"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-09-21T19:38:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Miranda Siwak",
-      "content": null,
-      "description": "Tia Mowry hints in a trailer for her WeTV series, \u2018Tia Mowry: My Next Act,\u2019 that she is no longer \u2018close\u2019 to her twin sister, Tamera Mowry",
-      "publishedAt": "2024-09-21T18:52:54Z",
-      "source": {
-        "id": null,
-        "name": "Us Weekly"
-      },
-      "title": "Tia Mowry Wishes She Was \u2018Still Close\u2019 to Twin Tamera Mowry After Getting Divorced - Us Weekly",
-      "url": "https://www.usmagazine.com/celebrity-news/news/tia-mowry-wishes-she-was-still-close-to-twin-tamara-mowry/#article",
-      "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2024/09/Tia-Mowry-Admits-Shes-Not-Close-to-Twin-Tamara-01-2024.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=40&strip=all"
-    },
-    {
-      "author": "Timothy Nerozzi",
-      "content": "President Biden is meeting privately with the three other world leaders that make up the Quadrilateral Security Dialogue at his Delaware estate.\r\nThe White House released statements acknowledging the\u2026 [+3053 chars]",
-      "description": "Biden has met with the leaders of Japan, India and Australia privately at his Wilmington, Delaware home ahead of the secretive Quadrilateral Security Dialogue meeting this weekend.",
-      "publishedAt": "2024-09-21T18:07:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Biden begins private meetings with world leaders at Delaware home ahead of secretive Quard meeting - Fox News",
-      "url": "https://www.foxnews.com/politics/biden-begins-private-meetings-world-leaders-delaware-home-ahead-secretive-quad-meeting",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/GettyImages-2171641220-scaled-e1726940959638.jpg"
-    },
-    {
-      "author": null,
-      "content": "A man suspected of the brutal killing of two women in Australia nearly a half-century ago has been arrested in Rome on an international arrest warrant, Italian news agency ANSA reported on Saturday.\r\u2026 [+1726 chars]",
-      "description": "The 65-year-old suspect is accused of killing two young women in January 1977.",
-      "publishedAt": "2024-09-21T17:46:36Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Suspect in 1977 \"Easey Street murders,\" Melbourne's oldest cold case, arrested in Italy - CBS News",
-      "url": "https://www.cbsnews.com/news/melbourne-easey-street-murders-arrest/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/05/695f4885-85c4-4f91-8b78-97c95bf1b390/thumbnail/1200x630/8e6f965f79bf7428f7ab0e9f6a48a7ae/gettyimages-1422110945.jpg?v=159d4576ec63c034c87559bf5085176a"
-    },
-    {
-      "author": "Cody Corrall",
-      "content": "Amazon CEO Andy Jassyis calling for a full return to office at the start of 2025. For the last 15 months, employees have been expected to work in the office three days per week. Now employees will be\u2026 [+4149 chars]",
-      "description": "Amazon CEO Andy Jassy is calling for a full return to office at the start of 2025. For the last 15 months, employees have been expected to work in the",
-      "publishedAt": "2024-09-21T17:05:00Z",
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "title": "Amazon says no to remote work - TechCrunch",
-      "url": "https://techcrunch.com/2024/09/21/amazon-says-no-to-remote-work/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1225206034.jpg?resize=1200,800"
+      "title": "FTC sues insulin middlemen, saying they pocket billions while patients face high costs - NPR",
+      "url": "https://www.npr.org/2024/09/21/nx-s1-5121886/insulin-ftc-lawsuit-pharmacy-benefit-manager",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4928x2772+0+149/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2Fd6%2F94f23c6d4787abaa0fef9a0d45e7%2Fgettyimages-492437680.jpg"
     }
   ],
   "status": "ok",
