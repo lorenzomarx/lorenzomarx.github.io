@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Jennifer Ouellette",
+      "description": "\"Everyone here has done bad things. Someone wants us gone.\"",
+      "publishedAt": "2024-09-23T16:06:58+00:00",
+      "title": "Florence Pugh\u2019s depressed assassin finds her crew in Thunderbolts* teaser",
+      "url": "https://arstechnica.com/culture/2024/09/things-could-get-messy-for-these-misfits-in-thunderbolts-extended-teaser/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/boltTOP-760x380.jpg"
+    },
+    {
+      "author": "Jon Brodkin",
+      "description": "X announces reversal but must prove compliance before it can be reinstated.",
+      "publishedAt": "2024-09-23T15:52:14+00:00",
+      "title": "Elon Musk\u2019s X gives up fight in Brazil, starts complying with judge\u2019s demands",
+      "url": "https://arstechnica.com/tech-policy/2024/09/elon-musks-x-gives-up-fight-in-brazil-starts-complying-with-judges-demands/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/x-brazil-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "NotebookLM's \"Audio Summaries\" show a more personable future for AI-generated content.",
+      "publishedAt": "2024-09-23T15:40:31+00:00",
+      "title": "Fake AI \u201cpodcasters\u201d are reviewing my book and it\u2019s freaking me out",
+      "url": "https://arstechnica.com/ai/2024/09/fake-ai-podcasters-are-reviewing-my-book-and-its-freaking-me-out/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/minsweeper-ai-podcast-no-cover-760x380.jpg"
+    },
+    {
+      "author": "Teresa Carr, Undark Magazine",
+      "description": "Governments are banking on this old drug in the event of an H5N1 outbreak.",
+      "publishedAt": "2024-09-23T14:54:53+00:00",
+      "title": "Can our stockpiles of Tamiflu protect against a bird flu pandemic?",
+      "url": "https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/tamiflu-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "The ban would start in model-year 2027 for software and MY2030 for hardware.",
+      "publishedAt": "2024-09-23T14:38:38+00:00",
+      "title": "US to ban Chinese connected car software and hardware, citing security risks",
+      "url": "https://arstechnica.com/cars/2024/09/us-to-ban-chinese-connected-car-software-and-hardware-citing-security-risks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1493124809-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Deep Blue Aerospace is just one of several Chinese companies working on vertical landing.",
+      "publishedAt": "2024-09-23T13:04:22+00:00",
+      "title": "A Chinese rocket narrowly missed a landing on Sunday\u2014the video is amazing",
+      "url": "https://arstechnica.com/space/2024/09/a-chinese-rocket-narrowly-missed-a-landing-on-sunday-the-video-is-amazing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/nebula-1-760x380.jpg"
+    },
+    {
       "author": "Scharon Harding",
       "description": "Brighter and tougher, Tandem RGB stacks may help OLED keep its display reign.",
       "publishedAt": "2024-09-23T11:00:38+00:00",
@@ -31,54 +79,6 @@
       "title": "European leadership change means new adversaries for Big Tech",
       "url": "https://www.wired.com/story/big-techs-new-adversaries-in-europe/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/eu-social-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "\"If the deorbit vehicle is ready, do we go ahead and bring it home?\"",
-      "publishedAt": "2024-09-21T00:28:48+00:00",
-      "title": "NASA has a fine plan for deorbiting the ISS\u2014unless Russia gets in the way",
-      "url": "https://arstechnica.com/space/2024/09/nasa-has-a-fine-plan-for-deorbiting-the-iss-unless-russia-gets-in-the-way/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/iss056e201248large-760x380.jpg"
-    },
-    {
-      "author": "Kat Friedrich",
-      "description": "When size and weight don't matter, lots of other battery chemistries can work.",
-      "publishedAt": "2024-09-20T22:15:58+00:00",
-      "title": "Grid-scale batteries: They\u2019re not just lithium",
-      "url": "https://arstechnica.com/science/2024/09/grid-scale-batteries-theyre-not-just-lithium/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1357438084-760x380.jpg"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The infection is very rare, but it's definitely one you want to avoid.",
-      "publishedAt": "2024-09-20T22:11:55+00:00",
-      "title": "Human cases of raccoon parasite may be your best excuse to buy a flamethrower",
-      "url": "https://arstechnica.com/science/2024/09/human-cases-of-raccoon-parasite-may-be-your-best-excuse-to-buy-a-flamethrower/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-672838251-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "A DOJ win in Google's ad tech monopoly trial could benefit everyone, experts say.",
-      "publishedAt": "2024-09-20T21:42:09+00:00",
-      "title": "How breaking up Google could lower your online shopping bill",
-      "url": "https://arstechnica.com/tech-policy/2024/09/breaking-up-google-could-make-online-ads-less-terrible/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/google-ad-apocalypse-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Tiny device installed inside TI-84 enables Wi-Fi Internet, access to AI chatbot.",
-      "publishedAt": "2024-09-20T21:15:43+00:00",
-      "title": "Secret calculator hack brings ChatGPT to the TI-84, enabling easy cheating",
-      "url": "https://arstechnica.com/information-technology/2024/09/secret-calculator-hack-brings-chatgpt-to-the-ti-84-enabling-easy-cheating/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/maxresdefault-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "WHOIS data is unreliable. So why is it used in TLS certificate applications?",
-      "publishedAt": "2024-09-20T20:53:25+00:00",
-      "title": "Google calls for halting use of WHOIS for TLS domain verifications",
-      "url": "https://arstechnica.com/?p=2051511",
-      "urlToImage": null
     }
   ],
   "sortBy": "top",
