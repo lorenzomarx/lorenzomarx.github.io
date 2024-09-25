@@ -1,84 +1,84 @@
 {
   "articles": [
     {
+      "author": "Jon Brodkin",
+      "description": "Gavin Newsom said he opposes mandate on mobile operating system developers.",
+      "publishedAt": "2024-09-24T17:54:53+00:00",
+      "title": "Calif. Gov. vetoes attempt to require new privacy option in browsers and OSes",
+      "url": "https://arstechnica.com/tech-policy/2024/09/calif-gov-vetoes-attempt-to-require-new-privacy-option-in-browsers-and-oses/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/gavin-newsom-760x380.jpg"
+    },
+    {
+      "author": "John Timmer",
+      "description": "Researchers blast silica with an intense X-ray burst, watch it evaporate.",
+      "publishedAt": "2024-09-24T17:37:17+00:00",
+      "title": "Radiation should be able to deflect asteroids as large as 4 km across",
+      "url": "https://arstechnica.com/science/2024/09/redirecting-an-asteroid-with-a-nuclear-bomb-should-work/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/image-4-760x380.jpeg"
+    },
+    {
+      "author": "Stephen Clark",
+      "description": "The second test flight of the Vulcan rocket is scheduled for liftoff on October 4.",
+      "publishedAt": "2024-09-24T17:14:30+00:00",
+      "title": "NASA is ready to start buying Vulcan rockets from United Launch Alliance",
+      "url": "https://arstechnica.com/space/2024/09/nasa-is-ready-to-start-buying-vulcan-rockets-from-united-launch-alliance/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/53917462117_5c2fa6c2a8_k-760x380.jpg"
+    },
+    {
+      "author": "Jonathan M. Gitlin",
+      "description": "How automotive recalls are handled has shifted over time.",
+      "publishedAt": "2024-09-24T16:51:54+00:00",
+      "title": "Car software patches are over 20% of recalls, study finds",
+      "url": "https://arstechnica.com/cars/2024/09/more-than-20-of-vehicle-recalls-are-software-fixes-now/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-653513498-760x380.jpg"
+    },
+    {
+      "author": "Scharon Harding",
+      "description": "Broadcom defends against renewal, citing \"End of Availability\" provision.",
+      "publishedAt": "2024-09-24T16:34:10+00:00",
+      "title": "Broadcom responds to AT&T\u2019s VMware support lawsuit: AT&T has \u201cother options\u201d",
+      "url": "https://arstechnica.com/information-technology/2024/09/broadcom-accuses-att-of-sensationalism-after-vmware-perpetual-license-suit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1487796946-760x380.jpg"
+    },
+    {
+      "author": "Kyle Orland",
+      "description": "Many players are angry over needing to log in to play a single-player game.",
+      "publishedAt": "2024-09-24T15:45:29+00:00",
+      "title": "PC modder removes annoying PSN account requirement for God of War Ragnar\u00f6k",
+      "url": "https://arstechnica.com/gaming/2024/09/pc-modder-removes-annoying-psn-account-requirement-for-god-of-war-ragnarok/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/gowpc-760x380.png"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "Learning to love a Linux system that's more of a workhorse than an adventure.",
+      "publishedAt": "2024-09-24T14:46:46+00:00",
+      "title": "Kubuntu Focus Ir14 Gen 2 review: Using Linux instead of messing with it",
+      "url": "https://arstechnica.com/gadgets/2024/09/kubuntu-focus-ir14-gen-2-review-using-linux-instead-of-messing-with-it/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/kf1-760x380.jpg"
+    },
+    {
+      "author": "Ryan McMorrow, Financial Times",
+      "description": "Embargo on high-tech goods has forced China to create its own supply chain.",
+      "publishedAt": "2024-09-24T13:45:37+00:00",
+      "title": "Huawei laptop teardown shows China\u2019s steps toward tech self-sufficiency",
+      "url": "https://www.ft.com/content/5511d73a-1ada-4884-a559-681502300e4f",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/l540-list-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "Monday's test checked an important box for Blue Origin.",
+      "publishedAt": "2024-09-24T13:07:47+00:00",
+      "title": "For the first time, Blue Origin has ignited an orbital rocket stage",
+      "url": "https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/new-glenn_gs2-hotfire-760x380.webp"
+    },
+    {
       "author": "Beth Mole",
       "description": "The state reported its first infected herds on August 30.",
       "publishedAt": "2024-09-23T22:43:34+00:00",
       "title": "Bird flu is spreading rapidly in California; infected herds double over weekend",
       "url": "https://arstechnica.com/science/2024/09/bird-flu-is-spreading-rapidly-in-california-infected-herds-double-over-weekend/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2151866021-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Altman says \"deep learning worked\" and will lead to \"massive prosperity.\"",
-      "publishedAt": "2024-09-23T22:21:55+00:00",
-      "title": "OpenAI CEO: We may have AI superintelligence in \u201ca few thousand days\u201d",
-      "url": "https://arstechnica.com/information-technology/2024/09/ai-superintelligence-looms-in-sam-altmans-new-essay-on-the-intelligence-age/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/equations_hero_1-760x380.jpg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "All that's left of the Russian missile silo is a big hole in the ground.",
-      "publishedAt": "2024-09-23T21:57:35+00:00",
-      "title": "Satellite images suggest test of Russian \u201csuper weapon\u201d failed spectacularly",
-      "url": "https://arstechnica.com/space/2024/09/satellite-images-suggest-test-of-russian-super-weapon-failed-spectacularly/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/022-760x380.jpeg"
-    },
-    {
-      "author": "Dan Goodin",
-      "description": "Necro infiltrated Google Play in 2019. It recently returned.",
-      "publishedAt": "2024-09-23T20:27:36+00:00",
-      "title": "11 million devices infected with botnet malware hosted in Google Play",
-      "url": "https://arstechnica.com/security/2024/09/11-million-devices-infected-with-botnet-malware-hosted-in-google-play/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/android-hack-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "Cloudflare may charge an app store-like fee for its AI-scraping data marketplace.",
-      "publishedAt": "2024-09-23T20:03:26+00:00",
-      "title": "Cloudflare moves to end free, endless AI scraping with one-click blocking",
-      "url": "https://arstechnica.com/tech-policy/2024/09/cloudflare-lets-sites-block-ai-crawlers-with-one-click/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1936115086-760x380.jpg"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "Op-ed: On living with the iPhone 6 design\u2014and its flaws\u2014for a full decade.",
-      "publishedAt": "2024-09-23T19:50:39+00:00",
-      "title": "10 long years with\u2014and good riddance to\u2014Apple\u2019s iPhone 6 design",
-      "url": "https://arstechnica.com/gadgets/2024/09/10-long-years-with-and-good-riddance-to-apples-iphone-6-design/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/IMG_0211-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "The hybrid powertrain has a range of 500 miles.",
-      "publishedAt": "2024-09-23T19:14:31+00:00",
-      "title": "Hybrid RV with a solar roof can power your home in an emergency",
-      "url": "https://arstechnica.com/cars/2024/09/hybrid-rv-with-a-solar-roof-can-power-your-home-in-an-emergency/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/THOR-Hybrid-Class-A-Test-Vehicle-3_4-760x380.jpg"
-    },
-    {
-      "author": "Benj Edwards",
-      "description": "Historic 4-bit microprocessor from 1971 can execute Linux commands over days or weeks.",
-      "publishedAt": "2024-09-23T18:48:25+00:00",
-      "title": "Linux boots in 4.76 days on the Intel 4004",
-      "url": "https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/linux_4004_header-760x380.jpg"
-    },
-    {
-      "author": null,
-      "description": "Meetings with \"yelling,\" \"screaming\" preceded app's release, Bloomberg reports.",
-      "publishedAt": "2024-09-23T18:39:36+00:00",
-      "title": "Sonos workers shed light on why the app update went so horribly",
-      "url": "https://arstechnica.com/?p=2051728",
-      "urlToImage": null
-    },
-    {
-      "author": "Jennifer Ouellette",
-      "description": "\"You have something in you. Rage. Never let it go.\"",
-      "publishedAt": "2024-09-23T17:24:31+00:00",
-      "title": "Prepare to be entertained by latest action-packed Gladiator II trailer",
-      "url": "https://arstechnica.com/culture/2024/09/prepare-to-be-entertained-by-latest-action-packed-gladiator-ii-trailer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/glad3-760x380.jpg"
     }
   ],
   "sortBy": "top",
