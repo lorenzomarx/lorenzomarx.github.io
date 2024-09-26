@@ -1,10 +1,50 @@
 {
   "articles": [
     {
+      "author": "Dan Goodin",
+      "description": "Emails, documents, and other untrusted content can plant malicious memories.",
+      "publishedAt": "2024-09-24T20:56:26+00:00",
+      "title": "Hacker plants false memories in ChatGPT to steal user data in perpetuity",
+      "url": "https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/memory-760x380.jpg"
+    },
+    {
+      "author": "Ashley Belanger",
+      "description": "Caroline Ellison \"deeply regrets\" FTX lies, must now forfeit $11 billion.",
+      "publishedAt": "2024-09-24T20:20:19+00:00",
+      "title": "Caroline Ellison gets 2 years for covering up Sam Bankman-Fried\u2019s FTX fraud",
+      "url": "https://arstechnica.com/tech-policy/2024/09/caroline-ellison-to-2-years-for-covering-up-sam-bankman-frieds-ftx-fraud/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1717211240-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Famed sci-fi director joins board of embattled Stability AI, creator of Stable Diffusion.",
+      "publishedAt": "2024-09-24T19:38:51+00:00",
+      "title": "Terminator\u2019s Cameron joins AI company behind controversial image generator",
+      "url": "https://arstechnica.com/information-technology/2024/09/james-cameron-once-warned-us-about-ai-now-hes-joined-an-ai-companys-board/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/james_cameron_4-760x380.jpg"
+    },
+    {
+      "author": "Nate Anderson",
+      "description": "\"Hundreds\" of files found on SD card, FBI agent says.",
+      "publishedAt": "2024-09-24T18:53:21+00:00",
+      "title": "FBI: After dad allegedly tried to shoot Trump, son arrested for child porn",
+      "url": "https://arstechnica.com/culture/2024/09/son-of-would-be-trump-assassin-arrested-on-child-porn-charges/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "\"In all my years of working with Boeing I never saw them sign up for additional work for free.\"",
+      "publishedAt": "2024-09-24T17:58:47+00:00",
+      "title": "In the room where it happened: When NASA nearly gave Boeing all the crew funding",
+      "url": "https://arstechnica.com/features/2024/09/in-the-room-where-it-happened-when-nasa-nearly-gave-boeing-all-the-crew-funding/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/KSC-20230219-PH-SPX01_0002large-760x380.jpg"
+    },
+    {
       "author": "Jon Brodkin",
       "description": "Gavin Newsom said he opposes mandate on mobile operating system developers.",
       "publishedAt": "2024-09-24T17:54:53+00:00",
-      "title": "Calif. Gov. vetoes attempt to require new privacy option in browsers and OSes",
+      "title": "Calif. Governor vetoes bill requiring opt-out signals for sale of user data",
       "url": "https://arstechnica.com/tech-policy/2024/09/calif-gov-vetoes-attempt-to-require-new-privacy-option-in-browsers-and-oses/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/gavin-newsom-760x380.jpg"
     },
@@ -39,46 +79,6 @@
       "title": "Broadcom responds to AT&T\u2019s VMware support lawsuit: AT&T has \u201cother options\u201d",
       "url": "https://arstechnica.com/information-technology/2024/09/broadcom-accuses-att-of-sensationalism-after-vmware-perpetual-license-suit/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1487796946-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Many players are angry over needing to log in to play a single-player game.",
-      "publishedAt": "2024-09-24T15:45:29+00:00",
-      "title": "PC modder removes annoying PSN account requirement for God of War Ragnar\u00f6k",
-      "url": "https://arstechnica.com/gaming/2024/09/pc-modder-removes-annoying-psn-account-requirement-for-god-of-war-ragnarok/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/gowpc-760x380.png"
-    },
-    {
-      "author": "Kevin Purdy",
-      "description": "Learning to love a Linux system that's more of a workhorse than an adventure.",
-      "publishedAt": "2024-09-24T14:46:46+00:00",
-      "title": "Kubuntu Focus Ir14 Gen 2 review: Using Linux instead of messing with it",
-      "url": "https://arstechnica.com/gadgets/2024/09/kubuntu-focus-ir14-gen-2-review-using-linux-instead-of-messing-with-it/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/kf1-760x380.jpg"
-    },
-    {
-      "author": "Ryan McMorrow, Financial Times",
-      "description": "Embargo on high-tech goods has forced China to create its own supply chain.",
-      "publishedAt": "2024-09-24T13:45:37+00:00",
-      "title": "Huawei laptop teardown shows China\u2019s steps toward tech self-sufficiency",
-      "url": "https://www.ft.com/content/5511d73a-1ada-4884-a559-681502300e4f",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/l540-list-760x380.jpg"
-    },
-    {
-      "author": "Eric Berger",
-      "description": "Monday's test checked an important box for Blue Origin.",
-      "publishedAt": "2024-09-24T13:07:47+00:00",
-      "title": "For the first time, Blue Origin has ignited an orbital rocket stage",
-      "url": "https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/new-glenn_gs2-hotfire-760x380.webp"
-    },
-    {
-      "author": "Beth Mole",
-      "description": "The state reported its first infected herds on August 30.",
-      "publishedAt": "2024-09-23T22:43:34+00:00",
-      "title": "Bird flu is spreading rapidly in California; infected herds double over weekend",
-      "url": "https://arstechnica.com/science/2024/09/bird-flu-is-spreading-rapidly-in-california-infected-herds-double-over-weekend/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2151866021-760x380.jpg"
     }
   ],
   "sortBy": "top",
