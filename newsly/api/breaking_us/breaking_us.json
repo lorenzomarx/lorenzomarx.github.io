@@ -1,153 +1,114 @@
 {
   "articles": [
     {
-      "author": "Axios",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-09-25T06:30:57Z",
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "title": "Trump: \"Big threats on my life by Iran\" - Axios",
-      "url": "https://www.axios.com/2024/09/25/trump-iran-assassinate-threats-intelligence-briefing-odi",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-09-25T05:32:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "HEATHER HOLLINGSWORTH, LUIS ALBERTO CRUZ",
-      "content": "Tropical Storm Helene was rapidly strengthening in the Caribbean Sea and expected to become a hurricane Wednesday while moving north along Mexicos coast toward the U.S., prompting residents to evacua\u2026 [+4465 chars]",
-      "description": "Forecasters say they expect Tropical Storm Helene in the Caribbean Sea to strengthen rapidly and become a hurricane as it moves north across the Gulf of Mexico on Wednesday toward the U.S. The National Hurricane Center has issued hurricane warnings for northw\u2026",
-      "publishedAt": "2024-09-25T04:41:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Tropical Storm Helene strengthens as hurricane warnings cover parts of Florida and Mexico - The Associated Press",
-      "url": "https://apnews.com/article/tropical-storm-helene-john-florida-mexico-a953d0a51d219226f7d76178af2d3f4b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/754eb0a/2147483647/strip/true/crop/1592x896+0+333/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2Fe7%2F5608d0f63e394d0f119bab168904%2F916e006061924a2782ec76ac28e3cdb2"
-    },
-    {
-      "author": "Cindy Von Quednow, Holly Yan",
-      "content": "Marcellus Williams, whose murder conviction was questioned by a prosecutor, died by lethal injection Tuesday evening in Missouri after the US Supreme Court denied a stay.\r\nThe 55-year-old was put to \u2026 [+10345 chars]",
-      "description": "Marcellus Williams, whose murder conviction was questioned by a prosecutor, died by lethal injection Tuesday evening in Missouri after the US Supreme Court denied a stay.",
-      "publishedAt": "2024-09-25T04:23:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Missouri executes Marcellus Williams despite prosecutors and the victim\u2019s family asking that he be spared - CNN",
-      "url": "https://www.cnn.com/2024/09/24/us/marcellus-williams-scheduled-execution-date/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/67-2018-09-07-williams-marcellus-045-1.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
       "author": "Emily Sanderson",
-      "content": "WHITEWATER TOWNSHIP, Ohio \u2014A dangerous chemical leak in Whitewater Township has prompted an evacuation order for people in the area, according to Hamilton County emergency management and fire officia\u2026 [+5683 chars]",
+      "content": "WHITEWATER TOWNSHIP, Ohio \u2014A dangerous chemical leak in Whitewater Township has prompted an evacuation order for people in the area, according to Hamilton County emergency management and fire officia\u2026 [+6337 chars]",
       "description": "A dangerous chemical leak near State Route 128 has prompted an evacuation order for people in the area, according to Hamilton County emergency management and fire officials.",
-      "publishedAt": "2024-09-25T03:25:00Z",
+      "publishedAt": "2024-09-25T12:16:00Z",
       "source": {
         "id": null,
         "name": "WLWT Cincinnati"
       },
-      "title": "UPDATES: Chemical leak from train car in Whitewater Twp. stops; evacuations remain - WLWT Cincinnati",
+      "title": "Whitewater Twp. chemical leak: Evacuation orders remain in place as crews work overnight following chemical leak - WLWT Cincinnati",
       "url": "https://www.wlwt.com/article/chemical-leak-hazmat-state-route-128-shelter-in-place/62353528",
       "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/whitewater-leak-66f315266ff26.png?crop=1.00xw:0.794xh;0,0.188xh&resize=1200:*"
     },
     {
-      "author": null,
-      "content": "Children's eyesight is steadily getting worse with one in three now short-sighted or unable to see things in the distance clearly, a global analysis suggests.\r\nThe researchers say Covid lockdowns had\u2026 [+4292 chars]",
-      "description": "There was a notable rise after Covid when children spent less time outdoors, researchers say.",
-      "publishedAt": "2024-09-25T02:29:45Z",
+      "author": "Irene Nasser, Dana Karni, Helen Regan, Sophie Tanno",
+      "content": "Israel intercepted a missile fired by Hezbollah near Tel Aviv on Wednesday, an unprecedented attack by the militant group that reached deep into the countrys commercial heartlands and marked a new es\u2026 [+6064 chars]",
+      "description": "Israel intercepted a missile fired by Hezbollah near Tel Aviv on Wednesday, an unprecedented attack by the militant group that reached deep into the country\u2019s commercial heartlands and marked a new escalatory step in the conflict between the two sides.",
+      "publishedAt": "2024-09-25T11:55:00Z",
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Myopia: One in three children are short-sighted - study - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c0m099zm4wyo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7aee/live/b68849e0-7a67-11ef-b79d-b95d1c4d53f8.jpg"
+      "title": "Israel intercepts Hezbollah ballistic missile near Tel Aviv in first such attack - CNN",
+      "url": "https://www.cnn.com/2024/09/25/middleeast/israel-rocket-lebanon-tel-aviv-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-25t041945z-745137952-rc2g7aayqzbf-rtrmadp-3-israel-palestinians-tel-aviv.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Jordan Novet",
-      "content": "ChatGPT is ready for more natural audio chats.\r\nOpenAI said Tuesday that its popular chatbot now has an advanced voice feature for people who pay for the premium service. The tool allows for more flu\u2026 [+3399 chars]",
-      "description": "If you're a paying customer, ChatGPT will respond to your spoken questions and comments quickly. But there's a limit to how much you can use it in a single day.",
-      "publishedAt": "2024-09-25T02:11:00Z",
+      "author": "Reuters",
+      "content": null,
+      "description": "A look at the day ahead in European and global markets from Kevin Buckland",
+      "publishedAt": "2024-09-25T11:51:06Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Morning Bid: After China's stimulus sugar rush - Reuters",
+      "url": "https://www.reuters.com/markets/europe/global-markets-view-europe-2024-09-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DUSI46GGSVKF5JHN3R7XLCCROE.jpg?auth=88c49e0f174ed7fb468f7715d1c3013bc21f99ef4f84fa4c4c2de5138689c9fe&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Jaclyn Hendricks",
+      "content": "Travis Kelce doesn\u2019t sound as miserable as he looks.\r\nAnd on Wednesday\u2019s installment of his \u201cNew Heights\u201d podcast, the Chiefs\u2019 tight end claimed he had no concerns about his sluggish start amid the c\u2026 [+4431 chars]",
+      "description": "Travis Kelce doesn\u2019t sound as miserable as he looks.",
+      "publishedAt": "2024-09-25T11:21:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "Travis Kelce\u2019s response after miserable moment sparked backlash: \u2018The biggest thing for me\u2019 - New York Post ",
+      "url": "https://nypost.com/2024/09/25/sports/travis-kelces-response-to-slow-start-as-backlash-grows/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-4k5upv5vi-1727262637170.jpg?quality=75&strip=all&1727248371&w=1024"
+    },
+    {
+      "author": null,
+      "content": "Perseverance Rover first landed in Jezero Crater in February 2021.\r\nNASA's Mars Perseverance Rover recently discovered a strange \"zebra rock\" on Mars' Jezero crater that's nothing like any rock seen \u2026 [+2280 chars]",
+      "description": "NASA's Mars Perseverance Rover recently discovered a strange \"zebra rock\" on Mars' Jezero crater that's nothing like any rock seen on the Red Planet before.",
+      "publishedAt": "2024-09-25T11:17:42Z",
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "title": "NASA's Perseverance Rover Spots Strange \"Zebra Rock\" On Mars: \"Likely Arrived From...\" - NDTV",
+      "url": "https://www.ndtv.com/science/nasas-perseverance-rover-spots-strange-zebra-rock-on-mars-likely-arrived-from-6646916",
+      "urlToImage": "https://c.ndtvimg.com/2024-09/kf09714o_mars-zebra-rock_625x300_25_September_24.jpeg"
+    },
+    {
+      "author": "Josh Alper",
+      "content": "Josh Harris was approved as the new owner of the Commanders in July 2023 and the decisions that the team has made since then have been focused on charting a new path after the on- and off-field failu\u2026 [+1243 chars]",
+      "description": "Josh Harris was approved as the new owner of the Commanders in July 2023 and the decisions that the team has made since then have been focused on charting a new path after the on- and off-field failures of the Daniel Snyder era.",
+      "publishedAt": "2024-09-25T10:27:43Z",
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "title": "Dan Quinn: I don\u2019t want Jayden Daniels feeling \u201cghosts\u201d of past Washington QBs - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-i-dont-want-jayden-daniels-feeling-ghosts-of-past-washington-qbs",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/63890b2/2147483647/strip/true/crop/2449x1378+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F88%2F4d95d49644f585edbdaddcc70b47%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2173410628"
+    },
+    {
+      "author": "Sophie Kiderlin",
+      "content": "Bettina Orlopp, chief financial officer of Commerzbank AG, speaks during a fourth quarter earnings news conference at the bank's headquarters in Frankfurt, Germany, on Thursday, Feb. 13, 2020.\r\nComme\u2026 [+4439 chars]",
+      "description": "Commerzbank on Tuesday announced its current Chief Financial Officer Bettina Orlopp will soon become CEO of the embattled German bank.",
+      "publishedAt": "2024-09-25T10:11:19Z",
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "title": "OpenAI just launched advanced voice mode for audio chats with ChatGPT. Here's how to use it - CNBC",
-      "url": "https://www.cnbc.com/2024/09/24/how-to-use-chatgpt-advanced-voice-mode-from-openai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108038698-1727224394854-OpenAI_Voice.jpg?v=1727224479&w=1920&h=1080"
+      "title": "Bettina Orlopp: The woman tasked with leading Commerzbank amid UniCredit takeover battle - CNBC",
+      "url": "https://www.cnbc.com/2024/09/25/bettina-orlopp-who-is-the-new-commerzbank-ceo.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108038779-1727248984986-gettyimages-1200519662-GERMANY_COMMERZBANK.jpeg?v=1727249030&w=1920&h=1080"
     },
     {
       "author": null,
-      "content": "Sri Lanka's new president has dissolved parliament to make way for a snap general election. \r\nAnura Kumara Dissanayake dissolved the 225-member parliament in which his left-leaning National People's \u2026 [+2634 chars]",
-      "description": "Anura Kumara Dissanayake calls a general election, dissolving the parliament where his party only holds three seats.",
-      "publishedAt": "2024-09-25T02:10:34Z",
+      "content": "Caroline Ellison has been sentenced to two years in prison for her role in the collapse of the cryptocurrency exchange FTX, which has been described as one of biggest financial frauds in US history.\r\u2026 [+3009 chars]",
+      "description": "Ellison testified as a star witness against her ex-boyfriend and FTX's founder, Sam Bankman-Fried.",
+      "publishedAt": "2024-09-25T10:03:18Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Sri Lanka's new president dissolves parliament - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c05gnm05qmdo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0a29/live/e7728f30-7aa2-11ef-94ab-2d69b09e523d.jpg"
-    },
-    {
-      "author": "Emily Longeretta",
-      "content": "SPOILER ALERT:\u00a0This story contains spoilers for the Sept. 24 episode of \u201cDancing With the Stars.\u201d\r\nAnd then there were 11. The first two celebrities were eliminated during \u201cOscars Night,\u201d the Tuesday\u2026 [+2015 chars]",
-      "description": "The first two celebrities were eliminated on Season 33 of 'Dancing With the Stars.'",
-      "publishedAt": "2024-09-25T02:09:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "\u2018Dancing With the Stars\u2019: Hollywood Night Sends Home Two Celebs in First Double Elimination of Season 33 - Variety",
-      "url": "https://variety.com/2024/tv/news/dancing-with-the-stars-anna-delvey-eliminated-tori-spelling-1236154987/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/09/174291_EM201002.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "author": "Yahoo Sports Staff",
-      "content": "On this episode of McCoy &amp; Van Noy, 6x Pro Bowl DT Gerald McCoy and 2x Super Bowl winner Kyle Van Noy recap their favorite moments from week 3 in the NFL, starting with the two games that just ha\u2026 [+1665 chars]",
-      "description": "6x Pro Bowl DT Gerald McCoy and 2x Super Bowl winner Kyle Van Noy recap their favorite moments from week 3 in the NFL, give their perspective on Antonio...",
-      "publishedAt": "2024-09-25T00:43:00Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "Jayden Daniels shines, Bills look scary & Raiders HC calls out his players | McCoy & Van Noy - Yahoo Sports",
-      "url": "https://sports.yahoo.com/jayden-daniels-shines-bills-look-scary--raiders-hc-calls-out-his-players--mccoy--van-noy-004337227.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IiR9NTgYa_igL3xIIm_a.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/941e9770-7aca-11ef-bfdf-577ece376c08"
-    },
-    {
-      "author": null,
-      "content": "The Israeli military said a strike in Beirut on Tuesday killed the head of Hezbollahs rocket forces\r\nLebanons health minister has said what is happening in his country is carnage, as hospitals strugg\u2026 [+5995 chars]",
-      "description": "Firass Abiad says many of the 550 people killed in Monday\u2019s attacks targeting Hezbollah were civilians.",
-      "publishedAt": "2024-09-24T23:53:57Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Israeli strikes on Lebanon causing \u2018carnage\u2019 - health minister - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c748n1258z1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/138c/live/bf1f2d30-7ab7-11ef-8c1a-df523ba43a9a.jpg"
+      "title": "Caroline Ellison sentenced to two years in FTX crypto fraud - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cdd4e2931q3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a263/live/8966e9d0-7ae4-11ef-b02d-c5f3b724a1ea.jpg"
     },
     {
       "author": null,
       "content": "[Removed]",
       "description": "[Removed]",
-      "publishedAt": "2024-09-24T23:13:06Z",
+      "publishedAt": "2024-09-25T09:29:04Z",
       "source": {
         "id": null,
         "name": "[Removed]"
@@ -157,110 +118,149 @@
       "urlToImage": null
     },
     {
-      "author": "Mashable",
+      "author": "Axios",
       "content": null,
       "description": null,
-      "publishedAt": "2024-09-24T22:59:00Z",
+      "publishedAt": "2024-09-25T09:21:51Z",
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
+        "id": "axios",
+        "name": "Axios"
       },
-      "title": "PlayStation State of Play 2024: Everything announced and revealed during the September event - Mashable",
-      "url": "https://mashable.com/article/sony-playstation-state-of-play-september-roundup",
+      "title": "Harris to make her case as champion of U.S. middle class in economic speech - Axios",
+      "url": "https://www.axios.com/2024/09/25/harris-economy-pittsburgh-speech-trump-economic-contrast",
       "urlToImage": null
     },
     {
-      "author": "Claudia Rosenbaum",
-      "content": "A 53-year-old woman has filed a federal lawsuit alleging that Sean Diddy Combs had her tied up naked and viciously raped her at his Bad Boy Records studio in New York City in the summer of 2001.\r\nIn \u2026 [+2244 chars]",
-      "description": "Thalia Graves and her attorney Gloria Allred announced the filing of the lawsuit against Sean Combs and his former employee Joseph Sherman at a press conference held at Allred\u2019s office.",
-      "publishedAt": "2024-09-24T22:56:22Z",
-      "source": {
-        "id": null,
-        "name": "Vulture"
-      },
-      "title": "Diddy Accused of Rape in New Lawsuit from Thalia Graves - Vulture",
-      "url": "http://www.vulture.com/article/diddy-accused-of-rape-in-new-lawsuit-from-thalia-graves.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/aa2/38c/e2be21ec03d20e19e5566538d8aa8a8ed6-diddy-newlawsuit.1x.rsocial.w1200.jpg"
-    },
-    {
-      "author": "Hannah Rabinowitz, Holmes Lybrand",
-      "content": "Prosecutors on Tuesday filed the charge of attempted assassination of a major presidential candidate against Ryan Wesley Routh, the man they say camped outside of Donald Trumps West Palm Beach golf c\u2026 [+2243 chars]",
-      "description": "Prosecutors on Tuesday filed the charge of attempted assassination of a major presidential candidate against Ryan Wesley Routh, the man they say camped outside of Donald Trump\u2019s West Palm Beach golf course for hours on end, armed with a rifle that he pointed \u2026",
-      "publishedAt": "2024-09-24T22:18:00Z",
+      "author": null,
+      "content": "India has confirmed its first case of a deadlier strain of mpox, which has raised alarm among health officials around the world over the rapid pace of its spread.\r\nThe clade Ib strain of the virus wa\u2026 [+2490 chars]",
+      "description": "India has confirmed its first case of a deadlier strain of mpox, which has raised alarm among health officials around the world over the rapid pace of its spread.",
+      "publishedAt": "2024-09-25T09:21:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "Man charged with attempted assassination of Trump at Florida golf course as case is assigned to Judge Aileen Cannon - CNN",
-      "url": "https://www.cnn.com/2024/09/24/politics/ryan-routh-additional-charges-trump-assassination-attempt/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20963686-28470-968-still.jpg?c=16x9&q=w_800,c_fill"
+      "title": "India confirms first case of deadlier mpox strain - CNN",
+      "url": "https://www.cnn.com/2024/09/25/asia/india-mpox-first-case-1b-hnk-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170516403.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Nathaniel Weixel",
-      "content": "The CEO of Novo Nordisk wouldnt commit to lowering the prices of Ozempic and Wegovy during a Senate hearing Tuesday, despite repeatedly being pressed by Sen. Bernie Sanders (I-Vt.), chair of the Sena\u2026 [+5908 chars]",
-      "description": "The CEO of Novo Nordisk wouldn\u2019t commit to lowering the prices of Ozempic and Wegovy during a Senate hearing Tuesday, despite repeatedly being pressed by Sen. Bernie Sanders (I-Vt.), chair of the Senate Committee on Health, Education, Labor and Pensions (HELP\u2026",
-      "publishedAt": "2024-09-24T21:42:00Z",
+      "author": "Holmes Lybrand, Annie Grayer, Zachary Cohen",
+      "content": "Secret Service agents failed to take charge of decision-making for security at the Butler, Pennsylvania, rally where former President Donald Trump was shot in July, a bipartisan Senate committee reve\u2026 [+11911 chars]",
+      "description": "Secret Service agents failed to take charge of decision-making for security at the Butler, Pennsylvania, rally where former President Donald Trump was shot in July, a bipartisan Senate committee revealed in a new report Wednesday, leading to key lapses in pre\u2026",
+      "publishedAt": "2024-09-25T09:01:00Z",
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Sanders, Novo Nordisk CEO clash over Ozempic, Wegovy drug prices - The Hill",
-      "url": "https://thehill.com/policy/healthcare/4897283-sanders-novo-nordisk-ceo-clash-over-weight-loss-drug-prices/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/IMG_4123.jpeg?w=1280"
+      "title": "New report details stunning Secret Service leadership failures around first Trump assassination attempt - CNN",
+      "url": "https://www.cnn.com/2024/09/25/politics/trump-shooting-butler-senate-report-secret-service/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24196223710960.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Claire Comstock-Gay",
+      "content": "Mercury, in analytical Virgo until tomorrow, faces off with Neptune in mystical Pisces this morning. With the planet of communication directly opposite the planet of confusion, you can expect your th\u2026 [+6378 chars]",
+      "description": "Every weekday, the Cut\u2019s astrology expert, Claire Comstock-Gay (a.k.a. Madame Clairevoyant), reads the horoscope for every zodiac sign.",
+      "publishedAt": "2024-09-25T09:00:34Z",
+      "source": {
+        "id": null,
+        "name": "The Cut"
+      },
+      "title": "Your Daily Horoscope by Madame Clairevoyant: September 25, 2024 - The Cut",
+      "url": "http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-sept-25-2024.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/430/c3a/bfc8bde719f839b53ac583ab5dc2fb2b9f-Christina-Milian-libra-daily.1x.rsocial.w1200.jpg"
+    },
+    {
+      "author": "The Weather Channel",
+      "content": "At a Glance\r\n<ul><li>Helene is centered near Mexico's Yucatan Peninsula.</li><li>The storm is forecast to become a hurricane later Wednesday.</li><li>Helene's Florida landfall will occur Thursday nig\u2026 [+8130 chars]",
+      "description": "Helene is a danger not only at the coast, but also well inland. Here's what to expect.",
+      "publishedAt": "2024-09-25T09:00:00Z",
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "title": "Tropical Storm Helene Expected To Become A Major Hurricane Ahead Of Florida Landfall - The Weather Channel",
+      "url": "https://weather.com/storms/hurricane/news/2024-09-25-hurricane-tropical-storm-helene-forecast-florida-southeast",
+      "urlToImage": "https://s.w-x.co/helene5amwed.jpg"
+    },
+    {
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-09-25T09:00:00Z",
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "title": "Trump allies warn: Stay on message, stop with the distractions - POLITICO",
+      "url": "https://www.politico.com/news/2024/09/25/trump-allies-warnings-00180869",
+      "urlToImage": null
     },
     {
       "author": null,
+      "content": "Marcellus Williams was executed on Tuesday night in the US state of Missouri after spending more than two decades on death row. \r\nWilliams, who had two previous executions stayed, maintained he was i\u2026 [+3936 chars]",
+      "description": "Marcellus Williams had long proclaimed he was innocent in the 1998 fatal stabbing of Felicia Gayle in a St Louis, Missouri, suburb.",
+      "publishedAt": "2024-09-25T08:41:52Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Marcellus Williams executed in Missouri after 20 years on death row - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cz9p518j0nqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f7a4/live/57769670-7aba-11ef-b02d-c5f3b724a1ea.jpg"
+    },
+    {
+      "author": "Emily Zemler",
+      "content": "Kim Porter\u2018s children are speaking out about a memoir purportedly written by their mother, calling the claims she authored a book \u201csimply untrue.\u201d The children, Christian \u201cKing\u201d Combs, D\u2019Lila Combs, \u2026 [+4157 chars]",
+      "description": "The four children of Diddy and Kim Porter spoke out in a joint statement on social media, confirming their mother \"did not\" write a memoir.",
+      "publishedAt": "2024-09-25T08:30:03Z",
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "title": "Children of Diddy and Kim Porter Say Their Mother \u2018Did Not\u2019 Write a Book - Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-news/diddy-kim-porter-children-memoir-joint-statement-1235111685/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/09/GettyImages-592271486.jpg?w=1600&h=900&crop=1"
+    },
+    {
+      "author": null,
+      "content": "The only U.S. Navy oil replenishment ship serving the USS Abraham Lincoln Carrier Strike Group, deployed in the Middle East in support of Israel amid its ongoing war with Hamas and soaring tension be\u2026 [+4012 chars]",
+      "description": "The U.S. Navy Big Horn replenishment ship ran aground off Oman as it supported the USS Abraham Lincoln Carrier Strike Group, deployed to back Israel.",
+      "publishedAt": "2024-09-25T08:22:42Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "U.S. Navy Big Horn runs aground off Oman as replenishment vessel supports USS Lincoln strike group - CBS News",
+      "url": "https://www.cbsnews.com/news/us-navy-big-horn-oman-uss-lincoln-strike-group-israel-war-hamas-middle-east-houthis/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/25/7b6a66f1-3937-40d8-bd80-09d0d6cda580/thumbnail/1200x630/de44d72d557e6229302402b8d7157b75/usns-big-horn-oiler.jpg?v=36448e13600c4b59440e954caff28fc1"
+    },
+    {
+      "author": "K.J. Yossman",
+      "content": "Disgraced anchor Phillip Schofield, who resigned from ITV\u2018s \u201cThis Morning\u201d in 2023 after admitting to an affair with a PA, is planning a return to television.\r\nSchofield has filmed a new show for U.K\u2026 [+2543 chars]",
+      "description": "Phillip Schofield, who resigned from ITV's 'This Morning' in 2023 after admitting to an affair with a PA, is planning a return to television.",
+      "publishedAt": "2024-09-25T08:01:00Z",
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "title": "Disgraced Morning Show Anchor Phillip Schofield Plots Comeback With Channel 5 Special \u2018Cast Away\u2019 - Variety",
+      "url": "https://variety.com/2024/tv/global/phillip-schofield-comeback-channel-5-show-cast-away-1236155339/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/09/Phillip-Schofield.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "author": "ABC News",
       "content": null,
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "publishedAt": "2024-09-24T21:20:08Z",
+      "description": null,
+      "publishedAt": "2024-09-25T07:09:05Z",
       "source": {
-        "id": null,
-        "name": "YouTube"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "title": "Federal Reserve interest rate cut already affecting some prices - CBS News",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png"
-    },
-    {
-      "author": "Fox News",
-      "content": "The\u00a0general rate of obesity\u00a0among adults in the United States has stagnated, but the rate of severe obesity has increased, according to the Centers for Disease Control and Prevention.\r\nA report compi\u2026 [+1819 chars]",
-      "description": "The\u00a0general rate of obesity\u00a0among adults in the United States has stagnated, but the rate of severe obesity has increased, according to the Centers for Disease Control and Prevention.",
-      "publishedAt": "2024-09-24T20:43:00Z",
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "title": "Obesity rates in US not growing for first time in a decade, but there might be a worse problem: CDC - New York Post ",
-      "url": "https://nypost.com/2024/09/24/lifestyle/obesity-rates-in-us-not-growing-for-first-time-in-a-decade-but-severe-obesity-on-the-rise-cdc/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-1uqbgj2i0-1727208775271.jpg?quality=75&strip=all&1727194420&w=1024"
-    },
-    {
-      "author": "Mike Wall",
-      "content": "SpaceX's next astronaut mission has been delayed by a powerful storm.\r\nThe company had been planning to launch the Crew-9 mission to the International Space Station (ISS) for NASA from Florida's Cape\u2026 [+3007 chars]",
-      "description": "The mission had been scheduled to launch on Thursday (Sept. 26).",
-      "publishedAt": "2024-09-24T20:37:41Z",
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "title": "Tropical Storm Helene delays SpaceX's Crew-9 astronaut launch to Sept. 28 - Space.com",
-      "url": "https://www.space.com/tropical-storm-helene-delays-spacex-crew-9-launch-september-28",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2vodiFzkx5vu298brxFbEj-1200-80.jpg"
-    },
-    {
-      "author": "Gil Kaufman",
-      "content": "Singer Al B. Sure! has waded into the Sean \u201cDiddy\u201d Combslegal morass by calling for official action to be taken against the team that created what he referred to as a new \u201cfake\u201d memoir credited to hi\u2026 [+4867 chars]",
-      "description": "Singer Al B. Sure! said he wants a formal investigation into ex Kim Porter's death following Sean 'Diddy' Combs' arrest on sex trafficking charges.",
-      "publishedAt": "2024-09-24T20:08:34Z",
-      "source": {
-        "id": null,
-        "name": "Billboard"
-      },
-      "title": "Al B. Sure! Calls for Investigation Into Kim Porter\u2019s Death in Wake of Diddy Arrest - Billboard",
-      "url": "http://www.billboard.com/music/music-news/al-b-sure-investigation-kim-porter-death-diddy-combs-arrest-1235782456/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/09/al-b-sure-equal-justice-2024-billboard-1548.jpg?w=1024"
+      "title": "3rd house collapses in 4 days on North Carolina coast - ABC News",
+      "url": "https://abcnews.go.com/US/3rd-house-collapses-4-days-north-carolina-coast/story?id\\\\u003d114066997",
+      "urlToImage": null
     }
   ],
   "status": "ok",
-  "totalResults": 37
+  "totalResults": 38
 }
