@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Jonathan M. Gitlin",
+      "description": "It gave pedestrians room but ran red lights and crossed into oncoming traffic.",
+      "publishedAt": "2024-09-25T15:31:16+00:00",
+      "title": "Tesla Full Self Driving requires human intervention every 13 miles",
+      "url": "https://arstechnica.com/cars/2024/09/tesla-full-self-driving-requires-human-intervention-every-13-miles/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1415090444-760x380.jpg"
+    },
+    {
+      "author": "Javier Espionza, Financial Times",
+      "description": "Complaint cites \"steep penalties\" for Microsoft customers using other providers.",
+      "publishedAt": "2024-09-25T14:12:25+00:00",
+      "title": "Google accuses Microsoft of antitrust violations over Azure cloud platform",
+      "url": "https://www.ft.com/content/65567a16-434c-4865-9098-2cc8a0c76f68",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/getty-microsoft-760x380.jpg"
+    },
+    {
       "author": "Samuel Axon",
       "description": "The follow-up to one of our favorite open-world games is coming soon, Sony says.",
       "publishedAt": "2024-09-24T23:10:37+00:00",
@@ -17,12 +33,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/memory-760x380.jpg"
     },
     {
-      "author": "Ashley Belanger",
+      "author": null,
       "description": "Caroline Ellison \"deeply regrets\" FTX lies, must now forfeit $11 billion.",
       "publishedAt": "2024-09-24T20:20:19+00:00",
       "title": "Caroline Ellison gets 2 years for covering up Sam Bankman-Fried\u2019s FTX fraud",
-      "url": "https://arstechnica.com/tech-policy/2024/09/caroline-ellison-to-2-years-for-covering-up-sam-bankman-frieds-ftx-fraud/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1717211240-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2052068",
+      "urlToImage": null
     },
     {
       "author": "Benj Edwards",
@@ -63,22 +79,6 @@
       "title": "Radiation should be able to deflect asteroids as large as 4 km across",
       "url": "https://arstechnica.com/science/2024/09/redirecting-an-asteroid-with-a-nuclear-bomb-should-work/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/image-4-760x380.jpeg"
-    },
-    {
-      "author": "Stephen Clark",
-      "description": "The second test flight of the Vulcan rocket is scheduled for liftoff on October 4.",
-      "publishedAt": "2024-09-24T17:14:30+00:00",
-      "title": "NASA is ready to start buying Vulcan rockets from United Launch Alliance",
-      "url": "https://arstechnica.com/space/2024/09/nasa-is-ready-to-start-buying-vulcan-rockets-from-united-launch-alliance/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/53917462117_5c2fa6c2a8_k-760x380.jpg"
-    },
-    {
-      "author": "Jonathan M. Gitlin",
-      "description": "How automotive recalls are handled has shifted over time.",
-      "publishedAt": "2024-09-24T16:51:54+00:00",
-      "title": "Car software patches are over 20% of recalls, study finds",
-      "url": "https://arstechnica.com/cars/2024/09/more-than-20-of-vehicle-recalls-are-software-fixes-now/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-653513498-760x380.jpg"
     }
   ],
   "sortBy": "top",
