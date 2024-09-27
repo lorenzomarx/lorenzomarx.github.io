@@ -2,11 +2,27 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Russia's leader says strikes by a non-nuclear state aided by a nuclear power can be considered a joint attack",
+      "publishedAt": null,
+      "title": "Putin proposes broader remit for Russia nuclear strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjej0rvw0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e94f/live/5334c470-7b72-11ef-b487-93d163dc71aa.png"
+    },
+    {
+      "author": "BBC News",
       "description": "The vote to topple his government is likely to fail, but it signals a new series of tests for the prime minister.",
       "publishedAt": null,
       "title": "Justin Trudeau faces no-confidence vote in Canadian parliament",
       "url": "https://www.bbc.co.uk/news/articles/c93pg0gnkvxo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0e4d/live/5787fd50-7b43-11ef-b791-bfe2c55bf44d.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "More than 50 people were killed by Israeli strikes on Wednesday, as Hezbollah fires missile at Tel Aviv.",
+      "publishedAt": null,
+      "title": "Lebanon strikes preparing for ground offensive - Israel army chief",
+      "url": "https://www.bbc.co.uk/news/articles/c8xe8nkj9wyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1f9a/live/7dc9b1d0-7b38-11ef-b02d-c5f3b724a1ea.jpg"
     },
     {
       "author": "BBC News",
@@ -18,51 +34,11 @@
     },
     {
       "author": "BBC News",
-      "description": "A passenger is killed before a Swat team deployed flash-bang grenades and arrested the suspect.",
+      "description": "Experts told the US Coast Guard on Wednesday there were safety problems with Titan's hull.",
       "publishedAt": null,
-      "title": "One dead after gunman hijacks Los Angeles bus",
-      "url": "https://www.bbc.co.uk/news/articles/cevydvm3x4wo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e458/live/b51ddf60-7b62-11ef-8c1a-df523ba43a9a.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The tropical storm is forecast to strengthen into a category-three hurricane by Thursday.",
-      "publishedAt": null,
-      "title": "Storm Helene strengthens as it heads to Mexico and Florida",
-      "url": "https://www.bbc.co.uk/news/articles/czd13mezz7mo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de4c/live/5755b370-7b27-11ef-9147-77eaffa5f03f.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The Moroccan suspect was released from detention after serving five years for raping a student.",
-      "publishedAt": null,
-      "title": "Murder of Paris student fuels anger at failed deportation",
-      "url": "https://www.bbc.co.uk/news/articles/cly650vk317o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8ceb/live/04645ed0-7b33-11ef-85cb-d551b0b8f5f4.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Dick Caine was recently found guilty of sexually assaulting six female students in the 1970s and 1980s.",
-      "publishedAt": null,
-      "title": "Australian paedophile swim coach Dick Caine dies after conviction",
-      "url": "https://www.bbc.co.uk/news/articles/cvg3qmj2pz5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a027/live/96235df0-7b13-11ef-81ad-dfa84a4628fa.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Beijing said the test was \"routine\" but analysts say that is odd as the last such test was in 1980.",
-      "publishedAt": null,
-      "title": "China test-fires ICBM for first time in decades",
-      "url": "https://www.bbc.co.uk/news/articles/c4gl843l90zo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2f35/live/b597fe90-7af8-11ef-9cac-1dc2528c10d9.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "More than 600,000 people have shared a message falsely denying Meta the right to use their images to train AI.",
-      "publishedAt": null,
-      "title": "James McAvoy and Tom Brady fall for 'Goodbye Meta AI' hoax",
-      "url": "https://www.bbc.co.uk/news/articles/cj4d5jjqg2qo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3ea4/live/cf4782d0-7b38-11ef-bba4-ab568a9ca817.jpg"
+      "title": "How did Titan hull come apart? Safety experts weigh in",
+      "url": "https://www.bbc.co.uk/news/articles/c4g09gv4zg7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50c2/live/34b58880-7b5a-11ef-b282-4535eb84fe4b.jpg"
     },
     {
       "author": "BBC News",
@@ -79,6 +55,30 @@
       "title": "US election polls tracker 2024: Who is ahead - Harris or Trump?",
       "url": "https://www.bbc.co.uk/news/articles/cj4x71znwxdo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e457/live/d48d2d60-6f55-11ef-8c1a-df523ba43a9a.png"
+    },
+    {
+      "author": "BBC News",
+      "description": "Dick Caine was recently found guilty of sexually assaulting six female students in the 1970s and 1980s.",
+      "publishedAt": null,
+      "title": "Australian paedophile swimming coach Dick Caine dies after conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cvg3qmj2pz5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a027/live/96235df0-7b13-11ef-81ad-dfa84a4628fa.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The Ukrainian president says his country has to be \"very strong\" to push Russia to the negotiating table.",
+      "publishedAt": null,
+      "title": "Russia-Ukraine: War closer to the end than some think, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cr7582l4015o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebe2/live/586c33f0-7a60-11ef-b9fe-390153503232.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The Moroccan suspect was released from detention after serving five years for raping a student.",
+      "publishedAt": null,
+      "title": "Murder of Paris student fuels anger at failed deportation",
+      "url": "https://www.bbc.co.uk/news/articles/cly650vk317o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8ceb/live/04645ed0-7b33-11ef-85cb-d551b0b8f5f4.jpg"
     }
   ],
   "sortBy": "top",
