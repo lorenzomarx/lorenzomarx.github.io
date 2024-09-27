@@ -1,95 +1,251 @@
 {
   "articles": [
     {
+      "author": "The Weather Channel",
+      "content": null,
+      "description": "This massive hurricane could be destructive in several ways. Here's the very latest.",
+      "publishedAt": "2024-09-26T09:53:18Z",
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "title": "Hurricane Helene A Surge, Flood, High Wind Danger - The Weather Channel",
+      "url": "https://weather.com/storms/hurricane/news/2024-09-25-hurricane-tropical-storm-helene-forecast-florida-southeast",
+      "urlToImage": "https://s.w-x.co/hurricane-helene-forecast-25sep24-pm.jpg"
+    },
+    {
+      "author": "AAMER MADHANI, MATTHEW LEE, JENNIFER PELTZ",
+      "content": "NEW YORK (AP) The U.S., France and other allies jointly called Wednesday for an immediate 21-day cease-fire to allow for negotiations in the escalating conflict between Israel and Hezbollah that has \u2026 [+7470 chars]",
+      "description": "The U.S., France and other allies are jointly calling for an immediate 21-day cease-fire to allow for negotiations in the escalating conflict between Israel and Hezbollah that has killed more than 600 people in Lebanon. The joint statement Wednesday, negotiat\u2026",
+      "publishedAt": "2024-09-26T09:37:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah - The Associated Press",
+      "url": "https://apnews.com/article/biden-israel-hezbollah-war-ff2ec626f5d8883014f577b9a0cfaf1e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4385044/2147483647/strip/true/crop/4116x2315+0+214/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2F0b%2F4c7cd748063a28576626f4736c77%2F5e45573cde4049e7931fb52f0505787c"
+    },
+    {
+      "author": "WSJ Staff, Sabela Ojea, Patricia Kowsmann, Heard Editors",
+      "content": "After taking a quick breather, markets are looking up again.\r\nStock futures rose Thursday, with tech-heavy Nasdaq-100 futures up well over 1%. Chipmaker Micron Technology said late Wednesday that rob\u2026 [+1798 chars]",
+      "description": "Follow along for live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "publishedAt": "2024-09-26T09:32:00Z",
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "title": "Stock Market Today: What to Watch \u2014 Live Updates - The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-gdp-jobless-data-09-26-2024",
+      "urlToImage": "https://images.wsj.net/im-925349/social"
+    },
+    {
+      "author": "Krystal Hu, Kenrick Cai",
+      "content": null,
+      "description": "The move could also have implications for how the company manages AI risks in a new governance structure.",
+      "publishedAt": "2024-09-26T09:22:15Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Exclusive: OpenAI to remove non-profit control and give Sam Altman equity - Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/G7MSE5SWOFPQRANJK5FBWQIXII.jpg?auth=88d54d448ebd15c18c83d6b86389abe78c2478203cc73793671f6e00466e82a9&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": null,
-      "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nIt was an orca-versus-dolphin matchup, and the dolphin\u2026 [+7665 chars]",
-      "description": "The Humboldt Current\u2019s orcas have yet to be assigned to an ecotype, and their hunting behavior provides clues about where the mysterious population might belong, researchers say.",
-      "publishedAt": "2024-09-26T04:00:00Z",
+      "content": "Chinas top leaders ramped up urgent efforts to revive growth with pledges to support fiscal spending and stabilize the beleaguered property sector, giving new momentum to stimulus measures aimed at a\u2026 [+468 chars]",
+      "description": "China\u2019s top leaders ramped up urgent efforts to revive growth with pledges to support fiscal spending and stabilize the beleaguered property sector, giving new momentum to stimulus measures aimed at arresting a slowdown in the world\u2019s second-largest economy.",
+      "publishedAt": "2024-09-26T08:30:50Z",
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "title": "China\u2019s Politburo Supercharges Stimulus With Housing, Rates Vows - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-26/china-holds-surprise-politburo-meeting-on-economy-amid-slowdown",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii1zThWIEsd4/v0/1200x800.jpg"
+    },
+    {
+      "author": "Lex Harvey",
+      "content": "A pair of blood-spattered trousers in a miso tank and an allegedly forced confession helped send Iwao Hakamata to death row in the 1960s.\r\nNow, more than five decades later, the worlds longest-servin\u2026 [+5608 chars]",
+      "description": "A pair of blood-spattered trousers in a miso tank and an allegedly forced confession helped send Iwao Hakamata to death row more than five decades ago.",
+      "publishedAt": "2024-09-26T07:05:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "Elusive orca group hunts dolphins off Chile, new images reveal - CNN",
-      "url": "https://www.cnn.com/2024/09/26/science/orcas-new-images-hunting-dolphins/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dsc8295-3.jpg?c=16x9&q=w_800,c_fill"
+      "title": "He\u2019s the world\u2019s longest-serving death row inmate. A court just declared him innocent - CNN",
+      "url": "https://www.cnn.com/2024/09/25/asia/worlds-longest-death-row-prisoner-japan-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/untitled-3-21.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Francesca Ebel, Natalia Abbakumova, Robyn Dixon, Catherine Belton",
-      "content": "Russian President Vladimir Putin made a fresh nuclear threat against the West and Ukraine on Wednesday, indicating that any nations conventional attack on Russia that was supported by a nuclear power\u2026 [+6857 chars]",
-      "description": "Russian President Vladimir Putin said non-nuclear states supported by nuclear ones could face Russia\u2019s nuclear deterrent in an expansion of its policy.",
-      "publishedAt": "2024-09-26T03:48:44Z",
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-09-26T05:48:40Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "[Removed]"
       },
-      "title": "Russia\u2019s nuclear doctrine to include attacks on nonnuclear states - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2024/09/25/putin-nuclear-deterrent-ukraine-threat/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IVNF7AY2OCKWJWKWZ2WSFBNDGE.JPG&w=1440"
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
     },
     {
-      "author": "Ryan Young",
-      "content": "Caitlin Clark's rookie campaign in the WNBA is now over. (Joe Buglewicz/Getty Images)\r\nCaitlin Clarks rookie season is now over.\r\nAlyssa Thomas and the Connecticut Sun closed out their opening-round \u2026 [+5486 chars]",
-      "description": "Caitlin Clark's rookie campaign in the WNBA is now over.",
-      "publishedAt": "2024-09-26T02:22:00Z",
+      "author": "Cassandra Negley",
+      "content": "UNCASVILLE, Conn. The championship version of Caitlin Clark and the Indiana Fever was never going to be built in a season. No one, from the general manager to the highly competitive Clark, were blind\u2026 [+6527 chars]",
+      "description": "Clark was on her game as the Fever's season ended in Game 2, but she is looking for more. \"The fun part is I feel like I'm just scratching the surface...",
+      "publishedAt": "2024-09-26T05:35:11Z",
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "title": "WNBA playoffs: Sun fend off Caitlin Clark, Fever to reach semifinals and end her rookie season - Yahoo Sports",
-      "url": "https://sports.yahoo.com/live/wnba-playoffs-sun-fend-off-caitlin-clark-fever-to-reach-semifinals-and-end-her-rookie-season-222937842.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IZYNpbC9EvuENlia6oex2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzc-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/e3581bb0-7ba4-11ef-8bad-8a76ff3e87fa"
+      "title": "WNBA playoffs: As Caitlin Clark's season ends, it's a reminder that this is just the beginning - Yahoo Sports",
+      "url": "https://sports.yahoo.com/wnba-playoffs-as-caitlin-clarks-season-ends-its-a-reminder-that-this-is-just-the-beginning-053511038.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IW7jr498Yjc9CRz3FmJVUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/a17d3df0-7bc8-11ef-bfaf-91164a4ca169"
     },
     {
-      "author": "Kevin Liptak, Alex Marquardt, Natasha Bertrand, Jennifer Hansler, MJ Lee",
-      "content": "The United States and several of its allies called Wednesday for a 21-day ceasefire between Israel and Hezbollah across the Israel-Lebanon border as they work to prevent a regional war from erupting.\u2026 [+9700 chars]",
-      "description": "The United States and 10 of its allies called Wednesday for a 21-day ceasefire across the Israel-Lebanon border as they work to prevent a regional war from erupting.",
-      "publishedAt": "2024-09-26T01:50:00Z",
+      "author": null,
+      "content": "The Speaker of the US House Mike Johnson has demanded that Ukraine fire its ambassador to Washington, as a feud between the Republican Party and Volodymyr Zelensky escalates. \r\nJohnson's intervention\u2026 [+3845 chars]",
+      "description": "Republicans accused Zelensky of election interference, after he visited an arms factory with top Democrats.",
+      "publishedAt": "2024-09-26T04:18:42Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "BBC News"
       },
-      "title": "US and allies call for 21-day ceasefire across Israel-Lebanon border - CNN",
-      "url": "https://www.cnn.com/2024/09/25/politics/us-plan-mediate-israel-hezbollah-ceasefire/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24269385602186-20240925143209154-20240925143224311.jpg?c=16x9&q=w_800,c_fill"
+      "title": "Escalating Trump row looms over Zelensky's US visit - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c80rkv0k4j8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb05/live/6a9a8220-7be6-11ef-a067-535ff32592e2.jpg"
     },
     {
-      "author": "Alex Gangitano",
-      "content": "Skip to content\r\nVice President Harris sat down with MSNBC\u2019s Stephanie Ruhle on Wednesday, during which she fielded questions on her economic agenda, former President Trump\u2019s economic plans, and her \u2026 [+5732 chars]",
-      "description": "Vice President Harris sat down with MSNBC\u2019s Stephanie Ruhle on Wednesday, during which she fielded questions on her economic agenda, former President Trump\u2019s economic plans, and her running mate, Minnesota Gov. Tim Walz (D). The interview on MSNBC was a frien\u2026",
-      "publishedAt": "2024-09-26T01:07:00Z",
+      "author": "Frontiers",
+      "content": "Off the coast of Chile, in waters filled with krill and anchovy by the Humboldt Current system, live an elusive and little-known population of orcas. Thanks to citizen science and years of dedicated \u2026 [+4928 chars]",
+      "description": "Off the coast of Chile, in waters filled with krill and anchovy by the Humboldt Current system, live an elusive and little-known population of orcas. Thanks to citizen science and years of dedicated surveillance, a team of scientists led by Dr. Ana Garc\u00eda Ceg\u2026",
+      "publishedAt": "2024-09-26T04:00:01Z",
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "title": "Mysterious orca group near Chile tracked down, revealing newly discovered hunting skills - Phys.org",
+      "url": "https://phys.org/news/2024-09-mysterious-orca-group-chile-tracked.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mysterious-orca-group.jpg"
+    },
+    {
+      "author": "Aditi Srivastava",
+      "content": "A growing list of celebrities, including Beyonc\u00e9, J.Lo, Justin Bieber, Usher, and others, is being linked to Sean \"Diddy\" Combs' infamous parties. While a few celebs have outright denied attending th\u2026 [+4685 chars]",
+      "description": "While some celebrities confirm attending Diddy's parties, they deny involvement in the alleged 'Freak Offs. Speculations about attendees, dubbed \u2018Diddy list\u2019\u2026 | Hollywood",
+      "publishedAt": "2024-09-26T03:55:03Z",
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "title": "Diddy\u2019s \u2018white list\u2019: Beyonc\u00e9, J.Lo, Justin Bieber, Usher, and more. What celebs have said about infamous parties? - Hindustan Times",
+      "url": "https://www.hindustantimes.com/entertainment/hollywood/diddys-white-list-beyonc-j-lo-justin-bieber-usher-and-more-what-celebs-have-said-about-infamous-parties-101727322277033.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/09/26/1600x900/Diddywhiteguestlist_1727322689959_1727322698343.jpg"
+    },
+    {
+      "author": "Victor Nava",
+      "content": "Vice President Kamala Harris on Wednesday refused to explain how she intends to pay for her pricey economic plan if Republicans in Congress block her proposed presidential agenda, one of several ques\u2026 [+4990 chars]",
+      "description": "The vice president also served up several word salads during her MSNBC sitdown.",
+      "publishedAt": "2024-09-26T03:39:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "Kamala Harris won\u2019t say how she\u2019ll pay for $1.7T spending plan in first solo interview with major news network - New York Post ",
+      "url": "https://nypost.com/2024/09/25/us-news/kamala-harris-wont-say-how-shell-pay-for-1-7t-spending-plan-in-first-solo-sit-down-with-major-news-network/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/vice-president-kamala-harris-discusses-90404902.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+      "author": null,
+      "content": "A Japanese warship sailed through the Taiwan Strait between Taiwan and China for the first time, according to reports in Japanese media.\r\nThe JS Sazanami, a naval destroyer, passed through the strait\u2026 [+3305 chars]",
+      "description": "There has been a rise in patrols by the US and its allies who do not accept China's claims over the strait.",
+      "publishedAt": "2024-09-26T03:17:08Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Japan joins patrols through Taiwan Strait - reports - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cm28yd04xxno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/285f/live/f0c4d330-7bb6-11ef-b1e6-b9e53e4962ea.jpg"
+    },
+    {
+      "author": "Filip Timotija",
+      "content": "Skip to content\r\nTop staff in North Carolina Lt. Gov. Mark Robinson\u2019s (R) government office will be stepping down next week, multipleoutlets reported on Wednesday, increasing the number of aides part\u2026 [+1801 chars]",
+      "description": "Top staff in North Carolina Lt. Gov. Mark Robinson\u2019s (R) government office will be stepping down next week, multiple outlets reported on Wednesday, increasing the number of aides parting ways with the state\u2019s GOP gubernatorial candidate following CNN\u2019s explos\u2026",
+      "publishedAt": "2024-09-26T03:06:00Z",
       "source": {
         "id": "the-hill",
         "name": "The Hill"
       },
-      "title": "5 takeaways from Harris\u2019s MSNBC interview with Stephanie Ruhle - The Hill",
-      "url": "https://thehill.com/homenews/administration/4900063-kamala-harris-stephanie-ruhle-interview-takeaways/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/harris_pittsburgh_economicclub_092524.jpg?w=1280"
+      "title": "Top staff in NC Lt. Gov. Mark Robinson\u2019s office stepping down - The Hill",
+      "url": "https://thehill.com/homenews/campaign/4900197-top-staff-north-carolina-mark-robinson-office-stepping-down/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/08/AP24198041202925-e1722627272348.jpg?w=1280"
     },
     {
-      "author": "Reuters",
-      "content": "Flags of the People's Republic of China and the Russian Federation\r\nRussia\u00a0has\u00a0established a weapons program in\u00a0China\u00a0to develop and produce long-range attack\u00a0drones\u00a0for use in the\u00a0war\u00a0against Ukrain\u2026 [+8701 chars]",
-      "description": "Russia has weapons program in China to manufacture long-range attack drones for the Ukraine war, according to European intelligence as reviewed by Reuters.",
-      "publishedAt": "2024-09-26T01:03:00Z",
+      "author": "Al Jazeera",
+      "content": "Russian President Vladimir Putin has warned that Russia could respond with nuclear weapons if it were attacked with conventional arms in the latest changes to the countrys nuclear doctrine.\r\nIn a tel\u2026 [+4322 chars]",
+      "description": "Comments appear to significantly lower the threshold for Russia to use its vast nuclear arsenal.",
+      "publishedAt": "2024-09-26T02:50:38Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Putin outlines new rules for Russian use of vast nuclear arsenal - Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2024/9/26/putin-outlines-new-rules-for-russian-use-of-vast-nuclear-arsenal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24269655004743-1727316639.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-09-26T02:09:58Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Detroit 'Bridgerton' ball attendees speak out: 'We were completely devastated' - ABC News",
+      "url": "https://abcnews.go.com/GMA/Culture/detroit-bridgerton-ball-attendees-speak-completely-devastated/story?id\\\\u003d114144636",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": "Israels military chief has told troops that extensive air strikes in Lebanon targeting the armed group Hezbollah could pave the way for them to enter enemy territory.\r\n\"You hear the jets overhead; we\u2026 [+5992 chars]",
+      "description": "More than 50 people were killed by Israeli strikes on Wednesday, as Hezbollah fires missile at Tel Aviv.",
+      "publishedAt": "2024-09-26T02:06:14Z",
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "BBC News"
       },
-      "title": "Russia has secret war drones project in China, intel sources say in Reuters report - CNBC",
-      "url": "https://www.cnbc.com/2024/09/26/russia-has-secret-war-drones-project-in-china-intel-sources-say-in-reuters-report.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039367-1727311091333-gettyimages-1395005913-chinarussiawsilk.jpeg?v=1727311141&w=1920&h=1080"
+      "title": "Lebanon strikes preparing for ground offensive - Israel army chief - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c8xe8nkj9wyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1f9a/live/7dc9b1d0-7b38-11ef-b02d-c5f3b724a1ea.jpg"
     },
     {
-      "author": "Kerry Breen",
-      "content": "Helene\u00a0intensified from a tropical storm to a hurricane on Wednesday morning and is forecast to strike Florida's Gulf Coast, likely in the Big Bend area, as a major hurricane this week.\r\nHurricane He\u2026 [+3798 chars]",
-      "description": "Maps show possible storm surge, rainfall levels and more as Hurricane Helene makes its way north toward Florida's Gulf Coast.",
-      "publishedAt": "2024-09-26T00:54:45Z",
+      "author": "Daniel Dale",
+      "content": "Vice President Kamala Harris made a false claim about the jobs record of her Republican opponent, former President Donald Trump, in an interview on MSNBC on Wednesday evening.\r\nInterviewer Stephanie \u2026 [+3770 chars]",
+      "description": "Vice President Kamala Harris made a false claim about the jobs record of her Republican opponent, former President Donald Trump, in an interview on MSNBC on Wednesday evening.",
+      "publishedAt": "2024-09-26T01:25:00Z",
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Maps show track of Hurricane Helene: What to know about possible paths and storm surge - CBS News",
-      "url": "https://www.cbsnews.com/news/tropical-storm-helene-hurricane-path-maps-track-forecast/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/25/bc605e6b-784f-4ac3-8134-ed46f00042f3/thumbnail/1200x630/a411a682e93e15f071dd064d339e0744/helene-cone.png?v=05e1d8b62a2ebbf0c759b67223fa87f8"
+      "title": "Fact check: Harris makes false claim about Trump\u2019s record on manufacturing jobs - CNN",
+      "url": "https://www.cnn.com/2024/09/25/politics/fact-check-harris-trumps-manufacturing-jobs/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20989448-2874-666-still.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Natalia Drozdiak",
+      "content": "The Pentagon praised China for its transparency before the test launch of an intercontinental ballistic missile into the Pacific Ocean, in a sign that military communication between the superpowers i\u2026 [+271 chars]",
+      "description": "The Pentagon praised China for its transparency before the test launch of an intercontinental ballistic missile into the Pacific Ocean, in a sign that military communication between the superpowers is improving.",
+      "publishedAt": "2024-09-26T00:39:00Z",
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "title": "US Hails China\u2019s Advanced Notice of ICBM Test as \u2018Good Thing\u2019 - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-26/us-hails-china-s-advanced-notice-of-icbm-test-as-good-thing",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibqOCAcZ09Xw/v1/1200x800.jpg"
     },
     {
       "author": "Adri\u00e1n Blanco, Chris Alcantara",
@@ -103,162 +259,6 @@
       "title": "How every senator voted on the stopgap bill to avert a government shutdown - The Washington Post",
       "url": "https://www.washingtonpost.com/politics/interactive/2024/09/25/senate-vote-results-government-shutdown-bill-cr/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EU4LQCYM7VBA7LTNJQQQ4NJZCA.jpg&w=1200"
-    },
-    {
-      "author": "LISA MASCARO",
-      "content": "WASHINGTON (AP) House Speaker Mike Johnson is calling on Ukrainian President Volodymyr Zelenskyy to fire his countrys ambassador to the U.S. as Republicans criticize Zelenskyys visit to an ammunition\u2026 [+5859 chars]",
-      "description": "House Speaker Mike Johnson is calling on Ukrainian President Volodymyr Zelenskyy to fire his country\u2019s ambassador to the U.S. The Republican speaker is criticizing Zelenskyy's visit to an ammunition plant in Pennsylvania, a swing-state, as a political stunt. \u2026",
-      "publishedAt": "2024-09-26T00:18:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Speaker Johnson demands Zelenskyy remove Ukraine's ambassador to US after Pennsylvania visit - The Associated Press",
-      "url": "https://apnews.com/article/zelenskyy-johnson-ambassador-ukraine-biden-harris-trump-d81b0a055d99cfd4804b3f2c00915d09",
-      "urlToImage": "https://dims.apnews.com/dims4/default/58ec8d1/2147483647/strip/true/crop/3000x1688+0+154/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2d%2Fed%2F609725d27697bc828590f2f57f97%2F15ae95e7e9994af783c61e28d26abe54"
-    },
-    {
-      "author": "BARBARA ORTUTAY",
-      "content": "MENLO PARK, California (AP) Meta unveiled updates to the companys virtual reality headset and Ray Ban smart glasses on Wednesday as it tries to demonstrate its artificial intelligence prowess and the\u2026 [+4856 chars]",
-      "description": "Meta has unveiled updates to the company\u2019s virtual reality headset and Ray Ban smart glasses along as it tries to demonstrate its artificial intelligence prowess and the next generation of computing platforms beyond smartphones and computers. CEO Mark Zuckerb\u2026",
-      "publishedAt": "2024-09-26T00:03:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Meta unveils cheaper VR headset, AI updates and shows off prototype for holographic AR glasses - The Associated Press",
-      "url": "https://apnews.com/article/meta-connect-zuckerberg-quest-ai-orion-dc8228049dea6a00b0f818ddb35f0c31",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1306fcf/2147483647/strip/true/crop/2434x1369+0+127/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2Ff4%2Fd4405b232a70fa933e6b7c3ff709%2Fad0f4266e4eb4a6c80a75d7f62c452db"
-    },
-    {
-      "author": "Eden Getachew",
-      "content": "Natasha Stoynoff, former People Magazine reporter who accused Donald Trump of sexually assaulting her while writing an article about him and his wife Melania, speaks to CNN's Erin Burnett.",
-      "description": "Natasha Stoynoff, former People Magazine reporter who accused Donald Trump of sexually assaulting her while writing an article about him and his wife Melania, speaks to CNN\u2019s Erin Burnett.",
-      "publishedAt": "2024-09-25T23:31:14Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Trump sexual assault accuser speaks to CNN - CNN",
-      "url": "https://www.cnn.com/2024/09/25/politics/video/natasha-stoynoff-sexual-assault-accuser-ebof-digvid",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/natasha-stoynoff.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Lisa Kailai Han",
-      "content": "Futures tied to the Dow Jones Industrial Average were little changed on Wednesday night after the index broke a four-day win streak.\r\nDow futures slipped 20 points, or 0.05%. S&amp;P 500 futures rose\u2026 [+1955 chars]",
-      "description": "Traders tried to shake off Wednesday's losses as they looked ahead to the latest weekly jobless claims numbers.",
-      "publishedAt": "2024-09-25T23:26:00Z",
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "title": "Dow futures are little changed after index breaks four-day winning run: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2024/09/25/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039087-1727283086006-NYSE_Traders-OB-Photo-ALR-20240925-Press-3.jpg?v=1727297047&w=1920&h=1080"
-    },
-    {
-      "author": "",
-      "content": "The Dallas Cowboys are doing something they've never done before this week: play a road game on a short week. It may be hard to believe, but the Cowboys have never played an away game with just three\u2026 [+1141 chars]",
-      "description": "Dallas is in new territory this week",
-      "publishedAt": "2024-09-25T23:21:00Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "Cowboys will do something they've never done when traveling to face Giants for 'Thursday Night Football' - CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-will-do-something-theyve-never-done-when-traveling-to-face-giants-for-thursday-night-football/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/25/ac763280-6b9f-4c86-b9e0-d14e14c26e8b/thumbnail/1200x675/8e0c7d0fd15d25c2f39dba1b35487fc4/cowboys.jpg"
-    },
-    {
-      "author": "Saman Shafiq",
-      "content": "Time for a round of laughs with the finalists for the 2024 Comedy Wildlife Awards.\r\nThe shortlist announced Wednesday are a cracking collection of amazing, jaw dropping and laugh out loud photos of s\u2026 [+1665 chars]",
-      "description": "From bears hugging it out to a mafia boss squirrel, see hilarious animal photos shortlisted for the 2024 Comedy Wildlife Photography Awards.",
-      "publishedAt": "2024-09-25T23:02:12Z",
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "title": "Funniest wildlife photos of the year showcased in global competition: See the finalists - USA TODAY",
-      "url": "https://www.usatoday.com/story/life/animalkind/2024/09/25/funniest-animal-photos-comedy-wildlife-awards/75375185007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/25/USAT/75377317007-marti-phillips-are-you-kidding.jpg?crop=5450,3065,x0,y316&width=3200&height=1800&format=pjpg&auto=webp"
-    },
-    {
-      "author": "Associated Press",
-      "content": "A 10th person has died in the listeria outbreak that\u00a0shuttered\u00a0a Boars Head deli meat plant, federal health officials said Wednesday.\r\nAt least 59 people in 19 states have been sickened by the bacter\u2026 [+1753 chars]",
-      "description": "The latest fatality was reported in New York, bringing the total deaths to two each in New York and South Carolina and one each in Illinois, New Jersey, Virginia, Florida, Tennessee and New Mexico.",
-      "publishedAt": "2024-09-25T23:00:00Z",
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "title": "Death toll from Boar\u2019s Head listeria outbreak reaches grim milestone - New York Post ",
-      "url": "https://nypost.com/2024/09/25/business/tenth-person-dead-from-listeria-outbreak-tied-to-boars-head-deli-meat/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/boars-head-listeria.jpg?quality=75&strip=all&1727289429&w=1024"
-    },
-    {
-      "author": "ABC News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-09-25T22:52:30Z",
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "title": "Trump suggests Iran tied to assassination attempts, issues blunt warning - ABC News",
-      "url": "https://abcnews.go.com/International/trump-lashes-iran-security-officials-warn-rise-foreign/story?id\\\\u003d114086967",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "Ordinarily, US District Judge Gary J Brown would have sent the man to the local federal jail to serve out his sentence for tax fraud.\r\nBut one thing stopped him: The dangerous, barbaric conditions th\u2026 [+5322 chars]",
-      "description": "An extensive list of notable names have passed through the doors of the troubled Brooklyn facility",
-      "publishedAt": "2024-09-25T22:48:11Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Sean Diddy Combs: 'Chaos reigns' at notorious jail holding mogul - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cjwdq3ppw01o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c867/live/72e82120-7b6a-11ef-8071-0b9b667f9719.jpg"
-    },
-    {
-      "author": "Michael Fabiano",
-      "content": "Its Week 4, folks! Its time to set those fantasy lineups! Start Em, Sit 'Em is the ultimate look at the best and worst matchups in a given week for fantasy football leagues. I wont cover elite wide r\u2026 [+5120 chars]",
-      "description": "It\u2019s Week 4, folks! It\u2019s time to set those fantasy lineups! Start \u2018Em, Sit 'Em is the ultimate look at the best and worst matchups in a given week for fantasy f",
-      "publishedAt": "2024-09-25T22:42:19Z",
-      "source": {
-        "id": null,
-        "name": "Sports Illustrated"
-      },
-      "title": "Wide Receiver Start 'Em, Sit 'Em Picks For Fantasy Football Week 4 - Sports Illustrated",
-      "url": "https://www.si.com/fantasy/wide-receiver-start-em-sit-em-picks-for-fantasy-football-week-4-01j8j9s9edw0",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5537,h_3114,x_0,y_157/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j8ja8pmqfg8abf6akq.jpg"
-    },
-    {
-      "author": "JOSH BOAK, ZEKE MILLER, STEVE PEOPLES",
-      "content": "PITTSBURGH (AP) Vice President Kamala Harris on Wednesday pledged to build an economy that is both pro-business and helps the middle class as she pushed back against Republican nominee Donald Trump s\u2026 [+6497 chars]",
-      "description": "Vice President Kamala Harris is pledging to build an economy that is both pro-business and helps the middle class as she pushes back against Republican nominee Donald Trump\u2019s claims that she\u2019s advancing \u201ccommunist\u201d ideas. The Democratic nominee stressed in re\u2026",
-      "publishedAt": "2024-09-25T22:37:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Harris is making a 'capitalist' pitch to boost the economy as Trump pushes deeper into populism - The Associated Press",
-      "url": "https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670",
-      "urlToImage": "https://dims.apnews.com/dims4/default/edd6a82/2147483647/strip/true/crop/5281x2971+0+277/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2F7c%2F825f35a984b5e7a818514c67c5df%2Ff3aac55cc6ce4236a842cc280078d97b"
-    },
-    {
-      "author": "William Earl",
-      "content": "The actors behind Ian Brennan and Ryan Murphy\u2019s \u201cMonsters: The Lyle and Erik Menendez Story\u201d have responded to backlash concerning the show\u2019s suggestion of an incestuous relationship between brothers\u2026 [+6096 chars]",
-      "description": "The cast of Netflix's 'Monsters' respond to criticisms claiming the series portrays the Menendez brothers as having an incestuous relationship.",
-      "publishedAt": "2024-09-25T22:12:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "\u2018Monsters\u2019 Cast Reacts to Controversy Over Homoerotic Brother Scenes; Erik Menendez Actor Cooper Koch \u2018Does Not\u2019 Believe the Siblings Were Incestuous - Variety",
-      "url": "https://variety.com/2024/tv/news/monsters-cast-responds-homoerotic-brothers-incest-scenes-1236154988/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/09/lyle-erik-menendez-monsters.jpg?w=1000&h=563&crop=1"
     }
   ],
   "status": "ok",
