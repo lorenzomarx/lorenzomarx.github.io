@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "author": "Kyle Orland",
+      "description": "Switch-maker shows little interest in jumping on the latest industry bandwagon.",
+      "publishedAt": "2024-09-26T15:01:42+00:00",
+      "title": "Legendary Mario creator on AI: Nintendo is \u201cgoing the opposite direction\u201d",
+      "url": "https://arstechnica.com/gaming/2024/09/legendary-mario-creator-on-ai-nintendo-is-going-the-opposite-direction/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/miyamoto-615x380.png"
+    },
+    {
+      "author": "Beth Mole",
+      "description": "Ralph de la Torre, CEO of Steward, faces up to 12 months in prison if convicted.",
+      "publishedAt": "2024-09-26T14:56:42+00:00",
+      "title": "Senate holds rich CEO of \u201cthird-world medicine\u201d hospitals in contempt",
+      "url": "https://arstechnica.com/science/2024/09/senate-holds-rich-ceo-of-third-world-medicine-hospitals-in-contempt/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2170818186-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Under plans that have attracted criticism, shift may give Altman 7% stake in the firm.",
+      "publishedAt": "2024-09-26T14:48:09+00:00",
+      "title": "OpenAI plans tectonic shift from nonprofit to for-profit, giving Altman equity",
+      "url": "https://arstechnica.com/information-technology/2024/09/openai-plans-tectonic-shift-from-nonprofit-to-for-profit-giving-altman-equity/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift-760x380.jpg"
+    },
+    {
+      "author": "Samuel Axon",
+      "description": "This is Apple's most iterative annual release yet, but that's not a bad thing.",
+      "publishedAt": "2024-09-26T14:13:57+00:00",
+      "title": "iPhone 16 and 16 Pro review: A worthy upgrade after three years",
+      "url": "https://arstechnica.com/gadgets/2024/09/iphone-16-and-16-pro-review-camera-features-headline-a-mature-product/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/iPhones-16-760x380.jpeg"
+    },
+    {
+      "author": "Bob Holmes, Knowable Magazine",
+      "description": "Nightly suspended animation, sugary diet, backwards flight, and long migrations help.",
+      "publishedAt": "2024-09-26T13:29:18+00:00",
+      "title": "Hummingbirds thrive on an extreme lifestyle. Here\u2019s how.",
+      "url": "https://knowablemagazine.org/content/article/living-world/2024/how-hummingbirds-adapt-to-an-extreme-lifestyle",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/sapphire-760x380.jpg"
+    },
+    {
+      "author": "Benj Edwards",
+      "description": "Three major departures on same day raise questions about AI company's future.",
+      "publishedAt": "2024-09-26T12:42:33+00:00",
+      "title": "As OpenAI CTO and two others depart, Altman denies link to restructuring plans",
+      "url": "https://arstechnica.com/information-technology/2024/09/openais-murati-shocks-with-sudden-departure-announcement/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/mira_murati-760x380.jpg"
+    },
+    {
       "author": "Dan Goodin",
       "description": "Proposed guidelines aim to inject badly needed common sense into password hygiene.",
       "publishedAt": "2024-09-25T22:39:38+00:00",
@@ -10,7 +58,7 @@
     },
     {
       "author": "Scharon Harding",
-      "description": "\u201cMy morale for this job is gone ...\"",
+      "description": "\u201cMy morale for this job is gone...\"",
       "publishedAt": "2024-09-25T22:15:38+00:00",
       "title": "Most Amazon workers considering job hunting due to 5-day in-office policy: Poll",
       "url": "https://arstechnica.com/tech-policy/2024/09/91-percent-of-amazon-employees-are-dissatisfied-with-remote-work-ending-poll/",
@@ -25,60 +73,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1234867082-760x380.jpg"
     },
     {
-      "author": "Benj Edwards",
-      "description": "OpenAI CTO's resignation coincides with news about the company's planned restructuring.",
-      "publishedAt": "2024-09-25T21:34:33+00:00",
-      "title": "OpenAI\u2019s Murati shocks with sudden departure announcement",
-      "url": "https://arstechnica.com/information-technology/2024/09/openais-murati-shocks-with-sudden-departure-announcement/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/mira_murati-760x380.jpg"
-    },
-    {
       "author": "Samuel Axon",
       "description": "It will now launch the same year as another, maybe better, open-world samurai game.",
       "publishedAt": "2024-09-25T21:20:48+00:00",
       "title": "Assassin\u2019s Creed Shadows delayed after poor Star Wars Outlaws reception",
       "url": "https://arstechnica.com/gaming/2024/09/assassins-creed-shadows-delayed-after-poor-star-wars-outlaws-reception/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/660e5a03fbff4e2940488bcd-1-760x380.webp"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "Listen to our first audio demo with OpenAI's new natural voice chat features.",
-      "publishedAt": "2024-09-25T21:04:30+00:00",
-      "title": "Talking to ChatGPT for the first time is a surreal experience",
-      "url": "https://arstechnica.com/ai/2024/09/talking-to-chatgpt-for-the-first-time-is-a-surreal-experience/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1533302708-760x380.jpg"
-    },
-    {
-      "author": "Ashley Belanger",
-      "description": "You can't \"sue anyone with a click of a button\" without testing it first, FTC says.",
-      "publishedAt": "2024-09-25T20:40:49+00:00",
-      "title": "DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says",
-      "url": "https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1354189344-760x380.jpg"
-    },
-    {
-      "author": "Jon Brodkin",
-      "description": "Cox disputes speed tests, claims it serves areas eligible for broadband grants.",
-      "publishedAt": "2024-09-25T20:07:59+00:00",
-      "title": "Cox asks court to block Rhode Island plan for broadband expansions",
-      "url": "https://arstechnica.com/tech-policy/2024/09/cox-sues-state-in-attempt-to-block-109-million-in-funding-for-rival-isps/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/ethernet-cable-760x380.jpg"
-    },
-    {
-      "author": "Kyle Orland",
-      "description": "100g \"Orion\" prototype offers 70-degree FOV, could hit market \"in the next few years.\"",
-      "publishedAt": "2024-09-25T19:43:52+00:00",
-      "title": "Meta\u2019s new lightweight AR prototype shows a future beyond bulky VR headsets",
-      "url": "https://arstechnica.com/gadgets/2024/09/metas-new-lightweight-ar-prototype-shows-a-future-beyond-bulky-vr-headsets/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/metaorion5-760x380.png"
-    },
-    {
-      "author": "Andrew Cunningham",
-      "description": "But it's too bad that Intel had to turn to TSMC to make its chips competitive.",
-      "publishedAt": "2024-09-25T19:03:04+00:00",
-      "title": "Review: Intel Lunar Lake CPUs combine good battery life and x86 compatibility",
-      "url": "https://arstechnica.com/gadgets/2024/09/testing-intels-next-gen-core-ultra-200v-cpus-ok-performance-great-battery-life/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/IMG_2190-760x380.jpeg"
     }
   ],
   "sortBy": "top",
