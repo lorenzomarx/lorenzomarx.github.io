@@ -1,134 +1,225 @@
 {
   "articles": [
     {
-      "author": "Alex Sundby, Brian Dakss, Jason Allen, David Yeomans",
-      "content": "Hurricane Helene strengthened to a dangerous Category 4\u00a0in the Gulf of Mexico before making landfall in Florida's Big Bend area\u00a0late Thursday night. Helene was forecast to bring \"catastrophic and dea\u2026 [+10381 chars]",
-      "description": "More than 1.1 million customers in Florida were without power as the Helene made landfall in the Big Bend area on Florida's Gulf Coast.",
-      "publishedAt": "2024-09-27T04:17:38Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Hurricane Helene makes landfall in Florida's Big Bend as Category 4 storm, over 1 million without power - CBS News",
-      "url": "https://www.cbsnews.com/news/hurricane-helene-path-florida/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/27/55454e1d-501d-4688-8499-5833afca581c/thumbnail/1200x630/42be8bb6d1fb0344e2afbebb880346a2/late-night-hurricane.jpg?v=75eebeb27c74c775b9f2d93539861fb6"
-    },
-    {
-      "author": "Karen DeYoung, Rachel Chason",
-      "content": "Israels Prime Minister Benjamin Netanyahu on Thursday dismissed a U.S.-backed push for a 21-day cease-fire with Hezbollah in Lebanon and vowed that fighting would continue, even as Biden administrati\u2026 [+8363 chars]",
-      "description": "The U.S. said Israel had signaled it would agree to a temporary truce with Hezbollah. Instead, Prime Minister Benjamin Netanyahu vowed to keep fighting.",
-      "publishedAt": "2024-09-27T04:10:49Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Netanyahu dismisses Hezbollah cease-fire push, confounding White House - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2024/09/26/netanyahu-israel-hezbollah-ceasefire/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FXU6N6DYEGOOAAWVCUD3RL6TJQ.JPG&w=1440"
-    },
-    {
-      "author": "Charean Williams",
-      "content": "Cowboys defensive end Micah Parsons has had a rough night.\r\nHe got cleared from a concussion in the first half but missed time with a neck injury. \r\nWith 3:30 left, Parsons was rushing on center John\u2026 [+641 chars]",
-      "description": "Cowboys defensive end Micah Parsons has had a rough night.",
-      "publishedAt": "2024-09-27T03:15:42Z",
+      "author": "Jonathan Vanian",
+      "content": "The most impressive aspect of Meta's Orion augmented-reality glasses has more to do with size and comfort than flashy computer graphics.\r\nCNBC senior media and tech correspondent Julia Boorstin was a\u2026 [+4717 chars]",
+      "description": "CNBC senior media and tech correspondent Julia Boorstin experienced Meta's Orion AR glasses prototype, and was impressed by how lightweight they were.",
+      "publishedAt": "2024-09-27T10:00:01Z",
       "source": {
         "id": null,
-        "name": "NBCSports.com"
+        "name": "CNBC"
       },
-      "title": "Micah Parsons, Malik Nabers injured on back-to-back plays - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-malik-nabers-injured-on-back-to-back-plays",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c490e05/2147483647/strip/true/crop/2384x1341+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2Fc3%2F56d88b0641699ed98fc8bda35627%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D24332475"
+      "title": "Hands-on with Meta's Orion AR glasses prototype and the possible future of computing - CNBC",
+      "url": "https://www.cnbc.com/2024/09/27/hands-on-with-metas-orion-augmented-reality-smart-glasses-prototype.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039172-17272882542024-09-25t181706z_1213516645_rc2u7aaxxpc5_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1727288286&w=1920&h=1080"
     },
     {
-      "author": "Charlie Mason",
-      "content": "Season 21 of Greys Anatomy got off to a promising start Thursday\u00a0even as it teased one characters ending.\r\nPicking up shortly after the events of the Season 20 finale (recapped here), If Walls Could \u2026 [+4831 chars]",
-      "description": "Our recap of the Season 21 premiere of 'Grey's Anatomy' has all the deets on Meredith's deal with the devil, Link's big surprise and that steamy kiss.",
-      "publishedAt": "2024-09-27T03:00:00Z",
+      "author": "The Weather Channel",
+      "content": "At a Glance\r\n<ul><li>Helene is tracking inland over the Southeast.</li><li>Potentially historic rainfall flooding, damaging winds and some tornadoes will be impacts.</li><li>Helene made landfall as a\u2026 [+5422 chars]",
+      "description": "Here's the very latest on the danger Helene poses well inland through the Southeast.",
+      "publishedAt": "2024-09-27T10:00:00Z",
       "source": {
         "id": null,
-        "name": "TVLine"
+        "name": "The Weather Channel"
       },
-      "title": "Grey\u2019s Anatomy Season 21 Premiere Recap: Reversal of Misfortune \u2014 Plus, That Steamy Kiss\u2026 Damn - TVLine",
-      "url": "https://tvline.com/lists/greys-anatomy-season-21-premiere-recap-jules-mika-kiss/",
-      "urlToImage": "https://tvline.com/wp-content/uploads/2024/09/greys-anatomy-season-26-episode-1-ellen-pompeo-1.jpg?w=650"
+      "title": "Tropical Storm Helene's Inland Trek Producing Damaging Winds, Serious Flooding - The Weather Channel",
+      "url": "https://weather.com/storms/hurricane/news/2024-09-26-hurricane-helene-forecast-landfall-florida-southeast",
+      "urlToImage": "https://s.w-x.co/helene5amfri.jpg"
     },
     {
-      "author": "Whitney Vasquez",
-      "content": "She\u2019s not just a pretty face!\r\nQueen of country pop Shania Twain wasn\u2019t impressed with Brad Pitt \u00a0but she certainly served when she walked the red carpet at the People\u2019s Country Choice Awards on Thur\u2026 [+3683 chars]",
-      "description": "The denim Barbie was hardly recognizable with her blonde bob.",
-      "publishedAt": "2024-09-27T02:43:00Z",
+      "author": "Priscilla Alvarez",
+      "content": "Vice President Kamala Harris plans to go on the offensive against former President Donald Trump on immigration Friday when she visits the southern border in Arizona, campaign aides told CNN, as she t\u2026 [+5517 chars]",
+      "description": "Vice President Kamala Harris plans to go on the offensive against former President Donald Trump on immigration Friday when she visits the southern border in Arizona, campaign aides told CNN, as she tries to turn a political vulnerability on its head.",
+      "publishedAt": "2024-09-27T09:41:00Z",
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Country superstar Shania Twain, 59, looks unrecognizable in dazzling denim at People\u2019s Country Choice Awards - New York Post ",
-      "url": "https://nypost.com/2024/09/26/entertainment/country-superstar-looks-unrecognizable-at-peoples-country-choice-awards/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-s7hnbh7s9-1727409271958.jpg?quality=75&strip=all&1727394911&w=1024"
+      "title": "Harris heads to the US southern border, looking to close a polling gap with Trump - CNN",
+      "url": "https://www.cnn.com/2024/09/27/politics/harris-southern-border-arizona/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-26t212206z-1022777152-rc2l8aaxahmx-rtrmadp-3-usa-election-harris.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Michael Voepel",
-      "content": "The Chicago Sky have fired head coach Teresa Weatherspoon after just one season with the team, the Chicago Sun-Times reported Thursday night.\r\nSky rookie star Angel Reese appeared to confirm the news\u2026 [+1473 chars]",
-      "description": "Teresa Weatherspoon has been fired as head coach after the Sky missed the playoffs for the first time in six seasons, according to the Chicago Sun-Times.",
-      "publishedAt": "2024-09-27T02:26:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Report: Sky fire Weatherspoon after one season - ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/41465026/report-sky-fire-teresa-weatherspoon-one-season-coach",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0927%2Fr1392401_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "SciTechDaily",
+      "author": "POLITICO",
       "content": null,
       "description": null,
-      "publishedAt": "2024-09-27T02:20:41Z",
+      "publishedAt": "2024-09-27T09:00:00Z",
       "source": {
-        "id": null,
-        "name": "SciTechDaily"
+        "id": "politico",
+        "name": "Politico"
       },
-      "title": "Global Myopia Crisis: 1 in 3 Kids Now Near-Sighted - SciTechDaily",
-      "url": "https://scitechdaily.com/global-myopia-crisis-1-in-3-kids-now-near-sighted/",
+      "title": "There\u2019s a growing number of legal threats to DOJ\u2019s Jan. 6 cases - POLITICO",
+      "url": "https://www.politico.com/news/2024/09/27/jan-6-cases-legal-challenges-political-threats-00181313",
       "urlToImage": null
     },
     {
-      "author": "Greg Wehner",
-      "content": "Stockton Rush, the OceanGate co-founder and CEO behind the ill-fated Titan submersible, claimed the carbon fiber hull of the deep-diving vessel was developed with the help of NASA and aerospace manuf\u2026 [+3380 chars]",
-      "description": "OceanGate CEO Stockton Rush claimed NASA and aerospace manufacturers helped develop and design the carbon fiber hull, but the space agency said it had little involvement.",
-      "publishedAt": "2024-09-27T01:50:00Z",
+      "author": "POLITICO",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-09-27T09:00:00Z",
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "title": "\u2018Stay out of it\u2019: Port worker strike creates new hazard for Harris, Trump - POLITICO",
+      "url": "https://www.politico.com/news/2024/09/27/port-strike-harris-biden-trump-election-00181319",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": "Watch: The NYC mayor's dramatic day in under 60 seconds\r\nUS prosecutors have charged New York City Eric Adams with bribery and fraud charges as part of a \"long-running\" scheme that has upended politi\u2026 [+5228 chars]",
+      "description": "Prosecutors claim New York's mayor accepted opulent hotel stays and donations from Turkish citizens.",
+      "publishedAt": "2024-09-27T08:38:46Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "What is NYC Mayor Eric Adams accused of? The charges explained - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cly3gz35dgro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc57/live/a709ebb0-7c5e-11ef-b02d-c5f3b724a1ea.jpg"
+    },
+    {
+      "author": "Angelica Stabile",
+      "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag\u2026 [+5733 chars]",
+      "description": "A new study has found that participating in low-intensity exercise in the evening can help promote better sleep, as well as overall health. Fitness and sleep experts discuss the benefits.",
+      "publishedAt": "2024-09-27T08:30:00Z",
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "title": "Titan owner Rush claimed NASA helped develop carbon fiber hull; agency has different story - Fox News",
-      "url": "https://www.foxnews.com/us/titan-owner-rush-claimed-nasa-helped-develop-carbon-fiber-hull-agency-has-different-story",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/TITAN-submersible-split.jpg"
+      "title": "To improve your sleep, do this activity before bed, experts suggest - Fox News",
+      "url": "https://www.foxnews.com/health/improve-sleep-do-activity-before-bed-experts-suggest",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/exercise-before-sleep.jpg"
     },
     {
-      "author": "Helen Regan",
-      "content": "Japans ruling party will elect its new leader Friday, and the winner will become the countrys next prime minister.\r\nOut of a record nine candidates, three frontrunners are fighting a very close race \u2026 [+5765 chars]",
-      "description": "Japan\u2019s ruling party will elect its new leader Friday, and the winner will become the country\u2019s next prime minister.",
-      "publishedAt": "2024-09-27T01:32:00Z",
+      "author": "Sakura Murakami, John Geddie, Tim Kelly",
+      "content": null,
+      "description": "Ishiba prevailed over hardline nationalist Sanae Takaichi in a run-off vote in what was one of the most unpredictable Liberal Democratic Party leadership elections in decades.",
+      "publishedAt": "2024-09-27T08:17:31Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "title": "Japan\u2019s next prime minister could be its first woman leader - CNN",
-      "url": "https://www.cnn.com/2024/09/26/asia/japan-ruling-party-election-intl-hnk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240926-japan-prime-minister-split.jpg?c=16x9&q=w_800,c_fill"
+      "title": "Veteran Japan lawmaker Shigeru Ishiba to be PM after 'final battle' - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/japans-ldp-picks-new-leader-replace-outgoing-pm-kishida-2024-09-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/UPZTZ64JTVO3RKLWBJQZCGVISE.jpg?auth=87a6f091fb23bd3f19c529bff607f0e3fe716e2f79c5d0d46f49cfdbaa3de1ed&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Marshall Cohen",
-      "content": "The pro-Trump cable outlet Newsmax and\u00a0voting technology company\u00a0Smartmatic\u00a0settled a\u00a0major defamation lawsuit\u00a0Thursday\u00a0in a last-minute agreement, averting a high-stakes\u00a0trial over the airing of fal\u2026 [+4112 chars]",
-      "description": "The pro-Trump cable outlet Newsmax and\u00a0voting technology company\u00a0Smartmatic\u00a0settled a\u00a0major 2020 election defamation lawsuit\u00a0Thursday\u00a0in a last-minute agreement\u00a0to avoid a high-stakes\u00a0trial.",
-      "publishedAt": "2024-09-27T01:31:00Z",
+      "author": "Benjamin Mayo",
+      "content": "Apple analyst Ming-Chi Kuo this morning reported that Apple is readying a new generation of Apple Vision Pro headset, set to go into production in the second of half of 2025.\r\nThe new Vision Pro woul\u2026 [+1143 chars]",
+      "description": "Apple analyst Ming-Chi Kuo this morning reported that Apple is readying a new generation of Apple Vision Pro headset, set...",
+      "publishedAt": "2024-09-27T07:21:00Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "9to5Mac"
       },
-      "title": "Newsmax and Smartmatic settle 2020 election defamation case on eve of trial - CNN",
-      "url": "https://www.cnn.com/2024/09/26/media/newsmax-smartmatic-settle-defamation-case/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161699508.jpg?c=16x9&q=w_800,c_fill"
+      "title": "Kuo: New Apple Vision Pro with M5 chip on the way, featuring Apple Intelligence support - 9to5Mac",
+      "url": "https://9to5mac.com/2024/09/27/new-apple-vision-pro-2025/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iOS-18.1-Beta-4-Features-Jeff-Benjamin-Apple-Vision-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "author": "Vlad Savov",
+      "content": "(Bloomberg) -- Alibaba Group Holding Ltd., JD.com Inc. and Meituan enjoyed their best trading days in years after the Chinese government announced measures to stimulate the troubled domestic economy.\u2026 [+2042 chars]",
+      "description": "(Bloomberg) -- Alibaba Group Holding Ltd., JD.com Inc. and Meituan enjoyed their best trading days in years after the Chinese government announced measures...",
+      "publishedAt": "2024-09-27T06:11:03Z",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "title": "Alibaba, JD and Meituan Surge After China Stimulus Announcement - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/alibaba-jd-meituan-surge-china-061103624.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+    },
+    {
+      "author": "Mark Trevelyan, Andrew Osborn",
+      "content": null,
+      "description": "Putin has extended the list of scenarios that could lead to Russia using nuclear weapons. Whether he means it is a question critical to the course of the war. If he is serious, the conflict could turn into World War Three.",
+      "publishedAt": "2024-09-27T05:07:00Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Putin draws a nuclear red line for the West - Reuters",
+      "url": "https://www.reuters.com/world/europe/putin-draws-nuclear-red-line-west-2024-09-27/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LI6OIZVZBZM3NAOGH5VBZ22KPA.jpg?auth=7e5bd013e0c93241c68dc2e7130f80de3d3554e5c37947d9e09489211dd15be0&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "MAR\u00cdA VERZA",
+      "content": "MEXICO CITY (AP) Families of the 43 students from a rural teachers college abducted 10 years ago in southern Mexico marked the painful anniversary Thursday, disillusioned after what they say was a de\u2026 [+3707 chars]",
+      "description": "Families of the 43 students from a rural teacher\u2019s college abducted 10 years ago in southern Mexico marked the painful anniversary Thursday disillusioned after a decade of unfulfilled government promises. The anniversary falls just four days before the depart\u2026",
+      "publishedAt": "2024-09-27T04:43:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Families of 43 missing students in Mexico are still demanding justice 10 years later - The Associated Press",
+      "url": "https://apnews.com/article/mexico-missing-students-ayotzinapa-b46b193319fdcd6cdf92c0ce0d0699da",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d6957a1/2147483647/strip/true/crop/7403x4164+0+388/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F09%2Fa198e3db5c18eb3d167b21f71140%2F672117012e7b4df8bee4006b9808dd10"
+    },
+    {
+      "author": "Kelly Doty, Meghan Danahey & Marisa Sardonia",
+      "content": "Tracking Helene\r\n(WLOS) \r\n(11:10 P.M.) - News 13's Jason Boyer reports that Hurricane Helene has made landfall in Florida.\r\n(11 P.M.) - News 13's Jason Boyer reports that Hurricane Helene is set to m\u2026 [+5156 chars]",
+      "description": "Reports of flooding came in around the mountains on Wednesday and Thursday morning due to consistent rain and downpours.",
+      "publishedAt": "2024-09-27T03:45:12Z",
+      "source": {
+        "id": null,
+        "name": "WLOS"
+      },
+      "title": "LIVE UPDATES: Hurricane Helene makes landfall in Florida; WNC reports flooding, outages - WLOS",
+      "url": "https://wlos.com/news/local/flooding-north-carolina-mountains-reported-ahead-helenes-arrival-asheville-biltmore-village-lake-lure",
+      "urlToImage": "https://wlos.com/resources/media2/16x9/3840/986/center/90/60bf8082-1991-417a-9a2c-2022baa171b5-JeffreyDeCristofaroDirectUploader27Sep202401_15UTC3.jpg"
+    },
+    {
+      "author": "",
+      "content": "The United States has already put a stake in the ground as it seeks to continue a quarter century of dominance this week at the 2024 Presidents Cup at Royal Montreal. While the Americans have hoisted\u2026 [+2381 chars]",
+      "description": "How to watch every shot and round from the 2024 Presidents Cup at Royal Montreal throughout the week",
+      "publishedAt": "2024-09-27T03:32:00Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "2024 Presidents Cup TV schedule, coverage, where to watch today, live stream free online, start times, dates - CBS Sports",
+      "url": "https://www.cbssports.com/golf/news/2024-presidents-cup-tv-schedule-coverage-where-to-watch-today-live-stream-free-online-start-times-dates/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/24/143ce91c-173c-4085-9503-eeec2d221bea/thumbnail/1200x675/2aa850b21047861aea283e09d3b2fd6d/presidents-cup-flag-2024-g.jpg"
+    },
+    {
+      "author": "Nellie Andreeva",
+      "content": "SPOILER ALERT: The story includes details about the If Walls Could Talk episode of ABC\u2018s Grey\u2019s Anatomy. \r\nThe Season 21 premiere of ABC\u2019s Grey\u2019s Anatomy started and ended with a bang, leaving us wit\u2026 [+9910 chars]",
+      "description": "'Grey's Anatomy' showrunner Meg Marinis talks about Sydney Heron's return in Season 21 premiere, the Catherine-Meredith power play and more.",
+      "publishedAt": "2024-09-27T03:00:00Z",
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "title": "\u2018Grey\u2019s Anatomy\u2019 Showrunner Talks Premiere\u2019s Twists & Big Return, Teases Resilience-Themed Season 21 As 2 Cast Members Prepare To Exit - Deadline",
+      "url": "http://deadline.com/2024/09/greys-anatomy-season-21-premiere-recap-postmortem-meredith-yasuda-levi-1236097599/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/09/173884_0362.jpg?w=1024"
+    },
+    {
+      "author": null,
+      "content": "\"I knew about 10 minutes before the show started,\" Dylan said. \"Which, I think, is when everybody kind of found out.\"\r\nBut despite the unexpected news, several members of The Today Show were on hand \u2026 [+813 chars]",
+      "description": "Today's\u00a0Dylan Dreyer exclusively told E! News\u00a0who might replace\u00a0Hoda Kotb\u2014who announced her departure on Sept. 26\u2014while attending the 2024 People\u2019s Choice Country Awards at the Grand Ole Opry House.",
+      "publishedAt": "2024-09-27T02:58:00Z",
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "title": "Today Show\u2019s Dylan Dreyer Shares Who Could Replace Hoda Kotb - E! Online - E! NEWS",
+      "url": "https://www.eonline.com/news/1407878/today-shows-dylan-dreyer-shares-who-could-replace-hoda-kotb",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024826/rs_1200x1200-240926185322-1200.PCCAs-2024-dylan-dreyer.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
+    },
+    {
+      "author": "Joseph Zucker",
+      "content": "B/R\r\nThe New York Yankees are champions of the American League East for the second time in three seasons.\r\nHaving already secured a spot in the MLB playoffs, the Bronx Bombers clinched the division w\u2026 [+4371 chars]",
+      "description": "The New York Yankees are champions of the American League East for the second time in three seasons. Having already secured a spot in the MLB playoffs, the\u2026",
+      "publishedAt": "2024-09-27T02:05:27Z",
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "title": "MLB Playoff Picture 2024: Yankees Clinch AL East; Updated Bracket, Standings - Bleacher Report",
+      "url": "https://bleacherreport.com/articles/10136441-mlb-playoff-picture-2024-yankees-clinch-al-east-updated-bracket-standings",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1727405954/hk2i6qiopnqvp65g5b1q.jpg"
     },
     {
       "author": "Stephanie Apstein",
@@ -157,108 +248,17 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220915122311-01-alan-eugene-miller-080599-file.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": null,
-      "content": "NEW YORK (WABC) -- A 57-page five-count federal indictment unsealed on Thursday morning has charged Mayor Eric Adams with bribery, wire fraud and accepting improper campaign contributions.\r\nAdams is \u2026 [+7050 chars]",
-      "description": "New York City Mayor Eric Adams is accused of taking bribes and illegal campaign contributions from foreign sources",
-      "publishedAt": "2024-09-27T00:19:46Z",
-      "source": {
-        "id": null,
-        "name": "WABC-TV"
-      },
-      "title": "NYC Mayor Eric Adams indicted in federal corruption investigation; accused of accepting improper campaign contributions - ABC7 New York",
-      "url": "https://abc7ny.com/post/nyc-mayor-eric-adams-indicted-federal-corruption-investigation-administration-fbi/15358522/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15359251_092624-wabc-ap-adams-gracie-img.jpg?w=1600"
-    },
-    {
-      "author": "CHRIS MEGERIAN",
-      "content": "WASHINGTON (AP) With American support for Ukraine at a partisan crossroads, Vice President Kamala Harris on Thursday slammed suggestions that Kyiv should cede territory for the sake of peace with Mos\u2026 [+7937 chars]",
-      "description": "Vice President Kamala Harris says calls for Ukraine to cede territory to Russia are \u201cdangerous and unacceptable.\u201d She spoke Thursday while meeting with Ukrainian President Volodymyr Zelenskyy in Washington. The comments from the Democratic nominee for preside\u2026",
-      "publishedAt": "2024-09-26T23:59:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Harris blasts proposals for Ukraine to cede territory to Russia during Zelenskyy meeting - The Associated Press",
-      "url": "https://apnews.com/article/zelenskyy-joe-biden-kamala-harris-trump-229804fd42332c584dfbe05224634e44",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cfe37fd/2147483647/strip/true/crop/3953x2224+0+210/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F0d%2Fb547e66d7d23abc384ffee1e43a5%2Fdcb8d5a12c5e429489c272fc8f35aa4c"
-    },
-    {
-      "author": "POLITICO",
+      "author": "Axios",
       "content": null,
       "description": null,
-      "publishedAt": "2024-09-26T23:15:26Z",
+      "publishedAt": "2024-09-27T00:55:47Z",
       "source": {
-        "id": "politico",
-        "name": "Politico"
+        "id": "axios",
+        "name": "Axios"
       },
-      "title": "Iranians indicted in connection with Trump campaign hack - POLITICO",
-      "url": "https://www.politico.com/news/2024/09/26/trump-campaign-hack-iran-indictment-00181321",
+      "title": "Newsmax, Smartmatic settle defamation lawsuit - Axios",
+      "url": "https://www.axios.com/2024/09/27/newsmax-smartmatic-settle-defamation-lawsuit",
       "urlToImage": null
-    },
-    {
-      "author": "Hayden Field",
-      "content": "At an all-hands meeting on Thursday, OpenAI CEO Sam Altman denied that there are plans for him to receive a \"giant equity stake\" in the company, calling that information \"just not true,\" according to\u2026 [+3586 chars]",
-      "description": "At an all-hands meeting Thursday, OpenAI CEO Sam Altman denied reports that he received a \"giant equity stake\" in the company.",
-      "publishedAt": "2024-09-26T23:07:41Z",
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "title": "Sam Altman tells OpenAI staff there's no plan for him to receive 'giant equity stake' in company - CNBC",
-      "url": "https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108026796-1724873704599-gettyimages-2166044375-AA_13082024_1818768.jpeg?v=1727275084&w=1920&h=1080"
-    },
-    {
-      "author": "POLITICO",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-09-26T22:42:22Z",
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "title": "Massive civil fraud verdict against Trump gets frosty reception at New York appeals court - POLITICO",
-      "url": "https://www.politico.com/news/2024/09/26/trump-civil-fraud-appeal-oral-arguments-00181339",
-      "urlToImage": null
-    },
-    {
-      "author": "Glenn Garner",
-      "content": "Lyle and Erik Men\u00e9ndez\u2018s family are questioning who\u2019s the real \u201cmonster\u201d following Ryan Murphy\u2018s recent Netflix portrayal.\r\nOn Wednesday, Erik\u2019s wife Tammi Men\u00e9ndez shared a letter written by his aun\u2026 [+4055 chars]",
-      "description": "Following the Netflix debut of 'Monsters: The Lyle and Erik Men\u00e9ndez Story', the brothers' family is criticizing Ryan Murphy's depiction.",
-      "publishedAt": "2024-09-26T21:05:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "Men\u00e9ndez Brothers\u2019 Family Slams Ryan Murphy\u2019s \u2018Monsters\u2019 As \u201cRepulsive\u201d - Deadline",
-      "url": "http://deadline.com/2024/09/menendez-brothers-family-slams-ryan-murphy-monsters-repulsive-1236100823/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/GettyImages-539886710-e1727382379430.jpg?w=1024"
-    },
-    {
-      "author": "Jane Arraf",
-      "content": "BEIRUT Around the concrete courtyard of Ahliah School in the center of Lebanons capital, families perch on plastic chairs, sharing news of what houses theyve heard have been destroyed in their villag\u2026 [+7185 chars]",
-      "description": "With Israel and Hezbollah locked in the fiercest fighting in decades, many Lebanese have taken refuge in schools, hotels and other shelters.",
-      "publishedAt": "2024-09-26T21:03:55Z",
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "title": "Over 90,000 people in Lebanon had to flee Israel's bombardments this week - NPR",
-      "url": "https://www.npr.org/2024/09/26/nx-s1-5127325/israel-hezbollah-conflict-lebanon-displaced-residents",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x3483+0+323/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F7d%2F322fa30648c49c1f572f307f7f45%2Fgettyimages-2173373472.jpg"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
-      "publishedAt": "2024-09-26T21:00:27Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "Like a Dragon: Pirate Yakuza in Hawaii - Official Combat Gameplay Trailer - IGN",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png"
     }
   ],
   "status": "ok",
