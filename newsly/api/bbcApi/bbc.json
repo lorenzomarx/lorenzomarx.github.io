@@ -2,35 +2,43 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "BBC reporter gains access to the remote ocean territory despite UK and US attempts to stop her.",
+      "publishedAt": null,
+      "title": "Diego Garcia: What is on the secretive UK-US island?",
+      "url": "https://www.bbc.co.uk/news/articles/ckdg7jjlx2go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cefc/live/8f02ceb0-7d7b-11ef-bf4b-ef19cfbf3842.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Damian Lewis ushered sheep along the historic trade route into the City of London.",
+      "publishedAt": null,
+      "title": "Damian Lewis shepherds sheep over London bridge",
+      "url": "https://www.bbc.co.uk/news/articles/c5y9l4z9qdqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/813d/live/247a6620-7e66-11ef-8c0e-45f9d9eb44e1.png"
+    },
+    {
+      "author": "BBC News",
+      "description": "Austria's Freedom Party heads for an unprecedented poll victory under Herbert Kickl, projections say.",
+      "publishedAt": null,
+      "title": "Far right in Austria projected to win tight election race",
+      "url": "https://www.bbc.co.uk/news/articles/c8rdygy5888o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2aa8/live/b90f1350-7e6e-11ef-a4d3-09b59abdbf71.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Homes are destroyed, towns are cut-off and power outages are affecting hundreds of thousands of people.",
+      "publishedAt": null,
+      "title": "Hurricane Helene leaves 'biblical devastation' in North Carolina",
+      "url": "https://www.bbc.co.uk/news/articles/cly5d9y07e3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dd1f/live/46517c70-7e7a-11ef-bda7-e1427314c99f.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "Productions are down by about 40% and entertainment industry employees say they can't find work.",
       "publishedAt": null,
       "title": "Hollywood industry in crisis after strikes, streaming wars",
       "url": "https://www.bbc.co.uk/news/articles/cj6er83ene6o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/924a/live/36ff1650-7cfa-11ef-9a6b-17859ba822e9.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The Taliban have been revisiting rulings made under the US-backed government, overturning thousands of cases.",
-      "publishedAt": null,
-      "title": "A child bride won the right to divorce - now the Taliban say it doesn't count",
-      "url": "https://www.bbc.co.uk/news/articles/cx24evnk5d2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2c35/live/e4dbad30-57af-11ef-b2d2-cdb23d5d7c5b.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "A capsule heads to the International Space Station, where two crew are spending months longer than planned.",
-      "publishedAt": null,
-      "title": "SpaceX capsule begins rescue mission to return stranded astronauts",
-      "url": "https://www.bbc.co.uk/news/articles/cy89kz8ge41o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05e7/live/c237b820-7e36-11ef-b66d-034eed51208d.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Experts share their top tips for staying out of our fellow travellers' bad books.",
-      "publishedAt": null,
-      "title": "Flight etiquette: How to avoid a row over reclining plane seats",
-      "url": "https://www.bbc.co.uk/news/articles/c869178wqzno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1000/live/714bbdd0-7cec-11ef-a3e7-9991bec82357.jpg"
     },
     {
       "author": "BBC News",
@@ -42,11 +50,19 @@
     },
     {
       "author": "BBC News",
-      "description": "Experts say Qatar either missed or dismissed much of what was already known about Mohamed Al Fayed at the time of the purchase.",
+      "description": "Experts share their top tips for staying out of our fellow travellers' bad books.",
       "publishedAt": null,
-      "title": "Harrods: The red flags missed when Qatar bought store from Al Fayed",
-      "url": "https://www.bbc.co.uk/news/articles/ckg2ryxp969o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e7bf/live/ad2980c0-7bda-11ef-8e06-33f61633f6a9.jpg"
+      "title": "Flight etiquette: How to avoid a row over reclining plane seats",
+      "url": "https://www.bbc.co.uk/news/articles/c869178wqzno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1000/live/714bbdd0-7cec-11ef-a3e7-9991bec82357.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The Taliban have been revisiting rulings made under the US-backed government, overturning thousands of cases.",
+      "publishedAt": null,
+      "title": "A child bride won the right to divorce - now the Taliban say it doesn't count",
+      "url": "https://www.bbc.co.uk/news/articles/cx24evnk5d2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2c35/live/e4dbad30-57af-11ef-b2d2-cdb23d5d7c5b.jpg"
     },
     {
       "author": "BBC News",
@@ -58,27 +74,11 @@
     },
     {
       "author": "BBC News",
-      "description": "Rescues continue as huge areas of the south-eastern US struggle with floods from Storm Helene.",
+      "description": "The category four storm leaves a trail of death and destruction after making landfall over the Gulf Coast.",
       "publishedAt": null,
-      "title": "More US states battle floods as Helene disaster kills at least 63",
-      "url": "https://www.bbc.co.uk/news/articles/cly5d9y07e3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e3c1/live/2f277b50-7e1e-11ef-bda7-e1427314c99f.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "An in-depth look at the polls and what they can and can\u2019t tell us about who will win the White House.",
-      "publishedAt": null,
-      "title": "US election polls tracker 2024: Who is ahead - Harris or Trump?",
-      "url": "https://www.bbc.co.uk/news/articles/cj4x71znwxdo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e457/live/d48d2d60-6f55-11ef-8c1a-df523ba43a9a.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "A damning picture emerges from a public hearing into the failure of Oceangate\u2019s Titan submersible.",
-      "publishedAt": null,
-      "title": "Titan sub: How trip to Titanic turned from smiles to tragedy",
-      "url": "https://www.bbc.co.uk/news/articles/ckgn39epv85o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d9ed/live/bb73f5c0-7cf7-11ef-bf1f-391a102b3481.jpg"
+      "title": "In pictures: Hurricane Helene destruction",
+      "url": "https://www.bbc.co.uk/news/articles/cwylvy7enrgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1229/live/6592fe30-7da6-11ef-ab70-cdb03fec26f8.jpg"
     }
   ],
   "sortBy": "top",
