@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Lyndal Rowlands",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsraels bombardment continues across Lebanon after 33 people were killed in strikes on Saturday, while Hezbollah mourns slain leader Hassan Nasrallah.",
+      "description": "Israeli strikes continue across Lebanon after 33 killed on Saturday; Hezbollah mourns slain leader Hassan Nasrallah.",
+      "publishedAt": "2024-09-29T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israel attacks Lebanon live: \u2018Nonstop\u2019 bombing as Hezbollah leader mourned",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/9/29/israel-attacks-lebanon-live-non-stop-bombardment-as-hezbollah-mourns-chief",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24272287075495-1727566913.jpg?resize=1200%2C675"
+    },
+    {
       "author": "Mat Nashed",
       "content": "Beirut, Lebanon On Friday evening, Mariam* was in her apartment with her teenage daughter and mother when her building began rumbling and shaking. Agonising screams and the buzzing of Israeli warplan\u2026 [+6254 chars]",
       "description": "Many of Nasrallah's supporters have expressed anguish and disbelief after Israel assassinated the Hezbollah leader.",
@@ -1286,21 +1299,8 @@
       "title": "New York Mayor Adams charged with taking bribes and illegal campaign funds",
       "url": "https://www.aljazeera.com/news/2024/9/26/new-york-mayor-adams-charged-with-taking-bribes-and-illegal-campaign-funds",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/CLIP_Eric-Adams-NY-Mayor-indictment_WIDE-THUMB-CLEAN-1727334437.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": null,
-      "content": "Israels war on Gaza has ground its vital economic sectors to a halt.Almost a year into the war on Gaza, Israels economy is facing its deepest decline in years.\r\nMilitary spending is ballooning, borro\u2026 [+479 chars]",
-      "description": "Israel's war on Gaza has ground its vital economic sectors to a halt.",
-      "publishedAt": "2024-09-26T15:00:00Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Can Israel afford another war in Lebanon?",
-      "url": "https://www.aljazeera.com/program/counting-the-cost/2024/9/26/can-israel-afford-another-war-in-lebanon",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/image-1727353821.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1376
+  "totalResults": 1377
 }
