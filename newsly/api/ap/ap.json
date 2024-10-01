@@ -1,28 +1,12 @@
 {
   "articles": [
     {
-      "author": null,
-      "description": "LOS ANGELES (AP) \u2014 Kris Kristofferson, singer-songwriter and actor who brought gritty realism to country music, has died at 88.",
-      "publishedAt": "2024-09-29T22:29:54Z",
-      "title": "Kris Kristofferson, singer-songwriter and actor who brought gritty realism to country music, has died at 88",
-      "url": "https://apnews.com/84053764fc45cb7433ad8724a8ff6926",
-      "urlToImage": ""
-    },
-    {
-      "author": "KATE PAYNE, JEFFREY COLLINS and PATRICK WHITTLE",
-      "description": "PERRY, Fla. (AP) \u2014 The U.S. Southeast grappled Sunday with rising death tolls, a lack of vital supplies in isolated, flood-stricken areas and the widespread loss of homes and property while the devastating toll of Hurricane Helene became more clear and officials warned of a lengthy and difficult rebuild.",
-      "publishedAt": "2024-09-29T04:04:53Z",
-      "title": "Death toll rises from Helene while supplies are rushed to North Carolina and Florida digs out",
-      "url": "https://apnews.com/16b41006d3cb6fedad78d19ca3f389a9",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/186b4af8a6674abe9f6e7cef6b4ff949/1920.jpeg"
-    },
-    {
       "author": "MELANIE LIDMAN and KAREEM CHEHAYEB",
-      "description": "JERUSALEM (AP) \u2014 Witnesses on Monday reported the first Israeli airstrike in central Beirut in nearly a year of conflict, hours after Israel struck targets across Lebanon and killed dozens of people as Hezbollah sustained a string of deadly blows to its command structure, including the killing of its overall leader, Hassan Nasrallah.",
+      "description": "JERUSALEM (AP) \u2014 The first apparent Israeli airstrike on central Beirut in nearly a year of conflict leveled an apartment building early Monday, hours after Israel hit targets across Lebanon and killed dozens of people as Hezbollah sustained heavy blows to its command structure, including the killing of its leader, Hassan Nasrallah.",
       "publishedAt": "2024-09-29T09:09:33Z",
-      "title": "Witnesses report first Israeli airstrike in central Beirut in nearly a year of conflict",
+      "title": "An Israeli airstrike hits central Beirut for the first time in nearly a year of conflict",
       "url": "https://apnews.com/4696e581e28d8c747f017221f2cf420f",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f94d59daf04f4de89c910f76032b8303/3000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/dac8cda8b51247e0965423bf70e5192f/1920.jpeg"
     },
     {
       "author": "KAREEM CHEHAYEB and JACK JEFFERY",
@@ -33,52 +17,68 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/e8efb16f1d164e238a0d6cb670458b97/3000.jpeg"
     },
     {
+      "author": "KATE PAYNE, JEFFREY COLLINS and PATRICK WHITTLE",
+      "description": "PERRY, Fla. (AP) \u2014 North Carolina officials pledged to get more water and other supplies to flood-stricken areas by Monday after Hurricane Helene left a trail of destruction across the U.S.",
+      "publishedAt": "2024-09-30T04:41:03Z",
+      "title": "Supplies are rushed to North Carolina communities left isolated after Helene",
+      "url": "https://apnews.com/f02869c7d01e68f2d7f0553abb82252f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/835717ab12c54c42bd21b46427489c82/1920.jpeg"
+    },
+    {
+      "author": "BINAJ GURUBACHARYA",
+      "description": "KATHMANDU, Nepal (AP) \u2014 The number of people killed by flooding and landslides triggered by heavy rainfall over the weekend in Nepal has reached 193 while recovery and rescue work has been stepped up, officials said Monday.",
+      "publishedAt": "2024-09-30T04:31:06Z",
+      "title": "Flooding deaths in Nepal reach 193 as recovery work is stepped up",
+      "url": "https://apnews.com/94c25dd2a172cdcf51bc558c5df016aa",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f7e5851395654319978c6d3c4f66b772/3000.jpeg"
+    },
+    {
+      "author": "WILL WEISSERT and COLLEEN LONG",
+      "description": "LAS VEGAS (AP) \u2014 Vice President Kamala Harris poked at Donald Trump over crowd sizes, his refusal to debate again and his privileged background on Sunday as she hauled in campaign cash in California and held a raucous rally at the same Nevada venue where the Republican nominee had appeared just two weeks ago.",
+      "publishedAt": "2024-09-29T11:24:02Z",
+      "title": "Harris trolls Trump at Vegas rally and LA fundraiser, says her crowds are 'pretty big'",
+      "url": "https://apnews.com/5e43f8e9159925cea38070e0bb662e47",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/55c6c41a59634d9da61ff7ebc1b9c8a8/3000.jpeg"
+    },
+    {
+      "author": "REBECCA SANTANA",
+      "description": "WASHINGTON (AP) \u2014 Republicans are pointing to newly released immigration enforcement data to bolster their argument that the Biden administration is letting migrants who have committed serious crimes go free in the U.S. But the numbers have been misconstrued without key context.",
+      "publishedAt": "2024-09-30T04:11:29Z",
+      "title": "Trump is pointing to new numbers on migrants with criminal pasts. Here's what they show",
+      "url": "https://apnews.com/fc19e795599471c0ab21d76050a71a74",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/20d659c021094fb8a3964065ba15e6ee/2618.jpeg"
+    },
+    {
       "author": "STEPHANIE LIECHTENSTEIN",
       "description": "VIENNA (AP) \u2014 The Freedom Party secured the first far-right national parliamentary election victory in post-World War II Austria on Sunday, finishing ahead of the governing conservatives after tapping into anxieties about immigration, inflation, Ukraine and other issues.",
       "publishedAt": "2024-09-29T04:05:58Z",
       "title": "Austria's Freedom Party secures first far-right national election win since World War II",
       "url": "https://apnews.com/1a22057b230a2576e0ca0ee69607cf6e",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/3a9826eb2a9d4c42809867586462752f/3000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f0dfb0b88f384f4693741dd6ab32767a/1920.jpeg"
     },
     {
-      "author": "MARCIA DUNN",
-      "description": "CAPE CANAVERAL, Fla. (AP) \u2014 The two astronauts stuck at the International Space Station since June welcomed their new ride home with Sunday\u2019s arrival of a SpaceX capsule.",
-      "publishedAt": "2024-09-29T21:34:06Z",
-      "title": "Stuck NASA astronauts welcome SpaceX capsule that'll bring them home next year",
-      "url": "https://apnews.com/1162a1723bc426f5de9f30e3817c2605",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0464aa4819ff4b488f43de388992478f/3000.jpeg"
+      "author": "DAVID RISING",
+      "description": "BANGKOK (AP) \u2014 Indonesian shrimp farmer Yulius Cahyonugroho operated more than two dozen ponds only a few years ago, employing seven people and making more than enough to support his family. Since then, the 39-year-old says the prices he gets from purchasers have fallen by half and he's had to scale back to four workers and about one-third the ponds, some months not even breaking even.",
+      "publishedAt": "2024-09-30T04:10:22Z",
+      "title": "As big supermarkets pursue profits, new research shows growing exploitation of shrimp farmers",
+      "url": "https://apnews.com/d29e3c24a1a20d3815f5418829a6bbe9",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/54b0721517a64343aae5c7cedf1f7abd/3000.jpeg"
     },
     {
-      "author": "MICHAEL WEISSENSTEIN",
-      "description": "The world\u2019s greatest stage is the sprawling Midtown Manhattan complex where leaders meet each year to discuss humanity\u2019s future.The United Nations' most powerful body \u2014 the Security Council \u2014 is paralyzed by disputes, so this year's most varied speeches were delivered before the 193-member General Assembly.",
-      "publishedAt": "2024-09-29T14:49:10Z",
-      "title": "Behind the loudest issues, the UN is a world stage for disputes that are often out of the spotlight",
-      "url": "https://apnews.com/91733358c069861c18f04be4fb1f1594",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/49f034fcc23c4a53b5d26db12c6d1fc8/3000.jpeg"
-    },
-    {
-      "author": "ADRIANA GOMEZ LICON and COLLEEN LONG",
-      "description": "ERIE, Pa. (AP) \u2014 Republican presidential nominee Donald Trump escalated his personal attacks on his Democratic rival, Kamala Harris, on Sunday by repeating an insult that she was \u201cmentally impaired\u201d while also saying she should be \u201cimpeached and prosecuted.\"",
-      "publishedAt": "2024-09-29T15:59:37Z",
-      "title": "Trump escalates attacks on Harris' mental fitness and suggests she should be prosecuted",
-      "url": "https://apnews.com/a38195f876767332c48d12226a6aea2f",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/20d659c021094fb8a3964065ba15e6ee/2618.jpeg"
-    },
-    {
-      "author": "WILL WEISSERT",
-      "description": "LOS ANGELES (AP) \u2014 Vice President Kamala Harris is set to rally in Las Vegas on Sunday night as both she and Republican Donald Trump continue to make frequent trips to Nevada, looking to gain momentum in the swing state as Election Day nears.",
-      "publishedAt": "2024-09-29T11:24:02Z",
-      "title": "Harris is set to rally again in Las Vegas as both campaigns emphasize swing-state Nevada",
-      "url": "https://apnews.com/5e43f8e9159925cea38070e0bb662e47",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f7f39991527b4baa9799b2eef89a456b/3000.jpeg"
-    },
-    {
-      "author": null,
-      "description": "LOS ANGELES (AP) \u2014 Kris Kristofferson, a Rhodes scholar with a deft writing style and rough charisma who became a country music superstar and A-list Hollywood actor, has died.Kristofferson died at his home on Maui, Hawaii on Saturday, family spokeswoman Ebie McFarland said in an email.",
+      "author": "ANDREW DALTON and KRISTIN M. HALL",
+      "description": "LOS ANGELES (AP) \u2014 Kris Kristofferson, a Rhodes scholar with a deft writing style and rough charisma who became a country music superstar and an A-list Hollywood actor, has died.Kristofferson died at his home on Maui, Hawaii, on Saturday, family spokeswoman Ebie McFarland said in an email.",
       "publishedAt": "2024-09-29T22:32:30Z",
       "title": "Kris Kristofferson, singer-songwriter and actor, dies at 88",
       "url": "https://apnews.com/47becf20fecd41aba66840af2e1275db",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7228e9709e5d49f3be21b75b95bbf47a/2000.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ea64348b67114ded8afdf431037ba917/3000.jpeg"
+    },
+    {
+      "author": "ERIC OLSON",
+      "description": "Alabama returned to No. 1 in The Associated Press college football poll for the first time in two years on Sunday following its dizzying victory over Georgia, making this 16 of 17 seasons the Crimson Tide has held the top spot at some point.",
+      "publishedAt": "2024-09-29T18:04:28Z",
+      "title": "AP Top 25: Alabama overtakes Texas for No. 1 and UNLV earns its 1st ranking in program history",
+      "url": "https://apnews.com/8483052cda8b2acf6d9f5956c420a75d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/05ae389768c644d5bc4b00140ad5046f/3000.jpeg"
     }
   ],
   "sortBy": "top",
