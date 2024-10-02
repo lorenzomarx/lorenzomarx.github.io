@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "author": "Nate Anderson",
+      "description": "He takes his hobbies seriously.",
+      "publishedAt": "2024-10-01T15:52:32+00:00",
+      "title": "To build a giant sheep, man spends 10 years smuggling, cloning, and inseminating",
+      "url": "https://arstechnica.com/science/2024/10/jail-time-for-montana-man-who-smuggled-and-cloned-an-endangered-300-pound-sheep/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/argali-sheep-760x380.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "description": "Windows 11's third annual update includes a subtle under-the-hood overhaul.",
+      "publishedAt": "2024-10-01T15:36:55+00:00",
+      "title": "Windows 11 24H2, the biggest update in two years, starts rolling out today",
+      "url": "https://arstechnica.com/gadgets/2024/10/windows-11-24h2-the-biggest-update-in-two-years-starts-rolling-out-today/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/win11-24h2-760x380.jpg"
+    },
+    {
+      "author": "Kevin Purdy",
+      "description": "It might not last, but road trips in the slowest-charging EV are quite nice now.",
+      "publishedAt": "2024-10-01T13:05:33+00:00",
+      "title": "I\u2019m a Chevy Bolt owner, and I can\u2019t believe Superchargers work this well",
+      "url": "https://arstechnica.com/cars/2024/10/superchargers-are-the-reliable-fast-charging-backup-my-chevy-bolt-always-needed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/bolt_tesla1_redux-760x380.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "description": "To get somewhere, Artemis must avoid going nowhere.",
+      "publishedAt": "2024-10-01T11:00:25+00:00",
+      "title": "The politically incorrect guide to saving NASA\u2019s floundering Artemis Program",
+      "url": "https://arstechnica.com/space/2024/10/heres-how-to-revive-nasas-artemis-moon-program-with-three-simple-tricks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/lunar-gateway-760x380.jpg"
+    },
+    {
       "author": "Jennifer Ouellette",
       "description": "Scientists matched DNA of living descendent to Capt. James Fitzjames of the HMS Erebus.",
       "publishedAt": "2024-09-30T22:19:17+00:00",
@@ -9,12 +41,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/arcticTOP-760x380.jpg"
     },
     {
-      "author": "Beth Mole",
-      "description": "Suing an entire Senate panel seen as a \"Hail Mary play\" unlikely to succeed.",
+      "author": null,
+      "description": "Suing an entire Senate panel is seen as a \"Hail Mary play\" unlikely to succeed.",
       "publishedAt": "2024-09-30T21:36:37+00:00",
       "title": "CEO of \u201chealth care terrorists\u201d sues senators after contempt of Congress charges",
-      "url": "https://arstechnica.com/science/2024/09/ceo-of-health-care-terrorists-sues-senators-after-contempt-of-congress-charges/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2170818209-760x380.jpg"
+      "url": "https://arstechnica.com/?p=2053520",
+      "urlToImage": null
     },
     {
       "author": "Jon Brodkin",
@@ -47,38 +79,6 @@
       "title": "The Audi RS7\u2014they won\u2019t make them like this much longer",
       "url": "https://arstechnica.com/cars/2024/09/the-audi-rs7-review-the-last-ride-of-a-dinosaur/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/2024-Audi-RS7-1-760x380.jpg"
-    },
-    {
-      "author": "Scharon Harding",
-      "description": "Players are annoyed as new home screen needs work.",
-      "publishedAt": "2024-09-30T18:54:52+00:00",
-      "title": "\u201cSo aggravating\u201d: Outdated ads start appearing on PS5 home screen",
-      "url": "https://arstechnica.com/gaming/2024/09/ps5-home-screen-starts-showing-coming-soon-ads-for-already-released-content/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2174565984-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "More than 100,000 reports appeared on Downdetector.",
-      "publishedAt": "2024-09-30T18:29:07+00:00",
-      "title": "Verizon customers face mass-scale outage across the US",
-      "url": "https://arstechnica.com/gadgets/2024/09/verizon-and-att-mobile-goes-down-for-tens-of-thousands-around-the-us/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-1.11.48\u202fPM-760x380.png"
-    },
-    {
-      "author": "John Timmer",
-      "description": "A combination of government policy and economics spells the end of UK's coal use.",
-      "publishedAt": "2024-09-30T18:22:46+00:00",
-      "title": "For the first time since 1882, UK will have no coal-fired power plants",
-      "url": "https://arstechnica.com/science/2024/09/for-the-first-time-since-1882-uk-will-have-no-coal-fired-power-plants/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-520217618-760x380.jpg"
-    },
-    {
-      "author": "Samuel Axon",
-      "description": "Apple dropped out of the $6.5 billion investment round at the 11th hour.",
-      "publishedAt": "2024-09-30T18:03:08+00:00",
-      "title": "Apple backs out of backing OpenAI, report claims",
-      "url": "https://arstechnica.com/ai/2024/09/report-apple-wont-invest-in-openai-after-all-but-microsoft-will/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/apple-park-760x380.jpg"
     }
   ],
   "sortBy": "top",
