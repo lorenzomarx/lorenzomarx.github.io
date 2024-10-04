@@ -1,30 +1,251 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-10-03T14:21:43Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Rwanda to start vaccine trials for Marburg disease in a few weeks - Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/rwanda-start-marburg-vaccine-trials-health-official-says-2024-10-03/",
+      "urlToImage": null
+    },
+    {
+      "author": "FADI TAWIL, JACK JEFFERY",
+      "content": "BEIRUT (AP) The Israeli military on Thursday warned people to evacuate a city and other communities in southern Lebanon that are north of a U.N.-declared buffer zone, signaling that it may widen a gr\u2026 [+7467 chars]",
+      "description": "The Israeli military has warned people to evacuate a city and other communities in southern Lebanon that are north of a U.N.-declared buffer zone. The warning on Thursday signals that the military may widen a ground operation launched earlier this week agains\u2026",
+      "publishedAt": "2024-10-03T14:18:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Israel extends evacuation warnings in Lebanon, signaling a wider offensive - The Associated Press",
+      "url": "https://apnews.com/article/israel-lebanon-hezbollah-gaza-war-news-10-03-2024-5fad98f56ebcc7e1751388b608c7c8dd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c0441a2/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2F1f%2Fa7f989662d4722c31535443a5699%2F18be827dd7564872bda868fff3c5d374"
+    },
+    {
+      "author": "Ben Cost",
+      "content": "Could this be the Perfect Geo-storm?\r\nOctober is off to a hot start: The sun unleashed a massive X-class solar flare the \u201cstrongest of its kind,\u201d according to Space.com that has the potential to pumm\u2026 [+1739 chars]",
+      "description": "Earth is bracing for blackouts after the sun unleashed a massive X-class solar flare \u2014 the most powerful it can generate \u2014 Tuesday evening.",
+      "publishedAt": "2024-10-03T13:49:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "\u2018Strongest of its kind\u2019 flare may cause blackouts, massive solar storm on Earth - New York Post ",
+      "url": "https://nypost.com/2024/10/03/science/strongest-of-its-kind-flare-may-cause-blackouts-massive-solar-storm-on-earth/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/nasa-sdo-sun-welcomed-october-90941383.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+      "author": "Bill Chappell",
+      "content": "Former first lady Melania Trump says in a self-titled memoir set to be released next week that she supports womens autonomy and the right to control their own bodies -- including abortion, if they ch\u2026 [+3054 chars]",
+      "description": "The former first lady says she is a longtime supporter of abortion rights. Her memoir is coming out a year after former President Donald Trump said he was \"able to kill Roe v. Wade.\"",
+      "publishedAt": "2024-10-03T13:17:28Z",
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "title": "In excerpt from new memoir, Melania Trump says women have the \u2018right to choose\u2019 abortion - NPR",
+      "url": "https://www.npr.org/2024/10/03/g-s1-26134/melania-trump-memoir-donald-trump-abortion-position",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5466x3075+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F8e%2F9c157f7947828f4faf394b60b0e3%2Fgettyimages-2169462357.jpg"
+    },
+    {
       "author": null,
-      "content": "Donald Trump \"resorted to crimes\" while trying to overturn his 2020 election defeat, and should not escape charges, prosecutors say.\r\nA new court filing challenges Trump's claim that he should avoid \u2026 [+4882 chars]",
-      "description": "A new filing presents the clearest view yet of how prosecutors would present their case against the former president at trial.",
-      "publishedAt": "2024-10-03T09:28:22Z",
+      "content": "The Week 5 NFL schedule has arrived, with the only two unbeaten teams trying to keep their perfect starts alive. The Vikings face Aaron Rodgers and the Jets (+2.5, 40.5) in London on Sunday, while Ka\u2026 [+6046 chars]",
+      "description": "SportsLine's team of Vegas experts and its proven model and AI PickBot get you ready for Week 5 NFL betting",
+      "publishedAt": "2024-10-03T13:13:45Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "Week 5 NFL betting guide: Best expert, model, AI, parlay, DFS and season-long fantasy picks revealed - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/week-5-nfl-betting-guide-best-expert-model-ai-parlay-dfs-and-season-long-fantasy-picks-revealed/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/01/221e9fff-67ee-404d-8fac-ebd9799d907c/thumbnail/1200x675/a217ccc224482069baba80f2ed3e3637/mike-evans-8-1400-us.jpg"
+    },
+    {
+      "author": "Abner Li",
+      "content": "After completing the English rollout to free users on Android at the start of this week, Gemini Live is adding support for new languages.\r\nStarting today, Gemini Live is beginning to support French, \u2026 [+1363 chars]",
+      "description": "After completing the English rollout to free users on Android at the start of this week, Gemini Live is adding support for new languages.",
+      "publishedAt": "2024-10-03T13:00:00Z",
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "title": "Gemini Live rolling out support for five more languages - 9to5Google",
+      "url": "http://9to5google.com/2024/10/03/gemini-live-languages/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-Pro-Gemini-Live-Buttons.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "author": null,
+      "content": "Nine people have been killed and 14 injured in an Israeli air strike on a building in central Beirut, Lebanese officials have said. \r\nThe multi-storey block in Bachoura housed a Hezbollah-affiliated \u2026 [+4747 chars]",
+      "description": "It is the first Israeli strike so close to the centre of Beirut in Lebanon in the current conflict.",
+      "publishedAt": "2024-10-03T12:38:53Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Trump 'resorted to crimes' to overturn 2020 result - prosecutors - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c93pdlg4dlno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b70a/live/afc26ac0-8122-11ef-822c-a50726bfda2e.jpg"
+      "title": "Nine killed in Israeli air strike on central Beirut in Lebanon - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c8rd0gnv68jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e13b/live/48420660-812e-11ef-9bbf-cfab5bae03b0.jpg"
     },
     {
-      "author": "Nnamdi Egwuonwu",
-      "content": "Liz Cheney, a former Republican congresswoman and daughter of a former Republican vice president, will join Vice President Kamala Harris on Thursday at a campaign event in Ripon, Wisconsin, the city \u2026 [+3849 chars]",
-      "description": "Liz Cheney will join Vice President Kamala Harris Thursday at a campaign event in Ripon, Wisconsin, a city commonly recognized as the birthplace of the Republican Party.",
+      "author": "Jeffry Bartash",
+      "content": "The numbers: The number of Americans who applied for unemployment benefits last week rose slightly to a minuscule 225,000, confirming that layoffs remain surprisingly low even though many companies h\u2026 [+164 chars]",
+      "description": "Economy has a low-hiring, low-firing labor market",
+      "publishedAt": "2024-10-03T12:36:00Z",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "title": "Jobless claims inch higher, but still no sign of major U.S. layoffs - MarketWatch",
+      "url": "https://www.marketwatch.com/story/jobless-claims-rise-slightly-but-still-no-sign-of-rising-layoffs-f1719136",
+      "urlToImage": "https://images.mktw.net/im-50755551/social"
+    },
+    {
+      "author": null,
+      "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n\u2026 [+105 chars]",
+      "description": null,
+      "publishedAt": "2024-10-03T12:15:18Z",
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "title": "Kamala Harris tries to lock in anti-Trump Republican voters - Financial Times",
+      "url": "https://www.ft.com/content/4e9e6c8a-e922-4565-8e40-0ad0cdde3169",
+      "urlToImage": null
+    },
+    {
+      "author": "Greg Walker",
+      "content": "Bobby Witt Jr. has led the Royals to the ALDS:\r\nThat set up Witts sixth-inning moment. Kyle Isbel singled with one out in the sixth, and Massey followed with two outs as the Royals lineup turned over\u2026 [+3849 chars]",
+      "description": "Postseason baseball is coming to Kansas City!",
+      "publishedAt": "2024-10-03T12:00:00Z",
+      "source": {
+        "id": null,
+        "name": "Royals Review"
+      },
+      "title": "Royals Rumblings - News for October 3, 2024 - Royals Review",
+      "url": "https://www.royalsreview.com/royals-news-notes-links/2024/10/3/24260231/royals-rumblings-news-for-october-3-2024",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CWQ3FAqanPfxATbA9s9Z7SjlJMM=/0x256:5130x2942/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25655634/usa_today_24385330.jpg"
+    },
+    {
+      "author": "Mark Johnson",
+      "content": "Hundreds of scientists and citizen scientists from around the world have mapped out more than 50 million connections in the tiny fruit fly brain, a step toward one day producing an intricate map of t\u2026 [+5148 chars]",
+      "description": "Scientists mapped the fruit fly brain\u2019s more than 50 million connections, a step in aiding future human brain research.",
+      "publishedAt": "2024-10-03T11:55:46Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Intricate map of tiny fruit fly brain marks major neuroscience milestone - The Washington Post",
+      "url": "https://www.washingtonpost.com/science/2024/10/03/fruit-fly-brain-mapped/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MYWO53USGAIIMORNJMOIAYVBRU.jpg&w=1440"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-10-03T11:41:59Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Jack Forrest, Tierney Sneed, Hannah Rabinowitz, Holmes Lybrand",
+      "content": "Former Vice President Mike Pences role in certifying Joe Bidens 2020 election win over Donald Trump and his repeated refusals to help the former president overturn the results, was under a microscope\u2026 [+9325 chars]",
+      "description": "Former Vice President Mike Pence\u2019s role in certifying Joe Biden\u2019s 2020 election win over Donald Trump and his repeated refusals to help the former president overturn the results, was under a microscope in special counsel Jack Smith\u2019s detailed court filing Wed\u2026",
+      "publishedAt": "2024-10-03T11:20:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Pence and Trump\u2019s frayed relationship leading up to Jan. 6 insurrection on full display in latest special counsel filing - CNN",
+      "url": "https://www.cnn.com/2024/10/03/politics/pence-trump-january-6-special-counsel-filing/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1277213365.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-10-03T11:02:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Amelia Lucas",
+      "content": "More than a decade ago, Starbucks bought its first coffee farm, in Costa Rica. Now the coffee giant has added two more to its portfolio.\r\nThe Seattle-based company said Thursday that it's invested in\u2026 [+2372 chars]",
+      "description": "The coffee giant buys 3% of the world's coffee supply, which has been pressured in recent years due to extreme weather.",
+      "publishedAt": "2024-10-03T10:00:01Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "Starbucks invests in two innovation farms to help climate-proof its coffee - CNBC",
+      "url": "https://www.cnbc.com/2024/10/03/starbucks-innovation-farms-climate-proof-coffee.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108041668-1727806430400-gettyimages-2159867114-ryder-campuses-5.jpeg?v=1727806515&w=1920&h=1080"
+    },
+    {
+      "author": "Felecia Wellington Radel",
+      "content": "Forget flying cars, the most promising personal tech trend of the future might focus on health.\r\nDuring Apple's iPhone event in September, the announcements that sparked initial buzz weren't the new \u2026 [+5957 chars]",
+      "description": "What do updates like the ones Apple introduced actually mean for consumers and fit into an existing healthcare culture? Experts weigh in.",
+      "publishedAt": "2024-10-03T09:12:19Z",
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Recent Apple updates focus on health tech. Experts think that's a big deal. - USA TODAY",
+      "url": "https://www.usatoday.com/story/tech/2024/10/03/apple-updates-health-tech/75478460007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/09/USAT/75146474007-image-8.png?crop=2497,1404,x27,y0&width=2497&height=1404&format=pjpg&auto=webp"
+    },
+    {
+      "author": null,
+      "content": null,
+      "description": "Raiders wide receiver Davante Adams wants to be traded to the Jets after informing his team he'd prefer to play elsewhere, but he's also open to joining several other clubs, NFL Network Insider Ian Rapoport reports.",
       "publishedAt": "2024-10-03T09:00:00Z",
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "nfl-news",
+        "name": "NFL News"
       },
-      "title": "Liz Cheney hits the trail for Harris in the birthplace of the Republican Party - NBC News",
-      "url": "https://www.nbcnews.com/politics/2024-election/liz-cheney-hits-trail-kamala-harris-republican-party-wisconsin-rcna173713",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241002-liz-cheney-mn-1555-451541.jpg"
+      "title": "Raiders WR Davante Adams hopes to be traded to Jets but is open to other destinations - NFL.com",
+      "url": "https://www.nfl.com/news/raiders-wr-davante-adams-hopes-to-be-traded-to-jets-but-is-open-to-other-destinations",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/ke2jlculnsizjhadq3zp"
+    },
+    {
+      "author": null,
+      "content": "SINGAPORE A former Singapore cabinet minister has been sentenced to a year in prison for receiving illegal gifts while in office, in a case that has shocked a country famed for its squeaky-clean repu\u2026 [+3899 chars]",
+      "description": "Subramaniam Iswaran is the first Singaporean minister to be jailed in almost fifty years. A case that has shocked a country famed for its squeaky-clean reputation.",
+      "publishedAt": "2024-10-03T08:51:44Z",
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "title": "Former Singapore minister sentenced to a year in prison in rare corruption case - NPR",
+      "url": "https://www.npr.org/2024/10/03/g-s1-26119/singapore-minister-sentenced-to-a-year-in-prison-in-corruption-case",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2168x1220+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2F19%2Fdd47dd484db08bbe80b0b1acf6fc%2Fgettyimages-2175522704.jpg"
+    },
+    {
+      "author": "MARI YAMAGUCHI Associated Press",
+      "content": "TOKYO -- An unexploded U.S. bomb from World War II that had been buried at a Japanese airport exploded Wednesday, causing a large crater in a taxiway and the cancellation of more than 80 flights, Jap\u2026 [+1313 chars]",
+      "description": "A U.S. bomb from World War II has exploded at a Japanese airport, causing a large crater in a taxiway and the cancellation of more than 80 flights",
+      "publishedAt": "2024-10-03T08:49:37Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "An American bomb from WWII explodes at a Japanese airport, leaving a crater on the taxiway - ABC News",
+      "url": "https://abcnews.go.com/International/wireStory/us-bomb-world-war-ii-explodes-japanese-airport-114419077",
+      "urlToImage": "https://i.abcnewsfe.com/a/07bc73e6-c95c-46ea-96dc-0a6869cdf5f0/wirestory_bf561e4c71f644267d86d8589b6999d4_16x9.jpg?w=1600"
     },
     {
       "author": "Doyinsola Oladipo",
@@ -38,227 +259,6 @@
       "title": "Ship queue grows at US ports as dockworker strike enters third day - Reuters",
       "url": "https://www.reuters.com/world/us/ship-queue-grows-us-ports-dockworker-strike-enters-third-day-2024-10-03/",
       "urlToImage": "https://www.reuters.com/resizer/v2/XC272WPZM5PDHF56QDUPUY5BA4.jpg?auth=054580907751ef0b29819cc4e11d314babc4edc88a536459fd71bb56a1c805bf&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "content": null,
-      "description": "A Russian man jailed in February for burning the Koran has been charged with treason by prosecutors who accuse him of passing video footage of military movements to Ukraine.",
-      "publishedAt": "2024-10-03T07:35:32Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "Russian man jailed for burning Koran charged with treason - Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-man-jailed-burning-koran-charged-with-treason-2024-10-03/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/EJQJ4JFXFNPOHAWBZNKX5QAC4Y.jpg?auth=ab6761350a456f9b40a78499d822a80b41044d240588a285e88dff6d1de26c0c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Brian Heater",
-      "content": "Oura on Thursday unveiled the fourth generation of its popular smart ring. The Oura Ring 4 arrives just under three years after its predecessors debut. Despite the gap, the new wearable largely refin\u2026 [+3687 chars]",
-      "description": "The Oura Ring 4 is up for preorder starting Thursday and starts shipping October 15. Users get one month of membership to its software offering for free.",
-      "publishedAt": "2024-10-03T07:01:00Z",
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "title": "Oura Ring 4 debuts slimmer design, additional sizes, and improved sensing starting at $349 - TechCrunch",
-      "url": "https://techcrunch.com/2024/10/03/oura-ring-4-debuts-slimmer-design-additional-sizes-and-improved-sensing-starting-at-349/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/05-Oura-Ring-Lifestyle.jpg?resize=1200,775"
-    },
-    {
-      "author": "Christina Shaw",
-      "content": "A couple in New Jersey who suffered serious injuries after being involved in an accident while using Uber is being told they cannot sue the popular rideshare service.\r\nThe couple, Georgia and John Mc\u2026 [+2976 chars]",
-      "description": "A New Jersey couple is being denied the ability to sue rideshare company Uber following a life altering accident citing Uber's terms of service agreement.",
-      "publishedAt": "2024-10-03T06:41:00Z",
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "title": "New Jersey couple blocked from suing Uber after serious car accident - Fox Business",
-      "url": "https://www.foxbusiness.com/lifestyle/new-jersey-couple-blocked-from-suing-uber-after-serious-car-accident",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/uber.jpg?ve=1&tl=1"
-    },
-    {
-      "author": null,
-      "content": "Amal says she and other children in her shelter wake up and go to sleep terrified\r\nWarning: This story contains details which some people may find upsetting\r\nAn Israeli air strike that killed multipl\u2026 [+3399 chars]",
-      "description": "Thirteen children and a pregnant woman were among the victims of the air strike on 21 September.",
-      "publishedAt": "2024-10-03T04:57:23Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Deadly Gaza school strike targeted one Hamas figure, BBC told - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c3dv18l03n1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f7a4/live/d84972b0-8017-11ef-83dd-fbf1b9732cf0.jpg"
-    },
-    {
-      "author": "Jon Heyman",
-      "content": "MILWAUKEE These Mets seem to come through when they absolutely have to, and once again, they are at that scary point.\u00a0\r\nThe Mets authored some very big wins throughout a mostly magical year. But now \u2026 [+5357 chars]",
-      "description": "The Mets authored some very big wins throughout a mostly magical year. But now they finally have a game that can only be called a must-win.",
-      "publishedAt": "2024-10-03T04:55:00Z",
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "title": "Mets need to find more magic yet again with season on the brink - New York Post ",
-      "url": "https://nypost.com/2024/10/03/sports/mets-need-to-find-more-magic-yet-again-with-season-on-the-brink/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-pj70v0u1b-1727929424525.jpg?quality=75&strip=all&1727915075&w=1024"
-    },
-    {
-      "author": "Kevin Acee",
-      "content": "The Padres kept going, so they are still going.\r\n\u201cA little up and down,\u201d Fernando Tatis Jr. said. \u201cBut we\u2019re here now. It\u2019s all that matters. And we\u2019re gonna keep showing up.\u201d\r\nIn ways both exhilarat\u2026 [+5790 chars]",
-      "description": "Club loses Joe Musgrove to elbow tightness, holds on for tense 5-4 win over visiting Atlanta",
-      "publishedAt": "2024-10-03T04:52:30Z",
-      "source": {
-        "id": null,
-        "name": "The San Diego Union-Tribune"
-      },
-      "title": "Padres sweep Braves from wild-card series, advance to face Dodgers - The San Diego Union-Tribune",
-      "url": "http://www.sandiegouniontribune.com/2024/10/02/padres-sweep-braves-from-wild-card-series-advance-to-face-dodgers/",
-      "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2024/10/SUT-L-padres-1003-037.jpg?w=1024&h=728"
-    },
-    {
-      "author": "Timour Azhari, Ari Rabinovitch",
-      "content": "BEIRUT/JERUSALEM, Oct 3 (Reuters) - Israel bombed Beirut early on Thursday, killing at least six people, after its forces suffered their deadliest day on the Lebanese front in a year of clashes with \u2026 [+6384 chars]",
-      "description": "Israel bombed Beirut early on Thursday, killing at least six people, after its forces suffered their deadliest day on the Lebanese front in a year of clashes with Iran-backed Hezbollah.",
-      "publishedAt": "2024-10-03T04:37:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "Israel strikes heart of Beirut, killing six - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-strikes-heart-beirut-killing-six-2024-10-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FE4KDFKAO5JQNOC4EPFL3Z6UJU.jpg?auth=98202630ed7c239fc459e1d30ff01977c744ab949148bdd0a1ebb5d80d7ed66c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Emily Wax-Thibodeaux",
-      "content": "The Holmes family began preparing for Helene as soon as meteorologists started warning the storm was headed their way.\r\nBeth Holmes, a real estate lawyer in the small North Carolina mountain town of \u2026 [+6938 chars]",
-      "description": "After Helene tore through North Carolina, Beth Holmes couldn\u2019t get in touch with her grandmother. So she and her family set off on an expedition to find her.",
-      "publishedAt": "2024-10-03T04:34:26Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Desperate to find Grandma, a family hit the road with bikes and chain saws - The Washington Post",
-      "url": "https://www.washingtonpost.com/weather/2024/10/02/helene-north-carolina-grandma-search/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RVLC3IZ7QVFP4UBELERGZDU4PU.JPG&w=1440"
-    },
-    {
-      "author": "Bethy Squires",
-      "content": "Once again, we have all been Jaxed. Jax Taylors divorce filing appeared to claim he and Brittany Cartwright were never legally married. Now reps say Taylor made a mistake somewhere on the forms. But \u2026 [+1445 chars]",
-      "description": "In new legal filings, Jax Taylor claims he and Brittany Cartwright were never legally married. Now a rep is saying Taylor \u2018made errors\u2019 filling out the forms.",
-      "publishedAt": "2024-10-03T04:33:00Z",
-      "source": {
-        "id": null,
-        "name": "Vulture"
-      },
-      "title": "Were Jax Taylor and Brittany Cartwright Ever Legally Married? - Vulture",
-      "url": "http://www.vulture.com/article/jax-taylor-brittany-cartwright-never-married-custody.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/ec4/bda/4b73fb901e24b8de7d730d25d1bf3a655e-jax-brittany-divorce.1x.rsocial.w1200.jpg"
-    },
-    {
-      "author": "MARI YAMAGUCHI Associated Press",
-      "content": "TOKYO -- An unexploded U.S. bomb from World War II that had been buried at a Japanese airport exploded Wednesday, causing a large crater in a taxiway and the cancellation of more than 80 flights, Jap\u2026 [+1313 chars]",
-      "description": "A U.S. bomb from World War II has exploded at a Japanese airport, causing a large crater in a taxiway and the cancellation of more than 80 flights",
-      "publishedAt": "2024-10-03T04:13:03Z",
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "title": "An American bomb from WWII explodes at a Japanese airport, leaving a crater on the taxiway - ABC News",
-      "url": "https://abcnews.go.com/International/wireStory/us-bomb-world-war-ii-explodes-japanese-airport-114419077",
-      "urlToImage": "https://i.abcnewsfe.com/a/07bc73e6-c95c-46ea-96dc-0a6869cdf5f0/wirestory_bf561e4c71f644267d86d8589b6999d4_16x9.jpg?w=1600"
-    },
-    {
-      "author": null,
-      "content": "A\u00a0Singapore\u00a0court sentenced a former minister to 12 months in prison on Thursday for obstructing justice and receiving more than $300,000 worth of gifts, in the first jailing of an ex-cabinet member \u2026 [+1710 chars]",
-      "description": "A\u00a0Singapore\u00a0court sentenced a former minister to 12 months in prison on Thursday for obstructing justice and receiving more than $300,000 worth of gifts, in the first jailing of an ex-cabinet member in a city-state known for clean governance.",
-      "publishedAt": "2024-10-03T04:10:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Disgraced ex-minister gets jail time in rare corruption case for squeaky clean Singapore - CNN",
-      "url": "https://www.cnn.com/2024/10/02/business/singapore-iswaran-sentencing-corruption-intl-hnk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-10-03t014103z-1448351298-rc2pcaab85ea-rtrmadp-3-singapore-politics.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Sarah Rumpf-Whitten",
-      "content": "Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the bird flu, state media said.\r\nAccording to the Vietnam News Agency (VNA), the mammals died at the private My\u2026 [+1330 chars]",
-      "description": "Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the H5N1 bird flu virus, state media reported on Wednesday.",
-      "publishedAt": "2024-10-03T04:04:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Bird flu kills 47 tigers, 3 lions and a panther in Vietnam zoos, state media reports - Fox News",
-      "url": "https://www.foxnews.com/health/bird-flu-kills-47-tigers-3-lions-panther-vietnam-zoos-state-media-reports",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/tiger.jpg"
-    },
-    {
-      "author": "SIMINA MISTREANU",
-      "content": "KAOHSIUNG, Taiwan (AP) A slow-moving typhoon approaching Taiwan led to school and office closures for a third consecutive day Thursday, with authorities asking people to stay indoors.\r\nTyphoon Kratho\u2026 [+2409 chars]",
-      "description": "A slow-moving typhoon approaching Taiwan led to school and office closures for a third consecutive day, with authorities asking people to stay indoors. Typhoon Krathon was centered about 19 miles southwest of the major port city of Kaohsiung on Thursday morni\u2026",
-      "publishedAt": "2024-10-03T04:02:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Typhoon Krathon shuts parts of Taiwan for a third day as it nears the island with extreme rains - The Associated Press",
-      "url": "https://apnews.com/article/taiwan-typhoon-krathon-rain-e4acaaf0fbf22779c1f0124ee2f2712b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/548c5b4/2147483647/strip/true/crop/6000x3375+0+256/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3f%2F87%2F2265f2e1a761b0157f1c16f4a241%2F6b521f53c0cd44f582ddbf411be09ca0"
-    },
-    {
-      "author": "Mike Florio",
-      "content": "With Raiders receiver Davante Adams due to make $983,333 in salary each week plus $30,000 for each game in which hes on the active roster, his remaining compensation could create a cap issue for a te\u2026 [+879 chars]",
-      "description": "With Raiders receiver Davante Adams due to make $983,333 in salary each week plus $30,000 for each game in which he's on the active roster, his remaining compensation could create a cap issue for a team that trades for him.",
-      "publishedAt": "2024-10-03T03:38:05Z",
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
-      },
-      "title": "Raiders might end up paying some of Davante Adams\u2019s salary to facilitate trade - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-might-end-up-paying-some-of-davante-adamss-salary-to-facilitate-trade",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/580d1c2/2147483647/strip/true/crop/6945x3907+0+362/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2Fba%2F6af69815479e81cd1f882e5f1fb4%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2175573585"
-    },
-    {
-      "author": "Karl Rasmussen",
-      "content": "There's a real possibility star third baseman Alex Bregman has played his last game for the Houston Astros. He appeared to acknowledge as much on Wednesday following the team's exit from the postseas\u2026 [+1603 chars]",
-      "description": "The longtime Houston third baseman  is set to hit free agency this offseason.",
-      "publishedAt": "2024-10-03T03:14:46Z",
-      "source": {
-        "id": null,
-        "name": "Sports Illustrated"
-      },
-      "title": "Alex Bregman Sends Short Message to Fans After Potential Final Game With Astros - Sports Illustrated",
-      "url": "https://www.si.com/mlb/alex-bregman-message-fans-after-potential-final-game-astros",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5196,h_2922,x_0,y_443/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j97zrp0gvfbk07txev.jpg"
-    },
-    {
-      "author": "Mark Torregrossa | mtorregr@mlive.com",
-      "content": "A strong solar flare is likely going to blow enough solar energy into our atmosphere to produce widespread northern lights in the next few days.\r\nThe NOAAs Space Weather Prediction Center (SWPC) has \u2026 [+2308 chars]",
-      "description": "The Space Weather Prediction center has targeted two time periods that should have northern lights.",
-      "publishedAt": "2024-10-03T02:41:00Z",
-      "source": {
-        "id": null,
-        "name": "mlive.com"
-      },
-      "title": "Geomagnetic Storm Watch issued; Prepare for northern lights over Michigan, southern Midwest - MLive.com",
-      "url": "https://www.mlive.com/weather/2024/10/geomagnetic-storm-watch-issued-prepare-for-northern-lights-over-michigan-southern-midwest.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/FBOSJVO4KNH4JOKXXGDIN2LNMU.png?auth=e3b3258454c42fc4079975ee0201300e988dab2e1c9c4ed95cdf9a15c8c9d8ea&width=1280&quality=90"
-    },
-    {
-      "author": "Sabrina Picou",
-      "content": "It\u2019s officially over for Paul Soliz and his estranged wife Nicole Mancilla!\r\nMancilla filed for divorce from Britney Spears\u2019 former housekeeper-turned-boyfriend in the Superior Court of California on\u2026 [+2984 chars]",
-      "description": "The pop star\u2019s ex is currently involved in divorce proceedings with his estranged wife, Nicole Mancilla.",
-      "publishedAt": "2024-10-03T02:32:00Z",
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "title": "Britney Spears\u2019 on-again, off-again boyfriend Paul Soliz\u2019s wife files for divorce after 8 years of marriage - Page Six",
-      "url": "https://pagesix.com/2024/10/02/celebrity-news/britney-spears-on-again-off-again-boyfriend-paul-solizs-wife-files-for-divorce/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/10/90922992.jpg?quality=75&strip=all&w=1024"
     }
   ],
   "status": "ok",
