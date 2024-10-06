@@ -1,28 +1,28 @@
 {
   "articles": [
     {
-      "author": "Humeyra Pamuk",
-      "description": "As the Gaza war nears its first anniversary, previously unreported email exchanges between senior Biden administration officials show that Washington was warned early on that Israel might be committing war crimes.",
-      "publishedAt": "2024-10-04T10:09:32Z",
-      "title": "Emails show early US concerns over Gaza offensive, risk of Israeli war crimes",
-      "url": "https://www.reuters.com/world/middle-east/emails-show-early-us-concerns-over-gaza-offensive-risk-israeli-war-crimes-2024-10-04/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/45KH24AIH5PN3EJ6EK3IRWSDTY.jpg?auth=f510bb04acfbf029202a38eb12b3753aace907b6ae9c7515e4f0722c36003d5f&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Philip Blenkinsop",
-      "description": "The European Commission said on Friday it had received enough support from EU members to impose tariffs of up to 45% on Chinese electric vehicle imports in the bloc's highest profile trade case, but would continue to negotiate with Beijing.",
-      "publishedAt": "2024-10-04T01:02:55Z",
-      "title": "EU executive to adopt tariffs on Chinese EVs after vote",
-      "url": "https://www.reuters.com/business/autos-transportation/eu-governments-face-pivotal-vote-chinese-ev-tariffs-2024-10-04/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/RQ725B5YN5NPVCN7IPXND56HTI.jpg?auth=2cf65e5ed56afe641bf92f4d83b9d9237291d9713ebe5ee61938899a23f98957&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Timour Azhari, Ari Rabinovitch",
       "description": "Israel bombed central Beirut in the early hours of Thursday, killing at least six people, after its forces suffered their deadliest day on the Lebanese front in a year of clashes against Iran-backed armed group Hezbollah.",
       "publishedAt": "2024-10-02T23:34:04Z",
       "title": "Israel strikes heart of Beirut, killing six",
       "url": "https://www.reuters.com/world/middle-east/israel-strikes-heart-beirut-killing-six-2024-10-02/",
       "urlToImage": "https://www.reuters.com/resizer/v2/ZQQ7OJPQSFLXZHHB7WJ5SQZBWI.jpg?auth=55727ab5c695af8510f0f96be202f82685e5c427c5ee71f19c8f25598e04f9da&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Harold Isaac, Sarah Morland",
+      "description": "Gang members brandishing automatic rifles stormed through a town in Haiti's main breadbasket region, killing at least 70 and forcing over 6,000 to flee, causing widespread shock even in a country grown accustomed to outbreaks of violence.",
+      "publishedAt": "2024-10-04T15:18:28Z",
+      "title": "Haitian gang slaughters at least 70 people as thousands flee",
+      "url": "https://www.reuters.com/world/americas/un-horrified-least-70-killed-haiti-gang-massacre-2024-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/M7PMMNYWJJL4HBMHPS4F3DKWBE.jpg?auth=cb64bef5642b39fb3d239f4153cc2f6d8164948e0b76ff44b97fde05b428eea2&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Ted Hesson, Kristina Cooke",
+      "description": "The Biden administration will not renew a temporary humanitarian entry program for hundreds of thousands of migrants with U.S. sponsors who arrived in recent years, the U.S. Department of Homeland Security said on Friday.",
+      "publishedAt": "2024-10-04T23:04:40Z",
+      "title": "U.S. will not renew legal status for hundreds of thousands of migrants",
+      "url": "https://www.reuters.com/world/us/us-will-not-renew-legal-status-hundreds-thousands-migrants-2024-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/UXEAH2VS2JPD5KWAGARLGNVQKI.jpg?auth=b536bb43b9ee188e29690b7b849ff10e493a8d7bf9e28f52fa7924caacc731f2&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Bruno Kelly, Jake Spring",
@@ -33,12 +33,28 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/H4YF66IKMROUTEFW2SBCCLKVHM.jpg?auth=8f32611f184a01c54d38f5a3db625abd53f9978650059f051451309e75de27bf&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Philip Blenkinsop",
+      "description": "The European Commission said on Friday it had received enough support from EU members to impose tariffs of up to 45% on Chinese electric vehicle imports in the bloc's highest profile trade case, but would continue to negotiate with Beijing.",
+      "publishedAt": "2024-10-04T01:02:55Z",
+      "title": "EU executive to adopt tariffs on Chinese EVs after vote",
+      "url": "https://www.reuters.com/business/autos-transportation/eu-governments-face-pivotal-vote-chinese-ev-tariffs-2024-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/RQ725B5YN5NPVCN7IPXND56HTI.jpg?auth=2cf65e5ed56afe641bf92f4d83b9d9237291d9713ebe5ee61938899a23f98957&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Reuters",
       "description": "Hundreds of Tunisians marched in the capital on Friday, escalating protests against President Kais Saied, two days before what they say is an unfair presidential vote in which Saied has removed most other candidates to remain in power.",
       "publishedAt": "2024-10-04T20:14:43Z",
       "title": "Tunisians protest against President Saied two days before presidential vote",
       "url": "https://www.reuters.com/world/africa/tunisians-protest-against-president-saied-two-days-before-presidential-vote-2024-10-04/",
       "urlToImage": "https://www.reuters.com/resizer/v2/DUZHTDX44ZICHIX47DKI4IMEVY.jpg?auth=a81df1bf0fd929651839bdc93480135e2119461cbf27b1d9193e9cc9c0e5cf80&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Humeyra Pamuk",
+      "description": "As the Gaza war nears its first anniversary, previously unreported email exchanges between senior Biden administration officials show that Washington was warned early on that Israel might be committing war crimes.",
+      "publishedAt": "2024-10-04T10:09:32Z",
+      "title": "Emails show early US concerns over Gaza offensive, risk of Israeli war crimes",
+      "url": "https://www.reuters.com/world/middle-east/emails-show-early-us-concerns-over-gaza-offensive-risk-israeli-war-crimes-2024-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/45KH24AIH5PN3EJ6EK3IRWSDTY.jpg?auth=f510bb04acfbf029202a38eb12b3753aace907b6ae9c7515e4f0722c36003d5f&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -57,28 +73,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/Y2BIPJGW2VMIVEMOG7HHK4536Q.jpg?auth=428b9e20a5c399d0a0762c41120b9812c7922502e3bca711ae0138a795d42080&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Samia Nakhoul",
-      "description": "For Sinwar, architect of the Hamas cross-border raids that became the deadliest day in Israel's history, armed struggle remains the only way to force the creation of a Palestinian nation.",
-      "publishedAt": "2024-10-04T12:49:55Z",
-      "title": "Yahya Sinwar, Hamas\u2019 hunted leader, remains committed to Israel's destruction",
-      "url": "https://www.reuters.com/world/middle-east/hunted-yet-unrepentant-yahya-sinwar-remains-committed-israels-destruction-2024-10-04/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XDP7XUE3RFIGVFD5BTFXW5CBCE.jpg?auth=48b2b91d9135228a1de73bfd903bd7c0c27907bba9a2498f10bc2a3cf1c98cdb&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Alexander Tanas",
-      "description": "A top police official said on Friday that criminal groups with Russian backing were intent on disrupting Moldova's presidential election, including attempts to seize government buildings.",
-      "publishedAt": "2024-10-04T19:07:09Z",
-      "title": "Moldovan police say criminals plotting to seize public buildings in election campaign",
-      "url": "https://www.reuters.com/world/europe/moldovan-police-say-criminals-plotting-seize-public-buildings-election-campaign-2024-10-04/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/5HJ2M4FAC5OTHPWQMS7NAISYT4.jpg?auth=e0aba2feb71861ce29efe8b6f85aa8ce72b2c7e6aee5e237f415293bc8b08de8&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
-      "description": "U.S. President Joe Biden and newly inaugurated Mexican President Claudia Sheinbaum spoke on the phone on Friday, both said on social media, with Sheinbaum pointing to discussions about economic and trade cooperation.",
-      "publishedAt": "2024-10-04T20:21:34Z",
-      "title": "Biden, Mexico's Sheinbaum talk economic, trade cooperation",
-      "url": "https://www.reuters.com/world/americas/biden-mexicos-sheinbaum-talk-economic-trade-cooperation-2024-10-04/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/RIBSZJ45TBO47M5ZQXHBJQPJRQ.jpg?auth=8eb8d9b56f5d433c095b7fd2f293242796bd6c248ed50714cf9bdf067cd19cb8&height=1005&width=1920&quality=80&smart=true"
+      "description": "A South Korean military transport aircraft is evacuating 97 citizens and family members from Lebanon amid escalating tension and will return to South Korea on Saturday afternoon, the country's foreign ministry said.",
+      "publishedAt": "2024-10-05T03:31:34Z",
+      "title": "South Korea military aircraft evacuates 97 from Lebanon amid escalating tension",
+      "url": "https://www.reuters.com/world/middle-east/south-korea-military-aircraft-evacuates-97-lebanon-amid-escalating-tension-2024-10-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/NUHR7GYWJJJABJX76FABYEAOJE.jpg?auth=a74b658ee39a56f018c23fea2e32adfe97f4409a01a196116dc834fdf64caf70&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
