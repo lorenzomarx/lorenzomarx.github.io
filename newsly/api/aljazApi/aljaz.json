@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Alastair Mccready",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsrael has carried out at least four huge strikes on the southern suburbs of Beirut in recent hours.",
+      "description": "Israel has carried out at least four huge strikes on the southern suburbs of Beirut in recent hours.",
+      "publishedAt": "2024-10-06T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Live: Israel bombs Beirut as protesters across globe urge end to Gaza war",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/10/6/live-israel-carries-out-very-violent-bombing-campaign-on-beirut",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/2024-10-05T213929Z_1581662305_RC2LEAANTVIE_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1728169291.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Al Jazeera",
       "content": "The Democratic Republic of Congo has launched its first vaccination campaign against mpox in the eastern city of Goma, which was hit the hardest by an outbreak.\r\nVaccines were first administered to h\u2026 [+1848 chars]",
       "description": "The vaccine will first be given to health workers and those with existing health issues.",
@@ -1286,21 +1299,8 @@
       "title": "Bird flu suspected of killing dozens of captive tigers in Vietnam",
       "url": "https://www.aljazeera.com/news/2024/10/3/bird-flu-suspected-of-killing-dozens-of-captive-tigers-in-vietnam",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AFP__20070329__Hkg526761__v2__HighRes__VietnamEnvironmentAnimalsTigers-1727942368.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Israels military has killed at least six people in an air attack on central Beirut after suffering losses in fighting with Hezbollah in southern Lebanon.\r\nThe attack on Lebanons capital occurred over\u2026 [+4120 chars]",
-      "description": "Israel's military kills six in attack on central Beirut as eight Israeli soldiers killed in southern ground offensive.",
-      "publishedAt": "2024-10-03T08:08:20Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Israel attacks heart of Beirut as Hezbollah pushes back in southern Lebanon",
-      "url": "https://www.aljazeera.com/news/2024/10/3/israeli-attacks-heart-of-beirut-as-hezbollah-pushes-back-in-south-lebanon",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/2024-10-03T043333Z_256321677_RC2RCAASQFFD_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-BEIRUT-CASUALTIES-1727936876.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1378
+  "totalResults": 1318
 }
