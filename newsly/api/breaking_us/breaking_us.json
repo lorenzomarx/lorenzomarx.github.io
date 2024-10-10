@@ -1,36 +1,62 @@
 {
   "articles": [
     {
-      "author": "Jamie Ross, Hannah Jewell",
-      "content": "Hurricane Milton is closing in on Floridas west coast.\r\nKamala Harris proposed that Medicare should cover long-term-care at home.\r\nA new book makes some stunning claims about Donald Trump.\r\nThe true \u2026 [+549 chars]",
-      "description": "Catch up in minutes with these 7 stories.",
-      "publishedAt": "2024-10-09T14:03:37Z",
+      "author": "TERRY SPENCER, KATE PAYNE",
+      "content": "TAMPA, Fla. (AP) Hurricane Milton hurled rain, tornadoes and tropical storm-force winds at the U.S. coast Wednesday as time began to run out for residents to evacuate from the potentially catastrophi\u2026 [+7430 chars]",
+      "description": "Hurricane Milton is hurling rain, tornadoes and tropical storm-force winds at the U.S. coast as time runs out for residents to evacuate from the storm's potentially catastrophic path toward Florida. The National Hurricane Center stressed that it was not certa\u2026",
+      "publishedAt": "2024-10-09T22:39:00Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "title": "Wednesday briefing: Hurricane Milton\u2019s path; Bob Woodward\u2019s new book; Gaza death toll; ghost guns; Peter Todd; and more - The Washington Post",
-      "url": "https://www.washingtonpost.com/the-seven/2024/10/09/what-to-know-for-october-9/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-09-2024/t_533bb73497ce44c49a22adaa9c137c59_name_highway_florida.jpg&w=1440"
+      "title": "Rain, tornadoes and tropical storm-force winds lash Florida as Hurricane Milton draws near - The Associated Press",
+      "url": "https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7755b73/2147483647/strip/true/crop/1024x576+0+54/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2F24%2F12b759834b9e9aefdf5066003100%2Fap24283626152626.jpg"
     },
     {
-      "author": "Johan Ahlander, Niklas Pollard, Marie Mannes",
-      "content": null,
-      "description": "U.S. scientists David Baker and John Jumper and Briton Demis Hassabis won the 2024 Nobel Prize in Chemistry on Wednesday for work on decoding the structure of proteins and creating new ones, yielding advances in areas such as drug development.",
-      "publishedAt": "2024-10-09T14:00:22Z",
+      "author": "Fredreka Schouten, Edward-Isaac Dovere",
+      "content": "Vice President Kamala Harris political team has raised $1 billion since entering the presidential race in late July, two sources familiar with the figure told CNN marking a massive fundraising milest\u2026 [+1633 chars]",
+      "description": "Vice President Kamala Harris\u2019 political team has raised $1 billion since entering the presidential race in late July, two sources familiar with the figure told CNN \u2013 marking a massive fundraising milestone in her campaign against former President Donald Trump.",
+      "publishedAt": "2024-10-09T22:34:00Z",
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Nobel chemistry prize 2024 goes to protein pioneers Baker, Hassabis and Jumper - Reuters",
-      "url": "https://www.reuters.com/science/baker-hassabis-jumper-win-2024-nobel-prize-chemistry-2024-10-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FLAJCE5JFJMJ5DZ34X4PGSDAXY.jpg?auth=be07b8a605bb2e67ec09758444eec4551c0860dee8b453992645ea375f320afa&height=1005&width=1920&quality=80&smart=true"
+      "title": "Kamala Harris has raised $1 billion since launching presidential campaign - CNN",
+      "url": "https://www.cnn.com/2024/10/09/politics/harris-billion-fundraising-election/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176952525.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": null,
+      "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n\u2026 [+105 chars]",
+      "description": null,
+      "publishedAt": "2024-10-09T22:10:26Z",
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "title": "Hurricane Milton could cost $60bn in insurance losses - Financial Times",
+      "url": "https://www.ft.com/content/8d348395-7286-486d-8837-49576c27ec8b",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": "Rookie Spencer Rattler will start at quarterback for the New Orleans Saints against the Tampa Bay Buccaneers on Sunday, coach Dennis Allen said Wednesday, replacing an injured Derek Carr.\r\nEditor's P\u2026 [+694 chars]",
+      "description": "Saints rookie QB Spencer Rattler will start against the Bucs on Sunday, coach Dennis Allen said Wednesday, replacing an injured Derek Carr.",
+      "publishedAt": "2024-10-09T21:47:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Saints turn to rookie QB Rattler with Carr injured - ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/41704881/saints-rookie-qb-spencer-rattler-start-vs-buccaneers-derek-carr-injured",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1009%2Fr1398493_1296x729_16%2D9.jpg"
     },
     {
       "author": null,
       "content": "[Removed]",
       "description": "[Removed]",
-      "publishedAt": "2024-10-09T13:58:55Z",
+      "publishedAt": "2024-10-09T21:42:51Z",
       "source": {
         "id": null,
         "name": "[Removed]"
@@ -40,227 +66,201 @@
       "urlToImage": null
     },
     {
-      "author": "TERRY SPENCER, HAVEN DALEY",
-      "content": "TAMPA, Fla. (AP) Steady rain fell and winds began to gust in the Tampa Bay area Wednesday morning as a mighty Hurricane Milton churned toward a potentially catastrophic collision with the west coast \u2026 [+6982 chars]",
-      "description": "The National Weather Service says a tornado is on the ground in the lightly populated Everglades area of South Florida as Hurricane Milton approaches. The service posted a photo on the social platform X of the funnel crossing the highway Wednesday morning. Fo\u2026",
-      "publishedAt": "2024-10-09T13:56:38Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Time to evacuate is running out as Hurricane Milton closes in on Florida - The Associated Press",
-      "url": "https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93",
-      "urlToImage": "https://dims.apnews.com/dims4/default/4efcd0d/2147483647/strip/true/crop/3936x2214+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F0d%2Fd5e0254d71ffa365707c1aa0fa1a%2F3783517d40a543d6bea9cf6871b2bd17"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "A day after being fired by the Jets, Robert Saleh released a statement thanking the club for the three-plus years he helmed the operation.",
-      "publishedAt": "2024-10-09T13:38:00Z",
-      "source": {
-        "id": "nfl-news",
-        "name": "NFL News"
-      },
-      "title": "Robert Saleh 'grateful' for time as Jets coach in first comments since firing - NFL.com",
-      "url": "https://www.nfl.com/news/robert-saleh-grateful-for-time-as-jets-coach-in-first-comments-since-firing",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/vysxwxmuoidgineizath"
-    },
-    {
-      "author": "Juan Toribio, AJ Cassavell",
-      "content": "SAN DIEGO -- For decades, the Padres craved the chance of slaying the dragon up the freeway, as late owner Peter Seidler would say. With one more win, they would accomplish just that for the second t\u2026 [+5725 chars]",
-      "description": "SAN DIEGO -- For decades, the Padres craved the chance of slaying the \u201cdragon up the freeway,\u201d as late owner Peter Seidler would say. With one more win, they would accomplish just that for the second time in three years.\nAfter spending nearly two days exchang\u2026",
-      "publishedAt": "2024-10-09T13:33:56Z",
+      "author": "Todd Zolecki, Anthony DiComo, Paul Casella",
+      "content": "PHILADELPHIA -- In the 16-year history of Citi Field, the Mets have never held a champagne celebration at their home ballpark. Wednesday offers the promise of another chance.\r\nWhen the Mets clinched \u2026 [+8198 chars]",
+      "description": "PHILADELPHIA -- In the 16-year history of Citi Field, the Mets have never held a champagne celebration at their home ballpark. Wednesday offers the promise of another chance.\nWhen the Mets clinched the National League East title in 2015, they did so in Cincin\u2026",
+      "publishedAt": "2024-10-09T21:39:04Z",
       "source": {
         "id": null,
         "name": "MLB.com"
       },
-      "title": "Dodgers-Padres NLDS Game 4 FAQ (9 ET/6 PT, FS1) - MLB.com",
-      "url": "https://www.mlb.com/news/dodgers-vs-padres-nl-division-series-game-4-starting-lineups-and-pitching-matchup",
-      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/dsxlf7y8uxcnmepilguz.jpg"
+      "title": "LIVE: Phillies-Mets NLDS Game 4 (FS1) - MLB.com",
+      "url": "https://www.mlb.com/news/phillies-vs-mets-nl-division-series-game-4-starting-lineups-and-pitching-matchup",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/cgiteezf5zblzqrgyuak.jpg"
     },
     {
-      "author": null,
-      "content": "Sin City blew a kiss goodbye to the Tropicana before first light Wednesday in an elaborate implosion that reduced to rubble the last true mob building on the Las Vegas Strip.\r\nThe Tropicana's hotel t\u2026 [+4004 chars]",
-      "description": "The Tropicana was a frequent haunt of the legendary Rat Pack, while its past under the mob has long cemented its place in Las Vegas lore.",
-      "publishedAt": "2024-10-09T13:15:23Z",
+      "author": "Thania Garcia",
+      "content": "Taylor Swift has donated $5 million in relief efforts for communities struggling in the wake of Hurricanes Helene and Milton.\r\nOn their social media, the non-profit organization Feeding America relea\u2026 [+1645 chars]",
+      "description": "Taylor Swift donates $5 million to Feeding America in an effort to help those struggling in the wake of Hurricane Milton.",
+      "publishedAt": "2024-10-09T21:10:00Z",
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Variety"
       },
-      "title": "Tropicana implosion reduces to rubble the last true mob building on the Las Vegas Strip - CBS News",
-      "url": "https://www.cbsnews.com/news/tropicana-implosion-las-vegas/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/09/365b480b-1fce-4b4b-8740-0ce3d40f727b/thumbnail/1200x630g8/ed0d23d03620fceeb80834c96a2605c9/ap24283442649771.jpg?v=3a0e65dbe151135b3f2e1627f423e21b"
+      "title": "Taylor Swift Donates $5 Million to Hurricane Helene and Milton Relief Efforts - Variety",
+      "url": "https://variety.com/2024/music/news/taylor-swift-donates-hurricane-milton-relief-1236173667/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/10/GettyImages-1978656312.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "author": "Sara Dorn",
+      "content": "Vice President Kamala Harris has erased former President Donald Trumps lead over President Joe Biden in Michigan since her entrance into the race, according to polls that show razor-thin races in the\u2026 [+5821 chars]",
+      "description": "Biden flipped Michigan in the 2020 election.",
+      "publishedAt": "2024-10-09T20:44:54Z",
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "title": "Michigan 2024 Trump-Harris Polls: Harris Leads Narrowly In One Of Her Most Important States - Forbes",
+      "url": "https://www.forbes.com/sites/saradorn/2024/10/09/michigan-2024-trump-harris-polls-harris-leads-narrowly-in-one-of-her-most-important-states/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6706ea9a9f01343dfb437475/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "author": "Evan Campbell",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.",
+      "description": "\"Do a barrel roll\" out of bed.",
+      "publishedAt": "2024-10-09T20:35:05Z",
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "title": "Nintendo Games That Alarmo Needs, Starting With Star Fox 64 - GameSpot",
+      "url": "https://www.gamespot.com/gallery/nintendo-games-that-alarmo-needs-starting-with-star-fox-64/2900-5852/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1813/18138562/4382072-alarmo.jpg"
+    },
+    {
+      "author": "Kasha Patel",
+      "content": "For the third time this week, people across portions of the United States may get the chance to see the northern lights. A solar storm is expected to hit Earth on Thursday, potentially bringing the d\u2026 [+5481 chars]",
+      "description": "The aurora borealis could be seen as far south as Alabama and California on Thursday night, and the surge of solar particles could extend into Friday too.",
+      "publishedAt": "2024-10-09T20:32:42Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "A \u2018severe\u2019 Earth-bound solar storm could bring northern lights far south - The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2024/10/09/solar-geomagnetic-storm-northern-lights-us/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKGG4AZZDIHFLMPRPIP74INMIU.JPG&w=1440"
+    },
+    {
+      "author": "Josh Schafer",
+      "content": "Disneyland's (DIS) theme park prices just went up again.\r\nIn an announcement early Wednesday, the company revealed more changes at California's Disneyland, including immediate price hikes on certain \u2026 [+1479 chars]",
+      "description": "Investors are locked in debate over a 'no landing' for the economy, with Fed minutes on deck.",
+      "publishedAt": "2024-10-09T20:08:00Z",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "title": "Stock market today: Dow, S&P 500 jump to fresh records as key CPI report looms - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-jump-to-fresh-records-as-key-cpi-report-looms-145320919.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+    },
+    {
+      "author": "Jori Epstein",
+      "content": "The New York Jets returned home from England with a 2-3 record on Sunday night.\r\nTheir leadership structure was intact through Monday before team owner Woody Johnson fired head coach Robert Saleh on \u2026 [+7262 chars]",
+      "description": "Rodgers went on The Pat McAfee Show to discuss the big Jets decision this week.",
+      "publishedAt": "2024-10-09T19:43:31Z",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "title": "Jets, Aaron Rodgers deny QB's role in Robert Saleh firing: \u2018I resent any of those accusations\u2019 - Yahoo Sports",
+      "url": "https://sports.yahoo.com/jets-aaron-rodgers-deny-qbs-role-in-robert-saleh-firing-i-resent-any-of-those-accusations-170629377.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZxAsSoMSRcw3MtLM0bmmug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/0611e340-8661-11ef-9bbf-9ba75473f0bd"
+    },
+    {
+      "author": "Haley Talbot",
+      "content": "Republicans are fighting a war against misinformation to keep their constituents safe as they brace for Hurricane Milton to make landfall in Florida, including being willing to point the finger at me\u2026 [+4342 chars]",
+      "description": "Republicans are fighting a war against misinformation to keep their constituents safe as they brace for Hurricane Milton to make landfall in Florida, including being willing to point the finger at members of their own party \u2014 and their presidential nominee.",
+      "publishedAt": "2024-10-09T18:52:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Republicans in Congress call out hurricane misinformation coming from within their own party - CNN",
+      "url": "https://www.cnn.com/2024/10/09/politics/republicans-congress-hurricane-misinformation/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gimenez-romney-split.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Ryan Erik King",
+      "content": "The category-four Hurricane Milton will make landfall in Florida on Wednesday and is projected to be the worst to strike the state in 100 years. The devastation expected across the peninsula has alre\u2026 [+1589 chars]",
+      "description": "The Crew-8 Dragon was scheduled to land off the coast of Florida this week",
+      "publishedAt": "2024-10-09T18:35:00Z",
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "title": "Hurricane Milton Strands Astronauts In Space As NASA Delays SpaceX Crew-8 Return - Jalopnik",
+      "url": "https://jalopnik.com/hurricane-milton-strands-astronauts-in-space-as-nasa-de-1851669127",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b6e48968dead9aedb1cc769ec1689a64.jpg"
     },
     {
       "author": null,
+      "content": "People often overestimate their knowledge when making decisions, a phenomenon termed the \u201cillusion of information adequacy.\u201d Research shows that even with limited information, many feel confident in \u2026 [+4617 chars]",
+      "description": "A recent study highlights the \"illusion of information adequacy,\" where individuals believe they have sufficient information to make decisions even when they don't. This often leads to confidence in choices based solely on partial data If you confidently beli\u2026",
+      "publishedAt": "2024-10-09T18:00:04Z",
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "title": "The Confidence Illusion: Why You Think You\u2019re Right Even When You\u2019re Wrong - SciTechDaily",
+      "url": "https://scitechdaily.com/the-confidence-illusion-why-you-think-youre-right-even-when-youre-wrong/",
+      "urlToImage": "https://scitechdaily.com/images/Confident-Arrogant-Stubborn.jpg"
+    },
+    {
+      "author": "Trevor Hunnicutt, Maayan Lubell, Matt Spetalnick",
       "content": null,
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "publishedAt": "2024-10-09T13:03:00Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "Nintendo Sound Clock: Alarmo \u2013 Announcement Trailer - Nintendo of America",
-      "url": "https://www.youtube.com/",
-      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png"
-    },
-    {
-      "author": "Mitchel Broussard",
-      "content": "Amazon's Prime Big Deal Days event is in full swing today, offering customers the first chance to get some holiday shopping done early. Similar to the first Prime Day, it will last for two days (Octo\u2026 [+5666 chars]",
-      "description": "Amazon's Prime Big Deal Days event is in full swing today, offering customers the first chance to get some holiday shopping done early. Similar...",
-      "publishedAt": "2024-10-09T12:34:07Z",
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "title": "The Best Prime Day Deals on AirPods, Apple Watch, and More - MacRumors",
-      "url": "https://www.macrumors.com/2024/10/08/the-best-prime-day-deals-october-2024/",
-      "urlToImage": "https://images.macrumors.com/t/6xx5s2m-0sFwQYwdop7ZKKkyJWY=/2500x/article-new/2024/10/Prime-Big-Deal-Days-Hero-5.jpg"
-    },
-    {
-      "author": null,
-      "content": "Brazil's Supreme Court has said it is lifting a ban on the social media platform X, formerly known as Twitter.\r\nIn his decision, Justice Alexandre de Moraes said that he authorised the \"immediate ret\u2026 [+1930 chars]",
-      "description": "The country's Supreme Court made the order after the platform also blocked certain accounts.",
-      "publishedAt": "2024-10-09T12:11:57Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Brazil lifts ban on Musk's X after it pays $5m fine - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c5y06vzk3yjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2a36/live/a285a1e0-85bb-11ef-a243-952d4aa89fbc.jpg"
-    },
-    {
-      "author": "SAMY MAGDY, WAFAA SHURAFA",
-      "content": "DEIR AL-BALAH, Gaza Strip (AP) A large-scale Israeli operation in northern Gaza has killed dozens of people and threatens to shut down three hospitals over a year into the war with Hamas, Palestinian\u2026 [+7171 chars]",
-      "description": "Palestinians say a large-scale Israeli operation in northern Gaza has killed dozens of people and threatens to shut down three hospitals. Heavy fighting is underway Wednesday in Jabaliya, where Israeli forces have carried out several major operations over the\u2026",
-      "publishedAt": "2024-10-09T12:06:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Israeli offensive in hard-hit northern Gaza kills dozens and threatens hospitals - The Associated Press",
-      "url": "https://apnews.com/article/israel-palestinians-hamas-lezbollah-war-news-10-09-2024-31a2dff9a2bb49bc3b76f32b1ddee128",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c5d6ca2/2147483647/strip/true/crop/7818x4398+0+407/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F08%2F8f73ec59608a50b98510d8c53b2e%2F01cd55784edb446fb9b4758b2bca3f1d"
-    },
-    {
-      "author": "Eric Berger",
-      "content": null,
-      "description": "If you\u2019ve been waiting for a real mission of discovery into the unknown, this is it.",
-      "publishedAt": "2024-10-09T11:30:26Z",
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "title": "We\u2019re finally going to the Solar System\u2019s most intriguing but unexplored frontier - Ars Technica",
-      "url": "https://arstechnica.com/space/2024/10/were-finally-going-to-the-solar-systems-most-intriguing-but-unexplored-frontier/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2014/12/PIA19048europa950.jpg"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-10-09T11:25:36Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Tom Wilson",
-      "content": null,
-      "description": "China's runaway markets rally stumbled on Wednesday, with stocks falling and commodities struggling to find a footing as investors tempered hopes for a robust Chinese economic recovery, keeping pressure on shares globally.",
-      "publishedAt": "2024-10-09T11:18:03Z",
+      "description": "U.S. President Joe Biden and Israeli Prime Minister Benjamin Netanyahu spoke on Wednesday amid tensions with Iran while Israeli Defence Minister Yoav Gallant said an Israeli strike against Iran will be \"lethal, precise and surprising.\"",
+      "publishedAt": "2024-10-09T17:45:46Z",
       "source": {
         "id": "reuters",
         "name": "Reuters"
       },
-      "title": "China's rally stumbles, commodities and global shares subdued - Reuters",
-      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-09/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/DUSI46GGSVKF5JHN3R7XLCCROE.jpg?auth=88c49e0f174ed7fb468f7715d1c3013bc21f99ef4f84fa4c4c2de5138689c9fe&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Ben Lovejoy",
-      "content": "Followed apparent photos of an M4MacBook Pro box and a subsequent unboxing video, the unreleased model has now been offered for sale on a Russian classified ads site at a highly inflated price, natur\u2026 [+1686 chars]",
-      "description": "Followed apparent photos of an M4 MacBook Pro box and a subsequent unboxing video, the unreleased model has now been...",
-      "publishedAt": "2024-10-09T11:01:00Z",
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "title": "Unreleased M4 MacBook Pro offered for sale on Russian site, as leaks appear to be real - 9to5Mac",
-      "url": "https://9to5mac.com/2024/10/09/unreleased-m4-macbook-pro-offered-for-sale-on-russian-site-as-leaks-appear-to-be-real/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/M4-MacBook-Pro-offered-for-sale-on-Russian-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      "title": "Biden, Netanyahu speak; Israel defence chief vows lethal retaliation against Iran - Reuters",
+      "url": "https://www.reuters.com/world/biden-netanyahu-speak-with-focus-israeli-plans-retaliation-against-iran-2024-10-09/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/CYBR4O7GZRJURCCATRJE3NPJX4.jpg?auth=abda23e057139209b2ed1ad249180430d7a88eb5d08cdc730397e52e6506fe5b&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": null,
-      "content": "The measures being considered include \"structural requirements to prevent Google from maintaining its internet search monopoly\r\nThe US government is considering seeking the break-up of the world's bi\u2026 [+2819 chars]",
-      "description": "The US Government considers whether Google should spin off the Android operating system and Chrome browser.",
-      "publishedAt": "2024-10-09T10:51:52Z",
+      "content": null,
+      "description": "Will Dak Prescott deliver against the Lions? Should you trust Justin Fields vs. the Raiders? Check out all of Michael F. Florio's QB starts and sits for Week 6 of the NFL fantasy football season.",
+      "publishedAt": "2024-10-09T17:41:00Z",
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "title": "NFL Fantasy 2024 Start 'Em, Sit 'Em: Quarterbacks for Week 6 - NFL.com",
+      "url": "https://www.nfl.com/news/nfl-fantasy-2024-start-em-sit-em-quarterbacks-for-week-6",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/zk3htmpmx0clx6wcabry"
+    },
+    {
+      "author": "Chris Gardner",
+      "content": "Jennifer Lopez is getting candid about her turbulent summer.\r\nThe multi-hyphenate sat for her first in-depth interview since splitting with husband Ben Affleck by joining red-hot stand-up Nikki Glase\u2026 [+4597 chars]",
+      "description": "Lopez sat for her first in-depth interview since splitting with husband Ben Affleck by joining Nikki Glaser for a conversation and cover story for a special fall anniversary issue of Interview.",
+      "publishedAt": "2024-10-09T17:31:13Z",
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "title": "Jennifer Lopez Gets Candid on Divorce, Scrapped Tour and Online Backlash: \u201cIf I See Something That\u2019s Hurtful, I\u2019m Not Teflon\u201d - Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/jennifer-lopez-interview-ben-affleck-divorce-tour-online-backlash-1236028341/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/GettyImages-2170759721.jpg?crop=0px%2C119px%2C1859px%2C1040px&resize=1440%2C810"
+    },
+    {
+      "author": "Janna Brancolini",
+      "content": "The hosts of Fox &amp; Friends turned their faux outrage on Vice President Kamala Harris for continuing to campaign for president as Hurricane Milton prepares to hit Florida.\r\nThey were incensed that\u2026 [+2282 chars]",
+      "description": "The Fox & Friends hosts said it \u201cjust doesn\u2019t look good\u201d for a presidential candidate to keep campaigning as Hurricane Milton bears down on Florida.",
+      "publishedAt": "2024-10-09T17:00:17Z",
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "title": "\u2018Fox & Friends\u2019 Are Real \u2018Mad\u2019 Kamala Harris Drank a Beer With Colbert - The Daily Beast",
+      "url": "https://www.thedailybeast.com/fox-and-friends-are-real-mad-kamala-harris-drank-a-beer-with-stephen-colbert",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1051,w_1868,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1728493164/Screenshot_2024-10-09_at_17.58.23_hskuoh"
+    },
+    {
+      "author": "https://www.facebook.com/bbcnews",
+      "content": "Chris MasonPolitical editor\r\nAmong Conservative MPs and activists this afternoon, open mouthed shock. \r\nYet another twist in this contest; the runaway favourite, for the last 24 hours at least, eject\u2026 [+1110 chars]",
+      "description": "Shadow home secretary James Cleverly has been eliminated from the race after a vote by Tory MPs.",
+      "publishedAt": "2024-10-09T16:47:46Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Google threatened with break-up by US - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c62504lv00do",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5031/live/b02e5020-85fd-11ef-a46c-2771d3dd844c.jpg"
-    },
-    {
-      "author": null,
-      "content": "A new book by veteran Watergate reporter Bob Woodward says Donald Trump secretly sent coveted Covid-19 testing machines to Vladimir Putin for personal use when they were in short supply, a claim angr\u2026 [+3800 chars]",
-      "description": "Trump campaign says none of the  \"made-up stories\" in Watergate journalist Bob Woodward's book are true.",
-      "publishedAt": "2024-10-09T10:06:10Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Bob Woodward's new book says Trump secretly sent Covid tests to Putin during shortage - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c33vjjg8k3yo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c4bd/live/f4063730-85a9-11ef-a9c9-470d3c15ff2c.jpg"
-    },
-    {
-      "author": "Samanth Subramanian",
-      "content": "How did that project come to your attention?\r\nRen\u00e9e Knight [the author of the 2015 novel that inspired the show] and I have acquaintances in common. She sent me the manuscript, and I really liked it.\u2026 [+2761 chars]",
-      "description": "\u201cGravity,\u201d \u201cChildren of Men,\u201d the best Harry Potter movie\u2014and now a seven-part miniseries? With \u201cDisclaimer,\u201d\u00a0director Alfonso Cuar\u00f3n has set out to conquer TV in the name of cinema.",
-      "publishedAt": "2024-10-09T10:00:00Z",
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "title": "Alfonso Cuar\u00f3n Subverted Sci-Fi and Fantasy. Now He\u2019s Coming for TV - WIRED",
-      "url": "https://www.wired.com/story/big-interview-director-alfonso-cuaron-disclaimer-sci-fi/",
-      "urlToImage": "https://media.wired.com/photos/670429583612ce23c539ecc0/191:100/w_1280,c_limit/BI_WIRED_ALFONSO_CUARON-142.jpg"
-    },
-    {
-      "author": "Robert Legare, Caitlin Yilek",
-      "content": "The FBI arrested a man from Afghanistan who was allegedly planning an\u00a0Election Day\u00a0terrorist attack in the U.S.\r\nFederal prosecutors charged Nasir Ahmad Tawhedi with planning the attack in support of\u2026 [+4105 chars]",
-      "description": "Afghan national Nasir Ahmad Tawhedi was charged with planning a terrorist attack in the U.S. on Election Day.",
-      "publishedAt": "2024-10-09T09:57:25Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Afghan national arrested for allegedly plotting ISIS-inspired Election Day terrorist attack - CBS News",
-      "url": "https://www.cbsnews.com/news/afghan-national-arrested-isis-related-terrorist-attack-election-day/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2017/06/22/c8733ea6-2c13-4433-a920-90dd1db59b1f/thumbnail/1200x630g2/c0b4f3728a3abc222ddab17e2f95aeb6/gettyimages-675322378.jpg?v=3a0e65dbe151135b3f2e1627f423e21b"
-    },
-    {
-      "author": "Jake Kanter",
-      "content": "Piers Morgan has apologized after platforming \u201ctotally false\u201d claims about Jay-Z and Beyonc\u00e9 on his YouTube channel.\r\nMorgan interviewed Jaguar Wright about Sean \u201cDiddy\u201d Combs\u2019 arrest on his Uncensor\u2026 [+1351 chars]",
-      "description": "Piers Morgan said an edition of his 'Uncensored' YouTube show has been edited after Jaguar Wright made \"totally false\" claims about Jay-Z and Beyonce.",
-      "publishedAt": "2024-10-09T09:05:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "Piers Morgan Apologizes After Guest's False Jay-Z And Beyonce Claims - Deadline",
-      "url": "http://deadline.com/2024/10/piers-morgan-apologizes-jaguar-wright-jay-z-beyonce-1236111138/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/Screenshot-2024-10-09-at-09.45.39.png?w=1024"
+      "title": "Kemi Badenoch and Robert Jenrick through to final stage of Tory leadership race - BBC.com",
+      "url": "https://www.bbc.com/news/live/cp8l58gp421t",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
     }
   ],
   "status": "ok",
-  "totalResults": 37
+  "totalResults": 36
 }
