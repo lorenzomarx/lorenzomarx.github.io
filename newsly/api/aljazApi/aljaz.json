@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "At least 11 people have been killed and eight injured, including women and children, in tribal clashes in northwestern Pakistan, according to a local official.\r\nTensions rose in Kurram district, Khyb\u2026 [+2449 chars]",
+      "description": "A shooting incident between rival tribes appear to have led to clashes, with woman and children among the casualties.",
+      "publishedAt": "2024-10-12T18:38:37Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "At least 11 killed in fighting between tribes in northwest Pakistan",
+      "url": "https://www.aljazeera.com/news/2024/10/12/several-killed-in-fighting-between-tribes-in-northwest-pakistan",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/WEB-PAKISTAN_KURRAM-KASHMIR-1000X562-1728758215.jpg?resize=1200%2C675"
+    },
+    {
+      "author": "Brian Osgood",
+      "content": "With the United States presidential election less than four weeks away, analysts caution that Israels expanding military campaigns across the Middle East could bruise the chances of the Democratic ca\u2026 [+7780 chars]",
+      "description": "Arab voters have expressed frustration with Vice President Kamala Harris's continued support for Israel's war in Gaza.",
+      "publishedAt": "2024-10-12T17:13:30Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Will escalating violence in the Middle East affect the US elections?",
+      "url": "https://www.aljazeera.com/news/2024/10/12/will-escalating-violence-in-the-middle-east-affect-the-us-elections",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-09-11T002604Z_1572676439_RC20Y9AYEAEU_RTRMADP_3_USA-ELECTION-DEBATE-PROTESTS-1726015986.jpg?resize=1920%2C1440"
+    },
+    {
       "author": null,
       "content": "Several soldiers wounded after Israel twice attacked UNIFILs headquarters in southern Lebanon.Condemnation has come in from across the world after Israel twice attacked United Nations peacekeepers in\u2026 [+468 chars]",
       "description": "Several soldiers wounded after Israel twice attacked UNIFIL's headquarters in southern Lebanon.",
@@ -1273,34 +1299,8 @@
       "title": "Zelenskyy meets UK and NATO leaders to secure support for \u2018victory plan\u2019",
       "url": "https://www.aljazeera.com/news/2024/10/10/zelenskyy-meets-uk-and-nato-leaders-to-secure-support-for-victory-plan",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AP24284350460999-1728558098.jpg?resize=1200%2C675"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "The Israeli army has attacked a group of journalists in northern Gaza, killing one and critically wounding Al Jazeera camera operator Fadi al-Wahidi in the neck.\r\nAl-Wahidi was shot at by Israeli for\u2026 [+2815 chars]",
-      "description": "Fadi al-Wahidi, the second cameraman hit by Israeli fire this week, was shot in the neck while reporting from Jabalia.",
-      "publishedAt": "2024-10-10T12:15:33Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Al Jazeera cameramen in critical condition after Israeli shooting in Gaza",
-      "url": "https://www.aljazeera.com/news/2024/10/10/al-jazeera-cameramen-in-critical-condition-after-israeli-shooting-in-gaza",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AA-20241009-35868078-35868068-AL_JAZEERA_CAMERAMAN_INJURED_IN_ISRAELI_ATTACK_ON_GAZA-1728556919.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Hafsa Adil",
-      "content": "The race for the semifinals at the ICC Womens T20 World Cup is heating up as all 10 participant nations enter the second half of their group-stage matches and look to climb up the points table.\r\nAfte\u2026 [+5879 chars]",
-      "description": "What do India, Pakistan, Bangladesh and the other teams need to do in order to seal a spot? Al Jazeera breaks it down.",
-      "publishedAt": "2024-10-10T12:03:23Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Which teams can qualify for the Women\u2019s T20 World Cup semifinals and how?",
-      "url": "https://www.aljazeera.com/sports/2024/10/10/which-teams-can-qualify-for-the-womens-t20-world-cup-semifinals-and-how",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AP24276520944600-1728201942_0ea3d1-1728202023.jpg?resize=1200%2C630&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1369
+  "totalResults": 1371
 }
