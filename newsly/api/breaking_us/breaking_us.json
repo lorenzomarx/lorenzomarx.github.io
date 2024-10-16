@@ -1,10 +1,231 @@
 {
   "articles": [
     {
+      "author": "Mary Gilbert",
+      "content": "Fall is in full swing, but its not too soon to look ahead to winter, especially one that could feel considerably different than last years dominated by El Ni\u00f1o.\r\nA weak La Ni\u00f1a is expected to develop\u2026 [+4661 chars]",
+      "description": "Fall is in full swing, but it\u2019s not too soon to look ahead to winter, especially one that could feel considerably different than last year\u2019s dominated by El Ni\u00f1o.",
+      "publishedAt": "2024-10-15T20:33:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "A La Ni\u00f1a winter is coming. Here\u2019s what that could mean for the US - CNN",
+      "url": "https://www.cnn.com/2024/10/15/weather/la-nina-winter-forecast-climate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240119150218-04-winter-weather-011924-new-york.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "LOLITA C. BALDOR, TARA COPP, MATTHEW LEE",
+      "content": "WASHINGTON (AP) The Biden administration has warned Israel that it must increase the amount of humanitarian aid it is allowing into Gaza within the next 30 days or it could risk losing access to U.S.\u2026 [+5409 chars]",
+      "description": "The Biden administration has warned Israel that it must increase the amount of humanitarian aid it is allowing into Gaza within the next 30 days or it could risk losing access to U.S. weapons funding. Secretary of State Antony Blinken and Defense Secretary Ll\u2026",
+      "publishedAt": "2024-10-15T20:16:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "US warns Israel to boost humanitarian aid into Gaza or risk losing weapons funding - The Associated Press",
+      "url": "https://apnews.com/article/israel-gaza-humanitarian-aid-blinken-austin-887ae388a022215f71309ab6def12103",
+      "urlToImage": "https://dims.apnews.com/dims4/default/993123e/2147483647/strip/true/crop/6048x3402+0+311/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2Fb1%2F062da02de3795430dc11a7bbb6ac%2F1f916b3a7dd744ab9b2ebd03b08c4101"
+    },
+    {
+      "author": "Aaron Gregg",
+      "content": "Walgreens plans to close about 1,200 locations over the next three years as part of a cost-cutting plan, the company said Tuesday.\r\nThat represents about 9.5 percent of the pharmacy chains 12,500 loc\u2026 [+2141 chars]",
+      "description": "The figure represents about 9.5 percent of the pharmacy chain\u2019s 12,500 locations worldwide.",
+      "publishedAt": "2024-10-15T19:47:36Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Walgreens to close 1,200 locations as retail sales decline - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2024/10/15/walgreens-store-closures/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/62XR6KFNFDYCDB2FRQDX6MUE5Y.jpg&w=1440"
+    },
+    {
+      "author": "Christina Dugan Ramirez, Larry Fink",
+      "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu\u2026 [+1220 chars]",
+      "description": "In a statement to Fox News Digital, Jake E. Lee's rep confirmed the guitarist had been shot multiple times, but is expected to fully recover. Authorities believe the \"shooting was completely random.\"",
+      "publishedAt": "2024-10-15T19:10:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Jake E. Lee, former guitarist for Ozzy Osbourne, shot multiple times in Las Vegas - Fox News",
+      "url": "https://www.foxnews.com/entertainment/jake-e-lee-former-guitarist-ozzy-osbourne-shot-multiple-times-las-vegas",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/jake-e-lee-guitar.jpg"
+    },
+    {
+      "author": "Susannah George",
+      "content": "KHODOR, Lebanon It was a chaotic scene at the site of a recent airstrike in this farming village in eastern Lebanon. Rescue workers yelled above the din of construction equipment as they searched for\u2026 [+7770 chars]",
+      "description": "Israel\u2019s military campaign, largely concentrated in southern Lebanon, has reached the Bekaa Valley, where deadly airstrikes often come without warning.",
+      "publishedAt": "2024-10-15T18:40:56Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "As Israeli war on Hezbollah expands, rescuers in east reach their limit - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2024/10/15/israel-hezbollah-lebanon-bekaa-valley/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/56FQMH6TWEVMMZJESGZG6MOIAE_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "",
+      "content": "Six weeks of the 2024 NFL regular season are in the books, which means we're fast approaching both the midway point of the schedule and the newly pushed-back trade deadline. All 32 teams have until 4\u2026 [+5419 chars]",
+      "description": "Proposing some notable trades ahead of the Nov. 5 deadline",
+      "publishedAt": "2024-10-15T18:32:00Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "2024 NFL trade deadline: Eight big-name moves that need to happen after Bills, Jets make WR splashes - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/2024-nfl-trade-deadline-eight-big-name-moves-that-need-to-happen-after-bills-jets-make-wr-splashes/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/08/1d4298ab-c8bc-4663-89fd-6e19e15a2f66/thumbnail/1200x675/6c56ab6d4b226c1a95ad88a3ee68b242/getty-deandre-hopkins-titans.jpg"
+    },
+    {
+      "author": null,
+      "content": "WASHINGTON (AP) The United States fined German airline Lufthansa $4 million for its treatment of a group of Jewish passengers who were denied boarding a 2022 flight in Frankfurt after they had flown \u2026 [+1693 chars]",
+      "description": "The United States has fined German airline Lufthansa $4 million for its treatment of a group of Jewish passengers who were denied boarding a 2022 flight in Frankfurt after they had flown to Germany from New York. The U.S. Transportation Department said Tuesda\u2026",
+      "publishedAt": "2024-10-15T18:19:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "US fines Lufthansa $4 million for treatment of Orthodox Jewish passengers on a 2022 flight - The Associated Press",
+      "url": "https://apnews.com/article/lufthansa-discrimination-jewish-passengers-transportation-department-6d13284b135dcc4a98555717e2dfd6ea",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f8d867c/2147483647/strip/true/crop/3004x1690+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Fdf%2Fa5b711c3030f9912cbc0e2527f8e%2Fe840f62bd38940a9b6977e0332781ff8"
+    },
+    {
+      "author": "Daniel Oyefusi",
+      "content": "The Buffalo Bills acquired Amari Cooper in a trade Tuesday with the Cleveland Browns, adding a true No. 1 wide receiver for star quarterback Josh Allen.\r\nThe Bills received Cooper and a 2025 sixth-ro\u2026 [+2895 chars]",
+      "description": "The Bills on Tuesday acquired wide receiver Amari Cooper in a trade with the Browns.",
+      "publishedAt": "2024-10-15T18:18:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Bills land star WR Cooper in trade with Browns - ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/41813493/bills-trade-browns-wr-amari-cooper-sources-say",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1228%2Fr1271332_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "Daniel Lewis",
+      "content": "Bloomberg News editor-in-chief John Micklethwait presses President Trump on his tariff plan. Economists have raised concerns that Trump's plan to implement across the board tariffs on imported goods \u2026 [+18 chars]",
+      "description": "Bloomberg News editor-in-chief John Micklethwait presses President Trump on his tariff plan. Economists have raised concerns that Trump\u2019s plan to implement across the board tariffs on imported goods could raise prices.",
+      "publishedAt": "2024-10-15T17:52:52Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "'That is just simple mathematics': Journalist presses Trump on his tariff plan - CNN",
+      "url": "https://www.cnn.com/2024/10/15/politics/video/trump-interview-tariffs-bloomberg-chicago-digvid",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21043819-6395-021-still.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Joe Rossignol",
+      "content": "The new iPad mini 7 does not come with a charger in the box in European countries, including the UK, France, Germany, Italy, Spain, the Netherlands, and others. This change is likely in response to E\u2026 [+1176 chars]",
+      "description": "The new iPad mini 7 does not come with a charger in the box in European countries, including the UK, France, Germany, Italy, Spain, the Netherlands,...",
+      "publishedAt": "2024-10-15T17:45:00Z",
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "title": "In the iPad Mini 7 Box: No Charger in Europe, New Braided USB-C Cable - MacRumors",
+      "url": "https://www.macrumors.com/2024/10/15/whats-in-the-ipad-mini-7-box/",
+      "urlToImage": "https://images.macrumors.com/t/SdwushTVANgbMv54dNE0UPOhLiE=/1920x/article-new/2024/10/ipad-mini-7-charger-feature.jpg"
+    },
+    {
+      "author": "Barron's",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-10-15T17:40:00Z",
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "title": "Tesla Stock Rises. Cathie Wood\u2019s ARK Weighs in on Robotaxi Day. - Barron's",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-robotaxi-71aa9dda",
+      "urlToImage": null
+    },
+    {
+      "author": "Mike Florio",
+      "content": "Tom Brady isnt just determined to have it both ways. He apparently wants to have it every which way.\r\nIf the owners approve Bradys bid to buy a piece of the Raiders on Tuesday, hes expected to have a\u2026 [+1815 chars]",
+      "description": "Brady's intentions highlight his conflict of interest.",
+      "publishedAt": "2024-10-15T17:23:43Z",
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "title": "Report: Tom Brady to have \"prominent voice\" as minority owner of Raiders - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tom-brady-to-have-prominent-voice-as-minority-owner-of-raiders",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8c2aff4/2147483647/strip/true/crop/6866x3862+0+226/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6f%2Fe6%2F8827dfd34b5498c78269f93a4503%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2178427219"
+    },
+    {
+      "author": "Sara Moniuszko",
+      "content": "Health officials are warning about the rise of multiple infections this season \u2014 especially among school-aged children \u2014 including whooping cough and walking pneumonia.\r\nAccording to the Centers for \u2026 [+2498 chars]",
+      "description": "Dr. Jon LaPook talks about the infections on the rise this season, including whooping cough and walking pneumonia.",
+      "publishedAt": "2024-10-15T17:05:59Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Whooping cough and walking pneumonia cases are up. Here's what to know and how to help keep your family safe. - CBS News",
+      "url": "https://www.cbsnews.com/news/whooping-cough-walking-pneumonia-cases-vaccines/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/15/09f3f9e7-1e64-44ce-898f-e7fb09d6336b/thumbnail/1200x630/d6168e117919baa8db710e05d7771146/gettyimages-156415712.jpg?v=29b5ccc4d237d9b284ce95a42effd073"
+    },
+    {
+      "author": "Graham Kates",
+      "content": "Elections officials in Georgia have to certify results by the date required in state law, a judge ruled Monday, saying they have no discretion to delay certification because of fraud concerns or othe\u2026 [+2879 chars]",
+      "description": "\"Election superintendents in Georgia have a mandatory fixed obligation to certify election results,\" the judge wrote.",
+      "publishedAt": "2024-10-15T16:39:32Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Georgia judge rules election officials can't delay certification because of fraud concerns - CBS News",
+      "url": "https://www.cbsnews.com/news/georgia-election-certification-judge-fraud-concerns/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/15/968f9323-df75-4105-85d6-280398477fea/thumbnail/1200x630/6e7a9e91254b1a4180b56fe7db73d0f6/gettyimages-1230452072.jpg?v=29b5ccc4d237d9b284ce95a42effd073"
+    },
+    {
+      "author": "Harry Baker",
+      "content": "The \"once-in-a-lifetime\" comet Tsuchinshan-ATLAS looks like it has grown a physics-defying second tail after reaching its closest point to Earth for more than 80,000 years, new photos reveal. However\u2026 [+3787 chars]",
+      "description": "New photos of comet Tsuchinshan-ATLAS appear to show a faint \"anti-tail\" pointing away in the wrong direction. The puzzling extra limb is the result of a rare illusion that is only possible when our planet is in a certain position.",
+      "publishedAt": "2024-10-15T16:34:37Z",
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "title": "Rare illusion gives 'once-in-a-lifetime' comet a seemingly impossible 2nd tail after closest approach to Earth for 80,000 years - Livescience.com",
+      "url": "https://www.livescience.com/space/comets/rare-illusion-gives-once-in-a-lifetime-comet-a-seemingly-impossible-2nd-tail-after-closest-approach-to-earth-for-80-000-years",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wWKXQqJXWv8EpV3zdmmz5F-1200-80.jpg"
+    },
+    {
+      "author": null,
+      "content": "Madrid\u00a0\u2014 Spanish authorities on Tuesday said they had arrested four people suspected of orchestrating a sanctions-busting commercial network after intercepting more than 14 tons of chemical products \u2026 [+2080 chars]",
+      "description": "Spanish police say four men were arrested for setting up a company to ship chemicals to Russia, including \"possible precursors for chemical weapons.\"",
+      "publishedAt": "2024-10-15T16:08:29Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Spain arrests 4 accused of shipping possible precursors for chemical weapons to Russia, breaching sanctions - CBS News",
+      "url": "https://www.cbsnews.com/news/spain-russia-possible-chemical-weapons-sanctions-ukraine-war/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/15/20304485-ce5c-4e8e-949a-ac6852acfd2e/thumbnail/1200x630/f48811bafe7d673f4c7b5e704b6f0a29/spain-chemicals-russia.jpg?v=29b5ccc4d237d9b284ce95a42effd073"
+    },
+    {
+      "author": "Emily Mae Czachor",
+      "content": "Hurricane Milton lashed Florida's Gulf Coast with flooding rain and winds of 120 miles per hour that left homes \u2014 and, in some cases, full neighborhoods \u2014 drenched, muddied and dilapidated. At least \u2026 [+4785 chars]",
+      "description": "Satellite images taken before and after Hurricane Milton struck and passed over Florida last week show the extent of coastal damage.",
+      "publishedAt": "2024-10-15T15:43:01Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Satellite images show how Hurricane Milton reshaped parts of Florida coastline - CBS News",
+      "url": "https://www.cbsnews.com/news/satellite-images-hurricane-milton-florida-coastline/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/15/98339cf6-3286-44bb-b5a1-5bcb63133aae/thumbnail/1200x630/fcf01d57b199343ef4fe1a6535c9edba/anna-maria-island-before-after.png?v=29b5ccc4d237d9b284ce95a42effd073"
+    },
+    {
       "author": null,
       "content": "[Removed]",
       "description": "[Removed]",
-      "publishedAt": "2024-10-15T13:49:00Z",
+      "publishedAt": "2024-10-15T15:41:00Z",
       "source": {
         "id": null,
         "name": "[Removed]"
@@ -14,253 +235,32 @@
       "urlToImage": null
     },
     {
-      "author": "Marina Pitofsky, Clara Hendrickson, Rachel Barber, Bart Jansen",
-      "content": "Election Day is just three weeks away.\r\nVice President Kamala Harris and former President Donald Trump are making their pitches to voters across the country in the final stretch of the 2024 election.\u2026 [+4599 chars]",
-      "description": "Election Day is just three weeks away. Vice President Kamala Harris and former President Donald Trump are making their pitches to voters across the country.",
-      "publishedAt": "2024-10-15T13:40:13Z",
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "title": "Election 2024 updates: Harris, Trump schedules for Tuesday; latest presidential polls - USA TODAY",
-      "url": "https://www.usatoday.com/story/news/politics/elections/2024/10/15/election-2024-campaign-news-live-updates-harris-trump/75676061007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/07/USAT/75563691007-trump-harris-side-by-side.jpg?crop=7199,4051,x0,y674&width=3200&height=1801&format=pjpg&auto=webp"
-    },
-    {
-      "author": "Nidal Al-Mughrabi",
-      "content": null,
-      "description": "Israeli military strikes killed at least 50 Palestinians across the Gaza Strip as Israeli forces tightened their squeeze around Jabalia in the north of the enclave on Tuesday, amid fierce battles with Hamas-led fighters.",
-      "publishedAt": "2024-10-15T13:36:06Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "Israel kills at least 50 in Gaza, forces encircle northern Jabalia - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-kills-least-40-gaza-tanks-deepen-raid-north-2024-10-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/WZDFEYOU65I4LHXHC7NPU7KDZY.jpg?auth=1a137aae0bae67647adf2224395dca220fe0f3cda44743f97b7164ea2438f21d&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": null,
-      "content": "You remember that famous scene in The Dark Knight where the Joker (played by Heath Ledger) sets stacks and stacks of money on fire? Well, Todd Phillips and Joaquin Phoenix have continued in that gran\u2026 [+1603 chars]",
-      "description": "Joker: Folie \u00c0 Deux fiasco continues (to rob Warner Bros. blind)",
-      "publishedAt": "2024-10-15T13:35:55Z",
+      "author": "Dan Ladden-Hall",
+      "content": "MSNBC host Joe Scarborough slammed Virginias Republican Gov. Glenn Youngkin Tuesday for attempting to downplay Donald Trumps comments about using the military against his political opponents.\r\nThe fo\u2026 [+2676 chars]",
+      "description": "The MSNBC show aired footage of Youngkin repeatedly insisting that the former president\u2019s words were being misunderstood.",
+      "publishedAt": "2024-10-15T15:05:31Z",
       "source": {
         "id": null,
-        "name": "The A.V. Club"
+        "name": "Daily Beast"
       },
-      "title": "Joker: Folie \u00c0 Deux fiasco continues (to rob Warner Bros. blind) - The A.V. Club",
-      "url": "https://www.avclub.com/joker-2-fiasco-cost-warner-bros-lots-of-money-box-office",
-      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2024/10/15092528/joker-2-fiasco-cost-warner-bros-lots-of-money-box-office-feature.jpg"
+      "title": "\u2018Morning Joe\u2019 Rips GOP Gov. Glenn Youngkin for Downplaying Trump\u2019s \u2018Fascist\u2019 Threat - The Daily Beast",
+      "url": "https://www.thedailybeast.com/morning-joe-scarborough-rips-gop-gov-glenn-youngkin-for-downplaying-trumps-fascist-threat",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1558,w_2770,x_11,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1729001792/Screenshot_2024-10-15_at_16.04.53_fnv0of"
     },
     {
-      "author": "Tim Hardwick",
-      "content": "Apple today announced a significant upgrade to the iPad mini, now featuring an A17 Pro chip and support for the company's new Apple Intelligence system. The refreshed seventh-generation tablet mainta\u2026 [+1336 chars]",
-      "description": "Apple today announced a significant upgrade to the iPad mini, now featuring an A17 Pro chip and support for the company's new Apple Intelligence...",
-      "publishedAt": "2024-10-15T13:07:20Z",
+      "author": "Isaac Schultz",
+      "content": "A team of researchers has discovered macroscopic life beneath the seafloor of the deep ocean, one of Earth\u2019s most extreme environments.\r\nThe discovery both complicates scientists\u2019 understanding of th\u2026 [+6410 chars]",
+      "description": "The remarkable discovery of animal life beneath the seafloor shows that life finds a way even in the most extreme environments, potentially boosting hopes for finding life beyond Earth.",
+      "publishedAt": "2024-10-15T15:01:31Z",
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Gizmodo.com"
       },
-      "title": "Apple Unveils New iPad Mini With A17 Pro Chip and Apple Intelligence - MacRumors",
-      "url": "https://www.macrumors.com/2024/10/15/apple-unveils-new-ipad-mini-apple-intelligence/",
-      "urlToImage": "https://images.macrumors.com/t/L99L4pjjqPYrPrlk534nWTBeJOY=/1920x/article-new/2024/10/ipad-mini-7-feature.jpg"
-    },
-    {
-      "author": "HYUNG-JIN KIM, KIM TONG-HYUNG",
-      "content": "SEOUL, South Korea (AP) In a symbolic display of anger, North Korea on Tuesday blew up the northern sections of unused road and rail routes that once linked it with South Korea, with the rivals excha\u2026 [+6266 chars]",
-      "description": "South Korea says North Korea blew up the northern parts of inter-Korean road and rail links no longer in use. Tuesday's action came after the rivals exchanged threats of destruction amid rising animosities over North Korea\u2019s claim that South Korea flew drones\u2026",
-      "publishedAt": "2024-10-15T13:05:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "North Korea blows up parts of inter-Korean road and rail links in a symbolic display of anger - The Associated Press",
-      "url": "https://apnews.com/article/north-korea-roads-destroys-drones-south-0672f5baf033cf0c4ecb2f1e1b958a41",
-      "urlToImage": "https://dims.apnews.com/dims4/default/188af3f/2147483647/strip/true/crop/4193x2359+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2F48%2F4af6f650b9f70acd92125dd1bf3a%2F66ca9970273b46ac875cf4ea44ba13ac"
-    },
-    {
-      "author": "Frank Schwab",
-      "content": "One play can sum up the 2024 New York Jets. Its Mike Williams falling down.\r\nThe Jets, in their first game with interim head coach Jeff Ulbrich replacing fired Robert Saleh, had a shot to beat the Bu\u2026 [+9753 chars]",
-      "description": "The tumultuous week for the Jets rolls on as the Bills hang on to win on the road and affirm control in the AFC East.",
-      "publishedAt": "2024-10-15T12:57:46Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "Bills vs. Jets score: Buffalo brushes off a Hail Mary to beat New York 23-20 on Monday Night Football - Yahoo Sports",
-      "url": "https://sports.yahoo.com/live/bills-vs-jets-score-buffalo-brushes-off-a-hail-mary-to-beat-new-york-23-20-on-monday-night-football-225127648.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t5Ccy2ZtEeIR1l4MLIGLqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/bb423510-8aa5-11ef-aff2-a96b5d483e71"
-    },
-    {
-      "author": "Investor's Business Daily",
-      "content": "Goldman Sachs, Bank of America and Citigroup all beat earnings views early Tuesday, continuing the strong results for major banks in the quarter. Goldman stock and BofA extend recent breakouts, with \u2026 [+2883 chars]",
-      "description": "Citigroup is near a buy point as strong Q3 results for banks continue.",
-      "publishedAt": "2024-10-15T12:44:00Z",
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "title": "Goldman Sachs, Bank Of America Extend Breakouts On Earnings; Citigroup Eyes Buy Point - Investor's Business Daily",
-      "url": "https://www.investors.com/news/goldman-sachs-earnings-gs-stock-bank-of-america-bac-citi/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/01/stock-Goldman-Sachs-06-shutter.jpg"
-    },
-    {
-      "author": "Ariel Zilber",
-      "content": "Walgreens announced that it will shutter 1,200 stores over the next three years \u2014 and 500 locations in 2025 alone \u2014 as the drugstore giant seeks to slash $1 billion in costs.\r\nThe Chicago-based pharm\u2026 [+2412 chars]",
-      "description": "Walgreens\u2019 stock is trading near 30-year lows and down 65% this year, making it the worst performing stock on the S&P 500 index.",
-      "publishedAt": "2024-10-15T12:41:00Z",
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "title": "Walgreens to close 1,200 stores nationwide, says 1 in 4 locations are unprofitable - New York Post ",
-      "url": "https://nypost.com/2024/10/15/business/walgreens-to-close-1200-stores-nationwide-says-1-in-4-unprofitable/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-rt3iw7h6o-1728997090537.jpg?quality=75&strip=all&1728982743&w=1024"
-    },
-    {
-      "author": null,
-      "content": "Indian PM Narendra Modi (right) shakes hand with Canada's Justin Trudeau ahead of the G20 summit in September 2023\r\nIndia and Canada have expelled their top diplomats amid escalating tensions over th\u2026 [+7899 chars]",
-      "description": "India and Canada expelled diplomats as tensions rose over last year's killing of a Sikh separatist in Canada.",
-      "publishedAt": "2024-10-15T12:37:53Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "India-Canada row: How ties hit rock bottom between the two countries - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c89lne2k87vo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e76c/live/e9684360-8ab6-11ef-b6b0-c9af5f7f16e4.jpg"
-    },
-    {
-      "author": "Chris Willman",
-      "content": "It\u2019s beginning to look a lot like Swift-mas: Taylor Swift has a couple of major releases on the way for the holiday season \u2014 a first-time CD/vinyl edition of \u201cThe Tortured Poets Department: The Antho\u2026 [+3031 chars]",
-      "description": "Taylor Swift will keep Target stores hopping in the holiday season with 'Tortured Poets Department: Anthology' on vinyl and CD, and an Eras Tour book.",
-      "publishedAt": "2024-10-15T12:21:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "Taylor Swift to Release \u2018Anthology\u2019 Edition of \u2018Tortured Poets\u2019 on Vinyl and CD, Plus an Eras Tour Book, for Black Friday - Variety",
-      "url": "https://variety.com/2024/music/news/taylor-swift-anthology-vinyl-eras-tour-book-tortured-poets-department-1236178117/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/10/TAS_7098_3_crop_10r-e1728993317793.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "author": "Doric Sam",
-      "content": "Luke Hales/Getty Images\r\nFollowing a sloppy performance filled with penalties in Monday night's 23-20 loss to the Buffalo Bills, New York Jets quarterback Aaron Rodgers sounded off about the officiat\u2026 [+1859 chars]",
-      "description": "Following a sloppy performance filled with penalties in Monday night's 23-20 loss to the Buffalo Bills, New York Jets quarterback Aaron Rodgers sounded off\u2026",
-      "publishedAt": "2024-10-15T12:00:00Z",
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "title": "Aaron Rodgers Criticizes Refs, Makes 'South Park' Reference After Jets' Loss to Bills - Bleacher Report",
-      "url": "https://bleacherreport.com/articles/10139436-aaron-rodgers-criticizes-refs-makes-south-park-reference-after-jets-loss-to-bills",
-      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1728990558/uu4ckzli23unaixr74hx.jpg"
-    },
-    {
-      "author": "Ben Lovejoy",
-      "content": "This year\u2019s entire iPhone 16 line-up got 8GB RAM to run Apple Intelligence features, and it looks like we can expect 12GB in future models.\r\nA previous report suggested that iPhone 17 Pro Max would g\u2026 [+2292 chars]",
-      "description": "This year\u2019s entire iPhone 16 line-up got 8GB RAM to run Apple Intelligence features, and it looks like we can...",
-      "publishedAt": "2024-10-15T11:51:00Z",
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "title": "Future iPhones getting even more memory: 12GB from next year - 9to5Mac",
-      "url": "https://9to5mac.com/2024/10/15/future-iphones-getting-even-more-memory-12gb-from-next-year/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Future-iPhones-getting-even-more-memory-\u2013-12GB.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    },
-    {
-      "author": "Tanda Gmiter | tgmiter@mlive.com",
-      "content": "Skywatchers have had lots of treats these late summer and fall months. Our rare October comet is still gracing the skies this week, visible to the west just after sunset.\r\nAnd our full Hunters Moon t\u2026 [+1164 chars]",
-      "description": "It is the third of four consecutive supermoons we're being treated to this year.",
-      "publishedAt": "2024-10-15T11:24:00Z",
-      "source": {
-        "id": null,
-        "name": "mlive.com"
-      },
-      "title": "This week's full Hunter's Moon will be the brightest supermoon of the year - MLive.com",
-      "url": "https://www.mlive.com/weather/2024/10/this-weeks-full-hunters-moon-will-be-the-brightest-supermoon-of-the-year.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/DQMN76HOEBD2TFVDUDTN2ZYXIU.jpg?auth=d5f84089643ebaa80bbe12aed738e5ea2df74358145a37448b4e8f4bc58bbcd6&width=1280&quality=90"
-    },
-    {
-      "author": "Chris Isidore",
-      "content": "Cash-starved Boeing, contending with massive financial losses from a crippling strike and years of operational and safety problems, is turning to major banks and Wall Street to raise tens of billions\u2026 [+4347 chars]",
-      "description": "Cash-starved Boeing, contending with massive financial losses from a crippling strike and years of operational and safety problems, is turning to major banks and Wall Street to raise tens of billions of dollars in cash.",
-      "publishedAt": "2024-10-15T11:15:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Boeing\u2019s crisis is getting worse. Now it\u2019s borrowing tens of billions of dollars - CNN",
-      "url": "https://www.cnn.com/2024/10/15/investing/boeing-cash-crisis/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24269215822476-20241015132633925.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "CNET",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-10-15T10:00:35Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "Oura Ring 4 First Impressions After Using It For a Week - CNET",
-      "url": "https://www.youtube.com/watch?v\\\\u003dTOf_YgLlvn8",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "Lewiston, Maine \u2014 Lawyers representing 100 survivors and family members of victims of the deadliest shooting in Maine history have begun the formal process of suing the Army and an Army hospital for \u2026 [+2923 chars]",
-      "description": "Lawyers for 100 survivors and family members of victims of the deadliest shooting in Maine history have begun the formal process of suing the Army for failing to act to stop the shooter, a reservist.",
-      "publishedAt": "2024-10-15T09:42:29Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "Survivors, relatives of dead in Lewiston, Maine, mass shooting take first step toward suing the Army - CBS News",
-      "url": "https://www.cbsnews.com/news/lewiston-maine-mass-shooting-victims-start-process-suing-army/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/08/20/219ee77d-43fa-469c-a22f-022ba820f02a/thumbnail/1200x630/6523465ac85910646702dd3035204334/ap24232657683596.jpg?v=29b5ccc4d237d9b284ce95a42effd073"
-    },
-    {
-      "author": null,
-      "content": "Sunday's drone attack was one of Israel's biggest in more than a year - four Israeli soldiers were killed\r\nSlow, small and relatively cheap to make, drones have become a deadly headache for Israelis \u2026 [+3616 chars]",
-      "description": "Drones are becoming a deadly headache for Israelis. How can its air defence system stop them?",
-      "publishedAt": "2024-10-15T09:07:10Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Drone attack on Israel puts spotlight on Iron Dome's limitations - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c4g9wx2q09ko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3541/live/bca0b570-8a6a-11ef-b6b0-c9af5f7f16e4.jpg"
-    },
-    {
-      "author": "Nick Iannelli",
-      "content": "A connection has been uncovered between COVID-19 and Type 2 diabetes in children and teenagers, according to researchers at the Case Western Reserve University School of Medicine in Cleveland.\r\nThe s\u2026 [+2350 chars]",
-      "description": "A connection has been uncovered between COVID-19 and Type 2 diabetes in children and teenagers, according to researchers.",
-      "publishedAt": "2024-10-15T09:03:23Z",
-      "source": {
-        "id": null,
-        "name": "WTOP"
-      },
-      "title": "New study finds connection between COVID and Type 2 diabetes in young people - WTOP",
-      "url": "https://wtop.com/health-fitness/2024/10/new-study-finds-connection-between-covid-and-type-2-diabetes/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/10/GettyImages-513684576-e1728953212306.jpg"
-    },
-    {
-      "author": "Jeff Mason, Gabriella Borter",
-      "content": null,
-      "description": "Harris slammed Trump for his threat to deploy the military domestically.",
-      "publishedAt": "2024-10-15T08:56:58Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "Harris blasts Trump's 'enemy from within' comments at Pennsylvania rally - Reuters",
-      "url": "https://www.reuters.com/world/us/harris-targets-black-men-with-new-economic-proposals-2024-10-14/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/7SJT5XUVHFP7NERPLC2YRB5AZU.jpg?auth=09148eedad2f4f605e3af44a732e04c7074ec23b7cf8f54a5887224f8e76dfae&height=1005&width=1920&quality=80&smart=true"
+      "title": "Scientists Discover Animals Beneath the Ocean Floor, Offering Clues to Life Beyond Earth - Gizmodo",
+      "url": "https://gizmodo.com/scientists-discover-animals-beneath-the-ocean-floor-offering-clues-to-life-beyond-earth-2000511164",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/deep-sea-hydrothermal-vents.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 35
+  "totalResults": 34
 }
