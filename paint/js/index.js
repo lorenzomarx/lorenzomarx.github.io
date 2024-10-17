@@ -36,6 +36,10 @@ function preload(){
   pein = loadFont('fonts/Pein.ttf',fontRead);
   gas = loadFont('fonts/Gas.otf',fontRead);
   squiz = loadFont('fonts/squiz.ttf',fontRead);
+  ghetto = loadFont('fonts/GhettoSteez.ttf',fontRead);
+  drip = loadFont('fonts/adrip1.ttf',fontRead);
+  chase = loadFont('fonts/ChaseZen.ttf',fontRead);
+  locals = loadFont('fonts/LocalsOnlyBalls.ttf',fontRead); 
 }
 
 function setup() {
