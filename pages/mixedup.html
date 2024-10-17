@@ -82,6 +82,14 @@
             Home
         </a>
     </nav>
+
+    <div class="intro-info-content text-center">
+        <h1 class="display-3 white-text mb-5 wow fadeInDown" data-wow-delay="0.3s">
+            <a class="white-text" data-toggle="tooltip" data-placement="bottom" href="https://www.instagram.com/lo_r.enz/" target="_blank" title="Follow me on Instagram"></a>
+        </h1>
+        <h5 class="text white-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Creative Technologist</h5>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
+    </div>
     <!--Grid column-->
 
     <div class="container">
@@ -105,7 +113,9 @@
               </div>
                 <div class="col-md-8">
                     <div class="card card-cascade wider reverse animated rotateInDownLeft">
-                        <div class="card-body card-body-cascade text-center" style="background-image: url('assets/akldnblogo.png'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+                        <div class="card-body card-body-cascade text-center"
+                        style="background-image: url('assets/akldnblogo.png');
+                        background-repeat: no-repeat; background-size: cover; background-position: center center;">
                           <div><p>Cocktail Search</p></div>
 
                               <div id="results"></div>
@@ -135,6 +145,26 @@
             </div>
         </section>
     </div>
+    </div>
+
+    <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+    aria-hidden="true" data-backdrop="true">
+        <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
+            <!--Content-->
+            <div class="modal-content">
+                <!--Body-->
+                <div class="modal-body">
+                    <div class="row d-flex justify-content-center align-items-center">
+
+                        <p class="pt-3 pr-2">Search for cocktails by Ingredient   </p>
+
+                        <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
+                        <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
+                    </div>
+                </div>
+            </div>
+            <!--/.Content-->
+        </div>
     </div>
 
 
