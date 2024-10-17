@@ -41,7 +41,7 @@ var blackAndWhite = false;
 var img;
 
 function preload() {
-  img = loadImage('data/nath.jpg');
+  img = loadImage('https://lorenzomarkx.github.io/imageGlitch/data/nath.jpg');
 }
 
 function setup() {
