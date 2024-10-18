@@ -22,7 +22,7 @@ function fontRead(){
     fontReady = true; }
 
 function preload(){
-  img = loadImage("train.png");
+  img = loadImage("images/train.png");
   img1 = loadImage("images/basquiat.png");
   img2 = loadImage("images/basquiatPunk.png");
   img84 = loadImage("images/1.png");
@@ -39,7 +39,7 @@ function preload(){
   ghetto = loadFont('fonts/GhettoSteez.ttf',fontRead);
   drip = loadFont('fonts/adrip1.ttf',fontRead);
   chase = loadFont('fonts/ChaseZen.ttf',fontRead);
-  locals = loadFont('fonts/LocalsOnlyBalls.ttf',fontRead); 
+  locals = loadFont('fonts/LocalsOnlyBalls.ttf',fontRead);
 }
 
 function setup() {
