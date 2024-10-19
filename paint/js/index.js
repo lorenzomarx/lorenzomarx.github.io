@@ -12,23 +12,35 @@ var scalar = 10;
 var PenColour = '#ffffff';
 var FontColour = '#ffffff';
 var TextSize = 600;
-var Alias = 'ALIAS';
-var Tag = 'TAG';
-var FontTag = 'Paint';
-var FontAlias = 'Paint';
-
+var Alias = 'Alias';
+var Crew = 'Crew';
+var CrewFont = 'Paint';
+var AliasFont = 'Paint';
+var ny = 'ny';
+var urban = 'urban';
+var pein = 'pein';
+var bomb = 'bomb';
+var gas = 'gas';
+var squiz = 'squiz';
+var drip = 'drip';
+var chase = 'chase';
+var locals = 'locals';
 var gui;
+
+let backgrounds = []
+let numBackgrounds = 5;
+
 function fontRead(){
     fontReady = true; }
 
 function preload(){
   img = loadImage("train.png");
+  cube = loadImage("images/colour_cube.jpg");
   img1 = loadImage("images/basquiat.png");
   img2 = loadImage("images/basquiatPunk.png");
-  img84 = loadImage("images/1.png");
-  img106 = loadImage("images/106.png");
-  img130 = loadImage("images/130.png");
-  myFont = loadFont('fonts/bomb.otf',fontRead);
+  railway = loadImage("images/railway.jpg");
+  train = loadImage("train.png");
+  bomb = loadFont('fonts/bomb.otf',fontRead);
   paint = loadFont('fonts/paint.otf',fontRead);
   ny = loadFont('fonts/NYFat.ttf',fontRead);
   urban = loadFont('fonts/urbandecay.ttf',fontRead);
@@ -39,6 +51,8 @@ function preload(){
   drip = loadFont('fonts/adrip1.ttf',fontRead);
   chase = loadFont('fonts/ChaseZen.ttf',fontRead);
   locals = loadFont('fonts/LocalsOnlyBalls.ttf',fontRead);
+
+  backgrounds = [img1, img2,railway,train, cube]
 }
 
 function setup() {
@@ -54,9 +68,9 @@ function setup() {
   gui.addGlobals('TextSize');
   gui.addGlobals('FontColour');
   gui.addGlobals('Alias');
-  gui.addGlobals('FontAlias');
-  gui.addGlobals('Tag');
-  gui.addGlobals('FontTag');
+  gui.addGlobals('AliasFont');
+  gui.addGlobals('Crew');
+  gui.addGlobals('CrewFont');
 
 
 }
@@ -80,7 +94,7 @@ $('#back').click(function(){
 );
 
 $('#newimage').click(function(){
-      background(img1);
+      background(random(backgrounds));
    }
 );
 
@@ -92,15 +106,15 @@ function keyTyped() {
     fill(FontColour);
     var c = mouseX;
     var d = mouseY;
-    textFont(FontTag)
+    textFont(CrewFont)
     textSize(TextSize);
-    text(Tag, c, d );
+    text(Crew, c, d );
   }
   if (key === '2') {
     fill(random(255),random(255),random(255));
     var c = mouseX;
     var d = mouseY;
-    textFont(FontAlias)
+    textFont(AliasFont)
     textSize(TextSize);
     text(Alias, c, d );
   }
@@ -111,7 +125,8 @@ function keyTyped() {
     stroke(PenColour);
   }
   if (key === '4') {
-    image(img84, mouseX, mouseY, img.width/9, img.height/3);
+    let randoImg = random(backgrounds)
+    image(randoImg, mouseX, mouseY, img.width, img.height);
 
   }
   if (key === '5') {
