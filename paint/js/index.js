@@ -25,16 +25,20 @@ var squiz = 'squiz';
 var drip = 'drip';
 var chase = 'chase';
 var locals = 'locals';
+var kennedy = 'kennedy';
 var gui;
 
 let backgrounds = []
 let numBackgrounds = 5;
+let stickers = []
+let numStickers = 5;
 
 function fontRead(){
     fontReady = true; }
 
 function preload(){
   img = loadImage("train.png");
+  kennedy = loadImage("images/kennedy_raster.png");
   cube = loadImage("images/colour_cube.jpg");
   oosh = loadImage("images/oosh_logo.png");
   img1 = loadImage("images/basquiat.png");
@@ -52,12 +56,13 @@ function preload(){
   drip = loadFont('fonts/drip.ttf',fontRead);
   chase = loadFont('fonts/chase.ttf',fontRead);
   locals = loadFont('fonts/locals.ttf',fontRead);
-  backgrounds = [oosh,railway,train]
+  backgrounds = [oosh,railway,kennedy]
+  stickers = [train]
 }
 
 function setup() {
 
-  var canvas = createCanvas(1000, 355);
+  var canvas = createCanvas(1000, 400);
   canvas.parent("myCanvas");
   background(img, 0, 0);
   strokeWeight(PenSize);
@@ -126,7 +131,7 @@ function keyTyped() {
     imageMode(CORNERS);
   }
   if (key === '4') {
-    let randoImg = random(backgrounds)
+    let randoImg = random(stickers)
     imageMode(CENTER);
     image(randoImg, mouseX, mouseY, img.width, img.height);
 
