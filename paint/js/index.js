@@ -22,7 +22,7 @@ function fontRead(){
     fontReady = true; }
 
 function preload(){
-  img = loadImage("images/train.png");
+  img = loadImage("train.png");
   img1 = loadImage("images/basquiat.png");
   img2 = loadImage("images/basquiatPunk.png");
   img84 = loadImage("images/1.png");
@@ -36,7 +36,6 @@ function preload(){
   pein = loadFont('fonts/Pein.ttf',fontRead);
   gas = loadFont('fonts/Gas.otf',fontRead);
   squiz = loadFont('fonts/squiz.ttf',fontRead);
-  ghetto = loadFont('fonts/GhettoSteez.ttf',fontRead);
   drip = loadFont('fonts/adrip1.ttf',fontRead);
   chase = loadFont('fonts/ChaseZen.ttf',fontRead);
   locals = loadFont('fonts/LocalsOnlyBalls.ttf',fontRead);
