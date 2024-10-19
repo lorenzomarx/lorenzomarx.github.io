@@ -1,7 +1,7 @@
 var PenSize = 0;
 var img;
 var img1;
-var img84;
+var oosh;
 var img106;
 var img130;
 var img2;
@@ -36,6 +36,7 @@ function fontRead(){
 function preload(){
   img = loadImage("train.png");
   cube = loadImage("images/colour_cube.jpg");
+  oosh = loadImage("images/oosh_logo.png");
   img1 = loadImage("images/basquiat.png");
   img2 = loadImage("images/basquiatPunk.png");
   railway = loadImage("images/railway.jpg");
@@ -51,7 +52,7 @@ function preload(){
   drip = loadFont('fonts/drip.ttf',fontRead);
   chase = loadFont('fonts/chase.ttf',fontRead);
   locals = loadFont('fonts/locals.ttf',fontRead);
-  backgrounds = [img1, img2,railway,train, cube]
+  backgrounds = [oosh,railway,train]
 }
 
 function setup() {
