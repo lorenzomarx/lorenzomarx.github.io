@@ -14,8 +14,8 @@ var FontColour = '#ffffff';
 var TextSize = 600;
 var Alias = 'Alias';
 var Crew = 'Crew';
-var CrewFont = 'Paint';
-var AliasFont = 'Paint';
+var CrewFont = 'urbandecay';
+var AliasFont = 'paint';
 var ny = 'ny';
 var urban = 'urban';
 var pein = 'pein';
@@ -48,10 +48,9 @@ function preload(){
   pein = loadFont('fonts/Pein.ttf',fontRead);
   gas = loadFont('fonts/Gas.otf',fontRead);
   squiz = loadFont('fonts/squiz.ttf',fontRead);
-  drip = loadFont('fonts/adrip1.ttf',fontRead);
-  chase = loadFont('fonts/ChaseZen.ttf',fontRead);
-  locals = loadFont('fonts/LocalsOnlyBalls.ttf',fontRead);
-
+  drip = loadFont('fonts/drip.ttf',fontRead);
+  chase = loadFont('fonts/chase.ttf',fontRead);
+  locals = loadFont('fonts/locals.ttf',fontRead);
   backgrounds = [img1, img2,railway,train, cube]
 }
 
@@ -123,9 +122,11 @@ function keyTyped() {
     PenSize;
     strokeWeight(PenSize);
     stroke(PenColour);
+    imageMode(CORNERS);
   }
   if (key === '4') {
     let randoImg = random(backgrounds)
+    imageMode(CENTER);
     image(randoImg, mouseX, mouseY, img.width, img.height);
 
   }
