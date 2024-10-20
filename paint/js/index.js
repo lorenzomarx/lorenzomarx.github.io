@@ -54,7 +54,7 @@ function preload(){
   squiz = loadFont('fonts/squiz.ttf',fontRead);
   drip = loadFont('fonts/drip.ttf',fontRead);
   chase = loadFont('fonts/chase.ttf',fontRead);
-  locals = loadFont('fonts/locals.ttf',fontRead);
+  locals = loadFont('fonts/Locals.ttf',fontRead);
   backgrounds = [oosh,railway,kennedy]
   stickers = [img]
 }
