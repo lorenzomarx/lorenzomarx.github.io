@@ -44,7 +44,6 @@ function preload(){
   img1 = loadImage("images/basquiat.png");
   img2 = loadImage("images/basquiatPunk.png");
   railway = loadImage("images/railway.jpg");
-  train = loadImage("train.png");
   bomb = loadFont('fonts/bomb.otf',fontRead);
   paint = loadFont('fonts/paint.otf',fontRead);
   ny = loadFont('fonts/NYFat.ttf',fontRead);
@@ -57,7 +56,7 @@ function preload(){
   chase = loadFont('fonts/chase.ttf',fontRead);
   locals = loadFont('fonts/locals.ttf',fontRead);
   backgrounds = [oosh,railway,kennedy]
-  stickers = [train]
+  stickers = [img]
 }
 
 function setup() {
