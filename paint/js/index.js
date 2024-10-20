@@ -80,6 +80,12 @@ function setup() {
 }
 function draw() {
 }
+function handleFile() {
+  const selectedFile = document.getElementById('upload');
+  const myImageFile = selectedFile.files[0];
+  let urlOfImageFile = URL.createObjectURL(myImageFile);
+  images = loadImage(urlOfImageFile);
+}
 function mousePressed() {
   line(pmouseX, pmouseY, mouseX, mouseY);
 }
@@ -101,7 +107,18 @@ $('#newimage').click(function(){
       background(random(backgrounds));
    }
 );
-
+$('#newimages').click(function(){
+      background(images);
+   }
+);
+function touchStarted() {
+  fill(random(255),random(255),random(255));
+  var c = mouseX;
+  var d = mouseY;
+  textFont(AliasFont)
+  textSize(TextSize);
+  text(Alias, c, d );
+}
 function keyTyped() {
   if (key === '0') {
     saveCanvas("bot","jpg");

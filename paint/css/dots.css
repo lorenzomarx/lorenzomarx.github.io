@@ -1,0 +1,226 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.dots {
+  display: grid;
+  grid-template-columns: repeat(24, 25px);
+  grid-template-rows: repeat(18, 25px);
+  place-items: center;
+}
+
+.dot {
+  position: relative;
+  width: 42px;
+  height: 42px;
+  background-image: url("https://img.huffingtonpost.com/asset/6234b5e71e0000b6311b093e.jpg?cache=e1Vz1tXSTl&ops=scalefit_1280_noupscale&format=webp600/450");
+  background-position: var(--xPos) var(--yPos);
+  border-radius: 50%;
+  animation: dot 24s calc(var(--delay1, 0s) + var(--delay2, 0s)) infinite ease-in-out;
+}
+.dot::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-image: linear-gradient(135deg, #0005, #7770, #fff5);
+  animation: dotA 24s calc(var(--delay1, 0s) + var(--delay2, 0s)) infinite ease-in-out;
+}
+@keyframes dot {
+  from {
+    transform: rotate(0deg) translateX(25px) rotate(1440deg);
+  }
+  to {
+    transform: rotate(1440deg) translateX(25px) rotate(0deg);
+  }
+}
+@keyframes dotA {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(1440deg);
+  }
+}
+.dot:nth-child(24n+1) {
+  --delay1: 0s;
+  --xPos: 0%;
+}
+.dot:nth-child(24n+2) {
+  --delay1: -0.3s;
+  --xPos: 4.347826087%;
+}
+.dot:nth-child(24n+3) {
+  --delay1: -0.6s;
+  --xPos: 8.6956521739%;
+}
+.dot:nth-child(24n+4) {
+  --delay1: -0.9s;
+  --xPos: 13.0434782609%;
+}
+.dot:nth-child(24n+5) {
+  --delay1: -1.2s;
+  --xPos: 17.3913043478%;
+}
+.dot:nth-child(24n+6) {
+  --delay1: -1.5s;
+  --xPos: 21.7391304348%;
+}
+.dot:nth-child(24n+7) {
+  --delay1: -1.8s;
+  --xPos: 26.0869565217%;
+}
+.dot:nth-child(24n+8) {
+  --delay1: -2.1s;
+  --xPos: 30.4347826087%;
+}
+.dot:nth-child(24n+9) {
+  --delay1: -2.4s;
+  --xPos: 34.7826086957%;
+}
+.dot:nth-child(24n+10) {
+  --delay1: -2.7s;
+  --xPos: 39.1304347826%;
+}
+.dot:nth-child(24n+11) {
+  --delay1: -3s;
+  --xPos: 43.4782608696%;
+}
+.dot:nth-child(24n+12) {
+  --delay1: -3.3s;
+  --xPos: 47.8260869565%;
+}
+.dot:nth-child(24n+13) {
+  --delay1: -3.6s;
+  --xPos: 52.1739130435%;
+}
+.dot:nth-child(24n+14) {
+  --delay1: -3.9s;
+  --xPos: 56.5217391304%;
+}
+.dot:nth-child(24n+15) {
+  --delay1: -4.2s;
+  --xPos: 60.8695652174%;
+}
+.dot:nth-child(24n+16) {
+  --delay1: -4.5s;
+  --xPos: 65.2173913043%;
+}
+.dot:nth-child(24n+17) {
+  --delay1: -4.8s;
+  --xPos: 69.5652173913%;
+}
+.dot:nth-child(24n+18) {
+  --delay1: -5.1s;
+  --xPos: 73.9130434783%;
+}
+.dot:nth-child(24n+19) {
+  --delay1: -5.4s;
+  --xPos: 78.2608695652%;
+}
+.dot:nth-child(24n+20) {
+  --delay1: -5.7s;
+  --xPos: 82.6086956522%;
+}
+.dot:nth-child(24n+21) {
+  --delay1: -6s;
+  --xPos: 86.9565217391%;
+}
+.dot:nth-child(24n+22) {
+  --delay1: -6.3s;
+  --xPos: 91.3043478261%;
+}
+.dot:nth-child(24n+23) {
+  --delay1: -6.6s;
+  --xPos: 95.652173913%;
+}
+.dot:nth-child(24n+24) {
+  --delay1: -6.9s;
+  --xPos: 100%;
+}
+.dot:nth-child(n+1):nth-child(-n+24) {
+  --yPos: 0%;
+  --delay2: 0s;
+}
+.dot:nth-child(n+25):nth-child(-n+48) {
+  --yPos: 5.8823529412%;
+  --delay2: -0.2s;
+}
+.dot:nth-child(n+49):nth-child(-n+72) {
+  --yPos: 11.7647058824%;
+  --delay2: -0.4s;
+}
+.dot:nth-child(n+73):nth-child(-n+96) {
+  --yPos: 17.6470588235%;
+  --delay2: -0.6s;
+}
+.dot:nth-child(n+97):nth-child(-n+120) {
+  --yPos: 23.5294117647%;
+  --delay2: -0.8s;
+}
+.dot:nth-child(n+121):nth-child(-n+144) {
+  --yPos: 29.4117647059%;
+  --delay2: -1s;
+}
+.dot:nth-child(n+145):nth-child(-n+168) {
+  --yPos: 35.2941176471%;
+  --delay2: -1.2s;
+}
+.dot:nth-child(n+169):nth-child(-n+192) {
+  --yPos: 41.1764705882%;
+  --delay2: -1.4s;
+}
+.dot:nth-child(n+193):nth-child(-n+216) {
+  --yPos: 47.0588235294%;
+  --delay2: -1.6s;
+}
+.dot:nth-child(n+217):nth-child(-n+240) {
+  --yPos: 52.9411764706%;
+  --delay2: -1.8s;
+}
+.dot:nth-child(n+241):nth-child(-n+264) {
+  --yPos: 58.8235294118%;
+  --delay2: -2s;
+}
+.dot:nth-child(n+265):nth-child(-n+288) {
+  --yPos: 64.7058823529%;
+  --delay2: -2.2s;
+}
+.dot:nth-child(n+289):nth-child(-n+312) {
+  --yPos: 70.5882352941%;
+  --delay2: -2.4s;
+}
+.dot:nth-child(n+313):nth-child(-n+336) {
+  --yPos: 76.4705882353%;
+  --delay2: -2.6s;
+}
+.dot:nth-child(n+337):nth-child(-n+360) {
+  --yPos: 82.3529411765%;
+  --delay2: -2.8s;
+}
+.dot:nth-child(n+361):nth-child(-n+384) {
+  --yPos: 88.2352941176%;
+  --delay2: -3s;
+}
+.dot:nth-child(n+385):nth-child(-n+408) {
+  --yPos: 94.1176470588%;
+  --delay2: -3.2s;
+}
+.dot:nth-child(n+409):nth-child(-n+432) {
+  --yPos: 100%;
+  --delay2: -3.4s;
+}
