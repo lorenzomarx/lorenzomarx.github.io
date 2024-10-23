@@ -45,7 +45,10 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1080, 1080);
+  var canvas = createCanvas(540, 540);
+  canvas.parent("myCanvas");
+  background(img, 0, 0);
+  image(img, 0, 0);
   textFont('Times');
   textSize(10);
   textAlign(LEFT, CENTER);

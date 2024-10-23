@@ -30,8 +30,8 @@
   background-color: #949fb0;
   color: black;
   cursor: pointer;
-  padding: 18px;
-  width: 20%;
+  padding: 10px;
+  width: 15%;
   border: none;
   text-align: center;
   outline: none;
@@ -71,7 +71,7 @@
   overflow: hidden;
   background-color: #f1f1f1;
   font-size: 20px;
-  word-spacing: 2em;
+  word-spacing: 1em;
 }
 
 </style>
@@ -94,8 +94,8 @@
                   <a target="_self" class="dropdown-item" href="../paint/index.html">Paint</a>
                   <a target="_self" class="dropdown-item" href="../rasterizer/index.html">Rasterizer</a>
                   <a target="_self" class="dropdown-item" href="../pages/lorenz.html">Lorenz</a>
-                  <a target="_self" class="dropdown-item" href="../imageGlitch/index.html">Image Glitch</a>
-                  <a target="_self" class="dropdown-item" href="../alphaBet/index.html">Typography</a>
+                  <!--<a target="_self" class="dropdown-item" href="../imageGlitch/index.html">Image Glitch</a>
+                  <a target="_self" class="dropdown-item" href="../alphaBet/index.html">Typography</a>-->
               </div>
           </li>
       </ul>
@@ -110,20 +110,8 @@
   <input accept=".png, .jpg, .jpeg" type="file" id="upload" onchange="handleFile()">
   <br><br>
 </div>
-<button class="collapsible">Fonts</button>
-<div class="content2">
-  <ul>
-    <li class="Bomb">Bomb</li>
-    <li class="Paint">Paint</li>
-    <li class="NYFat">NYFat</li>
-    <li class="Urbandecay">Urbandecay</li>
-    <li class="Brock">Brock</li>
-    <li class="Pein">Pein</li>
-    <li class="Gas">Gas</li>
 
-  </ul>
 
-</div>
 <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
     <!--Modal: modalCookie-->
     <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
@@ -149,12 +137,38 @@
             <!--/.Content-->
         </div>
     </div>
+    <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie2">Fonts</button>
+        <!--Modal: modalCookie-->
+        <div class="modal fade top" id="modalCookie2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
+            <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
+                <!--Content-->
+                <div class="modal-content">
+                    <!--Body-->
+                    <div class="modal-body" class="content2">
+                      <ul>
+                        <li class="Bomb">Bomb</li>
+                        <li class="Paint">Paint</li>
+                        <li class="NYFat">NYFat</li>
+                        <li class="Urbandecay">Urbandecay</li>
+                        <li class="Brock">Brock</li>
+                        <li class="Pein">Pein</li>
+                        <li class="Gas">Gas</li>
+
+                      </ul>
+                            <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
+                        </div>
+                    </div>
+                </div>
+                <!--/.Content-->
+            </div>
+        </div>
+
 
   <div id="wrapper">
   <button id="clear">New Train</button>
   <button id="back">Clear</button>
   <button id="newimage">Background</button>
-  <button id="newimages">Images</button>
+  <button id="newimages">File</button>
   <!--<button><a target="_self" class="dropdown-item" href="../index.html">Home</a></button>-->
   <br><br><br><br>
     <section class="section">
