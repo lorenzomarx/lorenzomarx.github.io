@@ -158,11 +158,7 @@ function keyTyped() {
     background(img);
   }
   if (key === '7') {
-    stroke(random(255),random(255),random(255),random(255));
-    var c = mouseX;
-    var d = mouseY;
-    line(c, d, 0, 0);
-     angle += speed;
+    background(images);
   }
   stroke(PenColour);
 }
