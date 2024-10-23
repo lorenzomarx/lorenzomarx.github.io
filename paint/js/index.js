@@ -25,7 +25,8 @@ var squiz = 'squiz';
 var drip = 'drip';
 var chase = 'chase';
 var locals = 'locals';
-var kennedy = 'kennedy';
+var sparta_out = 'sparta_out';
+var mars = 'mars';
 var gui;
 
 let backgrounds = []
@@ -50,6 +51,9 @@ function preload(){
   drip = loadFont('fonts/drip.ttf',fontRead);
   chase = loadFont('fonts/chase.ttf',fontRead);
   locals = loadFont('fonts/Locals.ttf',fontRead);
+  sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
+  mars  = loadFont('fonts/mars.otf',fontRead);
+
   backgrounds = [oosh]
   stickers = [img]
 }
@@ -116,7 +120,7 @@ function touchStarted() {
 }
 function keyTyped() {
   if (key === '0') {
-    saveCanvas("bot","jpg");
+    saveCanvas("train","jpg");
   }
   if (key === '1') {
     fill(FontColour);
@@ -148,18 +152,18 @@ function keyTyped() {
 
   }
   if (key === '5') {
+    fill(FontColour);
     var c = mouseX;
     var d = mouseY;
-    line(c, d, 0, 0);
-     angle += speed;
+    textFont(AliasFont)
+    textSize(TextSize);
+    text(Alias, c, d );
   }
   if (key === '6') {
     background(random(255),random(255),random(255));
-    background(img);
   }
   if (key === '7') {
     imageMode(CENTER);
     image(images,mouseX, mouseY, img.width, img.height);
   }
-  stroke(PenColour);
 }

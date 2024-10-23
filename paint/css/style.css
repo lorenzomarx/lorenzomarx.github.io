@@ -55,9 +55,10 @@ li.Bomb{
   font-family: bomb;
   font-size: 50px;
 }
-li.NYFat{
-  font-family: NYFat;
+li.locals{
+  font-family: locals;
   font-size: 50px;
+  color: rgb(130,150,25);
 }
 li.Urbandecay{
   font-family: urbandecay;
@@ -70,5 +71,14 @@ li.Brock{
 }
 li.Gas{
   font-family: Gas;
+  font-size: 80px;
+}
+
+li.sparta_out{
+  font-family: sparta_out;
+  font-size: 80px;
+}
+li.mars{
+  font-family: mars;
   font-size: 80px;
 }
