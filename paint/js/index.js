@@ -158,7 +158,8 @@ function keyTyped() {
     background(img);
   }
   if (key === '7') {
-    background(images);
+    imageMode(CENTER);
+    image(images,mouseX, mouseY, img.width, img.height);
   }
   stroke(PenColour);
 }
