@@ -160,7 +160,7 @@ function keyTyped() {
     text(Alias, c, d );
   }
   if (key === '6') {
-    background(random(255),random(255),random(255));
+    background(random(255),random(255),random(255),random(255));
   }
   if (key === '7') {
     imageMode(CENTER);

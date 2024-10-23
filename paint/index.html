@@ -103,83 +103,89 @@
           Contact
       </a>
   </nav>
-
-
-  <div>
   <h1> Train Paint </h1>
-  <br>
-  <input accept=".png, .jpg, .jpeg" type="file" id="upload" onchange="handleFile()">
-  <br><br>
-</div>
 
 
-<button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
-    <!--Modal: modalCookie-->
-    <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
-        <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
-            <!--Content-->
-            <div class="modal-content">
-                <!--Body-->
-                <div class="modal-body">
-                    <div class="row d-flex justify-content-center align-items-center">
+        <!--<button><a target="_self" class="dropdown-item" href="../index.html">Home</a></button>-->
+        <div class="container text-xs-center">
+              <div class="row">
+                <div class="col-md-12">
+                <section class="section">
 
-                        <p class="pt-3 pr-2" ><h1>Train Paint MOFO</h1> </p>
-                          <h6>Set pen size <br>key 3
-                          <br> Drag mouse <br> set pen size to 0<br>
-                          Set text size <br>key 1 or 2
-                          <br>Pen size sets outline of font<br>
-                          key 4<br>key 5<br> key 7 draws file<br>follows mouse<br>
-                        </h6> <h2>Desktop ONLY</h2>
-                        <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
-                        <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
-                    </div>
-                </div>
-            </div>
-            <!--/.Content-->
+              </section>
+              <section class="section">
+                <div id="myCanvas" class="jumbotron">
+                 <!-- Our sketch is called here with the id of jumbo-canvas! -->
+               </div>
+              </section>
+     </div>
+       </div>
         </div>
+        </div>
+      </div>
+      <div>
+
+      <input accept=".png, .jpg, .jpeg" type="file" id="upload" onchange="handleFile()">
+      <br><br>
     </div>
-    <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie2">Fonts</button>
+
+
+    <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
         <!--Modal: modalCookie-->
-        <div class="modal fade top" id="modalCookie2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
+        <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
             <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
                 <!--Content-->
                 <div class="modal-content">
                     <!--Body-->
-                    <div class="modal-body" class="content2">
-                      <ul>
-                        <li class="Bomb">Bomb</li>
-                        <li class="Paint">Paint</li>
-                        <li class="locals">locals</li>
-                        <li class="Urbandecay">Urbandecay</li>
-                        <li class="Brock">Brock</li>
-                        <li class="Pein">Pein</li>
-                        <li class="Gas">Gas</li>
-                        <li class="sparta_out">sparta</li>
-                        <li class="mars">mars</li>
-                      </ul>
+                    <div class="modal-body">
+                        <div class="row d-flex justify-content-center align-items-center">
+
+                            <p class="pt-3 pr-2" ><h1>Train Paint MOFO</h1> </p>
+                              <h6>Set pen size <br>key 3
+                              <br> Drag mouse <br> set pen size to 0<br>
+                              Set text size <br>key 1 or 2
+                              <br>Pen size sets outline of font<br>
+                              key 4<br>key 5<br> key 7 draws file<br>follows mouse<br>
+                            </h6> <h2>Desktop ONLY</h2>
+                            <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
                             <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
                         </div>
                     </div>
                 </div>
                 <!--/.Content-->
             </div>
-            <br><br>
-        <div id="wrapper">
-        <button id="clear">New Train</button>
-        <button id="back">Clear</button>
-        <button id="newimage">Background</button>
-        <button id="newimages">File</button>
-        <!--<button><a target="_self" class="dropdown-item" href="../index.html">Home</a></button>-->
-        <br><br><br><br>
-          <section class="section">
-            <div id="myCanvas" class="jumbotron">
-             <!-- Our sketch is called here with the id of jumbo-canvas! -->
-           </div>
-          </section>
         </div>
-        <br>
-      <br>
-      </div>
+        <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie2">Fonts</button>
+            <!--Modal: modalCookie-->
+            <div class="modal fade top" id="modalCookie2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
+                <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
+                    <!--Content-->
+                    <div class="modal-content">
+                        <!--Body-->
+                        <div class="modal-body" class="content2">
+                          <ul>
+                            <li class="Bomb">Bomb</li>
+                            <li class="Paint">Paint</li>
+                            <li class="locals">locals</li>
+                            <li class="Urbandecay">Urbandecay</li>
+                            <li class="Brock">Brock</li>
+                            <li class="Pein">Pein</li>
+                            <li class="Gas">Gas</li>
+                            <li class="sparta_out">sparta</li>
+                            <li class="mars">mars</li>
+                          </ul>
+                                <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/.Content-->
+                </div>
+                <br><br>
+            <div id="wrapper">
+            <button id="clear">New Train</button>
+            <button id="back">Clear</button>
+            <button id="newimage">Background</button>
+            <button id="newimages">File</button>
 
 
 

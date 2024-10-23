@@ -15,7 +15,7 @@ function setup() {
   this.five = color(random(255), random(255), random(255),random(255));
 
   angle = 2 * PI / totalPoints;
-  
+
 }
 
 
@@ -29,10 +29,10 @@ function draw() {
 
   if (mouseIsPressed) {
     fill(this.one);
-    stroke(this.four);
+    stroke(this.three);
   } else {
     fill(this.two);
-    stroke(this.three);
+    stroke(this.four);
   }
   if (key === 'p') {
     fill(random(255),random(255),random(255),random(255));
