@@ -88,22 +88,18 @@ function mouseDragged() {
   line(pmouseX, pmouseY, mouseX, mouseY);
 }
 
-$('#new').click(function(){
+$('#clear').click(function(){
       background(img);
-      imageMode(CENTER);
    }
 );
 $('#back').click(function(){
       background(255);
       background(img);
-      imageMode(CENTER);
    }
 );
 
 $('#newimage').click(function(){
       background(random(backgrounds));
-      imageMode(CENTER);
-
    }
 );
 $('#newimages').click(function(){
