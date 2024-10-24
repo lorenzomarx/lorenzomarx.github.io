@@ -168,5 +168,5 @@ function keyTyped() {
     noiseFactor += 0.1;
   }
 
-    stroke(this.four);
+    
 }
