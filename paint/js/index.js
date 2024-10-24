@@ -6,8 +6,8 @@ var FontColour = '#ffffff';
 var TextSize = 600;
 var Alias = 'Alias';
 var Crew = 'Crew';
-var CrewFont = 'urbandecay';
-var AliasFont = 'paint';
+var CrewTag = 'urbandecay';
+var AliasTag = 'paint';
 var ny = 'ny';
 var urban = 'urban';
 var pein = 'pein';
@@ -61,7 +61,7 @@ function setup() {
   canvas.parent("myCanvas");
   background( 0, 0);
   gui = createGui('Controls');
-  gui.addGlobals('PenColour','PenSize','TextSize','FontColour', 'Alias','AliasFont','Crew','CrewFont');
+  gui.addGlobals('PenColour','PenSize','TextSize','FontColour', 'Alias','AliasTag','Crew','CrewTag');
   this.one = color(random(255), random(255), random(255),random(255));
   this.two = color(random(255), random(255), random(255),random(255));
   this.three = color(random(255), random(255), random(255),random(255));
@@ -111,21 +111,21 @@ function keyTyped() {
   if (key === '0') {
     saveCanvas("train","jpg");
   }
-  if (key === '2') {
-    fill(random(255),random(255),random(255),random(255));
-    var c = mouseX;
-    var d = mouseY;
-    textFont(CrewFont)
-    textSize(TextSize);
-    text(Crew, c, d );
-  }
   if (key === '1') {
     fill(FontColour);
     var c = mouseX;
     var d = mouseY;
-    textFont(AliasFont)
+    textFont(AliasTag)
     textSize(TextSize);
     text(Alias, c, d );
+  }
+  if (key === '2') {
+    fill(random(255),random(255),random(255),random(255));
+    var c = mouseX;
+    var d = mouseY;
+    textFont(CrewTag)
+    textSize(TextSize);
+    text(Crew, c, d );
   }
 
   if (key === '3') {
@@ -144,7 +144,7 @@ function keyTyped() {
     fill(this.four);
     var c = mouseX;
     var d = mouseY;
-    textFont(AliasFont)
+    textFont(AliasTag)
     textSize(TextSize);
     text(Alias, c, d );
   }
@@ -168,5 +168,5 @@ function keyTyped() {
     noiseFactor += 0.1;
   }
 
-    
+
 }
