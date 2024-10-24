@@ -1,5 +1,7 @@
 #bigger,#smaller,span{ float:right; }
-#clear{ margin-bottom:5px;}
+#clear{ margin-bottom:5px;
+  overflow:hidden;
+  margin:0 auto;}
 ul {
   padding-left:0;
   cursor:pointer;
@@ -14,8 +16,9 @@ li{
 
 #wrapper{
   width:100%;
+  max-width:1010px;
   overflow:hidden;
-  margin:100 auto;
+  margin:0 auto;
 }
 body{
   background-color:#edeeef;

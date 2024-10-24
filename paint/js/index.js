@@ -1,14 +1,6 @@
 var PenSize = 0;
 var img;
-var img1;
 var oosh;
-var img106;
-var img130;
-var img2;
-let myFont;
-var speed = 8;
-var angle = 3.03;
-var scalar = 10;
 var PenColour = '#ffffff';
 var FontColour = '#ffffff';
 var TextSize = 600;
@@ -28,6 +20,11 @@ var locals = 'locals';
 var sparta_out = 'sparta_out';
 var mars = 'mars';
 var gui;
+var visible = true;
+var noiseFactor = 0;
+var radius = 100;
+var totalPoints = 60;
+var angle;
 
 let backgrounds = []
 let numBackgrounds = 5;
@@ -36,6 +33,7 @@ let numStickers = 5;
 
 function fontRead(){
     fontReady = true; }
+
 
 function preload(){
   img = loadImage("train.png");
@@ -53,7 +51,6 @@ function preload(){
   locals = loadFont('fonts/Locals.ttf',fontRead);
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
-
   backgrounds = [oosh]
   stickers = [img]
 }
@@ -62,23 +59,23 @@ function setup() {
 
   var canvas = createCanvas(1000, 400);
   canvas.parent("myCanvas");
-  background(img, 0, 0);
-  strokeWeight(PenSize);
-
+  background( 0, 0);
   gui = createGui('Controls');
-  gui.addGlobals('PenColour');
-  gui.addGlobals('PenSize');
-  gui.addGlobals('TextSize');
-  gui.addGlobals('FontColour');
-  gui.addGlobals('Alias');
-  gui.addGlobals('AliasFont');
-  gui.addGlobals('Crew');
-  gui.addGlobals('CrewFont');
+  gui.addGlobals('PenColour','PenSize','TextSize','FontColour', 'Alias','AliasFont','Crew','CrewFont');
+  this.one = color(random(255), random(255), random(255),random(255));
+  this.two = color(random(255), random(255), random(255),random(255));
+  this.three = color(random(255), random(255), random(255),random(255));
+  this.four = color(random(255), random(255), random(255),random(255));
+  this.five = color(random(255), random(255), random(255),random(255));
 
-
+  angle = 2 * PI / totalPoints;
+  noLoop();
 }
 function draw() {
+
+
 }
+
 function handleFile() {
   const selectedFile = document.getElementById('upload');
   const myImageFile = selectedFile.files[0];
@@ -86,11 +83,10 @@ function handleFile() {
   images = loadImage(urlOfImageFile);
 }
 function mousePressed() {
-  line(pmouseX, pmouseY, mouseX, mouseY);
+
+
 }
-function mouseDragged() {
-  line(pmouseX, pmouseY, mouseX, mouseY);
-}
+
 
 $('#clear').click(function(){
       background(img);
@@ -110,28 +106,21 @@ $('#newimages').click(function(){
       background(images);
    }
 );
-function touchStarted() {
-  fill(random(255),random(255),random(255));
-  var c = mouseX;
-  var d = mouseY;
-  textFont(AliasFont)
-  textSize(TextSize);
-  text(Alias, c, d );
-}
+
 function keyTyped() {
   if (key === '0') {
     saveCanvas("train","jpg");
   }
-  if (key === '1') {
-    fill(FontColour);
+  if (key === '2') {
+    fill(random(255),random(255),random(255),random(255));
     var c = mouseX;
     var d = mouseY;
     textFont(CrewFont)
     textSize(TextSize);
     text(Crew, c, d );
   }
-  if (key === '2') {
-    fill(random(255),random(255),random(255));
+  if (key === '1') {
+    fill(FontColour);
     var c = mouseX;
     var d = mouseY;
     textFont(AliasFont)
@@ -152,7 +141,7 @@ function keyTyped() {
 
   }
   if (key === '5') {
-    fill(FontColour);
+    fill(this.four);
     var c = mouseX;
     var d = mouseY;
     textFont(AliasFont)
@@ -166,4 +155,18 @@ function keyTyped() {
     imageMode(CENTER);
     image(images,mouseX, mouseY, img.width, img.height);
   }
+  if (key === '8'){
+    fill(this.one);
+    strokeWeight(PenSize);
+    beginShape();
+      for (var i = 0; i <= totalPoints; i++) {
+        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-5, 5) * 0.01)) * (random(-1, 1)));
+        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-5, 5) * 0.01)) * (random(-1, 1)));
+        curveVertex(x, y, 10, 10);
+      }
+    endShape(CLOSE);
+    noiseFactor += 0.1;
+  }
+
+    stroke(this.four);
 }
