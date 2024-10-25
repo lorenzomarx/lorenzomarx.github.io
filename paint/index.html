@@ -23,6 +23,7 @@
   <link rel="stylesheet" href="css/style.css">
   <style>
 
+
 .collapsible {
   background-color: #949fb0;
   cursor: pointer;
@@ -48,7 +49,7 @@
 .collapsible2 {
   background-color: #4e9391;
   cursor: pointer;
-  padding: 18px;
+  padding: 10px;
   width: 20%;
   border: none;
   text-align: center;
@@ -104,6 +105,15 @@
         <div class="container text-xs-center">
               <div class="row">
                 <div class="col-md-12">
+                  <div>
+                  <input accept=".png, .jpg, .jpeg" type="file" id="upload" onchange="handleFile()">
+                  <div id="wrapper">
+                  <button id="clear">New Train</button>
+                  <button id="back">Clear</button>
+                  <button id="newimage">Background</button>
+                  <button id="newimages">File</button>
+                  <button onclick="window.location.reload()">Refresh Page</button>
+                </div>
               <section class="section">
                 <div id="myCanvas" class="jumbotron">
                  <!-- Our sketch is called here with the id of jumbo-canvas! -->
@@ -112,10 +122,6 @@
             </div>
               </div>
                </div>
-      <div>
-      <input accept=".png, .jpg, .jpeg" type="file" id="upload" onchange="handleFile()">
-      <br>
-    </div>
 
 <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
 <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
@@ -162,14 +168,6 @@
         <!--/.Content-->
     </div>
 </div>
-
-            <br><br>
-            <div id="wrapper">
-            <button id="clear">New Train</button>
-            <button id="back">Clear</button>
-            <button id="newimage">Background</button>
-            <button id="newimages">File</button>
-            <button onclick="window.location.reload()">Refresh Page</button>
 
 
 

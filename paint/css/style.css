@@ -29,7 +29,7 @@ body{
 h1{
   font-family: paint;
   text-shadow: 2px 2px #f20000;
-  font-size: 400%;
+  font-size: 600%;
 }
 h2{
   font-family: paint;
@@ -41,40 +41,41 @@ button{
 }
 p{
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
 }
 *{ box-sizing:border-box;}
 
 li.Pein{
   font-family: Pein;
-  font-size: 40px;
+  font-size: 30px;
 }
 li.Paint{
   font-family: paint;
-  font-size: 40px;
+  font-size: 30px;
   color: rgb(0,150,0);
 }
 li.Bomb{
   font-family: bomb;
-  font-size: 40px;
+  font-size: 30px;
 }
 li.locals{
   font-family: locals;
-  font-size: 40px;
+  font-size: 30px;
   color: rgb(130,150,25);
 }
 li.Urbandecay{
   font-family: urbandecay;
-  font-size: 40px;
+  font-size: 30px;
   color: rgb(150,0,0);
+  text-align: center;
 }
 li.Brock{
   font-family: Brock;
-  font-size: 400px;
+  font-size: 30px;
 }
 li.Gas{
   font-family: Gas;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 li.sparta_out{

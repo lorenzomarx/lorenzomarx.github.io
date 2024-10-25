@@ -19,11 +19,17 @@ var chase = 'chase';
 var locals = 'locals';
 var sparta_out = 'sparta_out';
 var mars = 'mars';
+var throwup = 'throwup';
+var wildside = 'wildside';
 var gui;
+
 var noiseFactor = 0;
 var radius = 100;
 var totalPoints = 60;
 var angle;
+
+var underlyingImage;
+
 let backgrounds = []
 let numBackgrounds = 5;
 let stickers = []
@@ -40,6 +46,7 @@ function preload(){
   paint = loadFont('fonts/paint.otf',fontRead);
   ny = loadFont('fonts/NYFat.ttf',fontRead);
   urban = loadFont('fonts/urbandecay.ttf',fontRead);
+  throwup = loadFont('fonts/throwup.ttf',fontRead);
   brock = loadFont('fonts/Brock.ttf',fontRead);
   pein = loadFont('fonts/Pein.ttf',fontRead);
   gas = loadFont('fonts/Gas.otf',fontRead);
@@ -49,18 +56,19 @@ function preload(){
   locals = loadFont('fonts/Locals.ttf',fontRead);
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
+  wildside = loadFont('fonts/wildside.ttf');
   backgrounds = [oosh]
   stickers = [img]
 }
 
 function setup() {
 
-  var canvas = createCanvas(1000, 400);
+  var canvas = createCanvas(540, 960);
+  imageMode(CENTER);
   canvas.parent("myCanvas");
   background( 0, 0);
   gui = createGui('Controls');
   sliderRange(0, 100, 1);
-  colorMode(HSB);
   gui.addGlobals('PenColour');
   gui.addGlobals('PenSize');
   gui.addGlobals('TagSize');
@@ -69,6 +77,12 @@ function setup() {
   gui.addGlobals('AliasTag');
   gui.addGlobals('Crew');
   gui.addGlobals('CrewTag');
+  gui2 = createGui('Controls');
+  sliderRange(0, 100, 1);
+  gui2.addGlobals('PenColour');
+  gui2.addGlobals('PenSize');
+  gui2.addGlobals('Crew');
+  gui2.addGlobals('CrewTag');
   this.one = color(random(255), random(255), random(255),random(255));
   this.two = color(random(255), random(255), random(255),random(255));
   this.three = color(random(255), random(255), random(255),random(255));
@@ -96,7 +110,6 @@ $('#clear').click(function(){
 );
 $('#back').click(function(){
       background(255);
-      background(img);
    }
 );
 $('#newimage').click(function(){
@@ -141,7 +154,7 @@ function keyTyped() {
 
   }
   if (key === '5') {
-    fill(this.four);
+    fill(random(255),random(255),random(255),random(255));
     var c = mouseX;
     var d = mouseY;
     textFont(AliasTag)
@@ -156,12 +169,13 @@ function keyTyped() {
     image(images,mouseX, mouseY, img.width, img.height);
   }
   if (key === '8'){
-    fill(this.one);
+    stroke(this.one);
+    fill(this.four);
     strokeWeight(PenSize);
     beginShape();
       for (var i = 0; i <= totalPoints; i++) {
-        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-5, 5) * 0.01)) * (random(-1, 1)));
-        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-5, 5) * 0.01)) * (random(-1, 1)));
+        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
         curveVertex(x, y, 10, 10);
       }
     endShape(CLOSE);

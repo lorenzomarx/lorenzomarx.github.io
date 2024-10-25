@@ -18,7 +18,8 @@ function setup() {
   this.five = color(random(255), random(255), random(255),random(255));
 
    angle = 2 * PI / totalPoints;
-    createCanvas(800,800);
+   var canvas = createCanvas(1000, 400);
+   canvas.parent("myCanvas");
     background(255);
     underlyingImage.loadPixels();
     frameRate(10);
