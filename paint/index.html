@@ -13,10 +13,10 @@
 
     gtag('config', 'UA-81613790-1');
   </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.dom.js"></script>
-  <script src="libraries/quicksettings.js" type="text/javascript"></script>
-  <script src="libraries/p5.gui.js" type="text/javascript"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+  <script type="text/javascript" src="libraries/quicksettings.js" type="text/javascript"></script>
+  <script type="text/javascript" src="libraries/p5.gui.js" type="text/javascript"></script>
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
   <link href="css/mdb.min.css" rel="stylesheet">
@@ -25,7 +25,6 @@
 
 .collapsible {
   background-color: #949fb0;
-  color: black;
   cursor: pointer;
   padding: 10px;
   width: 15%;
@@ -48,7 +47,6 @@
 }
 .collapsible2 {
   background-color: #4e9391;
-  color: black;
   cursor: pointer;
   padding: 18px;
   width: 20%;
@@ -63,12 +61,12 @@
 }
 
 .content2 {
-  padding: 0 18px;
+  padding: 0 10px;
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
-  font-size: 20px;
-  word-spacing: 1em;
+  font-size: 30px;
+  word-spacing: 4em;
 }
 
 </style>
@@ -88,7 +86,6 @@
                   <!--<a target="_self" class="dropdown-item" href="pages/oosh.html">Oosh</a>-->
                   <!--<a target="_self" class="dropdown-item" href="pages/stream.html">Streaming</a>-->
                   <a target="_self" class="dropdown-item" href="../draw/index.html">Draw</a>
-                  <a target="_self" class="dropdown-item" href="../paint/index.html">Paint</a>
                   <a target="_self" class="dropdown-item" href="../rasterizer/index.html">Rasterizer</a>
                   <a target="_self" class="dropdown-item" href="../pages/lorenz.html">Lorenz</a>
                   <!--<a target="_self" class="dropdown-item" href="../imageGlitch/index.html">Image Glitch</a>
@@ -96,7 +93,7 @@
               </div>
           </li>
       </ul>
-      <a class="black-text navbar-brand" data-toggle="tooltip" title="Contact" href="pages/contact.html" target="_self">
+      <a class="black-text navbar-brand" data-toggle="tooltip" title="Contact" href="../pages/contact.html" target="_self">
           Contact
       </a>
   </nav>
@@ -120,58 +117,53 @@
       <br>
     </div>
 
+<button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
+<div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
+    <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
+        <!--Content-->
+        <div class="modal-content">
+            <!--Body-->
+            <div class="modal-body">
+                <div class="row d-flex justify-content-center align-items-center">
 
-    <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
-        <!--Modal: modalCookie-->
-        <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
-            <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
-                <!--Content-->
-                <div class="modal-content">
-                    <!--Body-->
-                    <div class="modal-body">
-                        <div class="row d-flex justify-content-center align-items-center">
-
-                            <p class="pt-3 pr-2" ><h1>Train Paint MOFO</h1> </p>
-                              <h6>Set pen size <br>key 3
-                              <br> Drag mouse <br> set pen size to 0<br>
-                              Set text size <br>key 1 or 2
-                              <br>Pen size sets outline of font<br>
-                              key 4<br>key 5<br> key 7 draws file<br>follows mouse<br>
-                            </h6> <h2>Desktop ONLY</h2>
-                            <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
-                            <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
-                        </div>
-                    </div>
+                    <p class="pt-3 pr-2" ><h1>Train Paint MOFO</h1> </p>
+                       <h2>Desktop ONLY</h2>
+                    <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
+                    <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
                 </div>
-                <!--/.Content-->
             </div>
         </div>
-        <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie2">Fonts</button>
-            <!--Modal: modalCookie-->
-            <div class="modal fade top" id="modalCookie2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
-                <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
-                    <!--Content-->
-                    <div class="modal-content">
-                        <!--Body-->
-                        <div class="modal-body" class="content2">
-                          <ul>
-                            <li class="Bomb">Bomb</li>
-                            <li class="Paint">Paint</li>
-                            <li class="locals">locals</li>
-                            <li class="Urbandecay">Urbandecay</li>
-                            <li class="Brock">Brock</li>
-                            <li class="Pein">Pein</li>
-                            <li class="Gas">Gas</li>
-                            <li class="sparta_out">sparta</li>
-                            <li class="mars">mars</li>
-                          </ul>
-                                <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--/.Content-->
+        <!--/.Content-->
+    </div>
+</div>
+<button class="collapsible" type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie2">Fonts</button>
+<div class="modal fade top" id="modalCookie2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
+    <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
+        <!--Content-->
+        <div class="modal-content">
+            <!--Body-->
+            <div class="modal-body">
+              <div class="row d-flex justify-content-center align-items-center">
+              <ul>
+                <li class="Bomb">Bomb</li>
+                <li class="Paint">Paint</li>
+                <li class="locals">locals</li>
+                <li class="Urbandecay">Urbandecay</li>
+                <li class="Brock">Brock</li>
+                <li class="Pein">Pein</li>
+                <li class="Gas">Gas</li>
+                <li class="sparta_out">sparta</li>
+                <li class="mars">mars</li>
+              </ul>
+                    <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
                 </div>
-                <br><br>
+            </div>
+        </div>
+        <!--/.Content-->
+    </div>
+</div>
+
+            <br><br>
             <div id="wrapper">
             <button id="clear">New Train</button>
             <button id="back">Clear</button>
@@ -198,7 +190,7 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 <script>
-var coll = document.getElementsByClassName("collapsible2",);
+var coll = document.getElementsByClassName("collapsible",);
 var i;
 
 for (i = 0; i < coll.length; i++) {

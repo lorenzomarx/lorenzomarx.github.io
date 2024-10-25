@@ -5,7 +5,7 @@ var totalPoints = 100;
 var angle;
 
 function preload() {
-    var myImageURL = "images/fire.jpg";
+    var myImageURL = "images/kai.jpg";
     underlyingImage = loadImage(myImageURL);
     //filter(INVERT);
 }
@@ -18,7 +18,7 @@ function setup() {
   this.five = color(random(255), random(255), random(255),random(255));
 
    angle = 2 * PI / totalPoints;
-    createCanvas(1200,1200);
+    createCanvas(800,800);
     background(255);
     underlyingImage.loadPixels();
     frameRate(10);

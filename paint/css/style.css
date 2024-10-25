@@ -41,47 +41,47 @@ button{
 }
 p{
   text-align: center;
-  font-size: 15px;
+  font-size: 50px;
 }
 *{ box-sizing:border-box;}
 
 li.Pein{
   font-family: Pein;
-  font-size: 50px;
+  font-size: 40px;
 }
 li.Paint{
   font-family: paint;
-  font-size: 45px;
+  font-size: 40px;
   color: rgb(0,150,0);
 }
 li.Bomb{
   font-family: bomb;
-  font-size: 50px;
+  font-size: 40px;
 }
 li.locals{
   font-family: locals;
-  font-size: 50px;
+  font-size: 40px;
   color: rgb(130,150,25);
 }
 li.Urbandecay{
   font-family: urbandecay;
-  font-size: 25px;
+  font-size: 40px;
   color: rgb(150,0,0);
 }
 li.Brock{
   font-family: Brock;
-  font-size: 45px;
+  font-size: 400px;
 }
 li.Gas{
   font-family: Gas;
-  font-size: 80px;
+  font-size: 40px;
 }
 
 li.sparta_out{
   font-family: sparta_out;
-  font-size: 80px;
+  font-size: 40px;
 }
 li.mars{
   font-family: mars;
-  font-size: 80px;
+  font-size: 0px;
 }

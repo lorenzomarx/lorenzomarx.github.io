@@ -19,5 +19,5 @@ function draw() {
   stroke(c);
 
   // Draw a square with that color
-  ellipse(mouseX, mouseY, 5,5);
+  ellipse(mouseX, mouseY, 15,15);
 }

@@ -1,13 +1,12 @@
-var underlyingImage;
+var img;
 
 
 function preload() {
-    var myImageURL = "images/Critical.jpg";
-    underlyingImage = loadImage(myImageURL);
-}
+  var myImageURL = "images/kai.jpg";
+  underlyingImage = loadImage(myImageURL);
 
 function setup() {
-    createCanvas(2048, 1365);
+    createCanvas(800,800);
     background(255);
     underlyingImage.loadPixels();
     frameRate(200);
@@ -23,6 +22,7 @@ function draw() {
     //rotateX(frameCount * 0.01);
     //rotateY(frameCount * 0.01);
 }
+
 function keyTyped() {
   if (key === 's') {
     saveCanvas("bot","jpg");

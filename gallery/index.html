@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - image-modal-responsive </title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+
+   <head>
+     <title>Sample</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <!-- Bootstrap -->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+     <script src="https://code.jquery.com/jquery.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+     <!-- CSS Code -->
+    <link rel="stylesheet" href="style.css">
+
+
+
+    <!-- Javascript for each modal containing a different pic. This code was written so that you don't have to write multiple modal divs -->
+     <script>
+     $(document).ready(function() {
+    var $lightbox = $('#lightbox');
+    $('[data-target="#lightbox"]').on('click', function(event) {
+        var $img = $(this).find('img'),
+            src = $img.attr('src'),
+            alt = $img.attr('alt'),
+            css = {
+                'maxWidth': $(window).width() - 100,
+                'maxHeight': $(window).height() - 100
+            };
+        $lightbox.find('img').attr('src', src);
+        $lightbox.find('img').attr('alt', alt);
+        $lightbox.find('img').css(css);
+    });
+    $lightbox.on('shown.bs.modal', function (e) {
+        var $img = $lightbox.find('img');
+        $lightbox.find('.modal-dialog').css({'width': $img.width()});
+        $lightbox.find('.close').removeClass('hidden');
+    });
+});
+     </script>
+   </head>
+
+
+<body>
+    <div class="container mt100">
+        <section class="row">
+            <div class="col-lg-2 col-sm-2 col-xs-3 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                            <img src="https://lorenzomarx.github.io/assets/emilie2.jpg" alt="...">
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-4 col-xs-6 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                    <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                        <img src="https://raw.githubusercontent.com/yuliya5/image-modal-responsive/master/images/mountains2.jpg" alt="...">
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-4 col-xs-6 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                            <img src="https://raw.githubusercontent.com/yuliya5/image-modal-responsive/master/images/mountains3.jpg" alt="...">
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-4 col-xs-6 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                            <img src="https://raw.githubusercontent.com/yuliya5/image-modal-responsive/master/images/mountains4.jpg" alt="...">
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-4 col-xs-6 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                            <img src="https://raw.githubusercontent.com/yuliya5/image-modal-responsive/master/images/mountains7.jpg" alt="...">
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-4 col-xs-6 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                            <img src="https://raw.githubusercontent.com/yuliya5/image-modal-responsive/master/images/mountains8.jpg" alt="...">
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-4 col-xs-6 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                            <img src="https://raw.githubusercontent.com/yuliya5/image-modal-responsive/master/images/mountains9.jpg" alt="...">
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-4 col-xs-6 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                            <img src="https://raw.githubusercontent.com/yuliya5/image-modal-responsive/master/images/mountains10.jpg"/>
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-4 col-xs-6 image-holder">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <a href="#" class="zoom" data-toggle="modal" data-target="#lightbox">
+                            <img src="https://raw.githubusercontent.com/yuliya5/image-modal-responsive/master/images/mountains5.jpg"/>
+                            <span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+      <div id="lightbox" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+    <div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Beautiful Mountains</h4>
+        </div>
+            <div class="modal-body">
+                <img src="" alt="" />
+            </div>
+        </div>
+    </div>
+</div>
+        </section> <!-- closing section -->
+    </div> <!-- closing div container -->
+</body>
+
+</html>
+<!-- partial -->
+
+</body>
+</html>

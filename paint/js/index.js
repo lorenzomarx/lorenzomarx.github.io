@@ -2,11 +2,11 @@ var PenSize = 0;
 var img;
 var oosh;
 var PenColour = '#ffffff';
-var FontColour = '#ffffff';
-var TextSize = 600;
+var TagColour = '#ffffff';
+var TagSize = 600;
 var Alias = 'Alias';
 var Crew = 'Crew';
-var CrewTag = 'urbandecay';
+var CrewTag = 'paint';
 var AliasTag = 'paint';
 var ny = 'ny';
 var urban = 'urban';
@@ -20,12 +20,10 @@ var locals = 'locals';
 var sparta_out = 'sparta_out';
 var mars = 'mars';
 var gui;
-var visible = true;
 var noiseFactor = 0;
 var radius = 100;
 var totalPoints = 60;
 var angle;
-
 let backgrounds = []
 let numBackgrounds = 5;
 let stickers = []
@@ -61,7 +59,16 @@ function setup() {
   canvas.parent("myCanvas");
   background( 0, 0);
   gui = createGui('Controls');
-  gui.addGlobals('PenColour','PenSize','TextSize','FontColour', 'Alias','AliasTag','Crew','CrewTag');
+  sliderRange(0, 100, 1);
+  colorMode(HSB);
+  gui.addGlobals('PenColour');
+  gui.addGlobals('PenSize');
+  gui.addGlobals('TagSize');
+  gui.addGlobals('TagColour');
+  gui.addGlobals('Alias');
+  gui.addGlobals('AliasTag');
+  gui.addGlobals('Crew');
+  gui.addGlobals('CrewTag');
   this.one = color(random(255), random(255), random(255),random(255));
   this.two = color(random(255), random(255), random(255),random(255));
   this.three = color(random(255), random(255), random(255),random(255));
@@ -69,7 +76,6 @@ function setup() {
   this.five = color(random(255), random(255), random(255),random(255));
 
   angle = 2 * PI / totalPoints;
-  noLoop();
 }
 function draw() {
 
@@ -82,10 +88,6 @@ function handleFile() {
   let urlOfImageFile = URL.createObjectURL(myImageFile);
   images = loadImage(urlOfImageFile);
 }
-function mousePressed() {
-
-
-}
 
 
 $('#clear').click(function(){
@@ -97,7 +99,6 @@ $('#back').click(function(){
       background(img);
    }
 );
-
 $('#newimage').click(function(){
       background(random(backgrounds));
    }
@@ -112,11 +113,11 @@ function keyTyped() {
     saveCanvas("train","jpg");
   }
   if (key === '1') {
-    fill(FontColour);
+    fill(TagColour);
     var c = mouseX;
     var d = mouseY;
     textFont(AliasTag)
-    textSize(TextSize);
+    textSize(TagSize);
     text(Alias, c, d );
   }
   if (key === '2') {
@@ -124,12 +125,11 @@ function keyTyped() {
     var c = mouseX;
     var d = mouseY;
     textFont(CrewTag)
-    textSize(TextSize);
+    textSize(TagSize);
     text(Crew, c, d );
   }
 
   if (key === '3') {
-    PenSize;
     strokeWeight(PenSize);
     stroke(PenColour);
     imageMode(CORNERS);
@@ -145,7 +145,7 @@ function keyTyped() {
     var c = mouseX;
     var d = mouseY;
     textFont(AliasTag)
-    textSize(TextSize);
+    textSize(TagSize);
     text(Alias, c, d );
   }
   if (key === '6') {
@@ -167,6 +167,13 @@ function keyTyped() {
     endShape(CLOSE);
     noiseFactor += 0.1;
   }
-
+  if (key === '9') {
+    fill(0,0,0);
+    var c = mouseX;
+    var d = mouseY;
+    textFont(AliasTag)
+    textSize(TagSize);
+    text(Alias, c, d );
+  }
 
 }
