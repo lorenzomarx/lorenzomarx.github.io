@@ -6,7 +6,7 @@ import pyfiglet
 result = pyfiglet.figlet_format("News", font = "poison"  )
 
 
-response = requests.get("https://newsapi.org/v2/everything?domains=vice.com&apiKey=3b0812f373dd4cf6be98999b0bb159b4")
+response = requests.get("https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=3b0812f373dd4cf6be98999b0bb159b4")
 data = response.json()
 
 
