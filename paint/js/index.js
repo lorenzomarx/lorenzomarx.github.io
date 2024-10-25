@@ -1,5 +1,6 @@
 var PenSize = 0;
 var img;
+var queen;
 var oosh;
 var PenColour = '#ffffff';
 var TagColour = '#ffffff';
@@ -28,12 +29,12 @@ var radius = 100;
 var totalPoints = 60;
 var angle;
 
-var underlyingImage;
-
 let backgrounds = []
 let numBackgrounds = 5;
 let stickers = []
 let numStickers = 5;
+
+let slider;
 
 function fontRead(){
     fontReady = true; }
@@ -41,6 +42,7 @@ function fontRead(){
 
 function preload(){
   img = loadImage("train.png");
+  queen = loadImage("images/queen.png");
   oosh = loadImage("images/oosh_logo.png");
   bomb = loadFont('fonts/bomb.otf',fontRead);
   paint = loadFont('fonts/paint.otf',fontRead);
@@ -57,7 +59,7 @@ function preload(){
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
   wildside = loadFont('fonts/wildside.ttf');
-  backgrounds = [oosh]
+  backgrounds = [queen]
   stickers = [img]
 }
 
@@ -69,22 +71,17 @@ function setup() {
   background( 0, 0);
 
   gui = createGui('Controls');
-  gui.addGlobals('PenColour');
   gui.addGlobals('PenSize');
   sliderRange(0, 100, 1);
   gui.addGlobals('TagSize');
-  gui.addGlobals('TagColour');
   gui.addGlobals('Alias');
   gui.addGlobals('AliasTag');
   gui.addGlobals('Crew');
   gui.addGlobals('CrewTag');
 
-  gui2 = createGui('Controls');
+  gui2 = createGui('Colours');
   gui2.addGlobals('PenColour');
-  gui2.addGlobals('PenSize');
-  sliderRange(0, 100, 1);
-  gui2.addGlobals('Crew');
-  gui2.addGlobals('CrewTag');
+  gui2.addGlobals('TagColour');
   this.one = color(random(255), random(255), random(255),random(255));
   this.two = color(random(255), random(255), random(255),random(255));
   this.three = color(random(255), random(255), random(255),random(255));
@@ -92,8 +89,16 @@ function setup() {
   this.five = color(random(255), random(255), random(255),random(255));
 
   angle = 2 * PI / totalPoints;
+  slider = createSlider(0, 255);
+  slider.position(200, 10);
+  slider.size(80);
 }
 function draw() {
+  if (mouseIsPressed) {
+		stroke(PenColour);
+    line(mouseX, mouseY, pmouseX, pmouseY);
+  }
+
 
 
 }
@@ -108,6 +113,9 @@ function handleFile() {
 
 $('#clear').click(function(){
       background(255);
+      PenSize;
+      strokeWeight(PenSize);
+      stroke(PenColour);
    }
 );
 $('#back').click(function(){
@@ -134,6 +142,7 @@ function keyTyped() {
     var d = mouseY;
     textFont(AliasTag)
     textSize(TagSize);
+    textAlign(CENTER);
     text(Alias, c, d );
   }
   if (key === '2') {
@@ -142,13 +151,14 @@ function keyTyped() {
     var d = mouseY;
     textFont(CrewTag)
     textSize(TagSize);
+    textAlign(CENTER);
     text(Crew, c, d );
   }
 
   if (key === '3') {
+    PenSize;
     strokeWeight(PenSize);
     stroke(PenColour);
-    imageMode(CORNERS);
   }
   if (key === '4') {
     let randoImg = random(stickers)
@@ -162,6 +172,7 @@ function keyTyped() {
     var d = mouseY;
     textFont(AliasTag)
     textSize(TagSize);
+    textAlign(CENTER);
     text(Alias, c, d );
   }
   if (key === '6') {
@@ -173,7 +184,6 @@ function keyTyped() {
 
   }
   if (key === '8'){
-    stroke(this.one);
     fill(this.four);
     strokeWeight(PenSize);
     beginShape();
@@ -186,12 +196,25 @@ function keyTyped() {
     noiseFactor += 0.1;
   }
   if (key === '9') {
-    fill(0,0,0);
-    var c = mouseX;
-    var d = mouseY;
-    textFont(AliasTag)
-    textSize(TagSize);
-    text(Alias, c, d );
+    stroke(this.four);
+    noFill();
+    strokeWeight(PenSize);
+    beginShape();
+      for (var i = 0; i <= totalPoints; i++) {
+        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        curveVertex(x, y, 10, 10);
+      }
+    endShape(CLOSE);
+    noiseFactor += 0.1;
   }
-
+  if (key === 'b') {
+    let g = slider.value();
+    background(g);
+  }
+  if (key === 'q') {
+    let randoImg = random(backgrounds)
+    image(randoImg, mouseX, mouseY);
+    imageMode(CENTER);
+  }
 }
