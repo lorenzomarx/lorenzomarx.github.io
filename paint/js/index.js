@@ -42,7 +42,7 @@ function fontRead(){
 
 function preload(){
   img = loadImage("train.png");
-  queen = loadImage("images/queen.png");
+  queen = loadImage("queen.png");
   oosh = loadImage("images/oosh_logo.png");
   bomb = loadFont('fonts/bomb.otf',fontRead);
   paint = loadFont('fonts/paint.otf',fontRead);
@@ -123,7 +123,7 @@ $('#back').click(function(){
    }
 );
 $('#newimage').click(function(){
-      saveCanvas("train","jpg");
+      saveCanvas("sticker","jpg");
    }
 );
 $('#newimages').click(function(){
