@@ -67,20 +67,22 @@ function setup() {
   imageMode(CENTER);
   canvas.parent("myCanvas");
   background( 0, 0);
+
   gui = createGui('Controls');
-  sliderRange(0, 100, 1);
   gui.addGlobals('PenColour');
   gui.addGlobals('PenSize');
+  sliderRange(0, 100, 1);
   gui.addGlobals('TagSize');
   gui.addGlobals('TagColour');
   gui.addGlobals('Alias');
   gui.addGlobals('AliasTag');
   gui.addGlobals('Crew');
   gui.addGlobals('CrewTag');
+
   gui2 = createGui('Controls');
-  sliderRange(0, 100, 1);
   gui2.addGlobals('PenColour');
   gui2.addGlobals('PenSize');
+  sliderRange(0, 100, 1);
   gui2.addGlobals('Crew');
   gui2.addGlobals('CrewTag');
   this.one = color(random(255), random(255), random(255),random(255));
@@ -105,7 +107,7 @@ function handleFile() {
 
 
 $('#clear').click(function(){
-      background(img);
+      background(255);
    }
 );
 $('#back').click(function(){
@@ -113,11 +115,12 @@ $('#back').click(function(){
    }
 );
 $('#newimage').click(function(){
-      background(random(backgrounds));
+      saveCanvas("train","jpg");
    }
 );
 $('#newimages').click(function(){
       background(images);
+      imageMode(CENTER);
    }
 );
 
@@ -165,8 +168,9 @@ function keyTyped() {
     background(random(255),random(255),random(255),random(255));
   }
   if (key === '7') {
+    image(images,mouseX, mouseY);
     imageMode(CENTER);
-    image(images,mouseX, mouseY, img.width, img.height);
+
   }
   if (key === '8'){
     stroke(this.one);
