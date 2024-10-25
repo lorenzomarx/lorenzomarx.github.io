@@ -1,6 +1,7 @@
 var PenSize = 0;
 var img;
 var oosh;
+var queen;
 var PenColour = '#ffffff';
 var TagColour = '#ffffff';
 var TagSize = 600;
@@ -40,6 +41,7 @@ function fontRead(){
 
 function preload(){
   img = loadImage("train.png");
+  queen = loadImage("images/queen.png");
   oosh = loadImage("images/oosh_logo.png");
   bomb = loadFont('fonts/bomb.otf',fontRead);
   paint = loadFont('fonts/paint.otf',fontRead);
@@ -55,7 +57,7 @@ function preload(){
   locals = loadFont('fonts/Locals.ttf',fontRead);
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
-  backgrounds = [oosh]
+  backgrounds = [queen]
   stickers = [img]
 }
 
