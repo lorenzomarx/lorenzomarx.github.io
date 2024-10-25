@@ -20,7 +20,6 @@ var locals = 'locals';
 var sparta_out = 'sparta_out';
 var mars = 'mars';
 var throwup = 'throwup';
-var wildside = 'wildside';
 var gui;
 
 var noiseFactor = 0;
@@ -56,7 +55,6 @@ function preload(){
   locals = loadFont('fonts/Locals.ttf',fontRead);
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
-  wildside = loadFont('fonts/wildside.ttf');
   backgrounds = [oosh]
   stickers = [img]
 }
