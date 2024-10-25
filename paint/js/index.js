@@ -1,6 +1,5 @@
 var PenSize = 0;
 var img;
-var queen;
 var oosh;
 var PenColour = '#ffffff';
 var TagColour = '#ffffff';
@@ -42,7 +41,6 @@ function fontRead(){
 
 function preload(){
   img = loadImage("train.png");
-  queen = loadImage("https://lorenzomarx.github.io/assets/queen.png");
   oosh = loadImage("images/oosh_logo.png");
   bomb = loadFont('fonts/bomb.otf',fontRead);
   paint = loadFont('fonts/paint.otf',fontRead);
@@ -59,7 +57,7 @@ function preload(){
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
   wildside = loadFont('fonts/wildside.ttf');
-  backgrounds = [queen]
+  backgrounds = [oosh]
   stickers = [img]
 }
 
