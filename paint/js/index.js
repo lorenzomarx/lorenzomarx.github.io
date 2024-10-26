@@ -1,4 +1,5 @@
 var PenSize = 0;
+var canSize = 0;
 var img;
 var royal;
 var queen;
@@ -77,6 +78,8 @@ function setup() {
   gui = createGui('Controls');
   sliderRange(0, 50, 1);
   gui.addGlobals('PenSize');
+  sliderRange(0, 50, 1);
+  gui.addGlobals('canSize');
   gui.addGlobals('scl');
   sliderRange(0, 100, 1);
   gui.addGlobals('z');
@@ -111,8 +114,52 @@ function setup() {
 function draw() {
   if (mouseIsPressed) {
 		stroke(PenColour);
+    strokeWeight(PenSize);
     line(mouseX, mouseY, pmouseX, pmouseY);
   }
+  if (key === 'b') {
+    let abc=0;
+    for (let i = 0; i < H; i++) {
+      for (let j = 0; j < W; j++) {
+        let index = i * W + j;
+        let y = i * scl;
+        let x = j * scl;
+
+        push();
+        translate(x+scl/2, y);
+        abc=abs(Math.sin(v[index].heading()))*5;
+        rotate(v[index].heading());
+        noStroke();
+        fill(this.five)
+        beginShape();
+        vertex(0,0);
+        vertex(scl - 5, 5+abc);
+        vertex(scl+abc, 0);
+        vertex(scl - 5, -5-abc);
+        endShape(CLOSE);
+        pop();
+        let a = noise(j / 100, i / 100, z) * TWO_PI * 7;
+        v[index] = p5.Vector.fromAngle(a);
+      }
+    }
+    z += 0.002;
+    textSize(32);
+  }
+  push();
+  stroke(this.four);
+  noFill();
+  angleMode(RADIANS);
+  strokeWeight(canSize);
+  beginShape();
+    for (var i = 0; i <= totalPoints; i++) {
+      var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+      var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+      curveVertex(x, y, 10, 10);
+    }
+  endShape(CLOSE);
+  noiseFactor += 0.1;
+  pop();
+  stroke(PenColour);
 }
 
 function handleFile() {
@@ -135,7 +182,7 @@ $('#back').click(function(){
    }
 );
 $('#newimage').click(function(){
-      saveCanvas("train","png");
+      saveCanvas("stickUp","png");
    }
 );
 $('#newimages').click(function(){
@@ -144,7 +191,7 @@ $('#newimages').click(function(){
    }
 );
 
-function keyTyped() {
+function keyPressed() {
   if (key === '0') {
     saveCanvas("train","png");
   }
@@ -211,6 +258,7 @@ function keyTyped() {
     endShape(CLOSE);
     noiseFactor += 0.1;
   }
+
   if (key === '7') {
     stroke(this.four);
     noFill();
