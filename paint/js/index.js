@@ -156,6 +156,7 @@ function keyTyped() {
     textSize(TagSize);
     textAlign(CENTER);
     text(Tag, c, d );
+    strokeWeight(0);
   }
   if (key === '2') {
     fill(random(255),random(255),random(255),random(255));
@@ -187,6 +188,7 @@ function keyTyped() {
     textFont(Style)
     textSize(TagSize);
     textAlign(CENTER);
+    blendMode(MULTIPLY);
     text(Tag, c, d );
   }
   if (key === '5') {
@@ -251,7 +253,7 @@ function keyTyped() {
     z += 0.002;
     textSize(32);
   }
-  if (key === 'q') {
+  if (key === 'w') {
     let randoImg = random(backgrounds)
     image(randoImg, mouseX, mouseY);
     imageMode(CENTER);
@@ -261,6 +263,9 @@ function keyTyped() {
     clear();
   }
   if (key === 'a') {
+    blendMode(BLEND);
+  }
+  if (key === 's') {
     blendMode(MULTIPLY);
   }
 }
