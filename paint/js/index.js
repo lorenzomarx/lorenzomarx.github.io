@@ -2,8 +2,9 @@ var PenSize = 0;
 var img;
 var royal;
 var queen;
+var junglist;
 var PenColour = '#ffffff';
-var TagColour = '#ffffff';
+var TagColour = '#8f8f8f';
 var TagSize = 600;
 var Tag = 'Cram';
 var Crew = 'Cram';
@@ -47,6 +48,7 @@ function preload(){
   img = loadImage("train.png");
   queen = loadImage("images/kemistry.png");
   royal = loadImage("images/queen.png");
+  junglist = loadImage("images/goldie.png");
   oosh = loadImage("images/oosh_logo.png");
   bomb = loadFont('fonts/bomb.otf',fontRead);
   paint = loadFont('fonts/paint.otf',fontRead);
@@ -62,7 +64,7 @@ function preload(){
   locals = loadFont('fonts/Locals.ttf',fontRead);
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
-  backgrounds = [royal]
+  backgrounds = [junglist]
   stickers = [img]
 }
 
@@ -73,8 +75,8 @@ function setup() {
   background( 0, 0);
 
   gui = createGui('Controls');
+  sliderRange(0, 50, 1);
   gui.addGlobals('PenSize');
-  sliderRange(0, 100, 1);
   gui.addGlobals('scl');
   sliderRange(0, 100, 1);
   gui.addGlobals('z');
@@ -146,7 +148,7 @@ function keyTyped() {
   if (key === '0') {
     saveCanvas("train","png");
   }
-  if (key === '1') {
+  if (key === '4') {
     fill(TagColour);
     var c = mouseX;
     var d = mouseY;
@@ -166,19 +168,19 @@ function keyTyped() {
     text(Crew, c, d );
   }
 
-  if (key === '3') {
+  if (key === '1') {
     PenSize;
     strokeWeight(PenSize);
     stroke(PenColour);
     blendMode(BLEND);
   }
-  if (key === '5') {
+  if (key === '9') {
     let randoImg = random(stickers)
     imageMode(CENTER);
     image(randoImg, mouseX, mouseY, img.width, img.height);
 
   }
-  if (key === '4') {
+  if (key === '3') {
     fill(random(255),random(255),random(255),random(255));
     var c = mouseX;
     var d = mouseY;
@@ -187,15 +189,15 @@ function keyTyped() {
     textAlign(CENTER);
     text(Tag, c, d );
   }
-  if (key === '6') {
+  if (key === '5') {
     background(random(255),random(255),random(255),random(255));
   }
-  if (key === '7') {
+  if (key === '8') {
     image(images,mouseX, mouseY);
     imageMode(CENTER);
 
   }
-  if (key === '8'){
+  if (key === '6'){
     fill(this.four);
     strokeWeight(PenSize);
     beginShape();
@@ -207,7 +209,7 @@ function keyTyped() {
     endShape(CLOSE);
     noiseFactor += 0.1;
   }
-  if (key === '9') {
+  if (key === '7') {
     stroke(this.four);
     noFill();
     angleMode(RADIANS);
@@ -257,5 +259,8 @@ function keyTyped() {
   if (key === 'c') {
     blendMode(BLEND);
     clear();
+  }
+  if (key === 'a') {
+    blendMode(MULTIPLY);
   }
 }
