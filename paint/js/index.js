@@ -38,6 +38,7 @@ let numBackgrounds = 5;
 let stickers = []
 let numStickers = 5;
 
+
 let H, W;
 let v = [];
 let p = [];
@@ -123,12 +124,14 @@ function setup() {
     }
   }
 }
+
 function draw() {
   if (mouseIsPressed) {
 		stroke(PenColour);
     strokeWeight(PenSize);
     line(mouseX, mouseY, pmouseX, pmouseY);
   }
+
   if (key === 'b') {
     let abc=0;
     for (let i = 0; i < H; i++) {
