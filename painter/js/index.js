@@ -49,7 +49,6 @@ function preload(){
   img = loadImage("train.png");
   queen = loadImage("images/kemistry.png");
   royal = loadImage("images/queen.png");
-  rua = loadImage("images/Rua_Kenana_Mihaia.png");
   junglist = loadImage("images/goldie.png");
   oosh = loadImage("images/oosh_logo.png");
   bomb = loadFont('fonts/bomb.otf',fontRead);
@@ -67,7 +66,7 @@ function preload(){
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
   backgrounds = [junglist]
-  stickers = [rua]
+  stickers = [img]
 }
 
 function setup() {
@@ -99,6 +98,7 @@ function setup() {
   this.three = color(random(255), random(255), random(255),random(255));
   this.four = color(random(255), random(255), random(255),random(255));
   this.five = color(random(255), random(255), random(255),random(255));
+
 
 
   angle = 2 * PI / totalPoints;
@@ -187,9 +187,8 @@ $('#newimage').click(function(){
    }
 );
 $('#newimages').click(function(){
-      imageMode(CENTER);
       background(images);
-
+      imageMode(CENTER);
    }
 );
 
@@ -225,9 +224,11 @@ function keyPressed() {
     blendMode(BLEND);
   }
   if (key === '9') {
-    let randoImg = random(stickers)
+    //let randoImg = random(stickers)
+    //imageMode(CENTER);
+    //image(randoImg, mouseX, mouseY, img.width, img.height);
+    image(images,mouseX, mouseY);
     imageMode(CENTER);
-    image(randoImg, mouseX, mouseY);
 
   }
   if (key === '3') {
@@ -244,8 +245,25 @@ function keyPressed() {
     background(random(255),random(255),random(255),random(255));
   }
   if (key === '8') {
-    image(images,mouseX, mouseY);
+    images.loadPixels();
     imageMode(CENTER);
+    var theColorAtTheMouse = images.get(mouseX, mouseY);
+    var theColorAtTheMouse = images.get(mouseX, mouseY);
+    fill(theColorAtTheMouse);
+    noStroke();
+
+    push();
+    beginShape();
+      for (var i = 0; i <= totalPoints; i++) {
+        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-5, 5) * 0.01)) * (random(-4, 4)));
+        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-5, 5) * 0.01)) * (random(-4, 4)));
+        //ellipse(x, y, 30, 30);
+        curveVertex(x, y, 30, 30);
+        //stroke(4);
+      }
+    endShape(CLOSE);
+    noiseFactor += 0.1;
+    pop();
 
   }
   if (key === '6'){
