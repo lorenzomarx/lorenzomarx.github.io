@@ -24,11 +24,14 @@ var sparta_out = 'sparta_out';
 var mars = 'mars';
 var throwup = 'throwup';
 var gui;
-
+var opacity = 0;
 var noiseFactor = 0;
 var radius = 100;
 var totalPoints = 60;
 var angle;
+var r = 0;
+var g = 0;
+var b = 0;
 
 let backgrounds = []
 let numBackgrounds = 5;
@@ -77,6 +80,14 @@ function setup() {
   background( 0, 0);
 
   gui = createGui('Controls');
+  sliderRange(0, 255, 1);
+  gui.addGlobals('opacity');
+  sliderRange(0, 255, 1);
+  gui.addGlobals('r');
+  sliderRange(0, 255, 1);
+  gui.addGlobals('g');
+  sliderRange(0, 255, 1);
+  gui.addGlobals('b');
   sliderRange(0, 10, 1);
   gui.addGlobals('PenSize');
   sliderRange(0, 50, 1);
@@ -160,7 +171,6 @@ function draw() {
   endShape(CLOSE);
   noiseFactor += 0.1;
   pop();
-  stroke(PenColour);
 }
 
 function handleFile() {
@@ -176,6 +186,7 @@ $('#clear').click(function(){
       PenSize;
       strokeWeight(PenSize);
       stroke(PenColour);
+      clear();
    }
 );
 $('#back').click(function(){
@@ -192,10 +203,16 @@ $('#newimages').click(function(){
 
    }
 );
+//function mouseDragged() {
+  // Using the copy() function, copy the bottom image
+  // on top of the top image when you drag your cursor
+  // across the canvas.
+//  copy(images, mouseX, mouseY, 20, 20, mouseX, mouseY, 20, 20);
+//}
 
 function keyPressed() {
   if (key === '0') {
-    saveCanvas("train","png");
+    saveCanvas("canvas","png");
   }
   if (key === '4') {
     fill(TagColour);
@@ -241,7 +258,7 @@ function keyPressed() {
     text(Tag, c, d );
   }
   if (key === '5') {
-    background(random(255),random(255),random(255),random(255));
+    background(r,g,b,opacity);
   }
   if (key === '8') {
     image(images,mouseX, mouseY);
@@ -275,6 +292,7 @@ function keyPressed() {
     endShape(CLOSE);
     noiseFactor += 0.1;
   }
+
   if (key === 'b') {
     let abc=0;
     for (let i = 0; i < H; i++) {
@@ -303,6 +321,7 @@ function keyPressed() {
     z += 0.002;
     textSize(32);
   }
+
   if (key === 'w') {
     let randoImg = random(backgrounds)
     image(randoImg, mouseX, mouseY);
@@ -316,6 +335,17 @@ function keyPressed() {
     blendMode(BLEND);
   }
   if (key === 's') {
+    blendMode(MULTIPLY);
+  }
+  if (key === 'z') {
+    translate(width / 2, height / 2); // Move the origin to the center
+  let radius = 300;
+  for (let i = 0; i < 100; i++) {
+    let angle = map(i, 0, 100, 0, TWO_PI);
+    let x = radius * cos(angle);
+    let y = radius * sin(angle);
+    ellipse(x, y, 50, 50); // Draw circles in a circular pattern
+  }
     blendMode(MULTIPLY);
   }
 }
