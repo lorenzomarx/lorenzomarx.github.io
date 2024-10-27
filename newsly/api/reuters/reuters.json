@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Parisa Hafezi, Emily Rose",
+      "description": "Israel hit back at Iran early on Saturday, with its military saying it was conducting strikes against military targets in response to Tehran's attacks on Israel.",
+      "publishedAt": "2024-10-25T23:38:20Z",
+      "title": "Israel hits back at Iran with strikes on military targets, IDF says",
+      "url": "https://www.reuters.com/world/middle-east/explosions-heard-iran-syria-middle-east-braces-israeli-retaliation-2024-10-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/I3OGV5HNYZOKPFPNXG4VVQ7FDQ.jpg?auth=53b5f057982a56b8d431ca98350e108761f03440bb8cec8109e8358e0b9507c3&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "A Russian drone struck a multi-storey residential building in the Ukrainian capital Kyiv on Friday evening, triggering a fire in the top floors and killing one person and injuring five, officials said.",
+      "publishedAt": "2024-10-25T18:35:31Z",
+      "title": "Russian drone hits Kyiv high-rise building, kills one, injures five",
+      "url": "https://www.reuters.com/world/europe/russian-drone-hits-kyiv-residential-building-triggers-fires-officials-say-2024-10-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2S5LWMND6JPZDMCJFOH5ZKFELQ.jpg?auth=6cea25460990129411fece4475df29fc9ba56d285f9ed604e899044e7e542a23&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Trevor Hunnicutt, Gabriella Borter, Georgina Mccartney",
+      "description": "Kamala Harris and Donald Trump took a detour from barnstorming the battleground states that will decide November's election with Friday stops in Texas, a conservative state that was the first to implement a near-total abortion ban.",
+      "publishedAt": "2024-10-25T09:06:26Z",
+      "title": "Harris focuses on abortion in Texas, as Trump heads to Michigan",
+      "url": "https://www.reuters.com/world/us/abortion-focus-harris-beyonce-trump-campaign-texas-2024-10-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/W5Y3KL2SCZOKNIG3NOANROXNZU.jpg?auth=f6e0b7de0d6a414fb85662f35f0228658f68e7e2175b056aa2b0e455a166000a&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Maya Gebeily, James Mackenzie, John Irish",
       "description": "The Paris conference aims to mobilise both humanitarian aid and support for the Lebanese military.",
       "publishedAt": "2024-10-20T13:05:01Z",
@@ -15,6 +39,14 @@
       "title": "Ukraine's bid to add Russia to FATF's 'black list' fails again, rejected by China, India and others",
       "url": "https://www.reuters.com/world/europe/ukraines-bid-add-russia-fatfs-black-list-fails-again-rejected-by-china-india-2024-10-25/",
       "urlToImage": "https://www.reuters.com/resizer/v2/V4UXQJKTCJIANJZ5ODQZ5C7WAU.jpg?auth=2e9dadea39ffa53792de100b39d3686e67d75997157c15247e109f02c6ec2705&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Felix Light, Lucy Papachristou",
+      "description": "Georgians vote on Saturday in a parliamentary election depicted by both sides as an existential battle that will determine whether the country integrates closely with the West or leans back towards Moscow.",
+      "publishedAt": "2024-10-26T01:07:03Z",
+      "title": "Georgia votes in election seen as stark choice between Russia and West",
+      "url": "https://www.reuters.com/world/europe/georgia-votes-election-seen-stark-choice-between-russia-west-2024-10-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/GSTZM6UL4FKMHKFG5R2HGEFS2U.jpg?auth=2851fe967ac2dffb5e790fda6eac41f2df62a061799c9754bb9cfc38f8038213&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Jonathan Saul, James Mackenzie",
@@ -33,52 +65,20 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/J7TCUB7PPNJ5NF4DRK5PXGHK2M.jpg?auth=bdffbabf161a20149a6f7d09270f6a2d89f154d79e2faad0e2b6b2a3caa3d51d&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "The International Criminal Court (ICC) on Friday announced it would replace on health grounds one of the judges deciding on a prosecution request to issue an arrest warrant for Israeli Prime Minister Benjamin Netanyahu, a move that could spark further delays in the case.",
-      "publishedAt": "2024-10-25T14:39:00Z",
-      "title": "ICC replaces on health grounds judge mulling request for Netanyahu arrest warrant",
-      "url": "https://www.reuters.com/world/middle-east/icc-replaces-health-grounds-judge-mulling-request-netanyahu-arrest-warrant-2024-10-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/R4HXQUMPQRLL5NAUBRVZXJVRCU.jpg?auth=eccac5934f7c8f6ab3f1d014596214c81e4e73a27b6884449fc81255fac86c19&height=1005&width=1920&quality=80&smart=true"
+      "author": "Mike Stone, Ben Blanchard",
+      "description": "China has been stepping up military pressure against Taiwan, including holding a new round of war games around the island last week.",
+      "publishedAt": "2024-10-26T02:19:51Z",
+      "title": "US approves $2 billion arms sale to Taiwan including Ukraine tested missile system",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-approves-potential-2-billion-arms-sale-taiwan-week-after-chinese-war-games-2024-10-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/FACTEOQJ6RJDFIXUH62672P7GU.jpg?auth=864fba28cb93920a3e95774aa68367ccb4ec1773ef2d3722a17033a51f0693de&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Leaders of the Group of Seven wealthy nations have reached consensus on how to deliver around $50 billion in loans to Ukraine backed by the earnings from frozen Russian sovereign assets, a statement said on Friday.",
-      "publishedAt": "2024-10-25T22:11:45Z",
-      "title": "G7 leaders agree on how to deliver around $50 billion in loans to Ukraine",
-      "url": "https://www.reuters.com/world/g7-leaders-agree-how-deliver-around-50-billion-loans-ukraine-2024-10-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/NDBURLHUBVOAHH4B4ISSJSNLSU.jpg?auth=31c6092285b68b31e922bafb791c038a2f99b7c5ba13e66037a5880ac2425049&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Gabriella Borter, Kanishka Singh",
-      "description": "President Joe Biden formally apologized on Friday for the U.S. government's role in running abusive Native American boarding schools for more than 150 years, and was heckled at the event over his support for Israel's war in Gaza.",
-      "publishedAt": "2024-10-25T19:43:41Z",
-      "title": "Biden apology for Indian boarding schools interrupted by Gaza war protester",
-      "url": "https://www.reuters.com/world/biden-apology-indian-boarding-schools-interrupted-by-gaza-war-protester-2024-10-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ROYT7MV6RZOPNLEXZ6LME5Y36U.jpg?auth=eff47bdf6d7c01148987881652eab76720965c0ff6311b26505b646e814574ad&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Anna Mehler Paperny",
-      "description": "The Canadian government should have acted sooner to stem the flow of temporary migration into the country, Immigration Minister Marc Miller told Reuters on Friday.",
-      "publishedAt": "2024-10-25T22:04:11Z",
-      "title": "Canada should have acted sooner on migration, minister says",
-      "url": "https://www.reuters.com/world/americas/canada-should-have-acted-sooner-migration-minister-says-2024-10-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/TV3D36ADMRIV7CK6CPSVY5C54E.jpg?auth=56241f314d8efc705134c47cacc9df2e30e2cf6e703c0eb185de782d83b0a729&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Three journalists were killed in Lebanon by an Israeli strike.",
-      "publishedAt": "2024-10-25T17:07:00Z",
-      "title": "Deadly Israeli strike on journalists in Lebanon prompts global condemnation",
-      "url": "https://www.reuters.com/world/middle-east/deadly-israeli-strike-journalists-lebanon-prompt-global-condemnation-2024-10-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/A52GDEGUNJMPFC3KPDME4KIVAE.jpg?auth=945a0b9078fe53ffa64496b69bcc3c709c554285f032635dd8e9659840c3d5e0&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "France's National Assembly on Friday approved an amendment to the government's 2025 belt-tightening budget bill that would hit the country's wealthiest individuals with a billionaires tax.",
-      "publishedAt": "2024-10-25T12:19:02Z",
-      "title": "French lower house approves budget amendment to tax billionaires",
-      "url": "https://www.reuters.com/world/french-lower-house-approves-budget-amendment-tax-billionaires-2024-10-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KUN2DWSC25KKNIDTHJN264FHDQ.jpg?auth=547677f303cabc6de506007f39326b2830fb8086fb43f5d0a519a9a40faf1363&height=1005&width=1920&quality=80&smart=true"
+      "description": "The United States was notified by Israel ahead of its operation against targets in Iran, a U.S. official told Reuters on Friday, speaking on condition of anonymity.",
+      "publishedAt": "2024-10-26T00:04:27Z",
+      "title": "US notified by Israel ahead of its strikes in Iran, US official says",
+      "url": "https://www.reuters.com/world/middle-east/us-notified-by-israel-ahead-its-strikes-iran-us-official-says-2024-10-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
