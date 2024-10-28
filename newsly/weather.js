@@ -9,7 +9,6 @@ function setup() {
 
 function gotData(data) {
   let articles = data.articles;
-
   // Choose a random article
   let randomIndex = floor(random(articles.length));
   let randomArticle = articles[randomIndex];

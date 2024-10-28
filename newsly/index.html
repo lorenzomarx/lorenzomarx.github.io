@@ -30,54 +30,52 @@
   <script src="../js/p5.dom.js" type="text/javascript"></script>
   <!--<link href="../css/dots.css" rel="stylesheet"-->
   <style>
+      html,
+      body,
+      header,
+      .jarallax {
+          height: 550px;
+          overflow: hidden;
+      }
 
-  .flex-1 {
-  flex: 1;
-  }
-  html,
-  body,
-  header,
-  .jarallax {
-    height: 600px;
-  }
+      @media (max-width: 740px) {
 
-  @media (max-width: 740px) {
-    html,
-    body,
-    header,
-    .jarallax {
-      height: 100vh;
-    }
-  }
+          html,
+          body,
+          header,
+          .jarallax {
+              height: 100vh;
+          }
+      }
 
-   @media (min-width: 800px) and (max-width: 850px) {
-    html,
-    body,
-    header,
-    .jarallax {
-      height: 100vh;
-    }
-  }
+      @media (min-width: 800px) and (max-width: 850px) {
 
-  @media (min-width: 560px) and (max-width: 660px) {
-    header .jarallax h5 {
-      display: none !important;
-    }
-  }
+          html,
+          body,
+          header,
+          .jarallax {
+              height: 100vh;
+          }
+      }
 
-  .page-footer {
-    margin-top: 0px;
-    padding-top: 0px;
-  }
+      @media (min-width: 560px) and (max-width: 660px) {
+          header .jarallax h5 {
+              display: none !important;
+          }
+      }
 
+      .page-footer {
+          margin-top: 0px;
+          padding-top: 0px;
+      }
   </style>
 </head>
 <body>
 
-  <nav class="navbar sticky-top navbar-dark grey">
+  <nav class="navbar sticky-top navbar-dark black">
     <ul class="nav navbar-nav pull-left">
       <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-folder-open"></i>Source</a>
+            <a class="nav-link dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-newspaper-o"></i>Source</a>
             <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
               <!--<a target="_self" class="dropdown-item" href="api/ap/index.html">Associated Press</a>-->
               <a target="_self" class="dropdown-item" href="api/aljazApi/index.html">Aljazeera</a>
@@ -113,6 +111,23 @@
         </div>
       </div>
     </div>
+    <div>
+      <!--Grid column-->
+    <section class="section pb-3 text-center">
+      <div class="p-3 flex-1">
+    <div class="col-md-6 mb-4">
+      <div class="card weather-card">
+        <div class="card-body pb-3">
+          <div class="d-flex justify-content-between">
+        <div id="results" class="card-body"></div>
+      </div>
+        </div>
+      </div>
+
+    </div>
+    </div>
+  </section>
+  </div>
 <div class="fixed-action-btn" style="bottom: 10px; right: 10px;">
   <a class="btn-floating btn-sm grey" onclick="window.location.reload()" id="myBtn">
     <i class="fa fa-chevron-up"></i>

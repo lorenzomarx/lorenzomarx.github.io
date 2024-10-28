@@ -215,7 +215,16 @@ $('#newimages').click(function(){
 
 function keyPressed() {
   if (key === '0') {
-    saveCanvas("canvas","png");
+    fill(r,g,b,opacity);
+    strokeWeight(PenSize);
+    beginShape();
+      for (var i = 0; i <= totalPoints; i++) {
+        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        curveVertex(x, y, 10, 10);
+      }
+    endShape(CLOSE);
+    noiseFactor += 0.1;
   }
   if (key === '4') {
     fill(TagColour);
