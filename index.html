@@ -27,9 +27,31 @@
     <link href="css/mdb.min.css" rel="stylesheet">
 
     <style>
-        html,
-        body,
-        header,
+
+    .divy {
+width: 500px;
+height: 300px;
+
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' style=%22transform: rotate(45deg); transform-origin: 50% 50%;background: black;box-shadow: 0 0 0 .5rem orangered, 0 0 0 1rem black,0 0 0 1.5rem indigo, 0 0 0 2rem black, 0 0 0 2.5rem teal, 0 0 0 .5rem black inset, 0 0 0 1rem gold inset, 0 0 0 1.5rem black inset, 0 0 0 2rem yellowgreen inset, 0 0 0 2.5rem black inset, 0 0 0 3rem teal inset, 0 0 0 3.5rem black inset, 0 0 0 4rem purple inset, 0 0 0 4.5rem black inset, 0 0 0 5rem crimson inset, 0 0 0 5.5rem black inset, 0 0 0 6rem orange inset, 0 0 0 6.5rem black inset, 0 0 0 7rem yellow inset, 0 0 0 7.5rem black inset, 0 0 0 8rem aqua inset, 0 0 0 8.5rem black inset, 0 0 0 9rem teal inset;%22%3E%3C/svg%3E");
+background-size: 8rem 8rem;
+background-position: 50% 50%;
+
+animation: bg 10s infinite;
+}
+
+@keyframes bg {
+25% {
+    background-size: 10rem 10rem;
+}
+
+50% {
+    background-size: 5rem 5rem;
+}
+
+75% {
+    background-size: 22rem 22rem;
+}
+}
         .jarallax {
             height: 550px;
             overflow: hidden;
@@ -121,11 +143,9 @@
                 <div class="modal-body">
                     <div class="row d-flex justify-content-center align-items-center">
 
-                        <p class="pt-3 pr-2"><h1 class="text black-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Lorenzomarx </h1> <br>brings together art <br>
+                        <p class="pt-3 pr-2 divy"><h1 class="text black-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">
+                          Lorenzomarx </h1> <br>brings together art <br>
                           design, digital media, computing and engineering. <br>Lets make something together </p>
-
-                        <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
-                        <a type="button" class="btn btn-outline-primary waves-effect" data-toggle="tooltip"title="Make Art" href="paint/index.html" target="_self">Stick'em Up </a>
                     </div>
                 </div>
             </div>

@@ -216,7 +216,7 @@ $('#newimages').click(function(){
 function keyPressed() {
   if (key === '0') {
     fill(r,g,b,opacity);
-    strokeWeight(PenSize);
+    noStroke();
     beginShape();
       for (var i = 0; i <= totalPoints; i++) {
         var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
