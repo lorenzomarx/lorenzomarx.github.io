@@ -4,6 +4,7 @@ var img;
 var royal;
 var queen;
 var junglist;
+var hemi;
 var PenColour = '#ffffff';
 var TagColour = '#8f8f8f';
 var TagSize = 600;
@@ -53,6 +54,7 @@ function preload(){
   img = loadImage("train.png");
   queen = loadImage("images/kemistry.png");
   royal = loadImage("images/queen.png");
+  hemi = loadImage("images/hemi.png");
   rua = loadImage("images/Rua_Kenana_Mihaia.png");
   junglist = loadImage("images/goldie.png");
   oosh = loadImage("images/oosh_logo.png");
@@ -71,7 +73,7 @@ function preload(){
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
   backgrounds = [junglist]
-  stickers = [rua]
+  stickers = [hemi]
 }
 
 function setup() {
