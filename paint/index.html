@@ -4,6 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="shortcut icon" href="favicon.ico">
   <title>Stick'em Up</title>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
   <script>
@@ -23,6 +25,30 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <style>
+  .divy {
+width: 500px;
+height: 300px;
+
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' style=%22transform: rotate(45deg); transform-origin: 50% 50%;background: black;box-shadow: 0 0 0 .5rem orangered, 0 0 0 1rem black,0 0 0 1.5rem indigo, 0 0 0 2rem black, 0 0 0 2.5rem teal, 0 0 0 .5rem black inset, 0 0 0 1rem gold inset, 0 0 0 1.5rem black inset, 0 0 0 2rem yellowgreen inset, 0 0 0 2.5rem black inset, 0 0 0 3rem teal inset, 0 0 0 3.5rem black inset, 0 0 0 4rem purple inset, 0 0 0 4.5rem black inset, 0 0 0 5rem crimson inset, 0 0 0 5.5rem black inset, 0 0 0 6rem orange inset, 0 0 0 6.5rem black inset, 0 0 0 7rem yellow inset, 0 0 0 7.5rem black inset, 0 0 0 8rem aqua inset, 0 0 0 8.5rem black inset, 0 0 0 9rem teal inset;%22%3E%3C/svg%3E");
+background-size: 8rem 8rem;
+background-position: 50% 50%;
+
+animation: bg 10s infinite;
+}
+
+@keyframes bg {
+25% {
+  background-size: 10rem 10rem;
+}
+
+50% {
+  background-size: 5rem 5rem;
+}
+
+75% {
+  background-size: 22rem 22rem;
+}
+}
 
 
 .collapsible {
@@ -80,7 +106,7 @@
   <nav class="navbar data-mdb-sticky-animation-unsticky">
       <ul class="nav navbar-nav pull-left">
           <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle black-text navbar-brand" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projects</a>
+              <a class="nav-link dropdown-toggle black-text navbar-brand" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-bars"></i></a>
               <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
                   <!--<a target="_self" class="dropdown-item" href="../pages/mixedup.html">Mixer</a>-->
                   <a target="_self" class="dropdown-item" href="../newsly/index.html">Newsly</a>
@@ -119,19 +145,11 @@
 
 
 <footer class="bg-body-tertiary text-center">
-  <!-- Grid container -->
-  <div class="container p-4">
-    <!-- Section: Images -->
+  <!--<div class="container p-4">
     <section class="">
       <div class="row">
-
-
-
-        <!--<div class="col-lg-2 col-md-12 mb-4 mb-md-0">
-          <div data-mdb-ripple-init
-            class="bg-image hover-overlay shadow-1-strong rounded"
-            data-ripple-color="light"
-          >
+        <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
+          <div data-mdb-ripple-init class="bg-image hover-overlay shadow-1-strong rounded" data-ripple-color="light">
             <img src="https://lorenzomarx.github.io/assets/kemistry_junglist.png" class="w-100" />
             <a href="#!">
               <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
@@ -161,9 +179,8 @@
           </div>
         </div>
       </div>
-    </section>-->
-  </div>
-  <!-- Grid container -->
+    </section>
+  </div>-->
 
   <!-- Copyright -->
   <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
@@ -172,13 +189,9 @@
           <!--Content-->
           <div class="modal-content">
               <!--Body-->
-              <div class="modal-body">
+              <div class="">
                   <div class="row d-flex justify-content-center align-items-center">
-
-                      <p class="pt-3 pr-2" ><h1>Stick'em Up</h1> </p>
-                         <h2>Desktop ONLY</h2>
-                      <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
-                      <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
+                      <p class="pt-3 pr-2" > <h1>Desktop ONLY</h1></p>
                   </div>
               </div>
           </div>
@@ -204,7 +217,6 @@
                   <li class="sparta_out">sparta</li>
                   <li class="mars">mars</li>
                 </ul>
-                      <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
                   </div>
               </div>
           </div>
@@ -213,8 +225,6 @@
   </div>
   <!-- Copyright -->
 </footer>
-
-
 
 <script>
 var coll = document.getElementsByClassName("collapsible",);
