@@ -1,36 +1,101 @@
 {
   "articles": [
     {
-      "author": "Barron's",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-10-31T20:31:00Z",
+      "author": "Jessica Toonkel, Patience Haggin, Joe Flint",
+      "content": "ComcastCMCSA3.39%increase; green up pointing triangle\r\nsaid it is exploring the creation of a separate company for its cable networks and will consider partnerships in streaming, a sign of how profou\u2026 [+450 chars]",
+      "description": "Company to weigh partnerships in streaming; posts jump in quarterly revenue",
+      "publishedAt": "2024-11-01T02:13:30Z",
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "title": "Comcast Eyes New Venture to House MSNBC, USA, Other U.S. Cable Channels - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/media/comcast-cmcsa-q3-earnings-report-2024-c802f001",
+      "urlToImage": "https://images.wsj.net/im-44584507/social"
+    },
+    {
+      "author": null,
+      "content": "EAST RUTHERFORD, N.J. (AP) Malachi Corley thought he scored his first NFL touchdown for the New York Jets but the rookie wide receiver dropped the ball before he crossed the goal line.\r\nAnd it rolled\u2026 [+1183 chars]",
+      "description": "Malachi Corley thought he scored his first NFL touchdown for the New York Jets, but the rookie wide receiver dropped the ball before he crossed the goal line. And it rolled out of the end zone. So, no touchdown, a turnover for the Jets and one huge rookie mis\u2026",
+      "publishedAt": "2024-11-01T01:24:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Jets rookie Malachi Corley has TD overturned after he drops ball before goal line vs. Texans - The Associated Press",
+      "url": "https://apnews.com/article/jets-texans-corley-af7ca72333d1d55b0c1ab25d76ba43b4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1434e78/2147483647/strip/true/crop/2441x1373+0+127/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faa%2F6f%2F66c71bab47d576bfb7fbdc7f50f6%2F90659afc82534d5a897db9d5a516231f"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-11-01T01:17:48Z",
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "[Removed]"
       },
-      "title": "Amazon Stock Climbs in After-Hours on Quarterly Earnings - Barron's",
-      "url": "https://www.barrons.com/articles/amazon-earnings-stock-price-c2f4efd8",
+      "title": "[Removed]",
+      "url": "https://removed.com",
       "urlToImage": null
     },
     {
-      "author": "Jordan Novet",
-      "content": "Intel shares rose 9% in extended trading on Thursday after the chipmaker reported better-than-expected revenue and issued quarterly guidance that topped estimates.\r\nHere's how the company did in comp\u2026 [+2145 chars]",
-      "description": "Intel reported better-than-expected revenue following a quarter filled with challenges.",
-      "publishedAt": "2024-10-31T20:06:58Z",
+      "author": "Mariana La Roche",
+      "content": "MILWAUKEE \u2014This Halloween could bring more than just costumes and candyit might also bring a star that will come back to life after decades of inactivity.\r\n The T Coronae Borealis, or \"Blaze Star,\" i\u2026 [+1809 chars]",
+      "description": "A \"zombie star\" known as T Coronae Borealis could erupt this Halloween, offering a rare celestial show as it comes back to life for the first time in nearly 80 years.",
+      "publishedAt": "2024-11-01T01:11:00Z",
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "WISN Milwaukee"
       },
-      "title": "Intel shares pop 12% on earnings beat, uplifting guidance - CNBC",
-      "url": "https://www.cnbc.com/2024/10/31/intel-intc-q3-earnings-report-2024.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055870-1730399502031-gettyimages-2155355742-TAIWAN_COMPUTEX.jpeg?v=1730399598&w=1920&h=1080"
+      "title": "'Zombie Star' could light up Halloween sky as NASA anticipates nova eruption - WISN Milwaukee",
+      "url": "https://www.wisn.com/article/wisconsin-zombie-star-cosmic-nova-halloween-spectacle/62777806",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/zombie-star-6723e507574d3.png?crop=1.00xw:0.983xh;0,0.0170xh&resize=1200:*"
+    },
+    {
+      "author": "Ashleigh Jackson",
+      "content": "Skip to content\r\n(NEXSTAR) \u2014 Former President Barack Obama recently opened up about his eldest daughter\u2019s decision to drop her famous last name in a professional setting. \r\nMalia Obama, 26, debuted h\u2026 [+1855 chars]",
+      "description": "Former President Barack Obama recently opened up about his eldest daughter\u2019s decision to drop her famous last name in a professional setting.",
+      "publishedAt": "2024-11-01T00:55:02Z",
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "title": "Obama shares thoughts on daughter Malia dropping last name professionally - The Hill",
+      "url": "https://thehill.com/homenews/4965100-obama-shares-thoughts-on-daughter-malia-dropping-last-name-professionally/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/10/GettyImages-503264090-e1730421579672.jpg?w=1280"
+    },
+    {
+      "author": "Nader Issa, Sarah Karp | WBEZ",
+      "content": "Amid a wave of backlash over troubling social media posts that were criticized as antisemitic, misogynistic and conspiratorial, Chicagos new Board of Education president is resigning at the request o\u2026 [+5068 chars]",
+      "description": "The Rev. Mitchell Ikenna Johnson is resigning just seven days after he was sworn into office amid criticism over troubling social media posts that were criticized as antisemitic, misogynistic and conspiratorial.",
+      "publishedAt": "2024-11-01T00:15:00Z",
+      "source": {
+        "id": null,
+        "name": "WBEZ"
+      },
+      "title": "CPS Board of Education president resigns - WBEZ Chicago",
+      "url": "https://www.wbez.org/education/2024/10/31/cps-board-of-education-president-resigns",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/b279b88/2147483647/strip/true/crop/5216x2978+0+251/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2Fdb%2F7c5de1c341f3a803608ac88d8793%2Fcpsboard-100824-08.jpg"
+    },
+    {
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-11-01T00:01:24Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Rapper Young Thug to be released on house arrest for time served as part of plea deal in Georgia RICO case - ABC News",
+      "url": "https://abcnews.go.com/US/rapper-young-thug-accepts-plea-deal-georgia-rico/story?id\\\\u003d115370318",
+      "urlToImage": null
     },
     {
       "author": "David Latona",
       "content": null,
       "description": "The death toll from devastating flash floods in eastern Spain climbed to 158 on Thursday, with rescue teams still searching for those missing in what could become Europe's worst storm-related disaster in over five decades.",
-      "publishedAt": "2024-10-31T19:04:00Z",
+      "publishedAt": "2024-10-31T23:54:28Z",
       "source": {
         "id": "reuters",
         "name": "Reuters"
@@ -40,62 +105,36 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/E6TFMM3EHJLK7GLY4NLOC3BSSM.jpg?auth=2f0c332dbcf8dbcb5af3dd662f2e1b9f761c6e052ca80384143df8598b529502&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Aimee Picchi",
-      "content": "Trump Media &amp; Technology Group has had a wild stock market ride this month. After quadrupling in price just days before, the stock has lost 31% of its value during a two-day decline, shaving abou\u2026 [+3092 chars]",
-      "description": "Trump Media & Technology Group's stock, which trades under DJT, is plunging just days before the November 5 election.",
-      "publishedAt": "2024-10-31T18:36:25Z",
+      "author": "Julie Johnsson",
+      "content": "(Bloomberg) -- Boeing Co. and union leaders representing 33,000 striking workers reached a tentative agreement to end a lengthy labor dispute thats crippling the companys commercial airplane manufact\u2026 [+2166 chars]",
+      "description": "(Bloomberg) -- Boeing Co. and union leaders representing 33,000 striking workers reached a tentative agreement to end a lengthy labor dispute that\u2019s...",
+      "publishedAt": "2024-10-31T23:46:23Z",
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "title": "Boeing Union Endorses Latest Offer to End Crippling Strike - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/boeing-union-endorses-latest-offer-231738543.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/G1h6xZUV2dBUa0wl.air2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/0920eaa4bdcdea318a17b9409db31008"
+    },
+    {
+      "author": "Eleanor Watson",
+      "content": "The pilot of an F-35 fighter jet that briefly went missing in September 2023 before crashing made an \"inappropriate\" decision in ejecting from the aircraft, a Marine Corps investigation concluded.\u00a0\r\n\u2026 [+2176 chars]",
+      "description": "The F-35 pilot made the wrong decision in ejecting, according to a report released Thursday, considering the F-35 \"continued to fly for an extended period after ejection.\"",
+      "publishedAt": "2024-10-31T23:40:16Z",
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
-      "title": "Trump's net worth slumps by as much as $2.4 billion amid DJT stock plunge - CBS News",
-      "url": "https://www.cbsnews.com/news/trump-djt-stock-down-net-worth-loss/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/18/57aa9856-cafe-4aab-8280-3b5b666d1827/thumbnail/1200x630g2/bb46fe61340343f83e31d3ddcfecbc3b/gettyimages-2178637365.jpg?v=379420b9063a2aadbcd559df18e2d1ae"
-    },
-    {
-      "author": "Gamers Nexus",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-10-31T18:30:16Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "AMD Responds to Intel: Ryzen 7 9800X3D Price, Specs, & Major Changes - Gamers Nexus",
-      "url": "https://www.youtube.com/watch?v\\\\u003damQOwllDXWE",
-      "urlToImage": null
-    },
-    {
-      "author": "Reda Wigle",
-      "content": "No bones about it semaglutide keeps racking up new benefits.\r\nA new, large-scale study finds that medications like Ozempic and Wegovy can seriously reduce knee pain for those with moderate to severe \u2026 [+5320 chars]",
-      "description": "Osteoarthritis, the most common form of arthritis, is primarily caused by wear and tear on the protective layer of cartilage on the ends of our bones.",
-      "publishedAt": "2024-10-31T18:27:00Z",
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "title": "Ozempic reduces knee osteoarthritis pain by almost half: \u2018That\u2019s huge\u2019 - New York Post ",
-      "url": "https://nypost.com/2024/10/31/lifestyle/ozempic-reduces-knee-osteoarthritis-pain-by-almost-half-study/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/ozempic-semaglutide-injection-pens-box-92766393.jpg?quality=75&strip=all&w=1024"
-    },
-    {
-      "author": "Emilee Speck",
-      "content": "Another named storm is not out of the question as the final month of the 2024 Atlantic hurricane season begins Friday, and the National Hurricane Center is tracking three areas for potential developm\u2026 [+1457 chars]",
-      "description": "Another named storm is not out of the question as the final month of the 2024 Atlantic hurricane season begins Friday, and the National Hurricane Center is tracking three areas for potential development.",
-      "publishedAt": "2024-10-31T18:23:39Z",
-      "source": {
-        "id": null,
-        "name": "Foxweather.com"
-      },
-      "title": "3 areas being tracked in Atlantic as hurricane season enters final month Friday - Fox Weather ",
-      "url": "https://www.foxweather.com/weather-news/atlantic-hurricane-season-final-month-3-areas-watch",
-      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2024/10/1024/512/ce90cb28-atlantic-tropical-overview.png?ve=1&tl=1"
+      "title": "After pilot error, F-35 fighter jet flew for 11 minutes on its own before crashing last year - CBS News",
+      "url": "https://www.cbsnews.com/news/after-pilot-error-f-35-fighter-jet-flew-for-11-minutes-on-its-own-before-crashing-last-year/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/31/0416dc6e-9e8b-4d9f-bdbf-401f180f3b7e/thumbnail/1200x630/2af04ba2cbe5757fe94dda83e00a0209/f-35-crash-1.jpg?v=379420b9063a2aadbcd559df18e2d1ae"
     },
     {
       "author": "Kaia Hubbard",
-      "content": "Former President Donald Trump said Wednesday at a campaign rally that \"whether the women like it or not,\" he will \"protect\" them, noting that his advisers had instructed him not to use the line, whic\u2026 [+3451 chars]",
+      "content": "Former President Donald Trump said Wednesday at a campaign rally that \"whether the women like it or not,\" he will \"protect\" them, noting that his advisers had instructed him not to use the line, whic\u2026 [+3629 chars]",
       "description": "Former President Donald Trump said that his advisers deemed the line about protecting women \"inappropriate.\"",
-      "publishedAt": "2024-10-31T18:20:00Z",
+      "publishedAt": "2024-10-31T23:31:50Z",
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
@@ -105,160 +144,121 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/31/27fa2051-99a7-4b26-b2ba-2e46799fcb20/thumbnail/1200x630/e6524ca5c6a7bec05bac71697eda4d8b/gettyimages-2182001270.jpg?v=379420b9063a2aadbcd559df18e2d1ae"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-10-31T18:15:00Z",
+      "author": "Elizabeth Wagmeister",
+      "content": "A federal grand jury has been regularly convening in the continuing criminal investigation into music mogul Sean Diddy Combs, three sources told CNN.\r\nJurors on Thursday were expected to hear from a \u2026 [+3290 chars]",
+      "description": "A federal grand jury has been regularly convening in the continuing criminal investigation into music mogul Sean \u201cDiddy\u201d Combs, three sources told CNN.",
+      "publishedAt": "2024-10-31T23:22:00Z",
       "source": {
-        "id": null,
-        "name": "[Removed]"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
+      "title": "Grand jury in Sean \u2018Diddy\u2019 Combs case hearing from witness who claims he has footage of Combs potentially victimizing celebrities - CNN",
+      "url": "https://www.cnn.com/2024/10/31/entertainment/sean-diddy-combs-grand-jury/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap24265346474643.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Ryan Christoffel",
-      "content": "Apple has launched its first M4 Macs, but the most popular Mac wasnt among them. The MacBook Air has not yet received an M4 chip. But heres everything we know about when that upgrades coming, and wha\u2026 [+2218 chars]",
-      "description": "Apple has launched the first three M4 Macs, but the M4 MacBook Air is coming later. Here\u2019s what\u2019s coming next.",
-      "publishedAt": "2024-10-31T18:14:20Z",
+      "author": "Nick Reisman",
+      "content": "The 107-page referral by the House Subcommittee on the Coronavirus Pandemic which contains emails and closed-door testimony demonstrating Cuomos role in editing a report that undercounted nursing hom\u2026 [+6584 chars]",
+      "description": "The Democrat\u2019s potential comeback faces derailment following alleged lies to Congress.",
+      "publishedAt": "2024-10-31T23:15:13Z",
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "politico",
+        "name": "Politico"
       },
-      "title": "M4 MacBook Air: Here\u2019s everything that\u2019s coming next - 9to5Mac",
-      "url": "https://9to5mac.com/2024/10/31/m4-macbook-air-heres-everything-thats-coming-next/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/m3-macbook-air-yellow.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    },
-    {
-      "author": "Stephanie Wade, Sarah Schulte",
-      "content": "CHICAGO (WLS) -- A week since he was sworn into the office, the Chicago school board president resigned Thursday over controversial social media posts.\r\nThe video in the player above is from a previo\u2026 [+4582 chars]",
-      "description": "Reverend Mitchell Johnson will step down as Chicago school board president less than a week since he was sworn in to the position after it was discovered he posted \"antisemitism, misogyny, fringe conspiracy theories\" to Facebook.",
-      "publishedAt": "2024-10-31T18:09:22Z",
-      "source": {
-        "id": null,
-        "name": "WLS-TV"
-      },
-      "title": "Newly appointed Chicago Board of Education president resigns, mayor says - ABC7 Chicago",
-      "url": "https://abc7chicago.com/post/call-grow-new-chicago-board-education-president-rev-mitchell-johnson-resign-antisemitic-facebook-posts/15492695/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15492804_103124-wls-school-board-controversy-wade11a-vid.jpg?w=1600"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-10-31T18:02:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
+      "title": "Once a Covid star, ex-Gov. Andrew Cuomo stares down criminal referral - POLITICO",
+      "url": "https://www.politico.com/news/2024/10/31/cuomo-covid-criminal-referral-00186652",
+      "urlToImage": "https://static.politico.com/a7/ef/dd06d15c406fa844703e6add16e7/u-s-congress-27282.jpg"
     },
     {
       "author": "",
-      "content": "Some birds are feathered tufts of color so resplendent that they stand out brilliantly from their surroundings.\r\nYou have to ask why birds would do this, says Joe Corbo, a biologist at Washington Uni\u2026 [+4029 chars]",
-      "description": "Parrots are unique among birds in how they produce the pigmentation that makes their vibrant feathering. It turns out a single enzyme calibrates the reds and yellows of a parrot\u2019s brilliance.",
-      "publishedAt": "2024-10-31T18:01:00Z",
+      "content": "The New York Jets' season thus far has been an abject disaster, yet their 2024 campaign isn't fully off the rails. The 2-6 Jets can still salvage their 2024 season, but they need a victory in Thursda\u2026 [+3826 chars]",
+      "description": "The Jets' season is on the line as they face the AFC South-leading Texans",
+      "publishedAt": "2024-10-31T23:02:39Z",
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "CBS Sports"
       },
-      "title": "How parrot plumage gets its dazzling reds and yellows - NPR",
-      "url": "https://www.npr.org/2024/10/31/nx-s1-5172211/polly-rainbow-parrots-colorful-plumage-feathers",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4276x2405+0+115/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fd9%2Fbe46326749de806a008cdc133e3b%2Fparrot72.jpg"
+      "title": "Texans vs. Jets where to watch: NFL kickoff time, live stream, odds, spread, prediction for Week 9 game - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/texans-vs-jets-where-to-watch-nfl-kickoff-time-live-stream-odds-spread-prediction-for-week-9-game/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/10/31/f8d71501-fb5f-470f-9784-074f47bf3984/thumbnail/1200x675/9064adaa9365503fdff436e01655f1dd/rodgers-3g.jpg"
     },
     {
-      "author": "CHRISTOPHER WEBER",
-      "content": "LOS ANGELES (AP) Rowdy crowds took to the streets of Los Angeles after the Dodgers won the World Series, setting a city bus on fire, breaking into stores and lighting off fireworks. A dozen arrests w\u2026 [+3326 chars]",
-      "description": "Rowdy crowds took to the streets in Los Angeles after the Dodgers won the World Series, setting a city bus on fire, breaking into stores and setting off firecrackers. But Mayor Karen Bass on Thursday emphasized that \u201cthe overwhelming majority of celebrations \u2026",
-      "publishedAt": "2024-10-31T17:48:00Z",
+      "author": "Joseph Choi",
+      "content": "Skip to content\r\nThe results of a clinical trial published this week found that the active ingredient in the diabetes and weight loss medications Ozempic and Wegovy was linked with a near halving of \u2026 [+1701 chars]",
+      "description": "The results of a clinical trial published this week found that the active ingredient in the diabetes and weight loss medications Ozempic and Wegovy was linked with a near halving of reported pain among patients with knee osteoarthritis and obesity. The study \u2026",
+      "publishedAt": "2024-10-31T22:56:00Z",
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "title": "Los Angeles sees city bus burned, store thefts and rowdy crowds after Dodgers win World Series - The Associated Press",
-      "url": "https://apnews.com/article/dodgers-world-series-crowds-bus-burned-arrests-a42e1c2b4a069cb6cf3c92572000ecbc",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3ac3046/2147483647/strip/true/crop/6000x3375+0+318/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2Ff6%2F78a6c78206056082519043aa9aa9%2F493032d2017f4e42bbb130717e0099ef"
+      "title": "Ozempic reduces knee osteoarthritis pain by almost half: Study - The Hill",
+      "url": "https://thehill.com/policy/healthcare/4964830-semaglutide-reduces-pain-knee-osteoarthritis-study/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/GettyImages-1247410202-e1687819201214.jpg?w=1280"
     },
     {
-      "author": "James Hirai and Greg Ritchie",
-      "content": "(Bloomberg) -- UK bonds, stocks and the pound tumbled as investors dumped British assets in a swift rebuke of the new Labour governments willingness to run up borrowing and risk faster inflation.The \u2026 [+6633 chars]",
-      "description": "(Bloomberg) -- UK bonds, stocks and the pound tumbled as investors dumped British assets in a swift rebuke of the new Labour government\u2019s willingness to run ...",
-      "publishedAt": "2024-10-31T17:19:13Z",
+      "author": "Aimee Plante",
+      "content": "PORTLAND, Ore. (KOIN) A week after Washington reported human cases of bird flu in the state, officials have announced that three of those cases had traveled to Oregon during their infection and were \u2026 [+1353 chars]",
+      "description": "Three individuals who had traveled to Oregon from Washington, where there have been nine total cases of HPAI, are being monitored by Washington health staff until 10 days following their last exposure.",
+      "publishedAt": "2024-10-31T22:20:47Z",
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "KOIN.com"
       },
-      "title": "UK Rout Deepens as Reeves Budget Worries Spread Across Markets - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/uk-bonds-fall-market-still-085854677.html",
-      "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/1d388082bc11108dc910c202376bc906"
+      "title": "OHA reports 3 humans with bird flu traveled to Oregon during Washington outbreak - KOIN.com",
+      "url": "https://www.koin.com/news/oregon/oregon-human-washington-cases-bird-flu-10312024/",
+      "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2024/05/66565c7b0c38b9.00318131.jpeg?w=1280"
+    },
+    {
+      "author": "Meridith McGraw, Jessica Piper",
+      "content": "The partisan gap is narrower than it was in 2020, when views of early voting were more partisan, and Republicans take that as a good sign. But the GOP still is counting on more of its older voters to\u2026 [+6091 chars]",
+      "description": "Democrats account for about 58 percent of the votes cast by seniors so far in Pennsylvania.",
+      "publishedAt": "2024-10-31T22:15:28Z",
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "title": "Trump lagging in early vote with seniors in Pennsylvania, a red flag for GOP - POLITICO",
+      "url": "https://www.politico.com/news/2024/10/31/trump-lagging-early-votes-seniors-pennsylvania-00186612",
+      "urlToImage": "https://static.politico.com/54/d2/4766000243e99d607be67b2a6eea/pennsylvania-voting-59234.jpg"
     },
     {
       "author": "Kyle Wiggers",
-      "content": "OpenAI\u2019s Google challenger is finally here.\r\nThe company on Thursday launched ChatGPT Search, an evolution of the\u00a0SearchGPT prototype it unveiled this summer. Built into OpenAI\u2019s ChatGPT platform, Ch\u2026 [+2176 chars]",
-      "description": "OpenAI has launched its Google challenger: ChatGPT Search. It lets ChatGPT users more easily search the web for up-to-date info.",
-      "publishedAt": "2024-10-31T17:12:07Z",
+      "content": "Amazon CEO Andy Jassy on Thursday hinted at an improved, \u201cagentic\u201d version of the company\u2019s Alexa assistant one that could take actions on a user\u2019s behalf.\r\n\u201cI think that the next generation of these\u2026 [+1394 chars]",
+      "description": "Amazon CEO Andy Jassy hinted at an improved, \"agentic\" version of the company's Alexa assistant during Amazon's Q3 2024 earnings call.",
+      "publishedAt": "2024-10-31T21:59:49Z",
       "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "title": "OpenAI launches its Google challenger, ChatGPT Search - TechCrunch",
-      "url": "https://techcrunch.com/2024/10/31/openai-launches-its-google-challenger-chatgpt-search/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1256069284.jpg?resize=1200,900"
-    },
-    {
-      "author": "Randi Richardson, Denise Chow",
-      "content": "For trick-or-treaters in many parts of the country, this Halloween may not have that familiar chill in the air.\r\nMore than 30 cities across the Northeast could set record-high temperatures on Thursda\u2026 [+2426 chars]",
-      "description": "Halloween is expected far warmer than usual in many parts of the country. More than 30 cities across the Northeast could set new temperature records.",
-      "publishedAt": "2024-10-31T16:34:17Z",
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "title": "Halloween to bring high temperatures to much of Midwest and Northeast - NBC News",
-      "url": "https://www.nbcnews.com/weather/heat/halloween-weather-high-temperatures-records-rcna178057",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241030-halloween-warm-weather-se-227p-afe211.jpg"
+      "title": "Amazon CEO Andy Jassy hints at an \u2018agentic\u2019 Alexa - TechCrunch",
+      "url": "https://techcrunch.com/2024/10/31/amazon-ceo-andy-jassy-hints-at-an-agentic-alexa/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/WPS01272-Timer-Dory.png?resize=1200,800"
     },
     {
       "author": null,
-      "content": "Vice President Kamala Harris has a new campaign ad in Spanish that will air in battleground states that seizes on comments made about Puerto Ricans during a Trump rally.\r\nHarris is scheduled to begin\u2026 [+570 chars]",
-      "description": "The ad is part of a larger $370 million buy, and will air on Univision and Telemundo during high viewership telenovelas, and on digital platforms including El Nuevo D\u00eda, YouTube and Snapchat.",
-      "publishedAt": "2024-10-31T16:22:25Z",
+      "content": "Oct 31, 2024, 04:59 PM ET\r\nOrlando Magic superstar Paolo Banchero has been diagnosed with a torn right oblique and is sidelined indefinitely, the team announced Thursday.\r\nHe will be reevaluated in f\u2026 [+857 chars]",
+      "description": "Magic star Paolo Banchero has been diagnosed with a torn right oblique and is sidelined indefinitely, the team announced on Thursday.",
+      "publishedAt": "2024-10-31T21:59:00Z",
       "source": {
-        "id": null,
-        "name": "PBS"
+        "id": "espn",
+        "name": "ESPN"
       },
-      "title": "WATCH LIVE: Harris holds campaign rally and concert with Los Tigres Norte in Arizona - PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-harris-holds-campaign-rally-and-concert-with-los-tigres-norte-in-arizona",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/10/2024-10-31T044354Z_1151988705_RC2DVAAKV5A3_RTRMADP_3_USA-ELECTION-HARRIS-1024x680.jpg"
+      "title": "Magic's Banchero questionable Friday vs. Cavs - ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/42116980/magic-paolo-banchero-questionable-friday-vs-cavaliers",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1024%2Fr1405216_1296x729_16%2D9.jpg"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-10-31T16:12:33Z",
+      "author": "MTN News",
+      "content": "(Updated 4:23 p.m. MDT, 10/31/24)\r\nBOZEMAN Gallatin County Sheriff Dan Springer said at a press conference on Thursday that Daren Christopher Abbey is the suspect in the death of Dustin Kjersem, who \u2026 [+2431 chars]",
+      "description": "Daren Christopher Abbey was named as the suspect in the death of Dustin Kjersem, who was found brutally killed in his tent in the Moose Creek area on Oct. 12, 2024.",
+      "publishedAt": "2024-10-31T21:49:11Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "KBZK Bozeman News"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "Elon Musk did not appear at a Philadelphia court for a hearing over the billionaire's cash giveaways to registered voters.\r\nThe Donald Trump supporter has, through his political group America PAC, be\u2026 [+3005 chars]",
-      "description": "Prosecutors say the case will now move to a federal court, following a request from Musk's lawyers.",
-      "publishedAt": "2024-10-31T15:59:48Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Elon Musk does not attend US election cash giveaways hearing - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c0en401330jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/547c/live/ede01600-9792-11ef-8538-e1655f5a8342.jpg"
+      "title": "Gallatin County Sheriff provides update on homicide suspect in killing of Dustin Kjersem near Big Sky - KBZK News",
+      "url": "https://www.kbzk.com/news/crime-courts/gallatin-county-sheriff-provides-update-on-homicide-suspect-in-killing-of-dustin-kjersem-near-big-sky",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/fda9334/2147483647/strip/true/crop/1920x1008+0+26/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F3d%2Fa4%2Fd94b5fa840bd808d53cc640dcc74%2Fkjersem-press-conference.jpg"
     }
   ],
   "status": "ok",
