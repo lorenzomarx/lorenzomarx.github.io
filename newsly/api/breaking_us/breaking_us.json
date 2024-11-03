@@ -1,17 +1,69 @@
 {
   "articles": [
     {
-      "author": "ABC News",
+      "author": "Al Jazeera English",
       "content": null,
       "description": null,
-      "publishedAt": "2024-11-02T03:11:15Z",
+      "publishedAt": "2024-11-02T07:42:53Z",
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "title": "Ex-Louisville officer guilty of violating Breonna Taylor's civil rights - ABC News",
-      "url": "https://abcnews.go.com/US/brett-hankison-breonna-taylor-case-federal-retrial-verdict/story?id\\\\u003d115284067",
+      "title": "US election: 3 days left \u2013 What polls say, what Harris and Trump are up to - Al Jazeera English",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFNoYzFDdFNTUDBTdHZ3YzE3ZFRKcTR0LXUza0FEdDFJVzlxLWNWZlptX3VxSm1QY1M1elB0TUdmTDBaYVh4VUczckZDZDFySFFjNnBHUnZRVmNzZWNMZ3JQa0JqN0RKNVMySDFLcnpsZ3dxbWtJRlpxQWdoSmVacTM5U3daTGV3T2MxSzNpNkZTbk5QQ0N1ZUVzcTNieWxDQ3FnWmMwczZ2VTlRVU1GVtIBtgFBVV95cUxNcG00VU1OZ0w2b2dxZ2lFQ1dEYllZYUZiaHFtd2RGVmU1dHNBcVA1bnhlUGctbzFING5Nc0o2a3NGQzZDa3JYRml4djFCSm9XQ2VOSGRpYVRuTXM1UVEtUEN4MUhDeUh4T2ZIdG9SMHhxVmMybnBLUEpuSGlRb21vbnVSTm4tVnktTW9LTG1xcUUtMFpDSng2YnNDX2tPZU1rdlh3d2sybzEwdXh1Q20xNkFzYXlwQQ?oc=5",
       "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": "The final phase of a two-stage polio vaccination campaign has started in north Gaza on Saturday, the World Health Organization (WHO) said.\r\nThe second phase was postponed in October by UN agencies du\u2026 [+3212 chars]",
+      "description": "It comes as 15 UN and humanitarian organisations described the situation in north Gaza as \"apocalyptic\".",
+      "publishedAt": "2024-11-02T07:19:50Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Gaza polio vaccination drive to restart in north of territory - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cm2mnlg43k4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5678/live/8b692360-98e9-11ef-8538-e1655f5a8342.jpg"
+    },
+    {
+      "author": "Rami Amichay",
+      "content": null,
+      "description": "The Israeli military said that sirens sounded in several areas of central Israel after the projectile launch.",
+      "publishedAt": "2024-11-02T07:12:55Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Rockets from Lebanon wound 11 in Israel - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-military-says-sirens-sound-central-israel-2024-11-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/FJGMPNOXJVIJLNLW4UPZT4GXXA.jpg?auth=437cf484eed9d8fd4d481f811f7e281e2ac142496523b014243f67f821050603&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": null,
+      "content": "Jaylen Brown had 25 points in the Boston Celtics' 124-109 victory over the Charlotte Hornets on Friday night, but he saved his biggest shots for after the game.\r\nThe star guard took issue with former\u2026 [+2496 chars]",
+      "description": "Celtics star Jaylen Brown took issue Friday night with a foul former teammate Grant Williams had on Jayson Tatum in the closing minutes of the Celtics' 124-109 win.",
+      "publishedAt": "2024-11-02T04:12:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "Brown critical of 'Ray Lewis'-like foul on Tatum - ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/42139789/celtics-brown-calls-hornets-williams-foul-tatum",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1102%2Fr1409227_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": null,
+      "content": "A shark bit a Maui surfer Friday morning and severed his leg, authorities said.\r\nThe man, 61, was surfing off Waiehu Beach Park Friday morning in a surf spot known as Sand Piles when a shark bit him,\u2026 [+1689 chars]",
+      "description": "The man, 61, was surfing off Waiehu Beach Park when a shark bit him. Witnesses told CBS affiliate Hawaii News Now\u200b that other surfers helped him swim back to shore.",
+      "publishedAt": "2024-11-02T03:54:14Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Maui surfer loses part of leg in shark attack, officials say - CBS News",
+      "url": "https://www.cbsnews.com/news/maui-surfer-loses-part-of-leg-shark-attack-waiehu-beach-hawaii/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/31/fb2818b1-e06f-4592-9cc8-8c0ed99f8a0d/thumbnail/1200x630/00089af5ebcb9f11527fecf89d42bf0a/shark-2048x1536.jpg?v=379420b9063a2aadbcd559df18e2d1ae"
     },
     {
       "author": "Dominic Gates",
@@ -27,173 +79,95 @@
       "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/11/11012024_tzr_tzr_120820.jpg?d=1200x630"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-11-02T02:46:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "When it comes to Everly Tatum, don't blink twice.\u00a0\r\nThe 10-year-old daughter of Channing Tatum and ex-wife Jenna Dewan appeared to have grown so much in new photos showing off her adorable Halloween \u2026 [+949 chars]",
-      "description": "Channing Tatum and ex-wife Jenna Dewan's 10-year-old daughter Everly Tatum looked so big in a new photo revealing she dressed as a character from the video game Genshin Impact for Halloween.",
-      "publishedAt": "2024-11-02T02:05:00Z",
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "title": "Channing Tatum & Jenna Dewan's Daughter Looks So Grown Up on Halloween - E! NEWS",
-      "url": "https://www.eonline.com/news/1409453/channing-tatum-and-jenna-dewans-daughter-everly-looks-so-grown-up-on-halloween",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024728/rs_1200x1200-240828122009-channing_jenna.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
-    },
-    {
-      "author": "Marina Pitofsky, Sudiksha Kochi, Riley Beggin, Joey Garrison, Rachel Barber, Savannah Kuchar, Aysha Bagchi, Bart Jansen, Erin Mansfield, Michael Collins, Francesca Chambers",
-      "content": "Just four days to Election Day.\r\nFormer President Donald Trump and Vice President Kamala Harris both gathered with supporters on Friday in Wisconsin, one of the pivotal swing states that could decide\u2026 [+35427 chars]",
-      "description": "Former President Donald Trump and Vice President Kamala Harris are both gathering with supporters on Friday in Wisconsin",
-      "publishedAt": "2024-11-02T01:47:49Z",
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "title": "Election 2024 live updates: Dems pile on Trump for 'violent rhetoric' - USA TODAY",
-      "url": "https://www.usatoday.com/story/news/politics/elections/2024/11/01/election-2024-live-updates-harris-trump/75969688007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/01/USAT/75990969007-20241101-t-143127-z-337006649-rc-2-lg-9-a-7-hs-3-e-rtrmadp-3-usaelectionportfolio-1.JPG?crop=3234,1820,x0,y102&width=3200&height=1801&format=pjpg&auto=webp"
-    },
-    {
-      "author": "Ava Wallace",
-      "content": "The Indiana Fever are bringing back a familiar face to coach Caitlin Clark and one of the most talented young rosters in the WNBA. The team named Stephanie White its coach Friday, filling the short-l\u2026 [+376 chars]",
-      "description": "Stephanie White is returning to the Indiana Fever as head coach, tasked with developing young stars and managing high expectations.",
-      "publishedAt": "2024-11-02T01:31:32Z",
+      "author": "Hannah Ziegler",
+      "content": "Nvidia will replace fellow chipmaker Intel in the Dow Jones Industrial Average, a swap that reflects the growing interest in artificial intelligence and its reshaping of the technology landscape.\r\nSh\u2026 [+2192 chars]",
+      "description": "By adding AI darling Nvidia, the Dow Jones Industrial Average will better represent the modern semiconductor industry, S&P Dow Jones Indices said.",
+      "publishedAt": "2024-11-02T02:39:49Z",
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "title": "Stephanie White hired to guide Indiana Fever, Caitlin Clark to next step - The Washington Post",
-      "url": "https://www.washingtonpost.com/sports/2024/11/01/stephanie-white-indiana-fever-head-coach/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ABIUJPXZQDFX22WK7235SUC4QQ.jpg&w=1440"
+      "title": "Dow average gains Nvidia, loses Intel as one chipmaker replaces another - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2024/11/01/nvidia-intel-dow-jones-average/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7IVJHM2P4HCJXRK4HUSSX3OKE.JPG&w=1440"
     },
     {
-      "author": "Eric Levenson, Gloria Pazmino, Mark Morales",
-      "content": "During the first day of Daniel Pennys manslaughter trial in the death of Jordan Neely on the New York City subway last year, the prosecution and defense painted dueling portraits of Penny in opening \u2026 [+14388 chars]",
-      "description": "The prosecution and defense painted dueling portraits of Daniel Penny in opening statements Friday in the former Marine\u2019s manslaughter trial in the chokehold death of Jordan Neely on the New York City subway last year.",
-      "publishedAt": "2024-11-02T01:30:00Z",
+      "author": "UFC",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-11-02T01:34:47Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "YouTube"
       },
-      "title": "Daniel Penny\u2019s lawyers argue he protected others, prosecutors say he \u2018went too far\u2019 as NYC subway manslaughter trial begins - CNN",
-      "url": "https://www.cnn.com/2024/11/01/us/daniel-penny-trial-jordan-neely-death/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180010140.jpg?c=16x9&q=w_800,c_fill"
+      "title": "UFC Edmonton: Fighter Faceoffs - UFC",
+      "url": "https://www.youtube.com/watch?v\\\\u003dHrXcleiV3og",
+      "urlToImage": null
     },
     {
-      "author": "Julie Sharp, Marissa Wenzke",
-      "content": "Thousands descended on downtown Los Angeles to cheer on the Dodgers in the team's first World Series parade since 1988, with cheers for World Series MVP Freddie Freeman and tributes to the late legen\u2026 [+5427 chars]",
-      "description": "Thousands descended on downtown Los Angeles to cheer on the Dodgers in the team's first World Series parade since 1988, many chanting out the name of World Series MVP Freddie Freeman and tributes to the late legendary Fernando Valenzuela seen throughout the d\u2026",
-      "publishedAt": "2024-11-02T01:23:11Z",
+      "author": "",
+      "content": "The calendar has flipped to November, meaning the 2024 college football regular season is hitting its home stretch. Conference championship pictures are taking form, though the College Football Playo\u2026 [+4949 chars]",
+      "description": "A closer look at the top games for the 10th week of the 2024 college football season",
+      "publishedAt": "2024-11-02T01:31:00Z",
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "CBS Sports"
       },
-      "title": "LA Dodgers' World Series parade lights up downtown as fans celebrate championship win - CBS News",
-      "url": "https://www.cbsnews.com/losangeles/news/dodgers-parade-day-is-here-and-fans-are-ready-to-celebrate/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/01/cd389a94-c74e-4e4d-b20b-d4cc66815ee9/thumbnail/1200x630/a935bad622026d80189db8007b96b27c/gettyimages-2181586108.jpg?v=379420b9063a2aadbcd559df18e2d1ae"
+      "title": "College football picks, schedule: Predictions against the spread, odds for NCAA top 25 games in Week 10 - CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-for-ncaa-top-25-games-in-week-10/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/10/31/cf2c481e-a6ce-44f8-b2e4-6f58fe4202ba/thumbnail/1200x675/7134cf5e8f7a75b799e79dbdb58ba862/pitt.png"
     },
     {
-      "author": "ADRIANA GOMEZ LICON, AAMER MADHANI",
-      "content": "MADISON, Wis. (AP) Kamala Harris said Friday it was disqualifying for Donald Trump to say former Rep. Liz Cheney, one of the former presidents most prominent Republican critics, should have rifles sh\u2026 [+5807 chars]",
-      "description": "Kamala Harris says it was \u201cdisqualifying\u201d for Donald Trump to say former Rep. Liz Cheney should have rifles \u201cshooting at her\u201d to see how she feels about sending troops to fight. Harris on Friday called Cheney \u201ca true patriot\u201d and said Trump \u201chas increased his\u2026",
-      "publishedAt": "2024-11-02T01:15:00Z",
+      "author": "AP",
+      "content": "ALEXANDRIA, Va. (AP) A man faces a felony assault charge after an unprovoked attack on a fellow passenger who was sleeping during a cross-country flight this week, according to authorities.\r\nAn FBI a\u2026 [+1746 chars]",
+      "description": "An FBI agent said Everett Chad Nelson punched the other man repeatedly in the face and head, leaving the man bleeding, before another passenger pulled him off the victim.",
+      "publishedAt": "2024-11-01T23:11:02Z",
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "title": "Man Accused Of Punching And Bloodying A Sleeping Passenger On U.S. Flight - HuffPost",
+      "url": "https://www.huffpost.com/entry/ap-us-attack-sleeping-passenger_n_67255da8e4b01e8b242501e0",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67255dab1d00002e004d0fb9.jpeg?ops=1200_630"
+    },
+    {
+      "author": "JENNIFER PELTZ",
+      "content": "NEW YORK (AP) Prosecutors and defense lawyers agree on this about Marine veteran Daniel Pennys encounter last year with a distressed, angry man making ominous remarks on a New York subway: Penny didn\u2026 [+5442 chars]",
+      "description": "Jurors have heard opening statements in the trial of the man accused of choking a distressed Black subway rider to death last year in New York. Prosecutors and defense agree Daniel Penny didn\u2019t intend to kill Jordan Neely. But a prosecutor told jurors Friday \u2026",
+      "publishedAt": "2024-11-01T23:01:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "title": "Harris assails Trump for saying Liz Cheney should have rifles \u2018shooting at her\u2019 - The Associated Press",
-      "url": "https://apnews.com/article/election-trump-cheney-war-hawk-14e2037b4fd8d22acf64c8b888ce296d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/40a3274/2147483647/strip/true/crop/4864x2736+0+254/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2F6c%2F7ed4fd90421cefbedad9e4cb7180%2F427fe87356e04f919393672f40b50be2"
+      "title": "Prosecutor says veteran's subway chokehold went 'too far.' Defense says his 'courage' helped others - The Associated Press",
+      "url": "https://apnews.com/article/daniel-penny-subway-chokehold-death-trial-neely-2ac2a4bce3ec74382722e9ac0e694283",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3a90b33/2147483647/strip/true/crop/3500x1969+0+183/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F38%2F56b3b0c2385476949ce4b659f649%2F65ee49f8763f4ceeaf1bd793442639b5"
     },
     {
-      "author": "Selome Hailu",
-      "content": "The second-to-last episode of \u201cAgatha All Along\u201d hit 4.6 million views in its first day of streaming on Disney+. That puts Episode 8 nearly 10% above the 4.2 million views achieved by Episode 7 in th\u2026 [+1973 chars]",
-      "description": "The penultimate episode of 'Agatha All Along' reached 4.6 million views in its first day on Disney+, while the finale hit 3.9 million.",
-      "publishedAt": "2024-11-02T00:49:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "\u2018Agatha All Along\u2019 Episode 8 Hits 4.6 Million Views in One Day, Up 10% From Episode 7 - Variety",
-      "url": "https://variety.com/2024/tv/news/agatha-all-along-finale-ratings-views-disney-plus-1236197032/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/11/MPY-109-19365_R.jpeg?w=1000&h=563&crop=1"
-    },
-    {
-      "author": "John Fritze, Tierney Sneed",
-      "content": "The US Supreme Court on Friday left in place a Pennsylvania court ruling that is expected to expand options for voters whose mail-in ballots are rejected for technical reasons to have their votes cou\u2026 [+6960 chars]",
-      "description": "The US Supreme Court on Friday left in place a Pennsylvania court ruling that is expected to expand options for voters whose mail-in ballots are rejected for technical reasons to have their votes counted, in a defeat for Republicans in a critical battleground\u2026",
-      "publishedAt": "2024-11-02T00:30:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Supreme Court rules Pennsylvania may count back-up votes when mail ballots are rejected - CNN",
-      "url": "https://www.cnn.com/2024/11/01/politics/supreme-court-pennsylvania-voting/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap24247755686337.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "",
-      "content": "In a video posted to X on Thursday, a man claiming to be a Haitian immigrant says he's already voted for Vice President Harris in Gwinnett County, Ga., and is headed to vote again in nearby Fulton Co\u2026 [+6183 chars]",
-      "description": "Intelligence officials say the video, which purported to show a Haitian immigrant claiming he had voted multiple times in Georgia, is the product of a Russian propaganda operation.",
-      "publishedAt": "2024-11-01T23:48:59Z",
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "title": "Fake videos from Russian propagandists aim to raise tensions ahead of Election Day - NPR",
-      "url": "https://www.npr.org/2024/11/01/nx-s1-5170334/russia-propaganda-georgia-video",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5956x3350+0+94/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb8%2F27%2F1b1313ff461fadfbfe8faf3502d0%2Fgettyimages-2181595421.jpg"
-    },
-    {
-      "author": "Chris Low",
-      "content": "SEC commissioner Greg Sankey sent a memo Friday to league athletic directors and head football coaches outlining punishment if players continue to fake injuries in games.\r\n\"As plainly as it can be st\u2026 [+2478 chars]",
-      "description": "SEC commissioner Greg Sankey sent a memo this week to league athletic directors and head football coaches outlining punishment if players continue to fake injuries in games.",
-      "publishedAt": "2024-11-01T23:47:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "SEC outlines discipline for fake injury 'nonsense' - ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/42136360/sankey-outlines-punishment-sec-schools-faking-injuries",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0208%2Fr1288336_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Jay Peters",
-      "content": "Some iPhone 14 Plus phones have a camera issue, but Apple may fix it for free\r\nSome iPhone 14 Plus phones have a camera issue, but Apple may fix it for free\r\n / A very small percentage of the phones \u2026 [+238 chars]",
-      "description": "Apple announced a new service program to fix iPhone 14 Plus phones that have rear cameras that won\u2019t show a preview. The company says \u201ca very small percentage\u201d of phones are affected.",
-      "publishedAt": "2024-11-01T23:33:07Z",
+      "author": "Andrew Webster",
+      "content": "Fortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert\r\nFortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert\r\n / The event is the\u2026 [+2394 chars]",
+      "description": "Before kicking off the The Remix: Chapter 2 event on November 2nd, Fortnite featured a virtual concert headlined by Snoop Dogg.",
+      "publishedAt": "2024-11-01T23:00:00Z",
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "title": "Some iPhone 14 Plus phones have a camera issue, but Apple may fix it for free - The Verge",
-      "url": "https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dAF1-2PlV5V1Q8SDz8LSbXdOvVU=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/24083304/DSC03743_processed.jpg"
+      "title": "Fortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert - The Verge",
+      "url": "https://www.theverge.com/2024/11/1/24283508/fortnite-remix-chapter-2-concert-snoop-dogg-ice-spice",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qGkPyX_p5okJJzHeM4a3kbJmfgg=/0x0:1903x950/1200x628/filters:focal(1003x425:1004x426)/cdn.vox-cdn.com/uploads/chorus_asset/file/25710826/FNBR_CH2Remix_Screenshot_Still001_Logo_1920x1080.jpg"
     },
     {
-      "author": "Dacia Johnson",
-      "content": "ORLANDO, Fla. \u2014Orlando Mayor Buddy Dyer on Friday announced a curfew and early end to alcohol sales for the downtown entertainment area where an overnight shooting left two men dead and seven others \u2026 [+2188 chars]",
-      "description": "Alcohol sales must end by midnight and curfew begins at 1 a.m. downtown.",
-      "publishedAt": "2024-11-01T22:56:00Z",
+      "author": "Lisa Desjardins, Shrai Popat, Ian Couzens",
+      "content": "Lisa Desjardins:\r\nThere's a gender gap in these early voting returns. Right now, we see by far more women than men are voting, in fact, by 10 points.\r\nThat's something that the Harris campaign likes.\u2026 [+1163 chars]",
+      "description": "With just days left of this election cycle, millions of voters across the country have already cast their ballots by absentee or early in-person voting. Lisa Desjardins breaks down what this early turnout tells us.",
+      "publishedAt": "2024-11-01T22:50:49Z",
       "source": {
         "id": null,
-        "name": "WESH Orlando"
+        "name": "PBS"
       },
-      "title": "Orlando mayor issues curfew, early end to alcohol sales for businesses near downtown mass shooting - WESH 2 Orlando",
-      "url": "https://www.wesh.com/article/orlando-mayor-curfew-end-alcohol-sales-businesses-downtown-mass-shooting/62787270",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/109912e8-fd26-4c51-be21-343a514845cf/8c154c95-2598-48f4-9352-27f9e925b2a7.jpg?crop=0.638xw:0.638xh;0.113xw,0.125xh&resize=1200:*"
+      "title": "What early voting data signals about this year's election - PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/what-early-voting-data-signals-about-this-years-election",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/11/early-1024x683.jpg"
     },
     {
       "author": "Atika Shubert",
@@ -209,30 +183,30 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2181542432.JPG?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Brittany Gibson, Meredith Lee Hill, Adam Cancryn",
-      "content": "But Biden has made a hard push for his vice president, and Marini said he and many other union leaders in this crucial swing state have prioritized making the economic case in favor of Harris to thei\u2026 [+8089 chars]",
-      "description": "Union\u2019s assessment: The 2024 candidates are not strong enough.",
-      "publishedAt": "2024-11-01T22:46:49Z",
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "title": "\u2018Union Joe,\u2019 Harris and Trump all made gains with unions \u2014 but not enough - POLITICO",
-      "url": "https://www.politico.com/news/2024/11/01/harris-trump-unions-elections-00186873",
-      "urlToImage": "https://static.politico.com/eb/9b/e1506f0244c1a480ea7ed2287e30/election-2024-harris-99704.jpg"
-    },
-    {
-      "author": "Skyler Ware",
-      "content": "Scientists have broken a 100-year-old chemistry\r\n rule to synthesize a class of molecules previously thought to be too unstable to form.\r\nThe molecules in question violate Bredt's rule, which describ\u2026 [+3001 chars]",
-      "description": "Scientists have just broken a 100-year-old chemistry rule and synthesized a type of 3D, unstable molecule called an anti-Bredt olefin.",
-      "publishedAt": "2024-11-01T22:30:05Z",
+      "author": "PBS News Hour",
+      "content": "Geoff Bennett:\r\nAuthorities have rescued more than 4,500 people trapped by the flood so far. More rain is expected in the coming days.\r\nIndia's capital was shrouded by a thick layer of toxic smog tod\u2026 [+1380 chars]",
+      "description": "In our news wrap Friday, the Labor Department released its final jobs report before the election, the death toll from flooding in Spain spiked to at 205 with many still missing, New Delhi's air quality plummeted as smoke from firecrackers used to celebrate Di\u2026",
+      "publishedAt": "2024-11-01T22:40:41Z",
       "source": {
         "id": null,
-        "name": "Live Science"
+        "name": "PBS"
       },
-      "title": "Chemists broke a 100-year-old rule to make extremely unstable molecules - Livescience.com",
-      "url": "https://www.livescience.com/chemistry/chemists-broke-a-100-year-old-rule-to-make-extremely-unstable-molecules",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pTKXHZs9tKp5FgKTgfUPt7-1200-80.jpg"
+      "title": "News Wrap: Labor Department releases final jobs report before election - PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-labor-department-releases-final-jobs-report-before-election",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/11/newswrap-1024x683.jpg"
+    },
+    {
+      "author": null,
+      "content": "Ariana Grandehas decided shes not that girl.\r\nAt least, thats what viewers will notice when they see her name in the end credits of the upcoming Wicked film, all because shes not going by her stage n\u2026 [+751 chars]",
+      "description": "For the upcoming Wicked film, Ariana Grande\u2014who portrays Glinda the Good Witch\u2014is credited with her real name, a change viewers will spot in the movie\u2019s end credits.",
+      "publishedAt": "2024-11-01T22:26:00Z",
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "title": "Ariana Grande Using Her Real Name in Wicked Credits - E! NEWS",
+      "url": "https://www.eonline.com/news/1409443/ariana-grande-using-her-real-name-in-wicked-credits",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024101/cr_1200x1200-241101151325-2551_D073_00030R.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
     },
     {
       "author": "Natalie Rahhal",
@@ -248,19 +222,45 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TEobpJoMkzqSwmJ2W7h9Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDk-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/33090440-9896-11ef-bc5f-5742b2a1fa1d"
     },
     {
-      "author": "HNN Staff",
-      "content": "WAIEHU (HawaiiNewsNow) - A 61-year-old surfer was critically injured in a shark attack in waters off Waiehu Beach Park Friday morning, Maui police said.\r\nLoved ones identified him as Kenji and are ra\u2026 [+1716 chars]",
-      "description": "Sources said the victim was sitting on his board when the shark swam up and bit his leg.",
-      "publishedAt": "2024-11-01T21:59:00Z",
+      "author": "Inside Edition",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-11-01T21:56:51Z",
       "source": {
         "id": null,
-        "name": "Hawaii News Now"
+        "name": "YouTube"
       },
-      "title": "Surfer loses part of leg in shark attack off Maui beach - Hawaii News Now",
-      "url": "https://www.hawaiinewsnow.com/2024/11/01/surfer-61-critically-injured-shark-attack-mauis-waiehu-beach-park/",
-      "urlToImage": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/NXV57WUU6ZCLNL6TFBP7556C5Q.jpg?auth=3ed61efa33b8098acb2d14b9d1b06ec6c906bad3560a6b7bebbf90f2cf9a11ce&width=1200&height=600&smart=true"
+      "title": "Heidi Klum Dresses Up as ET for Her Halloween Party - Inside Edition",
+      "url": "https://www.youtube.com/watch?v\\\\u003dUGt5LiYf_YY",
+      "urlToImage": null
+    },
+    {
+      "author": "Eric Bradner",
+      "content": "Donald Trump said former Rep. Liz Cheney is a war hawk who should be fired upon, as he raged against one of his most prominent intra-party critics while campaigning Thursday night in Arizona.\r\nShes a\u2026 [+5758 chars]",
+      "description": "Donald Trump said former Rep. Liz Cheney is a \u201cwar hawk\u201d who should be fired upon, as he raged against one of his most prominent intra-party critics while campaigning Thursday night in Arizona.",
+      "publishedAt": "2024-11-01T20:33:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Trump says \u2018war hawk\u2019 Liz Cheney should be fired upon in escalation of violent rhetoric against his opponents - CNN",
+      "url": "https://www.cnn.com/2024/11/01/politics/donald-trump-liz-cheney-war-hawk-battle/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182209862.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Lawrence Abrams",
+      "content": "OpenAI's new \"ChatGPT search\"\u00a0Chrome extension feels like nothing more than a typical search hijacker, changing Chrome's settings so your address bar searches go through ChatGPT Search instead.\r\nYest\u2026 [+2923 chars]",
+      "description": "OpenAI's new \"ChatGPT search\"\u00a0Chrome extension feels like nothing more than a typical search hijacker, changing Chrome's settings so your address bar searches go through ChatGPT Search instead.",
+      "publishedAt": "2024-11-01T20:25:37Z",
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "title": "OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker - BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 37
+  "totalResults": 35
 }
