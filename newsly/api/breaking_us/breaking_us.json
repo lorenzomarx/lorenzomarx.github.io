@@ -1,9 +1,74 @@
 {
   "articles": [
     {
-      "author": "The Wall Street Journal",
+      "author": "Tom Balmforth, Felix Hoske",
       "content": null,
-      "description": null,
+      "description": "The outcome could chart a future toward the EU or toward Russia.",
+      "publishedAt": "2024-11-03T09:26:31Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Moldovans vote in presidential runoff amid fears of meddling - Reuters",
+      "url": "https://www.reuters.com/world/europe/moldova-holds-presidential-runoff-election-amid-claims-russian-meddling-2024-11-03/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/U5KRWEU2JFJMTJU2FWA5DGXL3M.jpg?auth=327dcfd0b5a455e3a4a88aa4f9e00cb45bbd3afc8d9e44cb9497d50ff3424c84&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Ted Holmlund",
+      "content": "Joel Embiid, who has been feuding with the media recently, took it to a physical level on Saturday night.\r\nThe 76ers center shoved Philadelphia Inquirer columnist Marcus Hayes following Philadelphias\u2026 [+3650 chars]",
+      "description": "Joel Embiid, who has been feuding with the media recently, took it to a physical level on Saturday night.",
+      "publishedAt": "2024-11-03T05:44:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "Joel Embiid shoves columnist after 76ers game, NBA investigating - New York Post ",
+      "url": "https://nypost.com/2024/11/03/sports/joel-embiid-shoves-columnist-after-76ers-game-nba-investigating/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-307j4dkbs-1730609044340.jpg?quality=75&strip=all&1730594675&w=1024"
+    },
+    {
+      "author": "Andreas Hale",
+      "content": "Two-time flyweight champion Brandon Moreno handed Amir Albazi his first loss with a high-volume striking clinic to earn a unanimous decision in the main event of UFC Fight Night at Rogers Place in Ed\u2026 [+3063 chars]",
+      "description": "Former champ Brandon Moreno kept himself firmly in the title picture with a one-sided decision victory over Amir Albazi in Saturday night's UFC main event.",
+      "publishedAt": "2024-11-03T05:07:00Z",
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "title": "'I want my title back': Moreno dominant in return - ESPN",
+      "url": "https://www.espn.com/mma/story/_/id/42159945/moreno-dominant-return-blanchfield-rallies-ufc-edmonton",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1103%2Fr1409636_1296x729_16%2D9.jpg"
+    },
+    {
+      "author": "",
+      "content": "Week 10 got off to a slow start, but things quickly snowballed in the Big 12 and ACC to completely shake up the College Football Playoff picture. Seven ranked teams ultimately fell by the final whist\u2026 [+8623 chars]",
+      "description": "The Rebels' offense finally hit high gear against an SEC foe in a 63-21 demolition of Arkansas",
+      "publishedAt": "2024-11-03T04:49:00Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "College football winners, losers in Week 10: Ole Miss sizzles in win, Nebraska still can't break through - CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-in-week-10-ole-miss-sizzles-in-win-nebraska-still-cant-break-through/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/03/db00bebb-a77e-4533-b769-4d9be57a75f7/thumbnail/1200x675/958625b39fc22f1b5f00acd002862205/jaxson-dart-wl-1.jpg"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-11-03T04:33:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Timothy W. Martin, Austin Ramzy",
+      "content": null,
+      "description": "Beijing, with waning influence and limited options to rein in unpredictable allies, may stick with status quo",
       "publishedAt": "2024-11-03T04:02:00Z",
       "source": {
         "id": "the-wall-street-journal",
@@ -11,46 +76,46 @@
       },
       "title": "China Faces a Dilemma With North Korean Troops Pouring Into Russia - The Wall Street Journal",
       "url": "https://www.wsj.com/world/china-faces-a-dilemma-with-north-korean-troops-pouring-into-russia-34f0532f",
+      "urlToImage": "https://images.wsj.net/im-36198258/social"
+    },
+    {
+      "author": "Sally Brompton",
+      "content": "Open this photo in gallery:Scorpio.iStockPhoto / Getty Images\r\nHOROSCOPES IF TODAY IS YOUR BIRTHDAY\r\nThe eyes of the world will be on you this year and if you make the most of your talents you could \u2026 [+3390 chars]",
+      "description": "Your daily horoscope",
+      "publishedAt": "2024-11-03T04:00:00Z",
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "title": "Your lookahead horoscope: November 3 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-november-3-2/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/NJJCPXZTTZAWPEWSR7U4DHYWEQ.png?auth=3107e3617eb00de782d9e34624621099e926c34ed6306bacda2372e6e60edd8c&width=1200&height=800&quality=80&smart=true"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-11-03T03:02:50Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
       "urlToImage": null
     },
     {
-      "author": "Yahoo Sports Staff",
-      "content": "Week 10 didn't look like a loaded schedule on paper, but the upsets were lurking all along.\r\nNo. 10 Texas A&amp;M was throttled in a 44-20 loss to unranked South Carolina, sending the top of the SEC \u2026 [+5274 chars]",
-      "description": "Three undefeated teams fell on Saturday.",
-      "publishedAt": "2024-11-03T03:54:00Z",
+      "author": "Patrick Marley, Yvonne Wingett Sanchez, Joel Achenbach, Molly Hennessy-Fiske",
+      "content": "To a striking extent, Americans are not waiting for Election Day to vote. More than 69 million people had already cast their ballots as of Friday, which is nearly 44 percent the total number cast in \u2026 [+10498 chars]",
+      "description": "As millions of Americans cast their ballots early, Election Day has morphed into Election Season.",
+      "publishedAt": "2024-11-03T02:33:51Z",
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "title": "College football scores, results No. 10 Texas A&M falls to South Carolina, No. 11 Clemson falls to Louisville - Yahoo Sports",
-      "url": "https://sports.yahoo.com/live/college-football-scores-results-no-10-texas-am-blown-out-by-south-carolina-no-11-clemson-falls-to-louisville-150014344.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XXHU.YWoyXVZBHc.LAk_Kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/10ae8940-9997-11ef-973d-1864ffcbba74"
-    },
-    {
-      "author": "Erin Moriarty, Paul LaRosa, Dena Goldstein",
-      "content": "On the afternoon of Thanksgiving Day 2021, Nanette Stuiber sat in her car and watched anxiously as EMTs and Montgomery County Sheriff Deputies descended on a house in the tiny village of Farmersville\u2026 [+33237 chars]",
-      "description": "During their first date, Leslie Reeves and Chris Smith were ambushed in his Illinois home \u2013 both shot in the head. A crime scene investigator described it as one of the most horrific crime scenes he's been to.",
-      "publishedAt": "2024-11-03T03:01:00Z",
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "title": "An Illinois couple's first date ended in horror after both were shot; only one survived. - CBS News",
-      "url": "https://www.cbsnews.com/news/leslie-reeves-illinois-chris-smith-bobby-tarr-first-date-ended-in-horror-both-were-shot-one-survived/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/30/6ac43398-2b3a-48c5-9ad6-217c05580fdc/thumbnail/1200x630/b2fe9b59bd1fa88b5d6020ddc01a261f/reeves-sneakpeek.jpg?v=379420b9063a2aadbcd559df18e2d1ae"
-    },
-    {
-      "author": "JON GAMBRELL",
-      "content": "DUBAI, United Arab Emirates (AP) Irans supreme leader on Saturday threatened Israel and the U.S. with a crushing response over attacks on Iran and its allies.\r\nAyatollah Ali Khamenei spoke as Iranian\u2026 [+4417 chars]",
-      "description": "Iran\u2019s supreme leader has threatened Israel and the U.S. with \u201ca crushing response\u201d over attacks on Iran and its allies. Ayatollah Ali Khamenei spoke Saturday as Iranian officials are increasingly threatening to launch yet another strike against Israel after \u2026",
-      "publishedAt": "2024-11-03T02:10:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Iran\u2019s supreme leader threatens Israel and US with \u2018a crushing response\u2019 over Israeli attack - The Associated Press",
-      "url": "https://apnews.com/article/iran-khamenei-israel-hamas-lebanon-war-30385c3a17d1fca9415eb37db86dc9c5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/068518d/2147483647/strip/true/crop/4408x2480+0+212/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F28%2Fa12104976912503ab25850ec8fed%2F495329dae95c4b25b7003509fe0b3d3e"
+      "title": "Early voting turnout high as almost 44% of 2020 electorate cast ballots - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2024/11/02/early-voting-election-2024/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PUTS7SMLYK6HPPCUTBX2UVR554_size-normalized.JPG&w=1440"
     },
     {
       "author": null,
@@ -66,147 +131,69 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fac0/live/0e8b3e10-9929-11ef-9260-19e6a950e830.jpg"
     },
     {
-      "author": "Laura Vozzella, Gregory S. Schneider",
-      "content": "RICHMOND Gov. Glenn Youngkin leads a purple state, but he rolled out the MAGA-red carpet for Donald Trump on Saturday, welcoming the former president to Salem with a roaring tribute and a hushed pray\u2026 [+7134 chars]",
-      "description": "Donald Trump\u2019s stop in Salem gave the Virginia governor another chance to showcase his newfound devotion to the nation\u2019s 45th president.",
-      "publishedAt": "2024-11-03T02:00:42Z",
+      "author": "Anna Young",
+      "content": "Shocking footage played in court showed the moment first responders said that Jordan Neely still had a pulse after former marine Daniel Penny put the troubled homeless man in a chokehold on a Manhatt\u2026 [+3175 chars]",
+      "description": "\u201cI feel a pulse,\u201d one officer said, as a second officer confirmed that Neely \u201chas a pulse.\u201d",
+      "publishedAt": "2024-11-03T02:00:40Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "New York Post"
       },
-      "title": "Youngkin, long coy about Trump, welcomes him to Virginia with tribute, prayer - The Washington Post",
-      "url": "https://www.washingtonpost.com/dc-md-va/2024/11/02/salem-virginia-trump-rally-youngkin/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UH5JEWHQZORAH4XZ67EGQ3MXZI.JPG&w=1440"
+      "title": "Shocking footage played at Daniel Penny trial shows officers saying Jordan Neely had a pulse - New York Post ",
+      "url": "https://nypost.com/2024/11/02/us-news/shocking-footage-shown-in-daniel-penny-trial-shows-moment-emts-said-jordan-neely-had-a-pulse/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/92924253.jpg?quality=75&strip=all&w=1024"
     },
     {
-      "author": "AAMER MADHANI, COLLEEN LONG, ZEKE MILLER, WILL WEISSERT",
-      "content": "NEW YORK (AP) Live from New York, its a presidential candidate scrounging for every vote in the final days before the election.\r\nVice President Kamala Harris made a surprise trip to New York City on \u2026 [+3525 chars]",
-      "description": "Live from New York, it\u2019s a presidential candidate scrounging for every vote in the final days before the election. Vice President Kamala Harris made a surprise trip to New York City on Saturday to appear on \u201cSaturday Night Live,\u201d briefly stepping away from th\u2026",
-      "publishedAt": "2024-11-03T01:51:00Z",
+      "author": "Charlie Carballo",
+      "content": "Image Credit: Gilbert Flores\r\nChlo\u00eb Sevigny, shoe detail, at the 2024 LACMA Art+Film Gala at the Los Angeles County Museum of Art on November 2, 2024 in Los Angeles, California.",
+      "description": "Visit the post for more.",
+      "publishedAt": "2024-11-03T01:39:00Z",
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Footwear News"
       },
-      "title": "Live from New York: Harris making surprise 'Saturday Night Live' appearance with election looming - The Associated Press",
-      "url": "https://apnews.com/article/harris-unscheduled-new-york-visit-f58069ca1db9ec077b092a52bd118ac5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9171023/2147483647/strip/true/crop/5766x3243+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2Fd4%2F6208679f64613d6312a854c20d5e%2F4d5597b91ec84a84bd36821895056fa4"
+      "title": "LACMA Art + Film Gala 2024 Red Carpet Shoes: Arrivals Photos, Live Updates - Footwear News",
+      "url": "https://footwearnews.com/gallery/lacma-art-and-film-gala-2024-shoes-red-carpet-photos/",
+      "urlToImage": "https://footwearnews.com/wp-content/uploads/2024/11/blake-lively-lacma.jpg"
+    },
+    {
+      "author": "Shane Galvin",
+      "content": "The owner of P\u2019nut the Squirrel gave a tearful statement on TikTok, Saturday about the tiny creatures death at the hands of New York State officials.\r\nMark Longo, joined by his\u00a0wife, sobbed through h\u2026 [+2326 chars]",
+      "description": "The owner\u00a0 of P\u2019nut the Squirrel gave a tearful statement on TikTok, Saturday about the tiny creature\u2019s death at the hands of New York State officials.",
+      "publishedAt": "2024-11-03T01:27:00Z",
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "title": "P\u2019nut the Squirrel\u2019s grieving family gives tearful statement on TikTok: \u2018I\u2019m sad, I\u2019m disgusted\u2019 - New York Post ",
+      "url": "https://nypost.com/2024/11/02/us-news/pnut-the-squirrels-grieving-family-gives-tearful-statement-on-tiktok-im-sad-im-disgusted/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/took-tiktok-speak-removal-home-92922378.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+      "author": "Ani Freedman",
+      "content": "For fitness enthusiasts, protein is important for muscle repair, recovery, and growth. But for many, eating high-protein has become such a focus of their diet, that they end up overdoing it on the nu\u2026 [+4643 chars]",
+      "description": "Experts weigh in as many people in the online fitness community seem obsessed with protein.",
+      "publishedAt": "2024-11-03T01:17:00Z",
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "title": "How much protein you need depends on your exercise routine - Fortune",
+      "url": "https://fortune.com/well/article/how-much-protein-you-need-workout-exercise/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-1611029341-e1730493334905.jpg?resize=1200,600"
     },
     {
       "author": null,
-      "content": "Spain is sending 5,000 more soldiers and 5,000 more police to the eastern region of Valencia after deadly floods this week that killed more than 200 people, Prime Minister Pedro S\u00e1nchez announced Sat\u2026 [+1959 chars]",
-      "description": "So far, 205 bodies have been recovered after the floods in Spain. Volunteers are helping clean up thick mud that is covering streets and businesses.",
-      "publishedAt": "2024-11-03T01:18:51Z",
+      "content": "A Georgia judge on Saturday rejected a Republican lawsuit trying to block counties from opening election offices on Saturday and Sunday to let voters hand in their mail ballots in person.\r\nThe lawsui\u2026 [+3271 chars]",
+      "description": "The judge rejected a Republican lawsuit trying to block counties from opening election offices on Saturday and Sunday to let voters hand in their mail ballots in person.",
+      "publishedAt": "2024-11-02T23:24:55Z",
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
-      "title": "Spain's deadly floods prompt government to send 10,000 soldiers, police to Valencia as death toll climbs to over 200 - CBS News",
-      "url": "https://www.cbsnews.com/news/spain-deadly-floods-soldiers-police-valencia/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/02/564393c6-0e8c-4d43-8bc1-911d3e95bb47/thumbnail/1200x630/668da8f01af61eaabcbb470bf766b362/ap24307370369562.jpg?v=379420b9063a2aadbcd559df18e2d1ae"
-    },
-    {
-      "author": null,
-      "content": "Soldiers from the Lebanese army surveyed the beach where the raid is said to have taken place\r\nThe Israeli military said a senior Hezbollah operative was captured in a naval raid in the northern Leba\u2026 [+2096 chars]",
-      "description": "The office of Lebanese Prime Minister Najib Mikati said the country would submit a complaint to the UN Security Council.",
-      "publishedAt": "2024-11-02T23:49:00Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Israel says Hezbollah operative captured in naval raid - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cm2zeyvpnkxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dae4/live/63585290-9954-11ef-9066-ade4b5fbebca.jpg"
-    },
-    {
-      "author": "NASCAR",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-11-02T23:42:34Z",
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "title": "High stakes, even higher pressure | NASCAR Official Xfinity Series Extended Highlights - NASCAR",
-      "url": "https://www.youtube.com/watch?v\\\\u003dZ6wFYvsFZlU",
-      "urlToImage": null
-    },
-    {
-      "author": "John Connolly",
-      "content": "Is today your lucky day?\r\nThe lottery jackpot was an estimated $54 million with a cash option of $25.8 million for Saturday night's drawing, according to the Powerball website.\u00a0\r\nThe jackpot was last\u2026 [+7331 chars]",
-      "description": "The lottery jackpot was an estimated $54 million for Saturday night's drawing.",
-      "publishedAt": "2024-11-02T23:31:44Z",
-      "source": {
-        "id": null,
-        "name": "NorthJersey.com"
-      },
-      "title": "Powerball winning numbers for Saturday, Nov. 2. Check tickets for $54 million jackpot - NorthJersey.com",
-      "url": "https://www.northjersey.com/story/news/nation/2024/11/02/powerball-winning-numbers-drawing-for-saturday-nov-2-2024/76018022007/",
-      "urlToImage": "https://www.northjersey.com/gcdn/authoring/authoring-images/2024/07/11/PNJM/74361136007-powerballtickets.jpg?crop=2832,1594,x0,y171&width=2832&height=1594&format=pjpg&auto=webp"
-    },
-    {
-      "author": null,
-      "content": "Margot Robbie has taken on her latest role: mom.\r\nThe Barbie star recently gave birth to her first child with husbandTom Ackerley, multiple outlets reported Nov. 2.\r\nAccording to People, the two welc\u2026 [+745 chars]",
-      "description": "Margot Robbie and Tom Ackerley, who got married in 2016, have welcomed their first baby together.",
-      "publishedAt": "2024-11-02T23:30:00Z",
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "title": "Margot Robbie Gives Birth, Welcomes First Baby With Husband Tom Ackerley - E! Online - E! NEWS",
-      "url": "https://www.eonline.com/news/1405041/margot-robbie-gives-birth-welcomes-first-baby-with-husband-tom-ackerley",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024113/cr_1200x1200-240213143314-Margot_Robbie_tom_Ackerley_GettyImages-1934241830.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
-    },
-    {
-      "author": null,
-      "content": "Early decisions gave way to entertaining finishes later in the slate as the prelims played out inside Rogers Place in Edmonton.\r\nCanada got on the board straight away with Jamey-Lyn Horth claiming a \u2026 [+818 chars]",
-      "description": "See The Fight Results, Watch Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Moreno vs Albazi, Live From Rogers Place In Edmonton, Canada",
-      "publishedAt": "2024-11-02T23:03:45Z",
-      "source": {
-        "id": null,
-        "name": "The Official Website of the Ultimate Fighting Championship"
-      },
-      "title": "Prelim Results | UFC Edmonton - UFC",
-      "url": "https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-edmonton-moreno-vs-albazi",
-      "urlToImage": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2024-11/072724-General-View-of-Rogers-Place-HERO-GettyImages-1164600122.jpg?itok=7FolmHzj"
-    },
-    {
-      "author": "Brianne Pfannenstiel",
-      "content": "<ul><li>Democrat Kamala Harris leads Donald Trump in Iowa 47% to 44%, a new Des Moines Register/Mediacom Iowa Poll shows.</li><li>A victory for Harris would be a shocking development after Iowa has s\u2026 [+12122 chars]",
-      "description": "The new Iowa Poll shows Kamala Harris leading Donald Trump by 3 points. Pollster J. Ann Selzer: \u201cIt\u2019s hard for anybody to say they saw this coming.\u201d",
-      "publishedAt": "2024-11-02T23:01:45Z",
-      "source": {
-        "id": null,
-        "name": "Des Moines Register"
-      },
-      "title": "Iowa Poll: Kamala Harris leapfrogs Donald Trump to take lead near Election Day. Here's how - Des Moines Register",
-      "url": "https://www.desmoinesregister.com/story/news/politics/iowa-poll/2024/11/02/iowa-poll-kamala-harris-leads-donald-trump-2024-presidential-race/75354033007/",
-      "urlToImage": "https://www.desmoinesregister.com/gcdn/authoring/authoring-images/2024/11/01/PDTF/75993612007-harris-434.png?crop=1799,1013,x0,y93&width=1799&height=1013&format=pjpg&auto=webp"
-    },
-    {
-      "author": "Nicole Fell",
-      "content": "With abortion on the ballot in several states in Tuesday\u2019s election, writer and director Nazrin Choudhury\u2019s Oscar-nominated short film Red, White and Blue about a single mother searching for access t\u2026 [+3500 chars]",
-      "description": "The short stars Brittany Snow as a single mother from Arkansas forced to cross state lines in order to find access to an abortion.",
-      "publishedAt": "2024-11-02T23:00:53Z",
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "title": "\u2018Red, White and Blue\u2019 Director on Why Getting Her Oscar-Nominated Short on YouTube Before Election Day Was So Important - Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/red-white-and-blue-director-oscar-nominated-short-election-day-1236051973/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/Brittany-Snow-Red-White-and-Blue-publicity-H-2024.png?w=1296&h=730&crop=1"
-    },
-    {
-      "author": "TERRY SPENCER",
-      "content": "FORT LAUDERDALE, Fla. (AP) A woman who pleaded guilty to dressing as a clown and in 1990 murdering the wife of a man she later married was released from prison Saturday, ending a case that has been s\u2026 [+4231 chars]",
-      "description": "A woman who pleaded guilty to dressing as a clown and in 1990 murdering the wife of a man she later married has been released from a Florida prison. Sheila Keen-Warren was released Saturday from a prison near Tallahassee. She pleaded guilty last year to secon\u2026",
-      "publishedAt": "2024-11-02T22:56:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Florida's convicted killer clown released from prison for the murder of her husband's then-wife - The Associated Press",
-      "url": "https://apnews.com/article/killer-clown-florida-sheila-warren-53f78ff2c505a277894a55b4cbd8e564",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e6d2215/2147483647/strip/true/crop/1124x632+0+434/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2F2b%2Fc76f27ace8693bfc238eda8375c3%2Ffafc894d853b441984a804bc3a310bb9"
+      "title": "Georgia judge rejects Republican lawsuit seeking to block acceptance of hand-returned mail ballots in Fulton County - CBS News",
+      "url": "https://www.cbsnews.com/news/georgia-judge-republican-lawsuit-hand-returned-mail-ballots-fulton-county/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/11/02/7149ed8d-e82f-4649-8a02-e240e98c71c4/thumbnail/1200x630/b43c79d2e327c63861de26be49810573/gettyimages-2181499757.jpg?v=379420b9063a2aadbcd559df18e2d1ae"
     },
     {
       "author": "Kelly Tyko",
@@ -235,17 +222,30 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/Apple-M4-Max-chip-CPU-performance_big.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
     },
     {
-      "author": "Johnny McGonigal | jmcgonigal@pennlive.com",
-      "content": "STATE COLLEGE James Franklin was booed, loudly and unapologetically, as he walked through Beaver Stadiums south end zone tunnel. Fans lined up behind metal guard rails in the concourse and let him he\u2026 [+4555 chars]",
-      "description": "James Franklin was booed by fans after Penn State's loss to Ohio State. His record against the Buckeyes is now 1-10.",
-      "publishedAt": "2024-11-02T21:47:00Z",
+      "author": "Sean Koerner",
+      "content": "NFL Week 9 has arrived, and I have some NFL player props to target for the ninth NFL Sunday of the season.\r\nLet's get into my NFL player props for Week 9, which include picks for a number of defensiv\u2026 [+6875 chars]",
+      "description": "NFL Week 9 has arrived, and I have some NFL player props to target for the ninth NFL Sunday of the season. Let\u2019s get into my NFL player",
+      "publishedAt": "2024-11-02T21:55:00Z",
       "source": {
         "id": null,
-        "name": "PennLive"
+        "name": "The Action Network"
       },
-      "title": "Penn State\u2019s James Franklin booed after another loss to Ohio State: \u2018I own it\u2019 - PennLive",
-      "url": "https://www.pennlive.com/pennstatefootball/2024/11/penn-states-james-franklin-booed-after-another-loss-to-ohio-state-i-own-it.html",
-      "urlToImage": "https://www.pennlive.com/resizer/v2/STJ2TEBZX5HGJPZJ4FBEOYSYAM.jpg?auth=fc514d8fccb717fa9382192cd5b8e3fef86d07401f1850a3d648171191cf6005&width=1280&quality=90"
+      "title": "NFL Player Props Week 9: Javonte Williams, Eric Kendricks, Nick Chubb, More - The Action Network",
+      "url": "https://www.actionnetwork.com/nfl/nfl-player-props-week-9-2",
+      "urlToImage": "https://images.actionnetwork.com/blog/2024/11/eric-kendricks.jpg"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-11-02T21:46:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
     },
     {
       "author": "JOSH FUNK",
@@ -262,5 +262,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 36
+  "totalResults": 35
 }
