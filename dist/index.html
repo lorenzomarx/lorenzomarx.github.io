@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Generative SVG Noise Pattern Maker 🎨</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="generator">
+  <svg class="generator__canvas" viewBox="0 0 200 200">
+    <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"></rect>
+  </svg>
+  <div class="[ stack ] [ generator__controls ]">
+    <!-- Pattern -->
+    <div class="generator__control generator__control--switch">
+      <p class="generator__control-label">Pattern</p>
+      <button class="switch-btn" aria-pressed="false" role="switch" aria-labelledby="patternLabel" id="modeSwitch">
+        <span class="switch-btn__marker"></span>
+        <span class="[ center-xy ] switch-btn__label">Lines</span>
+        <span class="[ center-xy ] switch-btn__label">Dots </span>
+      </button>
+    </div>
+    <!-- Grid size -->
+    <div class="generator__control generator__control--range">
+      <label class="generator__control-label" for="cellSizeSlider">Cell Size</label>
+      <input class="range-input" type="range" name="cellSize" id="cellSizeSlider" aria-labelledby="cellSizeLabel" min="0" max="3" step="1" value="0">
+    </div>
+    <!-- Variance -->
+    <div class="generator__control generator__control--range">
+      <label class="generator__control-label" for="variance">Variance</label>
+      <input class="range-input" type="range" name="variance" id="variance" min="0" max="1" value="0.5" step="0.1">
+    </div>
+    <!-- Color -->
+    <div class="generator__control generator__control--color">
+      <label class="generator__control-label" for="color">Color</label>
+      <input type="color" name="color" id="color" value="#1a1a1a">
+    </div>
+    <div class="generator__buttons">
+      <button class="generate">Regenerate</button>
+      <button class="clipboard">Copy SVG</button>
+    </div>
+  </div>
+
+</div>
+<div class="wave">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="xMidYMid slice">
+    <path fill="#0099ff" fill-opacity="1" d="M0,192L48,197.3C96,203,192,213,288,229.3C384,245,480,267,576,250.7C672,235,768,181,864,181.3C960,181,1056,235,1152,234.7C1248,235,1344,181,1392,154.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+  </svg>
+  <div></div>
+</div>
+<!-- partial -->
+  <script type="module" src="./script.js"></script>
+
+</body>
+</html>
