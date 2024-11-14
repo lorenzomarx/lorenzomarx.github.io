@@ -2,43 +2,67 @@
   "articles": [
     {
       "author": "Reuters",
-      "description": "Israel's defence minister ruled out any ceasefire in Lebanon until Israel's goals had been met.",
-      "publishedAt": "2024-11-12T09:43:06Z",
-      "title": "Israeli airstrikes hit Beirut suburbs",
-      "url": "https://www.reuters.com/world/middle-east/israeli-airstrikes-hit-beirut-suburbs-2024-11-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KRVJKYWO2ZM23FDUVD4ZQRJN4Q.jpg?auth=cba5f7c784a2b9c28ac4e267e88703be244318f0c93cc6581e64a8b964eb418a&height=1005&width=1920&quality=80&smart=true"
+      "description": "Israel launched a major air and ground offensive against the Iran-backed group Hezbollah in late September.",
+      "publishedAt": "2024-11-13T09:58:35Z",
+      "title": "Lebanon awaits truce proposals after US envoy expresses hope",
+      "url": "https://www.reuters.com/world/middle-east/lebanon-awaits-truce-proposals-after-us-envoy-expresses-hope-2024-11-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/UPNVYBXAEJL3PK6UZLNWT6MQLE.jpg?auth=6f5d22a2fe5c74d1e7e73cab7b6260bf474cb3e09447e926a9ae6facf805474c&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Jeff Mason",
+      "description": "President Joe Biden will host President-elect Donald Trump at the White House on Wednesday for a meeting designed to demonstrate a smooth transition between administrations despite Trump's team not yet having signed documents to start the handover process.",
+      "publishedAt": "2024-11-13T10:01:49Z",
+      "title": "Biden, Trump to meet at White House for transition talks after Harris defeat",
+      "url": "https://www.reuters.com/world/us/biden-trump-meet-white-house-transition-talks-after-harris-defeat-2024-11-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MKUQHKZTUFINZEQJLG6JQRTTYI.jpg?auth=54d20294183e2388fd5d88eb186a8c1c46da9e3c7afcc2a9d1d3c90f0c568de6&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli forces deepened their incursion into Beit Hanoun town in the north, forcing most remaining residents to leave.",
+      "publishedAt": "2024-11-13T10:28:21Z",
+      "title": "Israeli forces kill 14 people in Gaza, force new displacement in the north",
+      "url": "https://www.reuters.com/world/middle-east/israeli-forces-kill-14-people-gaza-force-new-displacement-north-2024-11-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/TUB4R2SZJRMCBFM3GI66MNSXDA.jpg?auth=d585c418e58585b9eb981ddc15c52c1cea7374cc8ad4c7994654e918e5f7c8e7&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "David Lague",
+      "description": "Modernized versions of China\u2019s H-6 bomber are capable of launching ballistic missiles with nuclear warheads.",
+      "publishedAt": "2024-11-13T06:12:16Z",
+      "title": "Cold War bomber enhances China\u2019s ability to strike U.S. bases",
+      "url": "https://www.reuters.com/world/cold-war-bomber-enhances-chinas-ability-strike-us-bases-2024-11-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/X2LMAR6CURMDFBS3VO4I77TLQM.jpg?auth=1ca34bb0ad11d0c3c1394ddfd6df64393521b55358ab6d633bc128fea471a1a9&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "David Kirton, Nicoco Chan",
+      "description": "The attack happened as Zhuhai captured China\u2019s attention with the largest aviation exhibition.",
+      "publishedAt": "2024-11-13T00:52:21Z",
+      "title": "Zhuhai car attack: China clears memorial as government scrambles to respond",
+      "url": "https://www.reuters.com/world/china/chinas-leaders-urge-investigation-into-zhuhai-car-attack-that-killed-35-2024-11-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4T6ZFTKBOZKBTMTA3V6HFLKYZE.jpg?auth=4f0d291b051e1ab8b6d931baf30636bd22bcb426096d44b4a9a8bd9858f51df2&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Ope Adetayo",
+      "description": "Unrelenting price rises and a brutal insurgency had already made it hard for Nigerians in northeastern Borno State to feed their families. When a dam collapsed in September, flooding the state capital and surrounding farmland, many people ran out of options.",
+      "publishedAt": "2024-11-13T07:06:16Z",
+      "title": "Millions of Nigerians go hungry as floods compound hardship",
+      "url": "https://www.reuters.com/world/africa/millions-nigerians-go-hungry-floods-compound-hardship-2024-11-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ZTA2SOQSIFIDVMFOYKRV5C5I24.jpg?auth=52f599ee266836f0f22c166e90a50fc5d1609ecff1f01b3af7b7f2a439511c5c&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Lucinda Elliott",
+      "description": "World leaders are heading to South America for twin summits this month, with one major theme dominating: Donald Trump 2.0.",
+      "publishedAt": "2024-11-13T10:05:13Z",
+      "title": "Trump 2.0 looms as world leaders head to South America for summits",
+      "url": "https://www.reuters.com/world/trump-20-looms-world-leaders-head-south-america-summits-2024-11-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VQ74J2RPAFN23PN54I2UCCU274.jpg?auth=6021ed0ca487052ed79fcf5404aae3d5db72e85b04cd7b92c8d1d7f6947ed0b7&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "A hit-and-run attack at a sports centre in the southern Chinese city of Zhuhai killed 35 people and severely injured 43, local police said on Tuesday.",
-      "publishedAt": "2024-11-12T03:00:19Z",
-      "title": "Hit-and-run attack in southern China's Zhuhai kills 35",
-      "url": "https://www.reuters.com/world/china/chinese-police-detain-man-after-hit-and-run-attack-leaves-several-wounded-2024-11-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ZQ6M6BTEB5PSHJSIZN6ZPMCOFE.jpg?auth=1a394cd98143e7cc68ee715ecdf5eb335d9a6c25d47084e3dc3be573bcaad6b5&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Ted Hesson",
-      "description": "Donald Trump is expected to take a slew of executive actions on his first day in the White House to ramp up immigration enforcement and roll back President Joe Biden\u2019s flagship legal entry programs, three sources familiar with the matter told Reuters.",
-      "publishedAt": "2024-11-12T11:05:00Z",
-      "title": "Trump\u2019s Day One: Deportations, border wall",
-      "url": "https://www.reuters.com/world/us/trumps-day-one-deportations-border-wall-scrapping-biden-humanitarian-programs-2024-11-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/DJYXKRJ4VJIU5HK2BYRP5VZLBM.jpg?auth=9797f191f388ed771f50a5c3f6cff3be3030431f7a7ce6bccc5e8ac0787d4617&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Andrew Macaskill, Muvija M",
-      "description": "Welby resigned \"in sorrow\", saying he had failed to ensure there was a proper investigation into allegations of abuse by a volunteer at Christian summer camps decades ago.",
-      "publishedAt": "2024-11-12T14:05:36Z",
-      "title": "Justin Welby resigns as Archbishop of Canterbury over abuse scandal",
-      "url": "https://www.reuters.com/world/uk/justin-welby-resigns-archbishop-canterbury-2024-11-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OW6EQWAYPZKMFF7G3HH2KP27OQ.jpg?auth=1b0c5f7ca423f8e5e81aa8a8453c37050f236fe2dcf7ff8ef479d7e2caed2d05&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Richard Valdmanis",
-      "description": "U.N. atomic watchdog chief Rafael Grossi appealed to Iran's leadership on Tuesday to take steps to resolve longstanding issues with his agency a day before he arrives in the Iranian capital for crunch talks over its nuclear programme.",
-      "publishedAt": "2024-11-12T18:47:28Z",
-      "title": "'Help us,' UN nuclear watchdog chief tells Iran ahead of visit",
-      "url": "https://www.reuters.com/world/middle-east/help-us-un-nuclear-watchdog-chief-tells-iran-ahead-visit-2024-11-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XEW4OBPUORMFTBVVSE33A3R3CQ.jpg?auth=e1b7681b130a7353309ce0f30cb9cd266348d097d9833e86f23e16328a157a96&height=1005&width=1920&quality=80&smart=true"
+      "description": "The United States wants real and extended pauses in fighting in Gaza so assistance can get to people who need it, but the best way to help people would be to end the war, U.S. Secretary of State Antony Blinken said on Wednesday.",
+      "publishedAt": "2024-11-13T10:43:46Z",
+      "title": "US wants real, extended pauses in fighting in Gaza, Blinken says",
+      "url": "https://www.reuters.com/world/us-wants-real-extended-pauses-fighting-gaza-blinken-says-2024-11-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/BQQIRYHXSRLRNG6ATXDPSIL3PA.jpg?auth=acef554a2a507403c8d899bd8a80f20b58e3c099ea7b64b065e0c22f228479b0&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -50,34 +74,10 @@
     },
     {
       "author": "Reuters",
-      "description": "South Korea's military said it will hold a three-day joint exercise with the United States and Japan starting on Wednesday, featuring fighter jets and marine patrol aircraft as well as the U.S. nuclear-powered aircraft carrier USS George Washington.",
-      "publishedAt": "2024-11-13T01:51:13Z",
-      "title": "U.S. aircraft carrier joins military drills with South Korea and Japan",
-      "url": "https://www.reuters.com/world/us-aircraft-carrier-joins-military-drills-with-south-korea-japan-2024-11-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XVRHNPAJIVOW7GUF6CFE2LS2H4.jpg?auth=8f5e6fd3f38a01bf781124d35bc061803834cd4c6fa8571e76cb93408e44bc70&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Mexican law enforcement announced on Tuesday the arrest of a top municipal security official for the assassination of the mayor of the capital of the violence-plagued state of Guerrero.",
-      "publishedAt": "2024-11-13T01:13:08Z",
-      "title": "Mexico arrests local security chief for murder of Chilpancingo mayor",
-      "url": "https://www.reuters.com/world/americas/mexico-arrests-local-security-chief-murder-chilpancingo-mayor-2024-11-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Muvija M",
-      "description": "The archbishop of Canterbury, Justin Welby, resigned over an abuse cover-up scandal on Tuesday, marking an unprecedented moment for the Church of England.",
-      "publishedAt": "2024-11-12T20:19:51Z",
-      "title": "How will the next leader of the Church of England be picked?",
-      "url": "https://www.reuters.com/world/uk/how-will-next-leader-church-england-be-picked-2024-11-12/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/6PJXGRJPORPPFIIXN3FRZRNJIY.jpg?auth=0b9d87e03ed72a063a486bf875decc1f35e978d501bf59179b7996fe50a31d76&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Steven Scheer",
-      "description": "Israeli Prime Minister Benjamin Netanyahu said in a direct message to Iranians on Tuesday that Supreme Leader Ayatollah Ali Khamenei's government feared the people of Iran more than Israel.",
-      "publishedAt": "2024-11-12T18:29:54Z",
-      "title": "Netanyahu says Iran's government fears its people more than Israel",
-      "url": "https://www.reuters.com/world/middle-east/netanyahu-says-irans-government-fears-its-people-more-than-israel-2024-11-12/",
+      "description": "North Korean soldiers have engaged in combat operations against Ukraine alongside their Russian allies, South Korea's spy agency said on Wednesday.",
+      "publishedAt": "2024-11-13T10:19:04Z",
+      "title": "South Korea says North Korean soldiers are fighting Ukraine forces",
+      "url": "https://www.reuters.com/world/europe/south-korea-says-north-korean-soldiers-are-fighting-ukraine-forces-2024-11-13/",
       "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     }
   ],
