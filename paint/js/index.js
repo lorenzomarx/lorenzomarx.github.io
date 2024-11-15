@@ -73,7 +73,7 @@ function preload(){
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
   backgrounds = [junglist]
-  stickers = [hemi]
+  stickers = [junglist]
 }
 
 function setup() {
