@@ -73,7 +73,7 @@ function preload(){
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
   backgrounds = [junglist]
-  stickers = [junglist]
+  stickers = [queen]
 }
 
 function setup() {
@@ -320,7 +320,7 @@ function keyPressed() {
         abc=abs(Math.sin(v[index].heading()))*5;
         rotate(v[index].heading());
         noStroke();
-        fill(this.five)
+        fill(this.five);
         beginShape();
         vertex(0,0);
         vertex(scl - 5, 5+abc);
