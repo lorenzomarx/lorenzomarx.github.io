@@ -1,6 +1,84 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "Another dangerous storm is barrelling towards the Philippines, threatening an area where dozens of people were killed by flash floods and landslides just weeks ago, the weather service said.\r\nTyphoon\u2026 [+2355 chars]",
+      "description": "Series of storms triggered flash floods and landslides, killing dozens, displacing thousands and destroying homes.",
+      "publishedAt": "2024-11-15T09:52:45Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "New storm bears down on the Philippines after Typhoon Usagi wrecked havoc",
+      "url": "https://www.aljazeera.com/gallery/2024/11/15/new-storm-bears-down-on-the-philippines-after-typhoon-usagi-wrecked-havoc",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/12629790-1731655659.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Sarah Shamim",
+      "content": "The United Kingdom will study whether the use of weight loss drugs could get people back to work.\r\nUK Health Minister Wes Streeting announced last month that US drug manufacturer Eli Lilly will begin\u2026 [+7329 chars]",
+      "description": "US pharmaceuticals group Eli Lilly is to conduct trials of its weight-loss drugs in the UK.",
+      "publishedAt": "2024-11-15T09:05:44Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Could weight loss drugs fix UK\u2019s unemployment problem?",
+      "url": "https://www.aljazeera.com/economy/2024/11/15/could-weight-loss-drugs-fix-uks-unemployment-problem",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/shutterstock_2459298149-1731576693.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "South Koreas main opposition leader, Lee Jae-myung, has been convicted on charges of violating the countrys election law and handed a one-year suspended prison sentence.\r\nThe Seoul Central District C\u2026 [+2450 chars]",
+      "description": "Lee Jae-myung says he will appeal the court's decision, which could bar him from running for president in 2027.",
+      "publishedAt": "2024-11-15T08:21:39Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "South Korean opposition leader convicted for violating election law",
+      "url": "https://www.aljazeera.com/news/2024/11/15/south-korean-opposition-leader-convicted-for-violating-election-law",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/12629854-1731654030.jpg?resize=1200%2C675"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Thousands of people have joined a nine-day march towards New Zealands capital over a contentious bill redefining the countrys founding agreement between the British and the Indigenous Maori people.\r\n\u2026 [+2348 chars]",
+      "description": "Controversial legislation revises the 184-year-old Treaty of Waitangi granting Maori tribes land rights.",
+      "publishedAt": "2024-11-15T07:57:28Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Thousands march on New Zealand capital against Indigenous treaty overhaul",
+      "url": "https://www.aljazeera.com/news/2024/11/15/thousands-march-on-new-zealand-capital-against-indigenous-treaty-overhaul",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24319217400552-1731648704.jpg?resize=1200%2C675"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "North Korean leader Kim Jong Un has called for accelerating the mass production of attack drones, according to state media, as international concerns mount over the countrys deepening military cooper\u2026 [+2322 chars]",
+      "description": "The unmanned drones are designed to carry explosives and can hit land and sea targets.",
+      "publishedAt": "2024-11-15T07:40:03Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "North Korea\u2019s Kim orders mass production of attack drones: State media",
+      "url": "https://www.aljazeera.com/news/2024/11/15/north-koreas-kim-orders-mass-production-of-attack-drones-state-media",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AFP__20241115__36MH9VU__v1__HighRes__NkoreaMilitaryDrones-1731650981.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Dorian Geiger",
+      "content": "Brooklyn, New York An incinerated, rusty microwave, the charred skeleton of a lawn chair, a pile of melted clothes, and singed scraps of the Holy Bible sat ominously on the forest floor, alongside a \u2026 [+11854 chars]",
+      "description": "For millions of New Yorkers in the concrete jungle and beyond, the spate of wildfires at their backdoor was unthinkable.",
+      "publishedAt": "2024-11-15T07:30:51Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "\u2018Dante\u2019s inferno\u2019: Wildfires scorch New York amid historic drought",
+      "url": "https://www.aljazeera.com/features/2024/11/15/dantes-inferno-wildfires-scorch-new-york-amid-historic-drought",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/C80A4716-1731647511.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Erin Hale",
       "content": "As United States President-elect Donald Trump prepares to return to the White House, TikTok could be in line for a reprieve from the very leader who led the charge to ban the embattled video-sharing \u2026 [+5003 chars]",
       "description": "Trump has pledged to 'save' popular Chinese-owned app despite signing an order to ban it during his first term.",
@@ -1221,86 +1299,8 @@
       "title": "US reiterates support for Ukraine amid uncertainty over Trump stance",
       "url": "https://www.aljazeera.com/news/2024/11/13/us-reiterates-support-for-ukraine-amid-uncertainty-over-trump-stance",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/2024-11-13T082846Z_1880816173_RC284BA348AZ_RTRMADP_3_UKRAINE-CRISIS-NATO-US-1731494611.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "AJLabs",
-      "content": "United States President-elect Donald Trump has started selecting his cabinet and other senior administration officials after his election victory on November 5.\r\nTrump must appoint about 4,000 offici\u2026 [+6066 chars]",
-      "description": "Trump must appoint about 4,000 officials, including the heads of the 15 executive departments that make up the cabinet.",
-      "publishedAt": "2024-11-13T11:54:32Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Who are Trump\u2019s picks for his cabinet and administration?",
-      "url": "https://www.aljazeera.com/news/2024/11/13/who-are-trumps-picks-for-his-cabinet-and-administration",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/INTERACTIVE-US-elections-2024-executives-1731483667.png?resize=1200%2C630"
-    },
-    {
-      "author": "Madeline Edwards",
-      "content": "Ain Yaaqoub, Lebanon Shredded clothing, dusty broken table legs, torn copies of the Quran, a red I love you teddy bear and a book on Aristotle amid piles of socks these, among many other things, lie \u2026 [+8496 chars]",
-      "description": "The villagers of Ain Yaaqoub spent days identifying charred remains. They fear Israel was targeting displaced people.",
-      "publishedAt": "2024-11-13T11:43:31Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Deadly Israeli strike shatters sense of \u2018safety\u2019 in remote north Lebanon",
-      "url": "https://www.aljazeera.com/features/2024/11/13/after-attack-north-lebanon-villagers-fret-israel-targets-displaced-people",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/RMW02827-1-1731496078.jpg?resize=1200%2C630"
-    },
-    {
-      "author": "Alex Gatopoulos",
-      "content": "NATO has now confirmed the presence of North Korean troops in Russia.\r\nWhile rumoured to have been there for some months, there is growing evidence that up to 10,000 soldiers, accompanied by senior s\u2026 [+6627 chars]",
-      "description": "Soldiers from the isolated communist state have no experience in modern warfare and a lot to learn on the battlefield.",
-      "publishedAt": "2024-11-13T09:32:04Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "What do we know about the North Korean troops joining Russia\u2019s war?",
-      "url": "https://www.aljazeera.com/news/2024/11/13/what-do-we-know-about-the-north-korean-troops-joining-russias-war",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/2024-11-09T193631Z_2139960754_RC2TE8ADNJW1_RTRMADP_3_RUSSIA-NORTHKOREA-PUTIN-1731487599.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Shola Lawal",
-      "content": "Amid escalating regional tensions, voters in the self-declared state of Somaliland will vote on Wednesday in its fourth general election since its 1991 break from Somalia. While Somaliland now has it\u2026 [+10939 chars]",
-      "description": "Small Somaliland is positioned in the middle of a regional spat that some experts fear could escalate further.",
-      "publishedAt": "2024-11-13T09:00:23Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Somaliland goes to the polls amid Ethiopia-Somalia port deal row",
-      "url": "https://www.aljazeera.com/news/2024/11/13/somaliland-goes-to-the-polls-amid-ethiopia-somalia-port-deal-row",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AFP__20241109__36LV93D__v1__HighRes__SomaliaSomalilandPoliticsElection-1731418836.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "The pro-Western president of Palau has hit out at China as his re-election was confirmed.\r\nThe electoral committee formally declared President Surangel Whipps Jrs victory in the vote on Wednesday. He\u2026 [+2038 chars]",
-      "description": "Pro-US President Surangel Whipps Jr, whose nation recognises Taiwan, joins complaints over Beijing's maritime claims.",
-      "publishedAt": "2024-11-13T08:58:31Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Palau president hits out at China as re-election confirmed",
-      "url": "https://www.aljazeera.com/news/2024/11/13/palau-president-hits-out-at-china-as-re-election-confirmed",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AFP__20240615__34WV67U__v1__Preview__SwitzerlandUkraineRussiaConflictDiplomacyPeace-1731488105.jpg?resize=1200%2C630"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Voting is under way in presidential elections in Somalias breakaway region of Somaliland.\r\nMore than 1 million people are expected to cast votes on Wednesday at more than 2,000 polling stations.\r\nEye\u2026 [+2232 chars]",
-      "description": "Voting begins in Somaliland amid regional tensions and hopes for international recognition after 30 years of self-rule.",
-      "publishedAt": "2024-11-13T08:30:28Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Somaliland eyes recognition as it goes to polls",
-      "url": "https://www.aljazeera.com/news/2024/11/13/somaliland-eyes-recognition-as-it-goes-to-polls",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/somaliland-1731481167.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1533
+  "totalResults": 1489
 }
