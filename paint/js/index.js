@@ -73,7 +73,7 @@ function preload(){
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
   backgrounds = [junglist]
-  stickers = [queen]
+  stickers = [junglist]
 }
 
 function setup() {
@@ -147,6 +147,7 @@ function draw() {
         abc=abs(Math.sin(v[index].heading()))*5;
         rotate(v[index].heading());
         noStroke();
+        fill(this.five)
         beginShape();
         vertex(0,0);
         vertex(scl - 5, 5+abc);
@@ -160,7 +161,6 @@ function draw() {
     }
     z += 0.002;
     textSize(32);
-    fill(r,g,b,opacity);
   }
   push();
   stroke(this.four);
@@ -320,7 +320,7 @@ function keyPressed() {
         abc=abs(Math.sin(v[index].heading()))*5;
         rotate(v[index].heading());
         noStroke();
-        fill(this.five);
+        fill(this.five)
         beginShape();
         vertex(0,0);
         vertex(scl - 5, 5+abc);
@@ -352,6 +352,14 @@ function keyPressed() {
     blendMode(MULTIPLY);
   }
   if (key === 'z') {
+    translate(width / 2, height / 2); // Move the origin to the center
+  let radius = 300;
+  for (let i = 0; i < 100; i++) {
+    let angle = map(i, 0, 100, 0, TWO_PI);
+    let x = radius * cos(angle);
+    let y = radius * sin(angle);
+    ellipse(x, y, 50, 50); // Draw circles in a circular pattern
+  }
     blendMode(MULTIPLY);
   }
 }
