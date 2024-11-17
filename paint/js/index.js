@@ -162,20 +162,7 @@ function draw() {
     z += 0.002;
     textSize(32);
   }
-  push();
-  stroke(this.four);
-  noFill();
-  angleMode(RADIANS);
-  strokeWeight(canSize);
-  beginShape();
-    for (var i = 0; i <= totalPoints; i++) {
-      var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
-      var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
-      curveVertex(x, y, 10, 10);
-    }
-  endShape(CLOSE);
-  noiseFactor += 0.1;
-  pop();
+
 }
 
 function handleFile() {
@@ -216,18 +203,7 @@ $('#newimages').click(function(){
 //}
 
 function keyPressed() {
-  if (key === '0') {
-    fill(r,g,b,opacity);
-    noStroke();
-    beginShape();
-      for (var i = 0; i <= totalPoints; i++) {
-        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
-        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
-        curveVertex(x, y, 10, 10);
-      }
-    endShape(CLOSE);
-    noiseFactor += 0.1;
-  }
+
   if (key === '4') {
     fill(TagColour);
     var c = mouseX;
@@ -307,34 +283,6 @@ function keyPressed() {
     noiseFactor += 0.1;
   }
 
-  if (key === 'b') {
-    let abc=0;
-    for (let i = 0; i < H; i++) {
-      for (let j = 0; j < W; j++) {
-        let index = i * W + j;
-        let y = i * scl;
-        let x = j * scl;
-
-        push();
-        translate(x+scl/2, y);
-        abc=abs(Math.sin(v[index].heading()))*5;
-        rotate(v[index].heading());
-        noStroke();
-        fill(this.five)
-        beginShape();
-        vertex(0,0);
-        vertex(scl - 5, 5+abc);
-        vertex(scl+abc, 0);
-        vertex(scl - 5, -5-abc);
-        endShape(CLOSE);
-        pop();
-        let a = noise(j / 100, i / 100, z) * TWO_PI * 7;
-        v[index] = p5.Vector.fromAngle(a);
-      }
-    }
-    z += 0.002;
-    textSize(32);
-  }
 
   if (key === 'w') {
     let randoImg = random(backgrounds)
@@ -352,14 +300,7 @@ function keyPressed() {
     blendMode(MULTIPLY);
   }
   if (key === 'z') {
-    translate(width / 2, height / 2); // Move the origin to the center
-  let radius = 300;
-  for (let i = 0; i < 100; i++) {
-    let angle = map(i, 0, 100, 0, TWO_PI);
-    let x = radius * cos(angle);
-    let y = radius * sin(angle);
-    ellipse(x, y, 50, 50); // Draw circles in a circular pattern
-  }
+
     blendMode(MULTIPLY);
   }
 }
