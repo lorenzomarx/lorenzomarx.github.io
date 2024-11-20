@@ -1,12 +1,28 @@
 {
   "articles": [
     {
+      "author": "Tom Balmforth, Olena Harmash",
+      "description": "Ukraine used U.S. ATACMS missiles to strike Russian territory for the first time, Moscow said, in a major escalation on the war's 1,000th day.",
+      "publishedAt": "2024-11-18T22:07:22Z",
+      "title": "Ukraine hits Russia with US missiles for first time on war's 1,000th day",
+      "url": "https://www.reuters.com/world/europe/ukraine-marking-1000-days-russian-invasion-eyes-end-war-next-year-2024-11-18/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XBARX7LITVLOTMWUEHWSXAGODE.jpg?auth=b138178667587331db7f3ba8d066e150ef81aa0b9a2b8378b2b0838a004b2e98&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "James Pomfret, Jessie Pang",
       "description": "Hundreds queued on Tuesday outside a Hong Kong court ahead of the sentencing of 45 pro-democracy activists in a landmark national security trial that has damaged the city's once feisty pro-democracy movement and drawn international criticism.",
       "publishedAt": "2024-11-19T01:01:24Z",
       "title": "Hundreds queue for sentencing of 47 Hong Kong democrats",
       "url": "https://www.reuters.com/world/asia-pacific/hundreds-queue-sentencing-47-hong-kong-democrats-2024-11-19/",
       "urlToImage": "https://www.reuters.com/resizer/v2/JTJYM2POPNOLDJHFG2H7D3KPSE.jpg?auth=30c89c137e61ae35adab5074e40a9c366a9f91cfbd5dd7cd53fca2ba2ca97575&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Maya Gebeily",
+      "description": "Intensifying efforts for a truce in Lebanon have brought into focus the role of the country's army, which would be expected to keep the south free of Hezbollah weapons but is neither willing nor able to confront the Iran-backed group, seven sources said.",
+      "publishedAt": "2024-11-19T13:39:02Z",
+      "title": "As truce talks progress, Lebanon's army cornered by politics, funding",
+      "url": "https://www.reuters.com/world/middle-east/truce-talks-progress-lebanons-army-cornered-by-politics-funding-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Jake Spring, Anthony Boadle",
@@ -17,68 +33,52 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/2TAUO2Z36BNJFKLTOY6ET5OPYA.jpg?auth=4f33a152df9a0dd976a169d16f3fd450d4956a1ed9bcb7a8badf2811f214ef35&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Emma Farge",
-      "description": "A top Ukrainian diplomat warned against any appeasement of Russian President Vladimir Putin, saying that the latest deadly attacks on Ukraine showed he had no desire for peace, and asked allies for further help.",
-      "publishedAt": "2024-11-19T08:03:49Z",
-      "title": "Ukraine envoy warns against 'appeasement' of Putin as war drags on",
-      "url": "https://www.reuters.com/world/europe/ukraine-envoy-warns-against-appeasement-putin-war-drags-2024-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/6MCWFLQ4UFLA5IU6XFARWRQH4E.jpg?auth=ba9ae49aa780dad175b8b96484e5ea61f0a068b04d0e53c4a2431904f446cb3f&height=1005&width=1920&quality=80&smart=true"
+      "author": "Nidal Al-Mughrabi",
+      "description": "Fighters from Hamas and other Gaza factions have formed an armed force to prevent gangs pillaging aid convoys in the embattled territory, residents and sources close to the group said, after a big increase in the looting of scarce supplies.",
+      "publishedAt": "2024-11-19T14:55:44Z",
+      "title": "Hamas-led force targets gangs looting Gaza aid convoys",
+      "url": "https://www.reuters.com/world/middle-east/hamas-led-force-targets-gangs-looting-gaza-aid-convoys-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/3HRJJVBOMZMNFIMSDI5NKBZCPU.jpg?auth=82020510dcbba5d7a5bd8af142f15bf14aee0479fbb9d894bb229ec5e3aeae2f&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "The Hamas attack on Israel that triggered the Gaza war has stirred debate among the enclave's Palestinian clerics, with some saying it was not worth the heavy civilian death toll and others declaring the Oct. 7, 2023 assault was a Muslim duty.",
+      "publishedAt": "2024-11-19T11:27:46Z",
+      "title": "Hamas attack on Israel stirs controversy among Gaza clerics",
+      "url": "https://www.reuters.com/world/middle-east/hamas-attack-israel-stirs-controversy-among-gaza-clerics-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ZOAN5PLQCFPGBOIXR4GN76V7GY.jpg?auth=3bcdb24454d65d97c09be0017be2bec526bb7b83de8e7858dbb2c4951b77bbe4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Maya Gebeily, Riham Alkousaa",
+      "description": "A senior U.S. official said on Tuesday there was a \"real opportunity\" to end the conflict between Israel and Hezbollah and that gaps were narrowing, signalling progress in Washington's efforts to clinch a ceasefire agreement.",
+      "publishedAt": "2024-11-19T11:44:19Z",
+      "title": "US envoy says end to Israel-Hezbollah war 'within our grasp'",
+      "url": "https://www.reuters.com/world/middle-east/us-envoy-says-end-israel-hezbollah-war-within-our-grasp-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ECKOPWEHSFK6VLV2WWNEDNDHQE.jpg?auth=15c22f53fe5c30060e27ea12ac4742cd78944d28aa929df9ea60fdcd596c2675&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Residents in India's northern states woke up to another day of poor air quality on Tuesday, as a layer of dense fog shrouded most of the region, and pollution in the capital Delhi remained severe.",
-      "publishedAt": "2024-11-19T04:36:29Z",
-      "title": "Toxic smog persists over India's north; Delhi pollution remains severe",
-      "url": "https://www.reuters.com/world/india/toxic-smog-persists-over-indias-north-delhi-pollution-remains-severe-2024-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/VNZHI65LGVPS3AP3ME2ODPXD3M.jpg?auth=4b6e6fcb301a98936921c2a03642976750ab57249f98418b932fe48b76e5ecb3&height=1005&width=1920&quality=80&smart=true"
+      "description": "Groups of European countries agreed on Tuesday to work together to develop missile defence, electronic warfare and other military assets as part of a drive to foster closer defence cooperation between national governments.",
+      "publishedAt": "2024-11-19T16:18:21Z",
+      "title": "EU nations team up to develop air defence, other weapons",
+      "url": "https://www.reuters.com/world/europe/eu-nations-team-up-develop-air-defence-other-weapons-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/WNBTPJ3A7VK2DNIBBWDKZ2ASKM.jpg?auth=770d3afe0d3434d8e5602a2e6c30ce8f7b8603e022f842147e4ea53f7126cbda&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "United States Defense Secretary Lloyd Austin said on Tuesday the Mutual Defense Treaty between Washington and Manila applies to armed attack in the South China Sea.",
-      "publishedAt": "2024-11-19T06:33:04Z",
-      "title": "U.S. defence chief says treaty with Philippines covers armed attacks in South China Sea",
-      "url": "https://www.reuters.com/world/us-defence-chief-says-treaty-with-philippines-covers-armed-attacks-south-china-2024-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KDPS4VF4BVIA3A42PRPCFBJ7R4.jpg?auth=a197d6e479174fa8d048ccf4f99ddbb7261672b47cc7e3ff5e68c05913e664a5&height=1005&width=1920&quality=80&smart=true"
+      "description": "South Africa will use its G20 presidency to focus on advancing inclusive economic growth, food security and artificial intelligence, President Cyril Ramaphosa said on Tuesday at a summit of the Group of 20 major economies in Brazil.",
+      "publishedAt": "2024-11-19T16:43:41Z",
+      "title": "South Africa will focus G20 presidency on inclusive growth, food security",
+      "url": "https://www.reuters.com/world/africa/south-africa-will-focus-g20-presidency-inclusive-growth-food-security-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/PM37LUAUTZOAZC5WXSF6YJU37I.jpg?auth=3647d9c171baa91c0a98bdc8c87e5c63c57578691073c14a8b482caa69e2f7ce&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "U.S. envoy Amos Hochstein landed in Beirut on Tuesday for talks with officials on a truce between armed group Hezbollah and Israel, Lebanon's state news agency said, hours after a proposal drafted by Washington won a nod from the Iran-backed group.",
-      "publishedAt": "2024-11-19T07:31:23Z",
-      "title": "US envoy in Beirut for talks after Lebanon, Hezbollah approve truce draft",
-      "url": "https://www.reuters.com/world/middle-east/us-envoy-beirut-talks-after-lebanon-hezbollah-approve-truce-draft-2024-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/YDLMO67NWBJGDNBW3GI7B6HD6Y.jpg?auth=4666e2b4ea94d213595c824c532c9a96909ceda34035cc60b98cd955c6afdd72&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Russian President Vladimir Putin on Tuesday approved an updated nuclear doctrine, saying that Russia could consider using nuclear weapons if it was subject to a conventional missile assault on it supported by a nuclear power.",
-      "publishedAt": "2024-11-19T08:46:41Z",
-      "title": "Putin issues warning to US with new nuclear doctrine",
-      "url": "https://www.reuters.com/world/europe/putin-issues-warning-us-with-new-nuclear-doctrine-2024-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FU6UC5GM3BKAFIECSV7ZVWRNTE.jpg?auth=b74883dad52f5b73f4da79f0087f2986dc42dab99a4d4cbf17c3b9d6b4baccb6&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Over 200 children have been killed and 1,100 injured in Lebanon in the past two months, a spokesperson for the U.N. children's agency (UNICEF) said on Tuesday.",
-      "publishedAt": "2024-11-19T10:31:55Z",
-      "title": "More than 200 children killed in Lebanon in past two months, UNICEF says",
-      "url": "https://www.reuters.com/world/middle-east/more-than-200-children-killed-lebanon-past-two-months-unicef-says-2024-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/24ZE44ZDQBKC7BWTOREBZLJW3Y.jpg?auth=fc8cc74318aa45d7e9848f06a8b0175c4f7cf76f077c97999f2fa301f03e68ef&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The number of North Korean troops stationed inside Russia could grow to 100,000, Ukrainian President Volodymyr Zelenskiy said on Tuesday.",
-      "publishedAt": "2024-11-19T10:48:24Z",
-      "title": "Ukraine's Zelenskiy says North Korean troop contingent in Russia could grow to 100,000",
-      "url": "https://www.reuters.com/world/ukraines-zelenskiy-says-north-korean-troop-contingent-russia-could-grow-100000-2024-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/WFYR2MHCWRK6DO5H4LMNDGC6HQ.jpg?auth=e8759a33d773c5c027638ef49a6c1d6859d36b111a1c2abd48356f5e7dda9951&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Argentina has notified the U.N. peacekeeping mission in Lebanon that it is withdrawing three of its officers, a UNIFIL spokesperson confirmed on Tuesday.",
-      "publishedAt": "2024-11-19T10:14:57Z",
-      "title": "Argentina withdraws three officers from UN peacekeeping mission in Lebanon",
-      "url": "https://www.reuters.com/world/argentina-withdraws-three-officers-un-peacekeeping-mission-lebanon-2024-11-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "author": "Jonathan Saul",
+      "description": "When darkness descends on Metula, Tamira Lang, one of the Israeli border town's last remaining residents, switches off her house lights to avoid detection by Lebanese group Hezbollah, whose fighters sit a few kilometres away.",
+      "publishedAt": "2024-11-19T15:22:17Z",
+      "title": "Last Israelis in bombed out Metula hope for Lebanon ceasefire to rebuild lives",
+      "url": "https://www.reuters.com/world/middle-east/last-israelis-bombed-out-metula-hope-lebanon-ceasefire-rebuild-lives-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4AX7VXO4C5IXVLHZ6F2MJPG4DA.jpg?auth=bf39e3290ace799246dab4c49bfc6f2da6e049a79c94d02f817b949073def301&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
