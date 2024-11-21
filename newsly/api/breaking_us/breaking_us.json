@@ -1,36 +1,23 @@
 {
   "articles": [
     {
-      "author": "Samantha Subin, Brian Evans",
-      "content": "Stocks dipped on Wednesday as Nvidia slumped 2% ahead of its market moving earnings report, and Wall Street assessed disappointing results from Target.\r\nThe Dow Jones Industrial Average dropped 158 p\u2026 [+2190 chars]",
-      "description": "Stocks dipped on Wednesday as Nvidia slumped 2% ahead of its market moving earnings report, and Wall Street assessed disappointing results from Target.",
-      "publishedAt": "2024-11-20T14:30:00Z",
+      "author": "Nick Paton Walsh",
+      "content": "It is a very specific and high-profile warning, so you would expect the information behind it to have been quite precise.\r\nThe US Embassy in Kyiv has not closed since it relocated during the opening \u2026 [+4125 chars]",
+      "description": "A senior advisor to Ukrainian President Volodymyr Zelensky, Mykhailo Podolyak, told CNN the apparent anxiety after years of war should be put down to Russia\u2019s bid to use \u201celements of psychological influence.\u201d",
+      "publishedAt": "2024-11-20T20:26:00Z",
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Stocks are little changed as investors await Nvidia quarterly results: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2024/11/19/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061590-1731429766300-GettyImages-2184363395.jpg?v=1731429783&w=1920&h=1080"
-    },
-    {
-      "author": "Lewis Gordon",
-      "content": "GSC Game Worlds long-awaited survival epic delivers the ultimate stalker fantasy if you can look beyond the plethora of glitches.\r\nByLewis Gordon\r\nNov 20, 2024, 2:00 PM UTC\r\nTheres a particular feeli\u2026 [+7018 chars]",
-      "description": "GSC Game World\u2019s S.T.A.L.K.E.R. 2: Heart of Chornobyl is a long-awaited survival epic that launches on November 20th on the Xbox and PC.",
-      "publishedAt": "2024-11-20T14:00:00Z",
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl is a glorious and beautiful pain in the ass - The Verge",
-      "url": "https://www.theverge.com/2024/11/20/24300652/stalker-2-heart-of-chornobyl-review",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gCGIuL7BngXUFWmXTmhUU0spIOw=/0x0:3840x2160/1200x628/filters:focal(1518x924:1519x925)/cdn.vox-cdn.com/uploads/chorus_asset/file/25742102/S2HoC_GSCGameWorld_Richter.jpg"
+      "title": "Analysis: US embassy\u2019s temporary closure in Kyiv reflects a starkly escalating war in Ukraine - CNN",
+      "url": "https://www.cnn.com/2024/11/20/europe/ukraine-us-embassys-closure-escalating-war-intl-latam/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/wide-v1-00-01-24-13-still001.png?c=16x9&q=w_800,c_fill"
     },
     {
       "author": null,
       "content": "[Removed]",
       "description": "[Removed]",
-      "publishedAt": "2024-11-20T13:58:00Z",
+      "publishedAt": "2024-11-20T19:42:00Z",
       "source": {
         "id": null,
         "name": "[Removed]"
@@ -40,227 +27,240 @@
       "urlToImage": null
     },
     {
-      "author": "HALLIE GOLDEN, LISA BAUMANN",
-      "content": "SEATTLE (AP) A major storm swept across the northwest U.S., battering the region with strong winds and rain, causing widespread power outages and downing trees that killed at least one person.\r\nThe W\u2026 [+3981 chars]",
-      "description": "A major storm was sweeping across the northwest U.S., battering the region with strong winds and rain. It caused widespread power outages and downed trees that killed at least one person. Falling trees struck homes and littered roadways across northwest Washi\u2026",
-      "publishedAt": "2024-11-20T13:24:00Z",
+      "author": null,
+      "content": null,
+      "description": "Should two Chiefs running backs be in your lineup this week? How about Jonathon Brooks in his NFL debut? Check out all of Michael F. Florio's RB starts and sits for Week 12 of the NFL fantasy football season.",
+      "publishedAt": "2024-11-20T19:42:00Z",
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "title": "NFL Fantasy 2024 Start 'Em, Sit 'Em: Running backs for Week 12 - NFL.com",
+      "url": "https://www.nfl.com/news/nfl-fantasy-2024-start-em-sit-em-running-backs-for-week-12",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/paonoa1g61wkrznxwp3q"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-11-20T18:57:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Mary Gilbert, Karina Tsui, Robert Shackelford",
+      "content": "A historically strong bomb cyclone killed at least two people and caused a mass power outage that could last for days after it slammed the Pacific Northwest and Canadas British Columbia with destruct\u2026 [+5840 chars]",
+      "description": "A historically strong bomb cyclone killed at least two people and caused a mass power outage that could last for days after it slammed the Pacific Northwest and Canada\u2019s British Columbia with destructive winds.",
+      "publishedAt": "2024-11-20T18:55:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "New threat emerges as atmospheric river combines with once-in-a-decade bomb cyclone on the West Coast - CNN",
+      "url": "https://www.cnn.com/2024/11/20/weather/bomb-cylone-west-coast-washington-climate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-20t183905z-1627741537-rc209baodxcl-rtrmadp-3-usa-weather.JPG?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "VANESSA GERA",
+      "content": "TORUN, Poland (AP) Alec Baldwins Western Rust had its world premiere Wednesday at a film festival in Poland with a dedication to cinematographer Halyna Hutchins, who was fatally shot in an accident o\u2026 [+5012 chars]",
+      "description": "Alec Baldwin\u2019s Western \u201cRust\u201d had its world premiere Wednesday at a film festival in Poland, three years after the shooting death of cinematographer Halyna Hutchins on the set. The premiere was dedicated to Hutchins at the International Film Festival of the A\u2026",
+      "publishedAt": "2024-11-20T18:53:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "title": "'Bomb cyclone' kills 1 and knocks out power to over half a million homes across the northwest US - The Associated Press",
-      "url": "https://apnews.com/article/california-oregon-washington-storm-power-outages-aadbd4863dd989189d31c1c2187b5025",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d05af59/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F9f%2F8aa44effa1f6ddf0b2d17e238ab0%2Facc424e59bb4426d8e36723355eb2650"
+      "title": "Alec Baldwin film 'Rust' premieres with dedication to cinematographer killed on set - The Associated Press",
+      "url": "https://apnews.com/article/poland-film-premiere-rust-baldwin-7479e578096359df46251c262e4f9d3d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/64f0408/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2Fad%2Fe46cef983fce0e955f09481dc7ff%2Fd3279581f9744679ae719073d9082dcf"
     },
     {
-      "author": "Ellise Shafer",
-      "content": "Liam Payne\u2018s former One Direction bandmates \u2014 Harry Styles, Niall Horan, Zayn Malik and Louis Tomlinson \u2014 all attended the late singer\u2019s funeral on Wednesday.\r\nDressed in black, the four musicians we\u2026 [+2198 chars]",
-      "description": "Liam Payne's former One Direction bandmates -- Harry Styles, Niall Horan, Zayn Malik and Louis Tomlinson -- all attended the late singer's funeral.",
-      "publishedAt": "2024-11-20T13:22:00Z",
+      "author": null,
+      "content": "Ukraine has fired UK-supplied Storm Shadow missiles at targets inside Russia for the first time, the BBC understands.\r\nThe war-torn country was previously restricted to using the long-range missiles \u2026 [+3206 chars]",
+      "description": "The BBC understands the long-range missiles have been fired into Russian territory by Ukraine.",
+      "publishedAt": "2024-11-20T18:50:57Z",
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "BBC News"
       },
-      "title": "Liam Payne\u2019s Funeral: One Direction\u2019s Harry Styles, Niall Horan, Zayn Malik and Louis Tomlinson in Attendance - Variety",
-      "url": "https://variety.com/2024/music/global/liam-payne-funeral-one-direction-harry-styles-1236201092/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/11/harry.jpg?w=1000&h=563&crop=1"
+      "title": "Ukraine fires UK-made Storm Shadow missiles at Russia for first time - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c4g704g051go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b43/live/7cac0c30-a77f-11ef-a968-c7efee733ac0.jpg"
     },
     {
-      "author": "Oren Liebermann, Natasha Bertrand",
-      "content": "The Biden administration has approved sending anti-personnel mines to Ukraine for the first time in another major policy shift, Secretary of Defense Lloyd Austin confirmed on Wednesday.\r\nThe decision\u2026 [+3614 chars]",
-      "description": "The Biden administration has approved sending anti-personnel mines to Ukraine for the first time in another major policy shift, Secretary of Defense Lloyd Austin confirmed on Wednesday.",
-      "publishedAt": "2024-11-20T13:04:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Biden administration approves sending anti-personnel mines to Ukraine in another major policy shift - CNN",
-      "url": "https://www.cnn.com/2024/11/19/politics/biden-administration-anti-personnel-mines-ukraine/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184764344.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "Anastasiia Malenko, Tom Balmforth",
+      "author": "Pia Singh",
       "content": null,
-      "description": "The United States shut its embassy in Kyiv on Wednesday morning due to \"specific information of a potential significant air attack\" amid jitters in the capital over possible Russian retaliation a day after a big Ukrainian strike.",
-      "publishedAt": "2024-11-20T12:30:02Z",
+      "description": "Analysts expect the chipmaker to post earnings of 75 cents per share on about $33.16 billion in revenue, or more than 80% revenue growth compared to a year ago.",
+      "publishedAt": "2024-11-20T18:47:53Z",
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": null,
+        "name": "CNBC"
       },
-      "title": "US embassy in Kyiv shuts down over anticipated air attack - Reuters",
-      "url": "https://www.reuters.com/world/europe/us-embassy-kyiv-shuts-down-over-anticipated-air-attack-2024-11-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/MJ52XYJC2BJDLOGYTOPQ63BVN4.jpg?auth=fb6bfdd925462c23559239749b774cf8deefdd50fdbcfe98ccf5728df311b3a0&height=1005&width=1920&quality=80&smart=true"
+      "title": "Nvidia earnings are on deck. Here\u2019s what Wall Street is watching for - CNBC",
+      "url": "https://www.cnbc.com/2024/11/20/nvidia-earnings-are-on-deck-heres-what-wall-street-is-watching-for.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107433648-1719419295479-gettyimages-2157917038-June_20_2024_logo_nvidia-1.jpeg?v=1732072323&w=1920&h=1080"
     },
     {
-      "author": "Nabaparna Bhattacharya",
-      "content": "Target Q3 Earnings: Supply Chain Chaos Hits Bottomline, Slashes Annual Profit Outlook, Stock Tanks\r\nTarget Corporation (NYSE:TGT) shares are trading lower in the premarket session on Wednesday.\r\nThe \u2026 [+2475 chars]",
-      "description": "Target Corporation (NYSE:TGT) shares are trading lower in the premarket session on Wednesday. The company reported third-quarter adjusted earnings per share ...",
-      "publishedAt": "2024-11-20T12:25:21Z",
+      "author": "Nidal al-Mughrabi",
+      "content": "By Nidal al-Mughrabi\r\nCAIRO (Reuters) - Hamas' acting Gaza chief Khalil al-Hayya said in remarks broadcast on Wednesday that there would be no hostages-for-prisoners swap deal with Israel unless the \u2026 [+3801 chars]",
+      "description": "Hamas' acting Gaza chief Khalil al-Hayya said in remarks broadcast on Wednesday that there would be no hostages-for-prisoners swap deal with Israel unless...",
+      "publishedAt": "2024-11-20T18:35:37Z",
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "title": "Target Q3 Earnings: Supply Chain Chaos Hits Bottomline, Slashes Annual Profit Outlook, Stock Tanks - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/target-q3-earnings-supply-chain-122521550.html",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/382f2b3cd66513839d64fe8e2b24a08b"
+      "title": "Hamas: No hostages-for-prisoners swap deal with Israel unless Gaza war ends - Yahoo! Voices",
+      "url": "https://www.yahoo.com/news/hamas-no-hostages-prisoners-swap-183537158.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/b29c905c03e9d317d151eb0dc9cfc9e0"
     },
     {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-11-20T11:04:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-11-20T10:06:08Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Steven Overly",
-      "content": "The effort to spend her departments full CHIPS Act budget would put a capstone on a signature Biden economic policy.\r\nIt also speaks to the urgency facing a host of Bidens historic raft of spending p\u2026 [+8377 chars]",
-      "description": "With a massive legacy program hanging in the balance, the Commerce secretary wants to get billions in microchip money out the door in the next two months.",
-      "publishedAt": "2024-11-20T10:00:00Z",
+      "author": "Ben Leonard",
+      "content": "In naming Oz as his pick, Trump said Oz will work closely with Robert F. Kennedy Jr. to take on the illness industrial complex, and all the horrible chronic diseases left in its wake. Oz skeptics, ho\u2026 [+3675 chars]",
+      "description": "As CMS administrator, Oz would have latitude over health coverage for the more than 160 million Americans in Medicare, Medicaid and other health programs",
+      "publishedAt": "2024-11-20T18:31:14Z",
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "title": "Raimondo\u2019s new mission: Leave no cash for Trump - POLITICO",
-      "url": "https://www.politico.com/news/2024/11/20/raimondo-commerce-trump-legacy-00190538",
-      "urlToImage": "https://static.politico.com/f2/b1/8aeb688942469f84d3433f09d679/u-s-conference-of-mayors-09148.jpg"
+      "title": "Dr. Oz getting high marks from Senate moderates \u2014 maybe even Fetterman - POLITICO",
+      "url": "https://www.politico.com/news/2024/11/20/dr-oz-senate-reaction-fetterman-00190662",
+      "urlToImage": "https://static.politico.com/0b/8e/5be166844f138427596fc9978a6e/trump-transition-46359.jpg"
+    },
+    {
+      "author": "The Wall Street Journal",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-11-20T18:31:00Z",
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "title": "Cease-Fire Between Israel and Hezbollah Edges Closer, U.S. Envoy Says - The Wall Street Journal",
+      "url": "https://www.wsj.com/world/middle-east/cease-fire-between-israel-and-hezbollah-edges-closer-u-s-envoy-says-763a134e",
+      "urlToImage": null
+    },
+    {
+      "author": "Meredith Deliso",
+      "content": "The suspect accused of murdering Laken Riley on the University of Georgia's campus was found guilty by a judge on all charges Wednesday, including malice murder and felony murder.\r\nHe was sentenced b\u2026 [+11745 chars]",
+      "description": "Jose Ibarra, the Venezuelan man convicted in the killing of Georgia nursing student Laken Riley, has been sentenced to life in prison without the possibility of parole.",
+      "publishedAt": "2024-11-20T18:18:16Z",
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "title": "Laken Riley case: Suspect found guilty by judge in campus killing, sentenced to life - ABC7 Los Angeles",
+      "url": "https://abc7.com/post/laken-riley-verdict-jose-ibarra-convicted-murder-killing-georgia-nursing-student/15563856/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15556557_laken-riley-murder-img.jpg?w=1600"
+    },
+    {
+      "author": "Claire Lampen",
+      "content": "Former WWE CEO Linda McMahon left the spectacle of televised wrestling more than a decade ago, but her new appointment to Donald Trumps administration has brought fresh scrutiny to her time presiding\u2026 [+3687 chars]",
+      "description": "She joins fellow appointees Matt Gaetz, Peter Hesgeth, and RFK Jr. in this particular category.",
+      "publishedAt": "2024-11-20T18:17:00Z",
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "title": "Trump Pick Linda McMahon Is Facing Her Own Sex Scandal - The Daily Beast",
+      "url": "https://www.thedailybeast.com/linda-mcmahon-tapped-for-trumps-education-secretary-faces-own-sex-scandal/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/M2B5KKK5BZDDRIQKL5RLQI642Y.JPG?smart=true&auth=3b711bd281d01c8d3a1850f13426199edf11f16d89e5369621d72b3deffa983d&width=1200&height=630"
+    },
+    {
+      "author": "Emily Shapiro",
+      "content": "COLUMBIA, S.C. -- Susan Smith, a South Carolina woman who admitted to drowning her two children 30 years ago, was unanimously denied parole after she appeared before the board for the first time on W\u2026 [+3798 chars]",
+      "description": "A parole board decided that Susan Smith should remain in prison 30 years after she killed her sons by rolling her car into a South Carolina lake while they were strapped in their car seats.",
+      "publishedAt": "2024-11-20T17:56:32Z",
+      "source": {
+        "id": null,
+        "name": "WPVI-TV"
+      },
+      "title": "Susan Smith is denied parole 30 years after drowning 2 sons by rolling car into South Carolina lake - WPVI-TV",
+      "url": "https://6abc.com/post/susan-smith-mother-drowned-children-set-ask-parole-board-freedom/15563205/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15563249_112024-wpvi-ap-susan-smith-kids-img.jpg?w=1600"
+    },
+    {
+      "author": "Jackie Strause",
+      "content": "The United States needs Robert De Niro\u2018s help in Netflix\u2018s Zero Day.\r\nThe iconic actor\u2019s first turn on television will see him playing a former president who is called in to help the current presiden\u2026 [+1832 chars]",
+      "description": "De Niro plays a former president charged with responding to a crippling U.S. cyber attack in the conspiracy thriller from Eric Newman, Noah Oppenheim and Michael S. Schmidt.",
+      "publishedAt": "2024-11-20T17:37:30Z",
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "title": "Robert De Niro\u2019s TV Turn in Netflix\u2019s \u2018Zero Day\u2019 Conspiracy Series Gets Release Date - Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/robert-de-niro-zero-day-netflix-series-release-1236067539/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/ZERODAY_101_240524_JW_04565_R.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "author": null,
+      "content": "NEW YORK (AP) A promotional video for a rebrand of British luxury car brand Jaguar is being criticized online for showing models in brightly colored outfits and no car.\r\nThe rebrand, which includes a\u2026 [+2076 chars]",
+      "description": "A promotional video for a rebrand of British luxury car brand Jaguar is being criticized online for showing models in brightly colored outfits \u2014 and no car. The rebrand, which includes a new logo, is slated to launch Dec. 2 during Miami Art Week, when the com\u2026",
+      "publishedAt": "2024-11-20T17:27:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Radical Jaguar rebrand and new logo sparks ire online - The Associated Press",
+      "url": "https://apnews.com/article/jaguar-ad-branding-luxury-evs-8604c17fb387ac223ca912a2e3603446",
+      "urlToImage": "https://dims.apnews.com/dims4/default/049f4a1/2147483647/strip/true/crop/3403x1914+0+190/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F75%2F6eaea01f6548986d53c94f27015a%2F7e6a9687628b487fae440927296e60d9"
+    },
+    {
+      "author": "Victoria Kennedy",
+      "content": "Stalker 2: Heart of Chornobyl developer GSC Game World has released a statement on the state of its game, as its sequel finally becomes available to play.\r\nStalker 2 made its debut today across Xbox \u2026 [+2081 chars]",
+      "description": "Stalker 2: Heart of Chornobyl developer GSC Game World has released a statement, as its sequel goes live.",
+      "publishedAt": "2024-11-20T17:15:40Z",
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "title": "Stalker 2: Heart of Chornobyl dev acknowledges \"rough edges\", says its monitoring feedback - Eurogamer",
+      "url": "https://www.eurogamer.net/stalker-2-heart-of-chornobyl-dev-acknowledges-rough-edges-says-its-monitoring-feedback",
+      "urlToImage": "https://assetsio.gnwcdn.com/Stalker-2-header-image-showing-a-mutated-creature-advancing-on-a-player-loading-some-kind-of-missile-launcher.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
       "author": null,
       "content": null,
-      "description": "Child had no known exposures to farm animals, raising concerns over potential for human-to-human spread",
-      "publishedAt": "2024-11-20T09:56:00Z",
+      "description": "The Hall of Fame linebacker could make a Deion Sanders-like move to college coaching.",
+      "publishedAt": "2024-11-20T16:52:30Z",
       "source": {
         "id": null,
-        "name": "Salon"
+        "name": "BaltimoreRavens.com"
       },
-      "title": "Possible bird flu infection reported in California child, health department reports - Salon",
-      "url": "https://www.salon.com/2024/11/20/possible-bird-flu-infection-reported-in-california-child-health-department-reports/",
-      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/11/positive_bird_flu_test_tube_1480829106.jpg"
-    },
-    {
-      "author": "Damien Wilde",
-      "content": "The Wi-Fi QR code sharing menu in Android 16 Developer Preview 1 has received a lick of paint and now has new visuals when connecting other devices.\r\nOrdinarily, when you share a network with another\u2026 [+1473 chars]",
-      "description": "The Wi-Fi QR code sharing menu in Android 16 Developer Preview 1 has received a lick of paint and now has new visuals when connecting devices",
-      "publishedAt": "2024-11-20T09:37:00Z",
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "title": "Android 16 DP1: Wi-Fi QR code sharing gets a cute Material You makeover - 9to5Google",
-      "url": "http://9to5google.com/2024/11/20/android-16-dp1-wi-fi-qr-code-sharing-gets-a-cute-material-you-makeover/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/11/Android-16-Developer-Preview-1-Wi-Fi-QR-code-sharing.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      "title": "Report: Ray Lewis Emerges as College Head Coach Candidate - BaltimoreRavens.com",
+      "url": "https://www.baltimoreravens.com/news/ray-lewis-florida-atlantic-head-coach-ravens",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/j2wrf1j9w0mzampcfvnq"
     },
     {
       "author": "Reuters",
       "content": null,
-      "description": "Russia will retaliate against NATO countries that facilitate long-range missile strikes against Russian territory by Ukraine, foreign intelligence chief Sergei Naryshkin said in an interview published on Wednesday.",
-      "publishedAt": "2024-11-20T08:54:14Z",
+      "description": "The move could help slow Russian advances in Ukraine's east.",
+      "publishedAt": "2024-11-20T16:50:06Z",
       "source": {
         "id": "reuters",
         "name": "Reuters"
       },
-      "title": "Russian spy chief says NATO aid for Ukraine missile strikes will be punished - Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-spy-chief-says-nato-aid-ukraine-missile-strikes-will-be-punished-2024-11-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OMJKNJMOANOSROZ5JN4JKCCQZQ.jpg?auth=a0be0845099cd5f7869383a04408eaabd86a75900c3bcec679538efe9ce1a621&height=1005&width=1920&quality=80&smart=true"
+      "title": "Biden approves anti-personnel mines for Ukraine, US official says - Reuters",
+      "url": "https://www.reuters.com/world/biden-approves-anti-personnel-mines-ukraine-us-official-says-2024-11-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/QO3EOW6ULZKYBGRQP4KS4WKD5I.jpg?auth=f2e42b276943400391fe9bd28e62e8fc6b3e9c29dc88aa222c057fa5418bba01&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Chris Lau, Kathleen Magramo, Nectar Gan",
-      "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter which explores what you need to know about the countrys rise and how it impacts the world.\r\nJimmy Lai, the pugnacious Hong Kong media tyco\u2026 [+8467 chars]",
-      "description": "Jimmy Lai, the pugnacious Hong Kong media tycoon whose now shuttered tabloid Apple Daily was a regular thorn in Beijing\u2019s side, took the stand Wednesday in his own defense for the first time in a high stakes national security trial that could send him to pris\u2026",
-      "publishedAt": "2024-11-20T08:48:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Hong Kong hears from jailed media tycoon Jimmy Lai for the first time in four years at his trial - CNN",
-      "url": "https://www.cnn.com/2024/11/19/china/hong-kong-jimmy-lai-trial-testimony-intl-hnk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1231052815.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": "VANESSA GERA",
-      "content": "TORUN, Poland (AP) The mother of late cinematographer Halyna Hutchins is boycotting the world premiere of Rust at a film festival in Poland on Wednesday, saying she views it as an attempt by Alec Bal\u2026 [+3059 chars]",
-      "description": "The mother of late cinematographer Halyna Hutchins is boycotting the world premiere of \u201cRust\u201d at a film festival in Poland on Wednesday, saying she views it ...",
-      "publishedAt": "2024-11-20T07:49:00Z",
+      "author": "Josh Render",
+      "content": "The iPhone SE 4 has seemingly been given a release date, along with confirmation that it will support 5G connectivity.\r\nThere's no doubt that the iPhone SE 4 is eagerly anticipated, but we have yet t\u2026 [+1938 chars]",
+      "description": "With Apple's 5G modem to boot",
+      "publishedAt": "2024-11-20T16:43:37Z",
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Tom's Guide"
       },
-      "title": "Mother of cinematographer killed on set of Alec Baldwin film 'Rust' boycotts its world premiere - Yahoo Entertainment",
-      "url": "https://www.yahoo.com/entertainment/mother-cinematographer-killed-set-alec-074912406.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Kkfcd6NJlVJ1rdIbbptBaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/ap.org/5ebab90bfa32b31867db7015c0521b8c"
-    },
-    {
-      "author": "Marcus Benjamin",
-      "content": "Wrestling is great when it plays on the heartstrings and moves beyond the pretense. Thats what happened with Andre Chase vs. Ridge Holland. I noted last week that this match instantly made an upcomin\u2026 [+4580 chars]",
-      "description": "More Iron Survivor Challenge qualifiers, Tony D\u2019Angelo gets angry, and Chase U writes its final chapter in a heartbreaking episode of NXT.",
-      "publishedAt": "2024-11-20T06:00:00Z",
-      "source": {
-        "id": null,
-        "name": "Cageside Seats"
-      },
-      "title": "NXT recap & reactions: School\u2019s out forever - Cageside Seats",
-      "url": "https://www.cagesideseats.com/wwe/2024/11/20/24301127/nxt-recap-reactions-nov-19-2024-chase-u-andre-chase-ridge-holland-iron-survivor-challenge-qualifiers",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/K38gBtlBVnWyq-JtXlPsPJE-bKg=/567x134:1125x426/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25743123/20241119_NXT_FC__319061e493b8244c8ca1324b7b5486ef.jpg"
-    },
-    {
-      "author": "Bennett Durando",
-      "content": "MEMPHIS, Tenn. \u2014 Maybe the NBA Cup just means more. Or maybe the Nuggets realized they needed to approach the final game of their three-game road trip with better effort after getting crushed by the \u2026 [+5030 chars]",
-      "description": "The Nuggets are 1-1 in the group stage of the NBA Cup after surviving without Nikola Jokic in Memphis on Tuesday. Russell Westbrook recorded his 200th triple-double.",
-      "publishedAt": "2024-11-20T05:06:06Z",
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "title": "Jamal Murray bounces back, Russell Westbrook makes history as Nuggets win NBA Cup game over Grizzlies without Nikola Jokic - The Denver Post",
-      "url": "https://www.denverpost.com/2024/11/19/russell-westbrook-triple-doubles-jamal-murray-nuggets-grizzlies/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/11/TDP-Z-SPBKNNUGGETS-1120-05_f0c4ac.jpg?w=1024&h=683"
-    },
-    {
-      "author": "Michael Voepel, Kevin Pelton",
-      "content": "Nov 19, 2024, 11:25 PM ET\r\nFor the second time in a week, a women's college basketball coach has left a team in season to move to the WNBA, as the Los Angeles Sparks named Lynne Roberts as their new \u2026 [+6932 chars]",
-      "description": "Two college coaches have jumped to the WNBA in the past week. New trend? And how does Utah's Lynne Roberts fit the Sparks?",
-      "publishedAt": "2024-11-20T04:25:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "How Roberts' player-development skills will benefit young Los Angeles Sparks - ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/42496717/wnba-coaching-changes-2025-los-angeles-sparks-hire-lynne-roberts",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1120%2Fr1417157_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Alex Rogers, Antoine Gara, Colby Smith, Arash Massoudi, James Fontanella-Khan",
-      "content": "The new FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n<ul><li></li>Global news &amp; analysis<li></li>Expert opinion\u2026 [+2640 chars]",
-      "description": "Private equity billionaire is considering job and is set to meet president-elect on Wednesday",
-      "publishedAt": "2024-11-20T02:34:10Z",
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "title": "Marc Rowan emerges as a top contender to be Donald Trump\u2019s Treasury secretary - Financial Times",
-      "url": "https://www.ft.com/content/cbe0e1a1-c6fa-49f0-9a8a-47499b9ad0fb",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e07b6e5-3ab4-49b8-a890-816162deed32.jpg?source=next-barrier-page"
+      "title": "iPhone SE 4 release date reportedly confirmed \u2014 here's when the new cheap iPhone is coming - Tom's Guide",
+      "url": "https://www.tomsguide.com/phones/iphones/new-leak-confirms-early-2025-release-for-iphone-se-4-heres-what-we-know",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/srpurMHZv3BEgSYuVQZsJZ-1200-80.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 35
+  "totalResults": 34
 }
