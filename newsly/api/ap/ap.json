@@ -1,12 +1,20 @@
 {
   "articles": [
     {
+      "author": "MICHAEL LIEDTKE",
+      "description": "U.S. regulators want a federal judge to break up Google to prevent the company from continuing to squash competition through its dominant search engine after a court found it had maintained an abusive monopoly over the past decade.",
+      "publishedAt": "2024-11-21T04:01:31Z",
+      "title": "US regulators seek to break up Google, forcing Chrome sale as part of monopoly punishment",
+      "url": "https://apnews.com/84e07fec51c5c59751d846118cb900a7",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/26ddd32ffc40438ca117f857e5efea19/3000.jpeg"
+    },
+    {
       "author": "MARTHA BELLISLE, HALLIE GOLDEN and LISA BAUMANN",
-      "description": "ISSAQUAH, Wash. (AP) \u2014 A major storm swept across the northwestern U.S., battering the region with strong winds and rain, causing widespread power outages, closing schools and downing trees that killed at least two people.",
+      "description": "ISSAQUAH, Wash. (AP) \u2014 A major storm battered the U.S. Northwest with strong winds and rain, causing widespread power outages, closing schools and downing trees that killed at least two people.",
       "publishedAt": "2024-11-20T07:01:30Z",
-      "title": "'Bomb cyclone' kills 2 and knocks out power to over half a million homes across the northwest US",
+      "title": "'Bomb cyclone' kills 2 and knocks out power to over half a million homes across the US Northwest",
       "url": "https://apnews.com/aadbd4863dd989189d31c1c2187b5025",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/58e2a5af02d04b178afb52ddd338ddbb/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/77bd75bc372048de87339f6d23f31bc7/1920.jpeg"
     },
     {
       "author": "LISA MASCARO, STEPHEN GROVES and FARNOUSH AMIRI",
@@ -14,7 +22,7 @@
       "publishedAt": "2024-11-20T16:58:00Z",
       "title": "Republicans on House Ethics reject for now releasing report on Matt Gaetz",
       "url": "https://apnews.com/5f9c684bb695df143beffbf8f956b09c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/22fa7fbd0622419f8beb5678b83e6524/1920.jpeg"
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/43ae43bd99084652a2c09d9203000aab/3000.jpeg"
     },
     {
       "author": "ERIC TUCKER, ZEKE MILLER and MARY CLARE JALONICK",
@@ -25,36 +33,12 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/c17eb3ecd29a4957907ad63763376412/3000.jpeg"
     },
     {
-      "author": "JEFFREY COLLINS and MAKIYA SEMINERA",
-      "description": "COLUMBIA, S.C. (AP) \u2014 A parole board decided unanimously Wednesday that Susan Smith should remain in prison, despite her plea that God has forgiven her for infamously killing her two young sons 30 years ago by rolling her car into a South Carolina lake while they were strapped in their car seats.",
-      "publishedAt": "2024-11-20T05:02:59Z",
-      "title": "Susan Smith is denied parole 30 years after drowning 2 sons by rolling car into South Carolina lake",
-      "url": "https://apnews.com/3c7c12e0cd0a23eee0e42a599b689597",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c7e96f76cdeb4d3c8298c1b198dc3bb5/1920.jpeg"
-    },
-    {
       "author": "MICHAEL R. SISAK and JENNIFER PELTZ",
       "description": "NEW YORK (AP) \u2014 An Indian businessman who is one of the world\u2019s richest people has been indicted in the U.S. on charges he duped investors by concealing that his company's huge solar energy project on the subcontinent was being facilitated by an alleged bribery scheme.",
       "publishedAt": "2024-11-20T21:10:46Z",
       "title": "US charges billionaire Gautam Adani with defrauding investors, hiding plan to bribe Indian officials",
       "url": "https://apnews.com/9f4c7ff20e7a47ae560c2ad72f4dda44",
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/a5e655fdfdcb4efa872f5435179d2543/3000.jpeg"
-    },
-    {
-      "author": "LOLITA C. BALDOR",
-      "description": "WASHINGTON (AP) \u2014 The U.S. decision to provide Ukraine with antipersonnel land mines expands the use of a weapon that the international community has long condemned because of its danger to innocent civilians.",
-      "publishedAt": "2024-11-20T18:43:07Z",
-      "title": "The US is sending antipersonnel land mines to Ukraine. Here's what it means",
-      "url": "https://apnews.com/76fb21ce12f70aa965d3d7fbccb35c9c",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/606e7b52322e4c13a6e3db76ce3c60ea/3000.jpeg"
-    },
-    {
-      "author": "EL\u00c9ONORE HUGHES",
-      "description": "RIO DE JANEIRO (AP) \u2014 Brazilian President Luiz In\u00e1cio Lula da Silva on Wednesday welcomed China\u2019s President Xi Jinping for a state visit at the Alvorada Palace in Brasilia, the latest sign of deepening ties between the two countries that analysts say may accelerate as Donald Trump returns to the White House in 2025.",
-      "publishedAt": "2024-11-20T21:54:12Z",
-      "title": "Brazil\u2019s Lula welcomes China's Xi for state visit as ties between countries strengthen",
-      "url": "https://apnews.com/b979f2f78530c917b37c47f97f24d96a",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/23af3d834eee4c2181999b6a515be698/3000.jpeg"
     },
     {
       "author": "TIA GOLDENBERG and KAREEM CHEHAYEB",
@@ -65,20 +49,36 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/03c9055296b4433b8a2537a5c6fb9a10/3000.jpeg"
     },
     {
-      "author": null,
-      "description": "LONDON (AP) \u2014 The former members of One Direction reunited Wednesday for the funeral of bandmate Liam Payne.",
-      "publishedAt": "2024-11-20T14:36:56Z",
-      "title": "Liam Payne's One Direction bandmates among the mourners at singer's funeral",
-      "url": "https://apnews.com/1cb8a70a68ac1405b8fbb4fe3805437b",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f0b6f7ef902b4081965542d671071e6f/3000.jpeg"
+      "author": "LOLITA C. BALDOR",
+      "description": "WASHINGTON (AP) \u2014 The U.S. decision to provide Ukraine with antipersonnel land mines expands the use of a weapon that the international community has long condemned because of its danger to innocent civilians.",
+      "publishedAt": "2024-11-20T18:43:07Z",
+      "title": "The US is sending antipersonnel land mines to Ukraine. Here's what it means",
+      "url": "https://apnews.com/76fb21ce12f70aa965d3d7fbccb35c9c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/606e7b52322e4c13a6e3db76ce3c60ea/3000.jpeg"
     },
     {
-      "author": "MEG KINNARD",
-      "description": "NASHVILLE, Tenn. (AP) \u2014 President-elect Donald Trump has endorsed a line of guitars, following up on the Bibles, sneakers, watches, photo books and cryptocurrency ventures launched during his third White House campaign.",
-      "publishedAt": "2024-11-20T21:14:06Z",
-      "title": "Donald Trump's latest branded venture is guitars that cost up to $10,000",
-      "url": "https://apnews.com/d585331e2a1f55316c52ad8121ef6826",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/812cc909db894661803d7ecd86747040/2798.jpeg"
+      "author": "AAMER MADHANI and COLLEEN LONG",
+      "description": "WASHINGTON (AP) \u2014 President Joe Biden has been notably quiet since the Democrats' gut-wrenching defeat at the polls. After warning voters for years that a Donald Trump win would be calamitous for American democracy, Biden has gone largely silent on his concerns about what lays ahead for America and he has yet to substantively reflect on why Democrats were decisively defeated up and down the ballot.",
+      "publishedAt": "2024-11-20T22:10:31Z",
+      "title": "Biden has become notably quiet after the 2024 election and Democrats' loss",
+      "url": "https://apnews.com/49f2146c848656c9588986e83812b6d8",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/feacf2b64352443688e0f98acd978bbe/3000.jpeg"
+    },
+    {
+      "author": "JEFFREY COLLINS and MAKIYA SEMINERA",
+      "description": "COLUMBIA, S.C. (AP) \u2014 A parole board decided unanimously Wednesday that Susan Smith should remain in prison, despite her plea that God has forgiven her for infamously killing her two young sons 30 years ago by rolling her car into a South Carolina lake while they were strapped in their car seats.",
+      "publishedAt": "2024-11-20T05:02:59Z",
+      "title": "Susan Smith is denied parole 30 years after drowning 2 sons by rolling car into South Carolina lake",
+      "url": "https://apnews.com/3c7c12e0cd0a23eee0e42a599b689597",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/8f250e97da8f4a3f87a581789b22d9c9/1920.jpeg"
+    },
+    {
+      "author": "ANDREW DALTON",
+      "description": "Chris Stapleton took home four Country Music Association Awards and hardly left the stage on Wednesday night, while an absent Morgan Wallen was shut out all evening until taking the night's biggest prize, entertainer of the year.",
+      "publishedAt": "2024-11-20T05:24:40Z",
+      "title": "Chris Stapleton wins 4 CMA Awards, but Morgan Wallen gets entertainer of the year",
+      "url": "https://apnews.com/32859c3a9f19a64df6fbffe1ff20b302",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1a71ed5fd12b4a9baa6718da2440b6f3/3000.jpeg"
     }
   ],
   "sortBy": "top",
