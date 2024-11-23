@@ -1,17 +1,238 @@
 {
   "articles": [
     {
-      "author": "Ricardo Brito",
-      "content": null,
-      "description": "Former Brazilian President Jair Bolsonaro plotted a coup to overturn the 2022 election along with dozens of ex-ministers and senior aides, federal police said in a formal accusation filed on Thursday with the country's Supreme Court.",
-      "publishedAt": "2024-11-21T20:06:01Z",
+      "author": "Catherine Nicholls, Eve Brennan",
+      "content": "Russia launched a new non-nuclear ballistic missile with medium range on Ukraines Dnipro region on Thursday, Russias President Vladimir Putin said in a televised statement, marking another significan\u2026 [+10127 chars]",
+      "description": "Russia launched a new non-nuclear ballistic missile with medium range on Ukraine\u2019s Dnipro region on Thursday, Russia\u2019s President Vladimir Putin said in a televised statement, marking another significant escalation in the 1,000-day-old war.",
+      "publishedAt": "2024-11-22T01:23:00Z",
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "title": "Brazil police accuse Bolsonaro and ex-ministers of 2022 coup plot - Reuters Canada",
-      "url": "https://www.reuters.com/world/americas/brazil-police-accuse-ex-president-bolsonaro-alleged-2022-coup-plot-sources-say-2024-11-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/POMTQXXC7BLWZEQZFY6WC53R44.jpg?auth=436f7acbb0e7712a1bda410d9000ab4a74d1bd968e6fa273fdaf201964ace9fa&height=1005&width=1920&quality=80&smart=true"
+      "title": "Putin says Russia launched a new missile in Ukraine. Here\u2019s what we know - CNN",
+      "url": "https://www.cnn.com/2024/11/21/europe/ukraine-russia-missile-wwk-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-21t092705z-339996708-rc2l9ba43x6o-rtrmadp-3-ukraine-crisis-attack-dnipro.JPG?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Karina Tsui, Robert Shackelford, Mary Gilbert",
+      "content": "A powerful atmospheric river is unleashing torrential, flooding rainfall across Northern California and parts of the Pacific Northwest in the wake of a historically strong bomb cyclone and another st\u2026 [+6176 chars]",
+      "description": "A historically strong bomb cyclone, which triggered winds that killed at least two people, is working with a powerful atmospheric river to bring heavy rain, potential flooding, gusty winds and mountain snow across Northern California and the Pacific Northwest\u2026",
+      "publishedAt": "2024-11-22T01:15:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Northern California faces possible record-breaking rainfall from atmospheric river and another storm is coming - CNN",
+      "url": "https://www.cnn.com/2024/11/21/weather/bomb-cyclone-atmospheric-river-west-coast-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24325732464656.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Elizabeth Palmer",
+      "content": "Tel Aviv \u2014 For the past year, hungry Gazans have waited in desperation for more food to enter the besieged territory from Israel. After aid trucks have been allowed in, there have been episodes of lo\u2026 [+2918 chars]",
+      "description": "A truck driver claims Israeli tanks and an Israeli drone watched as the aid convoy he was with was attacked in Gaza. But Israel's military says it is not responsible for protecting the aid.",
+      "publishedAt": "2024-11-22T00:41:00Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Israel stands by as aid convoys come under attack in Gaza - CBS News",
+      "url": "https://www.cbsnews.com/news/gaza-humanitarian-aid-netanyahu-icc-israel/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/11/22/730a7ad5-6576-49d4-bfb0-2f438179390c/thumbnail/1200x630/f6f73d3d2d80a5c4ebd571a15d0387ab/gettyimages-2183527574.jpg?v=6056e68389c16974d8d95eeea60b7a3a"
+    },
+    {
+      "author": "Leo Schwartz",
+      "content": "On Thursday, U.S. Securities and Exchange Commission chair Gary Gensler announced on X that he would step down from his position on January 20, the date of President-elect Trumps inauguration, markin\u2026 [+3627 chars]",
+      "description": "Gensler oversaw a turbulent time for the Securities and Exchange Commission as it battled with crypto firms and Wall street.",
+      "publishedAt": "2024-11-22T00:39:21Z",
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "title": "SEC chair Gary Gensler resigns, leaves legacy of division and crypto feuds - Fortune",
+      "url": "https://fortune.com/crypto/2024/11/21/sec-chair-gary-gensler-steps-down-trump-pro-crypto/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-2173454425_e29352-e1732212304271.jpg?resize=1200,600"
+    },
+    {
+      "author": null,
+      "content": "Teams on opposite ends of the AFC North standings will square off when the Pittsburgh Steelers meet the Cleveland Browns on Thursday Night Football. Pittsburgh is coming off an 18-16 win over the Bal\u2026 [+4373 chars]",
+      "description": "SportsLine's NFL model simulated Pittsburgh vs. Cleveland on Thursday Night Football 10,000 times",
+      "publishedAt": "2024-11-21T23:35:22Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "Browns vs. Steelers odds, prediction, spread, time: Thursday Night Football picks by NFL model on 20-8 run - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/browns-vs-steelers-odds-prediction-spread-time-thursday-night-football-picks-by-nfl-model-on-20-8-run/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/10/28/a847bd63-26ab-4f48-a2f3-9af5a740cff9/thumbnail/1200x675/91acb03a61c51ad1a89dda3a65622d07/cedric-tillman-browns-cbs-usatsi.jpg"
+    },
+    {
+      "author": "Anthony D'Alessandro",
+      "content": "Amazon MGM Studios\u2018 Dwayne Johnson and Chris Evans Christmas action movie, Red One, is crossing $100M at the global box office tomorrow. \r\nThe movie after coming in under weekend expectations in U.S.\u2026 [+2338 chars]",
+      "description": "The Dwayne Johnson and Chris Evans movie 'Red One' is crossing $100M at the global box office.",
+      "publishedAt": "2024-11-21T23:30:00Z",
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "title": "Dwayne Johnson & Chris Evans Christmas Pic \u2018Red One\u2019 Stuffing $100M In Global Box Office Bag - Deadline",
+      "url": "http://deadline.com/2024/11/box-office-red-one-dwayne-johnson-chris-evans-2-1236184540/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/MCDREON_ZU025_3503fd.jpg?w=1024"
+    },
+    {
+      "author": "The White House",
+      "content": "The ICC issuance of arrest warrants against Israeli leaders is outrageous. Let me be clear once again: whatever the ICC might imply, there is no equivalence none between Israel and Hamas.\u00a0 We will al\u2026 [+60 chars]",
+      "description": "The ICC issuance of arrest warrants against Israeli leaders is outrageous. Let me be clear once again: whatever the ICC might imply, there is no",
+      "publishedAt": "2024-11-21T23:29:44Z",
+      "source": {
+        "id": null,
+        "name": "Whitehouse.gov"
+      },
+      "title": "Statement from President Joe Biden on Warrants Issued by the International Criminal Court - The White House",
+      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/21/statement-from-president-joe-biden-on-warrants-issued-by-the-international-criminal-court/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+    },
+    {
+      "author": "Hunter Shelton",
+      "content": "Belleville (Mich.) Five-Star Plus+ quarterback Bryce Underwood, the nations No. 1 overall prospect, has flipped his commitment from LSU to Michigan, according to On3s Hayes Fawcett.\r\nPledged to the T\u2026 [+2073 chars]",
+      "description": ".",
+      "publishedAt": "2024-11-21T23:17:40Z",
+      "source": {
+        "id": null,
+        "name": "On3.com"
+      },
+      "title": "Michigan flips No. 1 prospect, Five-Star Plus+ QB Bryce Underwood from LSU - On3",
+      "url": "https://www.on3.com/news/bryce-underwood-michigan-flips-five-star-plus-qb-from-lsu/",
+      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2024/11/21172627/underwood-afi.png"
+    },
+    {
+      "author": "WYATTE GRANTHAM-PHILIPS",
+      "content": "NEW YORK (AP) Sneaking a little ahead of line to get on that plane faster? American Airlines might stop you.\r\nIn an apparent effort to reduce the headaches caused by airport line cutting, American ha\u2026 [+4142 chars]",
+      "description": "Sneaking a little ahead of line to get on that plane faster? American Airlines might stop you. In an apparent effort to reduce the headaches caused airport line cutting, American has rolled out boarding technology that alerts gate agents with an audible sound\u2026",
+      "publishedAt": "2024-11-21T22:57:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Cutting in line? American Airlines' new boarding tech might stop you at now over 100 airports - The Associated Press",
+      "url": "https://apnews.com/article/american-airlines-gate-lice-boarding-technology-907dfe7a751a0b8f19b8b0f6150c0b7b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cff2f3a/2147483647/strip/true/crop/3139x1766+0+108/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2Fb7%2F2c92848e73290d132b3073e66525%2F4852123a884048d39bdf6790f8c3ca91"
+    },
+    {
+      "author": "GABRIELA S\u00c1 PESSOA, MAURICIO SAVARESE",
+      "content": "SAO PAULO (AP) Brazils federal police said Thursday they indicted former President Jair Bolsonaro and 36 other people for allegedly attempting a coup to keep him in office after his defeat in the 202\u2026 [+3574 chars]",
+      "description": "Brazil\u2019s Federal Police have indicted former President Jair Bolsonaro and 36 other people on charges of attempting a coup to keep him in office after his electoral defeat in the 2022 elections. The findings are to be delivered Thursday to Brazil\u2019s Supreme Cou\u2026",
+      "publishedAt": "2024-11-21T22:13:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Brazilian police indict former President Bolsonaro and aides over alleged 2022 coup attempt - The Associated Press",
+      "url": "https://apnews.com/article/brazil-jair-bolsonaro-indictment-0d62fe0a7399483aee48cf3c845560ea",
+      "urlToImage": "https://dims.apnews.com/dims4/default/626fdd6/2147483647/strip/true/crop/2698x1518+0+141/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffe%2F57%2Fb130ea8be9435874673fd71a6ca6%2F084ac4709d8c4185b17b7651625390e2"
+    },
+    {
+      "author": "The Wall Street Journal",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-11-21T21:39:00Z",
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "title": "Jussie Smollett\u2019s Conviction for Lying to Police, Staging Hate Crime Is Overturned - The Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/law/jussie-smollett-conviction-overturned-illinois-supreme-court-16757f39",
+      "urlToImage": null
+    },
+    {
+      "author": "Gabrielle Fonrouge",
+      "content": "Hurricanes and unseasonably warm weather hit sales at Gap during its fiscal third quarter, but the apparel company still posted better-than-expected results, leading it to raise its annual guidance f\u2026 [+3865 chars]",
+      "description": "Gap said Old Navy's sales fell after hurricanes led to store closures and warm weather deterred sales in its kids category.",
+      "publishedAt": "2024-11-21T21:15:53Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "Gap shares surge as it raises guidance, touts 'strong start' to holiday - CNBC",
+      "url": "https://www.cnbc.com/2024/11/21/gap-gap-q3-2024-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107400006-1712854381013-gettyimages-2148295172-_s1_2799_qre96lkx.jpeg?v=1712854555&w=1920&h=1080"
+    },
+    {
+      "author": null,
+      "content": "Simone White was holidaying in south-east Asia\r\nA British lawyer has died after a suspected methanol poisoning that is thought to have killed four others in Laos, south-east Asia.\r\nSimone White, 28, \u2026 [+3004 chars]",
+      "description": "The 28-year-old lawyer becomes the fifth person to die from suspected methanol poisoning.",
+      "publishedAt": "2024-11-21T21:02:44Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Briton Simone White dies after suspected mass poisoning in Laos - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cx27wyrxz9yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3de/live/f4f05a60-a82a-11ef-9c9f-85cfc89e7be6.jpg"
+    },
+    {
+      "author": "TMZ Staff",
+      "content": "Donald Trump's incoming press secretary's a woman of few words ... 'cause we asked her for her reaction to Ellen DeGeneres and her wife Portia de Rossi leaving the U.S.A. -- and, all we got was a lot\u2026 [+1145 chars]",
+      "description": "Donald Trump's incoming press secretary's a woman of few words ... 'cause we asked her for her reaction to Ellen DeGeneres and her wife Portia de Rossi leaving the U.S.A. -- and, all we got was a lot of LOLs.",
+      "publishedAt": "2024-11-21T21:00:16Z",
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "title": "Incoming Trump White House Press Secretary Laughs at Ellen DeGeneres Leaving U.S. - TMZ",
+      "url": "https://www.tmz.com/2024/11/21/trump-press-secretary-karoline-leavitt-laughs-ellen-degeneres-leaving-country/",
+      "urlToImage": "https://imagez.tmz.com/image/7a/16by9/2024/11/21/7ae7d94be3ef4496b4218549e956eb74_xl.jpg"
+    },
+    {
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-11-21T20:57:00Z",
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
+    },
+    {
+      "author": "Jen Christensen",
+      "content": "For more than four decades, scientists have noticed a mysterious chemical in the treated drinking water of millions of people in the United States, but no ones been able to pinpoint exactly what it i\u2026 [+7575 chars]",
+      "description": "For more than four decades, scientists have noticed a mysterious chemical in the treated drinking water of millions of people in the United States, but no one\u2019s been able to pinpoint exactly what it is \u2013 until now.",
+      "publishedAt": "2024-11-21T20:11:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Solving a 40-year mystery, scientists ID chemical found in millions of Americans\u2019 tap water - CNN",
+      "url": "https://www.cnn.com/2024/11/21/health/chloronitramide-anion-drinking-water/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230314103750-pfas-orig.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Ryan Christoffel",
+      "content": "This is Rumor Replay, a new weekly column at 9to5Mac that provides a quick rundown of the most recent Apple product rumors, with my analysis and commentary. Today: Apple Television, AirTag 2 upgrades\u2026 [+3196 chars]",
+      "description": "This week\u2019s Rumor Replay column covers the Apple Television, AirTag 2\u2019s three upgrades, iPhone 17 tidbits, and the Pro Display XDR 2.",
+      "publishedAt": "2024-11-21T19:48:00Z",
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "title": "Rumor Replay: Apple Television, AirTag 2 upgrades, iPhone 17 tidbits - 9to5Mac",
+      "url": "https://9to5mac.com/2024/11/21/rumor-replay-apple-television-airtag-2-upgrades-iphone-17/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/RR-AirTag.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "author": "Barron's",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-11-21T19:39:00Z",
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "title": "DOJ-Google Fight Gets Serious. Why Alphabet Stock Is Falling Today. - Barron's",
+      "url": "https://www.barrons.com/articles/doj-google-alphabet-stock-price-9c68b28b",
+      "urlToImage": null
     },
     {
       "author": "ABC News",
@@ -28,239 +249,18 @@
     },
     {
       "author": null,
-      "content": "The Week 12 NFL schedule includes multiple divisional matchups like\u00a0Cowboys vs. Commanders (-10.5, 45), Broncos vs. Raiders (+6, 41) and Cardinals vs. Seahawks\u00a0(+1, 47.5). These rivalry games can end\u2026 [+4658 chars]",
-      "description": "SportsLine's advanced model has locked in its Week 12 NFL betting picks from 10,000 simulations",
-      "publishedAt": "2024-11-21T19:01:21Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "NFL odds, lines, picks, spreads, bets, predictions, what to bet for Week 12, 2024: Model backing Bears, Eagles - CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-what-to-bet-for-week-12-2024-model-backing-bears-eagles/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/07/b2fa853b-00a9-4de9-8335-6618a8fb0842/thumbnail/1200x675/5a11ab9b90116bba702640449a7b0781/caleb-williams-cbs-6.jpg"
-    },
-    {
-      "author": null,
-      "content": "The Illinois Supreme Court has overturned a conviction against actor Jussie Smollett, who prosecutors accused of staging a racist and homophobic attack against himself in 2019 in Chicago. \r\nSmollett,\u2026 [+1901 chars]",
-      "description": "Smollett, who is black and gay, was accused of lying about being the victim of a racial attack in Chicago.",
-      "publishedAt": "2024-11-21T18:58:58Z",
+      "content": "Kenya's President William Ruto has cancelled two major deals involving Indian billionaire Gautam Adani, after the tycoon was indicted for fraud by US prosecutors. \r\nIn his state-of-the-nation address\u2026 [+1590 chars]",
+      "description": "The Adani Group had agreed to take over the running of Kenya's main airport, prompting an outcry.",
+      "publishedAt": "2024-11-21T19:13:43Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Illinois Supreme Court overturns Jussie Smollett conviction for alleged hoax - BBC.com",
-      "url": "https://www.bbc.com/news/articles/c8xp28eq5l9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5b1b/live/cdcd0b60-a828-11ef-ad76-4d58f98fba7c.jpg"
-    },
-    {
-      "author": "MARTHA MENDOZA, BRIAN SLODYSKO, JULIET LINDERMAN",
-      "content": "SANTA CRUZ, Calif. (AP) A woman told police that she was sexually assaulted in 2017 by Pete Hegseth after he took her phone, blocked the door to a California hotel room and refused to let her leave, \u2026 [+5846 chars]",
-      "description": "A woman told police that she was sexually assaulted in 2017 by Pete Hegseth after he took her phone, blocked the door to a California hotel room and refused to let her leave. That\u2019s according to a detailed investigative report made public late Wednesday. Hegs\u2026",
-      "publishedAt": "2024-11-21T18:58:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Police report reveals assault allegations against Hegseth, Trump's pick for defense secretary - The Associated Press",
-      "url": "https://apnews.com/article/hegseth-assault-allegations-police-report-trump-e6ebec0a1a5c7fb51cb5e2198f5e12a5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f833b81/2147483647/strip/true/crop/3290x1851+0+170/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F02%2Ffb67dfa538de31834931446a9cc8%2F9c008309ff5b4a59b550ec74fd2ef0e4"
-    },
-    {
-      "author": null,
-      "content": "Towns like Vang Vieng in Laos - where the fatal poisonings took place - are known stops on the backpacking trail through South East Asia\r\nSuspected methanol poisoning from tainted drinks has reported\u2026 [+4923 chars]",
-      "description": "The deaths of five tourists after apparently drinking tainted drinks highlight the wider issue of fake or bootleg alcohol.",
-      "publishedAt": "2024-11-21T18:47:54Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Methanol poisoning deaths highlight SE Asia's fake alcohol problem - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cde7j9j76x0o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/38c4/live/e8e86b90-a82f-11ef-9c9f-85cfc89e7be6.jpg"
-    },
-    {
-      "author": "Austin Turner",
-      "content": "A Mexican cartel leader, who peddled thousands of kilograms of illegal drugs to the U.S., was killed by a business associate for \u201clying\u201d or at least that\u2019s what the public was told.\r\nAccording to pro\u2026 [+2263 chars]",
-      "description": "A Mexican cartel leader, who peddled thousands of kilograms of illegal drugs to the U.S., was killed by a business associate for \u201clying\u201d \u2014 or at least that\u2019s what the public was told. According to prosecutors, Cristian Fernando Gutierrez-Ochoa, a 37-year-old \u2026",
-      "publishedAt": "2024-11-21T18:46:11Z",
-      "source": {
-        "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "title": "Prolific Mexican cartel leader allegedly faked his own death to live \u2018life of luxury\u2019 in California - KTLA Los Angeles",
-      "url": "https://ktla.com/news/california/a-prolific-mexican-cartel-leader-allegedly-faked-his-own-death-to-live-life-of-luxury-in-california/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/11/Copy-of-mug-or-photo-crop-24.png?w=1280"
-    },
-    {
-      "author": "Haley Chi-Sing",
-      "content": "Matt Gaetz, the former Florida representative and President-elect Donald Trump's nominee for attorney general, announced Thursday that he is withdrawing as Trump's pick for the top prosecutor.\u00a0\r\nWho \u2026 [+3043 chars]",
-      "description": "Now that former Florida Rep. Matt Gaetz is out of the running to head the Justice Department, whom will Trump name to head the agency? Here are potential picks being floated.",
-      "publishedAt": "2024-11-21T18:32:19Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Who will Trump pick next for attorney general after Gaetz's withdrawal? - Fox News",
-      "url": "https://www.foxnews.com/politics/who-trump-pick-next-attorney-general-after-gaetzs-withdrawal",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/gettyimages-2183887435.jpg"
-    },
-    {
-      "author": null,
-      "content": "A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station on the Starlink 6-66 mission on Nov. 21, 2024. Image: Spaceflight Now\r\nSpaceX completed \u2026 [+1989 chars]",
-      "description": null,
-      "publishedAt": "2024-11-21T18:21:47Z",
-      "source": {
-        "id": null,
-        "name": "Spaceflight Now"
-      },
-      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral - Spaceflight Now",
-      "url": "https://spaceflightnow.com/2024/11/21/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "Washington D.C., Nov. 21, 2024 The Securities and Exchange Commission today announced that its 33rd Chair, Gary Gensler, will step down from the Commission effective at 12:00 pm on January 20, 2025. \u2026 [+8823 chars]",
-      "description": null,
-      "publishedAt": "2024-11-21T18:01:14Z",
-      "source": {
-        "id": null,
-        "name": "Sec.gov"
-      },
-      "title": "SEC Chair Gensler to Depart Agency on January 20 - SEC.gov",
-      "url": "https://www.sec.gov/newsroom/press-releases/2024-182",
-      "urlToImage": null
-    },
-    {
-      "author": "Barron's",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-11-21T17:26:00Z",
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "title": "Google Chrome Should Be Sold, DOJ Says. Alphabet Stock Tanks. - Barron's",
-      "url": "https://www.barrons.com/articles/google-chrome-breakup-alphabet-stock-2675d39a",
-      "urlToImage": null
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-11-21T17:15:22Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Tom Loy",
-      "content": "Carrollton (Ga.) High quarterback Julian Lewis\u00a0was\u00a0committed to USC since Aug. 22, 2023. However, after a long recruitment that included plenty of twists and turns, he decommitted\u00a0Nov. 17 while Troja\u2026 [+6950 chars]",
-      "description": "Carrollton Ga High fourstar Julian Lewis 247Sports No 115 overall prospect and No 9 quarterback in college footballs 2025 recruiting class decommitted from USC Nov 17 and flipped to Deion Sanders Colorado program",
-      "publishedAt": "2024-11-21T17:15:00Z",
-      "source": {
-        "id": null,
-        "name": "247Sports"
-      },
-      "title": "Julian Lewis commits to Colorado, Deion Sanders as Top247 QB completes flip from USC - 247Sports",
-      "url": "https://247sports.com/article/julian-lewis-commits-to-colorado-deion-sanders-as-top247-qb-completes-flip-from-usc-234531251/",
-      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/933/540/12540933.png?width=1200&height=628&crop=1.91:1&fit=cover"
-    },
-    {
-      "author": "Aisha Malik",
-      "content": "WhatsApp announced on Thursday it\u2019s rolling out voice message transcripts. The Meta-owned company says the new feature will come in handy when you\u2019re on the move or in a loud place where you can\u2019t li\u2026 [+1519 chars]",
-      "description": "WhatsApp announced on Thursday that it's rolling out voice message transcripts to let users read voice messages.",
-      "publishedAt": "2024-11-21T17:01:00Z",
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "title": "WhatsApp rolls out voice message transcripts - TechCrunch",
-      "url": "https://techcrunch.com/2024/11/21/whatsapp-rolls-out-voice-message-transcripts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/Green-white-apple-logo.jpg?resize=1200,900"
-    },
-    {
-      "author": "MOLLY QUELL",
-      "content": "THE HAGUE (AP) The worlds top war-crimes court issued arrest warrants Thursday for Israeli Prime Minister Benjamin Netanyahu, his former defense minister and Hamas military chief, accusing them of cr\u2026 [+7359 chars]",
-      "description": "The warrant was issued to Netanyahu, his former defense minister Gallant, and Hamas officials, accusing them of war crimes.",
-      "publishedAt": "2024-11-21T16:35:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Top war-crimes court issues arrest warrants for Netanyahu, ex-defense minister and a Hamas leader - The Associated Press",
-      "url": "https://apnews.com/article/icc-israel-hamas-warrants-netanyahu-palestinian-arrest-73c854d072e0a1a41b19b2cb2cdd07fa",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7a161a6/2147483647/strip/true/crop/5236x2945+0+273/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2F5c%2F4c959270376049b897720b3080a9%2F8e770576983e4f2e9825b9d35ba737bd"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Green Bay motivated to reverse this past January\u2019s fortunes",
-      "publishedAt": "2024-11-21T16:19:14Z",
-      "source": {
-        "id": null,
-        "name": "Packers.com"
-      },
-      "title": "Packers eager for playoff rematch with \u2018dangerous\u2019 49ers - Packers.com",
-      "url": "https://www.packers.com/news/packers-eager-for-playoff-rematch-with-dangerous-49ers-2024",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xvhjbn8knfyo3udho8ri"
-    },
-    {
-      "author": null,
-      "content": "I do not have the largest TV ever, or even the largest TV among my friends and family, but there's no place I would rather be when watching a movie or playing a game at night than my couch. For the l\u2026 [+2097 chars]",
-      "description": "Govee's TV Backlight 3 makes your TV feel bigger and more cinematic, and this new Black Friday price is an absolute steal.",
-      "publishedAt": "2024-11-21T16:12:00Z",
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "title": "This TV Accessory Makes Me Feel Like I'm in a Theater Every Night, and It's Under $50 for Black Friday - CNET",
-      "url": "https://www.cnet.com/deals/this-tv-accessory-makes-me-feel-like-im-in-a-theater-every-night-and-its-under-50-for-black-friday/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/a65f439c9c8be7fb6e7a476bc43525de26763aa3/hub/2024/11/21/70bad755-215f-4210-848e-2f92a10cd839/img-4315.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
-    {
-      "author": "Mitchel Broussard",
-      "content": "Anker today kicked off its big Black Friday sale, which is set to run through December 9. This sale includes notable discounts on portable chargers, USB-C hubs, cables, and more.\r\nNote: MacRumors is \u2026 [+2474 chars]",
-      "description": "Anker today kicked off its big Black Friday sale, which is set to run through December 9. This sale includes notable discounts on portable chargers,...",
-      "publishedAt": "2024-11-21T15:53:07Z",
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "title": "Anker Kicks Off Massive Black Friday Sale With Up to 50% Off Sitewide, Free Gifts With Purchase, Mystery Boxes, and More - MacRumors",
-      "url": "https://www.macrumors.com/2024/11/21/anker-kicks-black-friday-sale/",
-      "urlToImage": "https://images.macrumors.com/t/gL6uNwpZaQpxlX6HOXOJIf7rnpo=/2500x/article-new/2023/11/anker-new-xmas-1.jpg"
-    },
-    {
-      "author": "Alexandra Bellusci",
-      "content": "Fans are looking back at a heartbreaking message Liam Payne wrote online years prior to his\u00a0tragic death at 31.\r\n\u201cIf I died would you come to ma funeral \u2026?\u201d he penned on X, formerly Twitter, in 2010.\u2026 [+3849 chars]",
-      "description": "The singer penned the heartbreaking tweet on X in 2010.",
-      "publishedAt": "2024-11-21T15:44:00Z",
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "title": "Liam Payne\u2019s eerie 2010 tweet about his funeral goes viral after he\u2019s laid to rest - New York Post ",
-      "url": "https://nypost.com/2024/11/21/entertainment/liam-paynes-eerie-2010-tweet-about-his-funeral-goes-viral-after-hes-laid-to-rest/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/2024-amersham-united-kingdom-former-94075024_920281.jpg?quality=75&strip=all&w=1024"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-11-21T15:33:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
+      "title": "Kenya's President William Ruto cancels major deals with Adani Group - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c39nyvvmne8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6240/live/0fe7cdf0-a829-11ef-9c9f-85cfc89e7be6.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 35
+  "totalResults": 32
 }
