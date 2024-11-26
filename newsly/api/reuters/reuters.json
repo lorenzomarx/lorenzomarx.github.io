@@ -1,12 +1,28 @@
 {
   "articles": [
     {
+      "author": "Devjyot Ghoshal, Poppy Mcpherson",
+      "description": "Thousands of Rohingya insurgents have emerged from refugee camps in Bangladesh\u2019s Cox's Bazar, where militant recruitment and violence have surged this year, according to people familiar with the conflict and internal aid agency reports seen by Reuters.",
+      "publishedAt": "2024-11-25T02:37:16Z",
+      "title": "In world's largest refugee camps, Rohingya mobilise to fight in Myanmar",
+      "url": "https://www.reuters.com/world/asia-pacific/worlds-largest-refugee-camps-rohingya-mobilise-fight-myanmar-2024-11-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/RVBMVKCLZVKURELGO5Q6K3S4WY.jpg?auth=7439318d1bacc032bb1c921a5e1bdf80861bc40078f2721b702cda390eba7a26&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Reuters",
       "description": "Lebanon's Hezbollah fired heavy rocket barrages at Israel on Sunday, with Israeli media reporting that a building had been hit near Tel Aviv, after a powerful Israeli airstrike killed at least 20 people in Beirut the day before.",
       "publishedAt": "2024-11-24T15:30:19Z",
       "title": "Hezbollah rocket hits near Tel Aviv after Beirut airstrike",
       "url": "https://www.reuters.com/world/middle-east/hezbollah-rocket-hits-near-tel-aviv-after-beirut-airstrike-2024-11-24/",
       "urlToImage": "https://www.reuters.com/resizer/v2/D2I4H6GVLFPYHEFVSQVC47VZCQ.jpg?auth=fd1fd509dbf630a8c454ab3236b547c0d0ecf45234d84934f2fdaf47254a7d65&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Taiwan's defence ministry on Monday reported that a Chinese balloon had been detected over the sea to Taiwan's north, the first time since April it has reported such an incident in what Taipei views as part of a pattern of harassment by Beijing.",
+      "publishedAt": "2024-11-25T02:49:52Z",
+      "title": "Taiwan reports Chinese balloon, first time in six months",
+      "url": "https://www.reuters.com/world/asia-pacific/taiwan-reports-chinese-balloon-first-time-six-months-2024-11-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/BRTD6MDNLVI5VFIPHLBMPXWU2I.jpg?auth=9f9e8adca0e29457de1c2ec487f4c26731b66ba5c30ee3516cc85b4629247074&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -17,12 +33,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/6X5DWKK6FVNU7GQ7P5LBP7KQCE.jpg?auth=f54bd02a8e4bfc91e97a9429fbc00b99b6768aef775e3f18ae87fef48c190119&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Tom Balmforth",
-      "description": "Ukrainian investigators are studying the debris of a new Russian intermediate-range ballistic missile that was fired at the city of Dnipro on Thursday, the first time such a powerful weapon has been used in the war.",
-      "publishedAt": "2024-11-24T12:56:10Z",
-      "title": "Ukraine studies debris from new Russian ballistic missile",
-      "url": "https://www.reuters.com/world/europe/ukraine-studies-debris-new-russian-ballistic-missile-2024-11-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/33THZKVW5FIKDPK4EBAPDD2D3M.jpg?auth=bd3ad7c3deda591b497c3804d12d5f04160b3866f0162729946e212dc05b5c33&height=1005&width=1920&quality=80&smart=true"
+      "author": "Lucinda Elliott",
+      "description": "Voters in South America's laid-back Uruguay, known for its beaches, legalized marijuana and stability, will head to the polls on Sunday in a second-round presidential race between moderates that closes out a bumper year of elections.",
+      "publishedAt": "2024-11-24T07:04:52Z",
+      "title": "Uruguay votes for next president in closely fought runoff race",
+      "url": "https://www.reuters.com/world/americas/uruguay-votes-next-president-closely-fought-runoff-race-2024-11-24/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SXCUA5QQARO6ZGCIL6SWBJZCGA.jpg?auth=b46f1eb238954552403c6cedd029abc02ae5937103a98efd589c3b7ceb82b945&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Luiza Ilie",
@@ -33,14 +49,6 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/D7OWK5LDZBNGNKR7ZQAGOZZJJA.jpg?auth=b09c297c29f33c4107b44f99e92541e0e3764f96213074dfef716a437c094b0d&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Lucinda Elliott",
-      "description": "Voters in South America's laid-back Uruguay, known for its beaches, legalized marijuana and stability, will head to the polls on Sunday in a second-round presidential race between moderates that closes out a bumper year of elections.",
-      "publishedAt": "2024-11-24T07:04:52Z",
-      "title": "Uruguay votes for next president in closely fought runoff race",
-      "url": "https://www.reuters.com/world/americas/uruguay-votes-next-president-closely-fought-runoff-race-2024-11-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/SXCUA5QQARO6ZGCIL6SWBJZCGA.jpg?auth=b46f1eb238954552403c6cedd029abc02ae5937103a98efd589c3b7ceb82b945&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Nidal Al-Mughrabi",
       "description": "The Israeli military issued new evacuation orders to residents in areas of an eastern Gaza City suburb, setting off a new wave of displacement on Sunday, and a Gaza hospital director was injured in an Israeli drone attack, Palestinian medics said.",
       "publishedAt": "2024-11-24T10:40:51Z",
@@ -49,36 +57,28 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/A3NG66CTEFJRNFZXCYMFDDRTVI.jpg?auth=bf61c1bc3ae0ee10a6c1fb2fa86892cf2d05fccdd9998ae428e5a4c8c3e74cc4&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "Poland's main opposition party, the nationalist Law and Justice (PiS), picked historian Karol Nawrocki on Sunday as its candidate for next year's presidential election, hoping to hold onto the presidency after losing control of parliament.",
-      "publishedAt": "2024-11-24T18:22:56Z",
-      "title": "Poland's PiS party picks historian Nawrocki for presidential run",
-      "url": "https://www.reuters.com/world/europe/polands-pis-party-picks-historian-nawrocki-presidential-run-2024-11-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/O6TK76GKWJMALGF67WUVZCYGKU.jpg?auth=a9364a5fa6a20d7c9aa01e3431ed2068dd08c2579f21001ffc5920cb154ca10a&height=1005&width=1920&quality=80&smart=true"
+      "author": "Lucinda Elliott",
+      "description": "Uruguay's new president-elect Yamandu Orsi, whose political ambitions were galvanized by his experience growing up in a dictatorship, was the pollsters' narrow favorite to win the second round of the South American nation's presidential election on Sunday for the center-left.",
+      "publishedAt": "2024-11-20T10:02:06Z",
+      "title": "Who is Yamandu Orsi, Uruguay's new 'modern left' president?",
+      "url": "https://www.reuters.com/world/americas/uruguay-election-frontrunner-yamandu-orsi-pledges-modern-left-2024-11-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SGGZ3MO2X5KOHNDFU6Y5CARF64.jpg?auth=5c019923dbc6e17b8d64b75421f8ae5089164157ccbd2059ad316fa3c5784b9c&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Pakistan's capital was put under a security lockdown on Sunday ahead of protests by supporters of jailed former Prime Minister Imran Khan calling for his release.",
-      "publishedAt": "2024-11-24T07:57:12Z",
-      "title": "Islamabad locked down ahead of protests seeking ex-PM Imran Khan's release",
-      "url": "https://www.reuters.com/world/asia-pacific/islamabad-locked-down-ahead-protests-seeking-ex-pm-imran-khans-release-2024-11-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/LZ6CQUBYKVJLVAA6GHVWMNIQ5I.jpg?auth=59f3a7b2b563b42ab38b84ba13a64a1fdf92fe2c6e3454505c22b8cbe3045e61&height=1005&width=1920&quality=80&smart=true"
+      "description": "Two Danes, two Australians, a Briton and an American died from methanol poisoning after visiting Vang Vieng, an idyllic town that is popular with foreign backpackers.",
+      "publishedAt": "2024-11-25T01:20:20Z",
+      "title": "New Zealand citizen poisoned by tainted alcohol in Laos returns home",
+      "url": "https://www.reuters.com/world/asia-pacific/new-zealand-citizen-poisoned-by-tainted-alcohol-laos-returns-home-2024-11-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/BRBANOOVNVKVZL27I5BOZHBTGU.jpg?auth=987440b13710e68eafe951c7f54502d938e2bbff2a55a53dd0e16a7249a07535&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "Swiss voters narrowly rejected a change in the law giving landlords more powers to restrict subletting by tenants, according to preliminary results of a referendum on Sunday that scrutinized Airbnb's role in the rental market.",
-      "publishedAt": "2024-11-24T17:05:54Z",
-      "title": "Swiss voters reject more powers for landlords on subletting",
-      "url": "https://www.reuters.com/world/europe/swiss-voters-reject-more-powers-landlords-subletting-2024-11-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/64D2UYQNB5ICTNELIEMZZHV75Y.jpg?auth=807ef75b67c4853b0c9a59383d152028319504f06de3f0f8ba688e0ae9a72ba5&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Israel is moving towards a ceasefire agreement in Lebanon with the Hezbollah militant group, Axios reporter Barak Ravid posted on X on Sunday, citing a senior Israeli official.",
-      "publishedAt": "2024-11-24T22:06:48Z",
-      "title": "Israel moving towards a ceasefire deal in Lebanon, Axios reports",
-      "url": "https://www.reuters.com/world/middle-east/israel-moving-towards-ceasefire-deal-lebanon-axios-reports-2024-11-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/IQHUXWMDSZKL3C2MC2CIUG7PFM.jpg?auth=2e19647016cd923cb3268404c749c3ca3bed494cba6ae4dd6436cd5c0df673b7&height=1005&width=1920&quality=80&smart=true"
+      "author": "Alasdair Pal",
+      "description": "Australia Prime Minister Anthony Albanese said on Monday social media firms would be required to destroy personal data used to verify ages of users, as part of what the government says is a world-leading ban on under-16s using the services.",
+      "publishedAt": "2024-11-25T02:56:48Z",
+      "title": "Australia PM plays down privacy fears of social media ban for children",
+      "url": "https://www.reuters.com/world/asia-pacific/australia-pm-plays-down-privacy-fears-social-media-ban-children-2024-11-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/U5XG4PHF7RPIRD4TPWUT77OQAU.jpg?auth=c99f0745280dc1c9cee8460e238c9e9e8a2e1282847ef9cb2bf155dc2338e175&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
