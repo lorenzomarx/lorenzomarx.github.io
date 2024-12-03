@@ -1,12 +1,20 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "Police in Georgia fired water cannon and tear gas to disperse protesters in Tbilisi, the capital, who opposed the government's decision to suspend talks on joining the European Union, while some were detained, Russian agencies said on Monday.",
+      "publishedAt": "2024-12-02T04:47:12Z",
+      "title": "Georgia police fire tear gas to scatter protesters, Russian agencies say",
+      "url": "https://www.reuters.com/world/europe/georgia-police-fire-tear-gas-scatter-protesters-russian-agencies-say-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/X67XLCNYWJOG3IEOXKQCXGBSMM.jpg?auth=3800fb5f1645b7c0422e747936d8ee1ae6d0d4951ed52cc9aec5e213b0f7e17b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Suleiman Al-Khalidi",
-      "description": "Insurgents swept into Aleppo, east of Idlib province, on Friday night, forcing the army to redeploy in the biggest challenge to President Bashar al-Assad in years.",
-      "publishedAt": "2024-12-01T11:30:35Z",
-      "title": "Russian, Syrian jets intensify bombing of Syria's rebel-held northwest",
-      "url": "https://www.reuters.com/world/middle-east/russian-syrian-jets-intensify-bombing-syrias-rebel-held-northwest-2024-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/DJXAPGKIR5O47AT7FPGQP6SVLY.jpg?auth=ad2831f1ff8dc743de474fd223e3e4a2dc96b59bdf846571a7a831ee166c74d6&height=1005&width=1920&quality=80&smart=true"
+      "description": "At least 25 people were killed in northwestern Syria in air strikes carried out by the Syrian government and Russia, the Syrian opposition-run rescue service known as the White Helmets said early on Monday.",
+      "publishedAt": "2024-12-02T02:51:29Z",
+      "title": "At least 25 killed as Russian, Syrian jets intensify bombing of Syrian rebel territory",
+      "url": "https://www.reuters.com/world/least-25-killed-russian-syrian-jets-intensify-bombing-syrian-rebel-territory-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/EP4T6SCYIFOLTJIUYWKM4N7644.jpg?auth=45439936b90e3b68553eb04635c95894348d8363f0bb49624690b0920dba1c49&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Nidal Al-Mughrabi",
@@ -17,20 +25,36 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/AAHC6K572VPNHCCLINR5BUIVGY.jpg?auth=386145b9170ca86dbdfe74b19d8e4e4c22bc13182eddd1c48db3e6993df5c37f&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Felix Light",
-      "description": "Irakli Kobakhidze praised police for cracking down on protesters.",
-      "publishedAt": "2024-12-01T11:28:02Z",
-      "title": "Georgian PM dismisses US condemnation of violence against protesters",
-      "url": "https://www.reuters.com/world/europe/georgian-pm-says-president-must-vacate-office-2024-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/SHCMOTUW2FL27BPK4YT2IYM42Q.jpg?auth=0ed9310d416d6d9bc4fda5905c62e49e0b59d2cc5de978171c5943af2c87bc25&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Luiza Ilie",
       "description": "Romania's ruling leftist Social Democrats (PSD) looked set to win the most votes in a parliamentary election on Sunday, defeating a resurgent far-right movement challenging the country's pro-Western orientation, an exit poll showed.",
       "publishedAt": "2024-12-01T19:04:57Z",
       "title": "Romanian leftists ahead of resurgent far-right in election: exit poll",
       "url": "https://www.reuters.com/world/romanian-leftists-ahead-resurgent-far-right-election-exit-poll-2024-12-01/",
       "urlToImage": "https://www.reuters.com/resizer/v2/ITQ47ALBCZO7VIADLFQI6M63OY.jpg?auth=d90cf8e411be59945597aeb2fd7d8c303d9e2510e0817f143ee238bf7d7b4398&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Jeff Mason",
+      "description": "The White House had said repeatedly that Biden would not pardon or commute the sentences of his son, a recovering drug addict who became a target of Republicans, including Donald Trump.",
+      "publishedAt": "2024-12-02T00:40:16Z",
+      "title": "Biden says he is pardoning his son, Hunter",
+      "url": "https://www.reuters.com/world/us/biden-says-he-is-pardoning-his-son-hunter-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LIOPYL2TPVJHZET67WODI3UFUI.jpg?auth=ad48dbdb07f2feca4d9043c70b5a6dd4cf3233164666db172fbb587c4d83f529&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Russia's drone attack on Ukraine's western city of Ternopil hit a residential building, killing one person and injuring several others, Ternopil's military administration said on Monday.",
+      "publishedAt": "2024-12-02T02:36:06Z",
+      "title": "Russia's drone attack on Ternopil kills one, Ukraine's military says",
+      "url": "https://www.reuters.com/world/europe/russias-drone-attack-ternopil-kills-one-ukraines-military-says-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "President Ferdinand Marcos Jr. said on Monday the reported presence of a Russian submarine in the Philippine's exclusive economic zone (EEZ) in the South China Sea was \"very worrisome\".",
+      "publishedAt": "2024-12-02T03:41:49Z",
+      "title": "Philippines' Marcos says reported presence of Russian submarine 'very worrisome'",
+      "url": "https://www.reuters.com/world/philippines-marcos-says-reported-presence-russian-submarine-very-worrisome-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/CGSYGA44DFIRVFJQ3M4WHMRJEA.jpg?auth=edc8c8110e37b258c74ae1e87fbb2818d0761ebc9e53f035ccb2d75153a7960e&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "David Ljunggren",
@@ -41,44 +65,20 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/3H5TQVWPRNJFTNPJC2CL363BVY.jpg?auth=841c57ac0b84e95d9ca4b06f84ea161bc4c5f3cf869818491736cb2c4d781e7c&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "To survive the vote in the fractured lower house, Barnier needs Marine Le Pen's party to abstain, otherwise his government and the budget bill could fall, plunging France into a political crisis.",
-      "publishedAt": "2024-12-01T11:29:07Z",
-      "title": "Le Pen tells France's Barnier to negotiate or be felled",
-      "url": "https://www.reuters.com/world/europe/le-pen-tells-frances-barnier-negotiate-or-be-felled-2024-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/CIDOKV2ZFZPKXBW2NYFQ7LIXI4.jpg?auth=5c36b1483f9178bc7ebb6199702b8e9ff21bfe3b804ec0810e8a7654ff0b97a4&height=1005&width=1920&quality=80&smart=true"
+      "author": "Jessica Donati, Trevor Hunnicutt",
+      "description": "His trip delivers on one of a big set of pledges to Africa. Others remain unrealized, such as backing two permanent seats for Africa at the U.N. Security Council.",
+      "publishedAt": "2024-12-01T05:04:11Z",
+      "title": "Biden's long-awaited Africa trip to tout a win against China",
+      "url": "https://www.reuters.com/world/africa/bidens-long-awaited-africa-trip-tout-win-against-china-2024-12-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ITI6QW2Y4ZIULGKU6NPJU5JRFM.jpg?auth=6642713bc8d2dc964b382f8d373a9823d679b8fa907f9d3a8d20e46aba76c9e2&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Crispian Balmer",
-      "description": "A former Israeli defense minister has accused Israel of committing war crimes and ethnic cleansing in the Gaza Strip, drawing a sharp rebuke from government ranks.",
-      "publishedAt": "2024-12-01T17:18:04Z",
-      "title": "Former Israeli defense minister Yaalon warns of ethnic cleansing in Gaza",
-      "url": "https://www.reuters.com/world/middle-east/former-israeli-defense-minister-yaalon-warns-ethnic-cleansing-gaza-2024-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/YC75SUCP2BJ4HLWSTWY5IHD7TU.jpg?auth=380ac1d7587884276392fab960c5588b7227230919cbd72251d3625f21f9468e&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Joyce Lee, Valerie Volcovici",
-      "description": "The hoped-for treaty to come out of these talks could be the most significant deal relating to environmental protection as well as climate-warming emissions since the 2015 Paris Agreement.",
-      "publishedAt": "2024-11-30T23:00:27Z",
-      "title": "Battle over curbing plastic output jeopardises UN treaty hopes",
-      "url": "https://www.reuters.com/business/environment/over-100-countries-back-plastic-treaty-caps-talks-reach-fierce-finish-2024-11-30/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3LHYEK6JMVLIVJPGLSSJ576OO4.jpg?auth=18ddcc918126d63ec33e1af8d7db2f2a67246dc45cc272dd433e779dac00bfeb&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Meta in October said it took down 8,000 so-called celeb bait ads.",
-      "publishedAt": "2024-12-01T18:08:06Z",
-      "title": "Meta tightens ad rules to curb financial scams aimed at Australians",
-      "url": "https://www.reuters.com/technology/meta-tightens-ad-rules-curb-financial-scams-aimed-australians-2024-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XTIZKEIU3RIMLO2Z4PDERNILRI.jpg?auth=3bfee71edb3a13ec3fc801038f66734aed37f209b082c2e36efa00ba25554ef7&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Ecuadorean police reported on Sunday that officers found 10 dead bodies at a property in Guabo, a community in El Oro province in the Andean country's south.",
-      "publishedAt": "2024-12-01T20:14:05Z",
-      "title": "Ecuador police report 10 killed in El Oro province",
-      "url": "https://www.reuters.com/world/americas/ecuador-police-report-10-killed-el-oro-province-2024-12-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "author": "Stephanie Van Den Berg",
+      "description": "The United Nations' top court on Monday starts hearings on the legal obligation of countries to fight climate change and the consequences for states of contributing to global warming, the outcome of which could influence litigation worldwide.",
+      "publishedAt": "2024-12-02T04:12:44Z",
+      "title": "World Court to open climate change hearings",
+      "url": "https://www.reuters.com/business/environment/world-court-open-climate-change-hearings-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KUYWJSBWV5IWFPLA3U57ZWSDNQ.jpg?auth=d74d27e19b96ad1434ba3783e7f771e694372efbea630b8417922a174f49640f&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
