@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Elizabeth Pineau, Dominique Vidalon",
+      "description": "Prime Minister Michel Barnier dropped planned cuts to medication reimbursements in a last-minute bid to get his 2025 budget bill over the line.",
+      "publishedAt": "2024-12-02T07:27:27Z",
+      "title": "France's Barnier makes last-minute concession to far right in bid to avoid being toppled",
+      "url": "https://www.reuters.com/world/europe/french-far-right-party-likely-back-no-confidence-motion-against-government-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/M6MF6KAU6RPA7MEVY76VB6YWUQ.jpg?auth=1e6fee86420373b57f6ddb10377786d5fb0d68aeea6a1b1d44566245f1f32f4e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Suleiman Al-Khalidi, Maya Gebeily",
       "description": "Hundreds of fighters from Iran-backed Iraqi militias crossed into Syria overnight to help the government fight rebels who seized Aleppo last week, Syrian and Iraqi sources said on Monday, and Tehran pledged to aid the Damascus government.",
       "publishedAt": "2024-12-02T11:54:38Z",
@@ -9,12 +17,44 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/C3HDH5U4YNI7JIKVWKR3GJRVQ4.jpg?auth=abba81fc5ca1bdd28144291657336ed1655d5cc5405a213cd00789eb41c66d39&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Jonathan Spicer",
-      "description": "Syrian rebel fighters began preparations to seize Aleppo a year ago but the operation was delayed by war in Gaza and ultimately launched last week when a ceasefire took hold in Lebanon, the head of Syria's main opposition abroad told Reuters.",
-      "publishedAt": "2024-12-02T16:09:19Z",
-      "title": "Syrian opposition leader says Lebanon truce opened door to Aleppo assault",
-      "url": "https://www.reuters.com/world/middle-east/syrian-opposition-leader-says-lebanon-truce-opened-door-aleppo-assault-2024-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ENIFHCJBFBLZRKYNRRJAVE57BQ.jpg?auth=2775dd3f428bb04da95047f3df3b3064a35e97cf2f44be348097ad33ed496fd5&height=1005&width=1920&quality=80&smart=true"
+      "author": "Patricia Zengerle",
+      "description": "The United States will provide Ukraine with a $725 million weapons package, Secretary of State Antony Blinken said on Monday, as President Joe Biden's outgoing administration seeks to bolster the government in Kyiv in its war with Russian invaders before leaving office in January.",
+      "publishedAt": "2024-12-02T20:51:30Z",
+      "title": "US announces Ukraine weapons package worth $725 million",
+      "url": "https://www.reuters.com/world/us-announces-ukraine-weapons-package-worth-725-million-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/22OVDVVHRRKMHNFQI6TNU2LNZU.jpg?auth=f2c4a1b0444b40673dfc4ef48ac17f7360ee0fd0b6fe1f947bc7fd4c8513ef7a&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Maya Gebeily, Adam Makary",
+      "description": "The Israeli military said on Monday it struck dozens of targets throughout Lebanon, shortly after Hezbollah accused Israel of violating a ceasefire agreement and fired missiles on an Israeli military position in the disputed Shebaa Farms area.",
+      "publishedAt": "2024-12-02T12:25:52Z",
+      "title": "Israel strikes Lebanon after Hezbollah attack as ceasefire violations mount",
+      "url": "https://www.reuters.com/world/middle-east/lebanon-says-two-killed-israeli-strikes-despite-truce-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KAY37WUHMZOJHAC2KAFETQLP3Y.jpg?auth=e4aa6831614cc93f1089a948909db9b04285e1ca0c9cc655c4a28c7f5e81f997&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The number of migrants reaching Spain's Canary Islands on precarious vessels from West Africa has hit an all-time annual record with 41,425 arrivals between Jan. 1 and Nov. 30 of this year, Interior Ministry data showed on Monday.",
+      "publishedAt": "2024-12-02T22:26:11Z",
+      "title": "Number of migrants reaching Spain's Canary Islands breaks all-time record",
+      "url": "https://www.reuters.com/world/europe/number-migrants-reaching-spains-canary-islands-breaks-all-time-record-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/GXKESCXJMRIY5A34PNLFT3KQUY.jpg?auth=f180f4cc8a34857fdd5d984164d36864aee1b6bdc26417d734eed638e0286a64&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Harvey Weinstein was taken to hospital on Monday for treatment after an \"alarming\" blood test result that required immediate medical attention, and he is expected to stay there until his condition stabilizes, his lawyer said.",
+      "publishedAt": "2024-12-02T21:46:06Z",
+      "title": "Harvey Weinstein taken to hospital after 'alarming' blood test, his lawyer says",
+      "url": "https://www.reuters.com/world/us/harvey-weinstein-taken-hospital-after-alarming-blood-test-his-lawyer-says-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XURESOYOJFNETM4NM6NNLTMCSM.jpg?auth=7472638a4f1031661e700908aa1833917b7e8d71afae405996267a4b65c9ab53&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Pavel Polityuk, Tom Balmforth",
+      "description": "German Chancellor Olaf Scholz announced new military aid for Ukraine during a rare visit on Monday that he said sent a message to Russian President Vladimir Putin that Berlin would stand by Kyiv for as long as needed in the war.",
+      "publishedAt": "2024-12-02T07:11:44Z",
+      "title": "Germany's Scholz pledges new military aid to Ukraine during rare Kyiv trip",
+      "url": "https://www.reuters.com/world/europe/germanys-scholz-arrives-kyiv-surprise-visit-zdf-reports-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/QQ3JPZSXMNLGVIUZYYLWJE7DMQ.jpg?auth=2f56e415dbe54188ece54a0fdc55f2b5e60b0d6503407d16d9a9b302221f609f&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -25,60 +65,20 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/X67XLCNYWJOG3IEOXKQCXGBSMM.jpg?auth=3800fb5f1645b7c0422e747936d8ee1ae6d0d4951ed52cc9aec5e213b0f7e17b&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Nidal Al-Mughrabi",
-      "description": "Israeli forces bombarded houses in overnight attacks in the northern Gaza Strip, killing at least 15 people in one of the buildings in the town of Beit Lahiya, Palestinian medics said on Monday.",
-      "publishedAt": "2024-12-02T09:23:50Z",
-      "title": "Israeli army bombards homes in north Gaza, airstrike kills 15, medics say",
-      "url": "https://www.reuters.com/world/middle-east/israeli-army-bombards-homes-north-gaza-airstrike-kills-15-medics-say-2024-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Elizabeth Pineau, Dominique Vidalon",
-      "description": "Prime Minister Michel Barnier dropped planned cuts to medication reimbursements in a last-minute bid to get his 2025 budget bill over the line.",
-      "publishedAt": "2024-12-02T07:27:27Z",
-      "title": "France's Barnier makes last-minute concession to far right in bid to avoid being toppled",
-      "url": "https://www.reuters.com/world/europe/french-far-right-party-likely-back-no-confidence-motion-against-government-2024-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/M6MF6KAU6RPA7MEVY76VB6YWUQ.jpg?auth=1e6fee86420373b57f6ddb10377786d5fb0d68aeea6a1b1d44566245f1f32f4e&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Hamuda Hassan, Ahmed Fahmy",
-      "description": "When a ceasefire between Israel and Hezbollah came into effect last week, Lebanese hotelier Abbas al-Tannoukhi leapt at the chance to bury a dead relative in their southern hometown of Khiyam, battered for weeks by intense clashes.",
-      "publishedAt": "2024-12-02T15:15:05Z",
-      "title": "With Israeli tanks on the ground, Lebanese unable to bury dead",
-      "url": "https://www.reuters.com/world/middle-east/with-israeli-tanks-ground-lebanese-unable-bury-dead-2024-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/Z63L5UPKKBKE5NWIHICLR5WDII.jpg?auth=d473d45264e5790b081e08acb40641146afcb7e4d1fe78ae5c26b27968f2c97f&height=1005&width=1920&quality=80&smart=true"
+      "author": "Luis Jaime Acosta",
+      "description": "Colombia's illegal armed groups have taken advantage of the government's pursuit of peace to strengthen themselves militarily and economically, the commander of the country's armed forces said on Monday.",
+      "publishedAt": "2024-12-02T18:31:48Z",
+      "title": "Colombia armed groups used peace talks to build strength, military commander says",
+      "url": "https://www.reuters.com/world/americas/colombia-armed-groups-used-peace-talks-build-strength-military-commander-says-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4RCQRHGIYJML3CKYTOFWV4F5VI.jpg?auth=13e414b45d56a00c29839d68a8fc3d360a44196c53f4a7869e276669f4d8d321&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Lebanese armed group Hezbollah does not currently intend to send fighters to northern Syria to support the Syrian army there, three sources familiar with the Iran-backed group's thinking told Reuters on Monday.",
-      "publishedAt": "2024-12-02T15:54:57Z",
-      "title": "Exclusive: Hezbollah not intending to send fighters to Assad in Syria for now, sources say",
-      "url": "https://www.reuters.com/world/middle-east/hezbollah-not-intending-send-fighters-assad-syria-now-sources-say-2024-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/HGCQQIUI2VOWJPPDU2R37VZ57M.jpg?auth=c80687bc6c7a8bb3ab7fc79e37533bd8393ceec44fc42862526d759959550979&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Saliou Samb, Bate Felix",
-      "description": "Some fans threw stones, triggering panic and a crush, a government statement said, promising an investigation.",
-      "publishedAt": "2024-12-02T07:59:07Z",
-      "title": "Guinea stadium crush kills 56 people after disputed refereeing decision",
-      "url": "https://www.reuters.com/world/africa/dozens-reported-killed-guinea-soccer-stadium-crush-2024-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/SO3FYGBAWZNZ5LT45CIH2AFO7I.jpg?auth=39402409eb59df80029ec39cb12d63343aa7d5aea2c567d1f51d7c9381db326c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Ricardo Brito, Adriano Machado",
-      "description": "The involvement of Indigenous people in illegal gold hunting, lured by the prospect of easy money due to record prices, has made Brazil's task of cracking down on wildcat mining in the Amazon far harder, environmental agents and police say.",
-      "publishedAt": "2024-12-02T14:35:50Z",
-      "title": "Indigenous mining complicates Brazil's fight against illegal gold",
-      "url": "https://www.reuters.com/business/environment/indigenous-mining-complicates-brazils-fight-against-illegal-gold-2024-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/L6TGJC7MGNPHTLNLE4FECO22JU.jpg?auth=1d93c750b18c0f64ba18c07a8a0d05b7db93cf7ea8974116df4b60103c7d5172&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Palestinian militant group Hamas said on Monday that 33 hostages had been killed during the almost 14-month-old war with Israel in Gaza, without clarifying their nationalities.",
-      "publishedAt": "2024-12-02T16:11:20Z",
-      "title": "Hamas says 33 hostages killed during war in Gaza",
-      "url": "https://www.reuters.com/world/middle-east/hamas-says-33-hostages-killed-during-war-gaza-2024-12-02/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "description": "Slovakia expelled two men suspected of monitoring energy infrastructure targets including along a major pipeline carrying gas from Ukraine, and Interior Minister Matus Sutaj Estok said on Monday security services had dismantled a rogue cell.",
+      "publishedAt": "2024-12-02T20:03:21Z",
+      "title": "Slovakia expels two for suspected monitoring of energy targets, including gas pipeline",
+      "url": "https://www.reuters.com/world/europe/slovakia-expels-two-suspected-monitoring-energy-targets-including-gas-pipeline-2024-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/GFOFFFEZ6BLHVFT6NZF3VB6MII.jpg?auth=57209903b05219ce3a951f91df412d56d80ff9a64b9b04b6574d6962a9dd8ef1&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
