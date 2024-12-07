@@ -1,10 +1,23 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "content": null,
+      "description": "U.S. President-elect Donald Trump on Thursday said he was appointing former PayPal Chief Operating Officer David Sacks as his \"White House A.I. & Crypto Czar,\" another step towards overhauling U.S. policy.",
+      "publishedAt": "2024-12-06T04:00:00Z",
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "title": "Trump appoints former PayPal exec David Sacks as AI and crypto czar - Reuters",
+      "url": "https://www.reuters.com/world/us/trump-appoints-former-paypal-coo-david-sacks-ai-crypto-czar-2024-12-06/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/T6TJMQU54FPVFJIC2JQHRMGSXE.jpg?auth=f1f0ad2e08a3b2cccab1ca79679ce85b99d2adce1efc0e96d13d1b1dbfe28ee5&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": null,
       "content": "[Removed]",
       "description": "[Removed]",
-      "publishedAt": "2024-12-05T20:10:00Z",
+      "publishedAt": "2024-12-06T03:19:00Z",
       "source": {
         "id": null,
         "name": "[Removed]"
@@ -15,252 +28,239 @@
     },
     {
       "author": null,
-      "content": "A strong 7.0 magnitude earthquake has struck off the coast of northern California, according to the US Geological Survey.\r\nA tsunami warning was initially issued along the coasts of both northern Cal\u2026 [+2756 chars]",
-      "description": "A tsunami warning was issued along the coasts of northern California and southern Oregon, but was later cancelled.",
-      "publishedAt": "2024-12-05T19:39:49Z",
+      "content": "TAIPEI, Taiwan (AP) Taiwanese President Lai Ching-te held phone calls with U.S. congressional leaders on Thursday while visiting Guam, his second U.S. stop on a Pacific Island trip.\r\nLai said in a po\u2026 [+3409 chars]",
+      "description": "Taiwanese President Lai Ching-te has held phone calls with U.S. congressional leaders while visiting Guam. Lai said in post on social media that he had spoken with Republican House Speaker Mike Johnson and House Democratic leader Hakeem Jeffries to discuss se\u2026",
+      "publishedAt": "2024-12-06T02:18:00Z",
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "title": "Magnitude 7 earthquake strikes California coast - BBC.com",
-      "url": "https://www.bbc.com/news/articles/ce3lyxgez5xo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aad0/live/afbc4330-b349-11ef-a2ca-e99d0c9a24e3.jpg"
+      "title": "Taiwanese President Lai has phone talks from Guam with US Congress leaders - The Associated Press",
+      "url": "https://apnews.com/article/taiwan-president-lai-guam-china-42271b8eecb6c4110fb0226db3a3f50a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0d4a21a/2147483647/strip/true/crop/5000x2813+0+191/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2F0f%2Fc68e584a93d5ab5d632a1d353bd9%2F8434ec6cce91450e84636f92bc62e944"
     },
     {
-      "author": "Alex Nitzberg",
-      "content": "Many Americans don't trust the federal government, and Elon Musk an eccentric billionaire business tycoon tasked by President-elect Donald Trump with helping slay the unwieldly bureaucratic leviathan\u2026 [+1961 chars]",
-      "description": "Elon Musk and Vivek Ramaswamy of DOGE met with lawmakers on Thursday, in hopes of slashing the size of government once Trump takes office.",
-      "publishedAt": "2024-12-05T19:15:00Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Musk, Ramaswamy huddle with lawmakers in quest to downsize widely-distrusted federal government with DOGE - Fox News",
-      "url": "https://www.foxnews.com/politics/musk-ramaswamy-huddle-lawmakers-quest-downsize-widely-distrusted-federal-government-doge",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/musk-ramaswamy.jpg"
-    },
-    {
-      "author": "Declan Harty",
-      "content": "Paul knows the SEC better than anyone, and now, hell have the opportunity to implement his vision, said Justin Daly, a former SEC official and congressional staffer who has known Atkins for two decad\u2026 [+6111 chars]",
-      "description": "Paul Atkins has advocated for years for a lighter-touch regulatory regime \u2014 especially criticizing the SEC\u2019s approach to policing the $3 trillion crypto market.",
-      "publishedAt": "2024-12-05T19:08:55Z",
+      "author": "Kyle Cheney",
+      "content": "Tarrios return to the courthouse just across the street from the Capitol marked a dark reunion of sorts. Fourteen months ago, he was sentenced to 22 years in prison for organizing the vanguard of the\u2026 [+4787 chars]",
+      "description": "Enrique Tarrio, serving 22 years for a Jan. 6 seditious conspiracy, crossed swords with prosecutors Thursday in a related criminal case.",
+      "publishedAt": "2024-12-06T01:51:33Z",
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "title": "Trump\u2019s pick for SEC chair offers stark new reality for Wall Street: Easier oversight - POLITICO",
-      "url": "https://www.politico.com/news/2024/12/05/trump-sec-paul-atkins-00192791",
-      "urlToImage": "https://static.politico.com/e2/87/4a10177241c3b0c056be62591d6e/https-delivery-gettyimages.com/downloads/125063491"
+      "title": "A convicted Proud Boys leader returns to Washington as Trump\u2019s homecoming looms - POLITICO",
+      "url": "https://www.politico.com/news/2024/12/05/proud-boys-leader-trump-00192958",
+      "urlToImage": "https://static.politico.com/09/00/8b418101480cbb5e5f071048e9eb/capitol-riot-proud-boys-47253.jpg"
     },
     {
-      "author": "Mark Johnson",
-      "content": "Scientists from the Scripps Research Institute are reporting that it would take just a single mutation in the version of bird flu that has swept through U.S. dairy herds to produce a virus adept at l\u2026 [+410 chars]",
-      "description": "The potential mutation would allow the avian influenza virus sweeping through dairy herds to attach to a receptor protein on the surface of our cells.",
-      "publishedAt": "2024-12-05T19:01:58Z",
+      "author": "",
+      "content": "The NFL game of the week is about to take place, as the Detroit Lions host the rival Green Bay Packers on \"Thursday Night Football.\" These two teams faced off in Green Bay five weeks ago, with the Li\u2026 [+1103 chars]",
+      "description": "Detroit hasn't forgotten about Branch's Week 9 ejection",
+      "publishedAt": "2024-12-06T01:22:00Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "LOOK: Lions players warm up wearing shirts of obscene gesture Brian Branch made in first game vs. Packers - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/look-lions-players-warm-up-wearing-shirts-of-obscene-gesture-brian-branch-made-in-first-game-vs-packers/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/06/b537e8b7-6447-4957-9374-177aade12eaf/thumbnail/1200x675/2e2b46f35d8dce58b9e0b3809d7d262f/brian-branch.jpg"
+    },
+    {
+      "author": "Kareem Fahim, Mohamad El Chamaa",
+      "content": "ISTANBUL An Islamist rebel group said Thursday that it had taken control of Hama, Syrias fourth-largest city, dealing another significant blow to President Bashar al-Assad less than a week after his \u2026 [+400 chars]",
+      "description": "The Islamist rebels\u2019 breakneck advance has redrawn the country\u2019s front lines and revealed the fragility of the government\u2019s security forces.",
+      "publishedAt": "2024-12-06T00:40:31Z",
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "title": "Single bird flu mutation could let it latch easily to human cells, study finds - The Washington Post",
-      "url": "https://www.washingtonpost.com/science/2024/12/05/bird-flu-mutation-human-cells-new-research/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RHHRBDBZYU6BTFHKOJU2IPKZVY_size-normalized.JPG&w=1440"
+      "title": "Syrian rebels take Hama, a second major city, in another blow to Assad - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2024/12/05/syria-rebels-hama-aleppo-assad-homs/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4WS4T47A75RSQ24H7VTSC4HE6Y_size-normalized.jpg&w=1440"
     },
     {
-      "author": "Ben Schoon",
-      "content": "Google has updated its policy around Android OS updates on its first two generations of Tensor-powered Pixel devices, bringing two more years of updates to Pixel 6 series, Pixel 7 series, and Pixel F\u2026 [+1805 chars]",
-      "description": "Google has updated its policy around Android OS updates on its first two generations of Tensor-powered Pixel devices, bringing two...",
-      "publishedAt": "2024-12-05T18:30:00Z",
+      "author": "Juli Clover",
+      "content": "OpenAI today announced the launch of ChatGPT Pro, a $200 per month subscription service that provides unlimited access to OpenAI o1, the company's newest and most advanced large language model.\r\nThe \u2026 [+707 chars]",
+      "description": "OpenAI today announced the launch of ChatGPT Pro, a $200 per month subscription service that provides unlimited access to OpenAI o1, the...",
+      "publishedAt": "2024-12-06T00:19:00Z",
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "title": "Google Pixel 6, 7, and Fold will officially get two more years of Android OS updates - 9to5Google",
-      "url": "http://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/10/Pixel-6-and-Pixel-7-series.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      "title": "OpenAI Launches $200/Month ChatGPT Pro Plan - MacRumors",
+      "url": "https://www.macrumors.com/2024/12/05/openai-launches-200-month-chatgpt-pro-plan/",
+      "urlToImage": "https://images.macrumors.com/t/7dsbIaosd3Op153XpVVz5XfY258=/1600x/article-new/2024/06/open-ai-logo.jpg"
     },
     {
-      "author": "Jay Peters",
-      "content": "Indiana Jones and the Great Circles early access period wont include full ray tracing\r\nIndiana Jones and the Great Circles early access period wont include full ray tracing\r\n / Full ray tracing will \u2026 [+1888 chars]",
-      "description": "Indiana Jones and the Great Circle won\u2019t get full ray tracing until December 9th, meaning early access PC players initially won\u2019t be able to use the feature.",
-      "publishedAt": "2024-12-05T18:27:23Z",
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "title": "Indiana Jones and the Great Circle\u2019s early access period won\u2019t include full ray tracing - The Verge",
-      "url": "https://www.theverge.com/2024/12/5/24314171/indiana-jones-and-the-great-circle-early-access-full-ray-tracing",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/W1Q6LMPY5TPpfIXLeBNb8ZSeeGQ=/0x0:1920x1080/1200x628/filters:focal(1232x556:1233x557)/cdn.vox-cdn.com/uploads/chorus_asset/file/25775190/ss_8221cf729bc6491919a8532679be64f1c67dcdaf.jpg"
-    },
-    {
-      "author": "Abbey A. Donaldson",
-      "content": "Lee esta historia en espa\u00f1ol aqu\u00ed.\r\nThrough the Artemis campaign, NASA will land the next American astronauts and first international astronaut on the South Pole region of the Moon. On Thursday, NASA\u2026 [+5305 chars]",
-      "description": "Lee esta historia en espa\u00f1ol aqu\u00ed.",
-      "publishedAt": "2024-12-05T18:25:28Z",
-      "source": {
-        "id": null,
-        "name": "NASA"
-      },
-      "title": "NASA Shares Orion Heat Shield Findings, Updates Artemis Moon Missions - NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-shares-orion-heat-shield-findings-updates-artemis-moon-missions/",
-      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/04/nasa_meatball_4.png"
-    },
-    {
-      "author": "Rania Aniftos, Katie Atkinson, Katie Bain, Eric Renner Brown, Anna Chan, Stephen Daw, Kyle Denis, Angel Diaz, James Dinh, Thom Duffy, Josh Glicksman, Paul Grein, Lyndsey Havens, Elias Leight, Jason Lipshutz, Jessica Lynch, Meghan Mahar, Heran Mamo, Taylor Mims, Gail Mitchell, Danielle Pascual, Jessica Roiz, Dan Rys, Michael Saponara, Andrew Unterberger, Christine Werthman, Kristen Wisneski",
-      "content": "As we build toward the 2024 Billboard Music Awards on Dec. 12 and Billboards Year-End Charts reveal on Dec. 13, check out our editorial list of staff picks for the best songs of the year.\r\nIf you tho\u2026 [+66615 chars]",
-      "description": "Best Songs of 2024: The 100 best songs of the year.",
-      "publishedAt": "2024-12-05T18:11:15Z",
-      "source": {
-        "id": null,
-        "name": "Billboard"
-      },
-      "title": "Staff List: The 100 Best Songs of 2024 - Billboard",
-      "url": "http://www.billboard.com/lists/best-songs-2024/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2024/12/staff-picks-best-songs-of-2024-billboard-1548.jpg?w=1024"
-    },
-    {
-      "author": "Kylie Robison",
-      "content": "OpenAI is charging $200 a month for an exclusive version of its o1 reasoning model\r\nOpenAI is charging $200 a month for an exclusive version of its o1 reasoning model\r\n / The startups 12 days of ship\u2026 [+2025 chars]",
-      "description": "OpenAI is releasing a non-preview model of its o1 \u201creasoning\u201d LLM, as well as launching a $200 Pro tier that provides access to a more powerful version of it.",
-      "publishedAt": "2024-12-05T18:00:04Z",
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "title": "OpenAI is charging $200 a month for an exclusive version of its o1 \u2018reasoning\u2019 model - The Verge",
-      "url": "https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
-    },
-    {
-      "author": "Sean McAdam | sean.mcadam@masslive.com",
-      "content": "As the start of baseballs annual winter meetings fast approaches, theres a growing sense that free agent outfielder Juan Soto could make his decision in the coming days, perhaps even before the meeti\u2026 [+2178 chars]",
-      "description": "It seems it won't be long now before we have an answer as to where Juan Soto is going to sign. The Red Sox remain in contention for the free agent.",
-      "publishedAt": "2024-12-05T17:53:00Z",
-      "source": {
-        "id": null,
-        "name": "MassLive.com"
-      },
-      "title": "Red Sox still in running as Juan Soto sweepstakes \u2018coming to a head\u2019 - MassLive.com",
-      "url": "https://www.masslive.com/redsox/2024/12/red-sox-still-in-running-as-soto-sweepstakes-coming-to-a-head.html",
-      "urlToImage": "https://www.masslive.com/resizer/v2/2JDRDC2KXFEPJHGPXQ23M35EBE.jpg?auth=ea0ad02c2fda3e54121a4a082ebd9bef8609d0ec92526eba49b3a5172979b75e&width=1280&quality=90"
-    },
-    {
-      "author": "Barron's",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-05T17:19:00Z",
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "title": "Bitcoin Price: Why Did the Crypto Surge Past $100,000 \u2014 and How Far Can It Rise? - Barron's",
-      "url": "https://www.barrons.com/articles/bitcoin-price-hits-100k-bcdb5157",
-      "urlToImage": null
-    },
-    {
-      "author": "Taylor Kerns",
-      "content": "Key Takeaways\r\n<ul><li> The December Pixel Feature Drop rolling out beginning today to Pixel phones, Pixel Tablet, and Pixel Watches. </li><li> The majority of new features are exclusive to Pixel 9 p\u2026 [+6014 chars]",
-      "description": "Rolling out starting today",
-      "publishedAt": "2024-12-05T17:00:00Z",
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "title": "Google's December Pixel Feature Drop is all about Pixel 9 - Android Police",
-      "url": "https://www.androidpolice.com/pixel-feature-drop-december-2024/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/10/android-15-use-secret-screensaver-mode-tutorial.jpg"
-    },
-    {
-      "author": "Mike Florio",
-      "content": "Week 13 was lucky, for both of us.\r\nI went 14-2 straight up, and Simms was 15-1.\r\nAgainst the spread, I was 12-4. He was 9-7.\r\nFor the year, Im 134-61 straight up; hes 131-64. Against the spread, Im \u2026 [+2100 chars]",
-      "description": "Week 13 was lucky, for both of us.",
-      "publishedAt": "2024-12-05T16:57:50Z",
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
-      },
-      "title": "PFT\u2019s Week 14 2024 NFL picks, Florio vs. Simms - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-14-2024-nfl-picks-florio-vs-simms",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/91a6583/2147483647/strip/true/crop/2003x1127+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F61%2F45b2059f4d8291f10138143cb944%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2174768712"
-    },
-    {
-      "author": "MarketWatch",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-05T16:56:00Z",
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "title": "Stocks buybacks are soaring to record highs ahead of the holidays - MarketWatch",
-      "url": "https://www.marketwatch.com/story/stock-buybacks-soar-as-holiday-rally-breaks-records-298d22e7",
-      "urlToImage": null
-    },
-    {
-      "author": "Mostafa Salem, Eyad Kourdi",
-      "content": "Syrian rebels have driven government forces from Hama, a major city that the countrys regime had held over more than a decade of civil war, further weakening President Bashar al-Assads grip on the na\u2026 [+3153 chars]",
-      "description": "Syrian rebels have driven government forces from Hama, a major city that the country\u2019s regime had held over more than a decade of civil war, further weakening President Bashar al-Assad\u2019s grip on the nation.",
-      "publishedAt": "2024-12-05T16:44:00Z",
+      "author": "Jackie Wattles, Kristin Fisher",
+      "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nNASAs Artemis program, which aims to return astronauts\u2026 [+4274 chars]",
+      "description": "The Artemis program, which aims to return astronauts to the moon this decade amid a renewed international push for lunar exploration, is facing more delays.",
+      "publishedAt": "2024-12-06T00:10:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "Syrian rebels capture second major city as army withdraws from Hama - CNN",
-      "url": "https://www.cnn.com/2024/12/05/middleeast/syria-rebels-hama-government-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187743400.jpg?c=16x9&q=w_800,c_fill"
+      "title": "NASA delays first crewed flight to the moon in over 50 years - CNN",
+      "url": "https://www.cnn.com/2024/12/05/science/nasa-artemis-moon-mission-landing-delays/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/maf-20220826-maf-ksc-artemis1-epb-015-large.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Filip Cleeren",
-      "content": "Max Verstappen says he is not surprised by what he claims is George Russell misrepresenting their interactions in Qatar, and called the Mercedes driver a \"backstabber\".\r\nVerstappen and Russell had a \u2026 [+3573 chars]",
-      "description": "Verstappen expands on Russell incident in Qatar and refutes claims from the Mercedes driver he is a bully who needs to be stood up against",
-      "publishedAt": "2024-12-05T15:47:46Z",
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-12-06T00:05:00Z",
       "source": {
         "id": null,
-        "name": "Motorsport.com"
+        "name": "[Removed]"
       },
-      "title": "Verstappen not surprised by \"backstabber\" Russell's comments - Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/verstappen-not-surprised-by-backstabber-russells-comments/10679554/",
-      "urlToImage": "https://cdn-6.motorsport.com/images/amp/Y99KELqY/s6/max-verstappen-red-bull-racing.jpg"
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
     },
     {
-      "author": "Casey Parks",
-      "content": "She had tried for more than a year not to think about this day. She had school to focus on, songs to record, a drivers license to earn. She didnt want to fly halfway across the country to fight for t\u2026 [+301 chars]",
-      "description": "The 16-year-old is among the plaintiffs in a highly anticipated case argued Wednesday. At issue is their state\u2019s ban on gender transition care for minors.",
-      "publishedAt": "2024-12-05T15:31:50Z",
+      "author": "Mariana La Roche",
+      "content": "PLEASANT PRAIRIE, Wis. \u2014Eli Lilly and Company announced a significant expansion at its Pleasant Prairie facility Thursday. The pharmaceutical giant plans a $3 billion investment, which is expected to\u2026 [+1629 chars]",
+      "description": "Eli Lilly announces a $3 billion expansion at its Pleasant Prairie facility, creating 750 jobs.",
+      "publishedAt": "2024-12-05T23:58:45Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "WISN Milwaukee"
       },
-      "title": "L.W., a trans teen from Tennessee, has her day in the Supreme Court - The Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2024/12/05/transgender-ban-supreme-court-tennessee-case/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3AM2G4HIYUG5SETYKFORT6GXA.JPG&w=1440"
+      "title": "Eli Lilly announce $3 billion expansion at Pleasant Prairie facility - WISN Milwaukee",
+      "url": "https://www.wisn.com/article/eli-lilly-announce-expansion-at-pleasant-prairie-facility/63108173",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2092473213-6752170c0e66b.jpg?crop=1.00xw:0.906xh;0,0.0942xh&resize=1200:*"
+    },
+    {
+      "author": "Janice Kew, Jason Gale",
+      "content": "Health officials in the Democratic Republic of the Congo expect to know within days the cause of an infectious disease outbreak termed Disease X thats sickened hundreds of people and killed at least \u2026 [+397 chars]",
+      "description": "Health officials in the Democratic Republic of the Congo expect to know within days the cause of an infectious disease outbreak termed \u2018Disease X\u2019 that\u2019s sickened hundreds of people and killed at least 79, since late October.",
+      "publishedAt": "2024-12-05T23:58:45Z",
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "title": "Mystery \u2018Disease X\u2019 Probed After Killing 79 People in Congo - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2024-12-05/mystery-flu-like-disease-x-probed-after-killing-79-in-congo",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMaDmEY64R1U/v1/1200x800.jpg"
+    },
+    {
+      "author": "Kimberley Richards",
+      "content": "New research offers findings that might be a delightful treat for dark chocolate lovers.\r\nA British Medical Journal study published this week suggests that consuming dark chocolate more so than milk \u2026 [+3537 chars]",
+      "description": "Research published this week reveals surprising information about potentially lowering your risk of the chronic condition.",
+      "publishedAt": "2024-12-05T23:38:53Z",
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "title": "There's A Tasty Food That May Reduce Your Risk Of Developing Type 2 Diabetes, Study Shows - HuffPost",
+      "url": "https://www.huffpost.com/entry/type-2-diabetes-risk-dark-chocolate_l_6751e090e4b0036b951dfc19",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6751e06c1900003e001dcbc0.jpg?cache=MkuAwuCplb&ops=1200_630"
+    },
+    {
+      "author": "Ryan Phillips",
+      "content": "The countdown to Juan Soto's free agency decision is on, and we're starting to get an idea of just how big his impending contract might be. \r\nMLB insiders Jeff Passan and Buster Olney discussed their\u2026 [+1414 chars]",
+      "description": "Soto's contract could surpass $700 million.",
+      "publishedAt": "2024-12-05T23:22:44Z",
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "title": "MLB Insiders Project Record-Breaking Ceiling for Juan Soto's New Contract - Sports Illustrated",
+      "url": "https://www.si.com/mlb/juan-soto-contract-mlb-insiders-project-record-breaking-ceiling-yankees-mets-red-sox-blue-jays",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6675,h_3754,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jecf3s89a8cpcn8m7p.jpg"
+    },
+    {
+      "author": "Joe Gould, Connor O\u2019Brien, Anthony Adragna",
+      "content": "Seen as an influential swing vote in Hegseths embattled confirmation, the decision on whether to support Hegseth pits Ernsts personal convictions and long-standing advocacy for survivors of military \u2026 [+5178 chars]",
+      "description": "Ernst, a combat veteran and advocate for survivors of military sexual assault, said she's not ready to vote yes for Trump's would-be Pentagon chief.",
+      "publishedAt": "2024-12-05T23:19:26Z",
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "title": "Ernst holds the pivotal vote in Hegseth\u2019s hill fight - POLITICO",
+      "url": "https://www.politico.com/news/2024/12/05/joni-ernst-pete-hegseth-confirmation-00192802",
+      "urlToImage": "https://static.politico.com/ff/e3/557793a44546a99ffa07c9b024fe/u-s-congress-46947.jpg"
+    },
+    {
+      "author": null,
+      "content": "French President Emmanuel Macron said he will name a new prime minister \"in the coming days\", after Michel Barnier resigned following a no-confidence vote in parliament.\r\nIn a 10-minute address to th\u2026 [+3231 chars]",
+      "description": "Macron rejected calls to resign, a day after his prime minister was ousted in a no-confidence vote.",
+      "publishedAt": "2024-12-05T22:53:03Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "French President Emmanuel Macron vows to name new PM within days - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cdd60rzl702o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2503/live/54361730-b33e-11ef-a2ca-e99d0c9a24e3.jpg"
+    },
+    {
+      "author": "Marshall Cohen, MJ Lee, Paula Reid, Katelyn  Polantz",
+      "content": "Senior Biden White House aides, administration officials and prominent defense attorneys in Washington, DC, are discussing potential preemptive pardons or legal aid for people who might be targeted f\u2026 [+11061 chars]",
+      "description": "Senior Biden White House aides, administration officials and prominent defense attorneys in Washington, DC, are discussing potential preemptive pardons or legal aid for people who might be targeted for prosecution by President-elect Donald Trump after he reta\u2026",
+      "publishedAt": "2024-12-05T22:37:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Biden White House considering preemptive pardons for Trump\u2019s perceived enemies - CNN",
+      "url": "https://www.cnn.com/2024/12/05/politics/preemptive-pardons-biden-white-house-trump/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187027243.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Jackie Strause",
+      "content": "Yellowstone prequel series 1923 \u2014 which features movie stars Helen Mirren and Harrison Ford atop the Dutton family tree \u2014 is returning two years after its season one finale. \r\nThe first season of the\u2026 [+6417 chars]",
+      "description": "Along with new teasers and photos, here's a refresher on how Taylor Sheridan ended the first season of his 1923-set Dutton family Western series also starring Brandon Sklenar and Aminah Nieves.",
+      "publishedAt": "2024-12-05T21:56:15Z",
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "title": "\u2018Yellowstone\u2019 Prequel \u20181923\u2019 Is Back: First Look at Harrison Ford and Helen Mirren\u2019s Season 2 Saga - Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/yellowstone-prequel-1923-season-2-release-first-look-recap-1236078757/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/12/1923_207_LS_0917_0267_RT-H-2024.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-12-05T21:31:18Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "UnitedHealthcare CEO shooting latest: Police appear to be closing in on suspect's name - ABC News",
+      "url": "https://abcnews.go.com/US/police-piece-unitedhealthcare-ceo-shooting-suspects-escape-route/story?id\\\\u003d116475329",
+      "urlToImage": null
     },
     {
       "author": "Deidre McPhillips",
-      "content": "After sharp criticism from anesthesiologists, an insurance company is halting its plan to limit the amount time it would cover anesthesia used in surgeries and procedures. Anthem Blue Cross Blue Shie\u2026 [+4781 chars]",
+      "content": "After sharp criticism from anesthesiologists, an insurance company is halting its plan to limit the amount of time it would cover anesthesia used in surgeries and procedures. Anthem Blue Cross Blue S\u2026 [+4785 chars]",
       "description": "After sharp criticism from anesthesiologists, an insurance company is halting its plan to limit the amount time it would cover anesthesia used in surgeries and procedures. Anthem Blue Cross Blue Shield said on Thursday it would no longer move forward with the\u2026",
-      "publishedAt": "2024-12-05T15:27:00Z",
+      "publishedAt": "2024-12-05T21:27:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "Doctors are raising alarm about insurance company\u2019s plan to put time limit on coverage for anesthesia during surgery - CNN",
+      "title": "Insurance company halts plan to put time limits on coverage for anesthesia during surgery - CNN",
       "url": "https://www.cnn.com/2024/12/05/health/anthem-blue-cross-blue-shield-anesthesia-claim-limits/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-571028570.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "Emma Tucker",
-      "content": "Two kindergarten students remain in extremely critical condition after they were wounded in a shooting at a small Christian school north of Sacramento, authorities said on Wednesday.\r\nThe boys, aged \u2026 [+4715 chars]",
-      "description": "Two kindergarten students were wounded in a shooting at a school in northern California on Wednesday afternoon and a male suspect was found dead with what appears to be a self-inflicted gunshot wound, authorities said.",
-      "publishedAt": "2024-12-05T14:48:00Z",
+      "author": null,
+      "content": "[Removed]",
+      "description": "[Removed]",
+      "publishedAt": "2024-12-05T21:21:18Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "[Removed]"
       },
-      "title": "Two kindergartners in critical condition after gunman opens fire at Christian school in California school, sheriff says - CNN",
-      "url": "https://www.cnn.com/2024/12/04/us/california-school-shooting/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21175620-3914712-377-still.jpg?c=16x9&q=w_800,c_fill"
+      "title": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null
     }
   ],
   "status": "ok",
-  "totalResults": 36
+  "totalResults": 34
 }
