@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Alastair Mccready",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsraeli strike on the Nuseirat refugee camp kill at least 22 people, mostly women and children, as 29 reported killed in vicinity of Kamal Adwan Hospital.",
+      "description": "Israeli air strikes on the Nuseirat refugee camp kill at least 22 people, mostly women and children.",
+      "publishedAt": "2024-12-07T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "LIVE: Dozens killed in Israeli attacks on Gaza refugee camp, hospital area",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/12/7/live-dozens-killed-as-israel-attacks-refugee-camp-nearby-hospital",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AA-20241206-36409812-36409784-CASUALTIES_INCLUDING_CHILDREN_MOUNT_AS_ISRAELI_AIRSTRIKES_TARGET_GAZA-1733527932.jpg?resize=1200%2C630"
+    },
+    {
       "author": "Al Jazeera",
       "content": "A United Nations-backed security mission to Haiti, led by Kenyan forces, has denied reports that some of its officers have gone months without pay.\r\nIn a statement on Friday, the Multinational Securi\u2026 [+2987 chars]",
       "description": "Kenyan-led force hits back after report states that nearly 20 officers have resigned from the force due to unpaid wages.",
@@ -1286,21 +1299,8 @@
       "title": "Biden tours Angola railway project to boost Africa-West trade links",
       "url": "https://www.aljazeera.com/program/newsfeed/2024/12/4/sv-biden-visit-lobito-corridor-final",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/CLEAN-WIDE-THUMB-BIDEN-VISITS-LOBIDO-CORRIDOR-1733342947.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nUnitedHealthcare CEO Brian Thompson was shot and killed on a New York City street as he headed toward at an investor conference at a midtown hotel. Police called it a brazen, targeted attac\u2026 [+36 chars]",
-      "description": "UnitedHealthcare CEO Brian Thompson was shot and killed on a New York City street.",
-      "publishedAt": "2024-12-04T20:00:41Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Insurance executive fatally shot in Manhattan",
-      "url": "https://www.aljazeera.com/program/newsfeed/2024/12/4/insurance-executive-fatally-shot-in-manhattan",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/image-1733342378.jpg?resize=1619%2C1080&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1393
+  "totalResults": 1394
 }

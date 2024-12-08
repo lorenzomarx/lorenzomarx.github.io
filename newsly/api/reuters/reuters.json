@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "South Korean President Yoon Suk Yeol will address the nation on Saturday morning, his office said, ahead of a planned impeachment vote over his attempt this week to impose martial law.",
+      "publishedAt": "2024-12-07T00:13:11Z",
+      "title": "South Korea President Yoon to address nation ahead of impeachment vote",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-address-nation-ahead-impeachment-vote-2024-12-07/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/CBC74R6BVFOUFDEEM4KRBBHIKU.jpg?auth=051ee59d08b5a03663aba54c4c3ee3ed4dd54f637cf6ce54715a3e5edf5d031a&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Suleiman Al-Khalidi, Timour Azhari",
+      "description": "Syrian rebels said they seized control of the southern city of Daraa on Saturday, the birthplace of a 2011 uprising against President Bashar al-Assad and the fourth city his forces have lost in a week.",
+      "publishedAt": "2024-12-07T02:21:04Z",
+      "title": "Syrian rebels seize fourth city, close in on Homs in threat to Assad's rule",
+      "url": "https://www.reuters.com/world/middle-east/syrian-rebels-seize-fourth-city-close-homs-threat-assads-rule-2024-12-07/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VI5ZBA4EFFPCJCLP3QTDFCCZNQ.jpg?auth=f159dbdbad5042282f122f2d56f3785282f1f1414db9baa25af81f61e06ee5fe&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Luiza Ilie",
       "description": "Thousands of people rallied in the Romanian capital Bucharest late on Thursday in support of democracy ahead of a Sunday presidential election runoff that could see a far-right critic of the EU defeat a pro-European centrist candidate.",
       "publishedAt": "2024-12-06T08:44:50Z",
@@ -9,12 +25,20 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/LSQAJLNBZROX3BNMHBKNBGICEA.jpg?auth=189315a2f06f632d4b914cef5098929f6d39a2691e43f54f5a497746d00145f6&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "Thousands of people fled the central Syrian city of Homs overnight and into Friday morning, a war monitoring group and residents said, as rebel forces sought to push their lightning offensive against government forces further south.",
-      "publishedAt": "2024-12-06T07:09:56Z",
-      "title": "Thousands flee as Syrian rebels push on towards Homs",
-      "url": "https://www.reuters.com/world/middle-east/thousands-flee-syrian-rebels-push-towards-homs-2024-12-06/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/IGO5NCOG5NJ6LAAXM2RUOJHOAY.jpg?auth=80547f1454dd21945a6dbd5ca6ee66ddf85b4a35a016403342ed009ed58363f2&height=1005&width=1920&quality=80&smart=true"
+      "author": "Brendan Pierson",
+      "description": "The U.S. Supreme Court agreed on Friday to decide the legality of a 2019 federal statute meant to facilitate lawsuits against Palestinian authorities by Americans killed or injured in attacks in Israel and elsewhere.",
+      "publishedAt": "2024-12-06T22:01:51Z",
+      "title": "US Supreme Court to weigh bid to sue Palestinian authorities over attacks",
+      "url": "https://www.reuters.com/world/us/us-supreme-court-weigh-bid-sue-palestinian-authorities-over-attacks-2024-12-06/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/K2GY7BC7PFMKXGF3JBSDCVPWGY.jpg?auth=94a1f290cc24d7bdced6dd22df60e0ec20184e170b39f3ceef8601bc0ea6e526&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Maxwell Adombila, Christian Akorlie",
+      "description": "Ghana holds a presidential and parliamentary election on Saturday amid hopes for an economic revival after the worst financial crisis in a generation, which led to a major debt default in the West African nation.",
+      "publishedAt": "2024-12-07T01:03:40Z",
+      "title": "Ghana holds election amid hopes for better economic times",
+      "url": "https://www.reuters.com/world/africa/ghana-holds-election-amid-hopes-better-economic-times-2024-12-07/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4VUXWSV5AJOJJGCE33NPPSIGFE.jpg?auth=a8a4e0f0cc609fdda0ed4c82c7236ebcd50788d03bc18c153da9e4fbcbe9fa7d&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -34,6 +58,14 @@
     },
     {
       "author": "Reuters",
+      "description": "Notre-Dame Cathedral reopens after fire destroyed its roof and spire and caused major damage.",
+      "publishedAt": "2024-12-07T04:01:17Z",
+      "title": "Notre-Dame Cathedral reopens on Saturday. Here's what to know",
+      "url": "https://www.reuters.com/world/europe/what-expect-when-paris-notre-dame-cathedral-reopens-saturday-2024-12-07/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MM53PL53ERJXZIRLDJCPJTDQX4.jpg?auth=a013d8e50ff5b4e710e0394a46445cdf7d4ad3e92398ccbf993df6e645dd754d&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
       "description": "Burkina Faso's ruling junta has dismissed interim Prime Minister Apollinaire Joachim Kyelem de Tambela and dissolved the government, a decree issued by the office of military leader Ibrahim Traore said on Friday.",
       "publishedAt": "2024-12-06T20:32:18Z",
       "title": "Burkina Faso junta fires prime minister, dissolves government",
@@ -41,44 +73,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/45DDXIVKUBLGPPGJNXNSQCTRPM.jpg?auth=af4ad6dad030dba629064cea39439d34d91be9cbaddba51a6bb9b549e22ae1eb&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Alexander Cornwell",
-      "description": "Iran is \"dramatically\" increasing the amount of uranium enriched to up to 60% purity, close to the roughly 90% of weapons grade, that it is able to produce, the watchdog's chief Rafael Grossi told Reuters in an interview.",
-      "publishedAt": "2024-12-06T14:40:18Z",
-      "title": "Exclusive: Iran 'dramatically' increasing enrichment to near bomb grade -IAEA chief",
-      "url": "https://www.reuters.com/world/middle-east/iran-dramatically-increasing-enrichment-near-bomb-grade-iaea-chief-2024-12-06/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/BKYUHXRKJFNM3LI4QDN7XHXNFU.jpg?auth=346abf1c8d20fc51215c53681a9cbc44d39ccc77378c93e397a988e8ac461acb&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Mohamed Ezz",
-      "description": "An Egyptian military agency has taken over the country's import of strategic commodities, a letter seen by Reuters showed, replacing a decades-old state institution to take over international buying tenders and also conduct direct purchases which have in recent weeks shaken the wheat market.",
-      "publishedAt": "2024-12-06T14:54:49Z",
-      "title": "Exclusive: Egyptian military agency takes over wheat buying from decades-old supply group",
-      "url": "https://www.reuters.com/world/africa/egypts-mostakbal-misr-takes-over-gascs-role-commodities-importer-2024-12-06/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QUYOIO3DFFJ6VD6AWU63OHZVSQ.jpg?auth=cc8d9de21aa3c94b270ff8ca6864692f83f831eec57894ea70ca66220373ff16&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Timour Azhari",
-      "description": "Iraqi Shi'ite Muslim ruling parties and armed groups are weighing the pros and cons of armed intervention in Syria, viewing as a grave threat the advance of Sunni Islamist rebels who have taken two Syrian cities and now bear down on a third.",
-      "publishedAt": "2024-12-06T12:32:46Z",
-      "title": "War-weary Iraq weighs Syria intervention as rebels advance",
-      "url": "https://www.reuters.com/world/middle-east/war-weary-iraq-weighs-syria-intervention-rebels-advance-2024-12-06/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FNGI2MJQG5LW5LB4IZOKX27FL4.jpg?auth=7fe0a0c89b80f333ec50a3ac5b149e92fe887c595956b32e2b26e41ac68f3f72&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Lucinda Elliott, Lisandra Paraguassu, Philip Blenkinsop",
-      "description": "The European Union and South America's Mercosur bloc dragged a long-delayed free trade deal over the line on Friday, announcing an agreement - at least in principle - on the pact that has deeply divided nations in Europe.",
-      "publishedAt": "2024-12-06T09:46:32Z",
-      "title": "EU, Mercosur heave free trade deal over the line but potential obstacles loom large",
-      "url": "https://www.reuters.com/world/eu-mercosur-set-finalise-contentious-trade-deal-2024-12-06/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GYJNJDDIRJIPXJDSPPLWN3252M.jpg?auth=a0da0fa4b4114783fd06798bcfee7bf617774f906baf5a4ec123ab49f6a6d9ad&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
-      "description": "A Mexican labor reform for drivers and delivery workers using applications like Uber, Didi and Rappi appears to be ready to be pushed through both chambers of the legislature next week.",
-      "publishedAt": "2024-12-06T18:07:41Z",
-      "title": "Mexico's labor reform for app drivers looks poised to pass via fast-track",
-      "url": "https://www.reuters.com/world/americas/mexicos-labor-reform-app-drivers-looks-poised-pass-via-fast-track-2024-12-06/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/RLX2NEHUTRLJNHJJ5Q2GW5LWWE.jpg?auth=f1e7ca19018a4783b4bc0baeb6bb14cac899917f59be00f73bad88c79fa2dbaf&height=1005&width=1920&quality=80&smart=true"
+      "description": "Paris' Notre-Dame Cathedral reopens on Saturday, Dec. 7, five and a half years after fire destroyed its roof and spire and caused major damage throughout.",
+      "publishedAt": "2024-11-29T05:05:04Z",
+      "title": "Notre-Dame Cathedral reopens on Saturday. Here's what to know",
+      "url": "https://www.reuters.com/world/europe/paris-notre-dame-cathedral-set-reopen-what-expect-2024-11-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MM53PL53ERJXZIRLDJCPJTDQX4.jpg?auth=a013d8e50ff5b4e710e0394a46445cdf7d4ad3e92398ccbf993df6e645dd754d&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
