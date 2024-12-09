@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera Staff",
+      "content": "Syrian President Bashar al-Assad is said to have fled Damascus to an unknown destination as opposition fighters entered the capital and people poured out onto the streets and public squares in celebr\u2026 [+1583 chars]",
+      "description": "Opposition forces declare Syria free of Assad rule as the president reportedly flees the country.",
+      "publishedAt": "2024-12-08T04:04:42Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Opposition fighters take Syrian capital, Damascus",
+      "url": "https://www.aljazeera.com/news/2024/12/8/opposition-fighters-take-syrian-capital-damascus",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/A3ED7D3E-1562-44D4-BBFB-D5446F5B84D5.gif?resize=1200%2C630"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Secretary of Defense Lloyd Austin has announced that the United States will provide nearly $1bn in additional military aid to war-torn Ukraine, as it attempts to fend off an ongoing Russian invasion.\u2026 [+3058 chars]",
+      "description": "In waning days of his presidency, Biden seeks to bolster Ukraine's defences amid its years-long fight against Russia.",
+      "publishedAt": "2024-12-07T23:33:32Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Biden administration unveils new $988m US military aid package for Ukraine",
+      "url": "https://www.aljazeera.com/news/2024/12/7/biden-administration-unveils-new-988m-us-military-aid-package-for-ukraine",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AP24342620044905-1733611751.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Al Jazeera",
       "content": "Three former members of Brazils Federal Highway Police have been sentenced to lengthy prison terms for the torture and death of a Black man held in the boot of their squad car.\r\nOn Saturday, Justice \u2026 [+3166 chars]",
       "description": "The three officers were convicted in the death of Genivaldo de Jesus Santos, a Black man who died in police custody.",
@@ -1273,34 +1299,8 @@
       "title": "Syrian opposition fighters claim to have entered the key city of Hama",
       "url": "https://www.aljazeera.com/news/2024/12/5/syrian-opposition-fighters-claim-to-have-entered-the-crucial-city-of-hama",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20241204__36PE8MB__v3__HighRes__TopshotSyriaConflict-1733394366.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": null,
-      "content": "The inspirational story of the Moroccan football team that raises awareness of dwarfism through sport.This is the inspirational story of a group of athletes defying expectations and redefining what i\u2026 [+830 chars]",
-      "description": "The inspirational story of the Moroccan football team that raises awareness of dwarfism through sport.",
-      "publishedAt": "2024-12-05T11:28:34Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Rising to the Challenge: Morocco\u2019s short-statured football team",
-      "url": "https://www.aljazeera.com/program/al-jazeera-world/2024/12/5/rising-to-the-challenge-moroccos-short-statured-football",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/image-1733398072.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": null,
-      "content": "By the Numbers\r\nAJLabs breaks down the cost of food and other essentials in the besieged enclave.",
-      "description": "AJLabs breaks down the cost of food and other essentials in the besieged enclave.",
-      "publishedAt": "2024-12-05T11:22:56Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "How much does food cost in Gaza?",
-      "url": "https://www.aljazeera.com/program/by-the-numbers-3/2024/12/5/how-much-does-food-cost-in-gaza-4",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/H_thumb-1733397706.png?resize=1920%2C1080&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1338
+  "totalResults": 1340
 }
