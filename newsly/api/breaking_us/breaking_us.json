@@ -1,10 +1,23 @@
 {
   "articles": [
     {
+      "author": "CNN",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-12-14T09:32:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "South Korea\u2019s parliament votes to impeach president over martial law debacle - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzV4d2hLQU5nakFkc3R0MTZDb3Mxbnh5eHhUbGpnVnU3ZTAtTVVwVVpNbnQ3VXNqR1pHRHJBTlMzTVVjMW5LWmRwcXZjWmFOS3NIVm5FcGw1TWF5LWIwbXBFYTVVbFlncVR1NHFFLUdQQWhKd1N1cDlCblB3U1lLeEJUVWpia0FKQ3dEd2lRWDFkcG8zUXfSAYwBQVVfeXFMUERDV1lPLU9OOUVVVEZlTGhUUEt3ZGFXYTNNOEh3UGZabGJ6cXJ3bXBpSG9xaDdIYmtneERXc2IwN0JOLXpCcXhPRjBOZklKY1hOa1lZWEFrT1FHZXo0VjFxTHhKRFl4WG5QYUxGaXFEenZWNmxJTENCSkR2MENJeTJub0N6aE1wSHZqSm4?oc=5",
+      "urlToImage": null
+    },
+    {
       "author": "April Rubin",
       "content": "Texas Attorney General Ken Paxton (R) sued a New York doctor for sending abortion medication under the Empire State's shield law to Texas, which has a near-total abortion ban, his office said Friday.\u2026 [+3383 chars]",
       "description": "The doctor is the founder of the Abortion Coalition for Telemedicine.",
-      "publishedAt": "2024-12-14T02:43:28Z",
+      "publishedAt": "2024-12-14T08:47:41Z",
       "source": {
         "id": "axios",
         "name": "Axios"
@@ -14,62 +27,10 @@
       "urlToImage": "https://images.axios.com/MRTVNPAM22hH_zn9bdRyM26I1KU=/0x0:4000x2250/1366x768/2024/12/13/1734128900508.jpg"
     },
     {
-      "author": "Armando Tinoco",
-      "content": "Shawn Carter, known as Jay-Z, is reacting to a new report from his rape accuser where she acknowledges she has \u201cmade some mistakes\u201d recalling the allegations.\r\nBeyonc\u00e9\u2019s husband shared a statement cl\u2026 [+1433 chars]",
-      "description": "Shawn Carter, known as Jay-Z, is reacting to a new report from his rape accuser where she acknowledges she has \"made some mistakes\" recalling the allegations.",
-      "publishedAt": "2024-12-14T02:35:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "Jay-Z Says \"True Justice Is Coming\" After Rape Accuser Admits To \"Mistakes\" In Allegations: \"This Was Over Before It Began\" - Deadline",
-      "url": "http://deadline.com/2024/12/jay-z-rape-accuser-admits-mistakes-allegations-1236203689/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/jayz-rape-allegations.jpg?w=1024"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2024-12-14T02:30:00Z",
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "NBA.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-14T02:16:44Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Joel Embiid exits Pacers-76ers game with facial injury, does not return - NBA.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBRzlJeTY4NW1hQWcwNVAxWTBzN3k2clpJOXJQOU94WHU4Q1FxZk1nME5xc1d2ZG52azNGbGJkemVZWlNSVTJjeXlONnBkTjFIc3BBd2c5dHprMWRIMHZMYw?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-14T02:03:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Syria Live Updates: Joyous Syrians Gather for 1st Friday Prayers Since Assad Regime's Fall - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxVTFFMnRNWDJ5VktlWm5Ta3A1VkNpWjZPbkItQXFoaFdWQmZ6TjFDZ0pnaFNDemRDRGtvUFRXeFQ3STQzTlpSOFlxUDlKVEVKWVdhQm5uNXozcldWVEgxVC1seENQV3M?oc=5",
-      "urlToImage": null
-    },
-    {
       "author": null,
       "content": "Former US House Speaker Nancy Pelosi has been admitted to hospital after sustaining an unspecified injury during an official trip to Luxembourg, her office said on Friday.\r\nUS media have reported tha\u2026 [+1675 chars]",
       "description": "The former House speaker suffered an unspecified injury while on an official trip to Luxembourg, her office says.",
-      "publishedAt": "2024-12-14T01:51:51Z",
+      "publishedAt": "2024-12-14T07:53:19Z",
       "source": {
         "id": null,
         "name": "BBC News"
@@ -77,6 +38,71 @@
       "title": "Nancy Pelosi in hospital after injury on overseas trip - BBC.com",
       "url": "https://www.bbc.com/news/articles/c1wq3jld884o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bca2/live/2a3894e0-b978-11ef-b092-b1cccc33a085.jpg"
+    },
+    {
+      "author": "Maegan Vazquez",
+      "content": "Senate Minority Leader Mitch McConnell (R-Kentucky), who battled polio as a child, warned on Friday that anyone seeking a Senate confirmation should steer clear of associating with any efforts to und\u2026 [+441 chars]",
+      "description": "The statement is the first time the Senate minority leader has publicly weighed in on the nomination process beyond acknowledging meeting with some of Trump\u2019s picks for his administration.",
+      "publishedAt": "2024-12-14T04:23:49Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Polio survivor Mitch McConnell criticizes efforts to undermine vaccine - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2024/12/13/mcconnell-polio-vaccine-trump-cabinet/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OLY45X5HYZPGYL4OTADNDOYV5E.jpg&w=1440"
+    },
+    {
+      "author": "Adam B. Vary",
+      "content": "Towards the end of Sony Picture\u2019s newest Marvel movie \u201cKraven the Hunter,\u201d the titular anti-hero \u2014 played with maximum abdominal musculature by Aaron Taylor-Johnson \u2014 experiences a chilling hallucina\u2026 [+6464 chars]",
+      "description": "\"Kraven the Hunter\" signifies an end to Sony's spin-off movies of secondary Spider-Man characters. But it is not the end of Sony's Marvel films.",
+      "publishedAt": "2024-12-14T04:10:00Z",
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "title": "Even After \u2018Kraven the Hunter\u2019 and \u2018Madame Web,\u2019 Sony\u2019s Marvel Movies Aren\u2019t Dead (EXCLUSIVE) - Variety",
+      "url": "https://variety.com/2024/film/news/kraven-sony-marvel-movies-not-dead-1236249221/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/12/Kraven-Madame-Web-Morbius-2.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "author": "",
+      "content": "At this point, if you're a Philadelphia 76ers fan, it's hard to know whether to laugh or cry at how ridiculously awful this season is going. It was supposed to be a season of joy and contention for t\u2026 [+1811 chars]",
+      "description": "Embiid was playing in his just his sixth game and didn't even make it to halftime",
+      "publishedAt": "2024-12-14T03:34:00Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "Joel Embiid exits loss to Pacers after hit to face as Sixers' season from hell continues - CBS Sports",
+      "url": "https://www.cbssports.com/nba/news/joel-embiid-ruled-out-vs-pacers-after-taking-shot-to-the-face-as-sixers-season-from-hell-continues/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/14/acd6ee1c-c914-4f4c-8ab6-7d64870d4fbb/thumbnail/1200x675/884d1892793cba9d2fd66c43848d8b68/embiid-shot-to-face-usatsi.jpg"
+    },
+    {
+      "author": "Dan Diamond",
+      "content": "Donald Trump wants to end Americas century-old practice of springing forward and falling back.\r\nThe Republican Party will use its best efforts to eliminate Daylight Saving Time, which has a small but\u2026 [+5268 chars]",
+      "description": "\u201cDaylight Saving Time is inconvenient, and very costly to our Nation,\u201d the president-elect wrote, criticizing the century-old practice of shifting clocks twice per year.",
+      "publishedAt": "2024-12-14T03:00:00Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Trump calls for ending daylight saving time. It\u2019s \u2018inconvenient,\u2019 he says. - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2024/12/13/daylight-saving-time-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JM5DWMWGDEI6VKBFQ4RAATSBKA_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "",
+      "content": "With only two college football games on the Saturday slate, college basketball will take center stage this weekend with a handful of marquee nonconference matchups. The fun starts in Indianapolis on \u2026 [+4319 chars]",
+      "description": "Our experts have picks for all of Saturday's big games",
+      "publishedAt": "2024-12-14T02:06:44Z",
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "title": "College basketball picks, schedule: Predictions for Tennessee vs. Illinois and more Top 25 games on Saturday - CBS Sports",
+      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-picks-schedule-predictions-for-tennessee-vs-illinois-and-more-top-25-games-on-saturday/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/14/2f4eedae-1804-4474-b626-e468866f43b2/thumbnail/1200x675/98ffcad4429077e286ac4bfe0b0b60a6/usatsi-24958062-1.jpg"
     },
     {
       "author": "Chief Meteorologist Steve LaPointe",
@@ -92,82 +118,69 @@
       "urlToImage": "https://cbs6albany.com/resources/media/846875d4-2758-4bd8-b9f0-7df35dd5d03e-large16x9_Geminid3_Photo_Sean_Walker_EditorSkyandTelescope.jpg"
     },
     {
-      "author": "Nate Raymond, Mike Spector",
-      "content": null,
-      "description": "McKinsey & Co has agreed to pay $650 million to resolve charges over advice it provided Purdue Pharma on how to \"turbocharge\" sales of its addictive painkiller OxyContin, the U.S. Department of Justice said on Friday.",
-      "publishedAt": "2024-12-14T01:20:00Z",
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "title": "Consulting firm McKinsey to pay $650 million to resolve US opioid charges - Reuters",
-      "url": "https://www.reuters.com/legal/consulting-firm-mckinsey-pay-650-mln-resolve-us-opioid-probe-2024-12-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QBEYZAZEXFJCNHYDTQA5BDKG2M.jpg?auth=c6bfeb836bbccf20652294dc88c4083c4681428c76e66f0215147fad23cdd7a5&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "The Guardian",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-14T01:18:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "South Korean president Yoon Suk Yeol facing impeachment vote for second time - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnNoQmxWRl9QbjRIYmE2YnlldndQR1NKR0VfZV9RcVB6eGdmcE0taUd1NWdNR2tKYjM0ZHFDblVXTF9rd1d5UEZKOWZpQVc3aEFKYU5NOEEzcHZNWnJJcnY3N3B3cXE0bkJnX0JOSXFhbXByUkFYcE9nbXFMSWZlSnJ3eVRLc1RUOV9xR2JWaHNrNl9mSUk4cUNPRHgtdEpGRlJKM0VSc3ZQMHBPOEdqR2pKRF95VlR1ZWp4a1pRWdIBvwFBVV95cUxNNWduTkk4bGNQMjNSUHlPYlJYdGd2bUxXdE96UUJnd0JtVndSRXkwVVVkQVo4cTF6LXU1WE9nUlV6eW82TEdndzE2QldQVzdPZmV3ak5JTDRrWkVLeHlVTUNjckhiYnh3UmZpeWxWbkJvdXZlQ19nMTk2QVdLdVJHdk5nUDlkM25LRTVBMF9lSTFTWWstcUFJZV80LVJ5SjNRZldFcGdaME9aX0FOWE90S29IVmRnbEtlOUdzYkJLOA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Alison Herman",
-      "content": "It is seemingly not possible for \u201cDexter,\u201d as a franchise, to move forward. In the final moments of the sequel series \u201cNew Blood,\u201d which aired eight years after the original series finale in 2013, Mi\u2026 [+4750 chars]",
-      "description": "The Showtime prequel series 'Dexter: Original Sin' beats a dead horse in tracing the serial killer's early career.",
-      "publishedAt": "2024-12-14T01:16:00Z",
+      "author": "Roy Nemer",
+      "content": "WWE SmackDown ResultsDecember 13, 2024XL Center in Hartford, CT.Commentary: Michael Cole and Corey GravesResults by Roy Nemer of Wrestleview.com\r\nWWE SmackDown kicks off with Tiffany Stratton and Mic\u2026 [+17950 chars]",
+      "description": "WWE SmackDown ResultsDecember 13, 2024XL Center in Hartford, CT.Commentary: Michael Cole and Corey GravesResults by Roy Nemer of\u2026",
+      "publishedAt": "2024-12-14T00:45:59Z",
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "Wrestleview.com"
       },
-      "title": "\u2018Dexter: Original Sin\u2019 Is Guilty of Beating a Dead Horse: TV Review - Variety",
-      "url": "https://variety.com/2024/tv/tv-reviews/dexter-original-sin-review-showtime-prequel-1236249178/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/12/DexterOS_101_PW_062524_0051_RT.jpg?w=1000&h=563&crop=1"
+      "title": "WWE SmackDown Results \u2013 12/13/24 (Go-Home show for Saturday Night\u2019s Main Event) - Wrestleview.com",
+      "url": "https://www.wrestleview.com/wwe-smackdown-results/335965-wwe-smackdown-results-12-13-24-go-home-show-for-saturday-nights-main-event/",
+      "urlToImage": "http://www.wrestleview.com/wp-content/uploads/2024/12/wwe-smackdown-mi-chin-tiffany-stratton.jpg"
     },
     {
-      "author": "CNN",
+      "author": "Erin Snodgrass",
+      "content": "OpenAI responded to co-founder Elon Musk on Friday with a new legal filing and a pointed blog post featuring the billionaire's old emails in which he pushed for the AI startup to be for-profit.\r\nThe \u2026 [+2489 chars]",
+      "description": "OpenAI published screenshots of Elon Musk's old emails in which the billionaire was pushing a for-profit business structure.",
+      "publishedAt": "2024-12-14T00:45:00Z",
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "title": "OpenAI publishes more of Elon Musk's internal emails showing he originally favored a for-profit structure - Business Insider",
+      "url": "https://www.businessinsider.com/openai-publishes-elon-musk-emails-for-profit-structure-2024-12",
+      "urlToImage": "https://i.insider.com/675cc30dec3fba82bfa93542?width=1200&format=jpeg"
+    },
+    {
+      "author": "Sara Thompson",
       "content": null,
-      "description": null,
-      "publishedAt": "2024-12-14T00:49:00Z",
+      "description": "January 2024 feels like DECADES ago?",
+      "publishedAt": "2024-12-14T00:31:03Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
       },
-      "title": "Suspect in UnitedHealthcare CEO killing was not insured by the company - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2NJZjlieS14YXdhdzRQb1EzbG9MT2tmWWJvbHR4UUttMk9mQTlncmZqd3FvYWlmSi05SVFnTGFYVjI5WDE3bl8yN1VzeTdyaFh2eG1oZ3VFaFlPT1pQV19QTnZEeXVDME1KNnVjNGdVYU1HSC1Xd29QTDZyQ0lXRzRMSl9QcEljWE4yWXVvb3NZdzjSAYoBQVVfeXFMT3ZITkRhREhVcVk3cXM4ejN6S0JmTVRUXzhoV2pPSmdsLXU5U2NEcGJDeV9jdlJUcU9ob1RYMlpWQlg3V3hwMmE5cG05dXpYZ1ZDa0xOVkVBb1JpQ0ZmUnZubllsdUlNT2lXbTZUR0U4SnBLYnNXbnBNMEI4bGNmQ3dfcTdpVC1JU1Zn?oc=5",
-      "urlToImage": null
+      "title": "These 30 Pop Culture Moments All Happened In 2024, But I Doubt Anyone Will Remember Them All - BuzzFeed",
+      "url": "https://www.buzzfeed.com/sarathompson1/2024-pop-culture-moments-trivia-quiz",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/9/23/enhanced/3e646214bda1/original-1167-1733785340-10.jpg?crop=2999:1575;0,0%26downsize=1250:*"
     },
     {
-      "author": "Dan Diamond",
-      "content": "Donald Trump wants to end Americas century-old practice of springing forward and falling back.\r\nThe Republican Party will use its best efforts to eliminate Daylight Saving Time, which has a small but\u2026 [+5268 chars]",
-      "description": "\u201cDaylight Saving Time is inconvenient, and very costly to our Nation,\u201d the president-elect wrote, criticizing the century-old practice of shifting clocks twice per year.",
-      "publishedAt": "2024-12-14T00:46:47Z",
+      "author": null,
+      "content": "Israel's defence minister has instructed troops to prepare to stay for winter on the peak of Mount Hermon, which sits on the border between Syria, Lebanon and a UN demilitarised buffer zone in the Go\u2026 [+2401 chars]",
+      "description": "Israel seized control of a buffer zone between the Golan Heights and Syria after the fall of Bashar al-Assad.",
+      "publishedAt": "2024-12-14T00:19:32Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "BBC News"
       },
-      "title": "Trump calls for ending daylight saving time. It\u2019s \u2018inconvenient,\u2019 he says. - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2024/12/13/daylight-saving-time-trump/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JM5DWMWGDEI6VKBFQ4RAATSBKA_size-normalized.jpg&w=1440"
+      "title": "Golan Heights: Israel army prepares to stay on Mt Hermon for winter - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c390j9x9w9go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/35ae/live/a09b4220-b970-11ef-a0f2-fd81ae5962f4.jpg"
     },
     {
-      "author": "Ry Rivard",
-      "content": "Steins 78-page order also did not address a separate request Menendez made for a new trial last month, after prosecutors revealed theyd inadvertently given jurors access to evidence they should not h\u2026 [+1645 chars]",
-      "description": "But the judge did not address a separate request Menendez made for a new trial last month",
-      "publishedAt": "2024-12-13T23:59:16Z",
+      "author": "Ian Johnston, Leila Abboud",
+      "content": "Try unlimited access\r\nOnly $1 for 4 weeks\r\nThen $75 per month.\r\nComplete digital access to quality FT journalism on any device. \r\nCancel anytime during your trial.",
+      "description": "Emmanuel Macron chooses ally as he seeks to stabilise political turmoil but faces Moody\u2019s downgrade",
+      "publishedAt": "2024-12-14T00:04:41Z",
       "source": {
-        "id": "politico",
-        "name": "Politico"
+        "id": null,
+        "name": "Financial Times"
       },
-      "title": "Judge declines to toss Menendez verdicts - POLITICO",
-      "url": "https://www.politico.com/news/2024/12/13/judge-declines-to-acquit-menendez-00194368",
-      "urlToImage": "https://static.politico.com/88/10/463e6bdd42d89a3434f776d99eaa/https-delivery-gettyimages.com/downloads/2161640197"
+      "title": "Fran\u00e7ois Bayrou appointed French prime minister - Financial Times",
+      "url": "https://www.ft.com/content/66af79cd-2cb2-460e-b365-6475c67cbc0b",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F731c3f39-8d30-49bb-86a8-6bd5b80ee513.jpg?source=next-barrier-page"
     },
     {
       "author": "Abbie Cheeseman, John Hudson, Missy Ryan, Michael Birnbaum",
@@ -183,56 +196,56 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5IA42MVRHO7TWIHOJU2MBCXO4.jpg&w=1440"
     },
     {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-13T23:42:05Z",
+      "author": "Stephen Pastis",
+      "content": "For weeks, citizens across New Jersey as well as New York, Pennsylvania and Connecticut have reported seeing clusters of drone-like objects flying low in the sky at night, yet information remains sca\u2026 [+10120 chars]",
+      "description": "Officials sound alarm over reports of the strange sights\u2014seen over New Jersey, New York, Maryland and Pennsylvania\u2014with one asking for a \u201climited state of emergency.\u201d",
+      "publishedAt": "2024-12-13T23:29:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Forbes"
       },
-      "title": "US court rejects Tiktok request to temporarily halt pending US ban - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlFwcEJ0ekRmX1RNa1ZOUnNMelp0eUVEX3Z5YkdfVzR4M21lbUhtbUVETEFtb1hXYWgxNURSVFphaFBBS3lfdUd1ME5hRjhOc1p6QXRrMVd2V3Vra2F5UUo0SlRNaHQ5ZmkyemxIQVFIbjFoaHhEZGsxRFQ0YkNNUVNuUmt1XzdhQTZrV1BtVkZhQlV4dEt2b1ZRb0JHSGtpdUlyTzdJTU8?oc=5",
-      "urlToImage": null
+      "title": "Mystery Drones Over New Jersey And Nearby States: Trump Weighs In As More Sightings Reported (Updating) - Forbes",
+      "url": "https://www.forbes.com/sites/stephenpastis/2024/12/13/mystery-drones-over-new-jersey-and-nearby-states-trump-weighs-in-as-more-sightings-reported-updating/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/675b3bb3647ccd351968c2a3/0x0.jpg?format=jpg&crop=2061,1158,x1288,y949,safe&height=900&width=1600&fit=bounds"
     },
     {
-      "author": "POLITICO",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-13T23:04:26Z",
+      "author": "Mike Florio",
+      "content": "Perhaps the best news for Prime Videos Thursday Night Football ratings is that the numbers have gotten so good that a bad night stands out.\r\nThis weeks Rams-49ers game attracted only 12.29 million vi\u2026 [+626 chars]",
+      "description": "Perhaps the best news for Prime Video's Thursday Night Football ratings is that the numbers have gotten so good that a bad night stands out.",
+      "publishedAt": "2024-12-13T23:08:31Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "NBCSports.com"
       },
-      "title": "Biden granted clemency to the \u2018kids-for-cash\u2019 judge. The White House didn\u2019t consider the case specifics. - POLITICO",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXBaU25obktPbUZPR1lZTElxb0VLMmdWUXl0VzhrcGQ1Q2Q4QUM5RFB2QnQ2RVNJREFBQXhvQ0l4VUJHTDZEdzY3TXRLWm5DVUdlbkZCeW8yaVc2UGx6MU1SbFNBZ1hOMTJtQUg5SVpaam5FSlA3eldOVWd3QjE4VlgtZXhuUWx6TVF0cQ?oc=5",
-      "urlToImage": null
+      "title": "Rams-49ers draws 12.29 million for Thursday Night Football - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-49ers-draws-12-29-million-for-thursday-night-football",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/3058ec0/2147483647/strip/true/crop/8192x4608+0+428/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fba%2F6d%2F22a3b6044050b3c10aec1213875b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2189090660"
     },
     {
-      "author": "Melissa Rudy",
-      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nR\u2026 [+6693 chars]",
-      "description": "Seed oils \u2014 plant-based cooking oils often used in processed, packaged foods \u2014 have been linked to an increased risk of colon cancer, according to a new...",
-      "publishedAt": "2024-12-13T22:48:36Z",
+      "author": null,
+      "content": "NEW YORK (AP) \u00a0Neanderthals and humans\u00a0likely mixed and mingled during a narrow time frame 45,000 years ago, scientists reported Thursday.\r\nResearchers analyzed ancient genes to pinpoint the time per\u2026 [+2021 chars]",
+      "description": "Neanderthals and humans\u00a0likely mixed and mingled during a narrow time frame 45,000 years ago, scientists reported Thursday, a time period slightly more recent than previous estimates for the mating.",
+      "publishedAt": "2024-12-13T23:00:58Z",
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "PBS"
       },
-      "title": "Cooking oil linked to colon cancer in early study, tied to inflammation - Yahoo! Voices",
-      "url": "https://www.foxnews.com/health/cooking-oil-linked-colon-cancer-early-study-tied-inflammation",
-      "urlToImage": "https://media.zenfs.com/en/fox_news_text_979/c76980cdfe04a2feaa13d39097d7bf81"
+      "title": "Researchers use ancient genes to pinpoint when humans and Neanderthals mingled - PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/science/researchers-use-ancient-genes-to-pinpoint-when-humans-and-neanderthals-mingled",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/12/2010-02-25T120000Z_1889877763_GM1E62Q00JZ01_RTRMADP_3_CROATIA-1024x687.jpg"
     },
     {
-      "author": "CBS Sports",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-13T22:41:00Z",
+      "author": "MICHAEL RUBINKAM",
+      "content": "A judge who helped orchestrate one of the worst judicial scandals in U.S.history a scheme to send children to for-profit jails in exchange for kickbacks was among the 1,500 people whose sentences wer\u2026 [+2831 chars]",
+      "description": "A judge who helped orchestrate a scheme to send children to for-profit jails in exchange for kickbacks was among the 1,500 people whose sentences were commuted by President Joe Biden this week. Biden\u2019s decision to commute the 17-year prison sentence of Michae\u2026",
+      "publishedAt": "2024-12-13T22:32:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "title": "Before Army-Navy, there's the Game Ball Run: How the two sides will combine to run over 350 miles in 2024 - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeGtKWlJUTUJuS0hWX0hVeGZfbk9yakV5eHBYYzdOWjNLcFYtYWxTRkxfbVVpcjd1N3pRUEswenBqRmFrSWJET0lmanY1V1g5UFJLdUdXUXhNX0xzZVJqcUNzdDFoanNzOFJBaE5vMzN1SUNRZVpibl9nckpjQTV2TXJ0ZFpJdE9NY084eFVMRkZDMlJpQkxBUDUtZjAwMkVheXB3RnkyTkF5dUpiektSbkk0VXJkZW5TbmZLZVlOaHlBc05VOUtlSXR0MzJRRTNzalNmYUpIekNPRTl2WWVZb1FENnM5QdIB6wFBVV95cUxPSkRyRkNEVlBITVBoeXpKMUNZTXdVNFhieExtYjdQM0swRFdDOFhsYWhLb0VXMFcxNHVxZXUwSU9zbE9OUXA1WHNlRHpoSm52U0J5YTdaZlF3dFRRRWEyX011Q01YV0stQ3NPZnZIcGZjUlZFeWY3N3FlaFBYcE11UXVxTUJXeDN0MHo1N3hKZjZ2ZzRqOVpoWk00M3V1SVVBSXQ5XzNrLUpGNmloZ0ZIc3IwU25DZjRyc29ybG5iUkpHR3BDdnB4eW9NYzZScERBc2xlU0ItdXZaekp2LUs5RmVEaXJYcWZNUFVZ?oc=5",
-      "urlToImage": null
+      "title": "Biden\u2019s commutation in \u2018kids for cash\u2019 scandal angers some Pennsylvania families - The Associated Press",
+      "url": "https://apnews.com/article/kidsforcash-judge-conahan-commutation-biden-d32ee4cda3615469032d166a0f38814d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b75514b/2147483647/strip/true/crop/2000x1125+0+104/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2Fed%2F2d9766ecf894cacb498c93422480%2F77d50306922441f3b89be22f5ba5ae21"
     },
     {
       "author": "Beth Mole",
@@ -246,19 +259,6 @@
       "title": "Bird flu jumps from birds to human in Louisiana; patient hospitalized - Ars Technica",
       "url": "https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/h5n1-1152x648.jpg"
-    },
-    {
-      "author": "CNN",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-13T21:05:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Can Syria\u2019s Islamist rebels govern the country? Their rule in Idlib offers clues - CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVThiQk4xUE14SjV6YXhPdy1DVWZFbVdVZnFhU1JPNGN4M19hV0laa2M1RlhOd2pxdkMtVXlDMlJLeVBqZ091MFRjOVo5bnFQY01CcnhJTjJmWWR6bEROcWt5ZWFjR0hFalpHeVdrY19mZmREMWVMNEZ5YUNUeTk4V3lxbnBuMUw3clo4YXZnb1ZCTWVr0gGLAUFVX3lxTE1wbU9qUmtyUkVjVlhkMmNPU1hYU0owTTdLbGRKUnRFejRCTGVyYTVnQW80Uk5yamtuS2dXdEl3X0FmVXgzcXZRZFV5Y1V4M3RBR0E0YmtxYmRUZTVPX0gzWmxRNGRVcWR0dWNCYlg5YnlKRG0zLS1KU2VfcnNiZDRUVW1oWEdnODFFOGM?oc=5",
-      "urlToImage": null
     }
   ],
   "status": "ok",
