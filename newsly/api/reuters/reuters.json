@@ -1,44 +1,36 @@
 {
   "articles": [
     {
+      "author": "Friederike Heine, Andreas Rinke",
+      "description": "Chancellor Olaf Scholz asked Germany's parliament on Monday to declare it has no confidence in him, taking the first formal step towards securing an early national election following his government's collapse.",
+      "publishedAt": "2024-12-15T23:04:07Z",
+      "title": "German Chancellor Scholz asks parliament to clear way for snap election",
+      "url": "https://www.reuters.com/world/europe/german-chancellor-scholz-ask-parliament-clear-way-new-elections-2024-12-15/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/25HVTH6TGZJIBGAM5OV2QURSQQ.jpg?auth=0b37fba91beab8796e58ccf0ab0ae07ae13fae670881b92ce24fe78e0ce79ff2&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi, Hussam Al-Masri",
+      "description": "Relatives of Palestinians killed by Israel in Khan Younis gathered around their white-shrouded bodies on Monday before carrying them to their graves.",
+      "publishedAt": "2024-12-16T11:14:58Z",
+      "title": "Palestinians mourn dead after Israeli strike on Gaza's Khan Younis",
+      "url": "https://www.reuters.com/world/middle-east/palestinians-mourn-dead-after-israeli-strike-gazas-khan-younis-2024-12-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4O2USF4ONBL6JIX4KS7QEMSNPA.jpg?auth=57940769a918fb9289eef923d3e148a9c1d98baa4aeb639dfc63074bb5ff03e7&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Timour Azhari",
-      "description": "Students returned to classrooms in Syria on Sunday after the country's new rulers ordered schools reopened in a potent sign of some normalcy a week after rebels swept into the capital in the dramatic overthrow of President Bashar al-Assad.",
-      "publishedAt": "2024-12-15T09:54:54Z",
-      "title": "Syrian authorities reopen schools, a week after upheaval that overthrew Assad",
-      "url": "https://www.reuters.com/world/middle-east/syrian-authorities-reopen-schools-week-after-upheaval-that-overthrew-assad-2024-12-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JVYNPXRJZZJJ5FG2DPVICPQJSU.jpg?auth=07f0603119adda4a917f22ea2713db823b1e7c61b3cde52d862d81e84067a3ed&height=1005&width=1920&quality=80&smart=true"
+      "description": "The U.N.'s Syria envoy urged an inclusive Syrian transition based on a nine-year-old Security Council resolution during a meeting with the commander of Syria's new administration, Ahmed al-Sharaa, the envoy's office said on Monday.",
+      "publishedAt": "2024-12-16T12:12:02Z",
+      "title": "UN envoy meets Syria's Sharaa, urges inclusive transition",
+      "url": "https://www.reuters.com/world/middle-east/un-envoy-meets-syrias-sharaa-urges-inclusive-transition-2024-12-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6U3AO2SZRJO2JJ7YAAKQX72TNI.jpg?auth=46ef402edee84518cd894435225bd5bc12403280e5b0fe8515853fbfdd568f18&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "At least 11 people were killed after a cyclone slammed into Mayotte, the most intense storm to hit the French Indian Ocean archipelago north of Madagascar in nearly a century, French weather forecasters and authorities said on Sunday.",
-      "publishedAt": "2024-12-15T09:22:03Z",
-      "title": "Cyclone slams into France's Mayotte archipelago, killing at least 11",
-      "url": "https://www.reuters.com/world/europe/cyclone-slams-into-frances-mayotte-archipelago-killing-least-11-2024-12-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/A6L4MYUZ3JIBXLJDGM4MDT2GKI.jpg?auth=f272bc8116b44cde1e28f941f05701076b58874e92a0269d2b141b66d1775b33&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Nidal Al-Mughrabi",
-      "description": "Israeli military strikes across the Gaza Strip killed at least 28 Palestinians, including a journalist and rescue workers, medics said, and the Israeli military said troops carried out air and ground attacks in the northern Gaza Strip, killing dozens of militants while capturing others.",
-      "publishedAt": "2024-12-15T10:31:35Z",
-      "title": "Israeli troops carry out air, ground attacks in Gaza",
-      "url": "https://www.reuters.com/world/middle-east/israeli-troops-kill-20-gaza-strip-attack-school-sheltering-displaced-2024-12-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Luc Cohen",
-      "description": "The U.S. fraud case against Indian billionaire Gautam Adani appears to be backed by documents that will help prosecutors make a strong case, legal experts said, but the tycoon is unlikely to be extradited to stand trial anytime soon.",
-      "publishedAt": "2024-12-16T06:05:51Z",
-      "title": "US case against India's Gautam Adani appears strong but extradition unlikely, experts say",
-      "url": "https://www.reuters.com/legal/us-case-against-indias-gautam-adani-appears-strong-extradition-unlikely-experts-2024-12-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4IP5DVRS5ZPZLGPB7QYSWHKKY4.jpg?auth=58bf3c643418d410869fd084098f119052294660cc68063258223422f100678e&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Joyce Lee, Ju-Min Park",
-      "description": "The court has up to six months to decide whether to remove Yoon Suk Yeol from office or to reinstate him as president after his impeachment over an attempt to declare martial law.",
-      "publishedAt": "2024-12-16T01:10:02Z",
-      "title": "South Korea court begins review of Yoon impeachment",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korea-court-begins-review-yoon-impeachment-2024-12-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/AQMUGO5ERZL5RGM4QVZTP7E3OE.jpg?auth=0c41ad985b63d63fd12fb26b7973705cd31e5e0180d5d10b82a49e96ab4462f4&height=1005&width=1920&quality=80&smart=true"
+      "description": "Russian President Vladimir Putin on Monday accused the West of pushing Russia to its \"red lines\" - situations it has publicly made clear it will not tolerate - and said Moscow had been forced to respond.",
+      "publishedAt": "2024-12-16T10:55:56Z",
+      "title": "Putin accuses West of pushing Russia to its \"red lines\" forcing it to respond",
+      "url": "https://www.reuters.com/world/europe/putin-accuses-west-pushing-russia-its-red-lines-forcing-it-respond-2024-12-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LAHLXNE6ORIO3BXGWWCQ34T36A.jpg?auth=af466b4d3a23dabb112c643b19fccc43a6b1d364dd45da2735fe0bfbbd3e88cc&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -50,35 +42,43 @@
     },
     {
       "author": "Reuters",
-      "description": "The threats to Israel from Syria remain despite the moderate tone of rebel leaders who ousted President Bashar al-Assad a week ago, Israeli Defence Minister Israel Katz said on Sunday, amid military moves by his country to counter such threats.",
-      "publishedAt": "2024-12-15T12:47:59Z",
-      "title": "Israel sees increased threat from Syria despite moderate tone of rebel leaders",
-      "url": "https://www.reuters.com/world/middle-east/israel-sees-increased-threat-syria-despite-moderate-tone-rebel-leaders-2024-12-15/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/SC5WIP5HJFK3TP6FCNIBJX3M6Y.jpg?auth=d4799a64d73f9401d8a9542703c5f4afd9b446b8ada1179aa4ec98ba89b50be2&height=1005&width=1920&quality=80&smart=true"
+      "description": "Canada's Finance Minister Chrystia Freeland unexpectedly resigned on Monday, saying she was no longer on the same page with Prime Minister Justin Trudeau about the best path forward for Canada.",
+      "publishedAt": "2024-12-16T14:24:52Z",
+      "title": "Canada's finance minister resigns after policy clash with PM Trudeau",
+      "url": "https://www.reuters.com/world/americas/canadas-finance-minister-resigns-2024-12-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/IYNMYHS5LNNENLFPG22LI7QXQ4.jpg?auth=fb21e0d20b611a3cee5c99941304b62d9ff7dfbb61558370a8ca4b503fe68ff7&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Ashley Tang, Panu Wongcha-Um",
-      "description": "Malaysian Prime Minister Anwar Ibrahim on Monday appointed Thailand's billionaire political heavyweight and former premier Thaksin Shinawatra as his personal adviser for when he becomes chair of Southeast Asia's regional bloc next year.",
-      "publishedAt": "2024-12-16T08:39:15Z",
-      "title": "Malaysia PM appoints Thai heavyweight Thaksin his adviser on ASEAN",
-      "url": "https://www.reuters.com/world/asia-pacific/malaysia-pm-appoints-thai-heavyweight-thaksin-his-adviser-asean-2024-12-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4NCBX52BQBLUXOTIKXFBOPSPKQ.jpg?auth=c4e9811448dbd3fb6b920340f57bcd9a2665146175872677204e8214de32dcc1&height=1005&width=1920&quality=80&smart=true"
+      "author": "Andrew Macaskill, Elizabeth Piper",
+      "description": "Britain's Labour government has pared back an audit of relations with China, four sources with knowledge of the matter said, preparing the way for a less critical report that could help Prime Minister Keir Starmer focus on improving economic ties.",
+      "publishedAt": "2024-12-16T12:25:59Z",
+      "title": "Exclusive: Britain pares back secretive China strategy review, seeking closer ties",
+      "url": "https://www.reuters.com/world/uk/britain-pares-back-secretive-china-strategy-review-seeking-closer-ties-2024-12-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VAUBBJ6UURIMHJHJM2ETVJYYQY.jpg?auth=fae90c97350ee18a1062c8f4435731ec029b893748dde647f4099d8b18fa2fa6&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Anna Mehler Paperny",
+      "description": "Canadian law enforcement officials acknowledge they are limited in what they can do to stop southbound migrants.",
+      "publishedAt": "2024-12-16T11:10:31Z",
+      "title": "Canada promised Trump a border crackdown. Easier said than done.",
+      "url": "https://www.reuters.com/world/americas/canada-promised-trump-border-crackdown-easier-said-than-done-2024-12-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JAQLORKVSVILPBGMCZ7DUWC5JU.jpg?auth=7c46e1013da7900dcaa1540a70107bffa33d861f2bc88435565ae115096a3b56&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "The Philippine Senate on Monday ratified a reciprocal access agreement (RAA) with Japan that would allow their militaries to deploy on each other's soil as both countries worry about China's increasingly assertive stance in the region.",
-      "publishedAt": "2024-12-16T08:20:36Z",
-      "title": "Philippine Senate ratifies military access agreement with Japan",
-      "url": "https://www.reuters.com/world/asia-pacific/philippine-senate-ratifies-military-access-agreement-with-japan-2024-12-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "description": "Women from Sudan's South Kordofan state have been repeatedly raped and some held as sex slaves by fighters from the warring Rapid Support Forces (RSF) and allied militias, Human Rights Watch said in a report published on Monday.",
+      "publishedAt": "2024-12-16T15:45:33Z",
+      "title": "Women held as sex slaves in Sudan's South Kordofan, Human Rights Watch says",
+      "url": "https://www.reuters.com/world/africa/women-held-sex-slaves-sudans-south-kordofan-human-rights-watch-says-2024-12-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ZR37X4QH4VMEDPUX2NW24LDQHA.jpg?auth=382c26c32ca18dd6f32edcb0b235b3af29cf86f8b97bbdffe33cec94cea05470&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "A Ukrainian drone attack destroyed a Russian ammunition depot near the village of Markine in Russian-occupied Donetsk region, a source in Ukraine's SBU state security service said on Monday.",
-      "publishedAt": "2024-12-16T09:27:31Z",
-      "title": "Ukrainian drone raid destroys Russian ammunition depot in Donetsk region, source says",
-      "url": "https://www.reuters.com/world/europe/ukrainian-drone-raid-destroys-russian-ammunition-depot-donetsk-region-source-2024-12-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "description": "Extremism, Russia and Iran should not have a place in Syria\u2019s future, EU's foreign policy chief Kaja Kallas told reporters on Monday after meeting with European foreign ministers.",
+      "publishedAt": "2024-12-16T16:16:58Z",
+      "title": "Extremism, Russia and Iran have no place in Syria\u2019s future, says EU's Kallas",
+      "url": "https://www.reuters.com/world/middle-east/extremism-russia-iran-have-no-place-syrias-future-says-eus-kallas-2024-12-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SIPXBVBDEZM2PIJ6PA2RY6GQHM.jpg?auth=50937762047ff654cf67c041afbde60f81c9d2e88b1dbd043b2d1891b589ba5c&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
