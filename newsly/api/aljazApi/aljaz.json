@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Lyndal Rowlands",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsraels military bombs school-turned-shelters in Gaza as its government announces plans to expand settlements in occupied Syrian territory.",
+      "description": "Israel bombs school-turned-shelters in Gaza and announces plans to expand settlements in occupied Syrian territory.",
+      "publishedAt": "2024-12-16T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israel kills 50 in Gaza, plans to expand settlements in Golan Heights",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/12/16/live-israel-kills-50-in-gaza-plans-to-double-settlements-in-golan-heights",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AA-20241215-36489713-36489696-ISRAELI_ATTACKS_ON_GAZA_CONTINUE-1734305364.jpg?resize=1200%2C630"
+    },
+    {
       "author": "Al Jazeera",
       "content": "Burkina Faso, Mali and Niger will have a six-month grace period following their exit from the Economic Community of West African States (ECOWAS), scheduled for January 29, a year after the countries \u2026 [+1865 chars]",
       "description": "The Economic Community of West African States hopes to use this time to convince the three nations to stay in the bloc.",
@@ -1286,21 +1299,8 @@
       "title": "China sentences ex-Premier League footballer Li Tie to 20 years in prison",
       "url": "https://www.aljazeera.com/news/2024/12/13/china-jails-former-national-football-coach-for-20-years-on-bribery-charges",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/2021-11-16T160230Z_2081602176_UP1EHBG18K41Z_RTRMADP_3_SOCCER-WORLDCUP-CHN-AUS-REPORT-1734075686.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "More than 30 Palestinians have been killed and 50 others injured in an Israeli air attack on the Nuseirat refugee camp in central Gaza.\r\nMedics told the Reuters news agency that a post office shelter\u2026 [+370 chars]",
-      "description": "Israeli air strike targets post office sheltering displaced Palestinian families and nearby houses in Nuseirat.",
-      "publishedAt": "2024-12-13T08:02:59Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Dozens killed in Israeli air strike on Gaza\u2019s Nuseirat refugee camp",
-      "url": "https://www.aljazeera.com/gallery/2024/12/13/dozens-killed-in-israeli-air-strike-on-gazas-nuseirat-refugee-camp",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AP24347342297141-1734072102.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1348
+  "totalResults": 1349
 }
