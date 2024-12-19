@@ -1,10 +1,49 @@
 {
   "articles": [
     {
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-12-18T13:59:40Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Trump slams judge in hush money case for rejecting his immunity claim - ABC News",
+      "url": "https://abcnews.go.com/US/trump-slams-judge-hush-money-case-rejecting-immunity/story?id\\\\u003d116871386",
+      "urlToImage": null
+    },
+    {
+      "author": "Erik Ortiz",
+      "content": "Indiana carried out its first execution since 2009 before sunrise Wednesday, with much of the process concealed from the public.\r\nUnder state law, no media witnesses were allowed to view the executio\u2026 [+6364 chars]",
+      "description": "Indiana carried out its first execution since 2009 before sunrise Wednesday, with much of the process concealed from the public.",
+      "publishedAt": "2024-12-18T13:23:00Z",
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "Indiana carries out first execution in 15 years in process scrutinized for its secrecy - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/indiana-prepares-execution-joseph-corcoran-first-15-years-rcna184490",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241217-Joseph-Corcoran-al-1352-0cd219.jpg"
+    },
+    {
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-12-18T13:03:37Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Abundant Life Christian School shooting latest: Madison schools report 'false threats' - ABC News",
+      "url": "https://abcnews.go.com/US/abundant-life-christian-school-shooting-latest-local-schools/story?id\\\\u003d116895494",
+      "urlToImage": null
+    },
+    {
       "author": null,
       "content": "[Removed]",
       "description": "[Removed]",
-      "publishedAt": "2024-12-18T10:09:00Z",
+      "publishedAt": "2024-12-18T13:00:56Z",
       "source": {
         "id": null,
         "name": "[Removed]"
@@ -14,179 +53,88 @@
       "urlToImage": null
     },
     {
-      "author": "Stephen Neukam, Andrew Solender",
-      "content": "Congressional leaders Tuesday unveiled legislation to keep the government funded until March 14, unleashing a mad dash to pass the bill by the end of the week.\r\nWhy it matters: House Speaker Mike Joh\u2026 [+1566 chars]",
-      "description": "The bill includes around $100 billion in disaster relief, a one-year extension of the farm bill and provisions restricting U.S. investments in China.",
-      "publishedAt": "2024-12-18T08:48:52Z",
+      "author": "Dave Choate",
+      "content": "In the days and weeks ahead, well have ample time to dive into the decision to start Michael Penix and what it means for everyone from offensive coordinator Zac Robinson to former starting quarterbac\u2026 [+8051 chars]",
+      "description": "There are ripples set off throughout the roster.",
+      "publishedAt": "2024-12-18T13:00:00Z",
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": null,
+        "name": "The Falcoholic"
       },
-      "title": "Congress releases bill to fund government through March 14, avert holiday shutdown - Axios",
-      "url": "https://www.axios.com/2024/12/17/congress-releases-bill-to-avert-holiday-government-shutdown",
-      "urlToImage": "https://images.axios.com/cszlJxU1AM3i5in9kUNWzt4m0h0=/0x136:6000x3511/1366x768/2024/12/14/1734153661069.jpg"
+      "title": "The immediate impacts of the Michael Penix move for the Falcons - The Falcoholic",
+      "url": "https://www.thefalcoholic.com/2024/12/18/24323958/the-immediate-impacts-of-the-michael-penix-move-for-the-falcons-kaleb-mcgary-kyle-pitts",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8WAG-co28D2pF8n2t9g52ljIbyE=/0x0:1729x905/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25690642/usa_today_24543380.jpg"
     },
     {
-      "author": "ABC News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2024-12-18T08:36:05Z",
+      "author": "JILL LAWLESS",
+      "content": "LONDON (AP) A British court ruled Wednesday that police can seize more than 2.6 million pounds ($3.3 million) to cover years of unpaid taxes from influencer Andrew Tate and his brother Tristan.\r\nThe \u2026 [+2448 chars]",
+      "description": "A British court says police can seize more than 2.6 million pounds ($3.3 million) in unpaid taxes from influencer Andrew Tate and his brother Tristan. The Devon and Cornwall Police force went to court to claim the money from the Tates and a woman identified o\u2026",
+      "publishedAt": "2024-12-18T12:16:00Z",
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "title": "12 people found dead inside restaurant at popular ski resort - ABC News",
-      "url": "https://abcnews.go.com/International/12-people-found-dead-inside-restaurant-popular-ski/story?id\\\\u003d116895267",
-      "urlToImage": null
+      "title": "Andrew Tate can have over $3 million seized from him in tax dispute, British court says - The Associated Press",
+      "url": "https://apnews.com/article/uk-andrew-tate-police-tax-dispute-03e966b3ed8764bf3b399f50e37634fd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1683be9/2147483647/strip/true/crop/5801x3263+0+302/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F6b%2Ffcccc7532d4e051d4b0890d7cd38%2Fafaad33b36b94430aa8f70f625522459"
     },
     {
-      "author": null,
-      "content": "A 29-year-old Uzbek citizen has been detained for allegedly planting the bomb that killed senior Russian general and his assistant, the Russian Investigative Committee said Wednesday.\r\nLt. Gen. Igor \u2026 [+1630 chars]",
-      "description": "A 29-year-old Uzbek citizen has been detained for allegedly planting the bomb that killed senior Russian general and his assistant, the Russian Investigative Committee said Wednesday.",
-      "publishedAt": "2024-12-18T07:35:00Z",
+      "author": "Steve Goldstein",
+      "content": "Steven Goldstein is based in London and responsible for MarketWatch's coverage of financial markets in Europe, with a particular focus on global macro and commodities. Previously, he was Washington b\u2026 [+121 chars]",
+      "description": "Inflation was brought down by workers absorbing price hikes",
+      "publishedAt": "2024-12-18T12:02:00Z",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "MarketWatch"
       },
-      "title": "Igor Kirillov: Russia detains Uzbek national over bomb assassination of senior general - CNN",
-      "url": "https://www.cnn.com/2024/12/18/europe/russia-general-kirillov-uzbekistan-intl-hnk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24352261898581.jpg?c=16x9&q=w_800,c_fill"
+      "title": "The Fed got lucky on inflation and are still getting things wrong: study - MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-fed-was-more-lucky-than-right-in-the-fight-against-inflation-these-researchers-say-1adfcb89",
+      "urlToImage": "https://images.mktw.net/im-85407985/social"
     },
     {
       "author": "Howard Schneider",
       "content": null,
       "description": "The Federal Reserve is expected to lower borrowing costs on Wednesday in what some observers are calling a \"hawkish cut\" set to be delivered alongside policymakers' updated interest rate outlooks and economic forecasts covering the first months of the incomin\u2026",
-      "publishedAt": "2024-12-18T07:21:00Z",
+      "publishedAt": "2024-12-18T11:59:59Z",
       "source": {
         "id": "reuters",
         "name": "Reuters"
       },
       "title": "Fed expected to combine interest rate cut with hawkish 2025 outlook - Reuters",
       "url": "https://www.reuters.com/markets/us/fed-expected-combine-interest-rate-cut-with-hawkish-2025-outlook-2024-12-18/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/IAQ25SDTW5MYFG2MUCQKA5UFII.jpg?auth=9f217720e423d708fdd836c658ba9d152a321e411eb26ee8b862507a098129f6&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Lori Dillon, The Associated Press",
-      "content": "MICHIGAN CITY, Ind. (WANE) \u2014 The Indiana Department of Corrections executed convicted murderer Joseph Corcoran early Wednesday morning.\r\nAccording to a statement from IDOC, the execution process star\u2026 [+2055 chars]",
-      "description": "The Indiana Department of Corrections executed convicted murderer Joseph Corcoran early Wednesday morning.",
-      "publishedAt": "2024-12-18T07:19:02Z",
-      "source": {
-        "id": null,
-        "name": "WANE"
-      },
-      "title": "Joseph Corcoran executed in Indiana - WANE",
-      "url": "https://www.wane.com/top-stories/breaking-corcoran-executed/",
-      "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2024/12/AP24348750871006.jpg?w=1280"
-    },
-    {
-      "author": "Brad Botkin",
-      "content": "The Milwaukee Bucks won the 2024 NBA Cup on Tuesday, pulling away from the cold-shooting Oklahoma City Thunder for a 97-81 win in the tournament's title game in Las Vegas. The Bucks star duo of Giann\u2026 [+4141 chars]",
-      "description": "Antetokounmpo was named MVP after a triple-double in the championship game",
-      "publishedAt": "2024-12-18T05:49:33Z",
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "title": "Bucks win NBA Cup vs. Thunder: Why title can be launching pad for Giannis Antetokounmpo and Damian Lillard - CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/bucks-win-nba-cup-vs-thunder-why-title-can-be-launching-pad-for-giannis-antetokounmpo-and-damian-lillard/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/18/31b93ca5-3bf6-4d7b-8b76-507386d8425a/thumbnail/1200x675/dda43c7b054d6e458692665cf07d26da/giannis-usatsi-5.png"
+      "urlToImage": "https://www.reuters.com/resizer/v2/PYHN44JXHNHM3GHX6M67IFK6YA.png?auth=6e1dcf28ceeaacd783fc8d9443da58927a5885c678b0c6095600ee8110a4316d&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": null,
-      "content": "Honda and Nissan are understood to have held exploratory talks about a potential merger to help them compete against electric vehicle (EV) makers, particularly in China.\r\nIn March, the two Japanese c\u2026 [+3318 chars]",
-      "description": "In March, the two Japanese car makers agreed to explore a strategic partnership for electric vehicles.",
-      "publishedAt": "2024-12-18T05:16:12Z",
+      "content": "Nasa says that the astronauts stuck on the International Space Station will have to wait even longer to get home.\r\nButch Wilmore and Suni Williams were due to be back after just a week when they blas\u2026 [+2050 chars]",
+      "description": "Nasa says that the astronauts stuck on the space station will have to wait even longer to get home.",
+      "publishedAt": "2024-12-18T11:43:09Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Japanese car makers Honda and Nissan hold merger talks - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cr56r74214eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8851/live/0a0ffbc0-bcef-11ef-9465-0907e821b122.jpg"
+      "title": "Nasa astronauts Butch and Suni face further delay in homcoming - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c30nze6e4geo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/325e/live/13ab7590-330d-11ef-bdc5-41d7421c2adf.jpg"
     },
     {
-      "author": "Kanishka Singh",
-      "content": "By Kanishka Singh\r\nWASHINGTON (Reuters) - President-elect Donald Trump nominated Herschel Walker, the former football star who he had previously backed for the 2022 Senate race in Georgia, as the U.S\u2026 [+1134 chars]",
-      "description": "President-elect Donald Trump nominated Herschel Walker, the former football star who he had previously backed for the 2022 Senate race in Georgia, as the U.S...",
-      "publishedAt": "2024-12-18T02:31:00Z",
+      "author": "Brian Evans, Lisa Kailai Han",
+      "content": "U.S. stock futures were higher on Wednesday morning as traders looked ahead to the Federal Reserve's December interest rate decision.\r\nFutures linked to the Dow Jones Industrial Average added 133 poi\u2026 [+2535 chars]",
+      "description": "The Federal Reserve is widely expected to lower rates by a quarter point on Wednesday, but the big event is the central bank\u2019s summary of economic projections.",
+      "publishedAt": "2024-12-18T11:12:00Z",
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "CNBC"
       },
-      "title": "Trump nominates ex-US Senate candidate Herschel Walker as ambassador to Bahamas - Yahoo! Voices",
-      "url": "https://www.yahoo.com/news/trump-nominates-ex-us-senate-023121698.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters.com/c83ebd2db79ae9c5ed297b4be76e0f92"
-    },
-    {
-      "author": "Anthony D'Alessandro",
-      "content": "While last year\u2019s Oscar original song short list was dominated by pop stars such as Billie Eilish, Dua Lipa and Olivia Rodrigo, this year\u2019s lineup is filled with several ditties from musically themed\u2026 [+6211 chars]",
-      "description": "This year's Oscar Original Song shortlist has possible Oscar nom finalists from Emila Perez, Moana 2, The Lion King, Piece by Piece to name a few.",
-      "publishedAt": "2024-12-18T02:05:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "Oscars: Original Song Shortlist Sees Miley Cyrus \u2018Last Showgirl\u2019 Tune Snubbed; Lin-Manuel Miranda Eyeing EGOT; Diane Warren\u2019s Possible 16th Nom & More - Deadline",
-      "url": "http://deadline.com/2024/12/oscars-original-song-short-list-miley-cyrus-snub-lin-manuel-miranda-1236209084/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/Diane-Warren-Lin-Manuel-Miranda-Miley-Cyrus-and-Elton-John.jpg?w=1024"
-    },
-    {
-      "author": null,
-      "content": null,
-      "description": "Head coach Raheem Morris said in a statement that the Falcons will move forward with Penix, replacing Kirk Cousins as the starter.",
-      "publishedAt": "2024-12-18T01:41:40Z",
-      "source": {
-        "id": null,
-        "name": "AtlantaFalcons.com"
-      },
-      "title": "Atlanta Falcons name Michael Penix Jr. the starting quarterback - AtlantaFalcons.com",
-      "url": "https://www.atlantafalcons.com/news/atlanta-falcons-name-michael-penix-jr-the-starting-quarterback-kirk-cousins",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/mvkv92slugpmpct3mm2i"
-    },
-    {
-      "author": "Lauren Garafano",
-      "content": null,
-      "description": "\"Your Monster is, by far, my favorite movie of 2024.\"",
-      "publishedAt": "2024-12-18T01:31:03Z",
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "title": "19 Absolutely Life-Changing Movies From This Year That Not A Lot Of People Have Seen - BuzzFeed",
-      "url": "https://www.buzzfeed.com/laurengarafano/underrated-movies-from-2024",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/12/17/enhanced/31267fca6b0c/original-629-1734022850-11.jpg?crop=1250:654;0,0%26downsize=1250:*"
-    },
-    {
-      "author": null,
-      "content": "",
-      "description": "UPI delivers the latest headlines from around the world: Top News, Entertainment, Health, Business, Science and Sports News - United Press International",
-      "publishedAt": "2024-12-18T01:29:12Z",
-      "source": {
-        "id": null,
-        "name": "UPI.com"
-      },
-      "title": "Stranded Boeing Starliner astronauts face new delay in return to Earth from ISS - UPI News",
-      "url": "https://www.upi.com",
-      "urlToImage": "//www.upi.com/img/upi-fb.png"
-    },
-    {
-      "author": "Jack Baer",
-      "content": "Budda Baker has been a good one for the Cardinals. (Photo by Perry Knotts/Getty Images)\r\nBudda Baker is sticking with the Arizona Cardinals for at least a few more years.\r\nThe All-Pro safety agreed t\u2026 [+1098 chars]",
-      "description": "Budda Baker is sticking with the Arizona Cardinals for at least a few more years.",
-      "publishedAt": "2024-12-18T01:00:00Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "Cardinals All-Pro safety Budda Baker agrees to 3-year, $54 million extension - Yahoo Sports",
-      "url": "https://sports.yahoo.com/cardinals-all-pro-safety-budda-baker-agrees-to-3-year-54-million-extension-002335964.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IY7Br9U2.aI424oqC1Yntg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/095320f0-bcda-11ef-b29e-b843b4af372f"
+      "title": "Dow futures bounce after nine-day losing streak; traders await Fed decision: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2024/12/17/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108077017-1734452579388-NYSE_Traders-OB-Photo-20241217-CC-PRESS-8.jpg?v=1734452791&w=1920&h=1080"
     },
     {
       "author": null,
       "content": "[Removed]",
       "description": "[Removed]",
-      "publishedAt": "2024-12-18T00:52:00Z",
+      "publishedAt": "2024-12-18T11:08:37Z",
       "source": {
         "id": null,
         "name": "[Removed]"
@@ -196,71 +144,123 @@
       "urlToImage": null
     },
     {
-      "author": "Rolling Stone",
-      "content": "Image Credit: Prince Williams/Wireimage\r\nJust a month after Rich Homie Quans death, one that sent shockwaves through hip-hop, his family and team released the 35-track posthumous album, Forever Going\u2026 [+495 chars]",
-      "description": "From eviscerating diss tracks to scorching summer anthems, there was no shortage of rap hits to get us through the year",
-      "publishedAt": "2024-12-18T00:00:00Z",
+      "author": "Matthew Glasser and Leah Sarnoff",
+      "content": "A theory that \"missing\" radioactive material in New Jersey could be linked to the string of mysterious \"drone\" sightings in the state has been disproven, according to the Department of Energy and rel\u2026 [+2893 chars]",
+      "description": "A shipment containing trace amounts of radioactive material has been located.",
+      "publishedAt": "2024-12-18T10:49:17Z",
       "source": {
         "id": null,
-        "name": "Rolling Stone"
+        "name": "WPVI-TV"
       },
-      "title": "The 20 Best Hip Hop Songs of 2024 - Rolling Stone",
-      "url": "http://www.rollingstone.com/music/music-lists/20-best-hip-hop-songs-2024-1235198186/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/12/YEAR-IN-REVIEW_HipHopSongs_Final-1.jpg?w=1600&h=900&crop=1"
+      "title": "Drones were not tracking missing radioactive material in New Jersey, DEP says - WPVI-TV",
+      "url": "https://6abc.com/post/fact-check-drones-were-not-tracking-missing-radioactive-material-new-jersey-department-energy-related-officials-say/15670972/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15670980_121824-wpvi-n1-drones-mystery-WED-pkg-video-vid.jpg?w=1600"
     },
     {
       "author": null,
-      "content": "Canadian Prime Minister Justin Trudeau's future looks uncertain following the sudden resignation of his most senior cabinet member, a once close ally. \r\nChrystia Freeland - the former deputy prime mi\u2026 [+4927 chars]",
-      "description": "A shock high-profile resignation has forced Canada's prime minister to contend with his plummeting popularity.",
-      "publishedAt": "2024-12-17T23:42:08Z",
+      "content": null,
+      "description": null,
+      "publishedAt": "2024-12-18T10:46:32Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Congo says mystery disease behind dozens of deaths of women and children finally identified as severe malaria - CBS News",
+      "url": "https://www.cbsnews.com/news/congo-mystery-disease-identified-severe-malaria-deaths-women-children/",
+      "urlToImage": null
+    },
+    {
+      "author": "Hartley Charlton",
+      "content": "Contrary to recent reports, the iPhone 17 Pro will not feature a horizontal camera layout, according to the leaker known as \"Instant Digital.\"\r\nIn a new post on Weibo, the leaker said that a source h\u2026 [+1839 chars]",
+      "description": "Contrary to recent reports, the iPhone 17 Pro will not feature a horizontal camera layout, according to the leaker known as \"Instant...",
+      "publishedAt": "2024-12-18T10:36:50Z",
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "title": "iPhone 17 Pro Rumored to Stick With 'Triangular' Camera Design - MacRumors",
+      "url": "https://www.macrumors.com/2024/12/18/iphone-17-pro-to-stick-with-triangular-camera/",
+      "urlToImage": "https://images.macrumors.com/t/KGy6xZuvHYwuHy0acfW1-sbn0B0=/2500x/article-new/2024/11/iPhone-17-Pro-Dual-Tone-Feature-1.jpg"
+    },
+    {
+      "author": "",
+      "content": "Chelsey Gomez grew up fiercely independent. Her abusive father left when she was young. She put herself through college, and met her future husband, who'd also grown up amid dysfunction, when they we\u2026 [+5796 chars]",
+      "description": "Loss of social support after a cancer diagnosis is a surprisingly common experience, social workers and cancer patients say. For young cancer survivors, it is a particularly difficult part of the disease.",
+      "publishedAt": "2024-12-18T10:00:00Z",
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "title": "'Cancer ghosting' can be more painful than treatment, survivors say - NPR",
+      "url": "https://www.npr.org/2024/12/18/nx-s1-5179011/cancer-ghosting-survivorship-young-survivors",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+326/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2F4d%2F6076108446e8bdc11a1588c0509d%2Fyuki-story03-chelseygomez-leadphoto.JPG"
+    },
+    {
+      "author": "Abdullah Asim",
+      "content": "Renowned industry tipster Evan Blass, after sharing leaked images of the Galaxy S25 Ultra and S25 Plus, has now shown off the Italian poster for the 2025 Galaxy Unpacked event. The poster confirms a \u2026 [+1851 chars]",
+      "description": "Evan Blass has shared the Italian poster for the upcoming Galaxy Unpacked event, destined to showcase the highly anticipated Galaxy S25 series of flagship smartphones, so let's dive in and ...",
+      "publishedAt": "2024-12-18T09:17:37Z",
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "title": "Leaked Galaxy S25 Unpacked event teaser confirms the date you need to be hyped for - PhoneArena",
+      "url": "https://www.phonearena.com/news/leaked-galaxy-s25-release-date_id165962",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/165962-wide-two_1200/Leaked-Galaxy-S25-Unpacked-event-teaser-confirms-the-date-you-need-to-be-hyped-for.jpg"
+    },
+    {
+      "author": null,
+      "content": "Flowers have been placed close to where Kirillov and his assistant were killed\r\nRussia's security service says a 29-year-old man from Uzbekistan has been detained over the killing of senior general I\u2026 [+3458 chars]",
+      "description": "A 29-year-old Uzbekistan citizen has been detained over the death of Kirillov and his assistant, state media says.",
+      "publishedAt": "2024-12-18T09:03:58Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Will Trudeau resign? Four paths Canada's prime minister could take - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cn54elwep72o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a516/live/bf5154c0-bd26-11ef-a2ca-e99d0c9a24e3.jpg"
+      "title": "Igor Kirillov: Russia detains Uzbek man over general's killing - BBC.com",
+      "url": "https://www.bbc.com/news/articles/cge9rv38x98o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/629b/live/a966ee30-bd3b-11ef-aff0-072ce821b6ab.jpg"
+    },
+    {
+      "author": "Ruxandra Iordache",
+      "content": "Italy's UniCredit said on Wednesday it has raised its potential stake in Commerzbank to 28% using further derivatives, as markets watch whether it will take the leap with a buyout of the German lende\u2026 [+2353 chars]",
+      "description": "Investors are watching whether UniCredit will proceed with a takeover venture of Germany's Commerzbank or Italian peer Banco BPM.",
+      "publishedAt": "2024-12-18T08:02:31Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "UniCredit raises stake in Commerzbank to 28% as Orcel ups ante on pursuit - CNBC",
+      "url": "https://www.cnbc.com/2024/12/18/unicredit-raises-stake-in-commerzbank-to-28percent-through-derivatives.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107322085-1698135924439-gettyimages-1707838206-230929emcb005_ajos7x0b.jpeg?v=1734508457&w=1920&h=1080"
     },
     {
       "author": "ABC News",
       "content": null,
       "description": null,
-      "publishedAt": "2024-12-17T23:37:58Z",
+      "publishedAt": "2024-12-18T07:52:54Z",
       "source": {
         "id": "abc-news",
         "name": "ABC News"
       },
-      "title": "Fact-check: Drones were not tracking missing radioactive material in New Jersey - ABC News",
-      "url": "https://abcnews.go.com/US/fact-check-radioactive-material-triggered-drone-theories-missing/story?id\\\\u003d116884712",
+      "title": "Prehistoric mastodon jaw found in backyard of New York home - ABC News",
+      "url": "https://abcnews.go.com/US/prehistoric-mastodon-jaw-found-backyard-new-york-home/story?id\\\\u003d116894988",
       "urlToImage": null
     },
     {
-      "author": "Tom Dierberger",
-      "content": "It's the most wonderful time of the yearfor some NFL franchises, anyway.\r\nWith three weeks to go in the 2024 regular season, seven teams have officially secured a playoff berth and nine teams have be\u2026 [+5042 chars]",
-      "description": "The Broncos, Chargers and Packers are among the teams hoping to secure a spot in the postseason bracket this weekend.",
-      "publishedAt": "2024-12-17T23:32:35Z",
+      "author": "Steve Aschburner",
+      "content": "Giannis Antetokounmpo notches an impressive triple-double to lead the Bucks to the 2024 Emirates NBA Cup.\r\n\u00a0Get NBA League Pass TODAY\r\nLAS VEGAS The trophy had come an hour earlier, Most Valuable Pla\u2026 [+5891 chars]",
+      "description": "Milwaukee's star delivers a massive triple-double (26 points, 19 rebounds, 10 assists) to seal the 2024 Emirates NBA Cup title.",
+      "publishedAt": "2024-12-18T07:30:18Z",
       "source": {
         "id": null,
-        "name": "Sports Illustrated"
+        "name": "Heat.com"
       },
-      "title": "Week 16 NFL Clinching Scenarios: How Five Teams Can Punch Playoff Ticket - Sports Illustrated",
-      "url": "https://www.si.com/nfl/week-16-nfl-clinching-scenarios-how-five-teams-can-punch-playoff-ticket",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3936,h_2214,x_0,y_224/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jfbd41b6ht2w3avxm3.jpg"
-    },
-    {
-      "author": "Giovanna Bellotti Azevedo, Vin\u00edcius Andrade and Ezra Fieser",
-      "content": "(Bloomberg) -- First it was a collapse in the currency. Now the rest of Brazils financial markets are in the cross-hairs as investors lose faith in the governments ability to contain a deepening fisc\u2026 [+5051 chars]",
-      "description": "(Bloomberg) -- First it was a collapse in the currency. Now the rest of Brazil\u2019s financial markets are in the cross-hairs as investors lose faith in the...",
-      "publishedAt": "2024-12-17T22:26:43Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "Brazil Traders \u2018Sell First, Ask Later\u2019 as Panic Sweeps Markets - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/brazil-traders-sell-first-ask-222643785.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PyuJtCX.Pnhv5sQJCwZS2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTc1/https://media.zenfs.com/en/bloomberg_markets_842/0d1a154bff3056c2192356e8fc792b1f"
+      "title": "Giannis Antetokounmpo adds to stellar resume with Emirates NBA Cup MVP - NBA.com",
+      "url": "https://www.nba.com/news/nba-cup-mvp-giannis-antetokounmpo",
+      "urlToImage": "https://cdn.nba.com/manage/2024/12/giannis-trophies-121724.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 36
+  "totalResults": 35
 }
