@@ -1,22 +1,6 @@
 {
   "articles": [
     {
-      "author": "Nidal Al-Mughrabi",
-      "description": "U.S. and Arab mediators are working round-the-clock to hammer out a ceasefire deal between Israel and Hamas, sources close to the talks said, while in the Gaza Strip medics said Israeli strikes had killed 13 Palestinians on Thursday.",
-      "publishedAt": "2024-12-19T09:30:45Z",
-      "title": "Israel keeps up Gaza bombardment as ceasefire talks intensify",
-      "url": "https://www.reuters.com/world/middle-east/israel-keeps-up-gaza-bombardment-ceasefire-talks-intensify-2024-12-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/2MBVL5VQGZMHHGYA6AKZLKPGPY.jpg?auth=4963bf30bb635a4ae9801f36a9082884f0151cae0cd6008f7ffffb05bd776f39&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Vladimir Soldatkin, Andrew Osborn",
-      "description": "Russian President Vladimir Putin said on Thursday that he was ready to compromise over Ukraine in possible talks with U.S. President-elect Donald Trump on ending the war and had no conditions for starting talks with the Ukrainian authorities.",
-      "publishedAt": "2024-12-19T09:50:54Z",
-      "title": "Putin says Russia is ready to compromise with Trump on Ukraine war",
-      "url": "https://www.reuters.com/world/europe/putin-says-russia-is-getting-closer-achieving-primary-goals-ukraine-2024-12-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/EH5LZWVTB5PPLIFIUCXYORMXFM.jpg?auth=d05066d9fbdbce9ec9a3f5b96353a0db741cbc62c1b4b3d28de61130e60efa7f&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Richard Cowan, Bo Erickson, Andy Sullivan, Katharine Jackson",
       "description": "The U.S. Congress has two days to avert a partial government shutdown after Republican President-elect Donald Trump rejected a bipartisan deal late on Wednesday and demanded lawmakers also raise the nation's debt ceiling before he takes office next month.",
       "publishedAt": "2024-12-19T06:05:50Z",
@@ -25,60 +9,76 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/EH6LVA3HFZIYFERGY6GGUXJ7ZE.jpg?auth=319300868377ebdf8e98a6f8b38cef787db9e97b1a4b09220c0a0504a8cf576b&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Orhan Qereman",
-      "description": "Kurdish fighters who came to Syria from around the Middle East to support Syrian Kurdish forces will leave if a ceasefire is reached in the conflict with Turkey in northern Syria, the commander of Syrian Kurdish-led forces told Reuters on Thursday.",
-      "publishedAt": "2024-12-19T16:51:39Z",
-      "title": "Exclusive: Syrian Kurdish commander: non-Syrian Kurdish fighters to leave if truce agreed with Turkey",
-      "url": "https://www.reuters.com/world/middle-east/syrian-kurdish-commander-non-syrian-kurdish-fighters-leave-if-truce-agreed-with-2024-12-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/MHGMRVKQTVNDLOTMQGM23EZ6L4.jpg?auth=b6120bd070e1145efc761fc07948cb660d08baebac18957219cb6f09d4c51839&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Kanishka Singh",
-      "description": "Nine Palestinian Americans sued the U.S. government on Thursday, alleging that it had failed to rescue them or members of their families who were trapped in Gaza where Israel's war has killed tens of thousands and caused a humanitarian crisis.",
-      "publishedAt": "2024-12-20T03:11:40Z",
-      "title": "Lawsuit alleges U.S. failed to evacuate Palestinian Americans trapped in Gaza",
-      "url": "https://www.reuters.com/legal/lawsuit-alleges-us-failed-evacuate-palestinian-americans-trapped-gaza-2024-12-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GJLHMIRFAVKNZPJUOKRF7HFGJA.jpg?auth=800f704f4dd13e3c1e7aad55db2bbbe8dc167d81e820d5152cd39d3f01de936c&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Shivam Patel",
-      "description": "Indian militant groups that took refuge in Myanmar and fought in its civil war have been streaming back across the border to Manipur state this year, Indian security officers said, inflaming the bitter 19-month ethnic conflict there with weapons and battle-hardened cadres.",
-      "publishedAt": "2024-12-20T04:05:11Z",
-      "title": "Fighters from Myanmar civil war aggravate bitter ethnic conflict in India",
-      "url": "https://www.reuters.com/world/india/fighters-myanmar-civil-war-aggravate-bitter-ethnic-conflict-india-2024-12-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GJZLQZNYMBI5BMDDDQG6NB4SIE.jpg?auth=48bedc89e2c06396a02e2edb09d5f2d93340cb49e45f2de45e5a2bf723dfe1f7&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Juliette Jabkhiro",
-      "description": "A French court found all 51 defendants guilty on Thursday in a drugging-and-rape case that horrified the world and transformed the victim, Gisele Pelicot, into a stirring symbol of courage and resilience.",
-      "publishedAt": "2024-12-19T01:06:55Z",
-      "title": "Dominique Pelicot jailed for 20 years in landmark French mass rape trial",
-      "url": "https://www.reuters.com/world/europe/verdict-due-gisele-pelicot-rape-case-that-horrified-world-2024-12-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/G3UVD72OJBPYRKAYC6K2HRBLKY.jpg?auth=50185a3f5256e6bfe1430b3c92efe7bbfa6caa17159ed065307cfca8143c8b98&height=1005&width=1920&quality=80&smart=true"
+      "author": "Samia Nakhoul",
+      "description": "2025 will be a year of reckoning for Israeli Prime Minister Benjamin Netanyahu and his country's arch foe Iran.",
+      "publishedAt": "2024-12-20T05:03:16Z",
+      "title": "Israel's Netanyahu eyes Iran after triumphs over Hamas, Hezbollah, Syria",
+      "url": "https://www.reuters.com/world/middle-east/israels-netanyahu-eyes-iran-after-triumphs-over-hamas-hezbollah-syria-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/CRSXV3DZ6ZMMNMU2FNTSTXPIQM.jpg?auth=b607c696284036511d317e2d7fd4227d658444ce9cc736be20aa95a75aa3ada4&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "The United States imposed sanctions on Thursday on Iran and Houthi-related entities, according to the Treasury Department website which listed a number of individuals, companies and vessels that had been targeted.",
-      "publishedAt": "2024-12-19T18:25:51Z",
-      "title": "US imposes sanctions on Iran and Houthi-related targets",
-      "url": "https://www.reuters.com/world/us-imposes-sanctions-iran-houthi-related-targets-2024-12-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/TYPHHEIKOFLYNDU5M7EC6BWAYQ.jpg?auth=f5a00690b0377966e6490d2d5d7e890689546ee38b4279a6d48d25c61c554393&height=1005&width=1920&quality=80&smart=true"
+      "description": "A Russian missile attack killed one person and damaged buildings across Kyiv, local officials said, after explosions were heard in Ukraine's capital on Friday.",
+      "publishedAt": "2024-12-20T06:00:10Z",
+      "title": "Russian missile attack on Kyiv kills one, sparks fires, officials say",
+      "url": "https://www.reuters.com/business/aerospace-defense/russian-missile-attack-kyiv-injures-two-damages-buildings-officials-say-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/YGVXJV54WNJ3ZGYG6KUXMH5HHU.jpg?auth=2c52ffaafeea9013b4d62c42abeda4abfc25b605e59908167585c7434bf8a67f&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Patricia Zengerle",
-      "description": "President Joe Biden's administration will provide U.S. lawmakers an assessment by Jan. 17 on the credibility of assurances by the United Arab Emirates that it is not providing - and will not provide - weapons to the paramilitary Rapid Support Forces (RSF) in Sudan, according to a letter seen by Reuters on Thursday.",
-      "publishedAt": "2024-12-19T18:03:14Z",
-      "title": "Exclusive: Biden to report to US Congress on UAE assurance it is not supplying weapons to Sudan RSF",
-      "url": "https://www.reuters.com/world/us/biden-report-us-congress-uae-assurance-it-is-not-supplying-weapons-sudan-rsf-2024-12-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FLAKOFUZURJIBDGTMVCAPHEKYI.jpg?auth=cd31da0db6fea004bd47c6eacde414314f3d2b55cf34c9bfe66af0f3d95e0935&height=1005&width=1920&quality=80&smart=true"
+      "author": "Humeyra Pamuk",
+      "description": "Top diplomats from the Biden administration are in Damascus on Friday to meet new Syrian authorities led by Hayat Tahrir al-Sham (HTS), a State Department spokesperson said, the first in-person and official meeting between Washington and Syria's de-facto new rulers.",
+      "publishedAt": "2024-12-20T05:35:09Z",
+      "title": "Top US officials in Damascus to meet new Syrian rulers, State Department says",
+      "url": "https://www.reuters.com/world/top-us-officials-damascus-meet-new-syrian-rulers-state-department-says-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/GW4GVYEIHJI3XCVWQMRJTZCICY.jpg?auth=bfd07ba5baa674369a08c316d7e735dd518a09d96b64753b1c1d2defd9eb9ea9&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "David Shepardson",
-      "description": "The Federal Aviation Administration on Thursday said it was temporarily barring drone flights over 22 utility locations in New Jersey and plans to impose similar restrictions at sites in New York.",
-      "publishedAt": "2024-12-19T14:24:14Z",
-      "title": "FAA banning drone flights over New Jersey, New York sites",
-      "url": "https://www.reuters.com/world/us/faa-banning-drone-flights-over-critical-infrastructure-locations-new-jersey-2024-12-19/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3H5UH7GKOVNVZPDIJCFOSJGMUQ.jpg?auth=6059a04719d5a277db142f3bb14a90c056ac46f0e177063abe263aad84f85eb2&height=1005&width=1920&quality=80&smart=true"
+      "author": "Max Hunder",
+      "description": "As the future of warfare pivots towards artificial intelligence, Ukraine is sitting on a valuable resource: millions of hours of footage from drones which can be used to train AI models to make decisions on the battlefield.",
+      "publishedAt": "2024-12-20T06:04:01Z",
+      "title": "Ukraine collects vast war data trove to train AI models",
+      "url": "https://www.reuters.com/technology/ukraine-collects-vast-war-data-trove-train-ai-models-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/2HTJUSOLBFIPJPDTCQVAQQWY2E.jpg?auth=cadc99958c4f67bd94f50543d839ed114f78cc472c2e9d92a797a30a099ef50d&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Tassilo Hummel",
+      "description": "French President Emmanuel Macron was due on Friday to visit shantytowns in Mayotte ravaged by Cyclone Chido on the second day of a visit where he has faced calls to speed up relief to the Indian Ocean archipelago.",
+      "publishedAt": "2024-12-20T07:44:51Z",
+      "title": "France's Macron to visit Mayotte shantytowns wrecked by Cyclone Chido",
+      "url": "https://www.reuters.com/business/environment/frances-macron-visit-mayotte-shantytowns-wrecked-by-cyclone-chido-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/BYJL4VXV2JLE7ARD7P4NBZ2D2E.jpg?auth=fa9248840a15cda3e29d2a5a771ac62e4de5e67c399963d4d0066663951a1e3f&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Hyunsu Yim",
+      "description": "South Korean police have questioned Prime Minister and Acting President Han Duck-soo as part of an investigation into the short-lived decision this month to impose martial law, an official at his office said on Friday.",
+      "publishedAt": "2024-12-20T06:48:34Z",
+      "title": "South Korea police questioned acting president Han over martial law decree",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-police-questioned-acting-president-han-over-martial-law-decree-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VTYIUSNIY5LD7HXMM6NHVU2NVI.jpg?auth=3d3c4abbf0ef01116bf8f0c809203f4d65c6222cf1c339e7669544fde8fa647c&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Joshua McElwee",
+      "description": "An Israeli government minister criticised Pope Francis on Friday for suggesting the international community should study whether Israel's military offensive in Gaza constitutes a genocide of the Palestinian people.",
+      "publishedAt": "2024-12-20T08:53:06Z",
+      "title": "Israeli minister criticises Pope's call to study whether Gaza offensive 'genocide'",
+      "url": "https://www.reuters.com/world/middle-east/israeli-minister-criticises-popes-call-study-whether-gaza-offensive-genocide-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/A3OBRGMFANIBRK7UMZXXEFX7RQ.jpg?auth=e48026e2710061576b04a99cc8f463a859468c30efdfcd36953657c6e2565cc0&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Ashley Tang",
+      "description": "Malaysia has agreed in principle to resume the search for the wreckage of missing Malaysia Airlines Flight MH370, its transport minister said on Friday, more than 10 years after it disappeared in one of the world's greatest aviation mysteries.",
+      "publishedAt": "2024-12-20T07:20:48Z",
+      "title": "Malaysia says it will resume search for wreckage of missing Flight MH370",
+      "url": "https://www.reuters.com/world/asia-pacific/malaysia-says-it-will-resume-search-wreckage-missing-flight-mh370-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/CDZP2VCTTNKPZOFMVVNOMMYOWY.jpg?auth=802900792950398d9f64de61026c7db2f568585a20bc1f7ec2e94586cd6376a4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Russian forces hit military targets in Ukraine with long-range high-precision weapons on Friday in response to an attack on Russia's Rostov region this week in which Ukraine used U.S.- and British-supplied missiles, the Russian Defence Ministry said.",
+      "publishedAt": "2024-12-20T09:02:24Z",
+      "title": "Russia says it hit military targets in Ukraine in response to attack with Western missiles",
+      "url": "https://www.reuters.com/world/europe/russia-says-it-hit-military-targets-ukraine-response-attack-with-western-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
