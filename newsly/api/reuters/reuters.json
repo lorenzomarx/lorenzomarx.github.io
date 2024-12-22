@@ -2,14 +2,6 @@
   "articles": [
     {
       "author": "Reuters",
-      "description": "The U.S. Congress was scrambling to avert a partial government shutdown on Friday, hours after more than three dozen Republicans rejected a demand by President-elect Donald Trump to use the measure to lift the nation's debt ceiling.",
-      "publishedAt": "2024-12-20T13:04:33Z",
-      "title": "US Congress scrambles to try to avert looming shutdown after Trump demand rejected",
-      "url": "https://www.reuters.com/world/us/us-congress-scrambles-try-avert-looming-shutdown-after-trump-demand-rejected-2024-12-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/IJ3JQ23Z55KVHA4HUQ3HGL5TIA.jpg?auth=b86f4489ec7d9b65a453486b9ae7c64f2fc46a9d4c692688592d3b025a2a2898&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
       "description": "Over 60 people were injured, some of them seriously, when a vehicle drove through crowds gathered at the market.",
       "publishedAt": "2024-12-21T09:24:49Z",
       "title": "Death toll from German Christmas market car-ramming rises to four, Bild reports",
@@ -18,11 +10,19 @@
     },
     {
       "author": "Reuters",
-      "description": "Demonstrators supporting and opposing South Korean President Yoon Suk Yeol held rival protests several hundred metres apart in Seoul on Saturday, a week after he was impeached over his short-lived declaration of martial law.",
-      "publishedAt": "2024-12-21T07:09:29Z",
-      "title": "Rival protests over South Korea's impeached President Yoon held in Seoul",
-      "url": "https://www.reuters.com/world/asia-pacific/rival-protests-over-south-koreas-impeached-president-yoon-held-seoul-2024-12-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/HHIXVZJW4NKDTAVLFXQXS3Y26Q.jpg?auth=20ee850baa2213e3fbaba0b64494b5f3e0c6f29678a6b9b32502a9a778d485ff&height=1005&width=1920&quality=80&smart=true"
+      "description": "Here is what we know so far about the man who was arrested as the suspected driver in a car-ramming attack on Friday at a Christmas market in the German city of Magdeburg in which five people were killed and some 200 injured.",
+      "publishedAt": "2024-12-21T18:06:59Z",
+      "title": "Germany Christmas market attack: what we know about the suspect",
+      "url": "https://www.reuters.com/world/europe/facts-about-suspect-german-christmas-market-attack-2024-12-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/I5OHBQNJVBKAPF3CXYTXCRZMDI.jpg?auth=1431b1ce5835bb8761a27d4a9c777a3e64e2ff2bcfb7b3a6da76b0c26565d567&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Thomas Escritt",
+      "description": "A spontaneous memorial created by grieving families and local residents at a church overlooking Magdeburg's Christmas market evolved during Saturday into something more politically charged.",
+      "publishedAt": "2024-12-21T18:48:49Z",
+      "title": "First grief, then a more political tone at site of Germany Christmas market attack",
+      "url": "https://www.reuters.com/world/europe/first-grief-then-more-political-tone-site-germany-christmas-market-attack-2024-12-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/UUV62RJBLVP3NLKLB73UULFWJQ.jpg?auth=39bcdfd8ee82023b19530b39a26338e7fc4696631194d63cf259f5d6c3d6d897&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Orhan Qereman, Tom Perry, Tuvan Gumrukcu",
@@ -33,12 +33,36 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/LL5DO4A2BBJUNEXUHST23MEPEA.jpg?auth=72d9ca630247186f806d0f66ece8045de3101f1719181581fa7bd3c0b5b24aad&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Reuters",
+      "description": "The U.S. Congress was scrambling to avert a partial government shutdown on Friday, hours after more than three dozen Republicans rejected a demand by President-elect Donald Trump to use the measure to lift the nation's debt ceiling.",
+      "publishedAt": "2024-12-20T13:04:33Z",
+      "title": "US Congress scrambles to try to avert looming shutdown after Trump demand rejected",
+      "url": "https://www.reuters.com/world/us/us-congress-scrambles-try-avert-looming-shutdown-after-trump-demand-rejected-2024-12-20/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/IJ3JQ23Z55KVHA4HUQ3HGL5TIA.jpg?auth=b86f4489ec7d9b65a453486b9ae7c64f2fc46a9d4c692688592d3b025a2a2898&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Joshua McElwee",
+      "description": "Pope Francis on Saturday again condemned Israeli airstrikes in Gaza, a day after an Israeli government minister publicly denounced the pontiff for suggesting the global community should study whether the military offensive there constitutes a genocide of the Palestinian people.",
+      "publishedAt": "2024-12-21T10:23:56Z",
+      "title": "Pope calls Gaza airstrikes 'cruelty' after Israeli minister's criticism",
+      "url": "https://www.reuters.com/world/pope-calls-gaza-airstrikes-cruelty-after-israeli-ministers-criticism-2024-12-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/P46LI3V4IVJMTGACLHK7LN732U.jpg?auth=db7f829ac3962a0ca13df5946bae80503bef8e44d2f234e324e7711252aec767&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Syria's new rulers have appointed Murhaf Abu Qasra, a leading figure in the insurgency which toppled Bashar al-Assad, as defence minister in the interim government, an official source said on Saturday.",
+      "publishedAt": "2024-12-21T12:27:42Z",
+      "title": "Syria's new rulers name HTS commander as defence minister",
+      "url": "https://www.reuters.com/world/middle-east/syrias-new-rulers-name-foreign-minister-amid-push-international-relations-2024-12-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/U45POLME2NJ35EAWS3LO5PVYGU.jpg?auth=fdeaa19514dc01fbbc42c52deb2a877ddfcbabd90608c887d428d4bb4577994f&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "David Ljunggren",
-      "description": "Canadian Prime Minister Justin Trudeau on Friday looked set to lose power early next year after a key ally said he would move to bring down the minority Liberal government and trigger an election.",
-      "publishedAt": "2024-12-20T16:14:09Z",
-      "title": "Justin Trudeau looks set to lose power after key ally vows to topple him",
-      "url": "https://www.reuters.com/world/americas/key-ally-canada-pm-trudeau-says-he-will-vote-bring-him-down-2024-12-20/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4K6MZPJLENOF5GOQKHKRACSUBE.jpg?auth=303f6ff64fd97990fee46a8c39adb0960a3701a53361b8a8dce0cc9e6e0bfe69&height=1005&width=1920&quality=80&smart=true"
+      "description": "Canadian Prime Minister Justin Trudeau's political options have narrowed after the leader of a small party that has helped keep his Liberal minority government in power said on Friday he would present a formal motion of no-confidence in parliament.",
+      "publishedAt": "2024-09-05T15:51:57Z",
+      "title": "The rise and fall of Canadian PM Trudeau's political fortunes",
+      "url": "https://www.reuters.com/world/americas/rise-fall-canadian-pm-trudeaus-political-fortunes-2024-09-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/AN3RH63NTBOYBBCWNWXPUIT4WQ.jpg?auth=2e16ab2960eef8aa57d09d10d80d08f763778dec55414e42ed41c51593f15772&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -49,36 +73,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Isaac Anyaogu, And Camillus Eboh",
-      "description": "At least 13 people died in two incidents in Nigeria on Saturday as crowds, mostly women and children, scrambled for charity, police authorities said.",
-      "publishedAt": "2024-12-21T14:18:47Z",
-      "title": "At least 13 dead in two crowd crushes in Nigeria",
-      "url": "https://www.reuters.com/world/africa/least-13-dead-two-crowd-crushes-nigeria-2024-12-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
-      "description": "A French court sentenced eight people to prison terms ranging from one to 16 years for their roles in a hate campaign that culminated in the murder of a teacher who had shown caricatures of the Prophet Mohammad in class, local media reported.",
-      "publishedAt": "2024-12-21T09:52:13Z",
-      "title": "Eight convicted in France over murder of teacher who showed Prophet caricature",
-      "url": "https://www.reuters.com/world/europe/eight-convicted-france-over-murder-teacher-who-showed-prophet-caricature-2024-12-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OJRRBPAF6ZPKHHCTKH3COMMKLY.jpg?auth=4b0cdcf40b2aa9e100d0494df3ca49a7017bbc4b513cb693c276824fe0de333d&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Iceland's president appointed a new government on Saturday and named Social Democratic party leader Kristrun Frostadottir as prime minister, public broadcaster RUV reported.",
-      "publishedAt": "2024-12-21T13:54:43Z",
-      "title": "Iceland presents new government with Social Democrats' Frostadottir as PM",
-      "url": "https://www.reuters.com/world/europe/iceland-presents-new-government-with-social-democratic-leader-frostadottir-pm-2024-12-21/",
+      "description": "Suspected jihadists killed more than 20 people in a string of attacks on villages in central Mali's insurgency-hit Mopti region on Friday, two local sources said.",
+      "publishedAt": "2024-12-21T19:19:22Z",
+      "title": "Over 20 civilians killed in central Mali village attacks",
+      "url": "https://www.reuters.com/world/africa/over-20-civilians-killed-central-mali-village-attacks-2024-12-21/",
       "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Ariba Shahid",
-      "description": "Twenty-five civilians were sentenced by a Pakistani military court to periods of two to 10 years of \"rigorous imprisonment\" in connection with attacks on military facilities in 2023, the armed forces' media wing said on Saturday.",
-      "publishedAt": "2024-12-21T07:20:53Z",
-      "title": "Pakistan military court jails 25 over 2023 attacks",
-      "url": "https://www.reuters.com/world/asia-pacific/pakistan-sentences-25-over-attacks-military-2023-military-says-2024-12-21/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/NE6LQEP7KFKZPNDTXPQMQHZEEI.jpg?auth=bbb6a342ed5020f71fb7295f9f969facbb6aa982bf719dd60ba4788e3522dd6a&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
