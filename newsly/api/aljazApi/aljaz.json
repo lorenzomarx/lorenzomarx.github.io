@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Alastair Mccready",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nAn official with the UN agency for Palestinian refugees (UNRWA) says Gaza has become a graveyard for 2 million trapped people.",
+      "description": "An official with the UN agency for Palestinian refugees (UNRWA) says Gaza a \u2018graveyard\u2019 for 2 million trapped people.",
+      "publishedAt": "2024-12-21T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "LIVE: Israeli attacks on Gaza kill more than 100 Palestinians in two days",
+      "url": "https://www.aljazeera.com/news/liveblog/2024/12/21/live-over-100-palestinians-killed-in-two-days-of-israeli-attacks-on-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/2024-12-20T151816Z_1492328105_RC22TBA3K856_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1734738697.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera Staff",
+      "content": "A last-minute budget bill has passed in the United States House of Representatives to keep the federal government funded and running through mid-March, averting an impending shutdown.\r\nThe continuing\u2026 [+4960 chars]",
+      "description": "The bill now goes to the Senate where it is expected to pass with only hours remaining before an expected shutdown.",
+      "publishedAt": "2024-12-20T23:57:19Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Last-minute budget bill to prevent US government shutdown prevails in House",
+      "url": "https://www.aljazeera.com/news/2024/12/20/last-minute-budget-bill-to-prevent-us-government-shutdown-prevails-in-house",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AP24355726454279-1734737127.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Al Jazeera",
       "content": "Some members of the workers union representing more than 10,000 baristas at Starbucks in the United States have begun a five-day strike at stores in Los Angeles, Chicago and Seattle, citing unresolve\u2026 [+4635 chars]",
       "description": "Workers complain of inadequate wages as inflation soars, and promise to escalate the strike.",
@@ -1273,34 +1299,8 @@
       "title": "UN Security Council told of North Korean missiles used by Russia in Ukraine",
       "url": "https://www.aljazeera.com/news/2024/12/19/un-security-council-told-of-north-korean-missiles-used-by-russia-in-ukraine",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20240215__34JC7CT__v2__HighRes__TopshotNkoreaPolitics-1707969240-1734579562.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Two directors of Fortnite creator Epic Games who were appointed by Chinese tech company Tencent Holdings have resigned their positions in the wake of an antitrust investigation in the United States.\r\u2026 [+2196 chars]",
-      "description": "The US Department of Justice says it expressed concerns directors' positions on two company boards violated Clayton Act.",
-      "publishedAt": "2024-12-19T04:22:24Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Two directors of Epic Games, Tencent resign amid antitrust investigation",
-      "url": "https://www.aljazeera.com/news/2024/12/19/two-directors-of-epic-games-tencent-resign-amid-antitrust-investigation",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/378720948-1734581057.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Thousands of Amazon employees in the United States are set to go on strike during the busy Christmas period after union officials accused the retailer of refusing to enter negotiations for better pay\u2026 [+2297 chars]",
-      "description": "Teamsters union says workers in New York, Atlanta and San Francisco to walk off the job over pay and conditions.",
-      "publishedAt": "2024-12-19T03:50:58Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Amazon workers to strike in US during busy Christmas season",
-      "url": "https://www.aljazeera.com/economy/2024/12/19/amazon-workers-to-strike-in-us-during-busy-christmas-season",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AP24351607934996-1734578957_165259-1734580330.jpg?resize=1200%2C630&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1394
+  "totalResults": 1396
 }
