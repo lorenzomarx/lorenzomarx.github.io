@@ -2,19 +2,75 @@
   "articles": [
     {
       "author": "Reuters",
+      "description": "Russia launched a drone strike on the Ukrainian capital Kyiv early on Wednesday, killing one person, wounding six others and damaging buildings in two districts, city officials said.",
+      "publishedAt": "2025-01-01T06:00:20Z",
+      "title": "One killed in Russian drone strike on Kyiv, officials say",
+      "url": "https://www.reuters.com/world/europe/russia-launches-new-year-drone-strike-kyiv-officials-say-2025-01-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6HUAYSYHMNJSPDBBODTY2HDVEA.jpg?auth=df313f5ce437e139e04a1ea3db90b843de92a34b75a4521690f4dbf8a91cf513&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "North Korean leader Kim Jong Un and his daughter Ju Ae attended New Year's celebrations including fireworks and an ice dancing display, state media KCNA reported on Wednesday.",
+      "publishedAt": "2025-01-01T10:25:04Z",
+      "title": "North Korea's Kim Jong Un attends New Year's celebrations with daughter, KCNA reports",
+      "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-attends-new-years-celebrations-with-daughter-kcna-2025-01-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SZHAN5N6L5KH7NFSC2WKKSXX5E.jpg?auth=7af8d1069daa72b074001c4f656a51204fc4b5e7025edcc5beb9910d3cc76c17&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The next round of nuclear talks between Iran and three European countries will take place on Jan. 13 in Geneva, Iran's semi-official ISNA news agency cited the country's Deputy Foreign Minister Kazem Gharibabadi as saying on Wednesday.",
+      "publishedAt": "2025-01-01T09:55:38Z",
+      "title": "Next nuclear talks between Iran and three European countries due on Jan 13",
+      "url": "https://www.reuters.com/world/middle-east/next-nuclear-talks-between-iran-three-european-countries-due-jan-13-2025-01-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KY636P53MZM7HBDNIV7FXCCYYA.jpg?auth=8f069342a3bf513070d2e29da825eb8fa90c92959473312e92b6898c70219f79&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Romania and Bulgaria scrapped land border controls to become full members of the European Union's Schengen free-travel area on Wednesday, joining an expanded bloc of countries whose residents can travel without passport checks.",
+      "publishedAt": "2025-01-01T09:29:44Z",
+      "title": "Romania, Bulgaria fully join EU's borderless Schengen zone",
+      "url": "https://www.reuters.com/world/romania-bulgaria-fully-join-eus-borderless-schengen-zone-2025-01-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DZZ3AIP7CVMNZFNJQREX7HDTFE.jpg?auth=a71730a02a1e1d66f0e5edd580dbb2505a51b0173fea2b546ac11258223da776&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Vladimir Soldatkin, Dan Peleschuk",
+      "description": "Russian natural gas exports via Soviet-era pipelines running through Ukraine to Europe were halted in the early hours of New Year's Day as a transit deal expired and warring Moscow and Kyiv have failed to reach an agreement to continue the flows.",
+      "publishedAt": "2025-01-01T05:40:25Z",
+      "title": "Russian gas exports to Europe via Ukraine halted as transit deal expires",
+      "url": "https://www.reuters.com/business/energy/russia-halts-gas-exports-europe-via-ukraine-2025-01-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XLGEL3TKKFIYVDZ7WBASFB44DU.jpg?auth=72edb3320987626026c7b10eb0f1cf7500a7e4a0bfaecb3afe29bb2ba2cd7865&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Hyonhee Shin, Eduardo Baptista",
+      "description": "The investigation into the crash of a South Korea passenger jet gathered pace on Wednesday as bereaved families began to prepare funerals after authorities finished formally identifying the 179 victims of the country's worst air disaster.",
+      "publishedAt": "2025-01-01T05:16:03Z",
+      "title": "South Korea crash investigation ramps up as funeral procedures begin",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-crash-investigation-ramps-up-funeral-procedures-begin-2025-01-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ZMSOHDG4U5K67INZYQQXUFQGA4.jpg?auth=ffc5a60fdd3a606605fb7ff6bd5dc43a67a8daec4ac1d710fd1a75e88c240be9&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Hyonhee Shin",
+      "description": "Senior aides to South Korea's impeached President Yoon Suk Yeol offered to resign en masse on Wednesday, a day after his office expressed regret over acting President Choi Sang-mok's approved of two new judges to a court set to decide Yoon's fate.",
+      "publishedAt": "2025-01-01T06:29:58Z",
+      "title": "South Korea's presidential aides offer to resign amid political crisis",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-presidential-aides-offer-resign-amid-political-crisis-2025-01-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JIZCKPS6BNKATLGHZMC242TRBI.jpg?auth=027892d02f7fc0914e4876e06666be5a154ef57f8f4158883fcd245156ddd271&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Israeli air strikes on al-Bureij refugee camp and Jabalia town in central and northern Gaza killed at least 17 Palestinians on Wednesday, the official Palestinian news agency WAFA reported.",
+      "publishedAt": "2025-01-01T09:06:02Z",
+      "title": "Israeli strikes kill at least 17 Palestinians in Gaza, WAFA reports",
+      "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-least-17-palestinians-gaza-wafa-reports-2025-01-01/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6FO2U3ZVFRNZVHXCVOV54VWDVA.jpg?auth=180a6dfed44ead600772c0f1a4071e74f88571ed5fca293dea6fc2351223e333&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
       "description": "Ukrainian President Volodymyr Zelenskiy said late on Tuesday that no one would give peace to his country as a gift, but he believed the United States would stand alongside Kyiv as it fights to stop Russia's 34-month invasion.",
       "publishedAt": "2024-12-31T23:50:38Z",
       "title": "Zelenskiy says US will be alongside Ukraine's efforts to stop Russia",
       "url": "https://www.reuters.com/world/europe/zelenskiy-says-us-will-be-alongside-ukraines-efforts-stop-russia-2024-12-31/",
       "urlToImage": "https://www.reuters.com/resizer/v2/XWAE433G7JLWPFDBWNOZ3CR5QQ.jpg?auth=c5b5947ffe81082baa48270bb1c23081878965566b60a0faf3d45bea4d2c2c0b&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Joyce Lee",
-      "description": "Experts said the embankment's proximity to the end of the runway defied best practices.",
-      "publishedAt": "2024-12-31T02:27:05Z",
-      "title": "Questions over airport embankment, bird strikes as South Korea air crash probed",
-      "url": "https://www.reuters.com/world/asia-pacific/questions-over-airport-embankment-bird-strikes-south-korea-air-crash-probed-2024-12-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/AWLCJIYESJNKXNCFJB7A24N2GE.jpg?auth=73c7397a5a9db461dc65853091dd8fefebbdf630570e42d0498ce146f23ac5f0&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Nidal Al-Mughrabi, Maytaal Angel, Ali Sawafta",
@@ -23,62 +79,6 @@
       "title": "Amid ceasefire push, Palestinians bear the scars of Israeli detention",
       "url": "https://www.reuters.com/world/middle-east/amid-ceasefire-push-palestinians-released-israeli-jails-bear-mental-physical-2024-12-31/",
       "urlToImage": "https://www.reuters.com/resizer/v2/IEV44DTHQJNHTIJVK3TV2GB5LI.jpg?auth=3aef00f30d0d813e9719ee0fd9d6a5fb69140d850b83b3b7b236561d19c234ee&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Russian gas supplies to Europe via Ukraine are set to end on New Year's Day, bringing down the curtain on Moscow's long period of dominance of supply in the European gas market.",
-      "publishedAt": "2024-12-31T07:46:37Z",
-      "title": "Europe's Russian gas era comes to an end as Ukraine transit stops",
-      "url": "https://www.reuters.com/business/energy/russia-reduces-gas-flow-via-ukraine-europe-last-day-expiring-deal-2024-12-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/MNMUA55JHZLW3KBWPVADENMCZM.jpg?auth=d4ee30bf7ba3bdb6aa8576fd11cc4e04889d29adf65b2fd4274eecc8fa32d66b&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Michel Rose, Dominique Vidalon",
-      "description": "French President Emmanuel Macron said on Tuesday he recognised that his decision to call early parliamentary elections in June had created more political instability in the country, in a rare moment of contrition.",
-      "publishedAt": "2024-12-31T19:54:54Z",
-      "title": "Macron acknowledges error on early elections in New Year's speech",
-      "url": "https://www.reuters.com/world/europe/macron-offers-mea-culpa-early-elections-new-year-speech-2024-12-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/WPK24DAKGZJXLNJFI25AEBHW54.jpg?auth=cbb4bf6be80e1101af4b453a1d7873867f7fe921bd904cba9fc3a99f5f11903a&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "A South Korean court on Tuesday approved an arrest warrant for President Yoon Suk Yeol, who has been impeached and suspended from power over his decision to impose martial law on Dec. 3, investigating authorities said.",
-      "publishedAt": "2024-12-31T00:35:15Z",
-      "title": "South Korea court issues arrest warrant for President Yoon",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korea-court-issues-arrest-warrant-president-yoon-yonhap-reports-2024-12-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/I7KHUMG5EBOP3IANCLFOD43UWY.jpg?auth=782eb918518399c4ee5ad6d3c1a19688de4c4197272e3a6a47b249604fff85da&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Kanishka Singh",
-      "description": "A U.S. military appeals court has ruled that plea deals related to the man accused of masterminding the Sept. 11, 2001, attacks and two accomplices can proceed after Defense Secretary Lloyd Austin had earlier moved to invalidate the agreements.",
-      "publishedAt": "2024-12-31T20:25:18Z",
-      "title": "US military appeals court says plea deals related to 9/11 attacks may proceed",
-      "url": "https://www.reuters.com/legal/us-military-appeals-court-says-plea-deals-related-911-attacks-may-proceed-2024-12-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/74N5ULNTJBPNDKEIJW2PT63ICM.jpg?auth=75209a8e2ce11955ec4952c8764f29e0532dccc0249795edd9775dce1f335496&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The United States on Tuesday imposed sanctions on entities in Iran and Russia, accusing them of attempting to interfere in the 2024 U.S. election.",
-      "publishedAt": "2024-12-31T15:22:25Z",
-      "title": "US imposes sanctions on entities in Iran, Russia over election interference",
-      "url": "https://www.reuters.com/world/us-issues-fresh-iran-russia-sanctions-over-election-interference-treasury-dept-2024-12-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/F3M24JZVJJKQNLK7QWDQLNCNPY.jpg?auth=eed11852c1ddf5075f45df57632c017b350ae0441ffb02708cb73f3578e80ca0&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Mark Trevelyan",
-      "description": "President Vladimir Putin told Russians in a New Year address that the country would move forward with confidence in 2025, though he offered no specific promises on the economy or the war in Ukraine.",
-      "publishedAt": "2024-12-31T12:43:46Z",
-      "title": "Putin tells Russians at New Year that 'everything will be fine'",
-      "url": "https://www.reuters.com/world/europe/putin-says-new-year-address-that-russia-will-move-forward-2025-2024-12-31/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/A5MPNK6Y4ZJQ5OZCFUYFAPNCI4.jpg?auth=8efb262248801cbc6fbe7a017dd296b7ec62796b743d25ffa800dba3823ed85d&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Nathan Layne",
-      "description": "President-elect Donald Trump said he would attend next week's state funeral for Jimmy Carter, the former U.S. president who died on Sunday at the age of 100, and predicted that only House Speaker Mike Johnson could win the vote for the House's top job.",
-      "publishedAt": "2025-01-01T02:50:27Z",
-      "title": "Trump says will attend Jimmy Carter's funeral",
-      "url": "https://www.reuters.com/world/us/trump-says-will-attend-jimmy-carters-funeral-2025-01-01/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/K6D4B4LLRNNM5D2JP3SHIC4LJY.jpg?auth=932270958ad4fd23ea60071b30544cc0baa058eaa91d14dfe5cb9a1c1e2bd000&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
