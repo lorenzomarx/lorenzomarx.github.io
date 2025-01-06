@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Lyndal Rowlands",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsraeli forces launch dozens of attacks across Gaza as US proposes $8bn weapons sales amid ongoing ceasefire talks.",
+      "description": "Israeli forces launch dozens of attacks across Gaza as US proposes $8bn weapons sales amid ongoing ceasefire talks.",
+      "publishedAt": "2025-01-05T00:10:42Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "LIVE: Israel kills 66 people in Gaza as US proposes $8bn weapons sale",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/1/5/live-israel-kills-70-in-gaza-as-us-proposes-8bn-weapons-shipment",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP250047001119231-1736026385.jpg?resize=1920%2C1440"
+    },
+    {
       "author": null,
       "content": "The German and French foreign ministers have met Syrias de facto leader in Damascus.\r\nThe European officials conveyed a message that the lifting of sanctions on Syria would depend on how the countrys\u2026 [+388 chars]",
       "description": "European foreign ministers meet Syria's de facto leader in Damascus.",
@@ -1286,21 +1299,8 @@
       "title": "Fireworks in Hawaii home spark deadly explosion, killing at least three",
       "url": "https://www.aljazeera.com/news/2025/1/1/fireworks-in-hawaii-home-spark-deadly-explosion-killing-at-least-three",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP281515305572-1-1735768633.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "The Palestinian Authority (PA) has suspended the work of Al Jazeera temporarily in the occupied West Bank over inciting material, Palestinian official news agency Wafa has reported.\r\nA ministerial co\u2026 [+2721 chars]",
-      "description": "PA accuses network of broadcasting 'inciting material' and 'stirring strife' in the country.",
-      "publishedAt": "2025-01-01T21:24:02Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Palestinian Authority suspends Al Jazeera operations in the West Bank",
-      "url": "https://www.aljazeera.com/news/2025/1/1/palestinian-authority-suspends-al-jazeera-operations-in-the-west-bank",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20241221__36R672R__v2__HighRes__PalestinianIsraelConflictProtest-1734795259.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1387
+  "totalResults": 1388
 }
