@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "But the strong winds that fanned the flames were expected to pick up again today, worsening conditions.",
+      "publishedAt": "2025-01-10T12:20:30Z",
+      "title": "Los Angeles firefighters see progress in containing blazes",
+      "url": "https://www.reuters.com/world/us/los-angeles-wildfires-rage-third-night-death-toll-rises-10-2025-01-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/OYOCTKNURJK2XC2GTJC2XIJWZM.jpg?auth=9243d01fd8b163cd13c0ff4b3e0824ae5f20e1a055de08540e203ad39ac0cee8&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Hyunjoo Jin, Jack Kim",
       "description": "The flight data and cockpit voice recorders on the Jeju Air jet that crashed on Dec. 29 stopped recording about four minutes before the airliner hit a concrete structure at South Korea's Muan airport, the transport ministry said on Saturday.",
       "publishedAt": "2025-01-11T05:00:20Z",
@@ -10,75 +18,67 @@
     },
     {
       "author": "Reuters",
-      "description": "Ukraine launched drone attacks across several regions of Russia, striking two residential houses in the Tambov region and injuring at least three people, Russia said on Saturday.",
-      "publishedAt": "2025-01-11T07:26:38Z",
-      "title": "Russia says Ukrainian drones injure three in Tambov region",
-      "url": "https://www.reuters.com/world/europe/russia-says-ukrainian-drones-injured-several-tambov-region-2025-01-11/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/YIOIHHYCAJPNTHBANPAKRTCHNM.jpg?auth=a9a485d91f0ef0c7c66ded25c2f6d2212df1450393b226f535bffb38e236912a&height=1005&width=1920&quality=80&smart=true"
+      "description": "The measures constituted the broadest U.S. package of sanctions so far targeting Russia's oil and gas revenues.",
+      "publishedAt": "2025-01-11T16:05:56Z",
+      "title": "Russia says it will continue oil and gas projects despite US sanctions",
+      "url": "https://www.reuters.com/world/russia-says-it-will-continue-oil-gas-projects-despite-us-sanctions-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/3R7CK4DCAFIORLG53QVX7KXTCQ.jpg?auth=b97a44667348a41b2b394169a29fd1003b9c8cbc1c07e5a4fbb31a825847a3b2&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Shoon Naing",
-      "description": "Dozens of people were killed in an air strike by Myanmar's military government in the western state of Rakhine this week, the United Nations said, as the Southeast Asia nation's civil war nears its fourth year.",
-      "publishedAt": "2025-01-11T03:04:05Z",
-      "title": "Myanmar military air strike kills dozens in Rakhine village, UN says",
-      "url": "https://www.reuters.com/world/asia-pacific/myanmar-military-air-strike-kills-dozens-rakhine-village-un-says-2025-01-11/",
+      "author": "Max Hunder",
+      "description": "It is the first time Ukraine has announced the capture of North Korean soldiers alive since their entry into the war.",
+      "publishedAt": "2025-01-11T13:47:59Z",
+      "title": "Ukraine captures two North Korean soldiers in Kursk, Zelenskiy says",
+      "url": "https://www.reuters.com/world/europe/ukraine-captures-two-north-korean-soldiers-kursk-zelenskiy-says-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4GZB53W77NM45BLSCX5CSEACQM.jpg?auth=eb389ba27c0e7605ca4f2ee2116b25537c3a644a67a243193ac96eea566acbe7&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Tala Ramadan",
+      "description": "Lebanon and Syria will work together to secure their land borders, as well as to delineate both land and sea borders, Lebanon's caretaker Prime Minister Najib Mikati said on Saturday in Damascus.",
+      "publishedAt": "2025-01-11T13:13:38Z",
+      "title": "Lebanon to work with Syria to strengthen borders",
+      "url": "https://www.reuters.com/world/middle-east/lebanon-says-will-work-with-syria-strengthen-borders-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/Z55SFZ2LGROVRP5KCZVGQEN35Q.jpg?auth=a1b07f42df1569481a74dfe3a9f86ff9814c6a4807f9a137f55ae654fcc74cbc&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "U.S. President-elect Donald Trump's Middle East envoy Steve Witkoff will meet Israeli Prime Minister Benjamin Netanyahu on Saturday, an Israeli official said, amid efforts to secure a hostage deal and ceasefire in Gaza.",
+      "publishedAt": "2025-01-11T13:40:40Z",
+      "title": "Trump's Mideast envoy to meet Netanyahu on Saturday, Israeli official says",
+      "url": "https://www.reuters.com/world/middle-east/trumps-mideast-envoy-meet-netanyahu-saturday-israeli-official-says-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/A3SKW34ZRZN7TGMXEMQAGVOET4.jpg?auth=28510001ba63d44e9e98f6992f0fb6286b6e1359b0f0e504daffcf6e9833a1cf&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Joe Brock, Chad Terhune",
+      "description": "As Los Angeles construction worker Ivan De La Torre surveyed a landscape of smoking wreckage in fire-ravaged Altadena, a question nagged at him: how would insurance companies cover the cost of rebuilding an entire neighborhood?",
+      "publishedAt": "2025-01-11T11:05:46Z",
+      "title": "Los Angeles wildfires spark insurance anxiety among victims",
+      "url": "https://www.reuters.com/world/us/los-angeles-wildfires-spark-insurance-anxiety-among-victims-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/RIYOA7AX6ZMJBPAUCLCGSQEIBI.jpg?auth=0532a88d1cef15dcfe8ac808836bf40c94f1dedf56cca2c0283a61c2e2e68765&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "John Irish",
+      "description": "U.S. President-elect Donald Trump's incoming Ukraine envoy Keith Kellogg was in Paris on Saturday, attending an event at Paris-based Iranian opposition group National Council of Resistance of Iran (NCRI), according to TV footage carried by the group.",
+      "publishedAt": "2025-01-11T15:49:55Z",
+      "title": "Trump's Ukraine envoy Kellogg attends Iran opposition event in Paris",
+      "url": "https://www.reuters.com/world/us/trumps-ukraine-envoy-kellogg-attends-iran-opposition-event-paris-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/GN3IF56TLVNR5HE767LHFWS4OI.jpg?auth=540a54d2477834dc21393b58ff8a645298e4bee4ee0b81d9b6ff2ea1b12f173e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "The German military will establish a new division tasked exclusively with territorial defence, the army said on Saturday, bringing all existing reserve units under direct army command.",
+      "publishedAt": "2025-01-11T14:58:12Z",
+      "title": "Germany sets up military division dedicated to territorial defence",
+      "url": "https://www.reuters.com/world/europe/germany-sets-up-military-division-dedicated-territorial-defence-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/U7CX5KNNOJIDJCAXRBXQIPJSDM.jpg?auth=da369374cfa916159ea5327b53a4548b7f7ca7854d7c7bda088b265b6ed5e229&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Sudan's army said on Saturday it had entered the central city of Wad Madani and was pushing out its paramilitary rivals the Rapid Support Forces (RSF), a step which if completed successfully would be its biggest gain in near two years of war.",
+      "publishedAt": "2025-01-11T13:15:30Z",
+      "title": "Sudanese army advances to retake city of Wad Madani from RSF",
+      "url": "https://www.reuters.com/world/africa/sudanese-army-advances-retake-city-wad-madani-rebels-2025-01-11/",
       "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Venezuelan President Nicolas Maduro, whose nearly 12 years in office have been marked by a deep economic and social crisis, is set to be sworn in for a third term on Friday, staying in power despite a six-month-long dispute over a July election and international calls for him to stand aside.",
-      "publishedAt": "2025-01-10T11:06:58Z",
-      "title": "Venezuela's Maduro to be sworn in for third term as opposition leader vows to return",
-      "url": "https://www.reuters.com/world/americas/venezuelas-maduro-be-sworn-third-term-opposition-leader-vows-return-2025-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/MMJY3XLLYJI43AGKH4XD6RSPVQ.jpg?auth=ff1040023cb6797149ae4e4c9999eeb96f18798b3b522643bbecd69e0e4682e9&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "But the strong winds that fanned the flames were expected to pick up again today, worsening conditions.",
-      "publishedAt": "2025-01-10T12:20:30Z",
-      "title": "Los Angeles firefighters see progress in containing blazes",
-      "url": "https://www.reuters.com/world/us/los-angeles-wildfires-rage-third-night-death-toll-rises-10-2025-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/OYOCTKNURJK2XC2GTJC2XIJWZM.jpg?auth=9243d01fd8b163cd13c0ff4b3e0824ae5f20e1a055de08540e203ad39ac0cee8&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Timothy Gardner, Daphne Psaledakis",
-      "description": "The Biden administration on Friday imposed its broadest package of sanctions yet targeting Russia's oil and gas revenues in an attempt to give Kyiv and the incoming administration of Donald Trump leverage to reach a deal for peace in Ukraine.",
-      "publishedAt": "2025-01-10T15:35:46Z",
-      "title": "Biden hits Russian oil in toughest sanctions yet in bid to give Ukraine, Trump leverage",
-      "url": "https://www.reuters.com/world/biden-hits-russian-oil-toughest-sanctions-yet-bid-give-ukraine-trump-leverage-2025-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/VVHXFRAVABJAHJ2VWPIQ576Z4Q.jpg?auth=a58c2df97ce8dad93a44484ab5a79120e649d4f8c2db59ea0e1432cc864fdcd5&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Matt Spetalnick, Marianna Parraga",
-      "description": "The United States on Friday imposed new sanctions on eight Venezuelan officials and increased to $25 million the reward it is offering for the arrest of President Nicolas Maduro on the day of his inauguration to a third term following a disputed election last year.",
-      "publishedAt": "2025-01-10T15:49:35Z",
-      "title": "US and allies slap sanctions on Venezuela officials as Maduro inaugurated",
-      "url": "https://www.reuters.com/world/americas/us-slaps-new-sanctions-venezuela-officials-maduro-inaugurated-2025-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/O6L7UTERYBNWJIAVSTKATLXBH4.jpg?auth=cd6d4150703d77cbee5cd57ff78f9e4c82b8e75e0a3bdf97b4816872aacd9e92&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Timour Azhari, John Irish",
-      "description": "U.S., French and German envoys have warned Syria's new Islamist rulers that their appointment of foreign jihadists to senior military posts is a security concern and bad for their image as they try to forge ties with foreign states, two sources familiar with the matter said.",
-      "publishedAt": "2025-01-10T17:20:58Z",
-      "title": "Exclusive: Western powers warn Syria over foreign jihadists in army, sources say",
-      "url": "https://www.reuters.com/world/middle-east/western-powers-warn-syria-over-foreign-jihadists-army-sources-say-2025-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/CWDUJWKMKJKDDOVOOTCXZIUMVI.jpg?auth=75a853c046a66919fa65c78eddc246f2a0144f4022dc157113c05c55d035a350&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Thousands of protesters in the Slovak capital held banners and chanted slogans on Friday accusing Prime Minister Robert Fico of dragging the country towards Russia after he met President Vladimir Putin last month amid a gas dispute with Ukraine.",
-      "publishedAt": "2025-01-10T18:19:56Z",
-      "title": "Protesters say Fico dragging Slovakia to Russia in Ukraine gas dispute",
-      "url": "https://www.reuters.com/world/europe/protesters-say-fico-dragging-slovakia-russia-ukraine-gas-dispute-2025-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/YWUJOFWRKRLZXATX4BNC2GSKQY.jpg?auth=06d482a36b2b6ee79fef745fab4422fbc8458d9565c24affd92247f43a1e54b5&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "A suspected hitman accused of killing a Cambodian former opposition lawmaker in a brazen attack in Bangkok was handed over to Thai authorities on Saturday from Cambodia, where he had been arrested after crossing the border.",
-      "publishedAt": "2025-01-11T10:17:46Z",
-      "title": "Suspected killer of former Cambodia lawmaker sent to Thailand",
-      "url": "https://www.reuters.com/world/asia-pacific/suspected-killer-former-cambodia-lawmaker-sent-thailand-2025-01-11/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/SCQASQWMIJNZ3JP7UKDVFMAVP4.jpg?auth=1714d61706f2d04e5fdc8b10929622cad90c7512c989e07644d45af86973566e&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
