@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "author": "Hyunjoo Jin, Jack Kim",
+      "description": "The flight data and cockpit voice recorders on the Jeju Air jet that crashed on Dec. 29 stopped recording about four minutes before the airliner hit a concrete structure at South Korea's Muan airport, the transport ministry said on Saturday.",
+      "publishedAt": "2025-01-11T05:00:20Z",
+      "title": "Jeju Air 'black box' data missing from last 4 minutes before crash, South Korea ministry says",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-jeju-air-jet-blackboxes-stopped-recording-4-minutes-before-crash-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/34M4WMMEYBMPLKKGBY67VSLYHE.jpg?auth=cf9108d697502c6797b46b1d07d025c5e84f9fe543e68324d920f6e52b0a689b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Ukraine launched drone attacks across several regions of Russia, striking two residential houses in the Tambov region and injuring at least three people, Russia said on Saturday.",
+      "publishedAt": "2025-01-11T07:26:38Z",
+      "title": "Russia says Ukrainian drones injure three in Tambov region",
+      "url": "https://www.reuters.com/world/europe/russia-says-ukrainian-drones-injured-several-tambov-region-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/YIOIHHYCAJPNTHBANPAKRTCHNM.jpg?auth=a9a485d91f0ef0c7c66ded25c2f6d2212df1450393b226f535bffb38e236912a&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Shoon Naing",
+      "description": "Dozens of people were killed in an air strike by Myanmar's military government in the western state of Rakhine this week, the United Nations said, as the Southeast Asia nation's civil war nears its fourth year.",
+      "publishedAt": "2025-01-11T03:04:05Z",
+      "title": "Myanmar military air strike kills dozens in Rakhine village, UN says",
+      "url": "https://www.reuters.com/world/asia-pacific/myanmar-military-air-strike-kills-dozens-rakhine-village-un-says-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Reuters",
       "description": "Venezuelan President Nicolas Maduro, whose nearly 12 years in office have been marked by a deep economic and social crisis, is set to be sworn in for a third term on Friday, staying in power despite a six-month-long dispute over a July election and international calls for him to stand aside.",
       "publishedAt": "2025-01-10T11:06:58Z",
@@ -49,36 +73,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/YWUJOFWRKRLZXATX4BNC2GSKQY.jpg?auth=06d482a36b2b6ee79fef745fab4422fbc8458d9565c24affd92247f43a1e54b5&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Jacob Gronholt-Pedersen, Stine Jacobsen",
-      "description": "Denmark's government has proposed purchasing two new Arctic inspection vessels and increasing dog sled patrols to boost its military presence in Greenland, as U.S. President-elect Donald Trump sets his sights on the island, local media reported.",
-      "publishedAt": "2025-01-10T15:23:06Z",
-      "title": "Denmark plans new ships, dog sled patrols in Greenland as Trump seeks control",
-      "url": "https://www.reuters.com/world/denmark-plans-new-ships-dog-sled-patrols-greenland-trump-seeks-control-2025-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/G4GIRNSKWNM5BBRUPU4VTV5IOI.jpg?auth=3f8e13b29972ce282c1428a1e5c30d9acb3b1f8cc91820d8659c8ede4396167e&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Shoon Naing",
-      "description": "Dozens of people were killed in an air strike by Myanmar's military government in the western state of Rakhine this week, the United Nations said, as the Southeast Asia nation's civil war nears its fourth year.",
-      "publishedAt": "2025-01-11T03:04:05Z",
-      "title": "Myanmar military air strike kills dozens in Rakhine village, UN says",
-      "url": "https://www.reuters.com/world/asia-pacific/myanmar-military-air-strike-kills-dozens-rakhine-village-un-says-2025-01-11/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Lisa Richwine, Rollo Ross",
-      "description": "When wildfires destroyed parts of Los Angeles this week, real estate agent Jenna Cooper started asking friends for clothing and other items to help people in need.",
-      "publishedAt": "2025-01-11T04:49:19Z",
-      "title": "Hollywood celebrities clear their closets for fire aid",
-      "url": "https://www.reuters.com/world/us/hollywood-celebrities-clear-their-closets-fire-aid-2025-01-11/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XYPZDDOJUNIJLCXO2CBHYXNXFA.jpg?auth=5c29bb448f5b64ac18f696d80e819459143d9d35fa127cc4af1fda22379579fb&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
-      "description": "Japanese Foreign Minister Takeshi Iwaya will attend Donald Trump's Jan. 20 inauguration for his second term as U.S. president, Japan's Nikkei newspaper reported on Friday, citing a Japanese foreign ministry source.",
-      "publishedAt": "2025-01-10T21:28:55Z",
-      "title": "Japanese foreign minister to attend Trump swearing-in - Nikkei",
-      "url": "https://www.reuters.com/world/japanese-foreign-minister-attend-trump-swearing-in-nikkei-2025-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/AZZNPGMAXNINTNZUHTJEIE2V4Y.jpg?auth=654e3a1e44f523579e80823a8114aadfd2004623d5ea65454001563eebf3a918&height=1005&width=1920&quality=80&smart=true"
+      "description": "A suspected hitman accused of killing a Cambodian former opposition lawmaker in a brazen attack in Bangkok was handed over to Thai authorities on Saturday from Cambodia, where he had been arrested after crossing the border.",
+      "publishedAt": "2025-01-11T10:17:46Z",
+      "title": "Suspected killer of former Cambodia lawmaker sent to Thailand",
+      "url": "https://www.reuters.com/world/asia-pacific/suspected-killer-former-cambodia-lawmaker-sent-thailand-2025-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SCQASQWMIJNZ3JP7UKDVFMAVP4.jpg?auth=1714d61706f2d04e5fdc8b10929622cad90c7512c989e07644d45af86973566e&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
