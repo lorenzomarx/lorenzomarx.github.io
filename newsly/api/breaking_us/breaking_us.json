@@ -1,43 +1,199 @@
 {
   "articles": [
     {
+      "author": "The Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2025-01-16T14:26:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "UK\u2019s Starmer in Kyiv for security talks with a pledge for a \u2018100-year partnership\u2019 with Ukraine - The Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHp5bzNnRHZkNTlaU2hKdm5uY2VSSEJWYUpxSnJnb1JPa3FNWjdvLUJVLU1haTNzYkxvel9oSWZVZGdyMkZHUDFhdXBpN3EzX0VmVnVQV0tSRU1ob3ZjMHZSNk94YndDWlZCV0Q4STZBSzZYNDFwbUJsT1lCYmRhaTk4SVRpUTZIZ2lMMWhZcXJGd2ZRS3Iyb2d0NHlKcUFacWlRbGZtc2dtN25Ia2tDazc4QWc?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Helen Regan, Sandi Sidhu, Kathleen Magramo, Antoinette Radford",
+      "content": "Israels 15-month war in Gaza, launched in response to Hamas October 7 attack, has decimated large swathes of the enclave and destroyed key health care infrastructure while placing an enormous strain \u2026 [+1281 chars]",
+      "description": "The Israeli cabinet was expected to vote Thursday on whether to ratify a highly anticipated ceasefire and hostage release deal agreed between Hamas and Israel. Follow for live news updates.",
+      "publishedAt": "2025-01-16T14:17:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Live updates: Dozens killed in Gaza as Israel delays key vote on truce - CNN",
+      "url": "https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-hostages-01-16-24/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-01-14t161851z-1201839014-rc2r9calav6d-rtrmadp-3-israel-palestinians-gaza.JPG?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": null,
+      "content": "INDIANAPOLIS (Jan. 16, 2025) Pacers Sports &amp; Entertainment today released plans to break ground this summer on a state-of-the-art,\u00a0$78 million\u00a0exclusive\u00a0sports performance center\u00a0for the Indiana \u2026 [+5116 chars]",
+      "description": "INDIANAPOLIS (Jan. 16, 2025) \u2013 Pacers Sports & Entertainment today released plans to break ground this summer on a state-of-the-art,\u00a0$78 million\u00a0exclusive\u00a0sports performance center\u00a0for the Indiana Fever in the heart of downtown Indianapolis. Construction of t\u2026",
+      "publishedAt": "2025-01-16T13:39:26Z",
+      "source": {
+        "id": null,
+        "name": "Wnba.com"
+      },
+      "title": "Pacers Sports & Entertainment unveils plans to build world-class, $78M Indiana Fever Sports Performance Center - Indiana Fever",
+      "url": "https://fever.wnba.com/news/pacers-sports-entertainment-unveils-plans-to-build-world-class-78m-indiana-fever-sports-performance-center",
+      "urlToImage": "https://cdn.wnba.com/sites/1611661325/2025/01/Indiana-Fever-Sports-Performance-Center_Day-View.jpg"
+    },
+    {
+      "author": "Andrew Webster",
+      "content": "The Nintendo Switch 2 supports original Switch cartridges\r\nThe Nintendo Switch 2 supports original Switch cartridges\r\n / The new consoles backward compatibility extends to physical media.\r\nByAndrew W\u2026 [+1380 chars]",
+      "description": "Nintendo has confirmed that its new console will be backward-compatible with cartridges from the original Switch.",
+      "publishedAt": "2025-01-16T13:08:58Z",
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "title": "The Nintendo Switch 2 supports original Switch cartridges - The Verge",
+      "url": "https://www.theverge.com/2025/1/16/24343666/nintendo-switch-2-cartridge-backwards-compatibility",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YyVeuW9KdnzSOyBrT8yVu8B_svI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10329947/jbareham_180301_2346_nintendo_switch_0094.jpg"
+    },
+    {
+      "author": "Tom Carter",
+      "content": "Ahead of the most important moment in Blue Origin's history, Jeff Bezos couldn't help feeling nervous.\r\n\"I'm worried about everything,\" the billionaire Amazon founder told Ars Technica's Eric Berger \u2026 [+4450 chars]",
+      "description": "Blue Origin's New Glenn finally roared into orbit in the early hours of Thursday, with SpaceX's Starship rocket set to launch hours later.",
+      "publishedAt": "2025-01-16T12:52:00Z",
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "title": "Jeff Bezos stuck the landing. Now it's Elon Musk's turn. - Business Insider",
+      "url": "https://www.businessinsider.com/jeff-bezos-new-glenn-blue-origin-launch-elon-musk-spacex-2025-1",
+      "urlToImage": "https://i.insider.com/67891f7250dfd88e193eb93e?width=1200&format=jpeg"
+    },
+    {
+      "author": "Erik Schlitt",
+      "content": "The Detroit Lions will take on the Washington Commanders in the Divisional Round of the 2024-25 NFL playoffs. They have a brand new coaching staff in 2024, but its full of a lot of familiar faces.\r\nI\u2026 [+10667 chars]",
+      "description": "Taking a closer look at the offensive and defensive schemes of the Detroit Lions divisional-round opponent: The Washington Commanders.",
+      "publishedAt": "2025-01-16T12:30:00Z",
+      "source": {
+        "id": null,
+        "name": "Prideofdetroit.com"
+      },
+      "title": "Breaking down the Commanders\u2019 offensive, defensive schemes - Pride Of Detroit",
+      "url": "https://www.prideofdetroit.com/2025/1/16/24343217/lions-playoff-preview-breaking-down-commanders-offensive-defensive-schemes",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cr0R47NFKbhQeovAx2pWp3YNM3o=/0x184:6000x3325/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25830546/2184858276.jpg"
+    },
+    {
+      "author": "Mary Gilbert",
+      "content": "Winters most potent Arctic blast yet is about to unleash dangerously low temperatures that will be the coldest to hit the United States in a year.\r\nThe cold will arrive this weekend and looks to be l\u2026 [+3806 chars]",
+      "description": "Winter\u2019s most potent Arctic blast yet is about to unleash dangerously low temperatures that will be the coldest to hit the United States in a year.",
+      "publishedAt": "2025-01-16T12:29:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Bundle up, it\u2019s going to feel like minus 40 once the coldest temperatures in a year arrive - CNN",
+      "url": "https://www.cnn.com/2025/01/15/weather/arctic-siberian-cold-outbreak-forecast-climate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2192202845.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Mike Allen",
+      "content": "Scott Bessent,President-elect Trump's pick for Treasury, will tell the Senate Finance Committee at his confirmation hearing Thursday that he sees \"a generational opportunity to unleash a new economic\u2026 [+1342 chars]",
+      "description": "\"My life has been the 'only in America' story that I am determined to preserve for future generations,\" he will say.",
+      "publishedAt": "2025-01-16T12:28:32Z",
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "title": "Bessent confirmation: Trump's Treasury pick to tout \"new economic golden age\" - Axios",
+      "url": "https://www.axios.com/2025/01/16/scott-bessent-trump-treasury-secretary-confirmation",
+      "urlToImage": "https://images.axios.com/bqmVaHTQwBPAjTsL2n3x0gLvhMs=/0x72:5967x3428/1366x768/2025/01/16/1737030066614.jpg"
+    },
+    {
       "author": "https://www.facebook.com/bbcnews",
-      "content": "Damian GrammaticasPolitical correspondent\r\nThe Foreign Secretary David Lammy has said the UK government hopes Emily Demari, the one remaining hostage with British citizenship who is being held in Gaz\u2026 [+1264 chars]",
-      "description": "Israel's military says a rocket was also fired into its territory from Gaza, ahead of a truce which is set to begin on Sunday.",
-      "publishedAt": "2025-01-16T08:03:45Z",
+      "content": "As we reported earlier, the government has pointed to previous inquiries, when explaining why it would not set up a new inquiry.\r\nIn October 2022, child protection expert Prof Alexis Jay finished a s\u2026 [+1111 chars]",
+      "description": "The government's opponents, and some Labour MPs, have called on the government to hold a national inquiry.",
+      "publishedAt": "2025-01-16T12:21:22Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Israel's cabinet set to approve ceasefire deal as at least 20 killed in strikes on Gaza - BBC.com",
-      "url": "https://www.bbc.com/news/live/c3rwqpj70ert",
+      "title": "Grooming gang scandal: Home Secretary Yvette Cooper to make Commons statement on grooming gangs - follow live - BBC.com",
+      "url": "https://www.bbc.com/news/live/cyv43zpr4pjt",
       "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
     },
     {
-      "author": "Joey Roulette",
+      "author": "The Wall Street Journal",
       "content": null,
-      "description": "Blue Origin's giant New Glenn rocket blasted off from Florida on its first mission to space, an inaugural step into Earth's orbit for Jeff Bezos' space company as it aims to rival SpaceX in the satellite launch business.",
-      "publishedAt": "2025-01-16T07:19:00Z",
+      "description": null,
+      "publishedAt": "2025-01-16T12:00:00Z",
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "title": "Blue Origin's debut New Glenn rocket blasts off from Florida - Reuters",
-      "url": "https://www.reuters.com/science/blue-origins-debut-new-glenn-rocket-fully-fueled-next-launch-attempt-2025-01-16/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/INBWQOAFU5PBBLBX7LX7NANHOU.jpg?auth=f071adac28c8f1a0029826b23bf3fa170fd0bef00cbce3abf151e31a640d0b35&height=1005&width=1920&quality=80&smart=true"
+      "title": "This Hedge Fund Created an Excel on Steroids - The Wall Street Journal",
+      "url": "https://www.wsj.com/articles/hedge-fund-spreadsheet-application-arcticdb-c98906f0",
+      "urlToImage": null
     },
     {
-      "author": "Lovia Gyarkye",
-      "content": "Few moments provoke more anxious dread for residents of The Jungles, the vibrant Los Angeles locale in which the hilarious new film One of Them Days is set, than the first of the month. Their surly l\u2026 [+4907 chars]",
-      "description": "Two friends race to avoid eviction in this comedy directed by Lawrence Lamont and co-starring Vanessa Bell Calloway, Lil Rel Howery, Katt Williams, Janelle James and Maude Apatow.",
-      "publishedAt": "2025-01-16T06:20:57Z",
+      "author": "Josh Alper",
+      "content": "The Ravens preparation for Sundays road game against the Bills includes more than prepping for what theyll see the Bills try to do on the field over the course of the game. \r\nThey are also preparing \u2026 [+1121 chars]",
+      "description": "The Ravens' preparation for Sunday's road game against the Bills includes more than prepping for what they'll see the Bills try to do on the field over the course of the game.",
+      "publishedAt": "2025-01-16T10:35:50Z",
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "NBCSports.com"
       },
-      "title": "\u2018One of Them Days\u2019 Review: Keke Palmer and SZA Make a Rowdily Funny Duo in Issa Rae-Produced Comedy - Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-reviews/one-of-them-days-review-keke-palmer-sza-1236107759/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/C_0005C002_240717_004548_H1F52_g_Rec709.086566_rv2.jpg?crop=448px%2C0px%2C3228px%2C1808px&resize=1440%2C810"
+      "title": "Ravens doing all they can to prepare for the cold weather in Buffalo - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-doing-all-they-can-to-prepare-for-the-cold-weather-in-buffalo",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/ca05ce3/2147483647/strip/true/crop/5702x3207+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F83%2Fb368a3f24f3c8afb9532277b5243%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2192887973"
+    },
+    {
+      "author": "Eric Geller",
+      "content": "Four days before he leaves office, US president Joe Biden has issued a sweeping cybersecurity directive ordering improvements to the way the government monitors its networks, buys software, uses arti\u2026 [+3135 chars]",
+      "description": "US president Joe Biden just issued a 40-page executive order that aims to bolster federal cybersecurity protections, directs government use of AI\u2014and takes a swipe at Microsoft\u2019s dominance.",
+      "publishedAt": "2025-01-16T10:30:00Z",
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "title": "A New Jam-Packed Biden Executive Order Tackles Cybersecurity, AI, and More - WIRED",
+      "url": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
+      "urlToImage": "https://media.wired.com/photos/67881091f6531b9aa159382f/191:100/w_1280,c_limit/security_bidenorder_GettyImages-2193176707.jpg"
+    },
+    {
+      "author": null,
+      "content": "Journalist Ahmad Al-Shayah was reportedly killed overnight in Khan Younis\r\nIsraeli air strikes are continuing in Gaza ahead of the ceasefire agreement and hostage deal with Hamas, which comes into ef\u2026 [+4402 chars]",
+      "description": "More than 60 people have reportedly been killed ahead of the deal coming into force.",
+      "publishedAt": "2025-01-16T10:07:06Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Israeli air strikes continue in Gaza after ceasefire deal announced - BBC.com",
+      "url": "https://www.bbc.com/news/articles/crke088e27lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/538e/live/61cb2640-d415-11ef-94cb-5f844ceb9e30.jpg"
+    },
+    {
+      "author": "Antiquity",
+      "content": "About 4,900 years ago, a Neolithic people on the Danish island Bornholm sacrificed hundreds of stones engraved with sun and field motifs. Archaeologists and climate scientists from the University of \u2026 [+4618 chars]",
+      "description": "About 4,900 years ago, a Neolithic people on the Danish island Bornholm sacrificed hundreds of stones engraved with sun and field motifs. Archaeologists and climate scientists from the University of Copenhagen can now show that these ritual sacrifices coincid\u2026",
+      "publishedAt": "2025-01-16T10:00:01Z",
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "title": "Volcanic eruptions linked to Neolithic 'sun stone' sacrifices in Denmark - Phys.org",
+      "url": "https://phys.org/news/2025-01-volcanic-eruptions-linked-neolithic-sun.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/volcanic-eruptions-cau.jpg"
+    },
+    {
+      "author": "KIM TONG-HYUNG",
+      "content": "SEOUL, South Korea (AP) Lawyers representing South Koreas impeached president said Thursday he will refuse further questioning after being detained by anti-corruption officials over his ill-fated dec\u2026 [+4245 chars]",
+      "description": "Lawyers representing South Korea\u2019s impeached president say he will refuse further questioning after being detained by anti-corruption officials over his ill-fated declaration of martial law last month, maintaining that the investigation is illegal. President \u2026",
+      "publishedAt": "2025-01-16T09:57:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Lawyers for detained South Korean president say he will reject questioning by investigators - The Associated Press",
+      "url": "https://apnews.com/article/south-korea-yoon-detention-court-martial-law-354adfdf81ecb08ba2b850e77e4da888",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3c9861d/2147483647/strip/true/crop/3254x1830+0+106/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa1%2F87%2Fd8d39339af6dc8fe2ae0b6321cdc%2F7b02d8db13ee4afbb441acb326a961d5"
     },
     {
       "author": "Abner Li",
@@ -53,212 +209,56 @@
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Gemini-overlay-Galaxy-S25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
     },
     {
-      "author": "DPA",
-      "content": "A week after wildfires started devastating the Los Angeles area, fire-fighting teams are finally making headways.\r\nThe Eaton Fire near Pasadena, which claimed seventeen of the 25 fatalities confirmed\u2026 [+2170 chars]",
-      "description": "A week after wildfires started devastating the Los Angeles area, fire-fighting teams are finally making headways. The Eaton Fire near Pasadena, which claimed...",
-      "publishedAt": "2025-01-16T05:53:00Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "Fight against LA fires making progress, strong winds dying down - Yahoo! Voices",
-      "url": "https://www.yahoo.com/news/fight-against-la-fires-making-055324791.html",
-      "urlToImage": "https://media.zenfs.com/en/dpa_international_526/8424e26e17122cee8a45c61f9fc4e5d5"
-    },
-    {
-      "author": null,
-      "content": "The dye has been used in a number of foods, like maraschino cherries\r\nThe US has banned the use of a synthetic dye typically added to foods and beverages to give them a bright, cherry-red hue.\r\nManuf\u2026 [+2547 chars]",
-      "description": "The FDA says food manufacturers have until January 2027 to remove the cherry-red dye from their products.",
-      "publishedAt": "2025-01-16T05:11:29Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "US bans red dye No. 3 from food, candy and medicine - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cx2qpngxgp4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e3ee/live/58a1c690-d37b-11ef-a118-e59aa5b2fa98.jpg"
-    },
-    {
-      "author": "Ryan Young",
-      "content": "Memphis Grizzlies star Ja Morant came up with a ridiculous poster over Victor Wembanyama after the whistle blew. (Scott Wachter-Imagn Images)\r\nJa Morant thew down what could very well be the best dun\u2026 [+1564 chars]",
-      "description": "The Memphis Grizzlies star came up with a ridiculous poster over Victor Wembanyama after the whistle blew.",
-      "publishedAt": "2025-01-16T03:49:00Z",
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "title": "Ja Morant throws down wild one-handed dunk on Victor Wembanyama \u2026 that didn\u2019t quite count - Yahoo Sports",
-      "url": "https://sports.yahoo.com/ja-morant-throws-down-wild-one-handed-dunk-on-victor-wembanyama--that-didnt-quite-count-034938865.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6_Wi.PExX24gMj6eM5sy3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/cc60f9e0-d3ba-11ef-8ff6-238b5c437338"
-    },
-    {
-      "author": null,
-      "content": "No more illegal miners are believed to be trapped underground at a gold mine in South Africa, volunteers working with rescue teams have said.\r\nAt least 78 bodies and more than 200 survivors have been\u2026 [+2788 chars]",
-      "description": "At least 78 bodies and more than 200 survivors have been pulled out of a mine since Monday.",
-      "publishedAt": "2025-01-16T03:44:09Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "No more miners trapped underground in South Africa, volunteers say - BBC.com",
-      "url": "https://www.bbc.com/news/articles/czj3d4pwlrjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ac2d/live/7d20f670-d363-11ef-9fd6-0be88a764111.jpg"
-    },
-    {
-      "author": "View articles by Connor Ferguson",
-      "content": "AMES, IA \u2013 JANUARY 15: Head coach Bill Self of the Kansas Jayhawks coaches from the bench in the first half of play against the Iowa State Cyclones at Hilton Coliseum on January 15, 2025, in Ames, Io\u2026 [+2974 chars]",
-      "description": "AMES, IA - JANUARY 15: Head coach Bill Self of the Kansas Jayhawks coaches from the bench in the first half of play against the Iowa State Cyclones at Hilton Coliseum on January 15, 2025, in Ames, Iowa. (Photo by David Purdy/Getty Images)\n\n\n\nAMES - Following \u2026",
-      "publishedAt": "2025-01-16T03:25:12Z",
-      "source": {
-        "id": null,
-        "name": "Cyclonefanatic.com"
-      },
-      "title": "What Kansas coach Bill Self said about Iowa State following Wednesday\u2019s game - Cyclone Fanatic",
-      "url": "https://cyclonefanatic.com/2025/01/what-kansas-coach-bill-self-said-about-iowa-state/",
-      "urlToImage": "https://cyclonefanatic.com/wp-content/uploads/2025/01/2193525175-scaled.jpg"
-    },
-    {
       "author": "Rebecca Falconer",
-      "content": "Southwest Airlines is being sued and Frontier Airlines fined over chronic flight delays by the Department of Transportation, the DOT announced Wednesday.\r\nWhy it matters: Wednesday's announcement by \u2026 [+2776 chars]",
-      "description": "This \"sends a message to all airlines\" that DOT will go to court in order \"to enforce passenger protections,\" Pete Buttigieg said.",
-      "publishedAt": "2025-01-16T02:32:52Z",
+      "content": "President-elect Trump will move to \"preserve\" TikTok, said his pick for national security adviser, Rep. Michael Waltz (R-Fla.), on Wednesday \u00a0as a potential nationwide ban looms.\r\nThe big picture: It\u2026 [+2928 chars]",
+      "description": "And Trump \"is going to protect their data,\" his pick for national security adviser said.",
+      "publishedAt": "2025-01-16T05:47:53Z",
       "source": {
         "id": "axios",
         "name": "Axios"
       },
-      "title": "Transportation Department sues Southwest, fines Frontier Airlines over chronic flight delays - Axios",
-      "url": "https://www.axios.com/2025/01/16/southwest-airlines-sued-us-frontier-flight-delays",
-      "urlToImage": "https://images.axios.com/Asgi5jjel5dPdJ4QwryRBu10VCk=/0x82:2653x1575/1366x768/2025/01/16/1736988337230.jpg"
+      "title": "Trump is \"going to find a way to preserve\" TikTok, aide says as ban deadline looms - Axios",
+      "url": "https://www.axios.com/2025/01/16/trump-tiktok-ban",
+      "urlToImage": "https://images.axios.com/toW0g042aVN0UMqJZ5ZNba_Mgcw=/0x823:7877x5254/1366x768/2025/01/16/1737003631117.jpg"
     },
     {
-      "author": "Cristiano Lima-Strong",
-      "content": "TikTok inched closer to a nationwide shutdown after the Supreme Court did not rule on the ban-or-sale law targeting the app early Wednesday, leaving the platform in limbo, with President-elect Donald\u2026 [+7028 chars]",
-      "description": "Justices did not issue a ruling in the closely watched case over a potential ban, dialing up intrigue over the app\u2019s fate.",
-      "publishedAt": "2025-01-16T02:00:07Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "TikTok races toward a ban as Supreme Court \u2014 and Trump \u2014 weigh its fate - The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2025/01/15/tiktok-ban-sale-biden-trump/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F4HBUZYP5RWG45N2SAULTOCII4.JPG&w=1440"
-    },
-    {
-      "author": null,
-      "content": "[Removed]",
-      "description": "[Removed]",
-      "publishedAt": "2025-01-16T01:41:00Z",
+      "author": "Jane Lanhee Lee",
+      "content": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. projected quarterly sales and capital expenditure ahead of analysts estimates, fueling hopes that spending on AI hardware should remain resilient\u2026 [+4086 chars]",
+      "description": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. projected quarterly sales and capital expenditure ahead of analysts\u2019 estimates, fueling hopes that...",
+      "publishedAt": "2025-01-16T05:34:39Z",
       "source": {
         "id": null,
-        "name": "[Removed]"
+        "name": "Yahoo Entertainment"
       },
-      "title": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null
-    },
-    {
-      "author": "Annie Grayer, Kit Maher, Manu Raju",
-      "content": "House Speaker Mike Johnson has removed Republican Rep. Mike Turner as chair of the House Intelligence Committee for the 119th Congress.\r\nWhile the speaker has the authority to appoint members of the \u2026 [+3223 chars]",
-      "description": "House Speaker Mike Johnson has removed Republican Rep. Mike Turner as chair of the House Intelligence Committee for the 119th Congress.",
-      "publishedAt": "2025-01-16T01:35:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Johnson removes Republican chair of House Intelligence Committee - CNN",
-      "url": "https://www.cnn.com/2025/01/15/politics/house-intelligence-committee-chair-removed-turner-johnson/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160096228.jpg?c=16x9&q=w_800,c_fill"
+      "title": "TSMC Profit Beats Estimates After Year of Rapid AI-Driven Growth - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/tsmc-profit-beats-estimates-rapid-053439748.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SSXtFppYQJ4372G6ZftJlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/9acc0fc98011830bb5f5af9afe0c8051"
     },
     {
       "author": null,
-      "content": "SACRAMENTO, Calif. (AP) Democratic California Gov. Gavin Newsom will join Republican House Speaker Mike Johnson and some GOP governors around the country in directing U.S. flags be raised to full hei\u2026 [+1084 chars]",
-      "description": "California Gov. Gavin Newsom will join Republican House Speaker Mike Johnson and some GOP governors in directing U.S. flags be raised to full height on Inauguration Day. Newsom\u2019s spokesperson Izzy Gardon confirmed Wednesday that the governor would temporarily\u2026",
-      "publishedAt": "2025-01-16T01:28:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "California\u2019s Newsom will join GOP governors in raising flag for Trump inauguration - The Associated Press",
-      "url": "https://apnews.com/article/gavin-newsom-flag-trump-inauguration-02a521a422b128b71b8e8cac4f02e3dd",
-      "urlToImage": "https://dims.apnews.com/dims4/default/55e0991/2147483647/strip/true/crop/4000x2250+0+266/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F41%2F05da18a41649b856daab5e4ad87f%2F8afd29ead1f54b5ca8e66395e0174d84"
-    },
-    {
-      "author": null,
-      "content": "In the meat study, published online Wednesday in the journal Neurology,researchers at Harvards T.H. Chan School of Public Health and the Broad Institute of MIT and Harvard said they focused on proces\u2026 [+6065 chars]",
-      "description": "The scientists hoped their findings would inform new dietary guidelines expected later this year.",
-      "publishedAt": "2025-01-16T01:16:46Z",
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "title": "Hot dogs, sausage, and . . . dementia? Harvard and MIT research links ultra-processed meat with new health concerns. - The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/01/15/metro/bacon-sausage-hot-dogs-ultra-processed-food-dementia/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/D3OJC2FQWTUN74ZSGKRQMAXEJA.JPG?auth=af1dc9d8977a0963098a580d84c57ad35ef1f532f636f7801b983590f6229536&width=1440"
-    },
-    {
-      "author": null,
-      "content": "Dow Jones futures were little changed overnight, along with S&amp;P 500 futures and Nasdaq futures. Nvidia chipmaker Taiwan Semiconductor (TSM), UnitedHealth (UNH), Bank of America (BAC) and Morgan S\u2026 [+6169 chars]",
-      "description": "The stock market surged on a tame inflation report.",
-      "publishedAt": "2025-01-16T01:00:00Z",
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "title": "Dow Jones Futures Rise After Market Rallies Above Key Levels; Tesla, Meta Lead 12 New Buys - Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-tesla-meta-new-buys/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/11/Stock-BikerMountain-01-adobe.jpg"
-    },
-    {
-      "author": null,
-      "content": "Drake is one of the best-selling artists of the last decade\r\nRap superstar Drake is suing Universal Music Group (UMG) for defamation and harassment, over its release of the Kendrick Lamar diss track \u2026 [+3884 chars]",
-      "description": "The rapper withdraws a case accusing his label of artificially boosting the success of Not Like Us.",
-      "publishedAt": "2025-01-16T00:33:30Z",
+      "content": "People with excess body fat can still be active and healthy, experts say\r\nCalling people obese is medically \"flawed\" - and the definition should be split into two, a report from global experts says.\r\u2026 [+4879 chars]",
+      "description": "There is a risk too many people are being diagnosed as obese, with weight-loss drugs in high demand.",
+      "publishedAt": "2025-01-16T04:05:10Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Drake drops legal action over Kendrick Lamar's Not Like Us - BBC.com",
-      "url": "https://www.bbc.com/news/articles/cyv433le3vno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c85b/live/ae72a600-d323-11ef-9fd6-0be88a764111.jpg"
+      "title": "Global report calls for obesity to be redefined - BBC.com",
+      "url": "https://www.bbc.com/news/articles/c79dz14d30ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f778/live/57dee9a0-d2a8-11ef-9fd6-0be88a764111.jpg"
     },
     {
-      "author": "Patrick Hipes",
-      "content": "Carrie Underwood will be joined by performers including Kid Rock, the Village People, Billy Ray Cyrus, Lee Greenwood, Rascal Flatts, Jason Aldean and more over the weekend and Monday as part of Donal\u2026 [+2312 chars]",
-      "description": "Kid Rock, the Village People, Billy Ray Cyrus, Lee Greenwood, Rascal Flatts, Jason Aldean and more will perform during Donald Trump's inauguration.",
-      "publishedAt": "2025-01-16T00:09:00Z",
+      "author": "Amy Kuperinsky | NJ Advance Media for NJ.com",
+      "content": "Ready to head back to work at Lumon Industries?\r\nYou wont have to go far ... the office is in Jersey.\r\nYes, the Apple TV+ series Severance is back for its long-awaited second season Friday. And if th\u2026 [+5276 chars]",
+      "description": "The acclaimed Apple TV+ series is making its long-awaited return. A second season was filmed over three years.",
+      "publishedAt": "2025-01-16T02:49:00Z",
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "nj.com"
       },
-      "title": "Trump Inauguration Performers: Kid Rock, Billy Ray Cyrus, Underwood, More - Deadline",
-      "url": "http://deadline.com/2025/01/donald-trump-inauguration-performers-1236258118/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/01/Kid-Rock-Billy-Ray-Cyrus-the-Village-People-and-Lee-Greenwood.jpg?w=1024"
-    },
-    {
-      "author": "STEPHANY MATAT",
-      "content": "WEST PALM BEACH, Fla. (AP) A woman who accused former UFC champion Conor McGregor of sexual assault but was unsuccessful in getting criminal charges filed is now suing him and employees of the basket\u2026 [+2157 chars]",
-      "description": "Former UFC champion Conor McGregor is being sued by a woman who accused him of sexual assault but was unable to get authorities to file charges in 2023. The lawsuit also accuses staff and security at the Kaseya Center of gross negligence. The center is the ar\u2026",
-      "publishedAt": "2025-01-15T23:09:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Conor McGregor is being sued for alleged sexual battery at 2023 NBA final - The Associated Press",
-      "url": "https://apnews.com/article/conor-mcgregor-miami-heat-kaseya-center-battery-cf695da769e097021dc66d689e95f6fb",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0e633cf/2147483647/strip/true/crop/2782x1565+0+145/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2Faa%2F4899424d0ce526663315eed390f1%2Fc186f70eb6744385a9acdfb5f9dee5a1"
-    },
-    {
-      "author": "Zack Sharf",
-      "content": "Timoth\u00e9e Chalamet\u2019s global press tour for \u201cA Complete Unknown\u201d went viral when he rode an electric Lime bike into the London premiere of the acclaimed Bob Dylan movie. But it turns out, Chalamet did \u2026 [+2058 chars]",
-      "description": "Timothee Chalamet rode an electric Lime bike to the London premiere of 'A Complete Unknown' and ended up with a $73 dollar fine.",
-      "publishedAt": "2025-01-15T21:52:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "Timoth\u00e9e Chalamet Got a $73 Fine After Riding a Bike to the \u2018A Complete Unknown\u2019 London Premiere to Beat Traffic; He Didn\u2019t Park It Properly - Variety",
-      "url": "https://variety.com/2025/film/news/timothee-chalamet-bike-fine-complete-unknown-london-premiere-1236275306/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/01/GettyImages-2193912346.jpg?w=1000&h=563&crop=1"
+      "title": "\u2018Severance\u2019 season 2 spent $24M filming in N.J., here are the locations - NJ.com",
+      "url": "https://www.nj.com/entertainment/2025/01/severance-season-2-spent-24m-filming-in-nj-here-are-the-locations.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/7YQVU6QISNGZZEY3YXJAU5HNDM.jpg?auth=e92349d46e21d48b1dd4922f4c562c48ec83d1791399801ed93da0149cab2468&width=1280&quality=90"
     }
   ],
   "status": "ok",
