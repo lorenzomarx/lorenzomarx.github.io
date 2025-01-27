@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Urooba Jamal",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsraeli soldiers open fire on displaced people waiting to return to the north in Gaza, kill toddler in occupied West Bank.",
+      "description": "Israeli soldiers open fire on displaced people waiting to return to northern Gaza, kill toddler in occupied West Bank.",
+      "publishedAt": "2025-01-26T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israel, Hamas trade blame as thousands wait to return to north Gaza",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/1/26/live-toddler-among-three-killed-by-israeli-fire-in-west-bank-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP25025534443813-1737874699.jpg?resize=1920%2C1440"
+    },
+    {
       "author": null,
       "content": "NewsFeed\r\nIsrael and Hamas completed their second swap under phase one of their ceasefire deal, exchanging 200 Palestinian prisoners for four female Israeli soldiers who had been held in Gaza.",
       "description": "Israel and Hamas completed their second swap, exchanging 200 Palestinian prisoners for four female Israeli soldiers.",
@@ -1286,21 +1299,8 @@
       "title": "As Trump turns to fossil fuels, Europe sprints ahead with renewables",
       "url": "https://www.aljazeera.com/news/2025/1/23/as-trump-turns-to-fossil-fuels-europe-sprints-ahead-with-renewables",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/2024-12-03T060556Z_1525114425_RC2X4BAWJXI7_RTRMADP_3_UKRAINE-CRISIS-POWER-1737636758.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nPalestinians returning to their destroyed homes in Gaza have begun to clean up the rubble in the hope of making liveable spaces, despite ongoing hardships.",
-      "description": "Palestinians returning to their destroyed homes in Gaza have begun to clean up the rubble.",
-      "publishedAt": "2025-01-23T13:26:47Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Palestinians clean up the rubble of their destroyed homes",
-      "url": "https://www.aljazeera.com/program/newsfeed/2025/1/23/palestinians-clean-up-the-rubble-of-their-destroyed-homes",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/image-1737638787.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1351
+  "totalResults": 1352
 }
