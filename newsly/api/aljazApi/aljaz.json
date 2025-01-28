@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "The CIA has announced that it believes the COVID-19 pandemic more likely originated from a laboratory leak than a natural event.\r\nThe CIAs low confidence assessment comes after John Ratcliffe was on \u2026 [+2590 chars]",
+      "description": "The intelligence agency says it has 'low confidence' in assessment and will continue to evaluate credible information.",
+      "publishedAt": "2025-01-27T04:10:02Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "CIA says \u2018more likely\u2019 COVID-19 escaped from a lab",
+      "url": "https://www.aljazeera.com/news/2025/1/27/cia-says-more-likely-covid-19-escaped-from-a-lab",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP25025721665205-1737946845.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Urooba Jamal",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nPalestinians in Gaza celebrate following a deal that allows displaced people to return to the north of the Strip.",
+      "description": "Palestinians in Gaza celebrate following a deal that allows displaced people to return to the north of the Strip.",
+      "publishedAt": "2025-01-27T00:00:26Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "LIVE: Israel lets Palestinians return to north Gaza for 1st time since war",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/1/27/live-israel-set-to-let-palestinians-return-to-north-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/2025-01-27T063200Z_1735913326_RC25ICAOYEE1_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-CEASEFIRE-1737959559.jpg?resize=1920%2C1440"
+    },
+    {
       "author": null,
       "content": "Israeli army blocks northern Gaza crossing points after prisoner-captive exchanges.Rare scenes of joy among Palestinians and Israelis after 15 months of genocide in Gaza.\r\nPrisoners are exchanged for\u2026 [+290 chars]",
       "description": "The Israeli army blocks northern Gaza crossing points after prisoner-captive exchanges.",
@@ -1273,34 +1299,8 @@
       "title": "Thousands flock to smell plant that reeks of dead rat, rotting rubbish",
       "url": "https://www.aljazeera.com/news/2025/1/24/thousands-flock-to-smell-plant-that-reeks-of-dead-rat-rotting-rubbish",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/2025-01-23T085801Z_2067183357_RC2KFCAZD60J_RTRMADP_3_AUSTRALIA-CORPSE-FLOWER-1737698217.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Ross Ulbricht, the dark-web marketplace founder pardoned by United States President Donald Trump, has spoken about his release from prison for the first time.\r\nUlbricht, 40, was sentenced to two life\u2026 [+2775 chars]",
-      "description": "Silk Road founder thanks US president for 'amazing blessing' in video message after his release from prison.",
-      "publishedAt": "2025-01-24T06:51:46Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Drug marketplace founder Ross Ulbricht makes first remarks on Trump pardon",
-      "url": "https://www.aljazeera.com/news/2025/1/24/drug-marketplace-founder-ross-ulbricht-makes-first-remarks-on-trump-pardon",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/2024-05-26T041132Z_1253750819_RC21Y7AY0WJR_RTRMADP_3_USA-ELECTION-TRUMP-1737698974_8fc68a-1737699678.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "At least two people have been killed in a Russian drone attack near Ukraines capital.\r\nMykola Kalashnyk, acting head of Kyivs regional military administration, said on Friday that the overnight attac\u2026 [+1792 chars]",
-      "description": "Ukraine also sends volley of drones into Russia, with air defences intercepting attacks on 13 regions, including Moscow.",
-      "publishedAt": "2025-01-24T06:38:51Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Two killed in Russian drone attack on Ukraine\u2019s Kyiv region",
-      "url": "https://www.aljazeera.com/news/2025/1/24/two-killed-in-russian-drone-attack-on-kyiv-region",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP25024231469666-1737701302.jpg?resize=1200%2C675"
     }
   ],
   "status": "ok",
-  "totalResults": 1386
+  "totalResults": 1340
 }

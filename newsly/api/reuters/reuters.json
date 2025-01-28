@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "author": "Phil Stewart, Oliver Griffin",
-      "description": "President Trump said he will slap tariffs on Colombian goods and sanctioned government officials and supporters, saying they threatened U.S. national security.",
-      "publishedAt": "2025-01-26T15:03:10Z",
-      "title": "Trump slaps retaliatory measures on Colombia after it turns away deportation flights",
-      "url": "https://www.reuters.com/world/americas/colombias-petro-will-not-allow-us-planes-return-migrants-2025-01-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/TRDNYCT6KRLXDC7ADEVY3NRDOI.jpg?auth=d16b31635d959ca24471daf425c957756b322e779736608048abccbdac3a97ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Nandita Bose, Kanishka Singh",
       "description": "A Hamas official reacted with suspicion to the remarks, echoing longstanding Palestinian fears about being driven permanently from their homes.",
       "publishedAt": "2025-01-26T02:28:44Z",
       "title": "Trump says Jordan, Egypt should take more Palestinians from Gaza",
       "url": "https://www.reuters.com/world/trump-says-jordan-egypt-should-take-more-palestinians-gaza-2025-01-26/",
       "urlToImage": "https://www.reuters.com/resizer/v2/IOUVDQMHZVJX3DDMGX2FXUYTY4.jpg?auth=5cb41069faf45aefeb44b0e3753b6acd0072c29e7857c03e043a3ae343c1f347&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Tens of thousands of Palestinians have waited for two days at roadblocks.",
+      "publishedAt": "2025-01-26T23:34:18Z",
+      "title": "Hamas to release Israeli hostage Yehud, two others before Friday, Israel to allow Gazans to return home north",
+      "url": "https://www.reuters.com/world/middle-east/hamas-release-israeli-hostage-yehud-two-others-before-friday-israel-allow-gazans-2025-01-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/Y373RJHFLZI67LI2POSXWICRTU.jpg?auth=88c5bf6e5eb0cc0b4d0a14f34593d5a66b0cdf0b647747aa0a7352d5e222e4f4&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Humeyra Pamuk, Maggie Michael, Lena Masri",
@@ -25,6 +25,14 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/THHDTYL5HBI47FSSGQG2XJWOQQ.jpg?auth=5907fd02fd9e548639e8b905822bbcd67ebdaf8a670428b55b5a89ddc8b1c28a&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Reuters",
+      "description": "Malawi and Uruguay said four of their troops were killed in clashes in eastern Democratic Republic of Congo against Rwandan-backed rebels, bringing the death toll among United Nations and southern African peacekeepers to at least 13 by Sunday.",
+      "publishedAt": "2025-01-26T10:19:48Z",
+      "title": "UN peacekeeper death toll in eastern Congo rises to six",
+      "url": "https://www.reuters.com/world/africa/un-peacekeeper-death-toll-eastern-congo-rises-six-2025-01-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/5N2HGXD5IBLAHANJKGNYE7LE7U.jpg?auth=902401d0c0f697cefd7e35cdf0c4e6f9c6b57cdb61d4ff949d93d56d4c080fa0&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Fatos Bytyci, Florion Goga",
       "description": "Ali Amini was just days from starting a new life in the United States when President Donald Trump halted aid for resettling Afghan refugees last week, a move that Amini worries could put his life in danger if forced to return home.",
       "publishedAt": "2025-01-26T13:21:43Z",
@@ -33,12 +41,20 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/KLM357KT7BLJLBPOMBIRIJYPXU.jpg?auth=e3ce863502d326cd5e21aa7cb09cdb28652f478e29088b59b01b7f35d8f2286b&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Jack Kim",
+      "description": "The investigation into the deadliest air disaster on the country's soil remains ongoing, focusing on the role of bird strike and involving an analysis of the engines and the \"localizer\" landing guidance structure.",
+      "publishedAt": "2025-01-26T23:17:57Z",
+      "title": "South Korea reports initial findings of Jeju Air crash",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-reports-initial-findings-jeju-air-crash-icao-us-thailand-2025-01-26/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/D5M2WPATVJPRJKAGAWMM4Y6EO4.jpg?auth=d80a809a40a47038633ba779743d2a3572ea9e594d6dfccf1db3fb620a6a6eae&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Reuters",
-      "description": "Malawi and Uruguay said four of their troops were killed in clashes in eastern Democratic Republic of Congo against Rwandan-backed rebels, bringing the death toll among United Nations and southern African peacekeepers to at least 13 by Sunday.",
-      "publishedAt": "2025-01-26T10:19:48Z",
-      "title": "UN peacekeeper death toll in eastern Congo rises to six",
-      "url": "https://www.reuters.com/world/africa/un-peacekeeper-death-toll-eastern-congo-rises-six-2025-01-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/5N2HGXD5IBLAHANJKGNYE7LE7U.jpg?auth=902401d0c0f697cefd7e35cdf0c4e6f9c6b57cdb61d4ff949d93d56d4c080fa0&height=1005&width=1920&quality=80&smart=true"
+      "description": "Police have detained a man suspected of involvement in the case of a Chinese actor who was duped into travelling to Thailand for a film job and then trafficked to Myanmar, China's Public Security Ministry said.",
+      "publishedAt": "2025-01-27T04:16:52Z",
+      "title": "China captures scam centre suspect with Thailand's help",
+      "url": "https://www.reuters.com/world/asia-pacific/china-captures-scam-centre-suspect-with-thailands-help-2025-01-27/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Mark Trevelyan",
@@ -50,35 +66,19 @@
     },
     {
       "author": "Reuters",
-      "description": "Israeli fire wounded five people in south Lebanon on Sunday, Lebanese media and security sources said, as residents sought to return to homes in the border area where Israeli forces remained on the ground after a deadline for their withdrawal passed.",
-      "publishedAt": "2025-01-26T07:01:34Z",
-      "title": "Israeli fire wounds five in south Lebanon as residents try to return, Lebanese media reports",
-      "url": "https://www.reuters.com/world/middle-east/israeli-fire-wounds-five-south-lebanon-residents-try-return-lebanese-media-2025-01-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "description": "President Volodymyr Zelenskiy on Sunday replaced for the third time in under a year the commander of a key Ukrainian military formation responsible for defending the eastern hub of Pokrovsk that's under increased risk of falling to Russian forces.",
+      "publishedAt": "2025-01-27T00:03:07Z",
+      "title": "Zelenskiy again replaces commander of Ukraine's key eastern front",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-again-replaces-commander-ukraines-key-eastern-front-2025-01-27/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DCENMMHZJ5MM7CATWYXYQ5ADEA.jpg?auth=21387ae20e40bf3c18a51e0f789b82f00d6ba50afe65ed1ab4af10fe5cc3631b&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Insurrection is one of the few criminal charges from which a South Korean president does not have immunity. It is punishable by life imprisonment or death, although South Korea has not executed anyone in decades.",
-      "publishedAt": "2025-01-26T10:04:07Z",
-      "title": "South Korea's prosecutors indict President Yoon for insurrection",
-      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-prosecutors-indict-president-yoon-insurrection-yonhap-reports-2025-01-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/LDTDUWRM3ZLMPPSXLDVCQDISFU.jpg?auth=f6828d8e8088931c276dd876a784d477f7cc4236331c1b0946a1896cd6416f7b&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Videos and photos of a church mass show Jos Leijdekkers sitting two rows behind President Julius Maada Bio.",
-      "publishedAt": "2025-01-26T17:46:58Z",
-      "title": "Sierra Leone says it is investigating reports that Dutch drug kingpin took refuge there",
-      "url": "https://www.reuters.com/world/africa/sierra-leone-says-investigating-reports-that-dutch-drug-kingpin-took-refuge-2025-01-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KTO5TKCF2JOTJG33ZJEPVQ5UDY.jpg?auth=4b0aab2c276cae63e0d3d35ddc5752aa4793afe7b9002e4d80f29187f64e8d91&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "British Prime Minister Keir Starmer spoke with U.S. President Donald Trump and has agreed to meet with him soon, the UK government said in a statement on Sunday.",
-      "publishedAt": "2025-01-26T19:56:32Z",
-      "title": "UK's Starmer agrees to meet with Trump soon",
-      "url": "https://www.reuters.com/world/uk/uks-starmer-agrees-meet-with-trump-soon-2025-01-26/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3ZN276QJEBKHZJB3JYCM63RDEY.jpg?auth=5a78ffd8bd9cb81ce30d5719534b018b38dc2b7a803d1613169f6217aea104b4&height=1005&width=1920&quality=80&smart=true"
+      "description": "The South American nation agreed to accept deported migrants from the United States, the White House press secretary said in a statement.",
+      "publishedAt": "2025-01-27T03:22:26Z",
+      "title": "US pauses Colombia tariffs, sanctions plan after agreement",
+      "url": "https://www.reuters.com/world/americas/us-pauses-colombia-tariffs-sanctions-plan-after-agreement-2025-01-27/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/XAJ4DPMJQVITJGQJFCMHOCKN7E.jpg?auth=1e1aaa60c539961d0d224172fd2763758958a1326ff68133d10ad52914e5e053&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
