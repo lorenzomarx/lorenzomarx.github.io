@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "author": "Sarah Marsh",
+      "description": "The far-right AfD likely will score its best ever result as Europe's ailing economic powerhouse lurches rightwards. The conservative CDU/CSU bloc is set to win, but will be unlikely to secure a majority.",
+      "publishedAt": "2025-02-22T23:07:22Z",
+      "title": "Gloomy Germans vote in election which conservatives are set to win",
+      "url": "https://www.reuters.com/world/europe/gloomy-germans-vote-election-which-conservatives-are-set-win-2025-02-22/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/73EZFFF6XNKEDHMDLL7MFNQPIY.jpg?auth=c41f18ed285c4264c6d508018d980f06db149b841ce9ffe48089df68cc5eec86&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Jason Lange, Bo Erickson",
       "description": "A notable portion of Trump's 2024 voters broke with some of the president's early actions and ideas, including the proposal to end birthright citizenship and moves to end diversity, equity, and inclusion initiatives.",
       "publishedAt": "2025-02-23T11:03:03Z",
@@ -9,12 +17,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/JGUPTBTLYNKZ7GYCJPKSZWX53M.jpg?auth=6147214a412fb816dca5f8fd92598d08d9f78ebeb2b1c27d8098f4e819a483a7&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Sarah Marsh",
-      "description": "The far-right AfD likely will score its best ever result as Europe's ailing economic powerhouse lurches rightwards. The conservative CDU/CSU bloc is set to win, but will be unlikely to secure a majority.",
-      "publishedAt": "2025-02-22T23:07:22Z",
-      "title": "Gloomy Germans vote in election which conservatives are set to win",
-      "url": "https://www.reuters.com/world/europe/gloomy-germans-vote-election-which-conservatives-are-set-win-2025-02-22/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/73EZFFF6XNKEDHMDLL7MFNQPIY.jpg?auth=c41f18ed285c4264c6d508018d980f06db149b841ce9ffe48089df68cc5eec86&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Pope Francis, who is battling double pneumonia in hospital, had a \"tranquil\" night and rested, the Vatican said on Sunday.",
+      "publishedAt": "2025-02-23T07:28:41Z",
+      "title": "Pope Francis had 'tranquil' night in hospital, Vatican says",
+      "url": "https://www.reuters.com/world/europe/pope-francis-had-tranquil-night-hospital-vatican-says-2025-02-23/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/WVWL6JLG3FPAROXPB6Z26CEUSY.jpg?auth=27b799b070c2863c9664d54cc903b8e56f988844081ec66d58e8cd5a79f958c2&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -50,35 +58,27 @@
     },
     {
       "author": "Reuters",
-      "description": "Hamas on Sunday condemned Israel's decision to postpone the release of Palestinian prisoners and detainees, saying its claim that the hostages' handover ceremonies are \"humiliating\" was false and a pretext to evade Israel's obligations under the Gaza ceasefire agreement.",
-      "publishedAt": "2025-02-23T07:49:01Z",
-      "title": "Hamas says Israel's claim on hostages' handover ceremony is pretext to evade its obligations",
-      "url": "https://www.reuters.com/world/middle-east/hamas-says-israels-claim-hostages-handover-ceremony-is-pretext-evade-its-2025-02-23/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XDL5MTHNINO4ZK3NYINOOMKQDY.jpg?auth=f012e13a57683bb33a3d7400e570e5a78e2d807a1d92181e6c49b8e1b2745017&height=1005&width=1920&quality=80&smart=true"
+      "description": "The White House said on Sunday that it supports Israel's decision to delay releasing 600 Palestinian prisoners, citing the \"barbaric treatment\" of Israeli hostages by Hamas.",
+      "publishedAt": "2025-02-23T22:30:00Z",
+      "title": "White House backs Israel's decision to delay releasing Palestinian prisoners",
+      "url": "https://www.reuters.com/world/middle-east/white-house-backs-israels-decision-delay-releasing-palestinian-prisoners-2025-02-23/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/CCLBFRJFEZNPXDJEWTWDSPO2MY.jpg?auth=8331110524c027fbdfe5d75ac1f2b934be28cc60e8f8eaec2dfa6fef8ceebd77&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Pope Francis, who is battling double pneumonia in hospital, had a \"tranquil\" night and rested, the Vatican said on Sunday.",
-      "publishedAt": "2025-02-23T07:28:41Z",
-      "title": "Pope Francis had 'tranquil' night in hospital, Vatican says",
-      "url": "https://www.reuters.com/world/europe/pope-francis-had-tranquil-night-hospital-vatican-says-2025-02-23/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/WVWL6JLG3FPAROXPB6Z26CEUSY.jpg?auth=27b799b070c2863c9664d54cc903b8e56f988844081ec66d58e8cd5a79f958c2&height=1005&width=1920&quality=80&smart=true"
+      "description": "Talks with Israel through mediators on further steps in a ceasefire agreement are conditional on Palestinian prisoners being released as agreed, Hamas official Basem Naim said on Sunday.",
+      "publishedAt": "2025-02-23T21:16:20Z",
+      "title": "Hamas says talks with Israel contingent on release of prisoners as agreed",
+      "url": "https://www.reuters.com/world/middle-east/hamas-refuses-further-talks-unless-israel-releases-agreed-prisoners-2025-02-23/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/E47F46UQCZPVFKB6XHPXISXQEE.jpg?auth=8b00f4f1554d3b4c36e96a2575c0d94a8f6e48fd9e8ba750f57ef84613fc504f&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Ukraine's President Volodymyr Zelenskiy said on Sunday he was willing to give up his position if it meant peace in Ukraine, quipping that he could exchange his departure for Ukraine's entry into NATO.",
-      "publishedAt": "2025-02-23T14:55:27Z",
-      "title": "Zelenskiy says he is willing to give up presidency if it means peace in Ukraine",
-      "url": "https://www.reuters.com/world/europe/zelenskiy-says-he-is-willing-give-up-presidency-if-it-means-peace-ukraine-2025-02-23/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JSCJR4CUUFPW5GZGTPC4CHMCFM.jpg?auth=a5624ed2db007e349a0f604ae53e2c2ad0e3d199215819f31a35d9e90a083eb9&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "British Prime Minister Keir Starmer said on Sunday that there can be no talks about the future of Ukraine without the participation of Ukraine, setting his stall out before a meeting with U.S. President Donald Trump this week.",
-      "publishedAt": "2025-02-23T12:20:09Z",
-      "title": "British PM Starmer says there can be no Ukraine talks without Ukraine's participation",
-      "url": "https://www.reuters.com/world/europe/british-pm-starmer-says-there-can-be-no-ukraine-talks-without-ukraines-2025-02-23/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/D7QMFYS7ZJPEHPYKHW2BXIAKVM.jpg?auth=1ed78bb1223ab47a7d7b364cfe346ba7947ca70e2f72693681dacf85853707dd&height=1005&width=1920&quality=80&smart=true"
+      "description": "Britain's Business and Trade Secretary Jonathan Reynolds and India's Commerce Minister Piyush Goyal will meet in New Delhi on Monday to restart talks on a UK-India trade deal, the British government said on Sunday.",
+      "publishedAt": "2025-02-23T22:38:01Z",
+      "title": "Britain and India to restart trade talks in New Delhi on Monday",
+      "url": "https://www.reuters.com/business/britain-india-restart-trade-talks-new-delhi-monday-2025-02-23/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/YLOYJBPS25KXBAGSA6NN2AYVAY.jpg?auth=3ce83585b6ccd0d7665a852651df511e3b61483a393c0a5b706aa536143bf836&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
