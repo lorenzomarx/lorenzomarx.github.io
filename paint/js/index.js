@@ -1,6 +1,7 @@
 var PenSize = 0;
 var canSize = 0;
 var img;
+var chico;
 var royal;
 var queen;
 var junglist;
@@ -53,6 +54,7 @@ function fontRead(){
 function preload(){
   img = loadImage("train.png");
   queen = loadImage("images/kemistry.png");
+  chico = loadImage("images/chicorelli.png");
   royal = loadImage("images/queen.png");
   hemi = loadImage("images/hemi.png");
   rua = loadImage("images/Rua_Kenana_Mihaia.png");
@@ -73,7 +75,7 @@ function preload(){
   sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
   mars  = loadFont('fonts/mars.otf',fontRead);
   backgrounds = [junglist]
-  stickers = [junglist]
+  stickers = [junglist,hemi,chico]
 }
 
 function setup() {
