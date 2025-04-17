@@ -258,7 +258,7 @@ function keyPressed() {
 
   }
   if (key === '6'){
-    fill(PenColour);
+    fill(r,g,b,opacity);
     strokeWeight(PenSize);
     beginShape();
       for (var i = 0; i <= totalPoints; i++) {
