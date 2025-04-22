@@ -2,51 +2,27 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "In an NHS survey, 48% of men said they felt pressure to \"tough it out\" when it came to potential health issues.",
+      "publishedAt": null,
+      "title": "Men's health: Why do men go to the GP less?",
+      "url": "https://www.bbc.co.uk/news/articles/cg5q14qm0l2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e73/live/7d50dc90-1e00-11f0-b265-abe347419ae3.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Scientists are investigating for the first time how dangerous the island's next big one could be.",
+      "publishedAt": null,
+      "title": "Santorini volcano probed for clues about next big explosion",
+      "url": "https://www.bbc.co.uk/news/articles/cm25lz56rezo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf92/live/283edf70-1588-11f0-b1b3-7358f8d35a35.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "A Supreme Court ruling that a woman is defined by biological sex continues to make the front pages on Monday.",
       "publishedAt": null,
       "title": "Newspaper headlines: PM 'must break silence' on ruling and the 'spy who bugged me'",
       "url": "https://www.bbc.co.uk/news/articles/c5yl9ndk124o",
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c91/live/541df460-1e33-11f0-80b3-83959215671c.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "The missions are part of the UK's contribution to Nato's enhanced air policing around eastern Poland.",
-      "publishedAt": null,
-      "title": "RAF Typhoon jets intercept Russian aircraft near Nato airspace in Poland",
-      "url": "https://www.bbc.co.uk/news/articles/cx2y515gzq7o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0865/live/2a81ffb0-1dee-11f0-bfbd-17d9584820f6.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The victim, 45, was declared dead at the scene, despite efforts of emergency services, police say.",
-      "publishedAt": null,
-      "title": "Enfield murder investigation launched after woman stabbed",
-      "url": "https://www.bbc.co.uk/news/articles/c77n30jpx27o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e3f6/live/33e12060-1e0f-11f0-a097-e72cbbc5fce1.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The husband of Suzanne Cherry says golf \"should have been the safest\" of her hobbies.",
-      "publishedAt": null,
-      "title": "Tributes paid to 'beautiful wife' after Little Aston golf club crash",
-      "url": "https://www.bbc.co.uk/news/articles/cz01ne5lyy2o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5b2/live/8c723c00-1ddd-11f0-b1b3-7358f8d35a35.png"
-    },
-    {
-      "author": "BBC News",
-      "description": "King Charles III and Queen Camilla are joined by other members of the Royal Family at the service in Windsor.",
-      "publishedAt": null,
-      "title": "King and Queen attend Easter Sunday church service",
-      "url": "https://www.bbc.co.uk/news/articles/ceqr1v51l9vo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1451/live/b53f2c10-1dce-11f0-80b3-83959215671c.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The postal giant will stop shipping packages to American consumers after a rise in red tape at customs.",
-      "publishedAt": null,
-      "title": "Trump tariffs: DHL suspends high value US deliveries",
-      "url": "https://www.bbc.co.uk/news/articles/c1jx9ep5l63o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53a5/live/e5ecf250-1dc1-11f0-9d94-85c1700070ea.jpg"
     },
     {
       "author": "BBC News",
@@ -58,27 +34,51 @@
     },
     {
       "author": "BBC News",
-      "description": "The tycoon and Donald Trump advisor has moved his businesses from California to a mostly rural central Texas county. What do the neighbours think?",
+      "description": "Beijing was responding to reports that the US will pressure other nations to restrict trade with China.",
       "publishedAt": null,
-      "title": "Inside Elon Musk's government-subsidised free-trade Texas HQ",
-      "url": "https://www.bbc.co.uk/news/articles/c9de28n71ldo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a04/live/a7546650-05d3-11f0-97d3-37df2b293ed1.jpg"
+      "title": "Trump tariffs: China slams nations trying to 'appease' US in trade deals",
+      "url": "https://www.bbc.co.uk/news/articles/cx2708dl9n1o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/beff/live/a8618e90-1e53-11f0-85cc-67568620b395.jpg"
     },
     {
       "author": "BBC News",
-      "description": "An inquiry into the incident by the Israel Defense Forces (IDF) found a series of failings.",
+      "description": "A customer's experience highlights issues dealing with cryptocurrency, where many regular banking safeguards do not apply.",
       "publishedAt": null,
-      "title": "'Operational misunderstanding' led to killing of Gaza medics, IDF inquiry says",
-      "url": "https://www.bbc.co.uk/news/articles/c24q6201d8yo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5602/live/c854cd50-1df1-11f0-8e7e-67cb0e6ea9ba.jpg"
+      "title": "Revolut: 'I was careful and followed instructions closely, but still lost my crypto'",
+      "url": "https://www.bbc.co.uk/news/articles/c93gydxj8n7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c41/live/4e282740-1c6e-11f0-8a1e-3ff815141b98.jpg"
     },
     {
       "author": "BBC News",
-      "description": "The child was snatched from a residential compound on a ranch next to Nairobi National Park, the Kenya Wildlife Service (KWS) said.",
+      "description": "The wrestler broke the record for most title wins by beating Cody Rhodes at WrestleMania.",
       "publishedAt": null,
-      "title": "Girl, 14, killed by lion in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/cd6jxl4pl03o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a36/live/edba33f0-1dd8-11f0-80b3-83959215671c.jpg"
+      "title": "John Cena becomes most decorated WWE wrestler in history",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7gyv0d14o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3267/live/a870fe40-1e5b-11f0-aef8-0367504f989b.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Mortgage experts share their tips for anyone starting out on the journey to owning their own home.",
+      "publishedAt": null,
+      "title": "Mortgages: Five ways for first-time buyers to get on the housing ladder",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7n9441r5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b027/live/2de88440-1b72-11f0-b015-f17d4d024f76.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The Prison Officers' Association will demand staff are given stun guns in the most dangerous jails during a meeting with the justice secretary.",
+      "publishedAt": null,
+      "title": "Prison staff to demand electric stun guns in dangerous jails",
+      "url": "https://www.bbc.co.uk/news/articles/cde2xy2gw4ro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30ac/live/9f46cd40-1e5b-11f0-b1b3-7358f8d35a35.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Departures from Gatwick Airport were an average of more than 23 minutes behind schedule in 2024.",
+      "publishedAt": null,
+      "title": "Gatwick Airport worst in UK for flight delays for second year",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9rze9k9no",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/639e/live/e5cf11a0-1de3-11f0-b43f-4b6e45a79ad8.jpg"
     }
   ],
   "sortBy": "top",
