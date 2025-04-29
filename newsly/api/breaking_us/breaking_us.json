@@ -1,240 +1,201 @@
 {
   "articles": [
     {
-      "author": "Will Lynch",
-      "content": "The album has the same under-the-hood quality that makes Manuels genre-hopping DJ sets work: a pace and energy thats bold but gentle, a sense of narrative thats unpredictable but intuitive. Each song\u2026 [+3505 chars]",
-      "description": "Read Will Lynch\u2019s review of the album.",
-      "publishedAt": "2025-04-28T04:02:00Z",
+      "author": "Emily Guskin, Scott Clement",
+      "content": "Americans are increasingly critical of Elon Musks role in the Trump administration, with a Washington Post-ABC News-Ipsos poll finding negative reactions to some cuts made by his U.S. DOGE Service an\u2026 [+2759 chars]",
+      "description": "A Washington Post-ABC News-Ipsos poll finding negative reactions to some cuts made by Musks\u2019s U.S. DOGE service.",
+      "publishedAt": "2025-04-28T11:32:19Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Public sours on Musk\u2019s role, is skeptical that government is cutting waste - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/04/28/elon-musk-approval-poll/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B2IKQEB4KVVIOESVC2YAFERIPE_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "Jon Gambrell",
+      "content": "DUBAI, United Arab Emirates (AP) Yemens Houthi rebels on Monday alleged a U.S. airstrike hit a prison holding African migrants, killing at least 68 people and wounding 47 others. The U.S. military di\u2026 [+6200 chars]",
+      "description": "Yemen\u2019s Houthi rebels say an alleged U.S. airstrike that hit a prison holding African migrants killed at least 68 people. That\u2019s according to the Houthis\u2019 Civil Defense organization on Monday, which said 47 others were wounded. There was no immediate independ\u2026",
+      "publishedAt": "2025-04-28T11:29:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Houthi rebels say alleged US airstrike that hit Yemen prison holding African migrants kills 68 - AP News",
+      "url": "https://apnews.com/article/yemen-houthis-rebels-us-airstrikes-israel-hamas-gaza-287d8e969bc33fbe34d33bba32f4ad80",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cb4da0c/2147483647/strip/true/crop/1200x675+0+59/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2F3e%2F24b447739d4dc847ce185d31fd14%2F2019fecef2e74f339b016cbb3cf80f01"
+    },
+    {
+      "author": "Laura Millan, Macarena Munoz Montijano, Thomas Gualtieri, Daniel Basteiro",
+      "content": "Most of Spain and all of Portugal were hit by a major blackout that impacted public transport, airports and phone service, leaving authorities scrambling to find the causes for one of the worst outag\u2026 [+278 chars]",
+      "description": "Most of Spain and all of Portugal were hit by a major blackout that impacted public transport, airports and phone service, leaving authorities scrambling to find the causes for one of the worst outages in Europe in years.",
+      "publishedAt": "2025-04-28T11:02:10Z",
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "title": "Spain and Portugal Hit by Widespread Power Blackouts - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-28/most-of-spain-hit-by-electricity-outage-for-unknown-reason",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixWPMSB2cGGw/v0/1200x782.jpg"
+    },
+    {
+      "author": "Dan Goodin",
+      "content": null,
+      "description": "New ChoiceJacking attack allows malicious chargers to steal data from phones.",
+      "publishedAt": "2025-04-28T11:00:59Z",
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "title": "iOS and Android juice jacking defenses have been trivial to bypass for years - Ars Technica",
+      "url": "https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/scary-usb-juice-jacking-whooooo-1152x648.jpg"
+    },
+    {
+      "author": "Helen Regan, Michael Rios, Darya Tarasova, Tim Lister",
+      "content": "Russias President Vladimir Putin has for the first time acknowledged that North Korean soldiers took part in the fighting to recover Russian territory after Ukraines incursion into the Kursk region l\u2026 [+6008 chars]",
+      "description": "Russia\u2019s President Vladimir Putin has for the first time acknowledged that North Korean soldiers took part in the fighting to recover Russian territory after Ukraine\u2019s incursion into the Kursk region last year.",
+      "publishedAt": "2025-04-28T10:54:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Putin thanks North Korea for help in Kursk, as Germany criticizes US plan for Ukrainian concessions - CNN",
+      "url": "https://www.cnn.com/2025/04/28/europe/ukraine-crimea-peace-plan-north-korea-russia-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25105543425918.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Pia Singh",
+      "content": "Stock futures nudged lower Monday morning ahead of a packed week for earnings and economic data.\r\nFutures tied to the Dow Jones Industrial Average fell 59 points. S&amp;P 500 futures and Nasdaq 100 f\u2026 [+1817 chars]",
+      "description": "Investors are looking to the busiest period of the first-quarter earnings season, which will see more than 180 S&P 500 companies set to report results.",
+      "publishedAt": "2025-04-28T10:39:00Z",
       "source": {
         "id": null,
-        "name": "Pitchfork"
+        "name": "CNBC"
       },
-      "title": "Djrum: Under Tangled Silence Album Review - Pitchfork",
-      "url": "https://pitchfork.com/reviews/albums/djrum-under-tangled-silence/",
-      "urlToImage": "https://media.pitchfork.com/photos/67bf3c704bd52fc5a5a2c834/16:9/w_1280,c_limit/HTH180-DJRUM-PACKSHOT-FINAL_3000%20x%203000.jpg"
+      "title": "Stock futures are slightly negative as investors brace for a busy earnings week: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/04/27/stock-futures-slip-ahead-of-busy-earnings-week-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108134792-1745332059129-gettyimages-2211439541-mms18316_cd0p3xp9.jpeg?v=1745790915&w=1920&h=1080"
     },
     {
-      "author": "The Washington Post",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-04-28T03:18:33Z",
+      "author": "Mario Parker",
+      "content": "Voter discontent with President Donald Trumps economic stewardship is sinking his popularity as he approaches the symbolic 100-day mark of his second term, ratcheting up pressure on congressional Rep\u2026 [+360 chars]",
+      "description": "Voter discontent with President Donald Trump\u2019s economic stewardship is sinking his popularity as he approaches the symbolic 100-day mark of his second term, ratcheting up pressure on congressional Republicans to pass his tax plan.",
+      "publishedAt": "2025-04-28T10:38:13Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "title": "Trump officials deny U.S. citizen children were \u2018deported\u2019 to Honduras - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazRvWTd6Z2ktel94VFBEM05Fa2otVXNsZFZpckg3dFBUd0NfUFM1NC1rNmlQV2hqVjRnYTdsOF9NaGxhVFRvTEFQeXQwLW4yTG81dWVUYXQ4NGxfVWNfRGt0dDU2MkN2Njk0dGhjT2Yxa1dMRXp3T0VzbWQ2Q2NFRnJwQWN3cnZGRmlNVU9EWHBlWlQ1?oc=5",
-      "urlToImage": null
+      "title": "Trump\u2019s Polls Decline Near 100-Day Mark, Raising Tax-Plan Stakes - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-27/trump-s-polls-decline-near-100-day-mark-raising-tax-plan-stakes",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPUuf1uGK5pU/v1/1200x800.jpg"
     },
     {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-04-28T02:34:08Z",
+      "author": "Naftali Bendavid",
+      "content": "Since Franklin D. Roosevelts earthshaking first 100 days in office, no president has matched the sheer drama and disruption of that 15-week sprint in 1933, which rewrote the relationship between Amer\u2026 [+10338 chars]",
+      "description": "Roosevelt\u2019s opening act yielded major new laws, while Trump governs largely by executive orders that can be swiftly challenged in court.",
+      "publishedAt": "2025-04-28T10:31:31Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "title": "With Trump-Zelensky Meeting, Ukrainians See a Glimmer of Hope - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXFiSVhCY2pVMkx3NVd3S0J2WVVpY3lvZjZwX2tDY1dWZFFIb1dtZldyUng0MzVqSU1PZ1RnZ0cxMGg4RkdiSFZRZGJ4eFBmaEt4bzd0UUE1cnRoTnpyRU45NU1xWC1ZOU5VYUs2LW9jMm5NU1RZcmNScVlFMW1yQ0pyZnhTcjNy?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Jamal Collier",
-      "content": "Milwaukee Bucks star Damian Lillard exited in the first quarter of Sunday night's 129-103 Game 4 loss to the Indiana Pacers because of a left lower leg injury.\r\nThe preliminary examination of Lillard\u2026 [+1479 chars]",
-      "description": "\"It's not very promising,\" Bucks coach Doc Rivers said after Damian Lillard was helped off Sunday.",
-      "publishedAt": "2025-04-28T02:31:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "Report: Possible Achilles injury for Bucks' Lillard - ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/44893873/bucks-damian-lillard-exits-vs-pacers-lower-leg-injury",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0428%2Fr1485069_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Natasha Korecki",
-      "content": "MANCHESTER, N.H. Illinois Gov. JB Pritzker took a stage commanded by past presidential hopefuls Sunday and implored Democrats to forcefully resist the Trump administration while panning leaders in hi\u2026 [+4450 chars]",
-      "description": "MANCHESTER, N.H. \u2014 Illinois Gov. JB Pritzker took a stage commanded by past presidential hopefuls Sunday and implored Democrats to forcefully resist the Trump administration while panning leaders in his own party for having acted too timid for too long.",
-      "publishedAt": "2025-04-28T02:23:00Z",
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "title": "JB Pritzker implores Democrats to fight Trump as the potential 2028 candidate visits New Hampshire - NBC News",
-      "url": "https://www.nbcnews.com/politics/2028-election/jb-pritzker-implores-democrats-fight-trump-new-hampshire-rcna203229",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250427-jb-pritzker-wm-426p-0d9ffa.jpg"
+      "title": "Trump claims mantle of FDR\u2019s first 100 days, but differences are stark - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/04/28/trump-fdr-100-days/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V4H7PFUHQEI6THLT4K5GXPY3TM.jpg&w=1440"
     },
     {
       "author": null,
-      "content": "NASA\u2019s Curiosity rover appears as a dark speck in this contrast-enhanced view captured on February 28, 2025, by the HiRISE camera aboard NASA\u2019s Mars Reconnaissance Orbiter. Trailing Curiosity are the\u2026 [+4160 chars]",
-      "description": "NASA\u2019s Curiosity rover just made history with its first-ever mid-drive photo snapped from orbit, captured by the HiRISE camera aboard the Mars Reconnaissance Orbiter. The image shows Curiosity trucking across the Martian surface, leaving a dramatic trail of t\u2026",
-      "publishedAt": "2025-04-28T02:05:42Z",
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "title": "What Left This Long, Winding Trail Across Mars? NASA\u2019s Orbiter Has the Answer - SciTechDaily",
-      "url": "https://scitechdaily.com/?p=472487",
-      "urlToImage": "https://scitechdaily.com/images/NASA-Curiosity-Rover-Mars-Trail.jpg"
-    },
-    {
-      "author": "Chip Scoggins, Chip Scoggins",
-      "content": "JJ Redick employed a fifth-grade AAU basketball strategy Sunday. The one where a coach picks his five best players and only plays them, hoping to win a B bracket championship. \r\nExcept Redick unveile\u2026 [+993 chars]",
-      "description": "The coach couldn\u2019t trust his thin bench. The players he left out there said they weren\u2019t tired, but getting outscored 32-19 in the fourth quarter says they were.",
-      "publishedAt": "2025-04-28T02:04:29Z",
-      "source": {
-        "id": null,
-        "name": "Minneapolis Star Tribune"
-      },
-      "title": "Scoggins: JJ Redick\u2019s no-sub second half for Lakers against Timberwolves looked desperate, appears damaging - Star Tribune",
-      "url": "https://www.startribune.com/minnesota-timberwolves-los-angeles-lakers-nba-playoffs-game-5-jj-redick-no-substitutes/601335021",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/YHKE2Z6RPJHHNOI7WI2GS6MBVQ.jpg?&w=1200&ar=1.91:1&fit=crop"
-    },
-    {
-      "author": null,
-      "content": "Bernd Debusmann Jr\r\nEleven people were killed after a suspected car ramming attack in the Canadian city of Vancouver on Saturday. \r\nThe incident, which took place at the annual Lapu Lapu festival cel\u2026 [+3857 chars]",
-      "description": "A resident of the city has been charged with murder and work to identify victims is ongoing.",
-      "publishedAt": "2025-04-28T01:40:15Z",
+      "content": "Canadians are heading to the polls to decide on their next government at a pivotal moment in their relations with the US.\r\nThe country faces a huge economic challenge in the shape of Trump tariffs on\u2026 [+7485 chars]",
+      "description": "Assassinations, spies and taxes... as Canadians head to the polls, several other countries are closely watching.",
+      "publishedAt": "2025-04-28T10:02:19Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "What we know about the Vancouver car ramming attack - BBC",
-      "url": "https://www.bbc.com/news/articles/cvgnz7n7zj4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d63f/live/4f4c4070-23b7-11f0-8c2e-77498b1ce297.jpg"
+      "title": "What the world makes of Canada's election - BBC",
+      "url": "https://www.bbc.com/news/articles/c62gryz170vo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05dd/live/7dcc0b10-2416-11f0-9060-674316cb3a1f.jpg"
     },
     {
-      "author": "wtsp.com",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-04-28T01:38:00Z",
+      "author": "Illia Novikov",
+      "content": "KYIV, Ukraine (AP) Russias President Vladimir Putin on Monday declared a three-day ceasefire in Ukraine on May 8-10 to mark the World War II Victory Day, as U.S. President Donald Trumps administratio\u2026 [+6223 chars]",
+      "description": "The Kremlin has declared a full ceasefire in Ukraine on May 8-10 as Russia celebrates Victory Day over Nazi Germany. Russian President Vladimir Putin has ordered the full cessation of hostilities on \u201chumanitarian grounds\u201d to mark the day on May 9, the Kremlin\u2026",
+      "publishedAt": "2025-04-28T09:53:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "title": "Multiple injuries reported after boat crash near Memorial Causeway Bridge in Clearwater, police say - wtsp.com",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTjl0MXZ4SGNTYnpPajdYNlVhS1V1MGk5SWVsazZ4bjBuTS13eVh2R1BEeF9OeWt5SFM1WERtbmFFa2ZJT2UxSWQyQzVnbVRndm41aUM4eWtOeFNHUGk2eUlQb0VGcmhGQklOcmpPWGNwN0FSMjBFRU5oMEE4dmRPNDNEVlJObE1VNDJIbHdtMWZkTTd2LWY0dkJNT0FGUXpuaHFaWnk0UXFQRXdzZjlTZWJtb0RVenpwS2IzXzJ1SUZSZkRYMC1WSlJ0dDBWbGZTb0t6eDN6VHNLY1lvZlBnbHFOR1UzcUI5YWIxTE91YTF4VE9jSk42MjJtX3VscjRiZ3l4dExwMFpjMUU2VWRJbHRqRkhsREZw?oc=5",
-      "urlToImage": null
+      "title": "Russia and Ukraine trade long-range strikes as peace talks enter \u2018very critical\u2019 week - AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-peace-trump-844dc8747a63ef6921f0b1f0e3348ccd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/33920e1/2147483647/strip/true/crop/2000x1125+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F13%2F2ecfaeea393986a29a68344ebb1e%2F1249dd5e1d18441b9fc19cdc815222ae"
     },
     {
-      "author": "Deadline",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-04-28T01:33:00Z",
+      "author": "Sahil Kapur",
+      "content": "WASHINGTON Congress returns from recess on Monday for a four-week dash to Memorial Day, during which Republican leaders hope to resolve critical questions about their sweeping bill to pass President \u2026 [+7134 chars]",
+      "description": "There are major unresolved questions over Medicaid spending, tax cuts and clean energy rollbacks as Republican lawmakers begin crafting the legislation.",
+      "publishedAt": "2025-04-28T09:00:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "title": "OutKast, Cyndi Lauper, The White Stripes & More Among 2025 Rock & Roll Hall Of Fame Inductees - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYllYcjJCMHpfbElRRkx2OWQwREFkNzl6eENlZEhubXlMRjVYaEx6ak1fOGlCWUFNeDdmZkdlWFY3enVUclhrRWQ5aEo4ZjNjdjlrMTZneEw3azh1TWhBSUJYVDV4OXRZaVVMVkFSOF95VWw5SmZ1R3ZFZVZGbDFTQVY3TXdiRlFnN3FhRTE5QmxqcDlkV3FpRHplZ3VER1E?oc=5",
-      "urlToImage": null
+      "title": "5 policy issues Republicans are clashing over in a massive bill for Trump's agenda - NBC News",
+      "url": "https://www.nbcnews.com/politics/congress/5-policy-issues-republicans-are-clashing-massive-bill-trumps-agenda-rcna202364",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250425-mike-johnson-ew-437p-806fab.jpg"
     },
     {
-      "author": "Reuters",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-04-28T01:13:00Z",
+      "author": "Juliana Kaplan, Reed Alexander, Dakin Campbell",
+      "content": "The Social Security Administration faces a delicate moment. Its future teeters between a career bureaucrat and a former Citigroup and JPMorgan Chase executive who may bring order or further tumult.\r\n\u2026 [+11380 chars]",
+      "description": "Acting commissioner Leland Dudek helms the nearly 60,000-person federal agency. Frank Bisignano, a former JPMorgan Chase and Citigroup executive, waits in the wings.",
+      "publishedAt": "2025-04-28T09:00:00Z",
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "title": "Japan's Nintendo fans test Switch 2 ahead of launch amid tariff worries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05xamdrX3NqRGtCMXZoQloydUhPNG1YcW5KTDF2N084MVhOelFIX2V5Yy15YVpNVjROd0d6cFRER0FVRkJrYmdGQmhfWmlIeDBXNFk5alVydVkwV1ZfaDZJazAzOFpjWlVkVHJiSzJvaDhweU5SVG1GMU43M0ZHWnB5X3NSMTNIVnNvaEFtZTJFYVI5Sy1WeVpSa1pONno4aW44aDFrMmxFZjlDYmZiU1lB?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-04-28T00:58:35Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "D.E.A. Says More Than 100 Undocumented Immigrants Were Detained in a Colorado Raid - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXhxbjZSbXlxcHd2U2w2NUZoRDVBdG5XX3V4YkNJb3doeW5GSGR6MjVHZG95SEdEOEt2bUZFNTlVOGlLeGVVTFlCdk9oYWdoZVpKeHZNWDFGUDkwNFNLNGpxcUxjWGh0eGl6TktMSF9SVnNGdE95ZWQ1Zm5FSWs2bHJhd1dIMmc?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Corinne Heller",
-      "content": "Originally appeared on E! Online\r\nMore details about Gene Hackman's health have been revealed, two months after his death.\r\nA final autopsy released by the Office of the Medical Investigator in New M\u2026 [+14164 chars]",
-      "description": "New details about Gene Hackman's health have been revealed in a final autopsy released two months after his death at age 95. The actor was found dead at his ...",
-      "publishedAt": "2025-04-28T00:25:00Z",
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "title": "Gene Hackman's Final Autopsy Reveals New Health Details - Yahoo",
-      "url": "https://www.eonline.com/news/1416718/gene-hackman-s-final-autopsy-reveals-new-health-details?cmpid=sn-syndicate-aolfeed-us-",
-      "urlToImage": "https://media.zenfs.com/en/e__181/a1549e38020fea774ceed78568e26007"
-    },
-    {
-      "author": "Douglas Belkin, Emily Glazer, Juliet Chung",
-      "content": "Leaders of some of the nations most prestigious universities have assembled a private collective to counter the \r\nTrump administrations attacks on research funding and academic independence across hi\u2026 [+484 chars]",
-      "description": "Separate from the public dissent, a group of school leaders are strategizing behind the scenes about how to respond and push back against the White House",
-      "publishedAt": "2025-04-27T23:46:00Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "Exclusive | Elite Universities Form Private Collective to Resist Trump Administration - WSJ",
-      "url": "https://www.wsj.com/us-news/education/elite-universities-form-private-collective-to-resist-trump-administration-95a14ff3",
-      "urlToImage": "https://images.wsj.net/im-38377088/social"
-    },
-    {
-      "author": "Forex Factory",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-04-27T23:05:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Japan top currency diplomat Mimura: Media report that US Treasury Sec Bessent said stronger yen preferable \"completely untrue\" - Forex Factory",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGRMU1NWOXM2Mnhxbk1RUzU5bnVWYXZudWpibU9VOTE0LUVJMWxuNXZ5MkhZc0toa2JlTGsxM1NpTzY1T2hxemRnOW1FclRrazlqQXE1MzVKVkZWUEpyNTBDM05lM2sybGY2M25OT1pqUXVqejNvYXg3WWtNdVA2T25BS0xKMjFueTJRamlORkhoN2FNRl94aWtR0gGfAUFVX3lxTE1iRHVNQ0tyUjBvb2g3cHJzSEtseEU3OU5KU2FKQ1FRYlB3clpNXzdTS2RQLWJLVXdXX0twcTBNQnY1RUU3dGVuN285RlVoLXB3TGxSNXE5U1Jzc2g3WDRuellZaEZ6Vi04ckxWbUo5SnZtOGFOcVZvVzQ1QlRZOU8xN0ZWd3gzVFZNbThwYW1IUHN3dDBkYlN4LWo2MDVpUQ?oc=5",
-      "urlToImage": null
+      "title": "The future of America's biggest safety net is in the hands of a career bureaucrat and a hard-charging finance titan - Business Insider",
+      "url": "https://www.businessinsider.com/social-security-administration-leland-dudek-frank-bisignano-transition-2024-4",
+      "urlToImage": "https://i.insider.com/6807c3b73fe8d3928363b64d?width=1200&format=jpeg"
     },
     {
       "author": null,
-      "content": "Editor's note: Tony Grossi is a Cleveland Browns analyst for TheLandOnDemand.com and 850 ESPN Cleveland. He has covered the Browns since 1984.\r\nWhat exactly is the Browns plan at quarterback?\r\nI thou\u2026 [+7057 chars]",
-      "description": "",
-      "publishedAt": "2025-04-27T22:54:47Z",
+      "content": "Hidden for eons, Eos\u2014a vast hydrogen cloud near Earth\u2014has been revealed through ultraviolet light, potentially revolutionizing how scientists explore the birthplaces of stars. Credit: Thomas M\u00fcller (\u2026 [+8192 chars]",
+      "description": "Scientists have uncovered a colossal, previously hidden hydrogen cloud, named Eos, just 300 light-years from Earth \u2014 the closest such discovery ever. Detected by its faint ultraviolet glow, Eos offers an unprecedented opportunity to study how stars are born. \u2026",
+      "publishedAt": "2025-04-28T08:59:19Z",
       "source": {
         "id": null,
-        "name": "Thelandondemand.com"
+        "name": "SciTechDaily"
       },
-      "title": "Browns QB plan skidded off the rails with selection of Shedeur Sanders - TheLandOnDemand.com",
-      "url": "https://thelandondemand.com/news/2025/apr/27/browns-qb-plan-skidded-off-the-tracks-with-selection-of-shedeur-sanders/",
-      "urlToImage": "https://goodkarma.media.clients.ellingtoncms.com/img/croppedphotos/2025/04/27/berryandstefanski4-27-25_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+      "title": "Breakthrough Discovery: A Massive Glowing Hydrogen Cloud Found Near Our Solar System - SciTechDaily",
+      "url": "https://scitechdaily.com/breakthrough-discovery-a-massive-glowing-hydrogen-cloud-found-near-our-solar-system/",
+      "urlToImage": "https://scitechdaily.com/images/Eos-Molecular-Hydrogen-Cloud.jpg"
     },
     {
-      "author": "Lauren Gardner, Daniel Lippman",
-      "content": "Spicer, who purchased a six-month supply of a compounded version of Lillys drug before Ivim Health stopped selling it, is touting those products through a modern conservative lens emphasizing both th\u2026 [+2415 chars]",
-      "description": "President Donald Trump is under pressure to decide how widely available anti-obesity drugs should be and whether Medicare should cover them.",
-      "publishedAt": "2025-04-27T22:25:44Z",
+      "author": "Vanessa Gera",
+      "content": "VATICAN CITY (AP) Exit tourists. Enter cardinals.\r\nThe Vatican has closed the Sistine Chapel, where cardinals will gather for the conclave to elect the next pope after the death of Pope Francis on Ap\u2026 [+3139 chars]",
+      "description": "The Vatican is closing the Sistine Chapel to the public as part of its preparations for the conclave to elect the next pope after the death of Pope Francis. The date for the conclave has not yet been set, but it can only begin after a nine-day period of mourn\u2026",
+      "publishedAt": "2025-04-28T07:07:00Z",
       "source": {
-        "id": "politico",
-        "name": "Politico"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "title": "Weight-loss craze sparks a DC lobbying bonanza - Politico",
-      "url": "https://www.politico.com/news/2025/04/27/weight-loss-lobbying-trump-00303817",
-      "urlToImage": "https://static.politico.com/1a/26/65e46c854517b7ed3036787de74d/main-lippman-weightlossdrugs-illustration.jpg"
+      "title": "The Vatican closes the Sistine Chapel to the public and prepares for a papal conclave - AP News",
+      "url": "https://apnews.com/article/vatican-sistine-chapel-conclave-27a32119a225f7aff20cfe3619124b75",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cce4ea5/2147483647/strip/true/crop/2040x1148+0+93/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2F66%2F697c97dc004adeb6d3e16e694409%2F9ae7d857afd742c1a744dec16178b458"
     },
     {
-      "author": "Bilal Kuchay",
-      "content": "PULWAMA, India Indian authorities have detained at least 1,500 people in India-administered Kashmir after a militant attack killed 26 people last week, a top police officer told NPR. Several homes li\u2026 [+4747 chars]",
-      "description": "Indian authorities have detained at least 1,500 people in India-administered Kashmir after a militant attack killed 26 people this past week, a top police officer told NPR.",
-      "publishedAt": "2025-04-27T22:23:20Z",
+      "author": "Mike Wall",
+      "content": "SpaceX launched a milestone mission on Sunday night (April 27).\r\nA Falcon 9 rocket carrying 23 of the company's Starlink broadband satellites \u2014 including 13 with direct-to-cell capability \u2014 lifted of\u2026 [+2085 chars]",
+      "description": "Liftoff occurred at 10:09 p.m. ET on Sunday (April 27).",
+      "publishedAt": "2025-04-28T05:51:45Z",
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Space.com"
       },
-      "title": "Homes destroyed and 1,500 detained in Kashmir as India cracks down following attacks - NPR",
-      "url": "https://www.npr.org/2025/04/27/nx-s1-5378630/india-kashmir-pakistan-crackdown-homes-destroyed",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6224x3501+0+683/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F2c%2F61ed568747ce9c12c02df79dc9b0%2Fpeople-stand-near-the-razed-house-of-kashmiri-militant-ahsan-ul-haq-sheikhs-family-house-in-murran-area-of-pulwama-district-on-april-26-2025.JPG"
+      "title": "SpaceX launches 250th Starlink satellite mission, lands rocket at sea (video, photos) - Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-250th-starlink-satellite-mission-lands-rocket-at-sea-photos",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6U68fUY8LSW5KvJnQhX6GC.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 37
+  "totalResults": 36
 }
