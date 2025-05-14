@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "author": "Reuters",
-      "description": "The de minimis exemption, for items valued at up to $800 and sent from China via postal services, were previously able to enter the United States duty free and with minimal inspections.",
-      "publishedAt": "2025-05-13T05:15:44Z",
-      "title": "US to cut 'de minimis' tariff on China shipments, bolsters broader trade truce",
-      "url": "https://www.reuters.com/world/china/us-cut-de-minimis-tariff-china-shipments-54-120-2025-05-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JHERL47CK5KWNKVC4LJXLC7DWU.jpg?auth=88496dc6063599c62a93ba9476f2c5892b0b3bc407169ebb76b8f21b18e2c73b&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Gram Slattery, Pesha Magid",
       "description": "U.S. President Donald Trump will arrive in Saudi Arabia on Tuesday morning to kick off a four-day swing through the Gulf region, a trip that will focus more on economic deals than on the security crises besetting the region, from the war in Gaza to the threat of escalation over Iran's nuclear program.",
       "publishedAt": "2025-05-13T04:04:23Z",
@@ -26,59 +18,67 @@
     },
     {
       "author": "Reuters",
-      "description": "The responsibility of tackling the fentanyl issue in the United States lies within the U.S. itself, China's foreign ministry said on Tuesday, rejecting the punitive tariffs Washington imposed on Beijing for not stemming the inflow.",
-      "publishedAt": "2025-05-13T06:32:51Z",
-      "title": "China says fentanyl issue is responsibility of the United States",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-says-fentanyl-issue-is-responsibility-united-states-2025-05-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/DBUSM4FTANI3LPPEYOATAHOTBE.jpg?auth=eada23f09704583feccd31982f0d8e9a329a0e8a6392190b36dc5c9fc912566d&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Jihoon Lee",
-      "description": "Asia-Pacific trade envoys will gather this week in South Korea for discussions on multilateral cooperation, with talks taking place at a time when countries are scrambling to respond to U.S. President Donald Trump's sweeping tariffs.",
-      "publishedAt": "2025-05-13T07:03:14Z",
-      "title": "Asia Pacific trade envoys to discuss multilateral cooperation in tariff era",
-      "url": "https://www.reuters.com/world/china/asia-pacific-trade-envoys-discuss-multilateral-cooperation-tariff-era-2025-05-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/G3ZY5JPRDRIUVDX3MHNCM6DUKI.jpg?auth=f5bc2fc4a83d189cc3329684d627811dd34c31368e65b0be6f5525af67fa5c35&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Andrew Chung",
-      "description": "One of President Donald Trump's most contentious policies - his attempt to restrict automatic birthright citizenship - arrives at the U.S. Supreme Court this week with an unusual twist: The justices may focus on something else entirely.",
-      "publishedAt": "2025-05-13T10:10:38Z",
-      "title": "In birthright citizenship case, US Supreme Court gets two controversies in one",
-      "url": "https://www.reuters.com/world/us/birthright-citizenship-case-us-supreme-court-gets-two-controversies-one-2025-05-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/VK64G3WWGBOOPC4BLLRCKTQ3RI.jpg?auth=b21a2936c022f3e26d344a72e7eb54a6b899cea19bbdcd330a9bc3d0b2775def&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Andrew Goudsward",
-      "description": "The arrest of a Wisconsin state court judge for allegedly helping a migrant evade U.S. authorities marks another salvo in a long-brewing debate about the presence of immigration agents in local courthouses.",
-      "publishedAt": "2025-05-13T10:08:39Z",
-      "title": "Trump administration's arrest of judge stirs debate over immigration courthouse arrests",
-      "url": "https://www.reuters.com/world/us/trump-administrations-arrest-judge-stirs-debate-over-immigration-courthouse-2025-05-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/IXPS4I4YUFOGDIDV5T3VZLTI64.jpg?auth=44a0e4bd550b203707d318971bc4e0b05f2a04366a89c7b9bdc77e1e2ecb58c6&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Kirsty Needham",
-      "description": "Australian Prime Minister Anthony Albanese was sworn in for a second term on Tuesday, alongside his ministers, after a landslide win at a national election he said had returned the largest centre-left Labor government since federation in 1901.",
-      "publishedAt": "2025-05-13T01:03:19Z",
-      "title": "Australia's Albanese Labor government sworn in for second term",
-      "url": "https://www.reuters.com/world/asia-pacific/australias-albanese-labor-government-sworn-second-term-2025-05-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KGWCTEDFSVPJNIYX3S6EJ722RI.jpg?auth=9c5800a7ebc015e74abe50460f9b5ad5f6f4fb7781451141269b76ebcb8a1c95&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Eduardo Baptista, Joe Cash, Liz Lee",
-      "description": "President Xi Jinping vowed on Tuesday to boost China's footprint in Latin America and the Caribbean with a new $9 billion credit line and fresh infrastructure investment, although Brazil warned the region not to become overly reliant on foreign funding.",
-      "publishedAt": "2025-05-13T03:00:44Z",
-      "title": "China offers Latin America and the Caribbean billions in bid to rival US influence",
-      "url": "https://www.reuters.com/world/china-latin-america-trade-exceeded-500-billion-2024-2025-05-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/HL66JG7FGROMHJRQLAH6W3IJLE.jpg?auth=8bd9e52ad082afdf99ff78a8594b39fa8d1ce5abcf8113292c596713dcbcd805&height=1005&width=1920&quality=80&smart=true"
+      "description": "U.S. President Donald Trump said on Tuesday he would order the lifting of sanctions on Syria at the behest of Saudi Arabia's crown prince, in a huge boost for interim Syrian President Ahmed al-Sharaa as he seeks to stabilise a country shattered by war.",
+      "publishedAt": "2025-05-13T16:26:43Z",
+      "title": "Trump says he will remove US sanctions on Syria",
+      "url": "https://www.reuters.com/world/trump-says-will-remove-us-sanctions-syria-2025-05-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/Y6VL6A3ISJNQNP5FZ7RKJ6YPX4.jpg?auth=632f80e6703d73b4897046f1207e37d5023fd235fff3f628158db96f78468908&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Romania's hard-right nationalist George Simion and centrist Bucharest mayor Nicusor Dan are neck-and-neck ahead of a May 18 presidential run-off that could have far-reaching consequences for the European Union, an opinion poll suggested on Tuesday.",
-      "publishedAt": "2025-05-13T11:33:40Z",
-      "title": "Poll shows Romanian hard-right and centrist candidates tied ahead of run-off",
-      "url": "https://www.reuters.com/world/europe/poll-shows-romanian-hard-right-centrist-candidates-tied-ahead-run-off-2025-05-13/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FGJECB5CHZJPZCYFAHUSZEBJIY.jpg?auth=7c6733ac5e69141323a9045457c8c5acf4795b8694da9dd2f568f7f1c0239459&height=1005&width=1920&quality=80&smart=true"
+      "description": "The de minimis exemption, for items valued at up to $800 and sent from China via postal services, were previously able to enter the United States duty free and with minimal inspections.",
+      "publishedAt": "2025-05-13T05:15:44Z",
+      "title": "US to cut 'de minimis' tariff on China shipments, bolsters broader trade truce",
+      "url": "https://www.reuters.com/world/china/us-cut-de-minimis-tariff-china-shipments-54-120-2025-05-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JHERL47CK5KWNKVC4LJXLC7DWU.jpg?auth=88496dc6063599c62a93ba9476f2c5892b0b3bc407169ebb76b8f21b18e2c73b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Promit Mukherjee, David Ljunggren",
+      "description": "Canadian Prime Minister Mark Carney, who won an election last month promising to stand up to U.S. President Donald Trump, unveiled a new cabinet on Tuesday that he said would help define a new relationship with the United States.",
+      "publishedAt": "2025-05-13T15:15:37Z",
+      "title": "Carney unveils cabinet aimed at resetting US-Canada ties",
+      "url": "https://www.reuters.com/world/americas/carney-unveils-cabinet-aimed-resetting-us-canada-ties-2025-05-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/W462477LNBM3LHRINXDFNICGLM.jpg?auth=ade2acc1532e6dd7bdbb460dca455beb9b24923e0066d6c1bc6ba3cf87bada57&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi, Hatem Khaled",
+      "description": "An Israeli airstrike on the Gaza Strip on Tuesday killed a well-known Palestinian journalist who it accused of working with Hamas and was recovering in hospital from an earlier strike, the territory's health ministry said.",
+      "publishedAt": "2025-05-13T12:47:08Z",
+      "title": "Israeli strike on Gaza hospital kills wounded journalist",
+      "url": "https://www.reuters.com/world/middle-east/israeli-strike-gaza-hospital-kills-wounded-journalist-2025-05-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/YEEUGK5JRFKEVKJD4IVNC5IA6Q.jpg?auth=2110717b8f163c12d39eac5cc431f92262ff51d1362dcc6e3a79531c50e4f258&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Daren Butler, Jonathan Spicer",
+      "description": "Turkey is embarking on a hazardous path to ensure the Kurdistan Workers Party (PKK) militant group implements its decision to disband after 40 years of conflict, facing obstacles that need to be overcome in neighbouring Iraq and Syria.",
+      "publishedAt": "2025-05-13T13:21:26Z",
+      "title": "Turkey and PKK face a tricky path determining how militants will disband",
+      "url": "https://www.reuters.com/world/middle-east/turkey-pkk-face-tricky-path-determining-how-militants-will-disband-2025-05-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/NI7V5Q7YCZK3DBNJM4LN2T65RY.jpg?auth=9e4962f2091afe201028376b7232998f2b96a4847f1724980112ddd55282b13c&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Juliette Jabkhiro, Lucien Libert",
+      "description": "Reality TV star Kim Kardashian told a court in Paris of her shock and fear as she thought she would be raped and killed during a 2016 heist in which she was robbed at gunpoint in her hotel room by a gang who stole jewels worth millions.",
+      "publishedAt": "2025-05-13T07:21:22Z",
+      "title": "Kim Kardashian tells Paris court she thought she was 'going to die' in 2016 jewel heist",
+      "url": "https://www.reuters.com/world/europe/kim-kardashian-testify-paris-robbery-trial-2025-05-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/HUZAPDNY7JLLXGUL546K3HPAQA.jpg?auth=4ccd6dffd055379a61e2f3bf7a93f22bb7d9f3c9fc651aeb79cb32e5f6aa3683&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Asif Shahzad, Gibran Peshimam, Shivam Patel",
+      "description": "Pakistan said that it remains committed to the truce with India, agreed after four days of intense military fighting last week, but vowed to respond to any future aggression by New Delhi with full resolve.",
+      "publishedAt": "2025-05-13T08:38:17Z",
+      "title": "Pakistan says committed to truce with India, vows to respond to aggression",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-says-clashes-with-neighbour-india-killed-more-than-50-2025-05-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/U54NSOCO3ZI23A7RU557JUUYE4.jpg?auth=cd60f23d32b27f4c2020bf9d64072fe8c60ec00d5f371c50f4e68aa7c8a780b5&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Erin Banco, Gram Slattery, Humeyra Pamuk",
+      "description": "U.S. President Donald Trump's senior envoys Steve Witkoff and Keith Kellogg will travel to Istanbul for potential talks on Thursday on how to end Russia's war in Ukraine, three sources familiar with the plans said.",
+      "publishedAt": "2025-05-13T12:13:01Z",
+      "title": "Exclusive: Trump envoys Witkoff and Kellogg to go to Turkey for Russia-Ukraine talks, sources say",
+      "url": "https://www.reuters.com/world/trump-envoys-witkoff-kellogg-travel-turkey-russia-ukraine-talks-sources-say-2025-05-13/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LYHSSBHXVNPIHLL3K5GGOQCAO4.jpg?auth=bf6eff8ac9d6783295c05e40d2798c544896ba9b094b428669a2fb79fe507533&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
