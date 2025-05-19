@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Al Jazeera",
+      "content": "A Mexican Navy sailing ship has crashed into the Brooklyn Bridge in New York City, injuring at least 19 people, including four who are in critical condition, according to officials.\r\nThe incident too\u2026 [+2296 chars]",
+      "description": "New York City Mayor Eric Adams says 19 people were injured in the collision, four of them seriously.",
+      "publishedAt": "2025-05-18T04:24:40Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Mexican Navy ship crashes into New York\u2019s Brooklyn Bridge, 19 injured",
+      "url": "https://www.aljazeera.com/news/2025/5/18/mexican-navy-ship-crashes-into-brooklyn-bridge-in-new-york-nineteen-injured",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25138107915796-1747540890.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Ted Regencia",
       "content": "blinking-dot\r\nLive updatesLive updates, \r\nIsrael mobilises for a new ground assault on Gaza, even as it resumes ceasefire talks with Hamas in Qatar.",
       "description": "Israel mobilises for a new ground assault on Gaza, even as it resumes ceasefire talks with Hamas in Qatar.",
@@ -1286,21 +1299,8 @@
       "title": "Bruce Springsteen rails against Trump during UK concert",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/5/15/bruce-springsteen-rails-against-trump-during-uk-concert",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1747327959.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nUS President Donald Trump, who promised to end Americas foreign military campaigns, has paid a visit to US troops stationed in Qatar. Trump praised the USs deadly arsenal, hit out at his pr\u2026 [+32 chars]",
-      "description": "US President Donald Trump paid a visit to US troops stationed in Qatar.",
-      "publishedAt": "2025-05-15T16:53:20Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Trump addresses troops at US\u2019s largest Middle East military base",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/5/15/trump-addresses-troops-at-uss-largest-middle-east-military-base",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25135364892834_cropped-1747327790.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1474
+  "totalResults": 1420
 }
