@@ -1,6 +1,292 @@
 {
   "articles": [
     {
+      "author": null,
+      "content": "NewsFeed\r\nChaos erupted in Rafah as thousands of desperate Palestinians swarmed a new aid distribution site, set up by the controversial US- and Israeli-backed Gaza Humanitarian Foundation. Live ammu\u2026 [+45 chars]",
+      "description": "Chaos erupted in Rafah as thousands of desperate Palestinians swarmed a new aid distribution site.",
+      "publishedAt": "2025-05-27T17:40:55Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Chaos erupts as Palestinians rush to aid site after months of blockade",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/5/27/chaos-erupts-as-palestinians-rush-to-aid-site-after-months-of-blockade",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748367609.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Israeli forces have raided money exchanges across the occupied West Bank, using live fire and tear gas as they stormed the city of Nablus, killing at least one Palestinian and wounding more than 30.\r\u2026 [+3491 chars]",
+      "description": "Palestinian groups slam the raids targeting exchanges in several cities in a widespread operation in the territory.",
+      "publishedAt": "2025-05-27T16:38:38Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Israeli forces raid foreign exchange shops in occupied West Bank; one dead",
+      "url": "https://www.aljazeera.com/news/2025/5/27/israeli-forces-raid-foreign-exchange-shops-in-occupied-west-bank-one-dead",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AFP__20250527__489Y8YA__v5__Preview__TopshotPalestinianIsraelConflict-1748358382.jpg?resize=1200%2C630"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "National Public Radio (NPR) and three of its local stations have filed a lawsuit against United States President Donald Trump, arguing that an executive order aimed at cutting federal funding for the\u2026 [+2949 chars]",
+      "description": "The lawsuit alleges the Trump administration's move to cut funding to public media violates the US's First Amendment.",
+      "publishedAt": "2025-05-27T16:21:17Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "NPR sues Trump administration for cutting US federal funding",
+      "url": "https://www.aljazeera.com/economy/2025/5/27/npr-sues-trump-administration-for-cutting-us-federal-funding",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP16231010326327-1748358764.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "The United States Supreme Court has declined to weigh a bid from a Native American advocacy group to block the construction of a large copper mine on land that many Apache people consider sacred.\r\nTh\u2026 [+3640 chars]",
+      "description": "High court declines to hear bid to block a project that an Apache Indigenous group says would destroy a religious site.",
+      "publishedAt": "2025-05-27T16:11:23Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "US Supreme Court rejects Native American case against large copper project",
+      "url": "https://www.aljazeera.com/news/2025/5/27/us-supreme-court-rejects-native-american-case-against-large-copper-project",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25147495855706-1748357611.jpg?resize=1200%2C675"
+    },
+    {
+      "author": "Lorraine Mallinder",
+      "content": "A recent report by The Associated Press that exposed the Israeli militarys systematic use of Palestinians as human shields has shone a light on an illegal practice that has become commonplace over th\u2026 [+8646 chars]",
+      "description": "Army under pressure to provide answers amid growing evidence that orders to use Palestinians as 'fodder' come from top.",
+      "publishedAt": "2025-05-27T15:50:42Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "How common is Israel\u2019s use of human shields in Gaza and the West Bank?",
+      "url": "https://www.aljazeera.com/news/2025/5/27/how-has-israel-responded-to-claims-that-it-used-human-shields-in-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25139689186210-1748094167.jpg?resize=1200%2C675"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "The Trump Media and Technology Group will raise about $2.5bn to invest in Bitcoin, United States President Donald Trumps social media firm says, as it looks to diversify its revenue streams with a pu\u2026 [+2549 chars]",
+      "description": "Trump Media says the money will be used to create a 'Bitcoin treasury'.",
+      "publishedAt": "2025-05-27T15:47:14Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Trump Media to raise $2.5bn to invest in Bitcoin",
+      "url": "https://www.aljazeera.com/economy/2025/5/27/trump-media-to-raise-2-5bn-to-invest-in-bitcoin",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20240806__2163284377__v3__HighRes__PoliticalFiguresSpeakAtBitcoinConferenceInNa-1734432386.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera Staff",
+      "content": "US President Donald Trump has backed away for now from imposing steep levies on the European Union, two days after he threatened the bloc with 50 percent tariffs.\r\nOn Sunday, Trump agreed to extend h\u2026 [+5835 chars]",
+      "description": "Trump\u2019s U-turn sees European leaders call for \u2018lowest possible\u2019 tariffs after levies postponed from June 1 to July 9.",
+      "publishedAt": "2025-05-27T15:11:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Why are the US and EU struggling to reach a trade deal?",
+      "url": "https://www.aljazeera.com/news/2025/5/27/why-are-the-us-and-eu-struggling-to-reach-a-trade",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-14T142120Z_1068423708_RC2UZDAUHN5D_RTRMADP_3_USA-TRUMP-TARIFFS-EU-1748094608.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": null,
+      "content": "NewsFeed\r\nMultiple football fans were injured in a car ramming incident during Liverpool FCs Premier League victory parade on Monday. The UKs prime minister described the scenes as utter horror. The \u2026 [+89 chars]",
+      "description": "Multiple football fans were injured in a car ramming incident during Liverpool FC\u2019s Premier League victory parade.",
+      "publishedAt": "2025-05-27T15:08:41Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Liverpool car ramming casts \u2018dark shadow\u2019 over victory parade",
+      "url": "https://www.aljazeera.com/program/newsfeed/2025/5/27/liverpool-car-ramming-casts-dark-shadow-over-victory-parade",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/CMS-1748358507.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "author": "Usaid Siddiqui",
+      "content": "Germanys newly elected chancellor, Friedrich Merz, has announced that Ukraines Western allies are lifting range restrictions on the weapons they have been supplying to Kyiv.\r\nSpeaking at a local poli\u2026 [+6378 chars]",
+      "description": "German leader Merz confirms Kyiv can now target Russian military positions with long-range weapons from Western allies.",
+      "publishedAt": "2025-05-27T15:08:38Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "US, Europe lift \u2018range restrictions\u2019 on Ukraine missiles: Why it matters",
+      "url": "https://www.aljazeera.com/news/2025/5/27/us-europe-lift-range-restrictions-on-ukraine-missiles-why-it-matters",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-03-05T153341Z_21695053_RC2QF6A0WF0N_RTRMADP_3_UKRAINE-CRISIS-GERMANY-TAURUS-1727249894.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": null,
+      "content": "NewsFeed\r\nGerman Chancellor Friedrich Merz criticised Israels recent military actions in Gaza, saying the scale of civilian harm can no longer be justified as a fight against Hamas. While reaffirming\u2026 [+138 chars]",
+      "description": "Friedrich Merz criticised Israel's actions in Gaza, saying the scale of civilian harm can no longer be justified.",
+      "publishedAt": "2025-05-27T15:01:38Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Merz: Israeli army\u2019s actions no longer justifiable in fight against Hamas",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/5/27/merz-israeli-armys-actions-no-longer-justifiable-in-fight-against-hamas",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748358076.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "author": "Kevin Hand",
+      "content": "Cristiano Ronaldo has hinted that he will quit his club team Al Nassr, possibly ending his association with the lucrative Saudi Pro League.\r\nThe 40-year-old Portugal striker announced only hours afte\u2026 [+7634 chars]",
+      "description": "If Cristiano Ronaldo does exit Al Nassr, could he play with Miami's Lionel Messi or another team at FIFA Club World Cup?",
+      "publishedAt": "2025-05-27T14:54:57Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Ronaldo set to leave Al Nassr: What\u2019s next, can he play in Club World Cup?",
+      "url": "https://www.aljazeera.com/sports/2025/5/27/ronaldo-set-to-leave-al-nassr-whats-next-can-he-play-in-club-world-cup",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/GettyImages-2213939595-1748338481_903d14-1748354546.jpg?resize=1200%2C630&quality=80"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "At least five people have been killed and 19 injured in a huge chemical plant explosion in eastern China, according to state media reports.\r\nSix people were still missing following the explosion at t\u2026 [+2469 chars]",
+      "description": "More than 200 emergency workers respond to blast and blaze in Weifang in Shandong province, China state media report.",
+      "publishedAt": "2025-05-27T14:15:54Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "At least five reported killed in large explosion at China chemical plant",
+      "url": "https://www.aljazeera.com/news/2025/5/27/at-least-five-reported-killed-in-large-explosion-at-china-chemical-plant",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-27T112036Z_1464822466_RC2AQEAO5ONB_RTRMADP_3_CHINA-BLAST-1748351144.jpg?resize=1200%2C675"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "King Charles III and Queen Camilla are on their first official visit to Canada since Charles became the British monarch in 2022.\r\nThe two-day trip, though brief, carries symbolic weight at a time whe\u2026 [+4920 chars]",
+      "description": "The brief trip carries symbolic weight and reinforces Canada\u2019s historical ties to the monarchy, amid threats from Trump.",
+      "publishedAt": "2025-05-27T13:55:48Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Charles III to give \u2018Speech from the Throne\u2019 in Canada: What to know",
+      "url": "https://www.aljazeera.com/news/2025/5/27/charles-iii-to-give-speech-from-the-throne-in-canada-what-to-know",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-26T183446Z_586427038_RC2UPEAVHC3A_RTRMADP_3_BRITAIN-ROYALS-CANADA-1748300440.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "British far-right figurehead Tommy Robinson has been freed from prison\u00a0after winning his plea for early release.\r\nThe anti-Islam campaigner, whose real name is Stephen Yaxley-Lennon, walked out of HM\u2026 [+2364 chars]",
+      "description": "Robinson, real name Stephen Yaxley-Lennon, was originally scheduled for release in late July.",
+      "publishedAt": "2025-05-27T13:42:58Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Far-right figure Tommy Robinson released early from UK prison",
+      "url": "https://www.aljazeera.com/news/2025/5/27/far-right-figure-tommy-robinson-released-early-from-uk-prison",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/000_34PY9TY-1748350990.jpg?resize=1200%2C675"
+    },
+    {
+      "author": "Simon English",
+      "content": "London, United Kingdom British Prime Minister Keir Starmer has proudly described a new deal with the European Union spanning defence, security, and trade as a win-win pact that puts the nation back o\u2026 [+4235 chars]",
+      "description": "Polls suggest most Britons want closer ties with the EU, but some believe the new deal violates Brexit's mandate.",
+      "publishedAt": "2025-05-27T13:28:07Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "\u2018Betrayal\u2019 or \u2018win-win\u2019?: Britain\u2019s EU deal reopens old wounds",
+      "url": "https://www.aljazeera.com/news/2025/5/27/betrayal-or-win-win-britains-eu-deal-reopens-old-wounds",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25142536258790-1748348415.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "Russia and Ukraine have launched a wave of drone attacks against each other overnight, even as Moscow claimed it was finalising a peace proposal to end the war.\r\nUkrainian air force officials said on\u2026 [+5989 chars]",
+      "description": "Tit-for-tat drone attacks as Russia blames Ukraine and Europe for efforts to disrupt diplomacy.",
+      "publishedAt": "2025-05-27T13:04:30Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Drone war, ground offensive continue despite new Russia-Ukraine peace push",
+      "url": "https://www.aljazeera.com/news/2025/5/27/drone-war-ground-offensive-continue-despite-new-russia-ukraine-peace-push",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/000_484M6NQ-1748345045.jpg?resize=1200%2C675"
+    },
+    {
+      "author": null,
+      "content": "NewsFeed\r\nThe Gaza Humanitarian Foundation says it has started sending limited aid into Gaza, after Israels three-month siege. But humanitarian groups have condemned the new process, as politicised a\u2026 [+42 chars]",
+      "description": "The Gaza Humanitarian Foundation says it has started sending limited aid into Gaza, after Israel\u2019s three-month siege.",
+      "publishedAt": "2025-05-27T13:04:10Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Humanitarian groups slam Gaza\u2019s new US-Israeli aid operation",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/5/27/humanitarian-groups-slam-gazas-new-us-israeli-aid-operation",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748351014.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "author": null,
+      "content": "NewsFeed\r\nWard al-Sheikh Khalil, a young Palestinian girl, spoke to Al Jazeera after surviving an Israeli airstrike on a school-turned-shelter in Gaza city. Video showed her walking among the flames \u2026 [+102 chars]",
+      "description": "Ward al-Sheikh Khalil spoke to Al Jazeera after surviving an Israeli airstrike on a school-turned-shelter in Gaza city.",
+      "publishedAt": "2025-05-27T13:03:05Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Girl tells Al Jazeera how she escaped school inferno",
+      "url": "https://www.aljazeera.com/program/newsfeed/2025/5/27/girl-tells-al-jazeera-how-she-escaped-school-inferno",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748350968.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "author": null,
+      "content": "NewsFeed\r\nAhmed is a 16-year-old gymnast who lost both his legs in an Israeli attack on Gaza. His mother hopes to send him abroad for prosthetic limbs so he can once again practice the sport he loves.",
+      "description": "Ahmed is a 16-year-old gymnast who lost both his legs in an Israeli attack on Gaza.",
+      "publishedAt": "2025-05-27T12:54:27Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Teenage Gaza gymnast who lost both legs dreams of walking again",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/5/27/teenage-gaza-gymnast-who-lost-both-legs-dreams-of-walking-again",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748350380.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "author": "Tigere Chagutah",
+      "content": "In 2015, as a civil war was raging in South Sudan, the United Nations Security Council imposed the first set of sanctions on the country, including asset freezes and travel bans on various senior off\u2026 [+4125 chars]",
+      "description": "Free access to weapons would only spur the ongoing violence in the country.",
+      "publishedAt": "2025-05-27T12:47:15Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "UN Security Council must renew the arms embargo on South Sudan",
+      "url": "https://www.aljazeera.com/opinions/2025/5/27/un-security-council-must-renew-the-arms-embargo-on-south-sudan",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-03T144635Z_1048075223_RC2EAEACYDFD_RTRMADP_3_SOUTHSUDAN-ATTACK-1746283721.jpg?resize=1200%2C630"
+    },
+    {
+      "author": "Al Jazeera",
+      "content": "A controversial aid group engaged by Israel and backed by the United States says it has started operations in southern Gaza as the Israeli military continues its attacks across the enclave with the s\u2026 [+5385 chars]",
+      "description": "The United Nations slams GHF plan as \u2018distraction\u2019 amid global condemnation, as death toll in enclave surpasses 54,000.",
+      "publishedAt": "2025-05-27T12:33:20Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "US-Israel scheme dispenses Gaza aid as UN says 180,000 displaced in 10 days",
+      "url": "https://www.aljazeera.com/news/2025/5/27/us-backed-group-distributes-aid-in-gaza-amid-worsening-displacement",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-27T015934Z_1029437407_RC2MPEAPJUK7_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-AID-1748331468.jpg?resize=1920%2C1440"
+    },
+    {
+      "author": null,
+      "content": "DigiDocs\r\nThis documentary short explores the life and times of the filmmakers Palestinian grandparents, Naim Azar and Wadeea Aghabi , and the consequences they suffered in Jaffa because of the Nakba\u2026 [+337 chars]",
+      "description": "This documentary explores the life of the filmmaker\u2019s Palestinian grandparents through the Nakba.",
+      "publishedAt": "2025-05-27T12:25:50Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Naim and Wadee\u2019a",
+      "url": "https://www.aljazeera.com/program/digidocs/2025/5/27/aje-onl-digidocs-naim-wadeea-270525",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748348680.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "author": "Al Jazeera",
       "content": "A 55-year-old Nepali man has broken his own world record for climbing Mount Everest, summiting Earths highest mountain for the 31st time.\r\nKami Rita, a Sherpa climbing guide known as Everest Man, rea\u2026 [+1832 chars]",
       "description": "Kami Rita, a 55-year-old Sherpa known as \u201cEverest Man\u201d, first climbed the world\u2019s highest mountain in 1994.",
@@ -1013,294 +1299,8 @@
       "title": "How desperate is Iran for a deal with the US?",
       "url": "https://www.aljazeera.com/program/the-bottom-line/2025/5/25/how-desperate-is-iran-for-a-deal-with-the-us",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748184886.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Voters in Suriname, which is on the cusp of a much anticipated oil boom, have begun to elect a new parliament, which will subsequently choose the next president of the smallest nation in South Americ\u2026 [+2879 chars]",
-      "description": "The Gran Morgu project may transform Suriname\u2019s economy, rivalling oil-rich neighbour Guyana by 2028, officials predict.",
-      "publishedAt": "2025-05-25T14:33:23Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Oil riches are on the horizon as Suriname chooses its next government",
-      "url": "https://www.aljazeera.com/news/2025/5/25/oil-riches-are-on-the-horizon-as-suriname-chooses-its-next-government",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-25T131817Z_1527445698_RC2VOEANLNJS_RTRMADP_3_SURINAME-ELECTION-1748180719.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": null,
-      "content": "Talk to Al Jazeera: In the Field\r\nIn the worlds largest refugee camp, Rohingya artists use art to preserve a culture Myanmar has long tried to silence.\r\nRead moreIn Coxs Bazar, the worlds largest ref\u2026 [+479 chars]",
-      "description": "In the world\u2019s largest refugee camp, Rohingya artists use art to preserve a culture Myanmar has long tried to silence.",
-      "publishedAt": "2025-05-25T13:38:39Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Rohingya: The art of survival",
-      "url": "https://www.aljazeera.com/program/in-the-field/2025/5/25/rohingya-the-art-of-survival",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748180032.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nA small group of Israeli protesters in Tel Aviv held up photos of Palestinian children killed by Israels attacks on Gaza, as they demand their government end its war.",
-      "description": "A small group of Israeli protesters in Tel Aviv held up photos of Palestinian children killed by Israel's military.",
-      "publishedAt": "2025-05-25T13:00:52Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Video: Israeli protesters condemn killing of Palestinian children",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/5/25/video-israeli-protesters-condemn-killing-of-palestinian-children",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748177888.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nAn Israeli air strike on the home of pediatrician Dr Alaa al-Najjar killed nine of her 10 children in Khan Younis, while she was at work in Gazas Nasser Hospital. Her husband and only survi\u2026 [+36 chars]",
-      "description": "An Israeli air strike on the home of pediatrician Dr Alaa al-Najjar killed nine of her 10 children in Khan Younis.",
-      "publishedAt": "2025-05-25T12:49:15Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Gaza doctor Alaa al-Najjar loses nine of her 10 children in Israeli attack",
-      "url": "https://www.aljazeera.com/program/newsfeed/2025/5/25/gaza-doctor-alaa-al-najjar-loses-nine-of-her-10-children-in-israeli-attack",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748177341.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nIranian director Jafar Panahis film, It Was Just an Accident, has been awarded the Palme dOr at the Cannes Film Festival. The dissident has endured years of travel bans and prison terms in \u2026 [+79 chars]",
-      "description": "Iranian director Jafar Panahi\u2019s film, It Was Just an Accident, has been awarded the Palme d\u2019Or at the Cannes Film",
-      "publishedAt": "2025-05-25T12:39:49Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Iranian dissident Jafar Panahi wins top prize at Cannes Film Festival",
-      "url": "https://www.aljazeera.com/program/newsfeed/2025/5/25/iranian-dissident-jafar-panahi-wins-top-prize-at-cannes-film-festival",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748176511.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": "Sumaya Mohammed",
-      "content": "On April 27, my brother-in-law, Samer, was killed in Deir el-Balah in central Gaza when his vegetable stall was bombed. He wasnt armed. He wasnt a political figure. He was a peaceful man trying to ea\u2026 [+6289 chars]",
-      "description": "In its campaign of starvation, Israel is targeting all links of the food supply chain.",
-      "publishedAt": "2025-05-25T12:22:27Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "In Gaza, selling or serving food can get you killed",
-      "url": "https://www.aljazeera.com/opinions/2025/5/25/in-gaza-selling-or-serving-food-can-get-you-killed",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25127538235799-1748172685.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Five years ago on May 25, 2020, a white police officer in the United States killed George Floyd, a 46-year-old Black man, during an arrest.\r\nA bystanders video showed officer Derek Chauvin kneeling o\u2026 [+7753 chars]",
-      "description": "Five years after Floyd\u2019s killing, false claims of overdose fuel calls for Trump to pardon the police officers involved.",
-      "publishedAt": "2025-05-25T11:58:35Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Five years after George Floyd\u2019s death, why misinformation still persists",
-      "url": "https://www.aljazeera.com/news/2025/5/25/five-years-after-george-floyds-death-why-misinformation-still-persists",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2022-05-26T042139Z_1076406960_RC2KEU9UJYE0_RTRMADP_3_USA-RACE-GEORGE-FLOYD.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Bulls are yoked together by thick wooden frames in a sun-scorched field in rural Pakistan. Behind them, clutching nothing more than ropes and his pride stands a man perched on a plank.\r\nHundreds of s\u2026 [+1801 chars]",
-      "description": "In Attock district of Punjab province, bull racing in a popular sport, drawing participants from across the country.",
-      "publishedAt": "2025-05-25T11:50:37Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "In rural Pakistan, bull racing draws crowd in cricket-loving nation",
-      "url": "https://www.aljazeera.com/gallery/2025/5/25/pakistans-punjab-tradition-and-pride-on-display-in-bull-racing",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25140567370281-1748156191.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": null,
-      "content": "Quotable\r\nDr Mads Gilbert, a physician at University Hospital of North Norway, discusses the Israeli air strike that killed nine of Dr Alaa al-Najjars 10 children in the Gaza Strip.",
-      "description": "Dr Mads Gilbert, a physician at University Hospital of North Norway, discusses the Israeli air strike that killed nine c",
-      "publishedAt": "2025-05-25T10:56:55Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Killing of Gaza doctor\u2019s family an \u201coutrageous crime\u201d",
-      "url": "https://www.aljazeera.com/program/quotable/2025/5/25/aje-onl-qt-mads-gilbert-250525",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/16X9_GILBERT-1748170435.png?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "From the scorching heatwave in Pakistan to mass displacements caused by escalating gang violence in Haiti, here is a look at the week in photos.",
-      "description": "A roundup of some of last week\u2019s events.",
-      "publishedAt": "2025-05-25T09:43:22Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Week in Pictures: From fatal US plane crash to Russia\u2019s prisoner exchange",
-      "url": "https://www.aljazeera.com/gallery/2025/5/25/week-in-pictures-from-fatal-us-plane-crash-to-russias-prisoner-exchange",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25141237133519-1748158133.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Inter Miami have fought back from 3-1 down to grab a 3-3 draw at the MLS Eastern Conference leaders, the Philadelphia Union, thanks to a stoppage-time leveller from substitute Telasco Segovia.\r\nIsrae\u2026 [+2510 chars]",
-      "description": "Late goals by Lionel Messi and Telasco Segovia allow Inter to split the points on the road against Philadelphia Union.",
-      "publishedAt": "2025-05-25T09:33:51Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Messi, Inter Miami rally to draw against Philadelphia Union in MLS",
-      "url": "https://www.aljazeera.com/sports/2025/5/25/messi-inter-miami-rally-to-draw-against-philadelphia-union-in-mls",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25145065493967-1748164086_abb186-1748164538.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Anthony Edwards scored 30 points as the Minnesota Timberwolves overwhelmed the Oklahoma City Thunder 143-101 to tighten their NBA playoff series.\r\nEdwards added nine rebounds and six assists while sh\u2026 [+3957 chars]",
-      "description": "Minnesota Timberwolves hand Oklahoma City Thunder their worst loss of the season, cut West finals series deficit to 2-1.",
-      "publishedAt": "2025-05-25T08:57:45Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Thunder-Timberwolves: Edwards, Minnesota rout OKC in Game 3 West finals",
-      "url": "https://www.aljazeera.com/sports/2025/5/25/thunder-timberwolves-edwards-minnesota-rout-okc-in-game-3-west-finals",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25145077242388-1748161789_936365-1748162283.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "author": null,
-      "content": "Compare &amp; Contrast\r\nWe compare and contrast how US President Trump treated the Israeli prime minister in the Oval Office versus other foreign leaders.",
-      "description": "We compare and contrast how US President Trump treated the Israeli prime minister in the Oval Office versus other foreig",
-      "publishedAt": "2025-05-25T08:31:04Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Trump\u2019s treatment of Netanyahu vs other heads of state",
-      "url": "https://www.aljazeera.com/program/compare-contrast/2025/5/25/trumps-treatment-of-netanyahu-vs-other-heads-of-state",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/EP57-16-9-1748161754.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Russia has targeted Ukraine for a second consecutive night with drones and missiles, killing at least 12 people as the two countries pursue a major prisoner swap.\r\nUkraines air force said on Sunday t\u2026 [+3085 chars]",
-      "description": "Ukrainian foreign minister describes air attacks on third day of prisoner swap as biggest in weeks.",
-      "publishedAt": "2025-05-25T08:16:48Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Ukraine under Russian missile, drone attacks for second night, 12 killed",
-      "url": "https://www.aljazeera.com/news/2025/5/25/russia-launches-deadly-strikes-on-ukraine-amid-prisoner-swap",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-25T035427Z_1498327584_RC2ROEAM8A5S_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1748151776.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Here is where things stand on Sunday, May 25:\r\nFighting\r\n<ul><li>At least four people were killed and 16 others injured, including three children, after Russian forces hit Kyiv and surrounding areas \u2026 [+2509 chars]",
-      "description": "These are the key events on day 1,186 of Russia\u2019s war on Ukraine.",
-      "publishedAt": "2025-05-25T08:01:28Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Russia-Ukraine war: List of key events, day 1,186",
-      "url": "https://www.aljazeera.com/news/2025/5/25/russia-ukraine-war-list-of-key-events-day-1186",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-25T042024Z_1594600739_RC2SOEATEHTC_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MYKOLAIV-1-1748152819.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nMalaysia has urged regional leaders at the ASEAN Summit to commit to expanding the post-earthquake ceasefire in Myanmars civil war, to ease the countrys humanitarian crisis.",
-      "description": "Malaysia has urged regional leaders at the ASEAN Summit to commit to expanding the post-earthquake ceasefire in Myanmar.",
-      "publishedAt": "2025-05-25T08:00:20Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Video: Malaysia calls for expanded Myanmar ceasefire at ASEAN Summit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/5/25/video-malaysia-calls-for-expanded-myanmar-ceasefire-at-asean-summit",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/image-1748159992.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Malaysia has urged for the extension and expansion of a post-earthquake ceasefire in Myanmar due to run out by the end of May, as ongoing fighting calls into question its effectiveness.\r\nMalaysian Fo\u2026 [+3105 chars]",
-      "description": "Malaysian Foreign Minister Mohamad Hasan urges ASEAN to support expanding ceasefire beyond the currently affected zone.",
-      "publishedAt": "2025-05-25T06:23:00Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Malaysia wants Myanmar ceasefire extended amid ASEAN ban on coup leaders",
-      "url": "https://www.aljazeera.com/news/2025/5/25/malaysia-wants-myanmar-ceasefire-extended-amid-asean-ban-on-coup-leaders",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/2024-10-25T020023Z_1832428254_RC2DRAABGMSC_RTRMADP_3_MYANMAR-MILITARY-CHINA-1730269418_7e0730-1730271959.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "author": "Lyndal Rowlands",
-      "content": "blinking-dot\r\nLive updatesLive updates, \r\nGaza officials says killing children has become a pastime for Israeli soldiers.",
-      "description": "LIVE: Israeli forces kill Gaza doctor\u2019s 9 children; boy starves to deathaljazeera.com",
-      "publishedAt": "2025-05-25T00:00:00Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "LIVE: Israeli forces kill Gaza doctor\u2019s 9 children; boy starves to death",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/5/25/live-israeli-military-reviewing-attack-that-killed-doctors-9-children",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AA-20250524-38063071-38063064-ISRAELI_ATTACKS_ON_GAZA_CONTINUE-1748122176.jpg?resize=1200%2C630"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Daniel Noboa, Ecuadors youngest-ever president and heir to a prominent banana-exporting fortune, has been sworn in for his first full term in office, pledging to intensify his governments battle agai\u2026 [+2242 chars]",
-      "description": "The right-wing Noboa had defeated left-wing candidate Luisa Gonzalez amid allegations of electoral fraud.",
-      "publishedAt": "2025-05-24T20:44:30Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Ecuador\u2019s Daniel Noboa sworn in for full term, promising a crackdown on gangs",
-      "url": "https://www.aljazeera.com/news/2025/5/24/ecuadors-daniel-noboa-sworn-in-for-full-term-promising-a-crackdown-on-gangs",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/afp_683227df5c42-1748117471.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "An Iranian thriller film that explores corruption and state violence in the country has won the the Palme dOr, the coveted top prize at the Cannes Film Festival.\r\nIt Was Just an Accident, directed by\u2026 [+3252 chars]",
-      "description": "The film is inspired by dissident director Jafar Panahi's own experience in jail.",
-      "publishedAt": "2025-05-24T19:16:16Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Iranian film, It was Just an Accident, wins Palme D\u2019Or at Cannes festival",
-      "url": "https://www.aljazeera.com/news/2025/5/24/iranian-film-it-was-just-an-accident-wins-palme-dor-at-cannes",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-24T183213Z_510840022_UP1EL5O1FHO49_RTRMADP_3_FILMFESTIVAL-CANNES-AWARDS-1748111772.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Arsenal upset defending champions Barcelona 1-0 to win the Womens Champions League for a second time.\r\nStina Blackstenius scored in the 75th minute after being set up by fellow second-half substitute\u2026 [+3929 chars]",
-      "description": "Arsenal lift the UEFA Women's Champions League with a 1-0 win that ended Barcelona's hopes of a three-peat.",
-      "publishedAt": "2025-05-24T18:59:43Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Arsenal stun Barcelona to win the Women\u2019s Champions League",
-      "url": "https://www.aljazeera.com/sports/2025/5/24/arsenal-stun-barcelona-to-win-the-womens-champions-league",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-24T183035Z_2084544773_UP1EL5O1EZT2W_RTRMADP_3_SOCCER-CHAMPIONS-ARS-BAR-REPORT-1748111673.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Families of Israeli captives held in Gaza have intensified their criticism of Israeli Prime Minister Benjamin Netanyahu amid large protests across the country, as the expanded military ground offensi\u2026 [+2495 chars]",
-      "description": "Hostages and Missing Families Forum called on the government to 'return to the negotiating table'.",
-      "publishedAt": "2025-05-24T18:45:34Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Families of Israeli captives criticise Netanyahu amid large protests",
-      "url": "https://www.aljazeera.com/news/2025/5/24/families-of-israeli-captives-criticise-netanyahu-amid-large-protests",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/afp_683204ec550e-1748108524.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1482
+  "totalResults": 1504
 }
