@@ -1,20 +1,52 @@
 {
   "articles": [
     {
-      "author": "Olivia Le Poidevin, Dave Graham",
-      "description": "A huge chunk of a glacier in the Swiss Alps broke off on Wednesday, causing a deluge of ice, mud and rock that buried most of a mountain village that had been evacuated due to the risk of a rockslide, authorities said.",
-      "publishedAt": "2025-05-28T14:41:55Z",
-      "title": "Mud and rock bury Swiss village after glacier collapse, one person missing",
-      "url": "https://www.reuters.com/business/environment/glacier-crumbles-above-evacuated-swiss-village-prompting-huge-rock-slide-2025-05-28/",
+      "author": "Reuters",
+      "description": "Israel's government has approved 22 new Jewish settlements in the occupied-West Bank, Finance Minister Bezalel Smotrich said, a move that could deepen divisions with some allies, who have threatened sanctions over further expansion.",
+      "publishedAt": "2025-05-29T09:16:05Z",
+      "title": "Israel announces new West Bank settlements despite sanctions threat",
+      "url": "https://www.reuters.com/world/middle-east/israel-announces-new-west-bank-settlements-despite-sanctions-threat-2025-05-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VSXHFTEHXRM6JIP7LKRVJZQ3TE.jpg?auth=aac2a935bbf82ccba0656525e908339b88be7e954040001f40b1d90ed416ffb1&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Samuel Indyk, Sarah Marsh",
+      "description": "Winners on financial markets included chip makers, banks, luxury stocks and the auto industry, all hit hard by tariff-led disruptions.",
+      "publishedAt": "2025-05-29T10:31:09Z",
+      "title": "US ruling that Trump tariffs are unlawful stirs relief and uncertainty",
+      "url": "https://www.reuters.com/business/us-ruling-that-trump-tariffs-are-unlawful-stirs-relief-uncertainty-2025-05-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/5QPW4M6JANLQDPXPDZASTYAH3I.jpg?auth=468dbfa222dffd57151610845e4dd2db9503e400710b5e8bd6eac1da99bcbe10&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Steve Holland, Gram Slattery",
+      "description": "Some Republicans in Congress and White House advisers are urging U.S. President Donald Trump to finally embrace new sanctions on Moscow as frustration mounts over Russian President Vladimir Putin's military assault on Ukraine.",
+      "publishedAt": "2025-05-29T10:06:07Z",
+      "title": "Pressure mounting on reluctant Trump to impose sanctions on Russia",
+      "url": "https://www.reuters.com/world/pressure-mounting-reluctant-trump-impose-sanctions-russia-2025-05-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/OGXATDYZTNLCXL4TVUB3QU6MWU.jpg?auth=b9b7cc7ab37f0e9b920d64f94564e5de107c389b616e7cdfd0e213116f763b1e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Dave Graham",
+      "description": "The army was deployed and rescue specialists were airlifted in to search for a man still missing on Thursday after a huge chunk of glacier crashed down a mountain in Switzerland, burying much of a picturesque Swiss Alpine village.",
+      "publishedAt": "2025-05-29T08:14:37Z",
+      "title": "Army searches for missing man after glacier debris buries Swiss village",
+      "url": "https://www.reuters.com/sustainability/climate-energy/army-searches-missing-man-after-glacier-debris-buries-swiss-village-2025-05-29/",
       "urlToImage": "https://www.reuters.com/resizer/v2/IH7JHYS4IRNZBCN2TPV4RYT5AM.jpg?auth=4de3fd9a79d2077c70ca62f1f25262f6720384844cbfe6edb83917db8aae8606&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Dietrich Knauth, Daniel Wiessner",
-      "description": "A U.S. federal trade court ruled the president overstepped his authority by imposing across-the-board duties on imports from nations that sell more to the US than they buy.",
-      "publishedAt": "2025-05-28T23:10:55Z",
-      "title": "US court blocks Trump's sweeping tariffs, citing overreach of authority",
-      "url": "https://www.reuters.com/world/us/us-court-blocks-trumps-liberation-day-tariffs-2025-05-28/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4C5HHRWHCNNUZGHR7574PRKM6I.jpg?auth=8d59ed4b82ad0d6f76f1992e22a279c4834fedf93f53f76e0b723948a95749a0&height=1005&width=1920&quality=80&smart=true"
+      "author": "Laurie Chen, Larissa Liao",
+      "description": "Chinese students with offers from U.S. universities expressed despair after Washington promised to start \"aggressively\" revoking Chinese student visas and ordered U.S. missions abroad to stop scheduling new student visa appointments.",
+      "publishedAt": "2025-05-29T08:57:57Z",
+      "title": "'Good days are over': Chinese students despair as US cracks down on visas",
+      "url": "https://www.reuters.com/world/us/good-days-are-over-chinese-students-despair-us-cracks-down-visas-2025-05-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/OINM5JX3ZJOE3MFC5SC7ZM47BQ.jpg?auth=b69097db0a1007156b8c5e0aad94ea84a7356bdc1119967b86fac9d08fc90d08&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Idrees Ali",
+      "description": "U.S. Defence Secretary Pete Hegseth will try to convince Asian defence leaders this weekend that the United States is a more trusted partner for the region than China, U.S. officials told Reuters, as questions linger about the Trump administration's commitment to the region.",
+      "publishedAt": "2025-05-28T22:02:50Z",
+      "title": "US defence chief looks to woo allies in Asian security forum debut",
+      "url": "https://www.reuters.com/world/china/us-defence-chief-looks-woo-allies-asian-security-forum-debut-2025-05-28/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MPXOFOQJ4VISFKLKDODHNHWO2Y.jpg?auth=7cce48ca3f771ff0602c177e599326b2350c56d9f8f73b2dade5a45c600d3f17&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -26,59 +58,27 @@
     },
     {
       "author": "Reuters",
-      "description": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that Israel had eliminated Hamas Gaza chief Mohammad Sinwar, one of its most wanted targets and the younger brother of the deceased group's leader, Yahya Sinwar.",
-      "publishedAt": "2025-05-28T13:25:03Z",
-      "title": "Netanyahu says Hamas Gaza chief Mohammad Sinwar has been eliminated",
-      "url": "https://www.reuters.com/world/middle-east/netanyahu-says-hamas-gaza-chief-mohammed-sinwar-has-been-eliminated-2025-05-28/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XTC3B3IXOVIKXKB6E5QIMIX7EA.jpg?auth=8cf838a9618f35e6aa1b700d1876315fba93c3cec645dae178f045040b8de2ad&height=1005&width=1920&quality=80&smart=true"
+      "description": "Severe floods in Romania are threatening to destroy the Praid salt mine, one of Europe's largest salt reserves which attracts half a million tourists each year with its spectacular galleries housing an adventure park and chapel carved in salt.",
+      "publishedAt": "2025-05-29T10:01:05Z",
+      "title": "Heavy floods threaten Romania's Praid salt mine, a tourism magnet",
+      "url": "https://www.reuters.com/business/environment/heavy-floods-threaten-romanias-praid-salt-mine-tourism-magnet-2025-05-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/IA7WQVP5TJMJ3ENSAWSOZRIOSY.jpg?auth=bbd462cff5765c5e0b94b9a8d9914fe3be38ca667ea063f1254b924c7f863d4e&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "U.S. President Donald Trump's envoy, Keith Kellogg, on Wednesday scolded a top Russian official for stoking fears of World War Three after Trump warned President Vladimir Putin was playing with fire over Ukraine.",
-      "publishedAt": "2025-05-28T05:37:09Z",
-      "title": "U.S. scolds Russia for stoking WW3 fears after Trump's 'playing with fire' remark",
-      "url": "https://www.reuters.com/world/china/us-scolds-russia-stoking-ww3-fears-after-trumps-playing-with-fire-remark-2025-05-28/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/MUZLCPZRTBLTNHKBKPX2B6HHCE.jpg?auth=06db5671bc2ddb165b3b7056c4b29bd2bdc2ca83e1aa23bd388121b1c8aedb15&height=1005&width=1920&quality=80&smart=true"
+      "description": "The World Organisation for Animal Health (WOAH) has recognized Brazil as a country free of foot-and-mouth disease without vaccination, Brazilian beef lobby Abrafrigo said in a statement on Thursday.",
+      "publishedAt": "2025-05-29T11:15:02Z",
+      "title": "Brazil declared free of foot-and-mouth disease without vaccination, says Abrafrigo",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/brazil-declared-free-foot-and-mouth-disease-without-vaccination-says-abrafrigo-2025-05-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/FSPBE5DD2JO4BOIMWRIGQKLIF4.jpg?auth=19a3777135640bbdbced48c229bb496decc1132eba4c36edf9b4dadf74c16a46&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Ed White",
-      "description": "Manitoba declared a state of emergency and urged thousands of people in northern and eastern parts of the province to evacuate on Wednesday, as wildfires spread in Central and Western Canada.",
-      "publishedAt": "2025-05-28T20:02:52Z",
-      "title": "Manitoba urges thousands to evacuate as Canada wildfires spread",
-      "url": "https://www.reuters.com/business/energy/cenovus-energy-scales-back-non-essential-staff-foster-creek-facility-2025-05-28/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/KIH7ASL25NLDLLQDCMYM4O4UHM.jpg?auth=92a580846517ca133248fe5a63e8ff59df447c3bd2bdad9cf8a8fc227d132caf&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The Philippine Foreign Ministry said on Thursday that China has no right to object to or interfere with the Philippines' lawful and routine activities in the South China Sea.",
-      "publishedAt": "2025-05-29T05:28:59Z",
-      "title": "Philippines says China has no right to object or interfere with its 'lawful' activities in South China Sea",
-      "url": "https://www.reuters.com/world/china/philippines-says-china-has-no-right-object-or-interfere-with-its-lawful-2025-05-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XLWLWGOMJNKVVIACAYMIOBLYRM.jpg?auth=27d86d77e79254ddd700d58f5e008ad796129ee5d9a3a20e24e63bad8e8a7231&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "James Mackenzie",
-      "description": "Israeli Prime Minister Benjamin Netanyahu's government hit back at growing international pressure over the war in Gaza on Wednesday, amid deepening signs of division over the war at home, 600 days after the Hamas-led attack on October 7, 2023.",
-      "publishedAt": "2025-05-28T16:35:46Z",
-      "title": "Israeli government hits back as international pressure over Gaza mounts",
-      "url": "https://www.reuters.com/world/americas/israeli-government-hits-back-international-pressure-over-gaza-mounts-2025-05-28/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4FPVSUMEIZP7LMAXYRI46LTPC4.jpg?auth=9bc1b435f321fdadc1d4d9d348fb9179170b0e228ab3e89158efc1878b08fb46&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Nidal Al-Mughrabi, James Mackenzie",
-      "description": "U.N. trucks delivering food to Gaza were stopped and looted overnight, Gaza residents and merchants said on Wednesday, hours after desperate Palestinians overran a distribution site run by a U.S.-backed group trying to start delivering aid.",
-      "publishedAt": "2025-05-28T11:36:40Z",
-      "title": "Food trucks in Gaza raided, underscoring aid distribution problems",
-      "url": "https://www.reuters.com/world/middle-east/food-trucks-gaza-raided-underscoring-aid-distribution-problems-2025-05-28/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/TCI5BIQDS5M2PNIJKS72XTNWPE.jpg?auth=e4ff6d347ea72bcab60ad6566e036e388e01d8b40a58bcf865019a5cb3d4faff&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The Economist's latest printed edition for Asia featuring Vietnam's top leader To Lam on its cover has been banned in Vietnam, sources at two local media distributors told Reuters, in a new instance of censorship in the Communist-run country.",
-      "publishedAt": "2025-05-29T04:24:20Z",
-      "title": "Hanoi bans The Economist's printed issue with Vietnam's top leader on cover, say distributor sources",
-      "url": "https://www.reuters.com/sustainability/society-equity/hanoi-bans-economists-printed-issue-with-vietnams-top-leader-cover-say-2025-05-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/FLVNETNUVFJCTEGXISU4OUQNLA.jpg?auth=7be744224b9dee18e2c4185fa97d4b7c8fd160ea4c140b23558fc91518ef92cc&height=1005&width=1920&quality=80&smart=true"
+      "author": "Alistair Smout",
+      "description": "Prime Minister Keir Starmer warned that Nigel Farage would crash the economy if his Reform UK party ever won power, describing his tax and spending plans as a fantasy in a speech attacking the man who has become Labour's chief threat in the polls.",
+      "publishedAt": "2025-05-29T10:57:26Z",
+      "title": "UK PM Starmer warns Farage's 'fantasy' fiscal plans would crash the economy",
+      "url": "https://www.reuters.com/world/uk/uk-pm-starmer-warns-farages-fantasy-fiscal-plans-would-crash-economy-2025-05-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/JMM3ESTDIFP3JNIVNYGODCSLPU.jpg?auth=a5a213b98c55c9b5244f55896bfca5eab3f01aa6ed00172cf15f81e5a07eaa4a&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
