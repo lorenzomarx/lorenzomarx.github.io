@@ -2,6 +2,22 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Musk has repeatedly struck out at the bill, saying it undercuts Doge's work to slash federal spending.",
+      "publishedAt": null,
+      "title": "Musk calls Trump's tax and spending bill an 'abomination'",
+      "url": "https://www.bbc.co.uk/news/articles/c0j76djzgpvo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/86c7/live/71f19820-40a7-11f0-a90d-6b992e1c44a7.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "The executive order raises import taxes for US firms buying from other countries - but the levy remains at 25% for the UK.",
+      "publishedAt": null,
+      "title": "UK spared from Donald Trump's 50% steel and aluminium tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/cg713y73plro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b6f/live/b5898600-40c1-11f0-b300-659a4281ef64.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "Jon Collyer, Lisa Stocker and Phineas Float face the death penalty if convicted.",
       "publishedAt": null,
       "title": "Sussex trio accused of drug smuggling appear in Bali court",
@@ -18,19 +34,27 @@
     },
     {
       "author": "BBC News",
-      "description": "A one-person household needs \u00a313,400 a year for a basic standards of living in retirement, a report suggests.",
+      "description": "Kyiv's security service says it it used more than 1,000kg of TNT to mine the supports of Russia's Kerch Bridge.",
       "publishedAt": null,
-      "title": "Lower energy costs make retirement less expensive",
-      "url": "https://www.bbc.co.uk/news/articles/cj42022gqzwo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/943e/live/b0fef340-405d-11f0-bd79-f9bb9d7fcc1a.jpg"
+      "title": "Ukraine says it hit Crimea bridge with underwater explosives",
+      "url": "https://www.bbc.co.uk/news/articles/cz708lpzgxro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f72/live/ff26fb00-4088-11f0-835b-310c7b938e84.jpg"
     },
     {
       "author": "BBC News",
-      "description": "A man in his 30s is arrested on suspicion of trespass on a protected site in Windsor, police say.",
+      "description": "MI5 apologises for false evidence but says contempt of court proceedings would not be \u201cappropriate\u201d.",
       "publishedAt": null,
-      "title": "Intruder arrested for breaking into Windsor Castle ground",
-      "url": "https://www.bbc.co.uk/news/articles/cx2qw3jzvzeo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f55/live/fd11c6e0-4099-11f0-a90d-6b992e1c44a7.jpg"
+      "title": "MI5 lied 'deliberately and repeatedly' in neo-Nazi spy case, BBC tells High Court",
+      "url": "https://www.bbc.co.uk/news/articles/c4ge87g2lngo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a605/live/201204a0-4092-11f0-94ba-89dd28611d85.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Aid distribution will be halted on Wednesday, with Gazans warned by the IDF not to travel to collection points.",
+      "publishedAt": null,
+      "title": "IDF says roads to Gaza aid centres are 'combat zones' as sites close for day",
+      "url": "https://www.bbc.co.uk/news/articles/cnv18gp4rdzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b98/live/d75df450-40c1-11f0-b300-659a4281ef64.jpg"
     },
     {
       "author": "BBC News",
@@ -42,30 +66,6 @@
     },
     {
       "author": "BBC News",
-      "description": "Three officers are facing gross misconduct proceedings over the strip-search of a 15-year-old girl.",
-      "publishedAt": null,
-      "title": "Child Q violated and demeaned in strip-search, hearing told",
-      "url": "https://www.bbc.co.uk/news/articles/cev4k0zke24o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b500/live/f1461e90-406e-11f0-a55b-41bab8bccdf3.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "The decision sparks anger among Geert Wilders' coalition partners - and paves the way for new elections in the Netherlands.",
-      "publishedAt": null,
-      "title": "Geert Wilders: Dutch government faces collapse as far-right leader exits coalition",
-      "url": "https://www.bbc.co.uk/news/articles/c0r1x5yyd5wo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc34/live/c5683d70-405b-11f0-a6af-f97c73335e2e.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "With three weeks to go, the UK's biggest festival unveils its full line-up, plus a few mystery sets.",
-      "publishedAt": null,
-      "title": "Glastonbury 2025: Full line-up, stage times and secret sets revealed",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jd8e6918o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0de8/live/2a8480d0-4055-11f0-95b4-19782fc5d14e.jpg"
-    },
-    {
-      "author": "BBC News",
       "description": "Workers at Reaction Engines felt they were close to completing a revolutionary jet engine.",
       "publishedAt": null,
       "title": "What happens when a high-tech project fails?",
@@ -74,11 +74,11 @@
     },
     {
       "author": "BBC News",
-      "description": "Kyiv's security service says it it used more than 1,000kg of TNT to mine the supports of Russia's Kerch Bridge.",
+      "description": "With three weeks to go, the UK's biggest festival unveils its full line-up, plus a few mystery sets.",
       "publishedAt": null,
-      "title": "Ukraine says it hit Crimea bridge with underwater explosives",
-      "url": "https://www.bbc.co.uk/news/articles/cz708lpzgxro",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f72/live/ff26fb00-4088-11f0-835b-310c7b938e84.jpg"
+      "title": "Glastonbury 2025: Full line-up, stage times and secret sets revealed",
+      "url": "https://www.bbc.co.uk/news/articles/cx2jd8e6918o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0de8/live/2a8480d0-4055-11f0-95b4-19782fc5d14e.jpg"
     }
   ],
   "sortBy": "top",
