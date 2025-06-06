@@ -1,12 +1,28 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "Chinese President Xi Jinping on Thursday held talks with U.S. President Donald Trump by phone, China's state-run news agency Xinhua reported, as bilateral relations have been strained by trade disputes.",
+      "publishedAt": "2025-06-05T12:55:33Z",
+      "title": "Xi, Trump hold phone talks, Xinhua reports",
+      "url": "https://www.reuters.com/en/chinas-xi-trump-hold-call-xinhua-reports-2025-06-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DTWROWGS5BIZXARVVWNC3S3BLE.jpg?auth=663f5a114d1ccb2878df15efb4b282104de822cd00890b64d103e54d6107bc61&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Nidal Al-Mughrabi, Crispian Balmer, Michelle Nichols",
       "description": "The U.N. Security Council is also set to vote on a demand for a ceasefire between Israel and Palestinian militants Hamas and humanitarian access across Gaza.",
       "publishedAt": "2025-06-04T00:43:18Z",
       "title": "US signals veto of UN Security Council demand for Gaza ceasefire",
       "url": "https://www.reuters.com/world/middle-east/us-backed-gaza-aid-group-halt-distribution-wednesday-un-vote-ceasefire-demand-2025-06-04/",
       "urlToImage": "https://www.reuters.com/resizer/v2/2J2NQYMKVRPRBEBBITLB2GWITQ.jpg?auth=d0bfdc6200fc871c6333939310fa09dc6e718578cc7a1339328f6b65a0afa6fd&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Sabine Siebold, Lili Bayer",
+      "description": "U.S. Defense Secretary Pete Hegseth said on Thursday he was confident that members of the NATO alliance would sign up to Donald Trump's demand for a major boost in defence spending, adding that it had to happen by a summit later in June.",
+      "publishedAt": "2025-06-05T03:05:58Z",
+      "title": "Pentagon chief confident NATO will commit to Trump's defence spending target",
+      "url": "https://www.reuters.com/business/aerospace-defense/nato-ministers-discuss-defence-spending-hike-ahead-key-summit-2025-06-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MKYIJEXPXZK5BL6BDFCND3F6XI.jpg?auth=1ce65ef5e15932bf494987db3557e35fc5596b73c570e289eb1a31f1a59f9a9e&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -17,20 +33,20 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "Russian aircraft were damaged but not destroyed in a June 1 attack by Ukraine, and they will be restored, Russian Deputy Foreign Minister Sergei Ryabkov said in an interview with the state news agency TASS.",
-      "publishedAt": "2025-06-05T05:33:10Z",
-      "title": "Russia says it will repair bombers damaged by Ukraine's drones",
-      "url": "https://www.reuters.com/business/aerospace-defense/russia-says-it-will-repair-bombers-damaged-by-ukraines-drones-2025-06-05/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/7NFEI6C3HZLO5LELLXPH3TFJFY.jpg?auth=3154e470d3992349653034216c0bbf442d45f9dfa81d97cc22f6e2632d52902f&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Jeff Mason, Nandita Bose",
       "description": "The proclamation fully restricts the entry of nationals from 12 countries including Afghanistan, Haiti and Iran. The entry of people from seven other countries will be partially restricted.",
       "publishedAt": "2025-06-04T23:38:30Z",
       "title": "Trump bans nationals from 12 countries, citing security concerns",
       "url": "https://www.reuters.com/world/americas/trump-signs-proclamation-banning-travel-12-countries-cbs-news-reports-2025-06-04/",
       "urlToImage": "https://www.reuters.com/resizer/v2/ZGLURKX3VJKENNQTD5NXWWZOGA.jpg?auth=3c3fdf91c37a10a200d173e141525472c06f14f082d01815d6ce2ad6ef1709e0&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Russian aircraft were damaged but not destroyed in a June 1 attack by Ukraine, and they will be restored, Russian Deputy Foreign Minister Sergei Ryabkov said in an interview with the state news agency TASS.",
+      "publishedAt": "2025-06-05T05:33:10Z",
+      "title": "Russia says it will repair bombers damaged by Ukraine's drones",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-says-it-will-repair-bombers-damaged-by-ukraines-drones-2025-06-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/7NFEI6C3HZLO5LELLXPH3TFJFY.jpg?auth=3154e470d3992349653034216c0bbf442d45f9dfa81d97cc22f6e2632d52902f&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Brad Brooks, Joseph Ax",
@@ -41,44 +57,28 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/SBJODHT4BFMZVEZ5JPBD64JMGY.jpg?auth=df7a4250fc7c5cb70884518c9a0b3d9469b1841f035b1a239761c18c9fbd2966&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Alexander Villegas, Lucinda Elliott",
-      "description": "An effort by Chilean President Gabriel Boric to expand abortion rights in the final months of his administration could finally give him a progressive legacy after three years in office but it is an uphill task that Latin American conservatives are hoping will fail as they seek to reverse gains for the abortion rights movement in the region.",
-      "publishedAt": "2025-06-05T10:07:43Z",
-      "title": "Chile abortion rights bill could shape Boric legacy as Latin American neighbors look on",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/chile-abortion-rights-bill-could-shape-boric-legacy-latin-american-neighbors-2025-06-05/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/RFJEZT2BYNNBDDWLAZA64JQGO4.jpg?auth=2eed8cc62327cb0d6c3ddc21a2382542936b4a2515e0b1c7ff5717cf0d224433&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Rafael Montoto",
-      "description": "On a Tuesday morning along a busy Mexico City avenue last month, a secretary to the city's mayor pulled her black Audi SUV up to a metro station to pick up a colleague.",
-      "publishedAt": "2025-06-05T10:11:43Z",
-      "title": "Brazen murders threaten Mexico City's image as pocket of safety in violent nation",
-      "url": "https://www.reuters.com/world/americas/brazen-murders-threaten-mexico-citys-image-pocket-safety-violent-nation-2025-06-05/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/XBSXSAGNMBK3ZDQA4Y7KMK63MI.jpg?auth=7c8230a50695a604893bfdef6bef287d8a67871796133ce036e2251f672e8297&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Ludwig Burger",
-      "description": "A Milan-bound Ryanair flight was forced to make an emergency landing in southern Germany late on Wednesday due to heavy turbulence from a thunderstorm, with nine passengers injured, police said.",
-      "publishedAt": "2025-06-05T05:51:06Z",
-      "title": "Nine injured in Ryanair emergency landing in Germany",
-      "url": "https://www.reuters.com/business/environment/nine-injured-ryanair-emergency-landing-germany-2025-06-05/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/DAUFSJ53RZMYVJ4J2HYKJYB7W4.jpg?auth=5f20bb245d26bf572cb4ef1fec12476a87848727a2da676d76b89d59754b06ce&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "The rate of young children suffering from acute malnutrition in Gaza has nearly tripled since a ceasefire earlier this year when aid flowed more freely, according to data collected by humanitarian groups and released by the U.N. on Thursday.",
+      "publishedAt": "2025-06-05T14:49:10Z",
+      "title": "Rate of Gaza children suffering acute malnutrition rate nearly triples, survey shows",
+      "url": "https://www.reuters.com/world/middle-east/rate-gaza-children-suffering-acute-malnutrition-rate-nearly-triples-survey-shows-2025-06-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/4TUFE7HJ2BKEZLVUXVFO73OK7Y.jpg?auth=6c25313da5f520319b6c44890e9ee1375c9718752260d5e9b5d22dad1ad169c8&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "The Philippines and United States militaries have sailed together in the South China Sea for a seventh time to boost interoperability between the two sides, Manila's armed forces said on Thursday.",
-      "publishedAt": "2025-06-05T06:59:04Z",
-      "title": "Philippines, U.S., hold joint maritime drills for seventh time",
-      "url": "https://www.reuters.com/world/china/philippines-us-hold-joint-maritime-drills-seventh-time-2025-06-05/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/L4TY27AEKBK6FEWNCBZBBNNPGA.jpg?auth=1a342f6f9e41ec1e315628163a6577163369e3064303f48a59d5c7a6c5beaef5&height=1005&width=1920&quality=80&smart=true"
+      "description": "A minor earthquake in southern Italy has caused the partial collapse of a wall and a portion of a vault at the Pompeii archaeological site, authorities said on Thursday.",
+      "publishedAt": "2025-06-05T14:24:49Z",
+      "title": "Earthquake damages part of Pompeii site in southern Italy",
+      "url": "https://www.reuters.com/business/environment/earthquake-damages-part-pompeii-site-southern-italy-2025-06-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Reuters",
-      "description": "Thailand called on Cambodia to engage positively in efforts to settle a longstanding border dispute, stressing on Thursday it did not recognise the jurisdiction of the International Court of Justice after its neighbour said it would refer the issue to the World Court.",
-      "publishedAt": "2025-06-05T11:48:47Z",
-      "title": "Thailand urges positive engagement after Cambodia threatens to take dispute to World Court",
-      "url": "https://www.reuters.com/world/asia-pacific/thailand-urges-positive-engagement-after-cambodia-threatens-take-dispute-world-2025-06-05/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/3JDMDGDGENKQPK2WSQM7T3M3HM.jpg?auth=1745efb01b95a5572d9e276973c1201de678342c4f8497ca7001d7cd418788bc&height=1005&width=1920&quality=80&smart=true"
+      "author": "Ryan Jones",
+      "description": "The Trump administration has moved to end deportation protections the United States granted to thousands of Nepalese people after a 2015 earthquake devastated the country, according to a government notice posted on Thursday.",
+      "publishedAt": "2025-06-05T17:07:44Z",
+      "title": "Trump administration ending protected status for Nepalese migrants",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-administration-ending-protected-status-nepalese-migrants-2025-06-05/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/PHN3NI5ZUZJ5RKKTCOOGBNT3VA.jpg?auth=51a27c5a6d456193a87472b06b90965f65cb71c6d2404d631fb5452395a8a15e&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
