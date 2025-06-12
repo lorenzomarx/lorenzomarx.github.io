@@ -1,30 +1,6 @@
 {
   "articles": [
     {
-      "author": "Tim Reid",
-      "description": "Law enforcement officials in Los Angeles began deploying \"less lethal\" munitions on Sunday as they clashed with crowds protesting federal immigration raids.",
-      "publishedAt": "2025-06-10T17:35:56Z",
-      "title": "What are the 'less lethal' weapons used by law enforcement in Los Angeles protests?",
-      "url": "https://www.reuters.com/world/us/what-are-less-lethal-weapons-used-by-law-enforcement-los-angeles-protests-2025-06-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ZCIIKZ7DCVLO5OBEAGILKSCCXQ.jpg?auth=fdae6ec56d18707185f4a5af8f8cc276989344f6ffb04338bd7886bf7c05329e&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The Sudanese military said that rebel paramilitary Rapid Support Forces (RSF), backed by eastern Libyan forces under military commander Khalifa Haftar, had attacked Sudanese border posts on the Egyptian and Libyan frontiers on Tuesday, according to a statement.",
-      "publishedAt": "2025-06-10T17:30:34Z",
-      "title": "Sudanese military says rival paramilitary forces, backed by Libya's Haftar forces, attacked border posts",
-      "url": "https://www.reuters.com/world/africa/sudanese-military-says-rival-paramilitary-forces-backed-by-libyas-haftar-forces-2025-06-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Pavel Polityuk, Anastasiia Malenko",
-      "description": "Russia launched another prolonged drone attack on Ukraine, killing one person and damaging swathes of Kyiv as well as striking a maternity ward in the southern port of Odesa, regional officials said early on Tuesday.",
-      "publishedAt": "2025-06-10T03:14:09Z",
-      "title": "Russia's latest drone strikes hit Kyiv, maternity ward in Odesa, Ukraine says",
-      "url": "https://www.reuters.com/world/russias-latest-drone-strikes-hit-kyiv-maternity-ward-odesa-ukraine-says-2025-06-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/56ILQZAXMJOVNM6YCVQTIBIMJM.jpg?auth=e8e0f83a96a1da3e6559e9a45f2d8ff50bbc58fda58b5f320c1d46a0cf6e16f3&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Brad Brooks, Jorge Garcia, Phil Stewart, Idrees Ali",
       "description": "Hundreds of U.S. Marines arrived in Los Angeles overnight and more were expected on Tuesday under orders from President Donald Trump, who has also activated 4,000 National Guard troops to quell protests despite objections from California Governor Gavin Newsom and other local leaders.",
       "publishedAt": "2025-06-10T13:51:32Z",
@@ -41,6 +17,22 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Pavel Polityuk, Anastasiia Malenko",
+      "description": "Russia launched another prolonged drone attack on Ukraine, killing one person and damaging swathes of Kyiv as well as striking a maternity ward in the southern port of Odesa, regional officials said early on Tuesday.",
+      "publishedAt": "2025-06-10T03:14:09Z",
+      "title": "Russia's latest drone strikes hit Kyiv, maternity ward in Odesa, Ukraine says",
+      "url": "https://www.reuters.com/world/russias-latest-drone-strikes-hit-kyiv-maternity-ward-odesa-ukraine-says-2025-06-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/56ILQZAXMJOVNM6YCVQTIBIMJM.jpg?auth=e8e0f83a96a1da3e6559e9a45f2d8ff50bbc58fda58b5f320c1d46a0cf6e16f3&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Nidal Al-Mughrabi",
+      "description": "Israeli gunfire killed at least 17 Palestinians and wounded dozens as thousands of displaced people approached anaid distribution site run by a U.S.-backed humanitarian group in central Gaza on Tuesday, local health authorities said.",
+      "publishedAt": "2025-06-10T07:12:25Z",
+      "title": "Israeli gunfire kills 17 people near Gaza aid site, health officials say",
+      "url": "https://www.reuters.com/world/middle-east/israeli-gunfire-kills-17-people-near-gaza-aid-site-health-officials-say-2025-06-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KTP4ZYPW55IV3GEW2G2I2QT5ZU.jpg?auth=d48e91bc6733375d6fadb1ef6a9344ab83563b8b0430aff5dc3427b321ab8b1c&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Crispian Balmer, Alexander Cornwell",
       "description": "Swedish campaigner Greta Thunberg was deported from Israel on Tuesday, the day after the Israeli navy prevented her and a group of fellow pro-Palestinian activists from sailing to Gaza.",
       "publishedAt": "2025-06-10T06:46:11Z",
@@ -49,36 +41,44 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/QY5M2AFZT5O65KHYBV2PAFWZ7U.jpg?auth=5dcc03b26e8766605588243c9a8d23d16cb35c0cff1f03ba4f16cc2fac7fbfe5&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Elizabeth Piper, Sachin Ravikumar",
-      "description": "Britain and four other nations on Tuesday imposed sanctions on two far-right Israeli ministers, Itamar Ben-Gvir and Bezalel Smotrich, accusing them of repeatedly inciting violence against Palestinians in the West Bank.",
-      "publishedAt": "2025-06-10T12:08:36Z",
-      "title": "Britain sanctions Israeli far-right ministers over Gaza comments",
-      "url": "https://www.reuters.com/world/uk/uk-sanction-israel-ministers-ben-gvir-smotrich-times-reports-2025-06-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QGMJOW7PY5ICLHYJ6FIRSAHMJM.jpg?auth=afa4a4dd0faad86315fb020881bf55d592331ed39233af5df44d003204e6d808&height=1005&width=1920&quality=80&smart=true"
+      "author": "Trevor Hunnicutt",
+      "description": "U.S. President Donald Trump said on Tuesday the military would rename bases which were changed after racial justice protests in 2023, including reverting to Fort Lee originally named after Civil War-era Confederate commander Robert E. Lee.",
+      "publishedAt": "2025-06-10T22:52:25Z",
+      "title": "US military bases to restore names changed after racial justice protests, Trump says",
+      "url": "https://www.reuters.com/world/us/us-military-bases-restore-names-changed-after-racial-justice-protests-trump-says-2025-06-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/S7LUFZDNOVNITF735N34UYXIAA.jpg?auth=4eafda8eb689873cc2cdfd7ded4d2960433470ab1a23af3d41c298fa5a58029d&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Karen Lema, Mikhail Flores",
-      "description": "Philippine senators were preparing to be sworn in as jurors in Wednesday's impeachment trial of Vice President Sara Duterte, who faces a lifetime political ban if convicted of high crimes and betraying the public trust.",
-      "publishedAt": "2025-06-10T07:25:48Z",
-      "title": "Philippine senators prepare to be jurors in Sara Duterte's impeachment trial",
-      "url": "https://www.reuters.com/world/asia-pacific/philippine-senators-prepare-be-jurors-sara-dutertes-impeachment-trial-2025-06-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/4ADJISCZFJKBNLFIZVCPPFAPO4.jpg?auth=1c5156f63fd8a4c22d86ef9a1eb30b88326a4b1f53923aeeccb1d185ca6ee528&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Rioters threw petrol bombs and other missiles at police in the Northern Irish town of Ballymena in the second successive night of disorder that followed a protest over an alleged sexual assault in the town, police and local media said on Tuesday.",
+      "publishedAt": "2025-06-10T20:51:49Z",
+      "title": "Northern Irish rioters attack police for second night",
+      "url": "https://www.reuters.com/world/northern-irish-rioters-attack-police-second-night-2025-06-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/6JENTLGWTZKQDHC6EHJX7ISETA.jpg?auth=119c77d93090ebd869de62d03b253ffd69bfb6ac62547d24f46872a565bef1a6&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Hatem Khaled, Nidal Al-Mughrabi",
-      "description": "When university professor Nizam Salama made his way to a southern Gaza aid point last week, he came under fire twice, was crushed in a desperate crowd of hungry people and finally left empty handed.",
-      "publishedAt": "2025-06-10T09:03:58Z",
-      "title": "Palestinians' dangerous ordeal to reach Israeli-approved aid",
-      "url": "https://www.reuters.com/world/middle-east/palestinians-dangerous-ordeal-reach-israeli-approved-aid-2025-06-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/E3PDTOUPERPOVPT765ZTVF26LM.jpg?auth=8e05382145943c0d94f9972365f4ccb00c0de78303270907bed6f9027e9001e1&height=1005&width=1920&quality=80&smart=true"
+      "author": "Reuters",
+      "description": "Mexico eased a ban on chicken shipments from Brazil, setting the restriction now only to products coming from the Brazilian state of Rio Grande do Sul, instead of a previous countrywide ban, Brazil's Agriculture Ministry said on Tuesday.",
+      "publishedAt": "2025-06-10T22:43:08Z",
+      "title": "Mexico eases trade ban on Brazilian chicken",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-eases-trade-ban-brazilian-chicken-2025-06-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DAFIMRDXEFPKTEKFMEXFIAT624.jpg?auth=1aa84ce649d059f162b3a3dc7ae400b5d7ca58b233ebe7919f286ab3ccc468e8&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Sonia Rolley, David Lewis",
-      "description": "The United States is promoting a deal that would require Rwanda to pull troops from eastern Congo before the two sides sign a peace agreement, sources say, a condition that is sure to rankle Kigali, which describes Congo-based armed groups as an existential threat.",
-      "publishedAt": "2025-06-10T12:57:16Z",
-      "title": "US wants Rwandan troops out of Congo before peace deal signed, sources say",
-      "url": "https://www.reuters.com/world/africa/us-wants-rwandan-troops-out-congo-before-peace-deal-signed-sources-say-2025-06-10/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/TQM4SQDM5RM5XOWNRMQ2OTJOKQ.jpg?auth=2f01f6f5ed398eae73566c792aee93df91b84bf54597097351b3425e01dc3478&height=1005&width=1920&quality=80&smart=true"
+      "author": "Leila  Miller, Lucila Sigal",
+      "description": "Argentina's Supreme Court on Tuesday upheld a guilty verdict that sentenced powerful two-term former President Cristina Fernandez de Kirchner to six years in prison for defrauding the state and banned her from public office.",
+      "publishedAt": "2025-06-10T20:37:04Z",
+      "title": "Argentina's top court upholds guilty verdict against Kirchner that bans her from office",
+      "url": "https://www.reuters.com/world/americas/argentinas-top-court-upholds-guilty-verdict-ex-president-kirchner-graft-case-2025-06-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/E6JSVVGKMNO5XI3H2A5Q6RZDTM.jpg?auth=96f9856a1274c3ee8d126a353d32794d7ec47db54436c8060c1ed7971d1e2d75&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Reuters",
+      "description": "Russia's overnight drone attack on Kharkiv killed at least one person and injured another 23, the mayor of the northeastern Ukrainian city said on the Telegram messaging app on Wednesday.",
+      "publishedAt": "2025-06-10T23:02:19Z",
+      "title": "One killed, 23 injured in Russia's drone attack on Ukraine's Kharkiv, mayor says",
+      "url": "https://www.reuters.com/world/one-killed-23-injured-russias-drone-attack-ukraines-kharkiv-mayor-says-2025-06-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
