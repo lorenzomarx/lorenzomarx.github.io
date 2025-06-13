@@ -1,23 +1,49 @@
 {
   "articles": [
     {
+      "author": "NPR",
+      "content": null,
+      "description": null,
+      "publishedAt": "2025-06-12T09:37:37Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Air India plane carrying more than 240 people crashes in India's Ahmedabad city - NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUlRNDZzWWZSTHZnNFIxUENtVFE2NnpWcVJEaUVvRGpsLUxIWnQwQmxvNFZlNGdLRlBKMVprbWZxeUpXWHRQV1RPdFR5UHJFeWM0Rnl4MnZrdGhmNnpGZVVkNjhWTy0wYWpYeFVyTU1WNUx4TGw0bmU5TEFRRF8xSnZRQQ?oc=5",
+      "urlToImage": null
+    },
+    {
       "author": null,
-      "content": "The Times, the Daily Telegraph, the Sun and the Daily Mail all describe the review as a \"splurge\". \r\nSeveral papers, including the Sun and the Financial Times, suggest the NHS and defence are the win\u2026 [+2037 chars]",
-      "description": "Reaction to the chancellor's Spending Review dominates the front pages on Thursday.",
-      "publishedAt": "2025-06-12T04:33:16Z",
+      "content": "Chris Mason\r\nThe hours, days, weeks and even months after a Spending Review can feel like peeling away the layers of an onion.\r\nFirst, there is the speech from the chancellor in the Commons: the poli\u2026 [+3371 chars]",
+      "description": "The big bet for the government remains on economic growth - finding it and sustaining it.",
+      "publishedAt": "2025-06-12T08:04:16Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "title": "Newspaper headlines: Spending Review 'renewing Britain' or 'reckless splurge' - BBC",
-      "url": "https://www.bbc.com/news/articles/cz70x93pjr7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8804/live/989ba2e0-4714-11f0-84b6-6bf0f66205f1.png"
+      "title": "Chris Mason: Spending Review a gamble on patience in an era of impatience - BBC",
+      "url": "https://www.bbc.com/news/articles/cj09lz0q5pno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f497/live/d115dd40-4767-11f0-84b6-6bf0f66205f1.jpg"
+    },
+    {
+      "author": "Abner Li",
+      "content": "With the launch of Android 16 earlier this week, Google did not release the Pixel hardware repos and device trees that are particularly important for custom ROM developers. This led to speculation by\u2026 [+1670 chars]",
+      "description": "With the launch of Android 16 earlier this week, Google did not release the Pixel hardware repos and device trees...",
+      "publishedAt": "2025-06-12T07:49:00Z",
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "title": "Google says Android Open Source Project not being \u2018discontinued\u2019 amidst Pixel change impacting custom ROMs - 9to5Google",
+      "url": "http://9to5google.com/2025/06/12/android-open-source-project-pixel-change/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-pin-badge-holding-Pixel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
     },
     {
       "author": "Lee Ying Shan",
-      "content": "Asia-Pacific markets traded mixed as investors assessed U.S. President Donald Trump's declaration that a trade deal with China was \"done.\"\r\nChinese imports would invite 55% tariffs, Trump suggested. \u2026 [+2011 chars]",
+      "content": "Asia-Pacific markets traded mixed as investors assessed U.S. President Donald Trump's declaration that a trade deal with China was \"done.\"\r\nChinese imports would invite 55% tariffs, Trump suggested. \u2026 [+2157 chars]",
       "description": "Asia-Pacific markets traded mixed as traders assessed U.S. President Donald Trump's declaration that a trade deal with China was \"done.\"",
-      "publishedAt": "2025-06-12T03:53:00Z",
+      "publishedAt": "2025-06-12T07:32:00Z",
       "source": {
         "id": null,
         "name": "CNBC"
@@ -27,17 +53,56 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108127280-1743996513501-gettyimages-1086840996-hok0739.jpeg?v=1743996523&w=1920&h=1080"
     },
     {
-      "author": "Anthony Robledo",
-      "content": "For those looking for an hourly job, Walmart just revealed its sweetest gig.\r\nOutside of manager roles, cake decorators are the highest paid hourly positions at U.S. Walmart stores, the retail giant \u2026 [+1479 chars]",
-      "description": "Walmart decorates over 150,000 cakes a week. The company says they employ 6,000 cake decorators across the nation.",
-      "publishedAt": "2025-06-12T03:20:54Z",
+      "author": "Dave Lawler",
+      "content": "<ul><li>That's perhaps no surprise given Trump's tariffs, threats to annex Canada, and more skeptical approach to aiding Ukraine.</li><li>There were a few exceptions, with respondents in Israel and N\u2026 [+1348 chars]",
+      "description": "Trump is especially unpopular in Mexico, Canada and Europe.",
+      "publishedAt": "2025-06-12T04:38:16Z",
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "axios",
+        "name": "Axios"
       },
-      "title": "Is it all cake? Walmart reveals its highest paying job, excluding managers. - USA Today",
-      "url": "https://www.usatoday.com/story/money/retail/2025/06/11/walmart-highest-paying-job/84159234007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/06/12/USAT/84160008007-usatsi-26329326-168401916-lowres.jpg?crop=1871,1052,x64,y0&width=1871&height=1052&format=pjpg&auto=webp"
+      "title": "Global poll: World sees Trump as \"dangerous,\" \"arrogant\" and \"strong\" - Axios",
+      "url": "https://www.axios.com/2025/06/11/trump-strong-dangerous-leader-global-poll",
+      "urlToImage": "https://images.axios.com/Wv7b0F6biCr4ODQSYGo7F0CqrGc=/0x0:1344x756/1366x768/2025/06/11/1749672860898.png"
+    },
+    {
+      "author": null,
+      "content": "Opponents of President Donald Trumps administration are set to rally in hundreds of cities on Saturday during the military parade in Washington for the Armys 250th anniversary which coincides with Tr\u2026 [+3653 chars]",
+      "description": "Opponents of President Donald Trump\u2019s administration are set to rally in nearly 2,000 cities and towns this weekend. The No Kings Day of Defiance protests will happen during the military parade in Washington on Saturday for the Army\u2019s 250th anniversary \u2014 whic\u2026",
+      "publishedAt": "2025-06-12T04:08:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "What to know about \u2018No Kings\u2019 protests against Trump\u2019s policies on Saturday - AP News",
+      "url": "https://apnews.com/article/no-kings-protest-things-to-know-trump-8d37f2bb2bf20ab503205b277e92b885",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7ec91f9/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F46%2Fd68255b0ef442e8fb2339d764d65%2F05efdb8a99cf43429713f12e0523ce4b"
+    },
+    {
+      "author": "Lena H. Sun, Lauren Weber",
+      "content": "Health and Human Services Secretary Robert F. Kennedy Jr. named eight people to the influential federal panel that recommends vaccines to Americans on Wednesday, elevating several vaccine critics day\u2026 [+9532 chars]",
+      "description": "Kennedy said the picks will demand \u201cdefinitive safety and efficacy data\u201d for vaccine recommendations. His choices include three critics of mRNA coronavirus vaccines.",
+      "publishedAt": "2025-06-12T04:08:00Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "RFK Jr. picks new members of influential vaccine committee after purge - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/06/11/rfk-cdc-vaccine-committee/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEECYOFG56AOTJNZMGCJZS3C64_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "Sally Brompton",
+      "content": "Open this photo in gallery:Gemini.iStockPhoto / Getty Images\r\nIn the greater scheme of things there is no such thing as coincidence, so when strange things happen over the next 12 months try looking \u2026 [+3025 chars]",
+      "description": "Your daily horoscope for Thursday, June 12, 2025",
+      "publishedAt": "2025-06-12T04:01:00Z",
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "title": "Your daily horoscope: June 12, 2025 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-june-12-2025/",
+      "urlToImage": "https://www.theglobeandmail.com/pf/resources/assets/meta/facebook-1200x630.png?d=709"
     },
     {
       "author": "Nick Deeds",
@@ -66,69 +131,17 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CX4BJYGRLA6FIFCTCTPWXPWVZA.jpg&w=1440"
     },
     {
-      "author": null,
-      "content": "SEOUL, South Korea (AP) South Koreas military shut down loudspeakers broadcasting anti-North Korea propaganda along the inter-Korean border on Wednesday, marking the new liberal governments first con\u2026 [+5547 chars]",
-      "description": "South Korea\u2019s military has shut down loudspeakers broadcasting anti-North Korean propaganda along the inter-Korean border. It's a move aimed at easing tensions. The South resumed the loudspeaker broadcasts in June last year following a yearslong pause in reta\u2026",
-      "publishedAt": "2025-06-12T02:25:00Z",
+      "author": "KiMi Robinson",
+      "content": "The \"Watch Me (Whip/Nae Nae)\" rapper, 27-year-old Silento, has been sentenced to 30 years in prison after pleading guilty to the 2021 death of his cousin.\r\nAccording to court records reviewed by USA \u2026 [+2056 chars]",
+      "description": "Silento\u0301, aka 27-year-old Ricky Lamar Hawk, was sentenced to 30 years in prison for the 2021 killing of his 34-year-old cousin, Frederick Rooks.",
+      "publishedAt": "2025-06-12T02:15:44Z",
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "title": "South Korea halts propaganda broadcasts along border with rival North in a move to ease tensions - AP News",
-      "url": "https://apnews.com/article/south-korea-border-north-tensions-2ba545996b3daf1a9f81e23685792c11",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b790c70/2147483647/strip/true/crop/2260x1271+0+117/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2Fd2%2F0f2843acdc5c5470f023e4a8a8d2%2F9a3ce7a688634913b516f8d06ff49df7"
-    },
-    {
-      "author": "The Conversation",
-      "content": "Appendix cancer is a condition that, until recently, was so rare that most people never gave it a second thought.\r\nFor decades, it was the kind of disease that doctors might encounter only once or tw\u2026 [+5758 chars]",
-      "description": "Appendix cancer is a condition that, until recently, was so rare that most people never gave it a second thought.",
-      "publishedAt": "2025-06-12T01:58:47Z",
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "title": "A Forgotten Cancer Is Surging in Young People, And Experts Are Puzzled - ScienceAlert",
-      "url": "https://www.sciencealert.com/a-forgotten-cancer-is-surging-in-young-people-and-experts-are-puzzled",
-      "urlToImage": "https://www.sciencealert.com/images/2019-05/processed/appendix_parkinsons_debate_1024.jpg"
-    },
-    {
-      "author": "Andrew Peters",
-      "content": "The New York Knicks added more names to the list of coaches they aren't allowed to interview this offseason on Wednesday. \r\nHere's a look at all the coaches the Knicks have tried to interview so far:\u2026 [+2424 chars]",
-      "description": "The New York Knicks added more names to the list of coaches they aren't allowed to interview this offseason on Wednesday.",
-      "publishedAt": "2025-06-12T01:52:30Z",
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "title": "Bulls' Billy Donovan and Every Knicks Request Denied amid HC Search Rumors - Bleacher Report",
-      "url": "https://bleacherreport.com/articles/25204888-bulls-billy-donovan-and-every-knicks-request-denied-amid-hc-search-rumors",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2025-06/national_news_16x9.png?w=3800&h=2000"
-    },
-    {
-      "author": "Jennifer Calfas, Jack Morphet, Gareth Vipers",
-      "content": null,
-      "description": "Arrests grow as more cities plan demonstrations after the unrest in Los Angeles",
-      "publishedAt": "2025-06-12T01:37:00Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "Texas Governor to Deploy National Guard as Anti-ICE Protests Spread - WSJ",
-      "url": "https://www.wsj.com/us-news/texas-governor-to-deploy-national-guard-as-anti-ice-protests-spread-6347648f",
-      "urlToImage": "https://images.wsj.net/im-81326784/social"
-    },
-    {
-      "author": "Patrick Svitek, Dylan Wells",
-      "content": "David Hogg will step down from his role as Democratic National Committee vice chair, capping months of party infighting and turmoil centering on the Gen Z activists pledge to involve himself in prima\u2026 [+6989 chars]",
-      "description": "The move follows repeated bouts of infighting centering on the Gen Z activist\u2019s pledge to involve himself in party primaries and support challenges to some incumbents.",
-      "publishedAt": "2025-06-12T01:30:21Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "David Hogg to depart as DNC vice chair after months of turmoil - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/06/11/dnc-vote-david-hogg-democrats/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WYYKUPWLYVESZI7R5KHPC4364A_size-normalized.jpg&w=1440"
+      "title": "'Whip/Nae Nae' child star pleads guilty but mentally ill, gets 30 years for cousin's death - USA Today",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/06/11/silento-pleads-guilty-2021-shooting-frederick-rooks/84158083007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/06/11/USAT/84158137007-515222044.jpg?crop=3279,1845,x0,y1232&width=3200&height=1801&format=pjpg&auto=webp"
     },
     {
       "author": "Gordon Lubold, Courtney Kube, Vaughn Hillyard",
@@ -196,43 +209,56 @@
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/baf2461/2147483647/strip/true/crop/2756x1550+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F07%2Fa07856114d65bb170d2c6f3a5d62%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26426032"
     },
     {
-      "author": null,
-      "content": "Paris Baguette operates six stores in France and three outlets in the UK\r\nHead into the basement of any bustling mall in Singapore and the chances are you will smell the sweetness of fresh, buttery b\u2026 [+5939 chars]",
-      "description": "Asian bakeries are seeing success at home and abroad by bringing global flavours to traditional French pastries.",
-      "publishedAt": "2025-06-11T23:57:26Z",
+      "author": "Ben Berkowitz",
+      "content": "<ul><li>The mixed messaging is weighing on markets eager for clarity after months of trade war whiplash. </li></ul>What they're saying: \"At a certain point we're just going to send letters out, and I\u2026 [+1069 chars]",
+      "description": "The president is suggesting time is running out for nations to make trade deals.",
+      "publishedAt": "2025-06-11T23:53:34Z",
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "axios",
+        "name": "Axios"
       },
-      "title": "Paris Baguette: The Korean bakery that wants to make croissants less French - BBC",
-      "url": "https://www.bbc.com/news/articles/c629q4v05pwo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/736a/live/b7aea030-45b4-11f0-a32b-edd3a7eb5f9e.jpg"
+      "title": "Trump warns \"take it or leave it\" trade offers coming in days - Axios",
+      "url": "https://www.axios.com/2025/06/11/trump-tariffs-trade",
+      "urlToImage": "https://images.axios.com/sQMh0wULI7WEhgm7Snhnr-ZYuAo=/0x0:4037x2271/1366x768/2025/06/11/1749685282586.jpg"
     },
     {
-      "author": "Will Stone",
-      "content": "Health Secretary Robert F. Kennedy Jr. has unveiled eight people he has chosen to serve on the Centers for Disease Control and Prevention's vaccine advisory panel just two days after taking the unpre\u2026 [+4847 chars]",
-      "description": "Two days after firing vaccine experts who help set the nation's immunization policies, HHS Secretary Robert F. Kennedy Jr. has picked eight successors for the CDC panel.",
-      "publishedAt": "2025-06-11T23:49:55Z",
+      "author": "Courtenay Brown, Neil Irwin",
+      "content": "State of play: Consider the economic news flow in recent days.\r\n<ul><li>The May Consumer Price Index came in cooler than expected, extending a monthslong streak of easing price pressures.</li><li>U.S\u2026 [+2484 chars]",
+      "description": "The May Consumer Price Index came in cooler than expected.",
+      "publishedAt": "2025-06-11T23:28:27Z",
       "source": {
-        "id": null,
-        "name": "NPR"
+        "id": "axios",
+        "name": "Axios"
       },
-      "title": "RFK Jr. names new slate of vaccine advisers after purging CDC panel - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/06/11/nx-s1-5430870/cdc-vaccine-experts-rfk-jr",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3204x1802+0+167/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F36%2F7e9da25c47b29c1f9d6906ebb6c9%2Fgettyimages-2210603938.jpg"
+      "title": "Inflation report suggests damage from Trump's tariffs isn't guaranteed - Axios",
+      "url": "https://www.axios.com/2025/06/11/cpi-inflation-report-may-trump-tariffs",
+      "urlToImage": "https://images.axios.com/BhuLfzl9X7Z0s3WLnydGvarowdA=/0x0:1920x1080/1366x768/2025/06/11/1749653594725.jpg"
     },
     {
-      "author": "Stephanie Lai, Skylar Woodhouse",
-      "content": "President Donald Trump said he intended to send letters to trading partners in the next one to two weeks setting unilateral tariff rates, ahead of a July 9 deadline to reimpose higher duties on dozen\u2026 [+273 chars]",
-      "description": "President Donald Trump said he intended to send letters to trading partners in the next one to two weeks setting unilateral tariff rates, ahead of a July 9 deadline to reimpose higher duties on dozens of economies.",
-      "publishedAt": "2025-06-11T23:29:40Z",
+      "author": "Andrew Romero",
+      "content": "The first beta release of Android 16 QPR1 rolled out a redesigned lock screen with a \u201cseen notifications\u201d section. That newly introduced UI element has now been made a little bit better in Android 16\u2026 [+1405 chars]",
+      "description": "The first beta release of Android 16 QPR1 rolled out a redesigned lock screen with a \u201cseen notifications\u201d section. That...",
+      "publishedAt": "2025-06-11T23:25:00Z",
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "9to5google.com"
       },
-      "title": "Trump Says Again He\u2019ll Set Unilateral Tariffs in Two Weeks - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-06-11/trump-says-he-will-set-unilateral-tariff-rates-within-two-weeks",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAxykERnEFzg/v0/1200x800.jpg"
+      "title": "Android 16 QPR1 Beta 2 redesigns viewed notifications, now transparent - 9to5Google",
+      "url": "http://9to5google.com/2025/06/11/android-16-qpr1-beta-2-transparent-notifications/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Android-16-QPR-1-Lockscreen-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "author": "Juli Clover",
+      "content": "iOS 26 features a whole new design material that Apple calls Liquid Glass, with a focus on transparency that lets the content on your display shine through the controls. If you're not a fan of the lo\u2026 [+1922 chars]",
+      "description": "iOS 26 features a whole new design material that Apple calls Liquid Glass, with a focus on transparency that lets the content on your display shine...",
+      "publishedAt": "2025-06-11T23:22:00Z",
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "title": "Hate iOS 26's Liquid Glass Design? Here's How to Tone It Down - MacRumors",
+      "url": "https://www.macrumors.com/2025/06/11/ios-26-liquid-glass-transparency/",
+      "urlToImage": "https://images.macrumors.com/t/TjqV6ecRl1uJlWcYJ1P5CqsMl9s=/2500x/article-new/2025/06/iOS-26-on-Three-iPhones.jpg"
     }
   ],
   "status": "ok",
