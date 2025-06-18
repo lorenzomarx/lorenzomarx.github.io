@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Zaheena Rasheed",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nExplosions rock Tehran and air raid sirens blare in Tel Aviv as hostilities between Iran and Israel continue for a fifth day.",
+      "description": "Blasts rock Tehran and sirens blare in Tel Aviv as hostilities between Iran and Israel continue for a fifth day.",
+      "publishedAt": "2025-06-17T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "LIVE: Israel, Iran trade attacks; Trump orders Tehran residents to flee",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/6/17/live-israel-iran-trade-attacks-trump-orders-residents-of-tehran-to-flee",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-16T215822Z_305123195_RC2X3FAOOE9N_RTRMADP_3_IRAN-NUCLEAR-ISRAEL-1750115845.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Joseph Stepansky",
       "content": "Washington, DC \u00a0United States President Donald Trump has surrounded himself with a cabinet and inner circle that is markedly less hawkish on Iran than during his first term.\r\nBut analysts told Al Jaz\u2026 [+9267 chars]",
       "description": "US president has surrounded himself with 'America First' adherents, possibly influencing his appetite for war.",
@@ -1286,21 +1299,8 @@
       "title": "At least 100 people killed in gunmen attack in Nigeria: Rights group",
       "url": "https://www.aljazeera.com/news/2025/6/14/at-least-100-people-killed-in-gunmen-attack-in-nigeria-rights-group",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2019/07/0c8f6cf40f6f4c30b7c7f099b9b8c8b9_18.jpeg?resize=1200%2C675"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "Irans official news agency IRNA says Iranian forces are carrying out a hybrid attack with drones accompanying the missiles targeting Israeli cities, with explosions heard in Israeli cities.\r\nIsraels \u2026 [+6241 chars]",
-      "description": "Israel intensified its military campaign against Iran for a second day, targeting key infrastructure.",
-      "publishedAt": "2025-06-14T20:47:29Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Iranian state media says new missile, drone attack launched against Israel",
-      "url": "https://www.aljazeera.com/news/2025/6/14/iranian-state-media-says-new-missile-drone-attack-launched-against-israel",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20250614__62E9836__v2__HighRes__TopshotIsraelPalestinianIranConflict-1749933946.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1601
+  "totalResults": 1602
 }
