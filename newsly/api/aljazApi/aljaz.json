@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Ted Regencia",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nThe US presidents announcement comes after Iran fired a salvo of missiles at a US military base in Qatar.",
+      "description": "The US president\u2019s announcement comes after Iran fired a salvo of missiles at a US military base in Qatar.",
+      "publishedAt": "2025-06-24T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "LIVE: Trump announces Israel-Iran truce after attack on US base in Qatar",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/6/24/live-trump-announces-ceasefire-no-confirmation-from-israel-iran",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-23T201657Z_345269980_RC2J8FA6XY15_RTRMADP_3_IRAN-NUCLEAR-1750722154.jpg?resize=1920%2C1440"
+    },
+    {
       "author": "Al Jazeera",
       "content": "A divided Supreme Court has allowed the administration of United States President Donald Trump to restart swift removals of migrants to countries other than their homeland, lifting a court order that\u2026 [+3403 chars]",
       "description": "Dissenting justice warns court actions expose 'thousands to the risk of torture or death'.",
@@ -1286,21 +1299,8 @@
       "title": "FIFA Club World Cup: Dortmund edge Sundowns 4-3 as Inter knock out Urawa",
       "url": "https://www.aljazeera.com/sports/2025/6/22/fifa-club-world-cup-dortmund-edge-sundowns-4-3-as-inter-knock-out-urawa",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20250621__63AF4E2__v1__HighRes__FblWcClub2025Match26InterMilanUrawa-1750571268.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera",
-      "content": "The United States has bombed three nuclear sites in Iran, further escalating the war between Israel and Iran.\r\nPresident Donald Trump late on Saturday said the US attacks obliterated the Iranian faci\u2026 [+7065 chars]",
-      "description": "A roundup of reactions as US joins Israel's war and attacks three Iranian nuclear sites.",
-      "publishedAt": "2025-06-22T06:12:39Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "\u2018Everlasting consequences\u2019: World reacts to US attacks on Iran",
-      "url": "https://www.aljazeera.com/news/2025/6/22/everlasting-consequences-world-reacts-to-us-attacks-on-iran",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP25171441791613-1750445978.jpg?resize=1920%2C1440"
     }
   ],
   "status": "ok",
-  "totalResults": 1625
+  "totalResults": 1626
 }
