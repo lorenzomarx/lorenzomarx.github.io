@@ -1,12 +1,28 @@
 {
   "articles": [
     {
+      "author": "Reuters",
+      "description": "Greece has arrested a Georgian woman suspected of discarding a cigarette that helped trigger one of several wildfires razing land and threatening homes on the island of Chios.",
+      "publishedAt": "2025-06-25T12:00:40Z",
+      "title": "Greece holds Georgian suspected of fuelling Chios fire with cigarette",
+      "url": "https://www.reuters.com/business/environment/greece-holds-georgian-suspected-fuelling-chios-fire-with-cigarette-2025-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MNH5Z4CRQRP43KEBLMCPRDHUTU.jpg?auth=2d23d6f4baf30441fc5a8878355e780154b3cf7ed08142c0346532ddbc4dc80b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Gram Slattery, Alexander Cornwell, Parisa Hafezi",
       "description": "The ceasefire brokered by U.S. President Donald Trump between Iran and Israel appeared to be holding on Wednesday a day after both countries signalled that their air war had ended, at least for now.",
       "publishedAt": "2025-06-25T03:15:28Z",
       "title": "Fragile ceasefire holding, Trump envoy says peace talks with Iran 'promising'",
       "url": "https://www.reuters.com/world/middle-east/fragile-ceasefire-holding-trump-envoy-says-peace-talks-with-iran-promising-2025-06-25/",
       "urlToImage": "https://www.reuters.com/resizer/v2/6P6OVVJGNRPTVFVXEHD2MQKATM.jpg?auth=b4eda63e3d948511ca599f5b8296d0f856d8ee9ab46a5c9ece16a74e0adf4e2c&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Andrew Gray, Sabine Siebold, Jeff Mason",
+      "description": "NATO leaders gather in The Hague on Wednesday for a summit tailor-made for U.S. President Donald Trump, with European allies hoping a pledge to hike defence spending will prompt him to dispel doubts about his commitment to the alliance.",
+      "publishedAt": "2025-06-24T22:56:05Z",
+      "title": "NATO leaders set to back Trump defence spending goal at Hague summit",
+      "url": "https://www.reuters.com/business/aerospace-defense/nato-leaders-set-back-trump-defence-spending-goal-hague-summit-2025-06-24/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ITB56SCUPVIHLFAK6MHL367QJE.jpg?auth=b029afb3aa4e8fd90c0ac0ac7a29cba55db745c8bf4b67434d225b3f8de73cfe&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -18,67 +34,51 @@
     },
     {
       "author": "Reuters",
-      "description": "Vietnam will remove the death penalty for eight offences from next month, including embezzlement and activities aimed at overthrowing the government, state media reported on Wednesday.",
-      "publishedAt": "2025-06-25T03:28:52Z",
-      "title": "Vietnam to remove death penalty for embezzlement, anti-state crimes",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnam-remove-death-penalty-embezzlement-anti-state-crimes-2025-06-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/6BZ2R4XRYRKHFLT6B23Z7RM3BU.jpg?auth=5e41d0fc9a7d3996ee6eb41e043155d0cf86ceb13b0a7386781ca18035c5f63a&height=1005&width=1920&quality=80&smart=true"
+      "description": "U.S. President Donald Trump said on Wednesday that the intelligence following the strikes on Iranian nuclear sites was inconclusive, but also suggested the damage could have been severe.",
+      "publishedAt": "2025-06-25T08:58:00Z",
+      "title": "Trump says intelligence on Iran was inconclusive, but suggests severe damage",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-intelligence-iran-was-inconclusive-suggests-severe-damage-2025-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/27FIXOAHKZOWHACDCHQQKX47JU.jpg?auth=9aa736f74d9dd54d754a541a1c63cd32426bc741edd26834e9982bff5c847d3c&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Andrew Gray, Sabine Siebold, Jeff Mason",
-      "description": "NATO leaders gather in The Hague on Wednesday for a summit tailor-made for U.S. President Donald Trump, with European allies hoping a pledge to hike defence spending will prompt him to dispel doubts about his commitment to the alliance.",
-      "publishedAt": "2025-06-24T22:56:05Z",
-      "title": "NATO leaders set to back Trump defence spending goal at Hague summit",
-      "url": "https://www.reuters.com/business/aerospace-defense/nato-leaders-set-back-trump-defence-spending-goal-hague-summit-2025-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/ITB56SCUPVIHLFAK6MHL367QJE.jpg?auth=b029afb3aa4e8fd90c0ac0ac7a29cba55db745c8bf4b67434d225b3f8de73cfe&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Jonathan Landay",
-      "description": "The United States is giving $30 million to a controversial humanitarian group delivering aid in war-torn Gaza despite concern among some U.S. officials about the month-old operation and the killing of Palestinians near food distribution sites, according to four sources and a document seen by Reuters.",
-      "publishedAt": "2025-06-24T19:39:41Z",
-      "title": "Exclusive: US to give $30 million to Gaza aid operation despite violence concerns",
-      "url": "https://www.reuters.com/world/middle-east/us-give-30-million-gaza-aid-operation-despite-violence-concerns-2025-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/QMOCLTNPF5NHNI324PVPN6Z3SE.jpg?auth=92e470f8dbb09147c162f55d3306f666d1729cb1892e03f0dd4d059d9ad20671&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Nidal Al-Mughrabi",
-      "description": "Israeli forces killed at least 29 Palestinians in Gaza and ordered new evacuations on Tuesday, local medics and residents said, in further bloodshed shortly after Israel and Iran reached a ceasefire to end a 12-day air war.",
-      "publishedAt": "2025-06-24T10:34:41Z",
-      "title": "Israel kills 29 in further Gaza bloodshed after reaching truce with Iran",
-      "url": "https://www.reuters.com/world/middle-east/israel-kills-29-further-gaza-bloodshed-after-reaching-truce-with-iran-2025-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/D4577JDHDZOO7IATPBHMDTGCZM.jpg?auth=0d407c7a9deecca3501c2b2c851881ceb5b233dfed570d33aca59e10db1677db&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Alasdair Pal",
-      "description": "The trial of an Australian woman accused of murdering three of her estranged husband's elderly relatives using toxic mushrooms entered its final stages on Wednesday, with the jury soon to begin its deliberations in a case that has gripped the nation.",
-      "publishedAt": "2025-06-25T04:02:55Z",
-      "title": "Erin Patterson trial: Australia awaits verdict in mushroom murder case",
-      "url": "https://www.reuters.com/legal/litigation/australia-prepares-verdict-mushroom-murder-trial-2025-06-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/DUBHGFQGSJOLDIKREHMZYOB4VQ.jpg?auth=978128c222edd18deba6d48942fe51dbf2504c57821ea0a728e9797eb7b87c7e&height=1005&width=1920&quality=80&smart=true"
+      "author": "Maria Tsvetkova, Joseph Ax",
+      "description": "Cuomo faced a spirited challenge from 33-year-old Zohran Mamdani, a relatively unknown state lawmaker who has pulled away from 10 others in a crowded field of candidates.",
+      "publishedAt": "2025-06-24T10:07:25Z",
+      "title": "Mamdani on verge of winning New York City's Democratic mayoral contest after Cuomo concedes",
+      "url": "https://www.reuters.com/world/us/new-york-mayoral-primary-progressive-upstart-aims-spoil-cuomos-comeback-bid-2025-06-24/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/3VV7XMGU3BMJHFST5623EF66JM.jpg?auth=2133e6dc3d27295f2f46cd7ccecc509e7a2e8e7b8e33daef291913007f1f0519&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "The Israeli military said seven personnel, an officer and six soldiers, were killed in fighting in the southern Gaza Strip on Tuesday.",
-      "publishedAt": "2025-06-25T04:08:59Z",
-      "title": "Seven Israeli soldiers killed during combat in Gaza, military says",
-      "url": "https://www.reuters.com/world/middle-east/seven-israeli-soldiers-killed-during-combat-gaza-military-says-2025-06-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "description": "Andrew Tate, an internet personality and self-described misogynist, faces a trial in Britain next year in four women's civil lawsuits for alleged physical and sexual abuse, after the case was brought forward on Wednesday.",
+      "publishedAt": "2025-06-25T10:37:05Z",
+      "title": "Andrew Tate's UK civil trial over abuse, coercive control allegations moved to 2026",
+      "url": "https://www.reuters.com/legal/litigation/andrew-tates-uk-civil-trial-over-abuse-coercive-control-allegations-moved-2026-2025-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/NXBJ5H5BM5JQLFFJPDLXZRQ3GU.jpg?auth=bcc5c8d7a519a784a446b4692bfa6fdaab4672da5c4fcce97dc016255ddd4cdc&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "Iran executed three men on Wednesday, after they were convicted of collaborating with Israel's Mossad spy agency and smuggling equipment used in an assassination, the judiciary's Mizan news agency reported.",
-      "publishedAt": "2025-06-25T03:30:41Z",
-      "title": "Iran hangs three men for spying for Israel",
-      "url": "https://www.reuters.com/world/middle-east/iran-hangs-three-men-spying-israel-2025-06-25/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+      "description": "Iran's parliament approved a bill on Wednesday to suspend cooperation with the U.N. nuclear watchdog, state-affiliated news outlet Nournews reported.",
+      "publishedAt": "2025-06-25T06:53:21Z",
+      "title": "Iran's parliament approves bill on suspending cooperation with IAEA",
+      "url": "https://www.reuters.com/world/middle-east/iran-parliament-approves-bill-suspend-cooperation-with-un-nuclear-watchdog-2025-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/BZ5T2CCQZFNRZMGVOZADPFQKWU.jpg?auth=ceba8e262b3c5e1673de31b579eeb042ddb41f622c3c1f6f6531f8405eafc045&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
-      "description": "A Russian missile attack on Ukraine's southeastern Dnipropetrovsk region on Tuesday killed at least nine people, damaged civilian infrastructure and wounded dozens of train passengers, officials said.",
-      "publishedAt": "2025-06-24T11:41:26Z",
-      "title": "Russian missile attack kills nine, damages passenger train in southeast Ukraine",
-      "url": "https://www.reuters.com/world/europe/russian-missile-attack-kills-nine-damages-passenger-train-southeast-ukraine-2025-06-24/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JQM45K7WNNNPPIAPAAADB7N2GM.jpg?auth=735416a5e13a5ce89332641169681f3aa31159d2d3111a4c045982a90177ae5e&height=1005&width=1920&quality=80&smart=true"
+      "description": "Pope Leo appealed to Iran and Israel on Wednesday not to pursue vengeance after 12 days of war, which the U.S. joined with airstrikes in support of Israel to target Iran's uranium-enrichment facilities.",
+      "publishedAt": "2025-06-25T11:09:15Z",
+      "title": "Pope Leo appeals to Iran and Israel not to pursue vengeance after war",
+      "url": "https://www.reuters.com/world/middle-east/pope-leo-appeals-iran-israel-not-pursue-vengeance-after-war-2025-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/3OJR6BI7GRONVEJR53LDDARWXM.jpg?auth=b88c588d3970e585d3c2b4d57df379c4bef7b4f09459c8a60d7ad072c3bdced4&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Rami Amichay, Artorn Pookasook, Janis Laizans",
+      "description": "Pop music blared from a Tel Aviv school on Wednesday as children arrived for their first day back after 12 days of air war with Iran kept them confined to safe rooms and bomb shelters with stressed parents.",
+      "publishedAt": "2025-06-25T11:35:45Z",
+      "title": "Israelis welcome return to normal life, but fears for Gaza hostages resurface",
+      "url": "https://www.reuters.com/world/middle-east/israelis-welcome-return-normal-life-fears-gaza-hostages-resurface-2025-06-25/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/R4XOL4CZDJJNXEZHHTOPE42BJI.jpg?auth=42ab8e6ca5b402679e335c73a2ce8bf10657046245bca88ec8f2e0ff991e52c4&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
