@@ -1,88 +1,10 @@
 {
   "articles": [
     {
-      "author": "WSJ",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-06-26T18:24:00Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "Stock Market Today: Dow Gains; Trump Considers Naming New Fed Chair Early \u2014 Live Updates - WSJ",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2025",
-      "urlToImage": null
-    },
-    {
-      "author": "Jacqui Palumbo, Oscar Holland",
-      "content": "After nearly four decades as the editor-in-chief of American Vogue, Anna Wintour is stepping down and seeking a replacement, the magazines publisher Cond\u00e9 Nast confirmed to CNN.\r\nWintour broke the ne\u2026 [+2194 chars]",
-      "description": "After nearly four decades as the editor-in-chief of American Vogue, Anna Wintour is stepping down, and seeking a replacement.",
-      "publishedAt": "2025-06-26T17:57:00Z",
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "title": "Anna Wintour stepping down as Vogue editor-in-chief - CNN",
-      "url": "https://www.cnn.com/2025/06/26/style/anna-wintour-steps-down-vogue-editor-in-chief",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2023453279.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "author": null,
-      "content": "NEW YORK (AP) Sean Diddy Combs thought his fame, wealth and power put him above the law as he led a criminal enterprise for two decades, using power, violence and fear to carry out brutal crimes, a p\u2026 [+4461 chars]",
-      "description": "A prosecutor has begun two days of closing arguments at Sean \u201cDiddy\u201d Combs' sex trafficking trial by telling a jury that the music mogul used \u201cpower, violence and fear\u201d to rule a criminal enterprise for two decades. The closing on Thursday was delivered by As\u2026",
-      "publishedAt": "2025-06-26T16:59:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Prosecutor says Sean 'Diddy' Combs thought he was above the law as he led a racketeering conspiracy - AP News",
-      "url": "https://apnews.com/article/sean-combs-diddy-trial-831c43678c42e4c84e13e42e9cd210ec",
-      "urlToImage": "https://dims.apnews.com/dims4/default/201d725/2147483647/strip/true/crop/3000x1688+0+320/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F43%2F4d%2F05f043d014ab053a93d70f7b0dd2%2F119115ab5d304c789794a1e8286147e8"
-    },
-    {
-      "author": "Sean O'Kane",
-      "content": "Omead Afshar, Tesla\u2019s vice president in charge of sales and manufacturing in North America and Europe, has reportedly been fired by CEO Elon Musk, according to Forbes.\r\nIt\u2019s not immediately known why\u2026 [+2238 chars]",
-      "description": "Omead Afshar, one of Musk's top lieutenants, is out after more than seven years at the company. He was recently elevated to a VP role in late 2024.",
-      "publishedAt": "2025-06-26T16:50:21Z",
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "title": "Elon Musk reportedly fires Tesla\u2019s top sales exec - TechCrunch",
-      "url": "https://techcrunch.com/2025/06/26/elon-musk-reportedly-fires-teslas-top-sales-exec/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-illustration-getty.jpg?resize=1200,800"
-    },
-    {
-      "author": "Jay Peters",
-      "content": "Premium members may see an AI-written summary pop up when they search.\r\nGoogle is bringing an AI Overviews-like feature to another product: YouTube. The video streaming platform may now show an AI-po\u2026 [+940 chars]",
-      "description": "Some YouTube Premium members may start seeing an AI-powered search results carousel for certain types of searches.",
-      "publishedAt": "2025-06-26T16:22:57Z",
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "title": "YouTube search gets its own version of Google\u2019s AI Overviews - The Verge",
-      "url": "https://www.theverge.com/news/693658/youtube-search-ai-overviews-google",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "author": null,
-      "content": "Lando Norris has detailed the \"tough couple of days\" he had with McLaren in the aftermath of his collision with Oscar Piastri in Canada.\r\nOn Lap 66 in Montreal, Norris clipped the rear of Piastri's s\u2026 [+1933 chars]",
-      "description": "Lando Norris immediately admitted responsibility for the Canadian Grand Prix clash with Oscar Piastri, leading to uncomfortable meetings with McLaren.",
-      "publishedAt": "2025-06-26T16:20:00Z",
-      "source": {
-        "id": null,
-        "name": "Racingnews365.com"
-      },
-      "title": "Lando Norris confirms talks with McLaren: 'A tough couple of days' - racingnews365.com",
-      "url": "https://racingnews365.com/lando-norris-confirms-talks-with-mclaren-a-tough-couple-of-days",
-      "urlToImage": "https://cdn.racingnews365.com/2025/Norris/_1800x945_crop_center-center_75_none/Lando-Norris-Canadian.png?v=1750072482"
-    },
-    {
-      "author": "Logan Stefanich, KSL.com",
-      "content": "SALT LAKE CITY Utah public health officials on Thursday became aware of two more people diagnosed with measles, bringing the total cases in the state to five.\r\nOne of the newly identified individuals\u2026 [+1733 chars]",
+      "author": "Logan Stefanich, KSL.com, Emily Ashcraft, KSL.com",
+      "content": "SALT LAKE CITY Utah State Epidemiologist Leisha Nolen announced Thursday that the state has identified two additional measles cases, bringing the total to five two of whom are pregnant women.\r\nShe al\u2026 [+3839 chars]",
       "description": "Utah public health officials on Thursday became aware of two more people diagnosed with measles, bringing the total cases in the state to five.",
-      "publishedAt": "2025-06-26T16:11:35Z",
+      "publishedAt": "2025-06-26T21:55:19Z",
       "source": {
         "id": null,
         "name": "KSL.com"
@@ -92,121 +14,212 @@
       "urlToImage": "https://img.ksl.com/slc/3090/309086/30908663.jpeg?filter=kslv2/responsive_story_lg"
     },
     {
-      "author": "Bill Chappell",
-      "content": "Dune director Denis Villeneuve views the world of James Bond as \"sacred territory.\" Now he'll have a chance to shape that world: the Quebecois filmmaker is directing the next installment of the vener\u2026 [+3165 chars]",
-      "description": "\"I'm a die-hard Bond fan,\" Denis Villeneuve says. The Quebecois filmmaker's hiring comes as a relief to British 007 fans who had feared the worst when U.S. company Amazon MGM took control of Bond.",
-      "publishedAt": "2025-06-26T16:05:56Z",
+      "author": "Jeff Passan",
+      "content": "Tampa Bay Rays shortstop Wander Franco was found guilty of sexual abuse of a minor in the Dominican Republic and received a suspended two-year prison sentence Thursday after he had a sexual relations\u2026 [+2773 chars]",
+      "description": "Rays shortstop Wander Franco was found guilty of sexual abuse of a minor in the Dominican Republic and received a suspended two-year prison sentence Thursday.",
+      "publishedAt": "2025-06-26T21:46:00Z",
       "source": {
-        "id": null,
-        "name": "NPR"
+        "id": "espn",
+        "name": "ESPN"
       },
-      "title": "The next James Bond film will have Dune's Denis Villeneuve as its director - NPR",
-      "url": "https://www.npr.org/2025/06/26/nx-s1-5446011/james-bond-denis-villeneuve-dune-director",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5011x2819+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F4e%2Fd05030174f48ad15117ad5588228%2Fgettyimages-2202514733.jpg"
+      "title": "Rays' Franco found guilty in sexual abuse case - ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/45592342/rays-wander-franco-guilty-sexual-abuse-gets-suspended-sentence",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0602%2Fr1501761_1296x729_16%2D9.jpg"
     },
     {
-      "author": "Max Saltman",
-      "content": "A former jewelry store manager in the United Kingdom was sentenced to 28 months in prison after posting selfies wearing stolen merchandise and sending them to her coworkers, Humberside Police said in\u2026 [+1932 chars]",
-      "description": "A former jewelry store manager in the UK was sentenced to 28 months in prison after posting selfies wearing stolen merchandise and sending them to her coworkers, Humberside Police said in a statement.",
-      "publishedAt": "2025-06-26T16:01:00Z",
+      "author": "Jacqui Palumbo, Oscar Holland",
+      "content": "After nearly four decades as the editor-in-chief of American Vogue, Anna Wintour is stepping down and seeking a replacement.\r\nWintour broke the news to staffers on Thursday. Although shell exit the U\u2026 [+2165 chars]",
+      "description": "After nearly four decades as the editor-in-chief of American Vogue, Anna Wintour is stepping down, but will still oversee Vogue\u2019s global editorial direction.",
+      "publishedAt": "2025-06-26T21:24:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "Vacation selfies of a British woman \u2018dripping in diamonds\u2019 lead to her arrest for jewelry theft, police say - CNN",
-      "url": "https://www.cnn.com/2025/06/25/world/uk-lucy-roberts-jewelry-theft-sentence-intl-latam",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/lucy-roberts-39-pleaded-quilty-to-theft-by-an-employee-humberside-police.jpg?c=16x9&q=w_800,c_fill"
+      "title": "Anna Wintour steps down as Vogue editor-in-chief, but will retain control of storied magazine - CNN",
+      "url": "https://www.cnn.com/2025/06/26/style/anna-wintour-steps-down-vogue-editor-in-chief",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2023453279.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": null,
-      "content": "At UFC 317, the flyweight title will be on the line as Alexandre Pantoja looks to defeat a challenger that hes beaten once before.\r\nA lot of the talk leading up to June 28 has centered around the lig\u2026 [+2942 chars]",
-      "description": "Pantoja and Kara-France first shared the Octagon in 2016",
-      "publishedAt": "2025-06-26T16:00:00Z",
+      "author": "Connor Smith, Anthony Harrup, Dow Jones Newswires, Joseph Hoppe, Dow Jones Newswires, Karishma Vanjani, Paulo Trevisani, Dow Jones Newswires, Matt Grossman, Dow Jones Newswires, George Glover, Renae Dyer, Dow Jones Newswires",
+      "content": "The stock market rallied on Thursday, but the S&amp;P 500 and Nasdaq Composite couldnt hold on for record closes.\r\nThe S&amp;P 500 gained 0.8%. The Nasdaq Composite rose 1%. The Dow Jones Industrial \u2026 [+1239 chars]",
+      "description": "The S&P 500 and Nasdaq rise and finish short of record highs. The Dow also gained. Markets reacted to reports that President Donald Trump is considering naming the next Federal Reserve chair in September or October, which fueled bets the central bank would cu\u2026",
+      "publishedAt": "2025-06-26T21:12:00Z",
       "source": {
         "id": null,
-        "name": "Bloody Elbow"
+        "name": "Barron's"
       },
-      "title": "'Neither fighter really did much'... Dana White was critical of Alexander Pantoja and Kai Kara-France's first fight - Bloody Elbow",
-      "url": "https://bloodyelbow.com/2025/06/26/neither-fighter-really-did-much-dana-white-was-critical-of-alexander-pantoja-and-kai-kara-frances-first-fight/",
-      "urlToImage": "https://bloodyelbow.com/wp-content/uploads/1/2025/06/generated-image-341.jpg"
+      "title": "Stock Market News From June 26, 2025: S&P 500 and Nasdaq Gain, Close Short of Records - Barron's",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-062625",
+      "urlToImage": "https://images.barrons.com/im-783602/social"
     },
     {
-      "author": null,
-      "content": "Kenya's interior minister has denied that the police used excessive force during Wednesday's protests in which at least 10 people were killed, describing them as \"terrorism disguised as dissent\" and \u2026 [+2977 chars]",
-      "description": "At least 10 people died in the protests and 400 others injured, including 300 police officers, minister says.",
-      "publishedAt": "2025-06-26T15:42:13Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Kenya protests: Interior Minister Kipchumba Murkomen describes demonstrations as 'coup attempt' - BBC",
-      "url": "https://www.bbc.com/news/articles/cjwn257j7y2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8570/live/0c49dc90-5294-11f0-966c-2964b4227343.jpg"
-    },
-    {
-      "author": "Jordain Carney, Benjamin Guggenheim",
-      "content": null,
-      "description": "Multiple Republicans erupted after Elizabeth MacDonough advised against key parts of the GOP megabill.",
-      "publishedAt": "2025-06-26T15:37:24Z",
+      "author": "Lauren Gardner, Sophie Gardner",
+      "content": "Here are the takeaways from the two-day meeting at CDC headquarters in Atlanta:\r\nIts agenda was Kennedys\r\nThe panel voted Thursday to stop recommending that anyone get a flu vaccine that contains thi\u2026 [+5900 chars]",
+      "description": "The meeting offered a glimpse into how the new Advisory Committee on Immunization Practices will operate \u2014 and how federal vaccine policy is beginning to reflect Kennedy\u2019s personal views.",
+      "publishedAt": "2025-06-26T21:03:45Z",
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "title": "Thune says Senate won\u2019t overrule parliamentarian - Politico",
-      "url": "https://www.politico.com/live-updates/2025/06/26/congress/john-thune-senate-parliamentarian-overrule-00425792",
-      "urlToImage": "https://www.politico.com/dims4/default/da40824/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F1d%2Faf%2Fad102abd45e6a15194e4e2e922c2%2Fu-s-congress-96846.jpg"
+      "title": "Kennedy\u2019s vaccine panel met for the first time. Here\u2019s what to know. - Politico",
+      "url": "https://www.politico.com/news/2025/06/26/kennedys-vaccine-panel-met-for-the-first-time-heres-what-to-know-00428461",
+      "urlToImage": "https://static.politico.com/c5/ad/b0d3d59d4b579dabd20a6a1dd9e3/cdc-vaccine-committee-64682.jpg"
     },
     {
-      "author": "Lawrence Hurley",
-      "content": "WASHINGTON The Supreme Court on Thursday ruled for South Carolina in its effort to defund Planned Parenthood, concluding that individual Medicaid patients cannot sue to enforce their right to pick a \u2026 [+3829 chars]",
-      "description": "WASHINGTON \u2014 The Supreme Court on Thursday ruled for South Carolina in its effort to defund Planned Parenthood, concluding that individual Medicaid patients cannot sue to enforce their right to pick a medical provider.",
-      "publishedAt": "2025-06-26T14:54:46Z",
+      "author": "Ann E. Marimow",
+      "content": "A divided Supreme Court on Thursday ruled against Planned Parenthood, saying Medicaid patients do not have a right to sue to obtain non-abortion health care from the organizations medical providers.\r\u2026 [+6097 chars]",
+      "description": "Ruling says Medicaid patients cannot sue to get non-abortion health care from Planned Parenthood if states have cut off government funding for those clinics.",
+      "publishedAt": "2025-06-26T20:37:08Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Supreme Court allows states to cut off Medicaid funding for Planned Parenthood - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/06/26/supreme-court-planned-parenthood-medicaid-south-carolina/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VMC7YF63MED7DD4MPRW4Q7PF4E_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "Stephen Foley, Claire Jones, Emma Agyemang",
+      "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT \u2026 [+202 chars]",
+      "description": "Scott Bessent says deal with G7 would stop global minimum taxes from applying to American companies",
+      "publishedAt": "2025-06-26T20:27:10Z",
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "title": "US Treasury asks Congress to scrap retaliatory tax measure in Trump budget bill - Financial Times",
+      "url": "https://www.ft.com/content/5d99c735-97e4-4574-be16-81da32ac48eb",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb75a1c8a-eed7-4118-a29a-76d9ae34b4bf.jpg?source=next-barrier-page"
+    },
+    {
+      "author": "Victoria Bisset",
+      "content": "Nestl\u00e9 USA and Conagra Brands are the latest food giants to say theyll end the use of certain synthetic colors in food and drink products within the next year. This comes amid a growing backlash agai\u2026 [+3631 chars]",
+      "description": "Nestl\u00e9 and Conagra said they would stop using FD&C colors in products, as Health Secretary Robert F. Kennedy Jr. has urged the industry to stop using synthetic food dyes.",
+      "publishedAt": "2025-06-26T20:04:32Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Nestl\u00e9 and Conagra join companies dropping synthetic food dyes amid pressure - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/06/26/nestle-artificial-food-dyes-conagra/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/355LT63HLNJRRGSVQBF7YIFBGU_size-normalized.JPG&w=1440"
+    },
+    {
+      "author": "Stephen Morris",
+      "content": "White House Watch newsletter\r\nSign up for your free, indispensable guide to what Trumps second term means for Washington, business and the world.",
+      "description": "Omead Afshar departs electric vehicle maker as it contends with a steep slump in sales",
+      "publishedAt": "2025-06-26T19:55:23Z",
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "title": "Tesla parts ways with top executive and fixer for Elon Musk - Financial Times",
+      "url": "https://www.ft.com/content/27e5413b-2ac3-426e-bda6-2a95ef42b80e",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd3adc064-823e-4959-9ce8-08c9ef75d267.jpg?source=next-barrier-page"
+    },
+    {
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "content": null,
+      "description": null,
+      "publishedAt": "2025-06-26T19:30:00Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Trump hosts event to rally Republicans behind his megabill - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/trump-host-event-rally-republicans-megabill/story?id\\\\u003d123242448",
+      "urlToImage": null
+    },
+    {
+      "author": "Ben Schoon",
+      "content": "A patent dispute in Japan has led to Google no longer being able to sell select older Pixel devices, and the company behind it is gunning for newer generations too.\r\nAs reported by ETNews, a Japanese\u2026 [+1607 chars]",
+      "description": "Google has been banned from selling select Pixel phones in Japan over a patent dispute, and it might not end there.",
+      "publishedAt": "2025-06-26T19:05:00Z",
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "title": "Google banned from selling select Pixel phones in Japan, and it might not end there - 9to5Google",
+      "url": "http://9to5google.com/2025/06/26/google-pixel-japan-sales-ban/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/05/google-pixel-7a-12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "author": "Sahil Kapur, Frank Thorp V, Scott Wong",
+      "content": "WASHINGTON Republicans suffered a blow Thursday after the Senate referee ruled that a series of health care cuts and savings in their sweeping domestic policy bill are ineligible for the party-line p\u2026 [+6357 chars]",
+      "description": "Some conservatives called for the parliamentarian to be fired or overruled after she determined a series of policies in the legislation didn't comply with Senate budget rules.",
+      "publishedAt": "2025-06-26T18:45:26Z",
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "title": "Supreme Court rules for South Carolina in its bid to defund Planned Parenthood - NBC News",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-south-carolina-bid-defund-planned-parenthood-rcna206796",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_34/2905296/190621-planned-parenthood-st-louis-al-0939.jpg"
+      "title": "Republicans are dealt a setback on their big bill as Senate referee disqualifies key provisions - NBC News",
+      "url": "https://www.nbcnews.com/politics/congress/republicans-dealt-setback-bill-senate-referee-disqualifies-provisions-rcna215224",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250626-john-thune-vl-1007a-5ad7ce.jpg"
     },
     {
-      "author": "Ryan King, Chris Nesi",
-      "content": "The Pentagon released stunning footage Thursday showcasing exactly how 30,000-pound heavy-duty bunker-buster bombs work such as the ones used against Iran\u2019s nuclear sites demolished fortified targets\u2026 [+2752 chars]",
-      "description": "The Pentagon released jaw-dropping footage showcasing how the 30,000-pound heavy-duty bunker-buster bombs that were used against Iran successfully demolish fortified targets deep underground.",
-      "publishedAt": "2025-06-26T14:12:47Z",
+      "author": "Jonathan Wasserman",
+      "content": "Day 2 of the 2025 NBA draft features a group of talented available prospects, including some sliding first-round projections. \r\nEntering the night, we have three \r\ntop-30 players still on the board.\r\u2026 [+578 chars]",
+      "description": "Day 2 of the 2025 NBA draft features a group of talented available prospects, including some sliding first-round projections.",
+      "publishedAt": "2025-06-26T18:22:30Z",
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
       },
-      "title": "Jaw-dropping footage released showing how 30,000-pound bunker-buster bombs were used in historic Iran strike - New York Post",
-      "url": "https://nypost.com/2025/06/26/world-news/footage-released-showing-how-bunker-buster-bombs-were-used-in-historic-iran-strike/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/bunker-buster-bombs-work-video-COMP.jpg?quality=75&strip=all&w=1024"
+      "title": "2025 NBA Mock Draft Predictions for Lakers, Warriors, Celtics, More In Round 2 - Bleacher Report",
+      "url": "https://bleacherreport.com/articles/25216539-2025-nba-mock-draft-predictions-lakers-warriors-celtics-more-round-2",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2160316747_large_cropped.jpg?w=3800&h=2000"
     },
     {
-      "author": "Annika Kim Constantino",
-      "content": "Robert F. Kennedy Jr.'s revamped government panel of outside vaccine advisors on Thursday recommended the use of Merck's shot to protect infants from respiratory syncytial virus, a temporary reprieve\u2026 [+3347 chars]",
-      "description": "The votes in favor of Merck's shot are a sigh of relief after Kennedy gutted the panel and tapped replacements, some of whom are well-known vaccine critics.",
-      "publishedAt": "2025-06-26T14:03:51Z",
+      "author": "Rhys Blakely",
+      "content": "The forces of evolution are helping Britains ash trees to fight back against a deadly fungus that has threatened to decimate the species, a study suggests.After ash dieback was first recorded in the \u2026 [+2398 chars]",
+      "description": "Natural selection is producing traits that should help young trees survive the deadly fungus",
+      "publishedAt": "2025-06-26T18:01:29Z",
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Thetimes.com"
       },
-      "title": "RFK Jr.'s CDC vaccine panel backs Merck RSV shot for infants - CNBC",
-      "url": "https://www.cnbc.com/2025/06/26/rfk-jr-cdc-vaccine-panel-backs-merck-rsv-shot-for-infants.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107405221-1713892565815-gettyimages-1988355170-scooter262243_5r57gm4x.jpeg?v=1750955954&w=1920&h=1080"
+      "title": "Ash trees evolving resistance to dieback - The Times",
+      "url": "https://www.thetimes.com/uk/science/article/ash-trees-evolving-resistance-to-dieback-j8kl7t5bc",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fabc8567f-cc2c-4fe9-bbbf-17fe0766bb4c.jpg?crop=6000%2C3375%2C0%2C156&resize=1200"
     },
     {
-      "author": "See full bio",
-      "content": "Halfway between Newark and San Francisco, I was settled into my economy seat and fully enjoying the first-class gaming ticket that the Nintendo Switch 2 was giving me in-flight. A big 7.9-inch screen\u2026 [+19771 chars]",
-      "description": "Nintendo's latest console is the future in familiar form, and a doorway to a lot more. But the fun's still under construction, so you don't need to hop on yet.",
-      "publishedAt": "2025-06-26T14:00:00Z",
+      "author": "Margherita Bassi",
+      "content": "Due to the movement of Earths tectonic plates, our planets crust is constantly recycled, making rocks and minerals from its earliest days incredibly rare. Thats frustrating for geologists, since surf\u2026 [+2628 chars]",
+      "description": "Rocks older than 4.03 billion years could shed light on Earth's earliest geological history, but they're incredibly rare.",
+      "publishedAt": "2025-06-26T18:00:48Z",
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "Gizmodo.com"
       },
-      "title": "Nintendo Switch 2 Review: The Future in Familiar Form - CNET",
-      "url": "https://www.cnet.com/tech/gaming/nintendo-switch-2-review/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/b981378dca98e22bef6170b3e195389cf4509074/hub/2025/06/06/27f8c939-eef0-4e83-b469-960b918132ff/switch-2-tablemode.jpg?auto=webp&fit=crop&height=675&width=1200"
+      "title": "Ancient Rocks in Canada Are Almost as Old as the Earth Itself - Gizmodo",
+      "url": "https://gizmodo.com/ancient-rocks-in-canada-are-almost-as-old-as-the-earth-itself-2000620057",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/the-Nuvvuagittuq-Greenstone-Belt-1200x675.jpg"
+    },
+    {
+      "author": "Andrew Cunningham",
+      "content": null,
+      "description": "It only makes any sense at all because of the old Surface Laptop\u2019s price hike.",
+      "publishedAt": "2025-06-26T17:27:34Z",
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "title": "13-inch Microsoft Surface Laptop review: A slightly worse version of a year-old PC - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/06/review-microsofts-13-inch-surface-laptop-isnt-bad-but-it-is-a-step-down/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/IMG_3181-1152x648.jpeg"
+    },
+    {
+      "author": "StudyFinds Analysis",
+      "content": "Heart attacks are no longer the leading cause of death from heart disease. (Carlos_Pascual/Shutterstock)\r\n<ul><li>Heart attack deaths have dropped by 89% since 1970, thanks to major medical advances,\u2026 [+7322 chars]",
+      "description": "A new study reveals that the nature of heart disease mortality has transformed over the past five decades.",
+      "publishedAt": "2025-06-26T17:06:54Z",
+      "source": {
+        "id": null,
+        "name": "Study Finds"
+      },
+      "title": "Heart Attacks Are Down Nearly 90% Since 1970, Yet Heart Disease Has Become A More Complex Killer -- Here\u2019s How - Study Finds",
+      "url": "https://studyfinds.org/heart-disease-complex-1970s/",
+      "urlToImage": "https://studyfinds.org/wp-content/uploads/2025/06/Heart-attack-scaled.jpg"
     }
   ],
   "status": "ok",
