@@ -1,28 +1,20 @@
 {
   "articles": [
     {
-      "author": "David Latona, Silvio Castellanos",
-      "description": "Activists marched in blistering heat through southern Spain's Seville on Sunday, calling for debt cancellation, climate justice and taxing the super rich on the eve of a UN summit on financing development that critics say lacks ambition and scope.",
-      "publishedAt": "2025-06-29T22:56:10Z",
-      "title": "Protesters demand debt cancellation, climate action ahead of UN summit",
-      "url": "https://www.reuters.com/world/protesters-demand-debt-cancellation-climate-action-ahead-un-summit-2025-06-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/77IP335KVRNHTD6Q2ZJBLVH6O4.jpg?auth=27839799f3f04c2119100e61300f87b89f670d933d694ee75672eea9f3f898b2&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Howard Goller",
-      "description": "Prime Minister Benjamin Netanyahu said on Sunday the 12-day war with Iran had created opportunities for Israel, and the first was the return of hostages held in Gaza by Palestinian militants who attacked Israel on October 7, 2023.",
-      "publishedAt": "2025-06-29T20:45:30Z",
-      "title": "Netanyahu sees Iran outcome opening door to Gaza hostage return",
-      "url": "https://www.reuters.com/world/middle-east/netanyahu-sees-iran-outcome-opening-door-gaza-hostage-return-2025-06-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/DXI5FAAKQ5JUBMVZ7L5QB7ZRKA.jpg?auth=bc639d8a395c2c59287481588a556466f4fd848ae25e25fe2f3a2e6f5dfce38b&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
       "author": "Reuters",
       "description": "Russia used hundreds of drones, cruise and ballistic missiles to attack western, southern and central Ukraine overnight, damaging homes and infrastructure and injuring at least six people, local authorities said on Sunday.",
       "publishedAt": "2025-06-29T06:37:28Z",
       "title": "At least six wounded in large-scale Russian air attack on Ukraine, Ukrainian authorities say",
       "url": "https://www.reuters.com/business/aerospace-defense/least-six-wounded-large-scale-russian-air-attack-ukraine-ukrainian-authorities-2025-06-29/",
       "urlToImage": "https://www.reuters.com/resizer/v2/E2H6DWHHRNJSDKKJXKMN5TJUFA.jpg?auth=6b352bfa9d5c154fcb64c8bfd9c58e70f1c33211d28b72bde44c059f1a8f5d9e&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Krishna N. Das",
+      "description": "The Dalai Lama will address a major three-day gathering of Buddhist religious figures this week ahead of his 90th birthday, as his followers wait for the Tibetan spiritual leader to share details about his succession in a move that could irk China.",
+      "publishedAt": "2025-06-30T03:53:02Z",
+      "title": "Dalai Lama set to reveal succession plan as China watches",
+      "url": "https://www.reuters.com/world/china/dalai-lama-set-reveal-succession-plan-china-watches-2025-06-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DXMUBSBXTZNLXKGIG6G6U3HCEU.jpg?auth=0650e7a3c739d265c67f47d81f1e1e556828cb629f0439e31ca1ac531c18cc61&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "Reuters",
@@ -33,12 +25,44 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/P6PMMPHWYVJTDI6S3JUEJY6XRM.jpg?auth=61b9cc51eb5ca14adff41ea336b916c61eff490d88b570710214abd413f09c68&height=1005&width=1920&quality=80&smart=true"
     },
     {
+      "author": "Reuters",
+      "description": "The pace of talks to resolve the war in Ukraine depends on Kyiv's position, the effectiveness of U.S. mediation, and the situation on the ground, Kremlin spokesman Dmitry Peskov said in remarks televised on Sunday.",
+      "publishedAt": "2025-06-30T03:43:32Z",
+      "title": "Pace of Ukraine talks hinges on efforts of Kyiv, Washington, Kremlin says",
+      "url": "https://www.reuters.com/world/europe/pace-ukraine-talks-hinges-efforts-kyiv-washington-kremlin-says-2025-06-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/36Q2FMPRWJOMXH2UO3OIJURAYY.jpg?auth=36a122b3f8d34027ad535e00064897a2f037654712b44a6363b5c2fa31105dda&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Howard Goller",
+      "description": "Prime Minister Benjamin Netanyahu said on Sunday the 12-day war with Iran had created opportunities for Israel, and the first was the return of hostages held in Gaza by Palestinian militants who attacked Israel on October 7, 2023.",
+      "publishedAt": "2025-06-29T20:45:30Z",
+      "title": "Netanyahu sees Iran outcome opening door to Gaza hostage return",
+      "url": "https://www.reuters.com/world/middle-east/netanyahu-sees-iran-outcome-opening-door-gaza-hostage-return-2025-06-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DXI5FAAKQ5JUBMVZ7L5QB7ZRKA.jpg?auth=bc639d8a395c2c59287481588a556466f4fd848ae25e25fe2f3a2e6f5dfce38b&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "Alasdair Pal",
+      "description": "The jury in the trial of an Australian woman who allegedly murdered three elderly relatives of her estranged husband using poisonous mushrooms retired to consider its verdict on Monday, in a case that has gripped the country.",
+      "publishedAt": "2025-06-30T03:11:26Z",
+      "title": "Jury in Australia's mushroom murder trial retires to consider verdict",
+      "url": "https://www.reuters.com/world/asia-pacific/jury-australias-mushroom-murder-trial-retires-consider-verdict-2025-06-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/GDNKEPZPLROWFBRLCQB5TGVUMY.jpg?auth=3e86ed9a78aa7acc1456103068d85bd6af0c331e9c72307411ecf78f32d8ebc0&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
       "author": "Nidal Al-Mughrabi",
       "description": "The Israeli military ordered Palestinians to evacuate areas in northern Gaza on Sunday before intensified fighting against Hamas, as U.S. President Donald Trump called for an end to the war amid renewed efforts to broker a ceasefire.",
       "publishedAt": "2025-06-29T08:21:23Z",
       "title": "Israel orders evacuations in northern Gaza as Trump calls for war to end",
       "url": "https://www.reuters.com/world/middle-east/israel-orders-evacuations-northern-gaza-trump-calls-war-end-2025-06-29/",
       "urlToImage": "https://www.reuters.com/resizer/v2/4YB6CVCTVFOGNJGBPLNTPQCDTM.jpg?auth=dbce1ac03db90da6593c0bf606bc7ea7f19cb71f2976ba811cbb1cfd715616e6&height=1005&width=1920&quality=80&smart=true"
+    },
+    {
+      "author": "David Latona, Silvio Castellanos",
+      "description": "Activists marched in blistering heat through southern Spain's Seville on Sunday, calling for debt cancellation, climate justice and taxing the super rich on the eve of a UN summit on financing development that critics say lacks ambition and scope.",
+      "publishedAt": "2025-06-29T22:56:10Z",
+      "title": "Protesters demand debt cancellation, climate action ahead of UN summit",
+      "url": "https://www.reuters.com/world/protesters-demand-debt-cancellation-climate-action-ahead-un-summit-2025-06-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/77IP335KVRNHTD6Q2ZJBLVH6O4.jpg?auth=27839799f3f04c2119100e61300f87b89f670d933d694ee75672eea9f3f898b2&height=1005&width=1920&quality=80&smart=true"
     },
     {
       "author": "David Morgan, Nicole Johnson",
@@ -49,36 +73,12 @@
       "urlToImage": "https://www.reuters.com/resizer/v2/MHKXMHUDYFMMHLJRQ4BXLCJJGE.jpg?auth=44a74ed55bb05093879e73d21f3261da010e22d6a73657a3a4940615f7f23690&height=1005&width=1920&quality=80&smart=true"
     },
     {
-      "author": "Francois Murphy, John Irish",
-      "description": "U.N. inspectors in Iran face a conundrum: How can you tell if enriched uranium stocks, some of them near weapons grade, were buried beneath the rubble or were secretly hidden away?",
-      "publishedAt": "2025-06-29T11:39:37Z",
-      "title": "U.S. strikes on Iran's nuclear sites set up \"cat-and-mouse\" hunt for missing uranium",
-      "url": "https://www.reuters.com/world/europe/us-strikes-irans-nuclear-sites-set-up-cat-and-mouse-hunt-missing-uranium-2025-06-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/JHGHMKBLIBKJBGRE52TTHUQMEA.jpg?auth=9987d53e1a205c6fc5d5e8ba191f68cbccf07b5c96e0cf655303492bfe39c9bf&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "The Bangladesh government ordered tax and customs workers to return to work immediately on Sunday and end a two-day nationwide strike that has brought tax operations to a standstill, including customs operations at major trade hub Chittagong Port.",
-      "publishedAt": "2025-06-29T14:59:27Z",
-      "title": "Bangladesh orders striking tax officials back to work; port operations hindered",
-      "url": "https://www.reuters.com/world/asia-pacific/bangladesh-orders-striking-tax-officials-back-work-port-operations-hindered-2025-06-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/EFJLS6LC6JNGNICL3MZGJSPRH4.jpg?auth=5d53b3c0650dfcd1705d13f6cf46b40dbb0d277efa289e113d173d96c028bb2f&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Hungarian Prime Minister Viktor Orban called Saturday's Pride \"repulsive and shameful\", accusing the EU of directing opposition politicians to organise the event, which turned into an anti-government protest, local media reported in Sunday.",
-      "publishedAt": "2025-06-29T12:36:55Z",
-      "title": "Hungary's Orban accuses EU of orchestrating 'repulsive' Pride march",
-      "url": "https://www.reuters.com/business/media-telecom/hungarys-orban-accuses-eu-orchestrating-repulsive-pride-march-2025-06-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/SAPCLPO2E5M77FAWFBPLQGMZFY.jpg?auth=ee119ddc16cb79f0408336b805b9a10ea216f64f360af132a5e8029d0fc366f1&height=1005&width=1920&quality=80&smart=true"
-    },
-    {
-      "author": "Reuters",
-      "description": "Intercepted Iranian communications downplayed the extent of damage caused by U.S. strikes on Iran's nuclear program, the Washington Post reported on Sunday, citing four people familiar with classified intelligence circulating within the U.S. government.",
-      "publishedAt": "2025-06-29T18:16:57Z",
-      "title": "Intercepted Iranian communications downplay damage from US attack, Washington Post reports",
-      "url": "https://www.reuters.com/world/middle-east/intercepted-iranian-communications-downplay-damage-us-attack-washington-post-2025-06-29/",
-      "urlToImage": "https://www.reuters.com/resizer/v2/GMWL74IGHNIBTHYPKQ6QR3JA6I.jpg?auth=486c02bb95e128a70474adf6d0d53342454b780028630a084fb5f94e76304d6b&height=1005&width=1920&quality=80&smart=true"
+      "author": "Krishna N. Das",
+      "description": "The Dalai Lama, the spiritual head of Tibetan Buddhism, has often called himself a simple monk, but for more than 60 years armed with little more than charm and conviction, he has managed to keep the cause of his people in the international spotlight.",
+      "publishedAt": "2025-06-30T03:36:04Z",
+      "title": "The Dalai Lama, a tireless advocate for Tibet and its people",
+      "url": "https://www.reuters.com/world/china/dalai-lama-tireless-advocate-tibet-its-people-2025-06-30/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/KTDEFVPQAZPUTETMGNEJKI5N4Y.jpg?auth=e43c759ca6fd86f3fa507e3c5cc66531698b633eda401bdb6feccf2cf9a0140d&height=1005&width=1920&quality=80&smart=true"
     }
   ],
   "sortBy": "top",
