@@ -2,6 +2,14 @@
   "articles": [
     {
       "author": "BBC News",
+      "description": "Undercover filming and whistleblower testimony reveals how commission is put ahead of customers.",
+      "publishedAt": null,
+      "title": "Dubious sales tactics at two leading estate agencies uncovered by BBC investigation",
+      "url": "https://www.bbc.co.uk/news/articles/cvg81l57x53o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4940/live/732cc1b0-5e6b-11f0-a633-790fe0633fd6.jpg"
+    },
+    {
+      "author": "BBC News",
       "description": "All flights from the airport are cancelled as emergency services respond to the incident.",
       "publishedAt": null,
       "title": "Plane crashes at London Southend Airport in Essex",
@@ -26,19 +34,27 @@
     },
     {
       "author": "BBC News",
-      "description": "The death came hours after a 63-year-old woman died near a waterfall at Campsie Glen in East Dunbartonshire.",
+      "description": "Monday's front pages are dominated by Italian tennis player Jannik Sinner's Wimbledon win.",
       "publishedAt": null,
-      "title": "Boy, 15, dies in river incident in Glasgow on hottest day",
-      "url": "https://www.bbc.co.uk/news/articles/cpqnxxll9zno",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd6a/live/e28c9e90-5fd3-11f0-b8a9-551946ef76d7.jpg"
+      "title": "Newspaper headlines: 'Royal peace talks' and 'Sinner takes it all'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgw02znlp0o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3656/live/7a850300-6046-11f0-b5c5-012c5796682d.png"
     },
     {
       "author": "BBC News",
-      "description": "Princess Kate and Paul Mescal were among the famous faces in the royal box for the final day of the tennis championship.",
+      "description": "A baby will be placed for adoption in UK after being trafficked from Nigeria. She may never know her real parents.",
       "publishedAt": null,
-      "title": "Princess Kate and Paul Mescal among stars at Wimbledon finals",
-      "url": "https://www.bbc.co.uk/news/articles/ce8zl55598qo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4480/live/e626fe60-600a-11f0-960d-e9f1088a89fe.jpg"
+      "title": "Woman smuggled baby into UK using fake birth story",
+      "url": "https://www.bbc.co.uk/news/articles/c98jl8jnz92o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08c9/live/6d44bc50-5829-11f0-960d-e9f1088a89fe.jpg"
+    },
+    {
+      "author": "BBC News",
+      "description": "Hungarian Prime Minister Viktor Orban finds his power under threat, but not in the way one might expect.",
+      "publishedAt": null,
+      "title": "Viktor Orban's playbook is admired abroad but weakening at home",
+      "url": "https://www.bbc.co.uk/news/articles/cpd1j1x2l1lo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3975/live/a2c56f70-5e53-11f0-b5c5-012c5796682d.png"
     },
     {
       "author": "BBC News",
@@ -50,35 +66,19 @@
     },
     {
       "author": "BBC News",
-      "description": "Kyiv says two people accused of working for Russia and shooting dead a Ukrainian intelligence officer were killed.",
+      "description": "Andrew Bailey tells the Times \"I really do believe the path is downward\" on interest rates.",
       "publishedAt": null,
-      "title": "Russia's agents killed after intelligence officer shot dead, says Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cj3r7p117l0o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/becd/live/c55c4aa0-5fd8-11f0-960d-e9f1088a89fe.jpg"
+      "title": "Bank of England prepared to cut rates if job market slows, says governor",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2pj42395o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73dc/live/fc314c90-6043-11f0-a40e-a1af2950b220.jpg"
     },
     {
       "author": "BBC News",
-      "description": "Senzo Mchunu - who denies the claims - has been put on an immediate \"leave of absence\" by President Cyril Ramaphosa.",
+      "description": "Princess Kate and Paul Mescal were among the famous faces in the royal box for the final day of the tennis championship.",
       "publishedAt": null,
-      "title": "Cyril Ramaphosa suspends SA police minister Senzo Mchunu over allegations",
-      "url": "https://www.bbc.co.uk/news/articles/c8d6lzn733jo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f1a/live/14cec530-602f-11f0-84f9-89e4b88729bf.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "A train struck a van at a level crossing in Teynham at about 12:40BST, police say.",
-      "publishedAt": null,
-      "title": "One dead as train strikes van at level crossing in Teynham",
-      "url": "https://www.bbc.co.uk/news/articles/c36xryjn5leo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1df5/live/425a8bf0-6017-11f0-bb48-1f78d08c039f.jpg"
-    },
-    {
-      "author": "BBC News",
-      "description": "Iran's Fars news agency says President Masoud Pezeshkian had a leg injury when his secret site was hit in June.",
-      "publishedAt": null,
-      "title": "Iran President Pezeshkian was reportedly injured in Israeli strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cn0z8n037p6o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bff/live/6142ca10-6007-11f0-b5c5-012c5796682d.jpg"
+      "title": "Princess Kate and Paul Mescal among stars at Wimbledon finals",
+      "url": "https://www.bbc.co.uk/news/articles/ce8zl55598qo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4480/live/e626fe60-600a-11f0-960d-e9f1088a89fe.jpg"
     }
   ],
   "sortBy": "top",
