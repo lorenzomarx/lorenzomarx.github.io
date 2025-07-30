@@ -1,125 +1,229 @@
 {
   "articles": [
     {
-      "author": "Anand Krishnamoorthy",
-      "content": "Asian stocks slipped for a third day as momentum from recent trade deals lost traction and investors remained cautious in a week packed with economic data and corporate earnings.\r\nThe MSCI Asia-Pacif\u2026 [+350 chars]",
-      "description": "Asian stocks slipped for a third day as momentum from recent trade deals lost traction and investors remained cautious in a week packed with economic data and corporate earnings.",
-      "publishedAt": "2025-07-29T03:47:00Z",
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2025-07-29T12:22:30Z",
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      "title": "Asian Stocks Seen Lower as Tariff Sentiment Cools: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-28/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixsIsfQR.XEo/v0/1200x675.png"
+      "title": "Manhattan shooting suspect claimed to have CTE, mentioned NFL in note, sources say - ABC News",
+      "url": "https://abcnews.go.com/US/midtown-shooting-suspect-left-note-mentioning-nfl-cte/story?id\\\\u003d124163966",
+      "urlToImage": null
     },
     {
-      "author": "Matt Snyder",
-      "content": "Hall of Fame second baseman Ryne Sandberg, known mostly for his time with the Cubs, has died at age 65, the team announced Monday. Sandberg announced in January 2023 that he had been diagnosed with m\u2026 [+4110 chars]",
-      "description": "The Hall of Famer was one of the greatest second basemen in MLB history",
-      "publishedAt": "2025-07-29T03:34:00Z",
+      "author": "Ryan Young",
+      "content": "Longtime Chicago Cubs star and Hall of Famer Ryne Sandberg died Monday, the team announced.\r\nHe was 65.\r\nSandberg died due to complications with cancer, with which he was diagnosed twice in 2024. He \u2026 [+3470 chars]",
+      "description": "Ryne Sandberg was diagnosed with cancer twice in 2024.",
+      "publishedAt": "2025-07-29T12:10:58Z",
       "source": {
         "id": null,
-        "name": "CBS Sports"
+        "name": "Yahoo Entertainment"
       },
-      "title": "Ryne Sandberg dies at 65: Hall of Fame second baseman spent 16 years in MLB, primarily with the Cubs - CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/ryne-sandberg-dies-at-65-hall-of-fame-second-baseman-spent-16-years-in-mlb-primarily-with-the-cubs/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/29/2c153230-12d5-48ff-9535-6dbd9a79a4f2/thumbnail/1200x675/8aa59e5a56fc58aff15ad378239712fc/sandberg-getty.png"
+      "title": "Ryne Sandberg, longtime Cubs star and Baseball Hall of Famer, dies after cancer battle - Yahoo Sports",
+      "url": "https://sports.yahoo.com/mlb/breaking-news/article/ryne-sandberg-longtime-cubs-star-and-baseball-hall-of-famer-dies-after-cancer-battle-012806032.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Zt5c.b3RBQsN0RteWqZBag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/7e448900-b742-11ef-b79b-c313a73f569f"
+    },
+    {
+      "author": "Andrew Krueger",
+      "content": null,
+      "description": "Tens of thousands of Minnesota homes and businesses remained without power Tuesday after severe storms rolled across the state for a second consecutive night.",
+      "publishedAt": "2025-07-29T11:05:35Z",
+      "source": {
+        "id": null,
+        "name": "Minnesota Public Radio News"
+      },
+      "title": "Second night of severe storms leaves damage, power outages across wide swath of Minnesota - MPR News",
+      "url": "https://www.mprnews.org/story/2025/07/29/power-outages-storm-damage-minnesota-after-second-night-of-storms",
+      "urlToImage": "https://img.apmcdn.org/861974523b45fe4c1c92e9a1f4598b0c2b2c5476/widescreen/6f5884-20250729-clouds-2000.jpg"
+    },
+    {
+      "author": "Leslie Josephs",
+      "content": "Boeing\u00a0slashed its quarterly losses as sales jumped after it delivered the most airplanes since 2018, the clearest sign yet of improvement at the manufacturer that has swung from crisis to crisis for\u2026 [+2945 chars]",
+      "description": "Boeing\u00a0slashed its quarterly losses as sales jumped after it delivered the most airplanes since 2018.",
+      "publishedAt": "2025-07-29T11:00:01Z",
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "title": "Boeing reports results before the bell. Here's what to expect - CNBC",
+      "url": "https://www.cnbc.com/2025/07/29/boeing-ba-2q-2025-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108159528-1749991902212-gettyimages-2154498943-economou-notitle230625_npsOO.jpeg?v=1753739291&w=1920&h=1080"
+    },
+    {
+      "author": null,
+      "content": "WASHINGTON (AP) As President Donald Trump prepares to announce new tariff increases, the costs of his policies are starting to come into focus for a domestic manufacturing sector that depends on glob\u2026 [+7089 chars]",
+      "description": "A new analysis suggests President Donald Trump's tariffs could increase factory costs by 2% to 4.5%. The analysis highlights potential challenges for domestic manufacturers relying on global supply chains just as the Republican president prepares to announce \u2026",
+      "publishedAt": "2025-07-29T10:52:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Trump's tariffs could squeeze US factories and boost costs by up to 4.5%, a new analysis finds - AP News",
+      "url": "https://apnews.com/article/trump-tariffs-factory-costs-manufacturing-4c928842b57c7f36db9d5ca26a84108b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8e55789/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F2a%2Ffd11dea037a3c9470efd3366fa8f%2Fce049f6f3afa475eab8b4704a73006d3"
+    },
+    {
+      "author": "Courtenay Brown",
+      "content": "Trump's \"announce first, details later\" approach to trade deals has caught some global leaders off guard and led to contradictions about the billions of dollars the administration says foreign nation\u2026 [+3072 chars]",
+      "description": "These are not traditional, word-heavy trade deals with text agreed to by all negotiators.",
+      "publishedAt": "2025-07-29T09:39:56Z",
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "title": "Trump's \"devil in the details\" trade deals sow confusion - Axios",
+      "url": "https://www.axios.com/2025/07/29/trump-trade-deals-details",
+      "urlToImage": "https://images.axios.com/rCT6EKA8pnNbhJ4xcUnu3wX0nD8=/1366x768/smart/2024/10/03/234027-1727998827969.jpg"
+    },
+    {
+      "author": null,
+      "content": "Koh Ewe and BBC Chinese\r\nAt least 30 people have died in Beijing and more than 80,000 were evacuated to safety, Chinese authorities said, as heavy rains and floods ravage roads and houses in northern\u2026 [+3216 chars]",
+      "description": "President Xi Jinping called for \"all-out\" rescue efforts and preparation for \"worst-case\" scenarios.",
+      "publishedAt": "2025-07-29T09:22:09Z",
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "title": "Beijing floods: 30 killed as China sees summer of extreme weather - BBC",
+      "url": "https://www.bbc.com/news/articles/cg7j8x3xnrko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea2c/live/2bc252d0-6c59-11f0-8ecb-dd8005d1932e.jpg"
+    },
+    {
+      "author": "",
+      "content": "President Trump's defamation lawsuit againstThe Wall Street Journal and its powerful owner has taken a personal turn.\r\nIn the legal filings and on social media Trump says he personally told media mog\u2026 [+8415 chars]",
+      "description": "Trump says he personally told his \"very good friend Rupert Murdoch\" that he had not sent a racy birthday greeting two decades ago to Jeffrey Epstein. Murdoch's Journal reported it anyway.",
+      "publishedAt": "2025-07-29T09:00:00Z",
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "title": "Trump lawsuit against Murdoch and 'Wall Street Journal' turns personal - NPR",
+      "url": "https://www.npr.org/2025/07/29/nx-s1-5482955/trump-epstein-murdoch-deposition-lawsuit",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F23%2F8f0d39f547a3a3121e1d9209ff23%2Fgettyimages-678832460.jpg"
+    },
+    {
+      "author": "",
+      "content": "The Trump administration is shifting its tone on how it handles immigrants brought to the U.S. as children under the Deferred Action for Childhood Arrivals program. Also known as DACA, the program wa\u2026 [+6315 chars]",
+      "description": "\"DACA does not confer any form of legal status in this country,\" said DHS assistant press secretary Tricia McLaughlin, who then encouraged \"every person here illegally\" to self-deport.",
+      "publishedAt": "2025-07-29T09:00:00Z",
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "title": "DHS is urging DACA recipients to self-deport - NPR",
+      "url": "https://www.npr.org/2025/07/29/nx-s1-5482923/dhs-daca-recipients-self-deport",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F11%2Fd5c93ec0480892b6fc8dde2d0a82%2Fgettyimages-1182106482.jpg"
     },
     {
       "author": "ABC News",
       "content": null,
       "description": null,
-      "publishedAt": "2025-07-29T02:47:46Z",
+      "publishedAt": "2025-07-29T08:55:44Z",
       "source": {
         "id": "abc-news",
         "name": "ABC News"
       },
-      "title": "4 dead, including off-duty NYPD police officer, in Midtown Manhattan shooting: Officials - ABC News",
-      "url": "https://abcnews.go.com/US/midtown-manhattan-shooting/story?id\\\\u003d124154597",
+      "title": "Ukraine, Russia respond to Trump's new ceasefire deadline as strikes continue - ABC News",
+      "url": "https://abcnews.go.com/International/ukraine-russia-respond-trumps-new-ceasefire-deadline-strikes/story?id\\\\u003d124162867",
       "urlToImage": null
     },
     {
-      "author": "Des Bieler",
-      "content": "A Texas man arrested in Indianapolis on charges of stalking Caitlin Clark was sentenced to more than two years in prison, authorities announced Monday.\r\nMichael Lewis, 55, pleaded guilty to a felony \u2026 [+3468 chars]",
-      "description": "Michael Lewis, 55, traveled to Indianapolis and sent Clark \u201cnumerous threats and sexually explicit messages,\u201d authorities said, from a hotel near the Fever\u2019s arena.",
-      "publishedAt": "2025-07-29T02:31:57Z",
+      "author": "Jack Dunn",
+      "content": "Netflix has unveiled a first look at its upcoming \u201cPride and Prejudice\u201d limited series and revealed its supporting cast as production begins in the U.K.\r\nJoining the Jane Austen adaptation are Rufus \u2026 [+1806 chars]",
+      "description": "Netflix has unveiled a first look and the supporting cast for its upcoming 'Pride and Prejudice' limited series, which is currently in production.",
+      "publishedAt": "2025-07-29T08:00:00Z",
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Variety"
       },
-      "title": "Texas man pleads guilty, sentenced to prison for stalking Caitlin Clark - The Washington Post",
-      "url": "https://www.washingtonpost.com/sports/2025/07/28/caitlin-clark-stalker-prison-sentence/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/27VLB3VHBKOLKPKYP3SU4D6EGA.JPG&w=1440"
+      "title": "Netflix's 'Pride and Prejudice' First Look, Full Cast Revealed - Variety",
+      "url": "https://variety.com/2025/tv/news/netflix-pride-and-prejudice-first-look-full-cast-revealed-1236472819/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/07/PridePrejudice_Image_FirstGlimpse_Image_1.jpg?w=1000&h=563&crop=1"
     },
     {
-      "author": "Amanda Gerut",
-      "content": "Procter &amp; Gamble is elevating an operations veteran with global experience to lead the consumer goods behemoth as it navigates an ambitious workforce restructuring, tariffs, and geopolitical head\u2026 [+5978 chars]",
-      "description": "The company behind Charmin, Bounty, and Tide named chief operating officer Shailesh Jejurikar as its next CEO, effective Jan.1, 2026.",
-      "publishedAt": "2025-07-29T00:25:00Z",
+      "author": "Jenni Reid, Ruxandra Iordache",
+      "content": "British bank Barclays on Tuesday beat profit expectations and announced a \u00a31 billion ($1.33 billion) share buyback as market volatility boosted investment banking revenues.\r\nPre-tax profit beat estim\u2026 [+2963 chars]",
+      "description": "Investors have been watching the performance of the lender's sharpened investment banking unit, which posted income of \u00a33.3 billion the three months to June.",
+      "publishedAt": "2025-07-29T06:20:39Z",
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": null,
+        "name": "CNBC"
       },
-      "title": "Competitive cricketer turned assistant brand manager is now heading a $368 billion giant. Meet P&G's new CEO Shailesh Jejurikar - Fortune",
-      "url": "https://fortune.com/2025/07/28/procter-gamble-new-ceo-2/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/Jejurikar_Shailesh-Photo-e1753746519367.jpg?resize=1200,600"
+      "title": "Barclays second-quarter profit beats estimates as investment banking revenues swell - CNBC",
+      "url": "https://www.cnbc.com/2025/07/29/barclays-q2-earnings-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108014706-1722484252982-gettyimages-1230559882-UK_PROPERTY.jpeg?v=1753446059&w=1920&h=1080"
     },
     {
-      "author": "Mickey Djuric",
-      "content": "On at least one point, Canadian officials briefed on the conversations agree with Trump: The talks between the U.S. and Canada dont amount to a real negotiation.\r\nRather, they describe the meetings b\u2026 [+7246 chars]",
-      "description": "Inside the unfolding drama of Ottawa's down-to-the-wire negotiations with the White House.",
-      "publishedAt": "2025-07-28T23:57:00Z",
+      "author": "Kyle Cheney, Josh Gerstein",
+      "content": "According to the complaint, which was obtained by POLITICO and signed by Bondis chief of staff Chad Mizelle, Boasberg attempted to improperly influence Roberts and two dozen other judges by suggestin\u2026 [+4129 chars]",
+      "description": "The Justice Department filed a misconduct complaint against the chief district judge in Washington D.C.",
+      "publishedAt": "2025-07-29T03:20:00Z",
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "title": "Trump keeps Canada guessing as trade deadline looms - Politico",
-      "url": "https://www.politico.com/news/2025/07/28/canada-us-trade-talk-inside-drama-00480177",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd2%2F47%2Fdcf9e2374b019ce19ca295af12eb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2219753768"
+      "title": "Trump admin escalates its war with the courts \u2014 this time targeting Judge Boasberg - Politico",
+      "url": "https://www.politico.com/news/2025/07/28/james-boasberg-justice-department-complaint-00480938",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa2%2Fe5%2F970b481b4e23b2f4633b56c20b97%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2207562173"
     },
     {
-      "author": "Zac Hall",
-      "content": "Yesterday we learned about three new potential iPhone 17 Pro camera features. Today a test unit was possibly spotted in the wild potentially showing us the first glimpse at one of those rumored featu\u2026 [+1721 chars]",
-      "description": "Yesterday we learned about three new potential iPhone 17 Pro camera features. Today a test unit was possibly spotted in...",
-      "publishedAt": "2025-07-28T23:55:00Z",
+      "author": "Chelsea Janes",
+      "content": "Cleveland Guardians closer Emmanuel Clase, one of the best relievers in baseball and one of the more transformative players available at Thursdays trade deadline, was placed on leave while Major Leag\u2026 [+3092 chars]",
+      "description": "The top-flight closer was expected to be one of the big gets ahead of Thursday\u2019s trade deadline. Now, moving him seems unlikely.",
+      "publishedAt": "2025-07-29T02:20:56Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "Guardians\u2019 Emmanuel Clase put on leave as part of MLB gambling probe - The Washington Post",
+      "url": "https://www.washingtonpost.com/sports/2025/07/28/emmanuel-clase-mlb-gambling-investigation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GP5EECYZMCVC7TPW5TED7NB2RA.JPG&w=1440"
+    },
+    {
+      "author": "Kerry Wan",
+      "content": "Kerry Wan/ZDNET\r\nIn a series of rare events, the iPhone 17 Pro has seemingly appeared publicly ahead of its expected September launch. Late Monday, X user @Skyfops shared two images of what can be as\u2026 [+2504 chars]",
+      "description": "A series of images on X hint at a redesigned camera bar for the upcoming iPhone 17 series, in line with recent leaks and rumors.",
+      "publishedAt": "2025-07-29T01:41:00Z",
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "ZDNet"
       },
-      "title": "Does alleged iPhone 17 Pro leak show second Camera Control? - 9to5Mac",
-      "url": "https://9to5mac.com/2025/07/28/iphone-17-pro-second-camera-control-leak/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/iOS-18.3-new-camer-pose-for-camera-control.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      "title": "First look at the iPhone 17 Pro? These public images confirm big design and camera upgrades - ZDNet",
+      "url": "https://www.zdnet.com/article/first-look-at-the-iphone-17-pro-these-public-images-confirm-big-design-and-camera-upgrades/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/19d7fe360120eb9acac0da50f49375e03ff4f400/2024/09/19/f3d8a991-846b-490c-92a3-fd55efcc4966/dsc02181.jpg?auto=webp&fit=crop&height=675&width=1200"
     },
     {
-      "author": null,
-      "content": "CHICAGO (AP) Baseball Commissioner Rob Manfred and Philadelphia Phillies star Bryce Harper had a spirited exchange during a question-and-answer session between the commissioner and the team, accordin\u2026 [+3359 chars]",
-      "description": "Baseball Commissioner Rob Manfred and Philadelphia Phillies star Bryce Harper had a spirited exchange during a question-and-answer session between the commissioner and the team, according to a person with direct knowledge of the conversation. The person spoke\u2026",
-      "publishedAt": "2025-07-28T23:07:00Z",
+      "author": "Joseph Staszewski",
+      "content": "Nick Hogan got emotional while honoring his father at the place that helped made Terry Hulk Hogan Bollea a pro wrestling and pop culture icon.\r\nHogans 35-year-old son was front and center at WWEs Mon\u2026 [+2211 chars]",
+      "description": "Nick Hogan got emotional while honoring his father at the place that helped made Terry \u201cHulk Hogan\u201d Bollea a pro wrestling and pop culture icon.",
+      "publishedAt": "2025-07-29T01:24:00Z",
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "New York Post"
       },
-      "title": "Baseball Commissioner Rob Manfred confronted by Bryce Harper during meeting, AP source says - AP News",
-      "url": "https://apnews.com/article/rob-manfred-bryce-harper-phillies-715a57f20f79485fa98538561bce0717",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1134e6c/2147483647/strip/true/crop/2325x1308+0+121/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2Fe4%2Fe13b4524f7cad5b532c14cda40f6%2Fb991b200458347f79f08803df6977f79"
+      "title": "Nick Hogan gets emotional during WWE tribute to dad Hulk Hogan at \u2018Monday Night Raw\u2019 - New York Post",
+      "url": "https://nypost.com/2025/07/28/sports/nick-hogan-gets-emotional-during-wwe-tribute-to-dad-hulk-hogan-at-raw/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-mgro6uifa-1753749598998.jpg?quality=75&strip=all&1753735335&w=1024"
     },
     {
-      "author": "Nellie Andreeva",
-      "content": "Surprise! The three-hour Law &amp; Order Thursday lineup will be back on NBC\u2018s fall schedule. Law &amp; Order: Organized Crime, which moved from NBC to Peacock ahead of its fifth season a year ago, w\u2026 [+6844 chars]",
-      "description": "The three-hour Law & Order Thursday lineup will be back on NBC's fall schedule.",
+      "author": "Allison Jewell",
+      "content": "Sabrina Ortiz/ZDNET\r\nAs they say, fashion is cyclical. It turns out that phones are, too, because flip phones are so back.\u00a0\r\nGone are the days of clunky phones that don't fit in tiny pockets. Samsung\u2026 [+3741 chars]",
+      "description": "When you trade in a qualifying phone under an Unlimited Ultimate plan, you can get the brand new Samsung Galaxy Z Flip 7 for free.",
       "publishedAt": "2025-07-28T23:00:00Z",
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "ZDNet"
       },
-      "title": "NBC Fall Premiere Dates: 'Law & Order' Trio, 'Hunting Party' Held, More - Deadline",
-      "url": "http://deadline.com/2025/07/nbc-fall-premiere-dates-2025-1236472488/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/NBC-.jpg?w=1024"
+      "title": "Verizon will give you a free Samsung Z Flip 7 phone right now - how the deal works - ZDNet",
+      "url": "https://www.zdnet.com/article/verizon-will-give-you-a-free-samsung-z-flip-7-phone-right-now-how-the-deal-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1111824bd64d4950e50dd77fec88c67c631ef702/2025/07/14/58775ef6-8f42-4b1c-9afc-5a97cec68641/img-0125.jpg?auto=webp&fit=crop&height=675&width=1200"
     },
     {
       "author": "",
-      "content": "Amjad Al Shawa has spent his career coordinating humanitarian aid in Gaza. As director of the Palestinian NGO Network, he's long worked to get food, water, and medicine to those in need and is consid\u2026 [+5336 chars]",
+      "content": "Amjad Al Shawa has spent his career coordinating humanitarian aid in Gaza. As director of the Palestinian NGO Network, he's long worked to get food, water, and medicine to those in need and is consid\u2026 [+5338 chars]",
       "description": "An aid worker in northern Gaza tells NPR that people are starving, water is scarce and basic supplies are out of reach. He warns thousands could die in the coming days if nothing changes.",
       "publishedAt": "2025-07-28T22:52:48Z",
       "source": {
@@ -129,32 +233,6 @@
       "title": "Roles reversed: A veteran Gaza aid worker pleads for survival - NPR",
       "url": "https://www.npr.org/2025/07/28/nx-s1-5478636/gaza-starvation-aid-worker-account",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078+0+570/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F19%2Fbec71c0e4a93bbf8343cc25ce616%2Fgettyimages-2226742192.jpg"
-    },
-    {
-      "author": "Gary Grumbach, Tom Winter, Chloe Atkins",
-      "content": "WASHINGTON Ghislaine Maxwells attorney Monday renewed his request that the Supreme Court overturn her 2021 conviction in New York for recruiting and grooming multiple teenage girls for Jeffrey Epstei\u2026 [+3094 chars]",
-      "description": "Ghislaine Maxwell\u2019s attorney renewed a request that the Supreme Court overturn her 2021 conviction for recruiting teenage girls to be sexually abused by Jeffrey Epstein.",
-      "publishedAt": "2025-07-28T21:56:24Z",
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "title": "Ghislaine Maxwell urges Supreme Court to hear her criminal appeal - NBC News",
-      "url": "https://www.nbcnews.com/politics/supreme-court/ghislaine-maxwell-urges-supreme-court-hear-criminal-appeal-rcna217150",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250725-ghislaine-maxwell-jeffrey-epstein-16x9-mn-0910-f1347a.jpg"
-    },
-    {
-      "author": "Louis Navellier",
-      "content": "The markets have been on a roll lately. In fact, the S&amp;P 500 has rallied by 8.2%, the Dow has gained 6.3% and the NASDAQ has soared 10.8% since the beginning of June.\r\nThe big question is whether\u2026 [+3300 chars]",
-      "description": "I talked about what we can expect from the Fed, PCE, jobs data and more in this weeks Market Buzz.",
-      "publishedAt": "2025-07-28T21:54:09Z",
-      "source": {
-        "id": null,
-        "name": "Investorplace.com"
-      },
-      "title": "Fed Forecast + Meta, Apple, Amazon Earnings \u2013 Here\u2019s What\u2019s Next - InvestorPlace",
-      "url": "https://investorplace.com/market360/2025/07/fed-forecast-meta-apple-amazon-earnings-heres-whats-next/",
-      "urlToImage": "https://investorplace.com/wp-content/uploads/2025/07/marketbuzz072825.png"
     },
     {
       "author": "Clinton Yates",
@@ -168,86 +246,8 @@
       "title": "Deion Sanders\u2019 emotions, honesty about cancer a victory to start college football season - Andscape",
       "url": "https://andscape.com/features/deion-sanders-emotions-honesty-about-cancer-a-victory-to-start-college-football-season/",
       "urlToImage": "https://andscape.com/wp-content/uploads/2025/07/GettyImages-2227414481-e1753734169277.jpg"
-    },
-    {
-      "author": null,
-      "content": "SpaceX\u2019s Falcon 9 rocket, topped with the Crew Dragon Endeavour, is pictured at sunset on Sunday, July 27, 2025. It will launch the Crew-11 mission, which is schedule to liftoff from Launch Complex 3\u2026 [+4401 chars]",
-      "description": null,
-      "publishedAt": "2025-07-28T21:33:37Z",
-      "source": {
-        "id": null,
-        "name": "Spaceflight Now"
-      },
-      "title": "Launch pad indicator error causes SpaceX, NASA to scrub planned static fire test of a Falcon 9 rocket ahead of the Crew-11 launch - Spaceflight Now",
-      "url": "https://spaceflightnow.com/2025/07/28/live-coverage-spacex-to-perform-a-static-fire-test-of-its-falcon-9-rocket-ahead-of-the-crew-11-launch/",
-      "urlToImage": null
-    },
-    {
-      "author": "Andrew Beaton, Ben Glickman",
-      "content": null,
-      "description": "LVMH-backed L Catterton has taken a majority stake in L.A.B. Golf",
-      "publishedAt": "2025-07-28T21:18:00Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "Exclusive | The Oddball Golf Putter Company That Private Equity Just Bought for $200 Million - The Wall Street Journal",
-      "url": "https://www.wsj.com/sports/golf/the-oddball-golf-putter-company-that-private-equity-just-bought-for-200-million-e4d1bbb1",
-      "urlToImage": "https://images.wsj.net/im-25424347/social"
-    },
-    {
-      "author": "Lois M. Collins",
-      "content": "<ul><li>Research suggests walking 7,000 steps daily offers the same health benefits as 10,000 steps.</li><li>Walking a minimum of 7,000 steps can minimize the risk of early death by 47%.</li><li>Incr\u2026 [+4407 chars]",
-      "description": "Where did 10,000 steps for health come from? How many steps do you need to be healthy? What does walking do for you? Does walking improve health?",
-      "publishedAt": "2025-07-28T21:06:55Z",
-      "source": {
-        "id": null,
-        "name": "Deseret News"
-      },
-      "title": "The 10,000-steps myth: Here\u2019s what you really need - Deseret News",
-      "url": "https://www.deseret.com/lifestyle/2025/07/28/ten-thousand-steps-myth-walk-heart-health-sidney-university-study/",
-      "urlToImage": "https://www.deseret.com/resizer/v2/3U5HD5KQ6NEK7DBEIYCJ2B4VHE.JPG?focal=2147%2C1027&auth=5e3c213e4d6b689c9c21dfa2487fa4a3a9cd8194e59cb8cb6a21dbb29782729e&width=1200&height=630"
-    },
-    {
-      "author": "Charles Pulliam-Moore",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nEverything old is new again, it seems.\r\nEverything old is new again, it seems.\r\nby\r\nCharles Pulliam-MooreClose\r\nCharles Pulliam-Moore\r\nPosts from this author wil\u2026 [+3451 chars]",
-      "description": "When Warner Bros. Discovery finishes its restructuring plan next year, the two \u201cnew\u201d companies will be called Warner Bros. and Discovery Global.",
-      "publishedAt": "2025-07-28T21:06:48Z",
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "title": "Warner Bros. Discovery will be Warner Bros. and Discovery after they break up - The Verge",
-      "url": "https://www.theverge.com/news/714829/warner-bros-discovery-new-company-names",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786918/2165112846.jpg?quality=90&strip=all&crop=0%2C10.780237019676%2C100%2C78.439525960648&w=1200"
-    },
-    {
-      "author": null,
-      "content": "LITTLE ROCK, Ark. (AP) Police searched Monday for the killer of a married couple found dead in Arkansas remote Devils Den State Park but had still not identified a suspect in the weekend attack that \u2026 [+3346 chars]",
-      "description": "Police in Arkansas are searching for a suspect in the deaths of a couple who were attacked while on a wooded walking trail with their two young daughters. State police say Clinton David Brink and Cristen Amanda Brink were found dead Saturday at Devil\u2019s Den St\u2026",
-      "publishedAt": "2025-07-28T21:05:00Z",
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "title": "Police search for suspect who fatally attacked couple in Arkansas\u2019 Devil\u2019s Den State Park - AP News",
-      "url": "https://apnews.com/article/arkansas-hikers-stabbed-devils-day-park-f4c83732c08cd75ecc79c6dc51f7d4f8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/92aa8c2/2147483647/strip/true/crop/3500x1969+0+185/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F2a%2F39d6236d5180ce3d5290ee366bfb%2F2a85149d28444b11ba6d1d092c5fd33a"
-    },
-    {
-      "author": null,
-      "content": "RENO, Nev. (AP) A gunman opened fire Monday outside the largest casino in Reno, Nevada, killing two people and wounding three others before being taken into custody, officials said.\r\nThe suspected sh\u2026 [+3066 chars]",
-      "description": "Two people have been killed and at least three others hospitalized after shooting at a casino in Reno, Nevada.",
-      "publishedAt": "2025-07-28T20:29:10Z",
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "title": "Gunman opens fire at Reno casino, killing 2 and injuring several others - PBS",
-      "url": "https://www.pbs.org/newshour/nation/gunman-opens-fire-outside-reno-casino-wounding-several-people",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/AP25209611450647-1024x654.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 36
+  "totalResults": 34
 }
