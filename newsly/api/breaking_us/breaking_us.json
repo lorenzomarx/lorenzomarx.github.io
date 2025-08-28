@@ -1,30 +1,121 @@
 {
   "articles": [
     {
-      "author": "William  Harwood",
-      "content": "Running two days late, SpaceX launched its huge Super Heavy-Starship on Tuesday, chalking up what appeared to be a remarkably successful test flight in the wake of three back-to-back failures earlier\u2026 [+8816 chars]",
-      "description": "SpaceX launched its huge Super Heavy-Starship on Tuesday, chalking up what appeared to be a remarkably successful test flight in the wake of three back-to-back failures\u200b earlier this year.",
-      "publishedAt": "2025-08-27T02:13:55Z",
+      "author": "ABC News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2025-08-27T09:22:30Z",
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "title": "Denmark summons US envoy over alleged influence operations in Greenland - ABC News",
+      "url": "https://abcnews.go.com/International/denmark-summons-us-envoy-alleged-influence-operations-greenland/story?id\\\\u003d125012946",
+      "urlToImage": null
+    },
+    {
+      "author": "Stephen Daw",
+      "content": "As reactions to Taylor Swift and Travis Kelce\u2018s recent engagement continue to pour in, one of Swift\u2019s loudest detractors is weighing in on the news \u2014 President Donald Trump. \r\nDuring a Tuesday (Aug. \u2026 [+2031 chars]",
+      "description": "Taylor Swift and Travis Kelce are engaged. Here's how President Donald Trump reacted.",
+      "publishedAt": "2025-08-27T08:48:45Z",
+      "source": {
+        "id": null,
+        "name": "Billboard"
+      },
+      "title": "Here\u2019s What President Trump Said When He Found Out About Taylor Swift & Travis Kelce\u2019s Engagement - Billboard",
+      "url": "http://www.billboard.com/music/music-news/taylor-swift-travis-kelce-engaged-donald-trump-reacts-1236052307/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/donald-trump-july-2025-billboard-1800.jpg?w=1024"
+    },
+    {
+      "author": "Katie Marie Davies",
+      "content": "Gas stations have run dry in some regions of Russia after Ukrainian drones struck refineries and other oil infrastructure in recent weeks, with motorists waiting in long lines and officials resorting\u2026 [+5950 chars]",
+      "description": "Gas stations have run dry in some regions of Russia after Ukrainian drones struck refineries and other oil infrastructure in recent weeks. Motorists are waiting in long lines and officials resorting to rationing or cutting off sales altogether. Wholesale pric\u2026",
+      "publishedAt": "2025-08-27T06:09:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Ukrainian drone attacks on oil refineries have some Russian regions running on empty - AP News",
+      "url": "https://apnews.com/article/russia-gasoline-shortage-ukraine-war-2c1364fd199fa594f67ad097d6761814",
+      "urlToImage": "https://dims.apnews.com/dims4/default/928fbeb/2147483647/strip/true/crop/8341x4692+0+435/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2Fc3%2Feeac9bd71424b74471e28782e980%2F239276f9ef094bb08a76108af0663f18"
+    },
+    {
+      "author": "Kathleen Magramo",
+      "content": "Japan, Australia and Taiwan have joined a growing list of places suspending some parcel shipments to the United States following the implementation of new rules under President Donald Trumps administ\u2026 [+3058 chars]",
+      "description": "Japan, Australia and Taiwan have joined a growing list of places suspending some parcel shipments to the United States following the implementation of new rules under President Donald Trump\u2019s administration that will end tariff exemptions.",
+      "publishedAt": "2025-08-27T05:15:00Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "List of places suspending some US parcel shipments grows as tariff exemption ends - CNN",
+      "url": "https://www.cnn.com/2025/08/27/economy/postal-service-halt-japan-australia-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2231407667.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "author": "Loren Grush",
+      "content": "SpaceXs Starship rocket launched to space and deployed satellites for the first time before surviving most of its journey to Earth, achieving new technological milestones after a year of fiery setbac\u2026 [+187 chars]",
+      "description": "SpaceX\u2019s Starship rocket launched to space and deployed satellites for the first time before surviving most of its journey to Earth, achieving new technological milestones after a year of fiery setbacks.",
+      "publishedAt": "2025-08-27T04:54:00Z",
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "title": "SpaceX Starship Deploys Satellites in Space During Key Test - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-27/spacex-starship-deploys-satellites-in-space-during-key-test-mete13wm",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifWFeaR54Byk/v0/1200x800.jpg"
+    },
+    {
+      "author": "Carly Thomas",
+      "content": "Emma Heming Willis is opening up about her husband Bruce Willis\u2019 battle with dementia, sharing that he\u2019s moved into a \u201csecond home\u201d to get 24-hour care.\r\nThe legendary 70-year-old actor, known for hi\u2026 [+3668 chars]",
+      "description": "The model and entrepreneur is opening up about her husband's battle with the devastating disease and its impact on their entire family: \"Bruce is in really great health overall, you know, it's just his brain that is failing him.\"",
+      "publishedAt": "2025-08-27T04:36:36Z",
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "title": "Emma Heming Willis Shares the \u201cHardest Decisions\u201d She\u2019s Had to Make Since Bruce Willis\u2019 Dementia Diagnosis - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/emma-heming-willis-health-update-bruce-willis-dementia-1236354314/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Bruce-Willis-and-Emma-Heming-Willis-getty-H-2025.png?w=1296&h=730&crop=1"
+    },
+    {
+      "author": "Zo\u00eb Richards",
+      "content": "Iowa Democrats scored a significant victory Tuesday by flipping a Republican seat in a special election and breaking the GOP supermajority in the state Senate.\r\nCatelin Drey won the Sioux City-area d\u2026 [+1243 chars]",
+      "description": "Catelin Drey's win gives her party an additional seat, bringing the number of Democrats serving in the upper chamber to 17 and breaking Republicans' two-thirds supermajority.",
+      "publishedAt": "2025-08-27T03:23:00Z",
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "Democrats break GOP supermajority in Iowa Senate by flipping Republican seat in special election - NBC News",
+      "url": "https://www.nbcnews.com/politics/elections/democrats-break-gop-supermajority-iowa-senate-catelin-drey-rcna227419",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250826-iowa-state-capitol-ew-1028p-ee6785.jpg"
+    },
+    {
+      "author": "Chris Megerian, Brian Slodysko, Fatima Hussein",
+      "content": "WASHINGTON (AP) When Bill Pulte was nominated as the countrys top housing regulator, he told senators that his number one mission will be to strengthen and safeguard the housing finance system.\r\nBut \u2026 [+8159 chars]",
+      "description": "Bill Pulte, the country's top housing regulator, has been using his position to target President Trump's political enemies. He has accused them of mortgage fraud and encouraged investigations. This week, Trump used Pulte's allegations to attempt to fire Lisa \u2026",
+      "publishedAt": "2025-08-27T02:54:00Z",
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "title": "Trump foes like Fed Governor Lisa Cook find themselves targeted by top housing regulator - AP News",
+      "url": "https://apnews.com/article/trump-bill-pulte-lisa-cook-federal-reserve-00d9bf828f824eceda7b30f704d1de71",
+      "urlToImage": "https://dims.apnews.com/dims4/default/aad6b34/2147483647/strip/true/crop/1944x1094+0+101/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F55%2F9f4e69ced6ea81b6997abc9c2183%2F4075b9aec24b45a4a2ef454ea202ca61"
+    },
+    {
+      "author": null,
+      "content": "A Wisconsin man who faked his own drowning while kayaking and left his wife and three children to meet a woman in the country of Georgia was convicted Tuesday of obstructing an officer and sentenced \u2026 [+4427 chars]",
+      "description": "A Wisconsin man has been sentenced to 89 days in jail for faking his own drowning to meet a woman in the country of Georgia.",
+      "publishedAt": "2025-08-27T02:00:00Z",
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
-      "title": "SpaceX launches giant Super Heavy-Starship rocket on critical test flight - CBS News",
-      "url": "https://www.cbsnews.com/news/spacex-launches-super-heavy-starship-critical-10th-test-flight/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/27/2c9afa9a-3146-44d3-aff5-f2889901210b/thumbnail/1200x630/d9151e0e7de8f19ebdeea23b6f065297/2025-08-27t000302z-2130037024-rc2cfgat3eoj-rtrmadp-3-spacex-starship.jpg"
-    },
-    {
-      "author": "Andrew Ackerman, Emily Davies, Liz Goodwin",
-      "content": "President Donald Trumps bid to oust Federal Reserve governor Lisa Cook marks his boldest move yet to assert more control over the independent central bank. But undermining the banks autonomy, experts\u2026 [+85 chars]",
-      "description": "By seeking to remove Fed governor Lisa Cook, Trump has taken his boldest step to bring the independent central bank under his control, with consequences for the economy.",
-      "publishedAt": "2025-08-27T02:07:23Z",
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "title": "Trump\u2019s move to take over the Fed adds more uncertainty to the economy - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/08/26/trump-fed-control-lisa-cook-economy/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440"
+      "title": "Wisconsin missing kayaker who faked his own death and fled U.S. is sentenced to 89 days in jail - CBS News",
+      "url": "https://www.cbsnews.com/news/wisconsin-kayaker-faked-his-own-death-89-days-jail/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/12/11/9152a883-1b25-4af6-a05f-68a28e5ec611/thumbnail/1200x630/c0549151437ef6b18ffdceefa1f7c9fd/241913-ryan-borgwardt-booking-photo.jpg"
     },
     {
       "author": "Brianna Sacks",
@@ -38,6 +129,19 @@
       "title": "FEMA employees put on leave after criticizing Trump administration in open letter - The Washington Post",
       "url": "https://www.washingtonpost.com/climate-environment/2025/08/26/fema-employees-leave-trump-administration-letter/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQ5AO4AO2DWKHRVWF7Z2CZCHGU_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "Mary Kay Cabot, cleveland.com",
+      "content": null,
+      "description": "Kevin Stefanski praised Deshaun Watson and named Dillon Gabriel his No. 2 quarterback.",
+      "publishedAt": "2025-08-27T01:55:00Z",
+      "source": {
+        "id": null,
+        "name": "cleveland.com"
+      },
+      "title": "How Kevin Stefanski praised Deshaun Watson and named Dillon Gabriel his No. 2 quarterback - Cleveland.com",
+      "url": "https://www.cleveland.com/browns/2025/08/how-kevin-stefanski-praised-deshaun-watson-and-named-dillon-gabriel-his-no-2-quarterback.html",
+      "urlToImage": "https://www.cleveland.com/resizer/v2/JKUGS6VH6VF4VPO6RSP6Y4WDNA.JPG?auth=6f2cc45e76a3fefa6e2b5ff7f32f984b51576d75465699914f019c28f5d5341f&width=1280&quality=90"
     },
     {
       "author": "Aaron Pellish",
@@ -66,175 +170,84 @@
       "urlToImage": "https://ufc.com/images/styles/card/s3/2025-08/082625-hero-manoel-sousa.jpg?itok=HOvohkNj"
     },
     {
-      "author": null,
-      "content": "INDIANAPOLIS (AP) Aliyah Boston had 27 points and nine rebounds, Odyssey Sims scored 22 points and the Indiana Fever beat the Seattle Storm 95-75 on Tuesday night to finish a sweep of the three-game \u2026 [+1351 chars]",
-      "description": "gametracker.wnba.meta_description",
-      "publishedAt": "2025-08-27T01:08:24Z",
+      "author": "Miles Klee",
+      "content": "On Tuesday, parents of a teen who died by suicide filed the first ever wrongful death lawsuit against OpenAI and its CEO, Sam Altman, alleging that their son received detailed instructions on how to \u2026 [+9792 chars]",
+      "description": "First wrongful death lawsuit against OpenAI alleges that ChatGPT advised a 16-year-old on how to hang himself, and may trigger more complaints.",
+      "publishedAt": "2025-08-27T00:16:09Z",
       "source": {
         "id": null,
-        "name": "CBS Sports"
+        "name": "Rolling Stone"
       },
-      "title": "Seattle Storm vs. Indiana Fever Live Score and Stats - August 26, 2025 Gametracker - CBS Sports",
-      "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20250826_SEA@IND/",
-      "urlToImage": "https://sportsfly.cbsistatic.com/fly-149/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
+      "title": "ChatGPT Lawsuit Over Teen\u2019s Suicide Could Lead to Big Tech Reckoning - Rolling Stone",
+      "url": "http://www.rollingstone.com/culture/culture-features/chatgpt-suicide-teen-openai-lawsuit-1235415931/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/Sam-Altman-parents-of-teen.jpg?crop=0px%2C0px%2C1798px%2C1014px&resize=1600%2C900"
     },
     {
-      "author": "",
-      "content": "Parts of central Arizona were engulfed by a towering wall of dust on Monday evening producing dramatic scenes that sent shockwaves far beyond the Grand Canyon state.\r\n\"It was larger and it went throu\u2026 [+2568 chars]",
-      "description": "According to the National Oceanic and Atmospheric Administration, these storms can whip up walls of dust as high as 10,000 feet.",
-      "publishedAt": "2025-08-27T00:02:42Z",
+      "author": "Abner Li",
+      "content": "The Google Messages redesign started widely rolling out to the stable channel last week, and Material 3 Expressive is now available on the actual chat screen. \r\nLike on the homepage, the message thre\u2026 [+1092 chars]",
+      "description": "The Google Messages redesign started rolling out last week, and Material 3 Expressive is now available for the actual chat screen.",
+      "publishedAt": "2025-08-27T00:03:00Z",
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "9to5google.com"
       },
-      "title": "A haboob covered central Arizona in dust. But what exactly is it? - NPR",
-      "url": "https://www.npr.org/2025/08/26/nx-s1-5518308/haboob-explained-phoenix-arizona",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7551x4247+0+393/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Fd5%2F7925a1b448c698a76fc9277339e0%2Fap25238058969137.jpg"
+      "title": "Google Messages Material 3 Expressive redesign comes to chat screen - 9to5Google",
+      "url": "http://9to5google.com/2025/08/26/google-messages-chat-redesign/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/Google-Messages-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
     },
     {
-      "author": "ABC News",
+      "author": "Matt Sepic",
       "content": null,
-      "description": null,
-      "publishedAt": "2025-08-26T23:48:45Z",
+      "description": "One person was killed and six others were injured in a shooting Tuesday afternoon near East Lake Street and Interstate 35W in south Minneapolis.",
+      "publishedAt": "2025-08-26T23:36:00Z",
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": null,
+        "name": "Minnesota Public Radio News"
       },
-      "title": "Man who faked death, fled US gets 89 days in jail for the 89 days he was missing - ABC News",
-      "url": "https://abcnews.go.com/US/man-faked-death-fled-us-gets-89-days/story?id\\\\u003d124986360",
-      "urlToImage": null
+      "title": "One dead, 6 hurt after shooter opens fire with high-powered rifle in Minneapolis - MPR News",
+      "url": "https://www.mprnews.org/story/2025/08/26/minneapolis-shooting-one-dead-six-hurt",
+      "urlToImage": "https://img.apmcdn.org/c9c05dc6fb29fa4941310b6e02ca192c799d6cce/widescreen/6a1888-20250826-minneapolis-squads-block-street-2000.jpg"
+    },
+    {
+      "author": "Dan Skeldon",
+      "content": "If the weather cooperates Tuesday night, eastern Pennsylvania and New Jersey residents, along with the rest of the Mid-Atlantic, may have good seats for a rocket launch.\r\nThe launch, weather permitti\u2026 [+1483 chars]",
+      "description": "If the weather cooperates Tuesday night, eastern Pennsylvania and New Jersey residents, along with the rest of the Mid-Atlantic, may have good seats for a rocket launch.",
+      "publishedAt": "2025-08-26T22:29:00Z",
+      "source": {
+        "id": null,
+        "name": "WFMZ Allentown"
+      },
+      "title": "Rocket launch Tuesday night could be visible in our skies, complete with vapor-tracing clouds - WFMZ.com",
+      "url": "https://www.wfmz.com/news/area/lehighvalley/rocket-launch-tuesday-night-could-be-visible-in-our-skies-complete-with-vapor-tracing-clouds/article_64bfca30-51dc-4401-bcca-ead6f4cde234.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/14/614fd207-116d-4194-9552-b5fe2d198ed5/68ae360d031fd.image.jpg?crop=1919%2C1009%2C0%2C35&resize=1200%2C631&order=crop%2Cresize"
     },
     {
       "author": null,
-      "content": "Modi has urged small shop owners and businesses to put up \"Made in India\" boards outside their stores\r\nDonald Trump's steep 50% tariffs on India have kicked in, weeks after the US president issued an\u2026 [+6296 chars]",
-      "description": "The US president's steep 50% tariffs on India have kicked in, sending Narendra Modi's government into firefighting mode.",
-      "publishedAt": "2025-08-26T23:37:22Z",
+      "content": "Today, President Donald J. Trump held the seventh Cabinet meeting of his second term gathering members of the Trump Administration together ahead of Labor Day to celebrate the victories American work\u2026 [+7156 chars]",
+      "description": "Today, President Donald J. Trump held the seventh Cabinet meeting of his second term \u2014 gathering members of the Trump Administration together ahead of",
+      "publishedAt": "2025-08-26T21:01:57Z",
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Whitehouse.gov"
       },
-      "title": "Donald Trump: PM Modi says make and spend in India as 50% tariffs kick in - BBC",
-      "url": "https://www.bbc.com/news/articles/c5ykznn158qo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e40/live/5f28ff50-81c8-11f0-b1b7-d5227004453f.jpg"
+      "title": "Trump Administration Celebrates Successes for America\u2019s Workers - The White House (.gov)",
+      "url": "https://www.whitehouse.gov/articles/2025/08/trump-administration-celebrates-successes-for-americas-workers/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/08/sharP20250826DT-0400.jpg"
     },
     {
-      "author": "Josh Alper",
-      "content": "The 49ers made a number of moves involving wide receivers on their way to the 53-man roster limit on Tuesday. \r\nAs expected, they moved Brandon Aiyuk to the reserve version of the physically unable t\u2026 [+1484 chars]",
-      "description": "The 49ers made a number of moves involving wide receivers on their way to the 53-man roster limit on Tuesday.",
-      "publishedAt": "2025-08-26T23:15:00Z",
+      "author": "Mark Daniels | mdaniels@masslive.com",
+      "content": "The Patriots have their very first 53-man roster for the 2025 NFL season.\r\nOn Tuesday, NFL teams trimmed their rosters from 90 to 53 players. The Patriots started the day with 76 players on their ros\u2026 [+5211 chars]",
+      "description": "The Mike Vrabel era is upon us. Here's a look at the Patriots first 53-man roster of the 2025 NFL season",
+      "publishedAt": "2025-08-26T20:52:00Z",
       "source": {
         "id": null,
-        "name": "NBCSports.com"
+        "name": "MassLive.com"
       },
-      "title": "Robbie Chosen released, Brandon Aiyuk to PUP as 49ers reach 53 players - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robbie-chosen-released-brandon-aiyuk-to-pup-as-49ers-reach-53-players",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/bbd5edb/2147483647/strip/true/crop/4506x2535+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2Fb1%2F51e186644cb39dd8385fd3004335%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2230851178"
-    },
-    {
-      "author": "ABC News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2025-08-26T22:30:00Z",
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "title": "Abrego Garcia's attorneys ask to reopen his immigration case to seek asylum - ABC News",
-      "url": "https://abcnews.go.com/US/abrego-garcias-attorneys-blast-government-unilaterally-rearresting/story?id\\\\u003d124991217",
-      "urlToImage": null
-    },
-    {
-      "author": "Julia Jester",
-      "content": "The Department of Government Efficiency put the personal data of millions of Americans, including Social Security numbers, on a vulnerable server in June, according to a new whistleblower complaint.\r\u2026 [+4219 chars]",
-      "description": "The Department of Government Efficiency put Social Security numbers and other sensitive data on a vulnerable server, a new whistleblower complaint alleges.",
-      "publishedAt": "2025-08-26T22:02:45Z",
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "title": "DOGE put Social Security numbers and other data on a risky server, whistleblower alleges - NBC News",
-      "url": "https://www.nbcnews.com/politics/doge/doge-put-social-security-numbers-data-risky-server-whistleblower-alleg-rcna227259",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250310-elon-musk-vl-1142a-5aceac.jpg"
-    },
-    {
-      "author": "Maxwell Zeff",
-      "content": "Anthropic is launching a research preview of a browser-based AI agent powered by its Claude AI models, the company announced on Tuesday. The agent, Claude for Chrome, is rolling out to a group of 1,0\u2026 [+3115 chars]",
-      "description": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a user's Chrome browser.",
-      "publishedAt": "2025-08-26T20:10:59Z",
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "title": "Anthropic launches a Claude AI agent that lives in Chrome - TechCrunch",
-      "url": "https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200"
-    },
-    {
-      "author": null,
-      "content": "The American College of Cardiology issued new guidance Tuesday that recommends adults with heart disease get vaccinated against respiratory illnesses, including RSV, COVID-19, pneumococcal infection,\u2026 [+3422 chars]",
-      "description": "This season\u2019s emerging set of guidelines stand out because they urge the need for vaccine-based protection against respiratory illnesses, including COVID, contradicting statements from Health Secretary Robert F. Kennedy, Jr., and the Trump administration.",
-      "publishedAt": "2025-08-26T20:07:15Z",
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "title": "Heart disease patients should get vaccinated against respiratory illnesses, including COVID-19, cardiology experts say - PBS",
-      "url": "https://www.pbs.org/newshour/health/heart-disease-patients-should-get-vaccinated-against-respiratory-illnesses-including-covid-19-cardiology-experts-say",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/GettyImages-1349025038-1024x683.jpg"
-    },
-    {
-      "author": "Passant Rabie",
-      "content": "The International Space Station (ISS) has been in orbit for over 26 years, housing astronauts at an altitude of 250 miles (400 kilometers) above Earth. But even at that distance, the space station ca\u2026 [+3109 chars]",
-      "description": "Newly installed thrusters will fire to give the 450-ton spacecraft a little nudge.",
-      "publishedAt": "2025-08-26T20:05:29Z",
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "title": "SpaceX Just Sent the ISS a New Way to Stay in Orbit - Gizmodo",
-      "url": "https://gizmodo.com/spacex-just-sent-the-iss-a-new-way-to-stay-in-orbit-2000648211",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Dragon-reboost-1200x675.jpg"
-    },
-    {
-      "author": "Brent Lang",
-      "content": "\u201cKPop Demon Hunters,\u201d the animated phenomenon of the summer, is now the most-streamed movie in Netflix history. \r\nThe film about a K-pop girl group who track down mythical monsters when not filling s\u2026 [+1614 chars]",
-      "description": "'KPop Demon Hunters' has become Netflix's most-streamed movie in history, beating 'Red Notice.'",
-      "publishedAt": "2025-08-26T19:00:00Z",
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "title": "\u2018KPop Demon Hunters\u2019 Is Netflix\u2019s Most-Watched Movie Ever With 236 Million Views, Beating \u2018Red Notice\u2019 - Variety",
-      "url": "https://variety.com/2025/film/news/kpop-demon-hunters-netflix-most-watched-movie-history-1236496106/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/06/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.01_04_39_22-e1751348536322.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "author": null,
-      "content": "A 16-year-old who helped to prepare a foiled attack on a Taylor Swift concert in Vienna last year has avoided prison. \r\nMohamed A was given an 18-month suspended sentence under juvenile criminal law \u2026 [+1594 chars]",
-      "description": "Mohamed A will serve an 18-month suspended sentence after sending bomb-making instructions.",
-      "publishedAt": "2025-08-26T17:39:09Z",
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "title": "Teen avoids jail over plot to attack Taylor Swift Vienna concert - BBC",
-      "url": "https://www.bbc.com/news/articles/crlz72l66pro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d58d/live/ed9d9f70-829a-11f0-bda8-213e434b329e.jpg"
-    },
-    {
-      "author": "Colin Laidley",
-      "content": "<ul><li>Nvidia, which accounts for about 8% of the S&amp;P 500, is expected to move markets when it reports quarterly results after the close on Wednesday. </li><li>Nvidia's dominance within the AI c\u2026 [+4278 chars]",
-      "description": "All eyes are on Nvidia heading into the AI chip giant's second-quarter earnings report, due after markets close on Wednesday.",
-      "publishedAt": "2025-08-26T17:38:21Z",
-      "source": {
-        "id": null,
-        "name": "Investopedia"
-      },
-      "title": "After Months of Calm, Nvidia Earnings Could Spark a Big Stock Market Move - Investopedia",
-      "url": "https://www.investopedia.com/after-months-of-calm-nvidia-earnings-could-spark-a-big-stock-market-move-11797843",
-      "urlToImage": "https://www.investopedia.com/thmb/JeFHzfZsHjJy_uBhVNlxP08cTsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2231344336-7896931d52c04abfb99345f52496e52f.jpg"
+      "title": "Patriots reveal first 53-man roster under Mike Vrabel - MassLive",
+      "url": "https://www.masslive.com/patriots/2025/08/patriots-reveal-first-53-man-roster-under-mike-vrabel.html",
+      "urlToImage": "https://www.masslive.com/resizer/v2/UXA7FDP3KNFMXJBONW6F7GWWO4.jpg?auth=22cff8d3107766b26c823c5ec2bd3c6f87ff6b38fd10e5b9191068730eb30ceb&width=1280&quality=90"
     }
   ],
   "status": "ok",
-  "totalResults": 34
+  "totalResults": 35
 }
