@@ -1,15 +1,5 @@
 {
-  "articles": [
-    {
-      "author": null,
-      "description": null,
-      "publishedAt": null,
-      "title": "Hamas security forces kill 32 members of Gaza &#x27;gang&#x27;, official says",
-      "url": "https://www.reuters.com/world/middle-east/hamas-security-forces-kill-32-members-gaza-gang-official-says-2025-10-13/",
-      "urlToImage": null
-    }
-  ],
-  "sortBy": "top",
-  "source": "reuters",
-  "status": "ok"
+  "code": "sourceDoesNotExist",
+  "message": "The news source you've entered doesn't exist. Check your spelling, or see /v1/sources for a list of valid sources.",
+  "status": "error"
 }
