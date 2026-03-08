@@ -1,10 +1,36 @@
 {
   "articles": [
     {
+      "author": "Matthew Cappucci, Ben Noll",
+      "content": "An intense and deadly tornado tore through south central Michigan on Friday afternoon, laying siege to neighborhoods in Union City, about 25 miles east-southeast of Kalamazoo, with additional tornado\u2026 [+64 chars]",
+      "description": "A strong tornado ripped through Michigan, killing at least four \u2014 part of a barrage of severe weather across the Plains and Midwest.",
+      "publishedAt": "2026-03-07T21:54:17Z",
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "title": "What made the deadly tornado hitting Michigan so striking - The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2026/03/07/rare-tornado-michigan-impacts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVPG3T3FYG5U7UVDNOGC7IODEY_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "The Guardian",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-03-07T19:58:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Iran\u2019s president apologises to Gulf nations; Trump threatens further strikes \u2013 Middle East crisis live - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMERfcU5HWXdvb091WVcxdmQ0Z19hYmRKQzdRaGNBNkpSVUFua3NRV3Fob1lxaExVb2x2NTdMNE5aR2pQWHczWlJISHFMNHNxUDVQNnl2MmQzZUs5TGNzNFlZbTlhWDNfXzFhdGJ4NFBGYXoxUWM3MzRZMEVlNF9VNDB0LWx6Yk5mRFhyYzM3cDhxYnI5ckhKWG1DXzRfdEgtQmtqdVhCVXNqQmh4UDd4VkJyNUFOUlB6ZDdQQllNM2dwcGZyM3dZdmVoN0FVUQ?oc=5",
+      "urlToImage": null
+    },
+    {
       "author": "John Hudson, Warren P. Strobel",
       "content": "A classified report by the National Intelligence Council found that even a large-scale assault on Iran launched by the United States would be unlikely to oust the Islamic republics entrenched militar\u2026 [+169 chars]",
       "description": "A classified U.S. report doubts that Iran\u2019s opposition would take power following either a short or extended U.S. military campaign.",
-      "publishedAt": "2026-03-07T14:42:54Z",
+      "publishedAt": "2026-03-07T19:31:54Z",
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
@@ -12,6 +38,84 @@
       "title": "Intel report warns large-scale war \u2018unlikely\u2019 to oust Iran\u2019s regime - The Washington Post",
       "url": "https://www.washingtonpost.com/national-security/2026/03/07/iran-intelligence-report-unlikely-oust-regime/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YH2RNZOYDY3G776PTNDD5MLK74_size-normalized.jpg&w=1440"
+    },
+    {
+      "author": "Terrence O'Brien",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
+      "description": "Sony is testing dynamic pricing for some Playstation games, meaning some people to pay more for the same title.",
+      "publishedAt": "2026-03-07T17:52:10Z",
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "title": "Sony appears to be testing dynamic pricing on PlayStation games - The Verge",
+      "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "author": "Damon Martin",
+      "content": "Max Holloway has a long list of accolades on his resume but in the cage theres little doubt that one of his best known moves is pointing to the ground and inviting his opponents to meet him in the mi\u2026 [+2773 chars]",
+      "description": "Max Holloway faces Charles Oliveira for the \u201cBMF\u201d title in the UFC 326 main event",
+      "publishedAt": "2026-03-07T15:00:00Z",
+      "source": {
+        "id": null,
+        "name": "MMA Fighting"
+      },
+      "title": "Daniel Cormier told Max Holloway to \u2018please stop\u2019 doing the \u2018point down\u2019 move in his fights, Holloway responds - MMA Fighting",
+      "url": "https://www.mmafighting.com/ufc/474709/daniel-cormier-told-max-holloway-to-please-stop-doing-the-point-down-move-in-his-fights-holloway-responds",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/03/gettyimages-2226083000.jpg?quality=90&strip=all&crop=0%2C3.9771854048117%2C100%2C78.53978103155&w=1200"
+    },
+    {
+      "author": "Myra P. Saefong",
+      "content": "U.S. and global benchmark prices on Friday tallied their largest weekly gains on record. Another week like that would lift prices very close to their all-time highs and invite talk of an economic doo\u2026 [+181 chars]",
+      "description": "President Trump calling for an \u2018unconditional surrender\u2019 by Iran didn\u2019t help oil markets Friday",
+      "publishedAt": "2026-03-07T13:30:00Z",
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "title": "Spike in oil prices triggers talk of an economic doomsday scenario - MarketWatch",
+      "url": "https://www.marketwatch.com/story/spike-in-oil-prices-triggers-talk-of-an-economic-doomsday-scenario-86860a98",
+      "urlToImage": "https://images.mktw.net/im-24921834/social"
+    },
+    {
+      "author": "Madeline Berg, Roya Shahidi, Alexandra Karplus, Polly Thompson, Joshua Nelken-Zitser",
+      "content": "Emilia Vasquez, a business development manager for Goodwill, landed in Dubai on Thursday, February 26. She and her 6-year-old son had flown in to celebrate her birthday, and they were planning to sta\u2026 [+6674 chars]",
+      "description": "As travelers stranded in the Middle East navigated the logistics of getting stranded, they also faced another issue: the cost of getting stranded.",
+      "publishedAt": "2026-03-07T13:06:00Z",
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "title": "The cost is mounting for stranded travelers in the Middle East: 'That's a lot of money we were not intending to spend' - Business Insider",
+      "url": "https://www.businessinsider.com/middle-east-travel-disruption-hotel-bills-expenses-vouchers-who-pays-2026-3",
+      "urlToImage": "https://i.insider.com/69ab29adfd4fbd083f29af7a?width=1200&format=jpeg"
+    },
+    {
+      "author": "Kerry  Breen",
+      "content": "Debi Weiss was annoyed but not concerned when she started feeling weak and out of breath in January 2024. She thought it was a case of the flu.\r\nAs the weeks passed, the Pilates instructor's symptoms\u2026 [+5252 chars]",
+      "description": "Debi Weiss thought her fatigue and weakness was a seasonal illness, but her condition quickly worsened.",
+      "publishedAt": "2026-03-07T13:00:01Z",
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "A Pilates teacher thought she had the flu. Doctors found an aggressive disease: \"An out-of-body experience\" - CBS News",
+      "url": "https://www.cbsnews.com/news/lymphoma-cancer-immunotherapy-atlantic-health-morristown-new-jersey/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/02/19/5fa21dba-0d2d-44ed-b519-beee741e827a/thumbnail/1200x630/b12d801cf037503bd0e168ed390e0246/debi-photo-1000x595-1-2.png"
+    },
+    {
+      "author": "Corky Siemaszko",
+      "content": "Its called Saranac Playground, and when the weather is nice it becomes a magnet for the children who live on the east side of Cleveland.\r\nBut in recent days, this small patch of green has been visite\u2026 [+3691 chars]",
+      "description": "It\u2019s called Saranac Playground, and when the weather is nice it becomes a magnet for the children who live on the east side of Cleveland",
+      "publishedAt": "2026-03-07T13:00:00Z",
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "Cleveland playground now a place of mourning for two girls found in suitcases - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/cleveland-playground-now-place-mourning-two-girls-found-suitcases-rcna262101",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260306-Cleveland-memorial-ch-1218-7b24c6.jpg"
     },
     {
       "author": "Ashley Strickland",
@@ -27,19 +131,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2209822258.jpg?c=16x9&q=w_800,c_fill"
     },
     {
-      "author": "WRAL 5 On Your Side",
-      "content": "As the United States and Israel bombard in an attempt to neutralize that nation's military power, the rise in the price of oil and gas is one of the most noticeable immediate impacts for North Caroli\u2026 [+1074 chars]",
-      "description": "WRAL is tracking the change to gas prices daily to help central North Carolina drivers better balance their household budgets.",
-      "publishedAt": "2026-03-07T12:20:36Z",
-      "source": {
-        "id": null,
-        "name": "WRAL.com"
-      },
-      "title": "Gas prices: Prices continue to surge with double-digit increases in NC - WRAL",
-      "url": "https://www.wral.com/consumer/5onyourside/gas-prices-today-iran-war-march-2026/",
-      "urlToImage": "https://images.wral.com/asset/news/local/2026/03/06/22332401/3292160-Gas_prices2-DMID1-6a8a8t5q4-6000x4000.jpg?w=1200&h=630&height=630"
-    },
-    {
       "author": "Barak Ravid, Marc Caputo",
       "content": "<ul><li>\"The Kurds must not be the tip of the spear in this conflict,\" a senior Kurdistan Regional Government (KRG) official told Axios.</li></ul>Zoom in: Iraq's Kurdish government prides itself on t\u2026 [+4168 chars]",
       "description": "\"The Kurds must not be the tip of the spear in this conflict,\" an Iraqi Kurdish official told Axios.",
@@ -53,121 +144,82 @@
       "urlToImage": "https://images.axios.com/N6RJU-4_oFYHHpdRvMED0hKEXoY=/0x0:4200x2363/1366x768/2026/03/07/1772846544581.jpeg"
     },
     {
-      "author": "Nour Rahal",
-      "content": "A tornado was reported on the afternoon of Friday, March 6, as a severe storm moved across parts of southern Michigan, leaving at least 4 people dead and multiple injured, according to officials.\r\nTh\u2026 [+3114 chars]",
-      "description": "A tornado was reported Friday afternoon as a severe storm moved across parts of southwest Michigan, leaving 4 dead and 12 injured, officials say.",
-      "publishedAt": "2026-03-07T11:29:15Z",
-      "source": {
-        "id": null,
-        "name": "Detroit Free Press"
-      },
-      "title": "4 dead, mulitple injured after reported tornado hits southern Michigan - Detroit Free Press",
-      "url": "https://www.freep.com/story/news/local/michigan/2026/03/06/tornado-warning-michigan/89024660007/",
-      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2026/03/07/PPOH/89029408007-menard-2.JPG?crop=3599,2025,x0,y187&width=3200&height=1801&format=pjpg&auto=webp"
-    },
-    {
-      "author": "Vatican News",
-      "content": "Vatican News\r\nPope Leo appointed Archbishop Gabriele Caccia as Apostolic Nuncio to the United States on Saturday, March 7, 2026. Since 2019, he had been serving as Permanent Observer of the Holy See \u2026 [+2054 chars]",
-      "description": "Pope Leo appoints Archbishop Gabriele Caccia - Permanent Observer of the Holy See to the United Nations since 2019 - as Apostolic Nuncio to the United States. In a statement, Archbishop Caccia highlights this new role as a \u201cmission at the service of communion\u2026",
-      "publishedAt": "2026-03-07T11:06:02Z",
-      "source": {
-        "id": null,
-        "name": "Vatican News"
-      },
-      "title": "Pope appoints Archbishop Gabriele Caccia as Apostolic Nuncio to the U.S. - Vatican News",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-03/pope-leo-gabriele-caccia-apostolic-nuncio-usa.html",
-      "urlToImage": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/settembre/05/caccia-onuAEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg"
-    },
-    {
-      "author": "TMZ Staff",
-      "content": "Tony! Toni! Ton\u00e9! singer \u00a0D'Wayne Wiggins family is involved in a bitter war over his 6-figure estate nearly a year after his death ... TMZ has learned.\r\nAccording to court docs obtained by TMZ, D'Wa\u2026 [+1393 chars]",
-      "description": "Tony! Toni! Ton\u00e9! singer \u00a0D'Wayne Wiggins\u2019 family is involved in a bitter war over his 6-figure estate nearly a year after his death ... TMZ has learned.",
-      "publishedAt": "2026-03-07T11:00:04Z",
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "title": "Tony! Toni! Ton\u00e9! Singer D'Wayne Wiggins' Family Fighting Over $700K Estate - TMZ",
-      "url": "https://www.tmz.com/2026/03/07/singer-dwayne-wiggins-family-fighting-over-estate/",
-      "urlToImage": "https://imagez.tmz.com/image/0f/16by9/2026/03/06/0fc6dfbaa9004a53be5438ea81e600e4_xl.jpg"
-    },
-    {
-      "author": null,
-      "content": "Kristi Noem will reportedly join President Donald Trump and 12 Latin American leaders at his resort in Florida for a \"Shield of the Americas\" summit Saturday after her ouster as the Secretary of Home\u2026 [+3945 chars]",
-      "description": "Kristi Noem will join President Donald Trump and 12 Latin American leaders at his Doral resort for Saturday\u2019s \"Shield of the Americas\" summit on regional security partnerships.",
-      "publishedAt": "2026-03-07T11:00:03Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Noem reveals Trump will have 'big agreement' to announce at major summit with world leaders - Fox News",
-      "url": "https://www.foxnews.com/politics/noem-says-trump-have-big-agreement-announce-major-summit-world-leaders",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/trump-noem-green-card-public-benefits.png"
-    },
-    {
-      "author": "Courtenay Brown",
-      "content": "<ul><li>The government's argument appears to have been successful: Later on Friday, the Court of International Trade reversed a previous order that mandated the government instantly start the refund \u2026 [+2111 chars]",
-      "description": "A trade court this week had ordered the government to begin reimbursing importers who paid for tariffs.",
-      "publishedAt": "2026-03-07T10:41:57Z",
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "title": "Trump administration says it can't comply with order to start tariff refunds - Axios",
-      "url": "https://www.axios.com/2026/03/06/trump-tariffs-refunds-cbp",
-      "urlToImage": "https://images.axios.com/IabxNCMIyVd-DCPuU1L_ZBaUwjU=/0x317:4426x2806/1366x768/2026/03/06/1772814981937.jpeg"
-    },
-    {
-      "author": "Daniel de Vise\u0301",
-      "content": "A million dollars is an aspirational retirement-savings goal, celebrated in\u00a0articles and\u00a0Reddit threads about\u00a0401(k) millionaires.\u00a0\u00a0\r\nBut\u00a0a million dollars is\u00a0not what it used to be.\u00a0Only 36% of Amer\u2026 [+7239 chars]",
-      "description": "A new report reveals how long $1 million in retirement savings will last in every U.S. state, and it's not long enough.",
-      "publishedAt": "2026-03-07T10:05:00Z",
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "title": "$1m is a retirement goal. Here's how long it lasts in every state. - USA Today",
-      "url": "https://www.usatoday.com/story/money/2026/03/07/how-long-1-million-lasts-retirement-ira-florida-arizona/89006766007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/06/USAT/89017596007-money.JPG?crop=3707,2085,x0,y0&width=3200&height=1800&format=pjpg&auto=webp"
-    },
-    {
-      "author": "Jessie Yeung, James Legge, Laura Sharman, Adrienne Vogt, John Liu, Ross Adkin",
-      "content": "Dramatic footage showed Tehrans Mehrabad Airport on fire after airstrikes hit the Iranian capital in the early hours of Saturday, state media reported.\r\nThe airport, which opened in 1938, is located \u2026 [+1847 chars]",
-      "description": "Iran\u2019s president said his country will never surrender, as its military continued to trade strikes with Israel. Follow for live updates.",
-      "publishedAt": "2026-03-07T09:30:00Z",
+      "author": "CNN",
+      "content": "By Amy OKruk, Koko Nakajima, Ren\u00e9e Rigdon, Byron Manley and Janie Boschma, CNN\r\nPublished March 7, 2026\r\nOne week in, the US-Israeli war with Iran has expanded in scope significantly. Strikes have be\u2026 [+1962 chars]",
+      "description": "Maps, satellite images and videos show how the US-Israeli war with Iran has expanded. Strikes have been reported in more than a dozen countries in a week.",
+      "publishedAt": "2026-03-07T11:40:13Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "title": "Live updates: Iran\u2019s president apologizes to neighbors, says country will halt strikes on them unless attacked - CNN",
-      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-07-26",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2264600187.jpg?c=16x9&q=w_800,c_fill"
+      "title": "One week in: Visualizing the evolution of the US-Israeli war with Iran - CNN",
+      "url": "https://www.cnn.com/interactive/2026/03/middleeast/us-israel-iran-war-maps-vis/",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/iran-one-week-hp-card-exlargetease.png?c=16x9&q=w_720"
     },
     {
-      "author": "Cameron Salerno",
-      "content": "The final weekend of the college basketball regular season is here. Teams across the country will have one final game this weekend before the real fun starts with power conference tournaments startin\u2026 [+4889 chars]",
-      "description": "The final weekend of the college basketball season has plenty of marquee matchups on tap",
-      "publishedAt": "2026-03-07T06:18:00Z",
+      "author": "Kirsten Chuba",
+      "content": "The end of awards season is near, and it\u2019s time to go out with a bang. \r\nOscars week always brings a jam-packed schedule of events and this year is no different. In the lead-up to Hollywood\u2019s biggest\u2026 [+14259 chars]",
+      "description": "Hollywood's biggest night is almost here \u2014 and there's no shortage of ways to celebrate.",
+      "publishedAt": "2026-03-07T11:37:04Z",
       "source": {
         "id": null,
-        "name": "CBS Sports"
+        "name": "Hollywood Reporter"
       },
-      "title": "College basketball picks, schedule: Predictions for Duke vs. UNC, more games on last weekend of regular season - CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-picks-predictions-odds-top-25-games-saturday-duke-north-carolina/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/03/07/cd80133a-2b85-46f9-a6ad-535ce5fc3ed5/thumbnail/1200x675/5e9dc517f366b5e0c3c58d12d61b356c/gettyimages-2260458229-1.jpg"
+      "title": "Oscars 2026: The Complete Guide to Parties and Events (Updating) - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/oscars-2026-guide-parties-and-events-1236520885/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2202989668.jpg?crop=0px%2C287px%2C5868px%2C3283px&resize=1440%2C810"
     },
     {
-      "author": "Jamal Collier",
-      "content": "BOSTON -- Celtics star Jayson Tatum described his return to the court Friday night, his first NBA game in 298 days, as a step in his recovery from a torn right Achilles.\r\n\"I still got a long way to g\u2026 [+4905 chars]",
-      "description": "Celtics star Jayson Tatum said he felt anxious in his first game in 298 days but was able to relax and finished with 15 points, 12 rebounds and seven assists in a 120-100 win over the Mavericks.",
-      "publishedAt": "2026-03-07T05:28:00Z",
+      "author": "Bill Horgan",
+      "content": "In this weeks Reacts survey, we asked two questions.\r\nIn our first question, we focused on the fact that the Commanders recently cut starting center Tyler Biadasz, who has since reportedly signed a m\u2026 [+6394 chars]",
+      "description": "Survey results!!",
+      "publishedAt": "2026-03-07T10:53:46Z",
       "source": {
-        "id": "espn",
-        "name": "ESPN"
+        "id": null,
+        "name": "Hogs Haven"
       },
-      "title": "Celtics' Tatum starts rough, finds groove in 15-point return - ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/48129090/celtics-tatum-starts-rough-finds-groove-15-point-return",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0307%2Fr1624567_1296x729_16%2D9.jpg"
+      "title": "Commanders fans have strong feelings about the replacement for Tyler Biadasz; Adam Peters is still (pretty much) The Man in Washington - Hogs Haven",
+      "url": "https://www.hogshaven.com/washington-commanders-reacts/404361/commanders-fans-have-strong-feelings-about-the-replacement-for-tyler-biadasz-adam-peters-is-still-pretty-much-the-man-in-washington",
+      "urlToImage": "https://platform.hogshaven.com/wp-content/uploads/sites/92/2026/03/gettyimages-2166656838.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "author": "Erin Bashford",
+      "content": null,
+      "description": "And it's probably not who you think",
+      "publishedAt": "2026-03-07T09:45:00Z",
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "title": "I tested the AirPods 4 ANC vs Samsung Galaxy Buds 4 \u2014 and there's a clear winner - Tom's Guide",
+      "url": "https://www.tomsguide.com/audio/earbuds/i-tested-the-airpods-4-anc-vs-samsung-galaxy-buds-4-and-theres-a-clear-winner",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zhuQhy8rVTHyGE84QBBV8d-2000-80.jpg"
+    },
+    {
+      "author": "Courtenay Brown",
+      "content": "Where it stands: \"The administration has a reason to make people jump through hoops, because every person who doesn't jump through the hoops ends up leaving money behind,\" Greg Husisian, a trade atto\u2026 [+3284 chars]",
+      "description": "The longer court hearings drag on the more complex refunds become to process.",
+      "publishedAt": "2026-03-07T05:38:51Z",
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "title": "The clock is ticking on tariff refunds - Axios",
+      "url": "https://www.axios.com/2026/03/06/trump-tariffs-refunds-court",
+      "urlToImage": "https://images.axios.com/w7h2WI85HWcovOUTmUB1AbsTDgk=/0x0:1920x1080/1366x768/2020/01/05/1578262908543.jpg"
+    },
+    {
+      "author": "Chris Mannix",
+      "content": "BOSTON Jayson Tatum crossed over and turned downhill, with nothing but daylight between him and the rim. The first six minutes of Tatums return to the Celtics lineup against Dallas on Friday had been\u2026 [+6451 chars]",
+      "description": "The first few shots missed, but the bigger moment landed. After months of doubt and rehab, Tatum is back where he belongs: leading Boston toward another title run.",
+      "publishedAt": "2026-03-07T05:35:35Z",
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "title": "Jayson Tatum\u2019s Return Starts the Celtics\u2019 Championship Clock - Sports Illustrated",
+      "url": "https://www.si.com/nba/jayson-tatums-return-starts-the-celtics-championship-clock",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3978,h_2237/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01kk3c614a27aq8gxpas.jpg"
     },
     {
       "author": "Binaj Gurubacharya",
@@ -181,86 +233,8 @@
       "title": "Ex-rapper\u2019s political party leads early results in Nepal\u2019s first election since 2025 youth revolt - AP News",
       "url": "https://apnews.com/article/nepal-parliament-election-results-balendra-shah-aac242077d2dd052e7e9bdd7c088ccc9",
       "urlToImage": "https://dims.apnews.com/dims4/default/99982a2/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2F6c%2F7c203b96718de5e81b8f8b3836d8%2Fd8a1b54448a044619edbe04172f243d7"
-    },
-    {
-      "author": null,
-      "content": "Mar 7, 2026, 12:08 AM ET\r\nMiami (Ohio) finished the regular season as the only unbeaten team in Division I men's basketball thanks to Eian Elmer scoring a career-high 32 points and grabbing 12 reboun\u2026 [+1377 chars]",
-      "description": "Miami (Ohio) finished the regular season as the only unbeaten team in Division I men's basketball, winning 110-108 in overtime over Ohio.",
-      "publishedAt": "2026-03-07T05:08:00Z",
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "title": "No. 19 Miami (Ohio) caps undefeated regular season with OT win - ESPN",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48128883/no-19-miami-ohio-caps-undefeated-regular-season-ot-win",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0307%2Fr1624561_1296x729_16%2D9.jpg"
-    },
-    {
-      "author": "Glenn Garner",
-      "content": "With negotiations a week away for its new contract with the Alliance of Motion Picture &amp; Television Producers, the Writers Guild of America has released its pattern of demands.\r\nOn Friday, the WG\u2026 [+1897 chars]",
-      "description": "With negotiations a week away for its new contract with the AMPTP, the WGA has released its pattern of demands.",
-      "publishedAt": "2026-03-07T04:10:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "WGA Releases Pattern Of Demands Ahead Of AMPTP Negotiations - Deadline",
-      "url": "http://deadline.com/2026/03/wga-pattern-demands-amptp-negotiations-1236746598/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/WGA-AMPTP-Logo.jpg?w=1024"
-    },
-    {
-      "author": "Anthony D'Alessandro",
-      "content": "FRIDAY PM: Pixar is bound for its best opening since 2017\u2019s Coco with Hoppersspringing to a wonderful $40M weekend opening at 4,000 locations. Hoppers first day/previews alone are estimated $12.7M (p\u2026 [+6956 chars]",
-      "description": "Pixar Original 'Hoppers' is off to a solid start in previews with $3.2M. Keep in mind that's $2M from Thursday night and the rest from Saturday previews a week ago.",
-      "publishedAt": "2026-03-07T03:53:00Z",
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "title": "'Hoppers' Box Office: $3M+ Previews For Disney/Pixar Toon - Deadline",
-      "url": "http://deadline.com/2026/03/box-office-hoppers-the-bride-1236745894/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/Hoppers.jpg?w=1024"
-    },
-    {
-      "author": "Tim Stelloh",
-      "content": "The family of an aunt and her niece who were found dead on a Utah trail earlier this week said Friday that they cant comprehend why the women were slain in a pair of killings allegedly committed by a\u2026 [+3036 chars]",
-      "description": "The family of an aunt and her niece who were found dead on a Utah trail earlier this week said Friday that they can\u2019t comprehend why the women were slain in ...",
-      "publishedAt": "2026-03-07T02:52:00Z",
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "title": "2 women were 'bonding over the beauty of a hike' when they were killed in Utah, family says - Yahoo",
-      "url": "https://www.nbcnews.com/news/us-news/2-women-bonding-beauty-hike-killed-utah-family-says-rcna262191",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SSObQCWwLoQnshbsWN.7jQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/nbc_news_122/8bf2b0026a799c72663e7bdf024fc6c9"
-    },
-    {
-      "author": "Mike Florio",
-      "content": "At a time when there are far more important issues to address (one in particular), President Trump devoted time on Friday afternoon to a Saving College Sports roundtable.\r\nVia Heather Dinich of ESPN,\u2026 [+2832 chars]",
-      "description": "At a time when there are far more important issues to address (one in particular), President Trump devoted time on Friday afternoon to a \"Saving College Sports\" roundtable.",
-      "publishedAt": "2026-03-07T01:58:48Z",
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
-      },
-      "title": "President Trump plans to sign executive order to \"save college sports\" - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/president-trump-plans-to-sign-executive-order-to-save-college-sports",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/1734786/2147483647/strip/true/crop/5504x3096+0+286/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F61%2F85114ebe4b60bf22e308fda669c1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2265162024"
-    },
-    {
-      "author": null,
-      "content": "Former President Joe Biden\r\n told mourners at Rev. Jesse Jacksons memorial service Friday that he is \"a h--- of a lot smarter than most of you,\" a pointed remark that stood out during his tribute to \u2026 [+3266 chars]",
-      "description": "Joe Biden shared a personal story about childhood stuttering at Jesse Jackson's memorial service, telling a crowd he's \"smarter than most of you\" in a pointed comment.",
-      "publishedAt": "2026-03-07T01:09:48Z",
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "title": "Biden says \u2018I\u2019m a h--- of a lot smarter than most of you\u2019 to crowd at Jesse Jackson funeral - Fox News",
-      "url": "https://www.foxnews.com/politics/biden-says-im-h-lot-smarter-most-you-crowd-jesse-jackson-funeral",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/biden-says-hes-a-lot-smarter-than-you.jpg"
     }
   ],
   "status": "ok",
-  "totalResults": 36
+  "totalResults": 33
 }
