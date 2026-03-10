@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "John Power",
+      "content": "Oil prices have surged past $100 a barrel for the first time since Russias invasion of Ukraine, amid the widening fallout of the United States and Israels war on Iran.\r\nBrent crude, the global benchm\u2026 [+1665 chars]",
+      "description": "Crude oil prices rise by as much 20 percent as sprawling regional conflict threatens global energy supplies.",
+      "publishedAt": "2026-03-09T00:52:24Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Oil soars past $100 a barrel amid Iran war",
+      "url": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260308__A2EN8MD__v3__MidRes__TopshotIranUsIsraelWar-1773014540.jpg?resize=1200%2C630"
+    },
+    {
+      "author": "Zaid Sabah",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nIrans military and political leaders pledge allegiance to Mojtaba Khamenei as Saudi Arabia reports two deaths amid Iranian counterattacks.",
+      "description": "Iran\u2019s military and political leaders pledge allegiance to Mojtaba Khamenei as US-Israeli attacks continue.",
+      "publishedAt": "2026-03-09T00:00:00Z",
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "title": "Iran war live: Mojtaba Khamenei named supreme leader, Israel bombs Tehran",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260308__A2EN2PN__v2__HighRes__TopshotIranUsIsraelWar-1773012003.jpg?resize=1920%2C1440"
+    },
+    {
       "author": null,
       "content": "NewsFeed\r\nIranian state television has announced that the Assembly of Experts has chosen Mojtaba Khamenei as supreme leader after a decisive vote. Hes the son of Ayatollah Ali Khamenei who was killed\u2026 [+36 chars]",
       "description": "Iranian state television has announced that the Assembly of Experts has chosen Mojtaba Khamenei as supreme leader.",
@@ -1273,34 +1299,8 @@
       "title": "Iranian Kurd leader in Iraq says ground operation into Iran \u2018highly likely\u2019",
       "url": "https://www.aljazeera.com/news/2026/3/7/iranian-kurd-leader-in-iraq-says-ground-operation-into-iran-highly-likely",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-05T082854Z_324208714_RC28KJAU48QZ_RTRMADP_3_IRAN-CRISIS-IRAQ-KURDS-EXERCISE-1772740772.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": "Al Jazeera Staff",
-      "content": "Washington has downplayed reports that Russia is sharing intelligence with Iran about United States targets across the Middle East amid the burgeoning US-Israel war on Iran, first reported by The Was\u2026 [+3385 chars]",
-      "description": "Pentagon asserts US forces are tracking Russian-Iranian operations amid escalating conflict in the region.",
-      "publishedAt": "2026-03-07T09:09:15Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "US downplays reports Russia gave Iran intel to help Tehran strike US assets",
-      "url": "https://www.aljazeera.com/news/2026/3/7/us-downplays-reports-russia-gave-iran-intel-to-help-tehran-strike-us-assets",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69abe343b729-1772872515.jpg?resize=1920%2C1440"
-    },
-    {
-      "author": null,
-      "content": "NewsFeed\r\nIrans President Masoud Pezeshkian has apologised for attacking neighbouring countries, in a pre-recorded address released on state television. Within minutes of the statements release, an e\u2026 [+65 chars]",
-      "description": "Iran's President Masoud Pezeshkian has apologised for attacking neighbouring countries, in a pre-recorded address.",
-      "publishedAt": "2026-03-07T09:07:53Z",
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "title": "Iran\u2019s president apologises for attacking neighbouring countries",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/irans-president-apologises-for-attacking-neighbouring-countries",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1772874451.jpg?resize=1722%2C1080&quality=80"
     }
   ],
   "status": "ok",
-  "totalResults": 1906
+  "totalResults": 1851
 }
