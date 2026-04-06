@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <title>Stick'em Up</title>
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div id="canvas-container"></div>
+
+  <!-- Overlay closes settings panel on outside tap -->
+  <div id="overlay"></div>
+
+  <!-- Settings panel (slides up above toolbar) -->
+  <div id="settings-panel">
+    <div id="settings-handle"><div class="handle-bar"></div></div>
+    <div class="settings-scroll">
+
+      <div class="settings-section">
+        <h3>Pen</h3>
+        <div class="row">
+          <label>Color</label>
+          <input type="color" id="pen-color" value="#ff0000">
+          <label>Size</label>
+          <input type="range" id="pen-size" min="1" max="40" value="6">
+          <span class="val" id="pen-size-val">6</span>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <h3>Tag</h3>
+        <div class="row">
+          <label>Text</label>
+          <input type="text" id="tag-text" value="Cram" autocomplete="off" autocorrect="off" spellcheck="false">
+          <label>Color</label>
+          <input type="color" id="tag-color" value="#8f8f8f">
+        </div>
+        <div class="row">
+          <label>Size</label>
+          <input type="range" id="tag-size" min="20" max="400" value="120">
+          <span class="val" id="tag-size-val">120</span>
+        </div>
+        <div class="row">
+          <label>Font</label>
+          <select id="tag-font">
+            <option value="paint">Paint</option>
+            <option value="bomb">Bomb</option>
+            <option value="ny">NYFat</option>
+            <option value="urban">UrbanDecay</option>
+            <option value="throwup">Throwup</option>
+            <option value="brock">Brock</option>
+            <option value="pein">Pein</option>
+            <option value="gas">Gas</option>
+            <option value="squiz">Squiz</option>
+            <option value="drip">Drip</option>
+            <option value="chase">Chase</option>
+            <option value="locals">Locals</option>
+            <option value="sparta">Sparta</option>
+            <option value="mars">Mars</option>
+          </select>
+        </div>
+        <div class="row checkrow">
+          <label><input type="checkbox" id="tag-random"> Random color</label>
+          <label><input type="checkbox" id="tag-multiply"> Multiply blend</label>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <h3>Crew</h3>
+        <div class="row">
+          <label>Text</label>
+          <input type="text" id="crew-text" value="Cram" autocomplete="off" autocorrect="off" spellcheck="false">
+        </div>
+        <div class="row">
+          <label>Font</label>
+          <select id="crew-font">
+            <option value="paint">Paint</option>
+            <option value="bomb">Bomb</option>
+            <option value="ny">NYFat</option>
+            <option value="urban">UrbanDecay</option>
+            <option value="throwup">Throwup</option>
+            <option value="brock">Brock</option>
+            <option value="pein">Pein</option>
+            <option value="gas">Gas</option>
+            <option value="squiz">Squiz</option>
+            <option value="drip">Drip</option>
+            <option value="chase">Chase</option>
+            <option value="locals">Locals</option>
+            <option value="sparta">Sparta</option>
+            <option value="mars">Mars</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <h3>Shapes &amp; Background</h3>
+        <div class="row">
+          <label>Color</label>
+          <input type="color" id="shape-color" value="#ff6600">
+          <label>Opacity</label>
+          <input type="range" id="opacity" min="0" max="255" value="200">
+          <span class="val" id="opacity-val">200</span>
+        </div>
+        <div class="row">
+          <label>Radius</label>
+          <input type="range" id="radius" min="10" max="300" value="100">
+          <span class="val" id="radius-val">100</span>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <h3>Sticker</h3>
+        <div class="row">
+          <label>Image</label>
+          <select id="sticker-select">
+            <option value="-1">Random</option>
+            <option value="0">Goldie</option>
+            <option value="1">Hemi</option>
+            <option value="2">Chicorelli</option>
+            <option value="3">Kemistry</option>
+            <option value="4">Queen</option>
+            <option value="5">Rua Kenana</option>
+          </select>
+          <label>Size</label>
+          <input type="range" id="sticker-size" min="40" max="500" value="150">
+          <span class="val" id="sticker-size-val">150</span>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <h3>Upload Image</h3>
+        <div class="row">
+          <input accept=".png,.jpg,.jpeg" type="file" id="upload">
+        </div>
+        <p class="hint">Select Upload tool in toolbar, then tap canvas to stamp.</p>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Toolbar -->
+  <div id="toolbar">
+    <div id="tools-row">
+      <button class="tool-btn active" data-tool="pen">✏️<span>Pen</span></button>
+      <button class="tool-btn" data-tool="tag">🏷️<span>Tag</span></button>
+      <button class="tool-btn" data-tool="crew">👥<span>Crew</span></button>
+      <button class="tool-btn" data-tool="blob">🫧<span>Blob</span></button>
+      <button class="tool-btn" data-tool="ring">⭕<span>Ring</span></button>
+      <button class="tool-btn" data-tool="sticker">🖼️<span>Sticker</span></button>
+      <button class="tool-btn" data-tool="train">🚂<span>Train</span></button>
+      <button class="tool-btn" data-tool="upload">📸<span>Upload</span></button>
+    </div>
+    <div id="actions-row">
+      <button class="action-btn" id="flow-btn">🌊<span>Flow</span></button>
+      <button class="action-btn" id="bg-btn">🎨<span>Fill BG</span></button>
+      <button class="action-btn" id="clear-btn">🗑️<span>Clear</span></button>
+      <button class="action-btn" id="save-btn">💾<span>Save</span></button>
+      <button class="action-btn" id="settings-btn">⚙️<span>Settings</span></button>
+    </div>
+  </div>
+
+  <script src="libraries/p5.js"></script>
+  <script src="js/index.js"></script>
+</body>
+</html>
