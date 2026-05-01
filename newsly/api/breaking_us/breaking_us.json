@@ -1,46 +1,254 @@
 {
   "articles": [
     {
-      "author": "NPR",
+      "author": "NBA",
       "content": null,
       "description": null,
-      "publishedAt": "2026-04-29T23:54:32Z",
+      "publishedAt": "2026-04-30T04:54:06Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Elon Musk accuses OpenAI's leaders of \u2018looting the nonprofit\u2019 in court testimony - NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmJwVEN5RjcyTmd1MEtmRFFuYl9BRDlrWnlYQm50RzhQYU5HbVkyeVFEWmNFWVc3cDRIeHJDMEtHTXprSXVNbGhCdk9sOUdVSk1WeVVrNENSVVRaWmZpalFILTRiQmxiTFlMeXMzd25weFBWV0ZlR0ZPd0NIalppdmNGUkVxUGotZFR3bQ?oc=5",
+      "title": "4 takeaways: Cade Cunningham, Paolo Banchero engage in duel for the ages in Game 5 - NBA",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BZl9VZzBXNmZHU25HM1BmTWtIVThwdXpGakMtc0VuMHpWQTh3TWZleUZhZVRXQ0hKNnp4YUxWMFljMmFocnZXcUw0RGhvckdCWENsNk4xR0lmOWl5V3pMMDZMY0ZJeDZEbUZjVjcwU2dPcE45V0kzNg?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The Washington Post",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T04:29:45Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Louisiana governor prepares to suspend House primaries after court ruling - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3JwUFZ6cmNTZzktT3ZBci1XQ3lwclF2OG5nWFpRTG5URGN0OHRpSGhGTmRZZHVBaWxieHZzcVNkNjczaDRwODVEMG5oWUIxeFZkWGh4dmJITDFSbEpneHl3QmdaSUpDeGI2cWg0VlNEdFVxTkh0ZU1zY0ZqNmZndk9IdkQxcmhTellLVmR6YXpNXzAzbDBfQVZfNlBpdw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The New York Times",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T04:29:42Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "J. Craig Venter, Scientist Who Decoded the Human Genome, Dies at 79 - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jX2lYTG9NSXdMZUpFRnB3dENxNXp0SDM3QUZpQ085ZGY0Y2FWQV83ZDdLb1NELXNUQWNLQmVTdXhFUnUzcmx1UjZKZlVla1NjcW52cVpOMUFTb2p2RVFCbXVOeFBFV0FPMFJMMFZOWl9hdEZKNkE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The New York Times",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T04:03:58Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Oil Prices Soar as Iran Standoff Shows No End in Sight - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SjhHZ3VuQVBtWEwwVDRlVzNHZ29ZN3hjMW5RZDVJQzVxc3hQWXU5eVZfdVZLWVB5RnRSS1ZMTk93alhRR3FlYTl3cjJyZlZDRWRWaTJ1Vlg1UFBaM2dRalZvcU1ZWVhERkdZZGtnUWs2bVNKZUE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Axios",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T03:38:20Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "LIV Golf reportedly loses Saudi funding as tour's future looks murky - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JLXMybE81VGp4U1lUQ0RTTE14YnhCUjR2b3ctVkgxSS1aa3RBSjJZaVlKMlR5cDNVamhjMFNVZllsdUZVSU1XMTVaRldPekxId2NVaENBUE5ZcFQ0NU9VYUtwZw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Courthouse News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T03:25:35Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "DOJ charges Mexican officials, including governor of Sinaloa, with drug trafficking - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlFSSFNKUzlNbWVId1V6bXRLX0k1dE51dWhvWUF0ZVlhMXFtUVZPWDdJX2kyUER5ZXA1dTl6ejZoS3J6OURpX1hkaTFDTlNxVmFadnpURjZEM2VKNVlvdUV3ekViZVI2cENwb3ZvS0lEV2ZKUVpldEVscDdoQl9FeW05ZDZwR2tGU2hfaUZ6M0REWjhZRW91LVFkRENxWTVfcXRGck53Sk5nUUlPd2N3dkUwMA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Axios",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T03:05:19Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Powell to remain as Fed governor, denying Trump a key vacancy - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aTVR5bmgyanFFNFZxR2lVRl9aQTZKRVRxbllaTld2U1VyVGRWU0NPd2lVaXVDLTc4RjhXakdKZDIyS3BFd2pFQnotSmZ3UnNrYUJsYks0UWZpSi1jdnUyNzBzbmxvUQ?oc=5",
       "urlToImage": null
     },
     {
       "author": "Politico",
       "content": null,
       "description": null,
-      "publishedAt": "2026-04-29T23:35:11Z",
+      "publishedAt": "2026-04-30T02:46:05Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "House vote hits 2-hour mark amid revolts - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmZPUU1ZWjhKNGgyaXpyZERsNTI1MFd4X1dhSkVWTTlPOUtWc181SXk1NWctbmVrelRza1dDSkhhUTZVVTgwTzIyenRPOUR0ZVFfX1BHLXpTTUVtT0w2ODBjZnF0QW4wdV9tejFlb0R2US1IT2h6bC0ya3I2MnRLSnhnNWxJT3pqU2Fqalp0dmg?oc=5",
+      "title": "Republicans unlock filibuster-skirting power to pump billions of dollars to ICE - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU01PV0F6bVlsaDg1UldvSkRvaWZWV3UzdmFJbmZaM1hieUluY2o0bjFHUVlaT3YzMXpYSUdTT3NnbmpxNHQyNklpQ1J0alJiLXdvMTdBTVdKQkJGVFZycVlyZ1lqY25ZVkZTUUJhZjgycExEMnVaSGJUYktGSERYNXpoZjZpTDQzczNQQjIxZTg?oc=5",
       "urlToImage": null
     },
     {
-      "author": "Entertainment Weekly",
+      "author": "Axios",
       "content": null,
       "description": null,
-      "publishedAt": "2026-04-29T23:12:57Z",
+      "publishedAt": "2026-04-30T02:29:35Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "'Days of Our Lives' star Patrick Muldoon's cause of death revealed - Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bDgtOXQ2dE00VzVkMm1HbV9SRmxaN256Y0EtZ21uYlVfWXl5dk9zd2RybnA2QnNXUVZEN21BOWZ2ektQQUp1RTZRWjVnMFgxUkRsUzZCbkF3UW9XNzV5RUVMRFAtSkphSEFpakNFd2Y?oc=5",
+      "title": "Scoop: Commanders to brief Trump on new Iran military options Thursday - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlV0Y0pnY1poRWJvbTZkOXdoVVpqRDRmS2J2X1NzUkNuSFpqUlpCaU5OWXZUcXZxdWZQY3MxSXlxZWU5NTJaelo2R0xHLVhxVkNrUmJnSDRiN2VCZVZEekRaUERrM2llcnhNcUY1bm9xTVhIcTBXV1NqRWhjVWdkSw?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T02:05:38Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "D4vd allegedly amputated teen's finger tattooed with his name as part of 'horrifying' attempt to cover up crime: Prosecutors - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnlodTQtM3VLUERCZ1BQX3FES1p3VEtlNjN2aFpSRWgtWVJ2VXJaaWNvY3I1bFlnSERtQk5KVEhrWVlwLS14RXU0dmJWd1NaaWVfamt5emNvdUdBMThQeXRRSDlOZTdyQmcyVm9EUlV4dURpZXFyZlBLalBJempSbHA0SVFiWmxwQmxJWERZa2YxYmVnLWh2QjBoYzVYV1RWUkRLSThWUdIBrAFBVV95cUxNN2VnMWkyMkF0ZHd1aDBnM0s0RXVyX2tyUldPeWd4TWxOYk1JS3pDV2Z0SHVuNDczVE5QanlNQndVX2F5RW5RNHdsSS01ejRJX3d1dzBHakZnYzFVSGxUQy1kOUtPQ1BhNW9kNjJBUHVianFDa0EtWGFWOWU4cDFGWUhjeU5oWUxEMmY5aUpVTW93MnNxM2RMdWFQa011bGZOM0d6VnVDN1dNcHlS?oc=5",
       "urlToImage": null
     },
     {
       "author": "The Guardian",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T02:00:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Brown University shooting suspect driven by \u2018accumulation of grievances\u2019, FBI says - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGlFdUhJbDgtZUJTb3E0SncyblhWSG1qOUJ2eUM0WWRoR2FkME1GUlg4RGpibzBJM2tpQjRjTk1CU0hzSEtXWEpQTnJCTm9WV0hBekw1YWxvV3BVa0hMY3l4YUs5QTdmR0tGNVFLSVpncG5ScHFiTHJINjdwb3NxdnQteGtGTndQM2w3UzN3?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Fortune",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T01:47:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Google Cloud revenue is now 18% of Alphabet's business. Is this the beginning of the end of Google's search identity? - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LWXNoRkE1WTR4eDYzcnRFaEZ4SHZwVEZJWFN3dk9wbTliRTBnb0pRVTV0bHI1TGhjWlJ5cTdVVmg0c1J0aGxPLWFHbmQxU0tTLURqT0ZiRW1yVUFIcm1aUjctTHBEcFE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "AP News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T00:43:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "London police say the stabbing of 2 Jewish men is an act of terror. The suspect was arrested - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWdxV2VBUkVBWHdPcTBVTkZkcUZULTVEME4tSTdQUFZCeFJPQ1BadWNVcTF1SE44eHRRNkNHalgydk53MVlpeWJ5bVNYSVhZNTh4V3ZDbzhpMk5zcjE2dEVibU5vNGpuazVTcFJGUGZqYXB4clFacFI0YmdKeXA2bHdCalRsa3FrWTFMRnRWNzgzcWxUSW13QzlPclo2dDJ3Z0JCZ1hIdmRWR1l2eEE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CNBC",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-30T00:28:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Brent crude hits wartime high, soaring past $123, as U.S. military to reportedly brief Trump on action against Iran - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3pUb240VWdZU2pFXzNDRVpfNGloVkJab0M3RDh4anVCYzFzX01JZEJSREd5Ry1ab0lBOGUxTUh6WkYtMHBzUllsQ01pWHUtZlBwcEZDbDNXMW1fa0haRUpVLTR5dGsxaG1yMmhfTjhkb0JZMDltMFlBWXB3eXNfdzU5b1BfbzBz0gGOAUFVX3lxTFBXWjl6VXdoaU83SDNTM2pfRTZKMV9xeUdJUDQ4TTFhcFY4T0dyM0pvSzE1QmJoQlY0OGJ1eTUtVWgtLXJrejJtZ0hCb05xRFlpRzhWYUlNUnF1bDM2SUtDVndwdHhKR2hiRWhGNkp2eXlIU2Vkb184SnY5SlctY2hmam10cURFOWNyeFJ5WlE?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "Action Network",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-29T23:58:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Rockets vs Lakers Prediction, Picks, Odds for NBA Playoffs Game 5 Tonight 4/29 - Action Network",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2ZJRDJzTnhoaGRndWkwaXUyRXZJQTRSYkk1bTFfaDdHRHhZRm5OdmkwRS1wVUJFUUdXQXA4WGZqTHg4MVp3QUt6V0VYV2FoVmJ5Z2VCZGcxbDhmTEIwcGJ2WEZMRFJfWS1mVUtpV3BBRm9yaEhQS0FTM2xQblJhOWlEWElzRXY1cE1GakhnaUduTFRGNjEwcWZhcGRfaF9BZWhsdzJZY005RzU5Z1piRnAzZEJQNzl4b3c?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "The New York Times",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-29T23:56:13Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Takeaways From Hegseth\u2019s Testimony on Iran War and His Tenure - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXJYVk8xRHZiLWtKYXpYMEFzTXREOUs5OUs3TWl1WUhGTUpMQzgxRTZYUF9sSGFqa0FmNmJOYTdLNEo2RmkweW1rRndMc2JPbXNVLXJiTDh2Q3Q0QzUyTzhSWGhqWk5nOWdmYUlyQnFvS2M2UGQyV1B1SkV0azVIcTB3VWJvaHFzZ2hmV2xLOA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "CBS News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-29T23:38:40Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Trump says U.S. may cut the number of American troops in Germany - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LQ3k4UXlSQlhUZzJuaEVmaHpMUVBQVnFENk9tRFhsN2dNeVVLTjQ4NTJ1UEFuQ1dKYTQ1U1J1ZTBTZ3ZhX2h5RzF2NzdNMFhPWVpFWG9tYi1meHJScXBWTjZ4d0NXMS03VG1tRkdjaW1aR1lSSDY2RjZ3a0PSAYIBQVVfeXFMUGpxc0FNenVWN3BKb0FINy1rQ2libzhhQlQ1d3loeFJiQkg2ajhtMDBkdXBuYnNhVXJDc3BwaVl2YWhXUHQydjUxa0hpVjVnT2RGVkxfdTRjSHc1bmdQZmlNaWdZRDJBUVc1cHBOaHVBRDFnQkhDQmJxNlBoQWpOc0ZrQQ?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "AP News",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-29T23:11:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "Trump rejects Iran\u2019s latest proposal as Democrats confront Hegseth over war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0MVpRbGoydXJnVzU2YVNBWUpoOGVjanZEd2FpLUNfb0hFcmRZUUlWblUwRjlkZXdDRGlXSURkaWhYUVJMNGNObFViS1dZamZCeWg1OUFpV3BNUDRscjBxcWJEWVdKZ0JuQ0NSTFpwcmdtbXpXbkFBNVpOT3Vjcjg?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "AOL.com",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-04-29T22:51:00Z",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "title": "LeAnn Rimes cancels upcoming shows citing 'severe illness' months after $10K blood-cleaning treatment - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jejN2WFl2RERMang4Mk9RdTBWVzFNeFQxczVhWVRPYXptSVZ2WEFfaFNCV3N5TmFYZmdLUGFWRjNnT3NCejJlRVRvX19HT1V6Rk5sbGVuWV9nOGdfT1R1TmRCQXVBQXpzb3BET044b1FJSFJYNWx0WA?oc=5",
+      "urlToImage": null
+    },
+    {
+      "author": "MassLive",
       "content": null,
       "description": null,
       "publishedAt": "2026-04-29T22:47:00Z",
@@ -48,216 +256,8 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "title": "Timmy the whale rescue attempt begins off coast of Germany \u2013 in pictures - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTMzaTJUNF8ta0hqZzhGczUzY2pDTENId2xUdVVNWHRNcVBsaFp0TFJGUXpucWw4NXhOR2dPZ0RsbW1KMDFoNVdFUzJPZ0szWVBnRTdVXzRKS2htdnhYY2M4MGxrNEFEb3I2R0ZDYmdBeTdtd2lTX3dwVnJyRktJYnN1UUhsY0JwOWJmVXJZVWdtZGx5UHp4TlJOMmNWRXZtTmcxemdwMmdvNkhXRGw4U3RlVExpbHdo?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T22:44:37Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Supreme Court Strikes Down Louisiana Map, Another Blow to Voting Rights Act - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUNXN1hCYUw0MTJsV0RVb1ZGSUlydkZkRXJsMlgzcmo2WmN2d3dDSHo3RGJZTUVNYUpHS0tYR0hwMHZDbXFzM1R6enpCbGgxU2puLWNiNl9YamZqYjFhSzhVY1lwYXFKTjRyR3VLQ3RidjhxeU00REhpVDhRNnFSREVZUjJGVTFkZXBN?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Los Angeles Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T22:41:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "U.S. indicts Mexican officials on sweeping drug trafficking charges - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWpWbEF4dEpZM3N5Y3RudVV1V1dfMlE2emN4SHFJMTkzREk4TWFEWUFVLTgtSmM1TktuS1NGOWtTaEEyOWNNUTZBbDdpWnNWY1hLRDA3SGs3U1R1VFhHX3QyaW15cG55Tk1Cb2lsbGU1REtVVW9wWVNNWHFJRnVSVkphcjZsY2I2bGUtS3Rrdjc2dmRseWZoV1puOUUxc2ZIbFpwdEl5bXdaVGtJaFZoUjFqYmtBbi1XVVBlTA?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Los Angeles Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T22:08:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "D4vd dismembered teen girl with chainsaw and tried to cover his tracks, prosecutors allege - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZldNZnJKZVRlUk9tWi0xNjFTaVlwVnNLRHVtZGtmQ2lGb3h3NktoakxPVVl1clJUZzdtTEstTlMycE5neXJlZW9wUENsamQ3QkZsc0FJRXpyMkFJWHJhRVdibEh2Y1pXVzNsSXRKWWtWX09zRGtVYUY4MEJGaXhlS3RR?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "NBC Sports",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:58:45Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "George Pickens signs franchise tag - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFVPN3ZUZnNqQ3V2UVN1alpiWThqUWtyVWotelZzNDNyRUNxcnE2RjNlZktUa2ZRVXRCWGRsOHBSMWR1em5nV005ZzdOZ211Q3NWWnUxaXJQbEdYWkhzM3pBWjFYZE5XR1ZQWDNGNUFHbWZpdkE4RGFNOTBiQTdscTNvSHVwRU93Mzh6Y3pULVVWSnZ2N1U4bUlkMFhEaVlWR0hJRDB3?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "NPR",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:48:17Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "The Austrian nuns who fled their care home are now in Rome and visited the Vatican - NPR",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2SXQ4dVh0bUdkRm1JQjJHMlBibW1LODNEanY1Z1FPYTQxdXQ5cThJS251blBJck9MSkhXTzRaUEdyU1d3dDJYLTJFUkFkdDFxOWNPMmxiT2hLa0RVc3duaGl3YW1iVnV1dmhaLXZoc2pYUkpVTVZn?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:45:46Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Powell Says He Will Stay On as Fed Governor After Term as Chair Ends - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRW04NWU4Sk1aNDJqQ3VuM2QxbkxoQ2xaTHQ3RFd4dW13N2dsSmRyWWVKNEM0dk1TMVZJMlhraW5fbDFlNXlETk01WWhtdkhzUjFaWGF5bVlxNUZlVnBrMFZOTTk5VHB0emc2OXlqY1JfMVc5eWhPVUVCZ0stVjIzZE82cGVSOG55?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Investor's Business Daily",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:35:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Meta Stock Slides Despite Posting Fastest Revenue Growth Since 2021. AI Costs Keep Rising. - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCSmt2SmFRN3RjNnNZX2hLVDZzclFXbzJ5UHR4SmtuQkxfbnp3Z3Fzc2FGdmJleGluWVRZZ1VQTHZESnNsU1lONm5LWXI3algwVTUwZHdIOFNzeUp4T2c5cGlwZi1BUE9DNEVYNms4WGVYbWpDbnIxby1R?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The New York Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:34:35Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Indian Tycoon Offers Refuge to Pablo Escobar\u2019s Condemned Hippos - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFdIV3lxWG1IY3hGSEtET3J0aHBEZWM3b1VrdnpUN1h3NE5DbTF0UGpGaDlncDBBallielByQVJBOUs4cy1zM1ZSVWczb0lYaEdEWnBNSlRoS2U1cVlyeWxVWDd1X0hJVGRXbDk0Q1oxcUtscEhKMUl0MnQ5dWQ0SDJjTkF1Y2JTaFBnLWNRRVRoNFR5Y0VzZUdMQQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "5 EYEWITNESS NEWS",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:32:40Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Man charged with trying to kill Trump took hotel room selfie before rushing gala, investigators say - 5 EYEWITNESS NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSi1hV3ZySjE5ZjRONlFYbEpzaklYLUxsU1RCZlJ3TDNIUGljbXZ6bFFsbmVEd0xRVm1oaFF2UWtHaHBWdVYyNjFrUEtaMkhQeTg1ekJWNDFXVHpyVzBHNmlPTDhRUkZ3RFBCMjdqZ2xLWDRTMmdCbkhEU2N2eVNXS1BaNjRoZVpHUGk5ZmR6bU1aOGo3Wno1TWdBcEIzWmxwOF9YOE5BQWJraUNtOW4xalBIQ2hIeWpnZk1IRVNiZGdpbEFpNkZzTDhlcGthZ1dE?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "AP News",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:31:00Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "King Charles III and Queen Camilla honor 9/11 victims on visit to New York - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1JDcTM3d0xGVTZwUW1rRUlyeTdEaE0yZ05zYk5qMWozS3lMT0YyVDZ3ZTE2aXlNbngtdm9DMFNjdl9MY3dvcmtQQm9KNFlqU01hVUJWOXVVa3RQZlVwcmNwZ3RzZUpOeFYwd1V6QTVCWWIwVjNhYk1LMVdFZHFpYklOMmNfS2JYTEhSN2puVTlYVDVRcklqdE91eGNKSEFS?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "Yahoo Finance",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:28:16Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Big Tech AI Capex Tops $650 Billion as Q1 Earnings Beats Pressure Bitcoin Risk Trade - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSDVreWpUdWRZbFpId2JoUDVFUDlERWhvelQ1T1RaZ2tNTWgwUGJlN2VkWW9kZVFXY2pIdm1fZzZ5SEo4d2MwUW55TVVYblRoaXhMcDljOXc4bU1ZejRqVGZkbDdTdVVmMHJqVDVoZzM3WWo5WWNEbjlNbEc4V3J5TThOeTdBVS1oS25mbGYtaUhsRVF1Smc?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "NPR",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T21:01:46Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Long a dream, it's now real: a fast and accurate TB test that doesn't need phlegm - NPR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iVFdleDJENzJrcC1HMkdBUlMzUzIyM1Vic0R2bmhlWGczRFNRTWdVZ050UFNhT0NmMDBpUnA4MVlIOWZSQjlSTVhtcUxScHRxUVp6aWN1T3lRWWUxeDhGX2IzcEJZZHBhQ1dOaF9OUmVEYW1jV09OUHdhRQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Washington Post",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T20:28:34Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Comey appears in court on charges of threatening Trump - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXBpZnZOdDI0dDB0dTZ5WDVRNnJtTDdranc1aGhsR2h3RlJJOEVtdDI0TXVMMGdSRUgtcW1HM21tRzcyVlFGeHBEdXFqbXlkem5hMXZhWkVvLXpVazJuOWswWldseW5aNkJTMk8tb3dOTERvY2syVHk2VVlPQWFHb2EzcXVaWFlYeUhFWE5wUjFLbVZ1bTFXaE5IRng?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "BBC",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T20:24:29Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53aEJrRTBraHBRbGY5MndDTUxWc1JJWnVKQnlWYmdKUmpCZ2JjbW9wNWxGeHlNTHhTM2d6cG5fbnJ4eTJCSTBVVllCMEJET1c4LWpld2lBZmFiQQ?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Washington Post",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T20:20:36Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "U.K. investigates attacks on Jewish targets for possible links to Iran - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTV9CYTFTMnZ0VGhSNUFCSWh6cmF2OFg5VXdvcmNmQ3VKVktFckZjdTdCVVN0WjZwR3FpRFMtMUpZMEFGSFRmMG0wQXNQTWxEb1ZyV08wbGtPcjRaaEsyTFJJQ19ZQVVXelhPaTBfR1doQTZXQjI3U0F0VnZQUXlsaXFEV0VoTEJjMFpQTWhIbU1hWjI4Y2hmRw?oc=5",
-      "urlToImage": null
-    },
-    {
-      "author": "The Seattle Times",
-      "content": null,
-      "description": null,
-      "publishedAt": "2026-04-29T20:02:51Z",
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "title": "Where NCAA tournaments first round could make permanent home in West - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWdDMkJTeW56c29IWXduQkhHOUFlVE9EM2drdUlSNG45RmhTNVNvQWktUV8tMGtnWEtxNUE3b29Ma0hBamhPQ0szX1VYM0NBVmE1aHg0d2tHWmlGRVVrVnZETlZObHNRTGNPbGU2ZWRGMkFyZjBaMDZTX0l4NE1mWDFmVmFPZzlnODBWQkVqRS1HcV8zRGwxaWFQNlBIakVPNDJqcWc0S0wyejZ2YThtR0pUTHVDUVVrakdMS1ZOOFkzZw?oc=5",
+      "title": "Alex Cora in email to entire Red Sox organization: \u2018Disappointed we didn\u2019t finish the job\u2019 - MassLive",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWpBMHJ5UUdkU3dJNmE2NEp5X29PbmcxWGUzUFNPdzJQMXFMSnJmNkFDNm1wUG93RndiZ1AtaGFkOVhUX1o4ZlN1VmJIOWh4YXdiV05VRkpnQWpYVkxpM2NSVHNkUEJoS0R5MkdiZndBUThGa2d1dFFZMkI4V0FNMmRaa29IYnotcDVObV9jd2ZLcjZCVml0OFRzYzVqVWlkT0tVbHF0enVHZDhScWRHbHU2WkJHM09qQ2RnMVV4R3dDbS1IUW9HRXlaZ9IB3wFBVV95cUxNM0sxMWtjTkRpX3hzQ2l2cDdyNU5zdXBLTG85SU1jZG80VklvVzdVLWRkSUhRbktEdE9KRkdWUjNtZWY5S3llSVRxbnU0dlRENG1NTDB1NkROalFJYmhTbU5OanZYQnUxSUJBYjh1cmZtd19QdHQ1bGs1OXBzNDlfeUtYWFRsVF9HcHY2ZEdOaF9pYlVjRUZ2UjhabjFxTDZaRGhKWnQ1a0NTZm1EWElQbldOU1ZfOVc4V1lwd0RKckVTUXhFUU04SjkxVWI2R1pJOUprSVhtZExiMk02cVE0?oc=5",
       "urlToImage": null
     }
   ],
