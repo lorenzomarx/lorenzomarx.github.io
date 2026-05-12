@@ -1,27 +1,27 @@
-var urlNews = "https://lorenzomarx.github.io/newsly/api/aljazApi/aljaz.json";
+const urlNews = "https://lorenzomarx.github.io/newsly/api/aljazApi/aljaz.json";
 
 function setup() {
-  noCanvas();
-
-  // Load JSON data and process it
-  loadJSON(urlNews, gotData, showError);
+    noCanvas();
+    loadJSON(urlNews, gotData, showError);
 }
 
 function gotData(data) {
-  let articles = data.articles;
-  // Choose a random article
-  let randomIndex = floor(random(articles.length));
-  let randomArticle = articles[randomIndex];
-
-  // Create an image element for the randomly selected article
-  let image = createImg(randomArticle.urlToImage, "Random Article Image");
-  image.addClass('img-fluid z-depth-3 p-3 flex-1');
-  imageMode(CENTER);
-  image.parent('result');
+    const articles = (data && data.articles) || [];
+    if (!articles.length) {
+        showError();
+        return;
+    }
+    const pick = articles[floor(random(articles.length))];
+    if (!pick.urlToImage) {
+        showError();
+        return;
+    }
+    const img = createImg(pick.urlToImage, pick.title || "Featured article");
+    img.parent('result');
 }
 
-
-// Error handling function for loadJSON
 function showError() {
-  createP("Failed to load data. Please try again later.").parent('result').addClass('error-message');
+    const p = createP("Feed unavailable. Try refresh.");
+    p.parent('result');
+    p.addClass('error-message');
 }
