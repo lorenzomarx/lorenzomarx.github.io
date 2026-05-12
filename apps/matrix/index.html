@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#FDF2F8">
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <title>MATRIX</title>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4H1JMR2QLW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4H1JMR2QLW');
+    </script>
+
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+
+    <nav class="brutal-nav">
+        <a class="nav-back" href="../../index.html">&larr; HOME</a>
+        <span class="nav-brand">MATRIX</span>
+        <button type="button" id="open-info" class="nav-info">Info ?</button>
+    </nav>
+
+    <div id="status" class="status" role="status" aria-live="polite"></div>
+
+    <section class="stage">
+        <div class="grid-wrap">
+            <canvas id="grid" width="640" height="640" aria-label="Step sequencer grid"></canvas>
+        </div>
+    </section>
+
+    <div class="controls">
+        <button type="button" id="play" class="btn">Play</button>
+        <button type="button" id="clear" class="btn alt">Clear</button>
+        <button type="button" id="share" class="btn ghost">Share URL</button>
+        <label class="tempo">
+            <span class="tempo-label">Tempo</span>
+            <input type="range" id="bpm" min="40" max="240" step="1" value="120">
+            <span class="tempo-val" id="bpm-val">120</span>
+        </label>
+    </div>
+
+    <footer class="brutal-foot">
+        <span class="mark">MATRIX<span class="dot">.</span></span>
+        <a href="../../index.html">&larr; Home</a>
+    </footer>
+
+    <div class="info-modal" id="info-modal" hidden>
+        <div class="content">
+            <h2>Matrix &mdash; Step Sequencer</h2>
+            <p>Click cells on the grid to lay down notes. Each row is a different pitch (C major pentatonic, so no wrong notes). Each column is a 16th-note step. The playhead loops left to right.</p>
+            <h3>Controls</h3>
+            <dl>
+                <dt>Click</dt><dd>Toggle a cell on or off</dd>
+                <dt>Drag</dt><dd>Paint multiple cells at once</dd>
+                <dt>Play</dt><dd>Start / stop the loop</dd>
+                <dt>Space</dt><dd>Same as Play</dd>
+                <dt>Tempo</dt><dd>Slide between 40 and 240 BPM</dd>
+                <dt>Clear</dt><dd>Wipe the grid</dd>
+                <dt>Share</dt><dd>Copy a URL that contains your pattern</dd>
+            </dl>
+            <h3>About</h3>
+            <p>Inspired by Andre Michelle&rsquo;s ToneMatrix and lupine-dev&rsquo;s <a href="https://github.com/lupine-dev/ToneMatrixRedux" target="_blank" rel="noopener" style="color: var(--pink); font-weight: 700;">ToneMatrix Redux</a>. Built from scratch in vanilla JS + Web Audio for this site.</p>
+            <div class="close-row">
+                <button type="button" id="close-info" class="btn">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/matrix.js"></script>
+</body>
+</html>
