@@ -1,177 +1,434 @@
 <!DOCTYPE html>
-<html lang="en" class="">
-
+<html lang="en">
 <head>
-    <!-- Required meta tags always come first -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="shortcut icon" href="favicon.ico">
-    <title>Lorenzomarx</title>
+    <title>LORENZOMARX</title>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H1JMR2QLW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4H1JMR2QLW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4H1JMR2QLW');
+    </script>
 
-  gtag('config', 'G-4H1JMR2QLW');
-</script>
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Material Design Bootstrap -->
-    <link href="css/mdb.min.css" rel="stylesheet">
-    <link href="css/mdb.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
 
     <style>
+        :root {
+            --pink:        #EC4899;
+            --pink-light:  #F472B6;
+            --cyan:        #06B6D4;
+            --cream:       #FDF2F8;
+            --ink:         #831843;
+            --black:       #0A0A0A;
+            --nav-h:       72px;
+            --shadow:      6px 6px 0 var(--black);
+            --shadow-sm:   4px 4px 0 var(--black);
+        }
 
-    .divy {
-width: 500px;
-height: 300px;
+        * { box-sizing: border-box; margin: 0; padding: 0; }
 
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' style=%22transform: rotate(45deg); transform-origin: 50% 50%;background: black;box-shadow: 0 0 0 .5rem orangered, 0 0 0 1rem black,0 0 0 1.5rem indigo, 0 0 0 2rem black, 0 0 0 2.5rem teal, 0 0 0 .5rem black inset, 0 0 0 1rem gold inset, 0 0 0 1.5rem black inset, 0 0 0 2rem yellowgreen inset, 0 0 0 2.5rem black inset, 0 0 0 3rem teal inset, 0 0 0 3.5rem black inset, 0 0 0 4rem purple inset, 0 0 0 4.5rem black inset, 0 0 0 5rem crimson inset, 0 0 0 5.5rem black inset, 0 0 0 6rem orange inset, 0 0 0 6.5rem black inset, 0 0 0 7rem yellow inset, 0 0 0 7.5rem black inset, 0 0 0 8rem aqua inset, 0 0 0 8.5rem black inset, 0 0 0 9rem teal inset;%22%3E%3C/svg%3E");
-background-size: 8rem 8rem;
-background-position: 50% 50%;
+        html, body {
+            background: var(--cream);
+            color: var(--black);
+            font-family: 'Space Grotesk', sans-serif;
+            overflow-x: hidden;
+        }
 
-animation: bg 10s infinite;
-}
+        a { color: inherit; text-decoration: none; }
 
-@keyframes bg {
-25% {
-    background-size: 10rem 10rem;
-}
+        /* ====================== NAV ====================== */
+        nav.brutal-nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            background: var(--cream);
+            border-bottom: 4px solid var(--black);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            height: var(--nav-h);
+        }
 
-50% {
-    background-size: 5rem 5rem;
-}
+        .nav-brand {
+            display: flex;
+            align-items: center;
+            padding: 0 1.75rem;
+            font-size: 1.4rem;
+            letter-spacing: -0.02em;
+            color: var(--black);
+            border-right: 4px solid var(--black);
+        }
 
-75% {
-    background-size: 22rem 22rem;
-}
-}
-        .jarallax {
-            height: 550px;
+        .nav-spacer { flex: 1; }
+
+        .nav-contact {
+            display: flex;
+            align-items: center;
+            padding: 0 1.75rem;
+            background: var(--cyan);
+            color: var(--black);
+            font-size: 1.05rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            border-left: 4px solid var(--black);
+            transition: none;
+        }
+        .nav-contact:hover { background: var(--black); color: var(--cyan); }
+
+        /* ====================== HERO ====================== */
+        .hero {
+            display: grid;
+            grid-template-columns: 1.1fr 0.9fr;
+            min-height: calc(100vh - var(--nav-h));
+            border-bottom: 4px solid var(--black);
+        }
+
+        .hero-text {
+            padding: 3rem 2.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border-right: 4px solid var(--black);
+            background: var(--cream);
+        }
+
+        .kicker {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+            font-size: 0.9rem;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--ink);
+        }
+
+        .kicker::before {
+            content: "■ ";
+            color: var(--pink);
+        }
+
+        .hero-title {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(3.5rem, 11vw, 9rem);
+            line-height: 0.85;
+            letter-spacing: -0.05em;
+            color: var(--black);
+            text-transform: uppercase;
+            margin: 1.5rem 0;
+        }
+
+        .hero-title .accent {
+            color: var(--pink);
+            display: inline-block;
+            transform: rotate(-2deg);
+        }
+
+        .hero-sub {
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 500;
+            font-size: clamp(1rem, 1.4vw, 1.25rem);
+            line-height: 1.5;
+            max-width: 38ch;
+            color: var(--ink);
+        }
+
+        .hero-eyes {
+            position: relative;
+            background: var(--black);
             overflow: hidden;
         }
 
-        @media (max-width: 740px) {
+        .hero-eyes iframe {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+            display: block;
+        }
 
-            html,
-            body,
-            header,
-            .jarallax {
-                height: 100vh;
+        .eyes-label {
+            position: absolute;
+            bottom: 1.5rem;
+            left: 1.5rem;
+            z-index: 5;
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 700;
+            font-size: 0.85rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--black);
+            background: var(--pink);
+            padding: 0.5rem 0.85rem;
+            border: 3px solid var(--black);
+            pointer-events: none;
+        }
+
+        /* ====================== WORK GRID ====================== */
+        .work-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            padding: 2.5rem 2.5rem 1.5rem;
+            border-bottom: 4px solid var(--black);
+            background: var(--cream);
+        }
+
+        .work-header h2 {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            letter-spacing: -0.03em;
+            text-transform: uppercase;
+        }
+
+        .work-header .count {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 1rem;
+            letter-spacing: 0.2em;
+            color: var(--ink);
+        }
+
+        .work-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            background: var(--black);
+            gap: 4px;
+            border-bottom: 4px solid var(--black);
+        }
+
+        .work-btn {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            min-height: 280px;
+            padding: 2rem 1.75rem;
+            background: var(--cream);
+            color: var(--black);
+            text-decoration: none;
+            cursor: pointer;
+            transition: none;
+            overflow: hidden;
+        }
+
+        .work-btn .num {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+            font-size: 0.85rem;
+            letter-spacing: 0.2em;
+            color: var(--ink);
+        }
+
+        .work-btn .name {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(2.25rem, 4.5vw, 3.5rem);
+            line-height: 0.9;
+            letter-spacing: -0.04em;
+            text-transform: uppercase;
+            margin: 1.5rem 0 0.5rem;
+        }
+
+        .work-btn .tag {
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 500;
+            font-size: 0.9rem;
+            letter-spacing: 0.05em;
+            color: var(--ink);
+        }
+
+        .work-btn .arrow {
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            width: 36px;
+            height: 36px;
+            border: 3px solid var(--black);
+            display: grid;
+            place-items: center;
+            font-weight: 900;
+            font-size: 1.1rem;
+            background: var(--cream);
+        }
+
+        .work-btn:hover {
+            background: var(--pink);
+            color: var(--cream);
+        }
+        .work-btn:hover .num,
+        .work-btn:hover .tag { color: var(--cream); }
+        .work-btn:hover .arrow {
+            background: var(--cyan);
+            color: var(--black);
+        }
+
+        .work-btn.alt:hover         { background: var(--cyan);  color: var(--black); }
+        .work-btn.alt:hover .num,
+        .work-btn.alt:hover .tag    { color: var(--ink); }
+        .work-btn.alt:hover .arrow  { background: var(--pink); color: var(--cream); }
+
+        /* ====================== FOOTER ====================== */
+        footer.brutal-foot {
+            display: grid;
+            grid-template-columns: 1fr auto auto;
+            align-items: center;
+            gap: 0;
+            background: var(--black);
+            color: var(--cream);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+        }
+
+        footer .foot-mark {
+            padding: 1.5rem 2.5rem;
+            font-size: 1.5rem;
+            letter-spacing: -0.02em;
+            font-weight: 900;
+        }
+        footer .foot-mark .dot { color: var(--pink); }
+
+        footer .foot-link {
+            padding: 1.5rem 2rem;
+            border-left: 4px solid var(--cream);
+            font-size: 0.95rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--cream);
+        }
+        footer .foot-link:hover { background: var(--pink); color: var(--black); }
+
+        /* ====================== RESPONSIVE ====================== */
+        @media (max-width: 900px) {
+            .hero {
+                grid-template-columns: 1fr;
+            }
+            .hero-text {
+                border-right: 0;
+                border-bottom: 4px solid var(--black);
+            }
+            .hero-eyes {
+                min-height: 50vh;
+            }
+            .work-grid {
+                grid-template-columns: repeat(2, 1fr);
             }
         }
 
-        @media (min-width: 800px) and (max-width: 850px) {
-
-            html,
-            body,
-            header,
-            .jarallax {
-                height: 100vh;
-            }
-        }
-
-        @media (min-width: 560px) and (max-width: 660px) {
-            header .jarallax h5 {
-                display: none !important;
-            }
-        }
-
-        .page-footer {
-            margin-top: 0px;
-            padding-top: 0px;
+        @media (max-width: 600px) {
+            .nav-brand { font-size: 1.1rem; padding: 0 1.1rem; }
+            .nav-contact { padding: 0 1.1rem; font-size: 0.9rem; }
+            .hero-text { padding: 2rem 1.5rem; }
+            .work-header { padding: 1.75rem 1.5rem 1.25rem; flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+            .work-grid { grid-template-columns: 1fr; }
+            .work-btn { min-height: 200px; padding: 1.5rem 1.25rem; }
+            footer.brutal-foot { grid-template-columns: 1fr; }
+            footer .foot-link { border-left: 0; border-top: 3px solid var(--cream); }
         }
     </style>
 </head>
 <body>
-    <!--Main Navigation-->
-    <nav class="navbar sticky-top white">
-        <ul class="nav navbar-nav pull-left">
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle black-text navbar-brand" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-bars"></i></a>
-                <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
-                    <!--<a target="_self" class="dropdown-item" href="filterMe/index.html">Filter</a>-->
-                    <!--<a target="_self" class="dropdown-item" href="pages/mixedup.html">Mixer</a>-->
-                    <a target="_self" class="dropdown-item" href="newsly/index.html">Newsly</a>
-                    <!--<a target="_self" class="dropdown-item" href="pages/oosh.html">Oosh</a>-->
-                    <!--<a target="_self" class="dropdown-item" href="pages/stream.html">Streaming</a>-->
-                    <a target="_self" class="dropdown-item" href="paint/index.html">Paint</a>
-                    <a target="_self" class="dropdown-item" href="rasterizer/index.html">Rasterizer</a>
-                    <a target="_self" class="dropdown-item" href="pages/lorenz.html">Lorenz</a>
-                    <a target="_self" class="dropdown-item" href="LearningCurve/index.html">Fabrication</a>
-                    <!--<a target="_self" class="dropdown-item" href="imageGlitch/index.html">Image Glitch</a>
-                    <a target="_self" class="dropdown-item" href="alphaBet/index.html">Typography</a>-->
-                </div>
-            </li>
-        </ul>
-        <a class="black-text navbar-brand" data-toggle="tooltip" title="Contact" href="pages/contact.html" target="_self">
-            Contact
-        </a>
+
+    <nav class="brutal-nav">
+        <a class="nav-brand" href="index.html">LORENZOMARX</a>
+        <span class="nav-spacer"></span>
+        <a class="nav-contact" href="pages/contact.html">Contact &rarr;</a>
     </nav>
-    <!-- Intro Section -->
-    <div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url(assets/Unknown.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center;">
-        <div class="mask rgba-black-slight">
-            <div class="container h-100 d-flex justify-content-center align-items-center">
-                <div class="row pt-5 mt-3">
-                    <div class="col-md-12 mb-3">
-                        <div class="intro-info-content text-center">
-                            <h1 class="display-3 white-text mb-5 wow fadeInDown" data-wow-delay="0.3s">
-                                <a class="white-text" data-toggle="tooltip" data-placement="bottom" href="https://www.instagram.com/lo_r.enz/" target="_blank" title="Follow me on Instagram"></a>
-                            </h1>
-                            <h5 class="text white-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Creative Studio</h5>
-                            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Button trigger modal-->
 
-    <!--Modal: modalCookie-->
-    <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
-        <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
-            <!--Content-->
-            <div class="modal-content">
-                <!--Body-->
-                <div class="modal-body">
-                    <div class="row d-flex justify-content-center align-items-center">
-
-                        <p class="pt-3 pr-2 divy"><h1 class="text black-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">
-                          Lorenzomarx </h1> <br>brings together art <br>
-                          design, digital media, computing and engineering. <br>Lets make something together </p>
-                    </div>
-                </div>
-            </div>
-            <!--/.Content-->
+    <section class="hero">
+        <div class="hero-text">
+            <span class="kicker">Creative Studio · Est. 2018</span>
+            <h1 class="hero-title">
+                Make<br>
+                things<br>
+                <span class="accent">/Loudly</span>
+            </h1>
+            <p class="hero-sub">
+                Independent creative practice — code, type, images, and the occasional dripping pixel. Built in Auckland, shipped everywhere.
+            </p>
         </div>
+        <div class="hero-eyes">
+            <iframe src="eyeeye/webgl-eye-pattern/dist/index.html" loading="lazy" title="WebGL Eye Pattern"></iframe>
+            <span class="eyes-label">Eyes · Always On</span>
+        </div>
+    </section>
+
+    <div class="work-header">
+        <h2>Selected Work</h2>
+        <span class="count">06 PROJECTS</span>
     </div>
-    <!--  SCRIPTS  -->
-    <!-- JQuery -->
-    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
-    <!-- Bootstrap tooltips -->
-    <script type="text/javascript" src="js/popper.min.js"></script>
-    <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="js/mdb.min.js"></script>
-    <script>
-        new WOW().init();
-        // MDB Lightbox Init
-        $(function() {
-            $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
-        });
-        $(function() {
-            $('[data-toggle="tooltip"]').tooltip()
-        })
-    </script>
+
+    <div class="work-grid">
+        <a class="work-btn" href="newsly/index.html">
+            <span class="num">01 / NEWS</span>
+            <span class="arrow">&rarr;</span>
+            <div>
+                <div class="name">Newsly</div>
+                <div class="tag">Headline feed · Live data</div>
+            </div>
+        </a>
+
+        <a class="work-btn alt" href="paint/index.html">
+            <span class="num">02 / TOOL</span>
+            <span class="arrow">&rarr;</span>
+            <div>
+                <div class="name">Paint</div>
+                <div class="tag">Browser canvas playground</div>
+            </div>
+        </a>
+
+        <a class="work-btn" href="rasterizer/index.html">
+            <span class="num">03 / IMG</span>
+            <span class="arrow">&rarr;</span>
+            <div>
+                <div class="name">Rasterizer</div>
+                <div class="tag">Pixel-pushing experiments</div>
+            </div>
+        </a>
+
+        <a class="work-btn alt" href="pages/lorenz.html">
+            <span class="num">04 / BIO</span>
+            <span class="arrow">&rarr;</span>
+            <div>
+                <div class="name">Lorenz</div>
+                <div class="tag">About the maker</div>
+            </div>
+        </a>
+
+        <a class="work-btn" href="LearningCurve/index.html">
+            <span class="num">05 / MAKE</span>
+            <span class="arrow">&rarr;</span>
+            <div>
+                <div class="name">Fabrication</div>
+                <div class="tag">Physical things, learning curve</div>
+            </div>
+        </a>
+
+        <a class="work-btn alt" href="drips.html">
+            <span class="num">06 / GOO</span>
+            <span class="arrow">&rarr;</span>
+            <div>
+                <div class="name">Drips</div>
+                <div class="tag">Gooey green descent</div>
+            </div>
+        </a>
+    </div>
+
+    <footer class="brutal-foot">
+        <div class="foot-mark">LORENZOMARX<span class="dot">.</span></div>
+        <a class="foot-link" href="https://www.instagram.com/lo_r.enz/" target="_blank" rel="noopener">Instagram</a>
+        <a class="foot-link" href="pages/contact.html">Say Hi</a>
+    </footer>
+
 </body>
-
 </html>

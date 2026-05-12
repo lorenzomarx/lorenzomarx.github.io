@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="favicon.ico">
+    <title>DRIPS — LORENZOMARX</title>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4H1JMR2QLW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4H1JMR2QLW');
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --pink:        #EC4899;
+            --pink-light:  #F472B6;
+            --cyan:        #06B6D4;
+            --cream:       #FDF2F8;
+            --ink:         #831843;
+            --black:       #0A0A0A;
+            --drip-grad:   linear-gradient(to bottom, #2d5a0e 0%, #3ca210 35%, #a3e635 100%);
+            --nav-h:       72px;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        html, body {
+            background: var(--cream);
+            color: var(--black);
+            font-family: 'Space Grotesk', sans-serif;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        nav.brutal-nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            background: var(--cream);
+            border-bottom: 4px solid var(--black);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            height: var(--nav-h);
+        }
+
+        .nav-back, .nav-contact, .nav-brand {
+            display: flex;
+            align-items: center;
+            padding: 0 1.75rem;
+            color: var(--black);
+            text-decoration: none;
+            font-size: 1.05rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+
+        .nav-back {
+            background: var(--pink);
+            color: var(--cream);
+            border-right: 4px solid var(--black);
+        }
+        .nav-back:hover { background: var(--black); color: var(--pink); }
+
+        .nav-brand {
+            flex: 1;
+            justify-content: center;
+            font-size: 1.4rem;
+            letter-spacing: -0.02em;
+        }
+
+        .nav-contact {
+            background: var(--cyan);
+            border-left: 4px solid var(--black);
+        }
+        .nav-contact:hover { background: var(--black); color: var(--cyan); }
+
+        .drip-stage {
+            position: relative;
+            height: calc(100vh - var(--nav-h));
+            width: 100%;
+            background: var(--cream);
+            overflow: hidden;
+        }
+
+        .stage-label {
+            position: absolute;
+            top: 2rem;
+            left: 2rem;
+            z-index: 5;
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(3rem, 9vw, 7rem);
+            line-height: 0.85;
+            letter-spacing: -0.04em;
+            color: var(--black);
+            text-shadow: 6px 6px 0 var(--pink);
+            text-transform: uppercase;
+            pointer-events: none;
+        }
+
+        .stage-tag {
+            position: absolute;
+            bottom: 2rem;
+            left: 2rem;
+            z-index: 5;
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 700;
+            font-size: 0.95rem;
+            letter-spacing: 0.15em;
+            color: var(--black);
+            background: var(--cream);
+            padding: 0.6rem 1rem;
+            border: 3px solid var(--black);
+            text-transform: uppercase;
+            pointer-events: none;
+        }
+
+        .drip-layer {
+            position: absolute;
+            inset: 0;
+            pointer-events: none;
+            filter: url(#goo);
+            z-index: 1;
+        }
+        .drip-layer::before {
+            content: "";
+            position: absolute;
+            top: -40px;
+            left: 0;
+            right: 0;
+            height: 60px;
+            background: var(--drip-grad);
+        }
+        .col {
+            position: absolute;
+            top: 0;
+            width: 0;
+            height: 0;
+        }
+        .free-drop {
+            position: absolute;
+            background: var(--drip-grad);
+        }
+        .tail {
+            position: absolute;
+            top: 0;
+            background: var(--drip-grad);
+        }
+        .bulb {
+            position: absolute;
+            background: var(--drip-grad);
+            border-radius: 50%;
+        }
+
+        @media (max-width: 600px) {
+            .nav-brand { font-size: 1.05rem; }
+            .nav-back, .nav-contact { padding: 0 1rem; font-size: 0.85rem; }
+            .stage-label { font-size: clamp(2.5rem, 14vw, 5rem); top: 1.25rem; left: 1.25rem; }
+            .stage-tag { bottom: 1.25rem; left: 1.25rem; font-size: 0.75rem; }
+        }
+    </style>
+</head>
+<body>
+    <svg style="position:absolute; width:0; height:0;">
+        <defs>
+            <filter id="goo">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="blur"/>
+                <feColorMatrix in="blur" mode="matrix"
+                    values="1 0 0 0 0
+                            0 1 0 0 0
+                            0 0 1 0 0
+                            0 0 0 20 -10"
+                    result="goo"/>
+                <feComposite in="SourceGraphic" in2="goo" operator="atop"/>
+            </filter>
+        </defs>
+    </svg>
+
+    <nav class="brutal-nav">
+        <a class="nav-back" href="index.html">&larr; HOME</a>
+        <a class="nav-brand" href="index.html">DRIPS</a>
+        <a class="nav-contact" href="pages/contact.html">CONTACT</a>
+    </nav>
+
+    <section class="drip-stage" id="drip-stage">
+        <h1 class="stage-label">Goo<br>Drip</h1>
+        <span class="stage-tag">WebGL · SVG Filter · 2025</span>
+        <div class="drip-layer" id="drip-layer"></div>
+    </section>
+
+    <script>
+    (function() {
+        const stage = document.getElementById("drip-stage");
+        const layer = document.getElementById("drip-layer");
+
+        const N = 11;
+        let BASE_TAIL_W = Math.max(20, innerWidth * 0.022);
+        let BASE_BULB_D = Math.max(48, innerWidth * 0.055);
+        addEventListener("resize", () => {
+            BASE_TAIL_W = Math.max(20, innerWidth * 0.022);
+            BASE_BULB_D = Math.max(48, innerWidth * 0.055);
+        });
+        const GRAVITY = 1400;
+        const SNAP_PROB = 0.55;
+        const SNAP_RECOIL = 0.55;
+        const REGEN_REBOUND = 0.28;
+        const REGEN_HOVER   = 0.18;
+        const REGEN_TOTAL   = REGEN_REBOUND + REGEN_HOVER;
+
+        function randRadius() {
+            const r = () => 40 + Math.random() * 20;
+            return `${r()}% ${r()}% ${r()}% ${r()}% / ${r()}% ${r()}% ${r()}% ${r()}%`;
+        }
+        function newParams() {
+            const scale = 1 + Math.random() * 3;
+            const bulbD = BASE_BULB_D * scale;
+            const stretch = 0.7 + Math.random() * 0.2;
+            return {
+                tailW: BASE_TAIL_W * scale * (0.9 + Math.random() * 0.3),
+                bulbW: bulbD * stretch * 0.65,
+                bulbH: bulbD * (2.05 - stretch) * 0.75,
+                radius: randRadius(),
+                speed: 80 + Math.random() * 220,
+                willSnap: Math.random() < SNAP_PROB,
+                snapAt:  150 + Math.random() * (stage.clientHeight * 0.65)
+            };
+        }
+        const cols = [];
+        for (let i = 0; i < N; i++) {
+            const col = document.createElement("div");
+            col.className = "col";
+            col.style.left = (2 + i * (96 / (N - 1))) + "%";
+            const tail = document.createElement("div");
+            tail.className = "tail";
+            const bulb = document.createElement("div");
+            bulb.className = "bulb";
+            col.append(tail, bulb);
+            layer.appendChild(col);
+            const c = { el: col, tail, bulb, tailH: Math.random() * 200, snapped: false, ...newParams() };
+            applyStyle(c);
+            cols.push(c);
+        }
+        function applyStyle(c) {
+            c.tail.style.width = c.tailW + "px";
+            c.tail.style.left = (-c.tailW / 2) + "px";
+            c.bulb.style.width = c.bulbW + "px";
+            c.bulb.style.height = c.bulbH + "px";
+            c.bulb.style.left = (-c.bulbW / 2) + "px";
+            c.bulb.style.borderRadius = c.radius;
+        }
+        function reset(c) {
+            Object.assign(c, newParams());
+            c.tailH = 0;
+            c.snapped = false;
+            applyStyle(c);
+        }
+        const freeDrops = [];
+        function spawnFreeDrop(c, x, y) {
+            const el = document.createElement("div");
+            el.className = "free-drop";
+            el.style.width = c.bulbW + "px";
+            el.style.height = c.bulbH + "px";
+            el.style.borderRadius = randRadius();
+            layer.appendChild(el);
+            freeDrops.push({
+                el,
+                x: x - c.bulbW / 2,
+                y: y - c.bulbH / 2,
+                vy: c.speed,
+                vx: (Math.random() - 0.5) * 30,
+                w: c.bulbW, h: c.bulbH
+            });
+        }
+
+        const freeStrands = [];
+        function spawnFreeStrand(c) {
+            const colRect = c.el.getBoundingClientRect();
+            const layerRect = layer.getBoundingClientRect();
+            const x = colRect.left - layerRect.left;
+            const ft = document.createElement("div");
+            ft.style.position = "absolute";
+            ft.style.background = "var(--drip-grad)";
+            ft.style.width = c.tailW + "px";
+            ft.style.left = (x - c.tailW / 2) + "px";
+            ft.style.height = c.tailH + "px";
+            layer.appendChild(ft);
+            const fb = document.createElement("div");
+            fb.style.position = "absolute";
+            fb.style.background = "var(--drip-grad)";
+            fb.style.width = c.bulbW + "px";
+            fb.style.height = c.bulbH + "px";
+            fb.style.left = (x - c.bulbW / 2) + "px";
+            fb.style.borderRadius = c.radius;
+            layer.appendChild(fb);
+            const topW = c.bulbW * 0.8;
+            const topH = c.bulbH * 0.8;
+            const ftop = document.createElement("div");
+            ftop.style.position = "absolute";
+            ftop.style.background = "var(--drip-grad)";
+            ftop.style.width = topW + "px";
+            ftop.style.height = topH + "px";
+            ftop.style.left = (x - topW / 2) + "px";
+            ftop.style.borderRadius = randRadius();
+            layer.appendChild(ftop);
+            freeStrands.push({
+                tailEl: ft, bulbEl: fb, topEl: ftop,
+                tailH: c.tailH, bulbH: c.bulbH,
+                topH,
+                y: 0,
+                vy: c.speed
+            });
+        }
+        let last = performance.now();
+        let rafId = null;
+        function tick(now) {
+            const dt = Math.min(0.05, (now - last) / 1000);
+            last = now;
+            const vh = stage.clientHeight;
+            for (const c of cols) {
+                if (c.regenT >= 0) {
+                    c.regenT += dt;
+                    if (c.regenT >= REGEN_TOTAL) {
+                        reset(c);
+                        c.regenT = -1;
+                        c.tail.style.display = "";
+                        c.bulb.style.display = "";
+                    } else {
+                        const formScale = 0.55 + Math.random() * 0.0;
+                        let yOffset, scale;
+                        if (c.regenT < REGEN_REBOUND) {
+                            const t = c.regenT / REGEN_REBOUND;
+                            const decay = Math.exp(-3 * t);
+                            yOffset = Math.sin(t * Math.PI * 4) * decay * 10;
+                            scale   = (1 - decay) * formScale;
+                        } else {
+                            yOffset = 0;
+                            scale   = formScale;
+                        }
+                        const sw = c.bulbW * scale;
+                        const sh = c.bulbH * scale;
+                        c.tail.style.height = "0";
+                        c.bulb.style.display = "";
+                        c.bulb.style.width  = sw + "px";
+                        c.bulb.style.height = sh + "px";
+                        c.bulb.style.left   = (-sw / 2) + "px";
+                        c.bulb.style.top    = (yOffset - sh * 0.25) + "px";
+                    }
+                    continue;
+                }
+
+                c.tailH += c.speed * dt;
+                if (c.willSnap && !c.snapped && c.tailH >= c.snapAt) {
+                    const colRect = c.el.getBoundingClientRect();
+                    const x = colRect.left + colRect.width / 2;
+                    spawnFreeDrop(c, x, c.tailH);
+                    c.tailH = c.snapAt * SNAP_RECOIL;
+                    c.snapped = true;
+                }
+                if (c.tailH > vh + 60) {
+                    spawnFreeStrand(c);
+                    c.tail.style.height = "0";
+                    c.tail.style.display = "none";
+                    c.bulb.style.display = "none";
+                    c.regenT = 0;
+                    continue;
+                }
+                c.tail.style.height = c.tailH + "px";
+                c.bulb.style.top = (c.tailH - c.bulbH * 0.25) + "px";
+            }
+            for (let i = freeDrops.length - 1; i >= 0; i--) {
+                const d = freeDrops[i];
+                d.vy += GRAVITY * dt;
+                d.y  += d.vy * dt;
+                d.x  += d.vx * dt;
+                if (d.y > vh + 60) {
+                    d.el.remove();
+                    freeDrops.splice(i, 1);
+                } else {
+                    d.el.style.left = d.x + "px";
+                    d.el.style.top  = d.y + "px";
+                }
+            }
+            for (let i = freeStrands.length - 1; i >= 0; i--) {
+                const s = freeStrands[i];
+                s.vy += GRAVITY * dt;
+                s.y  += s.vy * dt;
+                if (s.y > vh + 60) {
+                    s.tailEl.remove();
+                    s.bulbEl.remove();
+                    s.topEl.remove();
+                    freeStrands.splice(i, 1);
+                } else {
+                    s.tailEl.style.top = s.y + "px";
+                    s.bulbEl.style.top = (s.y + s.tailH - s.bulbH * 0.25) + "px";
+                    s.topEl.style.top  = (s.y - s.topH * 0.75) + "px";
+                }
+            }
+            rafId = requestAnimationFrame(tick);
+        }
+        function start() { if (rafId === null) { last = performance.now(); rafId = requestAnimationFrame(tick); } }
+        function stop()  { if (rafId !== null) { cancelAnimationFrame(rafId); rafId = null; } }
+        document.addEventListener("visibilitychange", () => { document.hidden ? stop() : start(); });
+        start();
+    })();
+    </script>
+</body>
+</html>
