@@ -278,85 +278,119 @@
         .work-btn.alt:hover .tag    { color: var(--ink); }
         .work-btn.alt:hover .arrow  { background: var(--pink); color: var(--cream); }
 
-        /* ====================== BITS GRID ====================== */
-        .bits-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            background: var(--black);
-            gap: 4px;
+        /* ====================== BITS DROPDOWN ====================== */
+        .bits-dropdown {
+            background: var(--cream);
             border-bottom: 4px solid var(--black);
         }
-        .bits-btn {
-            position: relative;
+        .bits-summary {
+            list-style: none;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 2.25rem 2.5rem;
+            background: var(--cream);
+            user-select: none;
+            gap: 1rem;
+        }
+        .bits-summary::-webkit-details-marker { display: none; }
+        .bits-summary::marker { content: ""; }
+        .bits-dropdown[open] .bits-summary {
+            border-bottom: 4px solid var(--black);
+        }
+        .bits-summary:hover { background: var(--cream); }
+        .bits-title {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            letter-spacing: -0.03em;
+            text-transform: uppercase;
+            flex: 1;
+            line-height: 1;
+        }
+        .bits-meta {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 0.85rem;
+            letter-spacing: 0.2em;
+            color: var(--ink);
+            text-transform: uppercase;
+        }
+        .bits-caret {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 1.5rem;
+            color: var(--black);
+            width: 44px;
+            height: 44px;
+            border: 3px solid var(--black);
+            display: inline-grid;
+            place-items: center;
+            background: var(--cream);
+            line-height: 1;
+        }
+        .bits-dropdown[open] .bits-caret { background: var(--pink); color: var(--cream); }
+        .bits-summary:hover .bits-caret { background: var(--pink); color: var(--cream); }
+
+        .bits-list {
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
-            min-height: 140px;
-            padding: 1.25rem 1.25rem 1.1rem;
+            background: var(--black);
+            gap: 4px;
+        }
+        .bits-item {
+            display: grid;
+            grid-template-columns: 90px 1fr auto 44px;
+            align-items: center;
+            gap: 1.25rem;
+            padding: 1.1rem 2.5rem;
             background: var(--cream);
             color: var(--black);
             text-decoration: none;
             cursor: pointer;
-            overflow: hidden;
         }
-        .bits-btn .num {
+        .bits-item .num {
             font-family: 'Archivo', sans-serif;
             font-weight: 700;
-            font-size: 0.7rem;
+            font-size: 0.75rem;
             letter-spacing: 0.2em;
             color: var(--ink);
+            text-transform: uppercase;
         }
-        .bits-btn .name {
+        .bits-item .name {
             font-family: 'Archivo', sans-serif;
             font-weight: 900;
-            font-size: clamp(1.25rem, 2vw, 1.6rem);
-            line-height: 0.95;
+            font-size: clamp(1.25rem, 2.5vw, 1.8rem);
+            line-height: 1;
             letter-spacing: -0.03em;
             text-transform: uppercase;
-            margin: 0.4rem 0 0.2rem;
         }
-        .bits-btn .tag {
+        .bits-item .tag {
             font-family: 'Space Grotesk', sans-serif;
             font-weight: 500;
-            font-size: 0.78rem;
-            letter-spacing: 0.04em;
+            font-size: 0.9rem;
             color: var(--ink);
         }
-        .bits-btn .arrow {
-            position: absolute;
-            top: 0.9rem;
-            right: 0.9rem;
-            width: 26px;
-            height: 26px;
-            border: 2px solid var(--black);
+        .bits-item .arrow {
+            width: 36px;
+            height: 36px;
+            border: 3px solid var(--black);
             display: grid;
             place-items: center;
             font-weight: 900;
-            font-size: 0.85rem;
+            font-size: 1.05rem;
             background: var(--cream);
-        }
-        .bits-btn:hover { background: var(--cyan); color: var(--black); }
-        .bits-btn:hover .num,
-        .bits-btn:hover .tag { color: var(--ink); }
-        .bits-btn:hover .arrow { background: var(--pink); color: var(--cream); }
-        .bits-btn.alt:hover { background: var(--pink); color: var(--cream); }
-        .bits-btn.alt:hover .num,
-        .bits-btn.alt:hover .tag { color: var(--cream); }
-        .bits-btn.alt:hover .arrow { background: var(--cyan); color: var(--black); }
-        .bits-empty {
-            background: var(--cream);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            min-height: 140px;
             font-family: 'Archivo', sans-serif;
-            font-weight: 900;
-            font-size: 0.7rem;
-            letter-spacing: 0.3em;
-            text-transform: uppercase;
-            color: var(--ink);
-            opacity: 0.4;
         }
+        .bits-item:hover { background: var(--cyan); }
+        .bits-item:hover .num,
+        .bits-item:hover .tag { color: var(--ink); }
+        .bits-item:hover .arrow { background: var(--pink); color: var(--cream); }
+        .bits-item.alt:hover { background: var(--pink); color: var(--cream); }
+        .bits-item.alt:hover .num,
+        .bits-item.alt:hover .tag { color: var(--cream); }
+        .bits-item.alt:hover .arrow { background: var(--cyan); color: var(--black); }
 
         /* ====================== FOOTER ====================== */
         footer.brutal-foot {
@@ -403,9 +437,6 @@
             .work-grid {
                 grid-template-columns: repeat(2, 1fr);
             }
-            .bits-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
         }
 
         @media (max-width: 600px) {
@@ -415,8 +446,11 @@
             .work-header { padding: 1.75rem 1.5rem 1.25rem; flex-direction: column; align-items: flex-start; gap: 0.5rem; }
             .work-grid { grid-template-columns: 1fr; }
             .work-btn { min-height: 200px; padding: 1.5rem 1.25rem; }
-            .bits-grid { grid-template-columns: 1fr; }
-            .bits-empty { display: none; }
+            .bits-summary { padding: 1.5rem 1.5rem; gap: 0.75rem; }
+            .bits-meta { display: none; }
+            .bits-item { grid-template-columns: 70px 1fr 32px; padding: 1rem 1.5rem; gap: 0.75rem; }
+            .bits-item .tag { grid-column: 1 / 3; font-size: 0.8rem; }
+            .bits-item .arrow { width: 32px; height: 32px; font-size: 0.9rem; grid-row: 1; grid-column: 3; }
             footer.brutal-foot { grid-template-columns: 1fr; }
             footer .foot-link { border-left: 0; border-top: 3px solid var(--cream); }
         }
@@ -509,24 +543,21 @@
         </a>
     </div>
 
-    <div class="work-header">
-        <h2>Bits</h2>
-        <span class="count">SMALLER PIECES</span>
-    </div>
-
-    <div class="bits-grid">
-        <a class="bits-btn" href="pages/mixedup.html">
-            <span class="num">A / MIX</span>
-            <span class="arrow">&rarr;</span>
-            <div>
-                <div class="name">Mixed Up</div>
-                <div class="tag">Cocktail search</div>
-            </div>
-        </a>
-        <div class="bits-empty">More soon</div>
-        <div class="bits-empty">More soon</div>
-        <div class="bits-empty">More soon</div>
-    </div>
+    <details class="bits-dropdown">
+        <summary class="bits-summary">
+            <span class="bits-title">Bits</span>
+            <span class="bits-meta">Smaller pieces</span>
+            <span class="bits-caret" aria-hidden="true">+</span>
+        </summary>
+        <div class="bits-list">
+            <a class="bits-item" href="pages/mixedup.html">
+                <span class="num">A / MIX</span>
+                <span class="name">Mixed Up</span>
+                <span class="tag">Cocktail search</span>
+                <span class="arrow">&rarr;</span>
+            </a>
+        </div>
+    </details>
 
     <footer class="brutal-foot">
         <div class="foot-mark">LORENZOMARX<span class="dot">.</span></div>
