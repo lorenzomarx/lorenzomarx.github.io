@@ -1,53 +1,65 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#FDF2F8">
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <title>RASTERIZER</title>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
 
-	<head>
-		<title> Rasterizer </title>
+    <nav class="brutal-nav">
+        <a class="nav-back" href="../../index.html">&larr; HOME</a>
+        <span class="nav-brand">RASTERIZER</span>
+    </nav>
 
-		<!-- CSS -->
-		<link href="css/style.css" rel="stylesheet" type="text/css">
+    <div class="bar" id="source-bar" role="tablist" aria-label="Source">
+        <button type="button" class="active" data-source="image" aria-pressed="true">Image</button>
+        <button type="button" data-source="camera" aria-pressed="false">Camera</button>
+    </div>
 
-		<!-- JS -->
-		<script type="text/javascript" src="js/libs/dat.gui.min.js"></script>
-		<script type="text/javascript" src="js/Rasterizer.js"></script>
+    <div class="bar" id="style-bar" role="tablist" aria-label="Render style">
+        <button type="button" class="active" data-style="dots" aria-pressed="true">Dots</button>
+        <button type="button" data-style="squares" aria-pressed="false">Squares</button>
+        <button type="button" data-style="horiz" aria-pressed="false">Horiz</button>
+        <button type="button" data-style="diag" aria-pressed="false">Diag</button>
+        <button type="button" data-style="ascii" aria-pressed="false">ASCII</button>
+    </div>
 
-	</head>
+    <div id="status" class="status" role="status" aria-live="polite"></div>
 
-	<body>
+    <section class="stage">
+        <canvas id="canvas" aria-label="Rasterized output"></canvas>
+        <div id="empty" class="empty">
+            <span id="empty-text">Upload an image<br>or start the camera</span>
+            <button type="button" id="enable-camera" class="btn enable-btn">Retry camera</button>
+        </div>
+    </section>
 
-		<!-- Header -->
-		<div id="info-tab">
-    		<div class="info first">
-        		<b>Rasterizer</b> exports image rasterization styles and techniques using colors gathered from the image.
+    <div class="controls">
+        <div class="control-row">
+            <span class="control-label">Intensity</span>
+            <input type="range" id="intensity" class="slider" min="0.2" max="3" step="0.1" value="1" aria-label="Intensity">
+            <span id="intensity-value" class="slider-value">1.0</span>
+        </div>
+        <div class="control-row">
+            <button type="button" id="invert" class="toggle">Invert</button>
+            <button type="button" id="colors" class="toggle">Use Colors</button>
+            <button type="button" id="upload" class="btn">Upload Image</button>
+            <button type="button" id="save" class="btn alt">Save PNG</button>
+        </div>
+    </div>
 
-    		</div>
-    		<div class="info">
-        		This has been made using <i> Javascript </i>
+    <footer class="brutal-foot">
+        <span class="mark">RASTERIZER<span class="dot">.</span></span>
+        <a href="../../index.html">&larr; Home</a>
+    </footer>
 
-   			</div>
-    		<div id="title">Rasterizer</div>
-		</div>
-		<div id="back">
-    		<a href="../index.html"> Home </a> <span>&lsaquo;</span>
-		</div>
-		<script type="text/javascript" src="js/header.js"></script>
+    <input type="file" id="file-input" accept="image/*" hidden>
+    <video id="video" autoplay muted playsinline hidden></video>
 
-		<!-- App -->
-		<canvas id='canvas'></canvas>
-		<script>
-			Rasterizer.init();
-			var gui = new dat.GUI();
-
-			gui.add(Rasterizer, 'style', [ 'dots', 'squares', 'horizontal-lines', 'diagonal-lines' ] ).onFinishChange( function(value) { Rasterizer.draw() } );
-			gui.add(Rasterizer, 'intensity', 0.2, 3 ).onChange( function(value) { Rasterizer.draw() } );
-			gui.add(Rasterizer, 'invert').name( 'Invert' ).onFinishChange( function(value) { Rasterizer.draw() } );
-			gui.add(Rasterizer, 'useUnderlyingColors').name( 'Use Colors' ).onFinishChange( function(value) { Rasterizer.draw() } );
-			gui.add(Rasterizer, 'uploadImage').name( 'Upload an Image' );
-			gui.add(Rasterizer, 'save').name( 'Save' );
-		</script>
-
-		<!-- Misc -->
-
-
-	</body>
+    <script src="js/Rasterizer.js"></script>
+</body>
 </html>
