@@ -1,281 +1,506 @@
 <!DOCTYPE html>
-<html lang="en" class="">
-
+<html lang="en">
 <head>
-    <!-- Required meta tags always come first -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#FDF2F8">
     <link rel="shortcut icon" href="favicon.ico">
-    <title>NOTW</title>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
+    <title>MIXED UP &mdash; Cocktail Search</title>
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4H1JMR2QLW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4H1JMR2QLW');
+    </script>
 
-    <!-- Material Design Bootstrap -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link href="../css/mdb.min.css" rel="stylesheet">
-    <script src="../js/p5.js" type="text/javascript"></script>
-    <script src="../js/p5.dom.js" type="text/javascript"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
 
     <style>
-    html {
-      height: 100%;
-    }
-    body {
-      margin:0;
-      padding:0;
-      font-family: sans-serif;
-    }
+        :root {
+            --pink:       #EC4899;
+            --pink-light: #F472B6;
+            --cyan:       #06B6D4;
+            --cream:      #FDF2F8;
+            --ink:        #831843;
+            --black:      #0A0A0A;
+            --nav-h:      64px;
+        }
 
-    .accordion.accordion-3 {
-      border-radius: 3px; }
-      .accordion.accordion-3 p {
-        font-size: 1rem; }
-      .accordion.accordion-3 .fa.fa-angle-down {
-        margin-top: -10px; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
 
-    .accordion .animated-icon1 span {
-        background: #F44336;
-    }
-    .flex-1 {
-     flex: 1;
-    }
-    div.twee {
-      margin: auto;
-      text-align: center;
-      background: rgb(255,255,255);
-      padding: 10px;
-      box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.24), 0 5px 5px 0 rgba(0, 0, 0, 0.30);
-      vertical-align: top;
-      animation: zoom 500ms;
-      -webkit-animation: zoom 500ms;
+        html, body {
+            background: var(--cream);
+            color: var(--black);
+            font-family: 'Space Grotesk', sans-serif;
+            min-height: 100vh;
+            -webkit-tap-highlight-color: transparent;
+        }
 
-    }
+        a { color: inherit; text-decoration: none; }
+        button { font-family: inherit; cursor: pointer; }
+        img { max-width: 100%; display: block; }
 
-    .search-box {
-      position: absolute;
-      top: 50%;
-      left: 35%;
-      width: 50px;
-      padding: 10px;
-      transform: translate(-50%, -50%);
-    }
+        /* ====================== NAV ====================== */
+        nav.brutal-nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            display: flex;
+            align-items: stretch;
+            background: var(--cream);
+            border-bottom: 4px solid var(--black);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            height: var(--nav-h);
+        }
+        .nav-back, .nav-brand {
+            display: flex;
+            align-items: center;
+            padding: 0 1.5rem;
+            font-size: 1rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: var(--black);
+        }
+        .nav-back {
+            background: var(--pink);
+            color: var(--cream);
+            border-right: 4px solid var(--black);
+        }
+        .nav-back:hover { background: var(--black); color: var(--pink); }
+        .nav-brand {
+            flex: 1;
+            justify-content: flex-end;
+            font-size: 1.25rem;
+            letter-spacing: -0.02em;
+        }
+
+        /* ====================== HERO + SEARCH ====================== */
+        .hero {
+            padding: 3rem 2rem;
+            background: var(--cream);
+            border-bottom: 4px solid var(--black);
+        }
+        .kicker {
+            display: block;
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+            font-size: 0.85rem;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--ink);
+            margin-bottom: 1rem;
+        }
+        .kicker::before { content: "\25A0  "; color: var(--pink); }
+        .hero-title {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(3rem, 11vw, 8rem);
+            line-height: 0.85;
+            letter-spacing: -0.05em;
+            color: var(--black);
+            text-transform: uppercase;
+            margin-bottom: 1.25rem;
+        }
+        .hero-title .accent {
+            color: var(--pink);
+            display: inline-block;
+            transform: rotate(-2deg);
+        }
+        .hero-sub {
+            font-weight: 500;
+            font-size: clamp(0.95rem, 1.4vw, 1.1rem);
+            line-height: 1.5;
+            max-width: 48ch;
+            color: var(--ink);
+            margin-bottom: 2rem;
+        }
+
+        .search {
+            display: flex;
+            gap: 0;
+            max-width: 640px;
+            border: 4px solid var(--black);
+            background: var(--cream);
+        }
+        .search input[type="text"] {
+            flex: 1;
+            border: 0;
+            border-right: 4px solid var(--black);
+            padding: 1rem 1.2rem;
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 500;
+            font-size: 1.1rem;
+            background: var(--cream);
+            color: var(--black);
+            outline: none;
+            min-width: 0;
+        }
+        .search input[type="text"]::placeholder { color: var(--ink); opacity: 0.6; }
+        .search input[type="text"]:focus { background: #fff; }
+        .search button {
+            border: 0;
+            padding: 1rem 1.5rem;
+            background: var(--pink);
+            color: var(--cream);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 1rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+        }
+        .search button:hover { background: var(--black); color: var(--pink); }
+
+        .suggest {
+            margin-top: 1.25rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            align-items: center;
+        }
+        .suggest-label {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+            font-size: 0.7rem;
+            letter-spacing: 0.25em;
+            text-transform: uppercase;
+            color: var(--ink);
+            margin-right: 0.25rem;
+        }
+        .suggest button {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 0.75rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            background: var(--cream);
+            color: var(--black);
+            border: 3px solid var(--black);
+            padding: 0.4rem 0.7rem;
+        }
+        .suggest button:hover { background: var(--cyan); }
+
+        /* ====================== STATUS ====================== */
+        .status {
+            padding: 1rem 2rem;
+            background: var(--cream);
+            border-bottom: 4px solid var(--black);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 0.85rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--ink);
+        }
+        .status[hidden] { display: none; }
+        .status.error { color: var(--pink); }
+
+        /* ====================== RESULTS ====================== */
+        .results {
+            padding: 2rem;
+            background: var(--cream);
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 2rem;
+        }
+        .results:empty { padding: 0; }
+
+        .drink-card {
+            background: var(--cream);
+            border: 4px solid var(--black);
+            box-shadow: 6px 6px 0 var(--pink);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .drink-img {
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            object-fit: cover;
+            border-bottom: 4px solid var(--black);
+            background: var(--black);
+        }
+        .drink-body {
+            padding: 1.25rem 1.5rem 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            flex: 1;
+        }
+        .drink-name {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(1.5rem, 2vw, 2rem);
+            line-height: 0.95;
+            letter-spacing: -0.03em;
+            color: var(--black);
+            text-transform: uppercase;
+        }
+        .drink-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+        }
+        .pill {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 0.65rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            background: var(--cyan);
+            color: var(--black);
+            padding: 0.25rem 0.5rem;
+            border: 2px solid var(--black);
+        }
+        .pill.alc { background: var(--pink); color: var(--cream); }
+        .section-header {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 0.7rem;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--ink);
+            margin-top: 0.4rem;
+        }
+        .ingredients {
+            list-style: none;
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 0.3rem;
+            font-size: 0.95rem;
+            line-height: 1.4;
+        }
+        .ingredients li {
+            display: flex;
+            gap: 0.6rem;
+            align-items: baseline;
+            padding: 0.25rem 0;
+            border-bottom: 1px dashed var(--black);
+        }
+        .ingredients li:last-child { border-bottom: 0; }
+        .ingredients .meas {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+            font-size: 0.8rem;
+            letter-spacing: 0.05em;
+            color: var(--ink);
+            min-width: 70px;
+            text-transform: uppercase;
+        }
+        .ingredients .meas:empty::before { content: "—"; opacity: 0.4; }
+        .instructions {
+            font-size: 0.95rem;
+            line-height: 1.55;
+            color: var(--black);
+        }
+
+        /* ====================== FOOTER ====================== */
+        footer.brutal-foot {
+            background: var(--black);
+            color: var(--cream);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+            padding: 1.25rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.85rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+        }
+        footer.brutal-foot .mark { font-weight: 900; font-size: 1rem; letter-spacing: -0.02em; }
+        footer.brutal-foot .mark .dot { color: var(--pink); }
+        footer.brutal-foot a:hover { color: var(--pink); }
+
+        /* ====================== RESPONSIVE ====================== */
+        @media (max-width: 600px) {
+            :root { --nav-h: 56px; }
+            .nav-back { padding: 0 1rem; font-size: 0.85rem; }
+            .nav-brand { font-size: 1rem; padding: 0 1rem; }
+            .hero { padding: 2rem 1.25rem 2.5rem; }
+            .search input[type="text"] { padding: 0.85rem 1rem; font-size: 1rem; }
+            .search button { padding: 0.85rem 1rem; font-size: 0.85rem; }
+            .results { padding: 1.25rem; gap: 1.25rem; grid-template-columns: 1fr; }
+            .drink-card { box-shadow: 4px 4px 0 var(--pink); }
+            footer.brutal-foot { padding: 1rem 1.25rem; flex-direction: column; gap: 0.4rem; align-items: flex-start; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            * { transition: none !important; }
+        }
     </style>
-
-
 </head>
-
 <body>
 
-
-    <nav class="navbar sticky-top grey">
-      <div class="form-inline mr-auto">
-          <input id="search" class="form-control" type="text" placeholder="Search" aria-label="Search">
-          <div class="search-box col-auto">
-              <button id="submit" class="d-flex btn btn-grey btn-rounded btn-md" type="submit">Search</button>
-         </div>
-      </div>
-
-        <a class="black-text navbar-brand" data-toggle="tooltip" title="Contact" href="../index.html" target="_self">
-            Home
-        </a>
+    <nav class="brutal-nav">
+        <a class="nav-back" href="../index.html">&larr; HOME</a>
+        <span class="nav-brand">MIXED UP</span>
     </nav>
 
-    <div class="intro-info-content text-center">
-        <h1 class="display-3 white-text mb-5 wow fadeInDown" data-wow-delay="0.3s">
-            <a class="white-text" data-toggle="tooltip" data-placement="bottom" href="https://www.instagram.com/lo_r.enz/" target="_blank" title="Follow me on Instagram"></a>
-        </h1>
-        <h5 class="text white-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Creative Technologist</h5>
-        <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modalCookie1" data-mdb-ripple-init>About</button>
-    </div>
-    <!--Grid column-->
-
-    <div class="container">
-
-        <!--Section: Blog v.4-->
-        <section class="section section-blog-fw mt-5 pb-3 wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
-            <!--Grid row-->
-            <div class="row">
-              <!--<div class="col-md-4">
-                  <div class="card card-cascade wider reverse">
-                      <div class="card-body card-body-cascade text-center">
-
-                          <div class="embed-responsive embed-responsive-16by9">
-                              <img class="embed-responsive-item" src="" frameborder="0" allowfullscreen=""></img>
-                          </div>
-                          <br>
-
-                      </div>
-                  </div>-->
-                  <!--Excerpt-->
-              </div>
-                <div class="col-md-8">
-                    <div class="card card-cascade wider reverse animated rotateInDownLeft">
-                        <div class="card-body card-body-cascade text-center"
-                        style="background-image: url('assets/akldnblogo.png');
-                        background-repeat: no-repeat; background-size: cover; background-position: center center;">
-                          <div><p>Cocktail Search</p></div>
-                              <div id="results"></div>
-                            <br>
-                        </div>
-                        <!--Post data-->
-                    </div>
-                    <!--Excerpt-->
-                </div>
-                <br><br>
-                <!--<div class="col-md-4">
-                    <div class="card card-cascade wider reverse">
-                        <div class="card-body card-body-cascade text-center">
-
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <img class="embed-responsive-item" src="" frameborder="0" allowfullscreen=""></img>
-                            </div>
-                            <br>
-
-                        </div>
-                    </div>
-                </div>-->
-            </div>
-        </section>
-    </div>
-    </div>
-
-    <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
-    aria-hidden="true" data-backdrop="true">
-        <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
-            <!--Content-->
-            <div class="modal-content">
-                <!--Body-->
-                <div class="modal-body">
-                    <div class="row d-flex justify-content-center align-items-center">
-
-                        <p class="pt-3 pr-2">Search for cocktails by Ingredient   </p>
-
-                        <!--<a type="button" class="btn btn-primary">Learn more <i class=""></i></a>-->
-                        <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Ok, thanks</a>
-                    </div>
-                </div>
-            </div>
-            <!--/.Content-->
+    <section class="hero">
+        <span class="kicker">Cocktail &middot; Search &middot; By Ingredient</span>
+        <h1 class="hero-title">Mix it<br><span class="accent">/Up</span></h1>
+        <p class="hero-sub">Hit the open cocktail database for drinks by ingredient or name. Try "lime", "campari", "negroni"&hellip;</p>
+        <form class="search" id="search-form" autocomplete="off">
+            <input type="text" id="search-input" placeholder="ingredient or drink name" required spellcheck="false">
+            <button type="submit">Mix &rarr;</button>
+        </form>
+        <div class="suggest">
+            <span class="suggest-label">Try:</span>
+            <button type="button" data-suggest="negroni">Negroni</button>
+            <button type="button" data-suggest="margarita">Margarita</button>
+            <button type="button" data-suggest="lime">Lime</button>
+            <button type="button" data-suggest="rum">Rum</button>
+            <button type="button" data-suggest="campari">Campari</button>
         </div>
-    </div>
+    </section>
 
+    <div id="status" class="status" role="status" aria-live="polite" hidden></div>
 
-    <div class="fixed-action-btn" style="bottom: 10px; right: 10px;">
-        <a class="btn-floating btn-sm grey" onclick="topFunction()" id="myBtn">
-            <i class="fa fa-chevron-up"></i>
-        </a>
-        <!--<ul class="list-unstyled">
-      <li><a class="btn-floating btn-sm red"><i class="fa fa-star"></i></a></li>
-      <li><a class="btn-floating btn-sm yellow darken-1"><i class="fa fa-user"></i></a></li>
-      <li><a class="btn-floating btn-sm green"><i class="fa fa-envelope"></i></a></li>
-      <li><a class="btn-floating btn-sm blue"><i class="fa fa-shopping-cart"></i></a></li>
-    </ul>-->
-    </div>
+    <section class="results" id="results" aria-live="polite"></section>
+
+    <footer class="brutal-foot">
+        <span class="mark">MIXED UP<span class="dot">.</span></span>
+        <a href="../index.html">&larr; Home</a>
+    </footer>
+
     <script>
-        new WOW().init();
-        // MDB Lightbox Init
-        $(function() {
-            $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
-        });
-        $(function() {
-            $('[data-toggle="tooltip"]').tooltip()
-        })
-        window.onscroll = function() {
-            scrollFunction()
-        };
+        (() => {
+            const form    = document.getElementById('search-form');
+            const input   = document.getElementById('search-input');
+            const results = document.getElementById('results');
+            const statusEl = document.getElementById('status');
 
-        function scrollFunction() {
-            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                document.getElementById("myBtn").style.display = "block";
-            } else {
-                document.getElementById("myBtn").style.display = "none";
+            form.addEventListener('submit', e => {
+                e.preventDefault();
+                runSearch(input.value.trim());
+            });
+
+            document.querySelectorAll('.suggest [data-suggest]').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const term = btn.dataset.suggest;
+                    input.value = term;
+                    runSearch(term);
+                });
+            });
+
+            async function runSearch(term) {
+                if (!term) return;
+                results.innerHTML = '';
+                setStatus('Mixing…');
+                try {
+                    const url = 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=' + encodeURIComponent(term);
+                    const res = await fetch(url);
+                    if (!res.ok) throw new Error('HTTP ' + res.status);
+                    const data = await res.json();
+                    const drinks = data.drinks || [];
+                    if (!drinks.length) {
+                        setStatus('No drinks found for "' + term + '".');
+                        return;
+                    }
+                    clearStatus();
+                    drinks.forEach(renderDrink);
+                } catch (err) {
+                    console.error('Search failed:', err);
+                    setStatus('Search failed. Try again.', true);
+                }
             }
-        }
-        // When the user clicks on the button, scroll to the top of the document
-        function topFunction() {
-            document.body.scrollTop = 0;
-            document.documentElement.scrollTop = 0;
-        }
 
+            function renderDrink(d) {
+                const card = document.createElement('article');
+                card.className = 'drink-card';
+
+                if (d.strDrinkThumb) {
+                    const img = document.createElement('img');
+                    img.src = d.strDrinkThumb;
+                    img.alt = d.strDrink || 'Cocktail';
+                    img.className = 'drink-img';
+                    img.loading = 'lazy';
+                    card.appendChild(img);
+                }
+
+                const body = document.createElement('div');
+                body.className = 'drink-body';
+
+                const name = document.createElement('h2');
+                name.className = 'drink-name';
+                name.textContent = d.strDrink;
+                body.appendChild(name);
+
+                const meta = document.createElement('div');
+                meta.className = 'drink-meta';
+                if (d.strAlcoholic) {
+                    const pill = makePill(d.strAlcoholic);
+                    if (/non[\s-]*alcohol/i.test(d.strAlcoholic)) pill.classList.remove('alc');
+                    else pill.classList.add('alc');
+                    meta.appendChild(pill);
+                }
+                if (d.strCategory) meta.appendChild(makePill(d.strCategory));
+                if (d.strGlass)    meta.appendChild(makePill(d.strGlass));
+                body.appendChild(meta);
+
+                const ingHeader = document.createElement('h3');
+                ingHeader.className = 'section-header';
+                ingHeader.textContent = 'Ingredients';
+                body.appendChild(ingHeader);
+
+                const ul = document.createElement('ul');
+                ul.className = 'ingredients';
+                for (let i = 1; i <= 15; i++) {
+                    const ing = d['strIngredient' + i];
+                    if (!ing) continue;
+                    const meas = (d['strMeasure' + i] || '').trim();
+                    const li = document.createElement('li');
+                    const measSpan = document.createElement('span');
+                    measSpan.className = 'meas';
+                    measSpan.textContent = meas;
+                    const ingSpan = document.createElement('span');
+                    ingSpan.textContent = ing;
+                    li.append(measSpan, ingSpan);
+                    ul.appendChild(li);
+                }
+                body.appendChild(ul);
+
+                if (d.strInstructions) {
+                    const insHeader = document.createElement('h3');
+                    insHeader.className = 'section-header';
+                    insHeader.textContent = 'Instructions';
+                    body.appendChild(insHeader);
+
+                    const ins = document.createElement('p');
+                    ins.className = 'instructions';
+                    ins.textContent = d.strInstructions;
+                    body.appendChild(ins);
+                }
+
+                card.appendChild(body);
+                results.appendChild(card);
+            }
+
+            function makePill(text) {
+                const span = document.createElement('span');
+                span.className = 'pill';
+                span.textContent = text;
+                return span;
+            }
+
+            function setStatus(text, isError) {
+                statusEl.textContent = text;
+                statusEl.hidden = false;
+                statusEl.classList.toggle('error', !!isError);
+            }
+
+            function clearStatus() {
+                statusEl.hidden = true;
+                statusEl.textContent = '';
+                statusEl.classList.remove('error');
+            }
+        })();
     </script>
-
-
-    <!--  SCRIPTS  -->
-    <!-- JQuery -->
-    <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
-    <!-- Bootstrap tooltips -->
-    <script type="text/javascript" src="../js/popper.min.js"></script>
-    <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="../js/bootstrap.min.js"></script>
-    <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="../js/mdb.min.js"></script>
-    <script>
-    let input;
-
-    function setup() {
-        noCanvas();
-        // Grab the input and button from HTML
-        input = select('#search');
-        let button = select('#submit');
-        // Attach a callback to button press
-        button.mousePressed(search);
-    }
-
-    // Run the API call
-    function search() {
-        let term = input.value();
-
-        // URL for querying wikipedia
-        let url = 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=' + term;
-
-
-        // 'jsonp' is needed for security
-        console.log(url);
-        loadJSON(url, gotData);
-    }
-    // We got the list of articles
-    function gotData(data) {
-        console.log(data.drinks);
-        var ALC = data.drinks;
-        for (var i = 0; i < ALC.length; i++) {
-            //createElement('h3',articles[i].section);
-            let strDrink = createElement('h1', ALC[i].strDrink);
-            strDrink.parent('results');
-
-            let strDrinkThumb = createImg(ALC[i].strDrinkThumb).addClass('img-fluid z-depth-5 p-3 flex-1 card');
-            strDrinkThumb.parent('results');
-
-            let strIngredient1 = createElement('ul', ALC[i].strMeasure1 + ['  '] + ALC[i].strIngredient1);
-            strIngredient1.parent('results');
-
-            let strIngredient2 = createElement('ul', ALC[i].strMeasure2 + ['  '] + ALC[i].strIngredient2);
-            strIngredient2.parent('results');
-
-            let strIngredient3 = createElement('ul', ALC[i].strMeasure3 + ['  '] + ALC[i].strIngredient3);
-            strIngredient3.parent('results');
-
-            let strIngredient4 = createElement('ul', ALC[i].strMeasure4 + ['  '] + ALC[i].strIngredient4);
-            strIngredient4.parent('results');
-
-            let strIngredient5 = createElement('ul', ALC[i].strMeasure5 + ['  '] + ALC[i].strIngredient5);
-            strIngredient5.parent('results');
-
-            let strIngredient6 = createElement('ul', ALC[i].strMeasure6 + ['  '] + ALC[i].strIngredient6);
-            strIngredient6.parent('results');
-
-            let strInstructions = createElement('h3', ALC[i].strInstructions).addClass('z-depth-3 flex-1 card');
-            strInstructions.parent('results');
-
-        }
-    }
-    </script>
-
-
-
 
 </body>
-
 </html>
