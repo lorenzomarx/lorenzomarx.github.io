@@ -1,308 +1,338 @@
-var PenSize = 0;
-var canSize = 0;
-var img;
-var chico;
-var royal;
-var queen;
-var junglist;
-var hemi;
+/*
+ * Paint — Stick'em Up
+ * p5.js graffiti tool. Tool palette selects an active tool; clicking the canvas
+ * applies the tool. Keyboard shortcuts still work for power users.
+ */
+
+// State driven from the settings sidebar
+var PenSize = 4;
 var PenColour = '#ffffff';
 var TagColour = '#8f8f8f';
-var TagSize = 600;
+var TagSize = 400;
 var Tag = 'Cram';
 var Crew = 'Cram';
 var CrewStyle = 'paint';
 var Style = 'paint';
-var ny = 'ny';
-var urban = 'urban';
-var pein = 'pein';
-var bomb = 'bomb';
-var gas = 'gas';
-var squiz = 'squiz';
-var drip = 'drip';
-var chase = 'chase';
-var locals = 'locals';
-var sparta_out = 'sparta_out';
-var mars = 'mars';
-var throwup = 'throwup';
-var gui;
-var opacity = 0;
+var opacity = 255;
+var r = 0, g = 0, b = 0;
+var currentBlend = 'BLEND';
+var activeTool = 'pen';
+
+// p5 sketch state
+var img;          // train background
+var queen, chico, royal, hemi, rua, junglist, oosh;
+var images;       // user-uploaded image
 var noiseFactor = 0;
 var radius = 100;
 var totalPoints = 60;
 var angle;
-var r = 0;
-var g = 0;
-var b = 0;
 
-let backgrounds = []
-let numBackgrounds = 5;
-let stickers = []
-let numStickers = 5;
-
+let backgrounds = [];
+let stickers = [];
 
 let H, W;
 let v = [];
-let p = [];
 var scl = 20;
 var z = 0.002;
 
-function fontRead(){
-    fontReady = true; }
-
-
-function preload(){
-  img = loadImage("train.png");
-  queen = loadImage("images/kemistry.png");
-  chico = loadImage("images/chicorelli.png");
-  royal = loadImage("images/queen.png");
-  hemi = loadImage("images/hemi.png");
-  rua = loadImage("images/Rua_Kenana_Mihaia.png");
-  junglist = loadImage("images/goldie.png");
-  oosh = loadImage("images/oosh_logo.png");
-  bomb = loadFont('fonts/bomb.otf',fontRead);
-  paint = loadFont('fonts/paint.otf',fontRead);
-  ny = loadFont('fonts/NYFat.ttf',fontRead);
-  urban = loadFont('fonts/urbandecay.ttf',fontRead);
-  throwup = loadFont('fonts/throwup.ttf',fontRead);
-  brock = loadFont('fonts/Brock.ttf',fontRead);
-  pein = loadFont('fonts/Pein.ttf',fontRead);
-  gas = loadFont('fonts/Gas.otf',fontRead);
-  squiz = loadFont('fonts/squiz.ttf',fontRead);
-  drip = loadFont('fonts/drip.ttf',fontRead);
-  chase = loadFont('fonts/chase.ttf',fontRead);
-  locals = loadFont('fonts/Locals.ttf',fontRead);
-  sparta_out  = loadFont('fonts/sparta_out.otf',fontRead);
-  mars  = loadFont('fonts/mars.otf',fontRead);
-  backgrounds = [junglist]
-  stickers = [junglist,hemi,chico]
+function preload() {
+    img = loadImage('train.png');
+    queen    = loadImage('images/kemistry.png');
+    chico    = loadImage('images/chicorelli.png');
+    royal    = loadImage('images/queen.png');
+    hemi     = loadImage('images/hemi.png');
+    rua      = loadImage('images/Rua_Kenana_Mihaia.png');
+    junglist = loadImage('images/goldie.png');
+    oosh     = loadImage('images/oosh_logo.png');
+    backgrounds = [junglist];
+    stickers    = [queen, hemi, chico];
 }
 
 function setup() {
-  var canvas = createCanvas(540, 960);
-  imageMode(CENTER);
-  canvas.parent("myCanvas");
-  background( 0, 0);
+    const canvas = createCanvas(540, 960);
+    imageMode(CENTER);
+    canvas.parent('myCanvas');
+    background(0, 0);
 
-  gui = createGui('Controls');
-  sliderRange(0, 255, 1);
-  gui.addGlobals('opacity');
-  sliderRange(0, 255, 1);
-  gui.addGlobals('r');
-  sliderRange(0, 255, 1);
-  gui.addGlobals('g');
-  sliderRange(0, 255, 1);
-  gui.addGlobals('b');
-  sliderRange(0, 10, 1);
-  gui.addGlobals('PenSize');
-  sliderRange(0, 50, 1);
-  gui.addGlobals('canSize');
-  gui.addGlobals('scl');
-  sliderRange(0, 100, 1);
-  gui.addGlobals('z');
-  sliderRange(0, 100, 1);
-
-  gui.addGlobals('TagSize');
-  gui.addGlobals('Tag');
-  gui.addGlobals('Style');
-  gui.addGlobals('Crew');
-  gui.addGlobals('CrewStyle');
-  gui.addGlobals('PenColour');
-  gui.addGlobals('TagColour');
-
-  this.one = color(random(255), random(255), random(255),random(255));
-  this.two = color(random(255), random(255), random(255),random(255));
-  this.three = color(random(255), random(255), random(255),random(255));
-  this.four = color(random(255), random(255), random(255),random(255));
-  this.five = color(random(255), random(255), random(255),random(255));
-
-
-  angle = 2 * PI / totalPoints;
-  H = height / scl;
-  W = width / scl;
-     for (let i = 0; i < H; i++) {
-     for (let j = 0; j < W; j++) {
-     let index = i * W + j;
-     let a = noise(j / 100, i / 100, z) * TWO_PI * 7;
-         v[index] = p5.Vector.fromAngle(a).setMag(1);
+    angle = (2 * Math.PI) / totalPoints;
+    H = height / scl;
+    W = width / scl;
+    for (let i = 0; i < H; i++) {
+        for (let j = 0; j < W; j++) {
+            const index = i * W + j;
+            const a = noise(j / 100, i / 100, z) * TWO_PI * 7;
+            v[index] = p5.Vector.fromAngle(a).setMag(1);
+        }
     }
-  }
+
+    bindUI();
 }
 
 function draw() {
-  if (mouseIsPressed) {
-		stroke(PenColour);
-    strokeWeight(PenSize);
-    line(mouseX, mouseY, pmouseX, pmouseY);
-  }
+    // Pen — continuous draw while mouse held
+    if (mouseIsPressed && activeTool === 'pen' && pointerInCanvas()) {
+        stroke(PenColour);
+        strokeWeight(PenSize);
+        line(mouseX, mouseY, pmouseX, pmouseY);
+    }
 
-  if (key === 'b') {
-    let abc=0;
+    // Flow — runs every frame while flow tool active OR 'b' key held
+    if (activeTool === 'flow' || key === 'b') {
+        drawFlow();
+    }
+}
+
+function drawFlow() {
     for (let i = 0; i < H; i++) {
-      for (let j = 0; j < W; j++) {
-        let index = i * W + j;
-        let y = i * scl;
-        let x = j * scl;
-
-        push();
-        translate(x+scl/2, y);
-        abc=abs(Math.sin(v[index].heading()))*5;
-        rotate(v[index].heading());
-        noStroke();
-        fill(this.five)
-        beginShape();
-        vertex(0,0);
-        vertex(scl - 5, 5+abc);
-        vertex(scl+abc, 0);
-        vertex(scl - 5, -5-abc);
-        endShape(CLOSE);
-        pop();
-        let a = noise(j / 100, i / 100, z) * TWO_PI * 7;
-        v[index] = p5.Vector.fromAngle(a);
-      }
+        for (let j = 0; j < W; j++) {
+            const index = i * W + j;
+            const y = i * scl;
+            const x = j * scl;
+            const abc = Math.abs(Math.sin(v[index].heading())) * 5;
+            push();
+            translate(x + scl / 2, y);
+            rotate(v[index].heading());
+            noStroke();
+            fill(random(255), random(255), random(255), 60);
+            beginShape();
+            vertex(0, 0);
+            vertex(scl - 5, 5 + abc);
+            vertex(scl + abc, 0);
+            vertex(scl - 5, -5 - abc);
+            endShape(CLOSE);
+            pop();
+            const a = noise(j / 100, i / 100, z) * TWO_PI * 7;
+            v[index] = p5.Vector.fromAngle(a);
+        }
     }
     z += 0.002;
-    textSize(32);
-  }
+}
 
+// ====================== TOOL APPLICATION ======================
+
+function pointerInCanvas() {
+    return mouseX >= 0 && mouseY >= 0 && mouseX <= width && mouseY <= height;
+}
+
+function applyActiveTool() {
+    switch (activeTool) {
+        case 'tag':        applyTagSolid(); break;
+        case 'tag-random': applyTagRandom(); break;
+        case 'crew':       applyCrew(); break;
+        case 'sticker':    applySticker(); break;
+        case 'stamp':      applyStamp(); break;
+        case 'blob':       applyBlob(); break;
+        case 'outline':    applyOutline(); break;
+        case 'bgimg':      applyBgImage(); break;
+        case 'bgfill':     applyFillBg(); break;
+        // 'pen' and 'flow' run continuously in draw()
+    }
+}
+
+function applyTagSolid() {
+    fill(TagColour);
+    noStroke();
+    textFont(Style);
+    textSize(TagSize);
+    textAlign(CENTER);
+    text(Tag, mouseX, mouseY);
+}
+
+function applyTagRandom() {
+    fill(random(255), random(255), random(255), random(255));
+    noStroke();
+    textFont(Style);
+    textSize(TagSize);
+    textAlign(CENTER);
+    blendMode(MULTIPLY);
+    text(Tag, mouseX, mouseY);
+    blendMode(BLEND);
+}
+
+function applyCrew() {
+    fill(random(255), random(255), random(255), random(255));
+    noStroke();
+    textFont(CrewStyle);
+    textSize(TagSize);
+    textAlign(CENTER);
+    blendMode(MULTIPLY);
+    text(Crew, mouseX, mouseY);
+    blendMode(BLEND);
+}
+
+function applySticker() {
+    if (!stickers.length) return;
+    imageMode(CENTER);
+    image(random(stickers), mouseX, mouseY);
+}
+
+function applyStamp() {
+    if (!images || !images.width) return;
+    imageMode(CENTER);
+    image(images, mouseX, mouseY);
+}
+
+function applyBgImage() {
+    if (!backgrounds.length) return;
+    imageMode(CENTER);
+    image(random(backgrounds), mouseX, mouseY);
+}
+
+function applyFillBg() {
+    background(r, g, b, opacity);
+}
+
+function applyBlob() {
+    fill(r, g, b, opacity);
+    noStroke();
+    beginShape();
+    for (let i = 0; i <= totalPoints; i++) {
+        const x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        const y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        curveVertex(x, y);
+    }
+    endShape(CLOSE);
+    noiseFactor += 0.1;
+}
+
+function applyOutline() {
+    noFill();
+    stroke(PenColour);
+    strokeWeight(PenSize);
+    beginShape();
+    for (let i = 0; i <= totalPoints; i++) {
+        const x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        const y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
+        curveVertex(x, y);
+    }
+    endShape(CLOSE);
+    noiseFactor += 0.1;
+}
+
+// ====================== EVENTS ======================
+
+function mousePressed() {
+    if (!pointerInCanvas()) return;
+    // Continuous tools (pen, flow) are handled in draw()
+    if (activeTool === 'pen' || activeTool === 'flow') return;
+    applyActiveTool();
+}
+
+function keyPressed() {
+    // Power-user shortcuts — preserve original key bindings
+    if (key === '1') { blendMode(BLEND); }
+    if (key === '2') { applyCrew(); }
+    if (key === '3') { applyTagRandom(); }
+    if (key === '4') { applyTagSolid(); }
+    if (key === '5') { applyFillBg(); }
+    if (key === '6') { applyBlob(); }
+    if (key === '7') { applyOutline(); }
+    if (key === '8') { applyStamp(); }
+    if (key === '9') { applySticker(); }
+    if (key === 'w') { applyBgImage(); }
+    if (key === 'c') { blendMode(BLEND); clear(); }
+    if (key === 'a') { blendMode(BLEND); currentBlend = 'BLEND'; }
+    if (key === 's') { blendMode(MULTIPLY); currentBlend = 'MULTIPLY'; }
 }
 
 function handleFile() {
-  const selectedFile = document.getElementById('upload');
-  const myImageFile = selectedFile.files[0];
-  let urlOfImageFile = URL.createObjectURL(myImageFile);
-  images = loadImage(urlOfImageFile);
+    const input = document.getElementById('upload');
+    const file = input.files[0];
+    if (!file) return;
+    const url = URL.createObjectURL(file);
+    images = loadImage(url);
 }
 
+// ====================== UI BINDING ======================
 
-$('#clear').click(function(){
-      background(255);
-      PenSize;
-      strokeWeight(PenSize);
-      stroke(PenColour);
-      clear();
-   }
-);
-$('#back').click(function(){
-      background(255);
-   }
-);
-$('#newimage').click(function(){
-      saveCanvas("stickUp","png");
-   }
-);
-$('#newimages').click(function(){
-      imageMode(CENTER);
-      background(images);
+function bindUI() {
+    // Tool palette
+    document.getElementById('tool-bar').addEventListener('click', e => {
+        const btn = e.target.closest('button[data-tool]');
+        if (!btn) return;
+        document.querySelectorAll('#tool-bar button').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeTool = btn.dataset.tool;
+    });
 
-   }
-);
-//function mouseDragged() {
-  // Using the copy() function, copy the bottom image
-  // on top of the top image when you drag your cursor
-  // across the canvas.
-//  copy(images, mouseX, mouseY, 20, 20, mouseX, mouseY, 20, 20);
-//}
+    // Pen settings
+    bindColor('pen-color', v => { PenColour = v; });
+    bindRange('pen-size', 'pen-size-val', v => { PenSize = parseFloat(v); });
+    bindSelect('blend-mode', v => {
+        currentBlend = v;
+        if (typeof window[v] !== 'undefined') blendMode(window[v]);
+    });
 
-function keyPressed() {
+    // Tag settings
+    bindText('tag-text', v => { Tag = v; });
+    bindSelect('tag-font', v => { Style = v; });
+    bindRange('tag-size', 'tag-size-val', v => { TagSize = parseFloat(v); });
+    bindColor('tag-color', v => { TagColour = v; });
 
-  if (key === '4') {
-    fill(TagColour);
-    var c = mouseX;
-    var d = mouseY;
-    textFont(Style)
-    textSize(TagSize);
-    textAlign(CENTER);
-    text(Tag, c, d );
-    strokeWeight(0);
-  }
-  if (key === '2') {
-    fill(random(255),random(255),random(255),random(255));
-    var c = mouseX;
-    var d = mouseY;
-    textFont(CrewStyle)
-    textSize(TagSize);
-    textAlign(CENTER);
-    blendMode(MULTIPLY);
-    text(Crew, c, d );
-  }
+    // Crew settings
+    bindText('crew-text', v => { Crew = v; });
+    bindSelect('crew-font', v => { CrewStyle = v; });
 
-  if (key === '1') {
-    PenSize;
-    strokeWeight(PenSize);
-    stroke(PenColour);
-    blendMode(BLEND);
-  }
-  if (key === '9') {
-    let randoImg = random(stickers)
-    imageMode(CENTER);
-    image(randoImg, mouseX, mouseY);
+    // Background settings — bgColor decomposes hex into r/g/b globals
+    bindColor('bg-color', v => {
+        const m = /^#([0-9a-f]{6})$/i.exec(v);
+        if (!m) return;
+        const n = parseInt(m[1], 16);
+        r = (n >> 16) & 255;
+        g = (n >> 8) & 255;
+        b = n & 255;
+    });
+    bindRange('bg-opacity', 'bg-opacity-val', v => { opacity = parseFloat(v); });
 
-  }
-  if (key === '3') {
-    fill(random(255),random(255),random(255),random(255));
-    var c = mouseX;
-    var d = mouseY;
-    textFont(Style)
-    textSize(TagSize);
-    textAlign(CENTER);
-    blendMode(MULTIPLY);
-    text(Tag, c, d );
-  }
-  if (key === '5') {
-    background(r,g,b,opacity);
-  }
-  if (key === '8') {
-    image(images,mouseX, mouseY);
-    imageMode(CENTER);
+    // Action buttons (replace the old jQuery handlers).
+    // NOTE: button IDs are intentionally prefixed (btn-clear/btn-save) because
+    // HTML5 promotes any id="clear" to window.clear, which collides with p5's
+    // global clear() function and silently breaks the canvas.
+    document.getElementById('btn-clear').addEventListener('click', () => {
+        clear();
+        blendMode(BLEND);
+    });
+    document.getElementById('btn-save').addEventListener('click', () => {
+        saveCanvas('stickUp', 'png');
+    });
 
-  }
-  if (key === '6'){
-    fill(r,g,b,opacity);
-    strokeWeight(PenSize);
-    beginShape();
-      for (var i = 0; i <= totalPoints; i++) {
-        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
-        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
-        curveVertex(x, y, 10, 10);
-      }
-    endShape(CLOSE);
-    noiseFactor += 0.1;
-  }
+    // Info modal
+    const modal = document.getElementById('info-modal');
+    document.getElementById('open-info').addEventListener('click', () => modal.hidden = false);
+    document.getElementById('close-info').addEventListener('click', () => modal.hidden = true);
+    modal.addEventListener('click', e => {
+        if (e.target === modal) modal.hidden = true;
+    });
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape' && !modal.hidden) modal.hidden = true;
+    });
+}
 
-  if (key === '7') {
-    stroke(this.four);
-    noFill();
-    angleMode(RADIANS);
-    strokeWeight(PenSize);
-    beginShape();
-      for (var i = 0; i <= totalPoints; i++) {
-        var x = mouseX + radius * sin(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
-        var y = mouseY + radius * cos(angle * i) * noise(noise(noiseFactor + (random(-15, 15) * 0.01)) * (random(-1, 1)));
-        curveVertex(x, y, 10, 10);
-      }
-    endShape(CLOSE);
-    noiseFactor += 0.1;
-  }
+function bindRange(inputId, valueId, onChange) {
+    const input = document.getElementById(inputId);
+    const valEl = document.getElementById(valueId);
+    onChange(input.value);
+    if (valEl) valEl.textContent = input.value;
+    input.addEventListener('input', () => {
+        onChange(input.value);
+        if (valEl) valEl.textContent = input.value;
+    });
+}
 
+function bindColor(id, onChange) {
+    const input = document.getElementById(id);
+    onChange(input.value);
+    input.addEventListener('input', () => onChange(input.value));
+}
 
-  if (key === 'w') {
-    let randoImg = random(backgrounds)
-    image(randoImg, mouseX, mouseY);
-    imageMode(CENTER);
-  }
-  if (key === 'c') {
-    blendMode(BLEND);
-    clear();
-  }
-  if (key === 'a') {
-    blendMode(BLEND);
-  }
-  if (key === 's') {
-    blendMode(MULTIPLY);
-  }
-  if (key === 'z') {
+function bindText(id, onChange) {
+    const input = document.getElementById(id);
+    onChange(input.value);
+    input.addEventListener('input', () => onChange(input.value));
+}
 
-    blendMode(MULTIPLY);
-  }
+function bindSelect(id, onChange) {
+    const sel = document.getElementById(id);
+    onChange(sel.value);
+    sel.addEventListener('change', () => onChange(sel.value));
 }

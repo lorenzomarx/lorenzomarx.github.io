@@ -1,274 +1,222 @@
 <!DOCTYPE html>
-<html lang="en" >
-
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width">
-  <link rel="shortcut icon" href="favicon.ico">
-  <title>Stick'em Up</title>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#FDF2F8">
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <title>PAINT — Stick'em Up</title>
 
-    gtag('config', 'UA-81613790-1');
-  </script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
-  <script type="text/javascript" src="libraries/quicksettings.js" type="text/javascript"></script>
-  <script type="text/javascript" src="libraries/p5.gui.js" type="text/javascript"></script>
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <style>
-  .divy {
-width: 500px;
-height: 300px;
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81613790-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-81613790-1');
+    </script>
 
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' style=%22transform: rotate(45deg); transform-origin: 50% 50%;background: black;box-shadow: 0 0 0 .5rem orangered, 0 0 0 1rem black,0 0 0 1.5rem indigo, 0 0 0 2rem black, 0 0 0 2.5rem teal, 0 0 0 .5rem black inset, 0 0 0 1rem gold inset, 0 0 0 1.5rem black inset, 0 0 0 2rem yellowgreen inset, 0 0 0 2.5rem black inset, 0 0 0 3rem teal inset, 0 0 0 3.5rem black inset, 0 0 0 4rem purple inset, 0 0 0 4.5rem black inset, 0 0 0 5rem crimson inset, 0 0 0 5.5rem black inset, 0 0 0 6rem orange inset, 0 0 0 6.5rem black inset, 0 0 0 7rem yellow inset, 0 0 0 7.5rem black inset, 0 0 0 8rem aqua inset, 0 0 0 8.5rem black inset, 0 0 0 9rem teal inset;%22%3E%3C/svg%3E");
-background-size: 8rem 8rem;
-background-position: 50% 50%;
-
-animation: bg 10s infinite;
-}
-
-@keyframes bg {
-25% {
-  background-size: 10rem 10rem;
-}
-
-50% {
-  background-size: 5rem 5rem;
-}
-
-75% {
-  background-size: 22rem 22rem;
-}
-}
-
-
-.collapsible {
-  background-color: #949fb0;
-  cursor: pointer;
-  padding: 10px;
-  width: 15%;
-  border: none;
-  text-align: center;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color: #555;
-}
-
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-  font-size: 10px;
-}
-.collapsible2 {
-  background-color: #4e9391;
-  cursor: pointer;
-  padding: 10px;
-  width: 20%;
-  border: none;
-  text-align: center;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible2:hover {
-  background-color: #555;
-}
-
-.content2 {
-  padding: 0 10px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-  font-size: 30px;
-  word-spacing: 4em;
-}
-
-</style>
+    <link href="css/style.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
 </head>
-
-
 <body>
 
-  <nav class="navbar data-mdb-sticky-animation-unsticky">
-      <ul class="nav navbar-nav pull-left">
-          <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle black-text navbar-brand" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-bars"></i></a>
-              <div class="dropdown-menu dropdown-default" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
-                  <!--<a target="_self" class="dropdown-item" href="../pages/mixedup.html">Mixer</a>-->
-                  <a target="_self" class="dropdown-item" href="../newsly/index.html">Newsly</a>
-                  <a target="_self" class="dropdown-item" href="../rasterizer/index.html">Rasterizer</a>
-              </div>
-          </li>
-      </ul>
-      <a class="black-text navbar-brand" data-toggle="tooltip" title="Home" href="../index.html" target="_self">
-          <i class="fa fa-home"></i>
-      </a>
-  </nav>
+    <nav class="brutal-nav">
+        <a class="nav-back" href="../../index.html">&larr; HOME</a>
+        <span class="nav-brand">PAINT <span class="brand-tag">stick&rsquo;em up</span></span>
+        <button type="button" id="open-info" class="nav-info">Info ?</button>
+    </nav>
 
+    <!-- Tool palette: pick a tool, click on canvas to apply -->
+    <div class="bar" id="tool-bar" role="toolbar" aria-label="Tools">
+        <button type="button" data-tool="pen" class="active">Pen</button>
+        <button type="button" data-tool="tag">Tag</button>
+        <button type="button" data-tool="tag-random">Tag·rgb</button>
+        <button type="button" data-tool="crew">Crew</button>
+        <button type="button" data-tool="sticker">Sticker</button>
+        <button type="button" data-tool="stamp">Stamp</button>
+        <button type="button" data-tool="blob">Blob</button>
+        <button type="button" data-tool="outline">Outline</button>
+        <button type="button" data-tool="flow">Flow</button>
+        <button type="button" data-tool="bgimg">BG Img</button>
+        <button type="button" data-tool="bgfill">Fill BG</button>
+    </div>
 
-  <h1> Stick'em Up </h1>
-
-        <!--<button><a target="_self" class="dropdown-item" href="../index.html">Home</a></button>-->
-        <div class="container text-xs-center">
-              <div class="row">
-                <div class="col-md-12">
-                  <div>
-                  <input accept=".png, .jpg, .jpeg" type="file" id="upload" onchange="handleFile()">
-                  <div id="wrapper">
-                  <button id="clear">Clear</button>
-                  <button id="newimage">Save</button>
-                  <button onclick="window.location.reload()">Refresh</button>
+    <div class="paint-main">
+        <aside class="settings">
+            <details open>
+                <summary>Pen</summary>
+                <div class="fields">
+                    <label class="field">
+                        <span>Color</span>
+                        <input type="color" id="pen-color" value="#ffffff">
+                    </label>
+                    <label class="field slider-row">
+                        <span>Size</span>
+                        <input type="range" id="pen-size" min="1" max="60" step="1" value="4">
+                        <span class="val" id="pen-size-val">4</span>
+                    </label>
+                    <label class="field">
+                        <span>Blend</span>
+                        <select id="blend-mode">
+                            <option value="BLEND">Blend</option>
+                            <option value="MULTIPLY">Multiply</option>
+                            <option value="ADD">Add</option>
+                            <option value="SCREEN">Screen</option>
+                            <option value="DARKEST">Darkest</option>
+                            <option value="LIGHTEST">Lightest</option>
+                            <option value="DIFFERENCE">Difference</option>
+                        </select>
+                    </label>
                 </div>
-              <section class="section">
-                <div id="myCanvas" class="jumbotron">
-                 <!-- Our sketch is called here with the id of jumbo-canvas! -->
-               </div>
-              </section>
+            </details>
+
+            <details open>
+                <summary>Tag</summary>
+                <div class="fields">
+                    <label class="field">
+                        <span>Text</span>
+                        <input type="text" id="tag-text" value="Cram">
+                    </label>
+                    <label class="field">
+                        <span>Font</span>
+                        <select id="tag-font">
+                            <option value="paint">paint</option>
+                            <option value="bomb">bomb</option>
+                            <option value="ny">ny</option>
+                            <option value="urban">urban decay</option>
+                            <option value="throwup">throwup</option>
+                            <option value="brock">brock</option>
+                            <option value="pein">pein</option>
+                            <option value="gas">gas</option>
+                            <option value="squiz">squiz</option>
+                            <option value="drip">drip</option>
+                            <option value="chase">chase</option>
+                            <option value="locals">locals</option>
+                            <option value="sparta_out">sparta</option>
+                            <option value="mars">mars</option>
+                        </select>
+                    </label>
+                    <label class="field slider-row">
+                        <span>Size</span>
+                        <input type="range" id="tag-size" min="40" max="1200" step="10" value="400">
+                        <span class="val" id="tag-size-val">400</span>
+                    </label>
+                    <label class="field">
+                        <span>Color</span>
+                        <input type="color" id="tag-color" value="#8f8f8f">
+                    </label>
+                </div>
+            </details>
+
+            <details>
+                <summary>Crew</summary>
+                <div class="fields">
+                    <label class="field">
+                        <span>Text</span>
+                        <input type="text" id="crew-text" value="Cram">
+                    </label>
+                    <label class="field">
+                        <span>Font</span>
+                        <select id="crew-font">
+                            <option value="paint">paint</option>
+                            <option value="bomb">bomb</option>
+                            <option value="ny">ny</option>
+                            <option value="urban">urban decay</option>
+                            <option value="throwup">throwup</option>
+                            <option value="brock">brock</option>
+                            <option value="pein">pein</option>
+                            <option value="gas">gas</option>
+                            <option value="squiz">squiz</option>
+                            <option value="drip">drip</option>
+                            <option value="chase">chase</option>
+                            <option value="locals">locals</option>
+                            <option value="sparta_out">sparta</option>
+                            <option value="mars">mars</option>
+                        </select>
+                    </label>
+                </div>
+            </details>
+
+            <details>
+                <summary>Background</summary>
+                <div class="fields">
+                    <label class="field">
+                        <span>Color</span>
+                        <input type="color" id="bg-color" value="#000000">
+                    </label>
+                    <label class="field slider-row">
+                        <span>Opacity</span>
+                        <input type="range" id="bg-opacity" min="0" max="255" step="1" value="255">
+                        <span class="val" id="bg-opacity-val">255</span>
+                    </label>
+                </div>
+            </details>
+        </aside>
+
+        <section class="stage">
+            <div id="myCanvas"></div>
+        </section>
+    </div>
+
+    <div class="action-row">
+        <label class="btn ghost" for="upload">Upload Image</label>
+        <input type="file" id="upload" accept=".png,.jpg,.jpeg" hidden onchange="handleFile()">
+        <button type="button" id="btn-save" class="btn">Save PNG</button>
+        <button type="button" id="btn-clear" class="btn alt">Clear</button>
+    </div>
+
+    <footer class="brutal-foot">
+        <span class="mark">PAINT<span class="dot">.</span></span>
+        <a href="../../index.html">&larr; Home</a>
+    </footer>
+
+    <!-- Info modal: shortcuts + font samples -->
+    <div class="info-modal" id="info-modal" hidden>
+        <div class="content">
+            <h2>Paint &mdash; Stick&rsquo;em Up</h2>
+            <p>Pick a tool from the palette above, then click on the canvas to apply it. Or use keyboard shortcuts (hover over canvas, press a key):</p>
+            <h3>Shortcuts</h3>
+            <dl>
+                <dt>1</dt><dd>Pen mode (blend)</dd>
+                <dt>2</dt><dd>Crew &mdash; random colour, multiply</dd>
+                <dt>3</dt><dd>Tag &mdash; random colour, multiply</dd>
+                <dt>4</dt><dd>Tag &mdash; tag colour</dd>
+                <dt>5</dt><dd>Fill background</dd>
+                <dt>6</dt><dd>Filled noise blob</dd>
+                <dt>7</dt><dd>Outline noise blob</dd>
+                <dt>8</dt><dd>Stamp uploaded image</dd>
+                <dt>9</dt><dd>Random sticker</dd>
+                <dt>b</dt><dd>Flow field (hold)</dd>
+                <dt>w</dt><dd>Random BG image</dd>
+                <dt>c</dt><dd>Clear canvas</dd>
+                <dt>a</dt><dd>Blend mode &mdash; BLEND</dd>
+                <dt>s</dt><dd>Blend mode &mdash; MULTIPLY</dd>
+            </dl>
+            <h3>Fonts</h3>
+            <div class="fonts-list">
+                <span class="sample" style="font-family:'paint'">paint</span>
+                <span class="sample" style="font-family:'bomb'">bomb</span>
+                <span class="sample" style="font-family:'ny'">ny</span>
+                <span class="sample" style="font-family:'urban'">urban</span>
+                <span class="sample" style="font-family:'throwup'">throwup</span>
+                <span class="sample" style="font-family:'brock'">brock</span>
+                <span class="sample" style="font-family:'pein'">pein</span>
+                <span class="sample" style="font-family:'gas'">gas</span>
+                <span class="sample" style="font-family:'squiz'">squiz</span>
+                <span class="sample" style="font-family:'drip'">drip</span>
+                <span class="sample" style="font-family:'chase'">chase</span>
+                <span class="sample" style="font-family:'locals'">locals</span>
+                <span class="sample" style="font-family:'sparta_out'">sparta</span>
+                <span class="sample" style="font-family:'mars'">mars</span>
             </div>
-              </div>
-               </div>
-             </div>
-
-
-<footer class="bg-body-tertiary text-center">
-  <!--<div class="container p-4">
-    <section class="">
-      <div class="row">
-        <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
-          <div data-mdb-ripple-init class="bg-image hover-overlay shadow-1-strong rounded" data-ripple-color="light">
-            <img src="https://lorenzomarx.github.io/assets/kemistry_junglist.png" class="w-100" />
-            <a href="#!">
-              <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-            </a>
-          </div>
+            <p style="font-size:0.8rem;color:var(--ink);letter-spacing:0.1em;text-transform:uppercase;font-weight:700">Inspired by MADSEEN aka SEEN.</p>
+            <div class="close-row">
+                <button type="button" id="close-info" class="btn">Close</button>
+            </div>
         </div>
-        <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
-          <div data-mdb-ripple-init
-            class="bg-image hover-overlay shadow-1-strong rounded"
-            data-ripple-color="light"
-          >
-            <img src="https://lorenzomarx.github.io/assets/kemistry_junglist.png" class="w-100" />
-            <a href="#!">
-              <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-            </a>
-          </div>
-        </div>
-        <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
-          <div data-mdb-ripple-init
-            class="bg-image hover-overlay shadow-1-strong rounded"
-            data-ripple-color="light"
-          >
-            <img src="https://lorenzomarx.github.io/assets/kemistry_junglist.png" class="w-100" />
-            <a href="#!">
-              <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
-  </div>-->
+    </div>
 
-  <!-- Copyright -->
-  <button class="collapsible "type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie1">About</button>
-  <div class="modal fade top" id="modalCookie1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
-      <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
-          <!--Content-->
-          <div class="modal-content">
-              <!--Body-->
-              <div class="">
-                  <div class="row d-flex justify-content-center align-items-center">
-                      <p class="pt-3 pr-2" > <h1>Desktop ONLY</h1></p>
-                  </div>
-              </div>
-          </div>
-          <!--/.Content-->
-      </div>
-  </div>
-  <button class="collapsible" type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalCookie2">Fonts</button>
-  <div class="modal fade top" id="modalCookie2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="true">
-      <div class="modal-dialog modal-frame modal-top modal-notify modal-info" role="document">
-          <!--Content-->
-          <div class="modal-content">
-              <!--Body-->
-              <div class="modal-body">
-                <div class="row d-flex justify-content-center align-items-center">
-                <ul>
-                  <li class="Bomb">Bomb</li>
-                  <li class="Paint">Paint</li>
-                  <li class="locals">locals</li>
-                  <li class="Urbandecay">Urbandecay</li>
-                  <li class="Brock">Brock</li>
-                  <li class="Pein">Pein</li>
-                  <li class="Gas">Gas</li>
-                  <li class="sparta_out">sparta</li>
-                  <li class="mars">mars</li>
-                </ul>
-                  </div>
-              </div>
-          </div>
-          <!--/.Content-->
-      </div>
-  </div>
-  <!-- Copyright -->
-</footer>
-<br>
-
-<script>
-var coll = document.getElementsByClassName("collapsible",);
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-<script>
-var coll = document.getElementsByClassName("collapsible",);
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.js" type="text/javascript"></script>
-
-  <script  src="js/index.js"></script>
-  <script type="text/javascript" src="libraries/jquery-3.3.1.min.js"></script>
-  <!-- Bootstrap tooltips -->
-  <script type="text/javascript" src="libraries/popper.min.js"></script>
-  <!-- Bootstrap core JavaScript -->
-  <script type="text/javascript" src="libraries/bootstrap.min.js"></script>
-  <!-- MDB core JavaScript -->
-  <script type="text/javascript" src="libraries/mdb.min.js"></script>
+    <script src="js/index.js"></script>
 </body>
-
 </html>
