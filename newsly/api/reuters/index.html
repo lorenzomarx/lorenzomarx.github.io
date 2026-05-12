@@ -21,7 +21,6 @@
     <nav class="brutal-nav">
         <a class="nav-back" href="../../index.html">&larr; NEWSLY</a>
         <a class="nav-brand" href="../../index.html">NEWSLY <span class="brand-source">· REUTERS</span></a>
-        <a class="nav-action" onclick="topFunction()" role="button" tabindex="0">Top &uarr;</a>
     </nav>
 
     <nav class="source-strip">
@@ -44,8 +43,16 @@
         <a href="../../index.html">&larr; All sources</a>
     </footer>
 
+    <button type="button" class="top-btn" id="top-btn" aria-label="Back to top">&uarr;</button>
+
     <script>
-        function topFunction(){ window.scrollTo({ top: 0, behavior: 'smooth' }); }
+        (() => {
+            const btn = document.getElementById('top-btn');
+            const toggle = () => btn.classList.toggle('show', window.scrollY > 220);
+            window.addEventListener('scroll', toggle, { passive: true });
+            toggle();
+            btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+        })();
     </script>
     <script src="../../../js/p5.js" type="text/javascript"></script>
     <script src="../../../js/p5.dom.js" type="text/javascript"></script>
