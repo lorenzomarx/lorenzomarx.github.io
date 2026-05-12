@@ -1,0 +1,351 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap');
+
+:root {
+    --pink:        #EC4899;
+    --pink-light:  #F472B6;
+    --cyan:        #06B6D4;
+    --cream:       #FDF2F8;
+    --ink:         #831843;
+    --black:       #0A0A0A;
+    --nav-h:       64px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+    background: var(--cream);
+    color: var(--black);
+    font-family: 'Space Grotesk', sans-serif;
+    min-height: 100vh;
+    -webkit-tap-highlight-color: transparent;
+}
+
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; cursor: pointer; }
+img { max-width: 100%; display: block; }
+
+/* ====================== NAV ====================== */
+nav.brutal-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    align-items: stretch;
+    background: var(--cream);
+    border-bottom: 4px solid var(--black);
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    height: var(--nav-h);
+}
+.nav-back, .nav-tab {
+    display: flex;
+    align-items: center;
+    padding: 0 1.5rem;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--black);
+    white-space: nowrap;
+}
+.nav-back {
+    background: var(--pink);
+    color: var(--cream);
+    border-right: 4px solid var(--black);
+}
+.nav-back:hover { background: var(--black); color: var(--pink); }
+.nav-spacer { flex: 1; }
+.nav-tab {
+    background: var(--cream);
+    border-left: 4px solid var(--black);
+}
+.nav-tab:hover { background: var(--cyan); }
+.nav-tab.active { background: var(--pink); color: var(--cream); }
+.nav-tab.active:hover { background: var(--pink); }
+
+/* ====================== HERO ====================== */
+.hero {
+    padding: 3rem 2.5rem;
+    background: var(--cream);
+    border-bottom: 4px solid var(--black);
+}
+.kicker {
+    display: block;
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+    font-size: 0.85rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--ink);
+    margin-bottom: 1rem;
+}
+.kicker::before { content: "\25A0  "; color: var(--pink); }
+.hero-title {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: clamp(3rem, 11vw, 8rem);
+    line-height: 0.85;
+    letter-spacing: -0.05em;
+    color: var(--black);
+    text-transform: uppercase;
+}
+.hero-title .accent {
+    color: var(--pink);
+    display: inline-block;
+    transform: rotate(-2deg);
+}
+.hero-sub {
+    margin-top: 1.25rem;
+    font-weight: 500;
+    font-size: clamp(0.95rem, 1.4vw, 1.1rem);
+    line-height: 1.5;
+    max-width: 48ch;
+    color: var(--ink);
+}
+
+/* ====================== SECTION HEADERS ====================== */
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 2.25rem 2.5rem 1.25rem;
+    border-bottom: 4px solid var(--black);
+    background: var(--cream);
+}
+.section-header h2 {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.75rem, 4.5vw, 3rem);
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
+.section-header .count {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: 0.85rem;
+    letter-spacing: 0.2em;
+    color: var(--ink);
+}
+
+/* ====================== MIX CARDS (lorenz.html) ====================== */
+.mix-list {
+    padding: 2rem 2.5rem 3rem;
+    background: var(--cream);
+    border-bottom: 4px solid var(--black);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.mix-card {
+    background: var(--cream);
+    border: 4px solid var(--black);
+    box-shadow: 6px 6px 0 var(--pink);
+    overflow: hidden;
+}
+.mix-card iframe {
+    display: block;
+    width: 100%;
+    height: 120px;
+    border: 0;
+}
+.mix-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 0.75rem 1rem;
+    border-bottom: 4px solid var(--black);
+    background: var(--cream);
+    gap: 1rem;
+}
+.mix-name {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: 0.95rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.mix-tag {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+    font-size: 0.7rem;
+    letter-spacing: 0.25em;
+    color: var(--ink);
+    text-transform: uppercase;
+}
+
+/* ====================== BIO PAGE ====================== */
+.bio-feature {
+    background: var(--black);
+    padding: 2.5rem;
+    display: grid;
+    place-items: center;
+    border-bottom: 4px solid var(--black);
+}
+.bio-feature img {
+    width: 100%;
+    max-width: 540px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border: 4px solid var(--cream);
+    box-shadow: 8px 8px 0 var(--pink);
+    background: var(--cream);
+}
+
+.bio-table {
+    background: var(--black);
+    border-bottom: 4px solid var(--black);
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px;
+}
+.bio-row {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    gap: 1.5rem;
+    align-items: baseline;
+    padding: 1.25rem 2.5rem;
+    background: var(--cream);
+}
+.bio-label {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: 0.85rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--ink);
+}
+.bio-value strong {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.5rem, 3vw, 2.25rem);
+    letter-spacing: -0.03em;
+    line-height: 1;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 0.25rem;
+}
+.bio-value em {
+    font-style: normal;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 0.95rem;
+    color: var(--ink);
+}
+
+/* ====================== EVENT CARDS ====================== */
+.event-grid {
+    padding: 2rem 2.5rem 3rem;
+    background: var(--cream);
+    border-bottom: 4px solid var(--black);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.75rem;
+}
+.event-card {
+    background: var(--cream);
+    border: 4px solid var(--black);
+    box-shadow: 6px 6px 0 var(--pink);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    color: var(--black);
+}
+.event-card:hover { box-shadow: 8px 8px 0 var(--cyan); }
+.event-card img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-bottom: 4px solid var(--black);
+    background: var(--black);
+}
+.event-body {
+    padding: 1.1rem 1.25rem 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+.event-date {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: 0.75rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--ink);
+}
+.event-date.past::before { content: "Past · "; color: var(--pink); }
+.event-date.upcoming::before { content: "Next · "; color: var(--cyan); }
+.event-name {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.25rem, 2.4vw, 1.75rem);
+    line-height: 0.95;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
+.event-venue {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: var(--ink);
+}
+
+/* ====================== LINK STRIP ====================== */
+.link-strip {
+    background: var(--black);
+    border-bottom: 4px solid var(--black);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+.link-strip a {
+    flex: 1 1 0;
+    min-width: 160px;
+    text-align: center;
+    padding: 1.1rem 1rem;
+    background: var(--cream);
+    color: var(--black);
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+    font-size: 0.85rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+.link-strip a:hover { background: var(--pink); color: var(--cream); }
+
+/* ====================== FOOTER ====================== */
+footer.brutal-foot {
+    background: var(--black);
+    color: var(--cream);
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+    padding: 1.25rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+footer.brutal-foot .mark { font-weight: 900; font-size: 1rem; letter-spacing: -0.02em; }
+footer.brutal-foot .mark .dot { color: var(--pink); }
+footer.brutal-foot a:hover { color: var(--pink); }
+footer.brutal-foot .foot-links { display: flex; gap: 1.5rem; }
+
+/* ====================== RESPONSIVE ====================== */
+@media (max-width: 700px) {
+    :root { --nav-h: 56px; }
+    .nav-back, .nav-tab { padding: 0 1rem; font-size: 0.85rem; }
+    .hero { padding: 2rem 1.5rem; }
+    .section-header { padding: 1.75rem 1.5rem 1rem; }
+    .mix-list, .event-grid { padding: 1.5rem; }
+    .bio-feature { padding: 1.5rem; }
+    .bio-row { padding: 1rem 1.5rem; grid-template-columns: 1fr; gap: 0.4rem; }
+    .bio-label { font-size: 0.7rem; }
+    .link-strip a { font-size: 0.75rem; padding: 0.9rem 0.75rem; min-width: 120px; }
+    footer.brutal-foot { padding: 1rem 1.25rem; flex-direction: column; gap: 0.4rem; align-items: flex-start; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+}
