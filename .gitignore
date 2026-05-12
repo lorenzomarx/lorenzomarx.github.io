@@ -1,1 +1,5 @@
 .DS_Store
+
+# Local push helper (not for the deployed site)
+push.ps1
+push.bat
