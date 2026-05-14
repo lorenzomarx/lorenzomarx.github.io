@@ -1,15 +1,23 @@
-
+#!/usr/bin/env python3
+"""Fetch Vice News articles from newsapi.org and write to vice.json."""
 import json
+import os
+import sys
 import requests
-from colorama import colorama_text, Fore, Back, Style
-import pyfiglet
-result = pyfiglet.figlet_format("News", font = "poison"  )
 
+API_KEY = os.environ.get('NEWSAPI_KEY')
+if not API_KEY:
+    sys.exit('NEWSAPI_KEY environment variable is not set')
 
-response = requests.get("https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=3b0812f373dd4cf6be98999b0bb159b4")
+response = requests.get(
+    'https://newsapi.org/v2/top-headlines',
+    params={'sources': 'vice-news', 'apiKey': API_KEY},
+    timeout=30,
+)
+response.raise_for_status()
 data = response.json()
+if data.get('status') != 'ok':
+    sys.exit(f"newsapi error: {data.get('message', data)}")
 
-
-
-with open('vice.json', 'w') as outfile:
-    json.dump(data, outfile,indent=2, sort_keys=True)
+with open('vice.json', 'w') as f:
+    json.dump(data, f, indent=2, sort_keys=True)
