@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch Ars Technica articles from newsapi.org and write to arstechnica.json."""
+"""Fetch TechRadar articles from newsapi.org and write to techradar.json."""
 import json
 import os
 import sys
@@ -11,7 +11,7 @@ if not API_KEY:
 
 response = requests.get(
     'https://newsapi.org/v2/top-headlines',
-    params={'sources': 'ars-technica', 'apiKey': API_KEY},
+    params={'sources': 'techradar', 'apiKey': API_KEY},
     timeout=30,
 )
 response.raise_for_status()
@@ -19,5 +19,5 @@ data = response.json()
 if data.get('status') != 'ok':
     sys.exit(f"newsapi error: {data.get('message', data)}")
 
-with open('arstechnica.json', 'w') as f:
+with open('techradar.json', 'w') as f:
     json.dump(data, f, indent=2, sort_keys=True)

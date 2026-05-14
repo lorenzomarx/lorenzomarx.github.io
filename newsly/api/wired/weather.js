@@ -1,4 +1,4 @@
-const urlNews = "https://lorenzomarx.github.io/newsly/api/arsTechnica/arstechnica.json";
+const urlNews = "https://lorenzomarx.github.io/newsly/api/wired/wired.json";
 
 function setup() {
     noCanvas();

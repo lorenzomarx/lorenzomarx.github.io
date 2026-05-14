@@ -36,22 +36,25 @@ Per-source Python scripts that hit [newsapi.org](https://newsapi.org) and write 
 
 ## Sources
 
-| Folder         | Source ID (newsapi.org)   | Output JSON              |
-| -------------- | ------------------------- | ------------------------ |
-| `aljazApi`     | `al-jazeera-english`      | `aljaz.json`             |
-| `ap`           | `associated-press`        | `ap.json`                |
-| `arsTechnica`  | `ars-technica`            | `arstechnica.json`       |
-| `bbcApi`       | `bbc-news`                | `bbc.json`               |
-| `bbcSport`     | `bbc-sport`               | `bbcsport.json`          |
-| `bloomberg`    | `bloomberg`               | `bloomberg.json`         |
-| `breaking_us`  | (country=us, top-headlines) | `breaking_us.json`     |
-| `cnn`          | `cnn`                     | `cnn.json`               |
-| `huffington`   | `the-huffington-post`     | `huff.json`              |
-| `vice`         | `vice-news`               | `vice.json`              |
-| `washpost`     | `the-washington-post`     | `washpost.json`          |
-| `wsj`          | `the-wall-street-journal` | `wsj.json`               |
+| Folder         | Source ID (newsapi.org)   | Endpoint           | Output JSON              |
+| -------------- | ------------------------- | ------------------ | ------------------------ |
+| `aljazApi`     | `al-jazeera-english`      | `top-headlines`    | `aljaz.json`             |
+| `ap`           | `associated-press`        | `top-headlines`    | `ap.json`                |
+| `bbcApi`       | `bbc-news`                | `top-headlines`    | `bbc.json`               |
+| `bbcSport`     | `bbc-sport`               | `top-headlines`    | `bbcsport.json`          |
+| `bloomberg`    | `bloomberg`               | `top-headlines`    | `bloomberg.json`         |
+| `breaking_us`  | (country=us)              | `top-headlines`    | `breaking_us.json`       |
+| `cnn`          | `cnn`                     | `top-headlines`    | `cnn.json`               |
+| `huffington`   | `the-huffington-post`     | `top-headlines`    | `huff.json`              |
+| `techradar`    | `techradar`               | `top-headlines`    | `techradar.json`         |
+| `vice`         | `vice-news`               | `everything`†      | `vice.json`              |
+| `washpost`     | `the-washington-post`     | `top-headlines`    | `washpost.json`          |
+| `wired`        | `wired`                   | `top-headlines`    | `wired.json`             |
+| `wsj`          | `the-wall-street-journal` | `top-headlines`    | `wsj.json`               |
 
-All scripts use the `/v2/top-headlines` endpoint. (Note: `/v1/` is deprecated and returns frozen data — do not switch back to it.)
+† `vice-news` is frozen on `/v2/top-headlines` (returns 2020 articles). The script uses `/v2/everything?sources=vice-news&sortBy=publishedAt` instead, which is still fresh.
+
+Most scripts use the `/v2/top-headlines` endpoint. (Note: `/v1/` is deprecated and returns frozen data — do not switch back to it.) See `SOURCES.md` for the full catalog of available newsapi sources by country and category.
 
 ## Security note
 
