@@ -9,9 +9,11 @@ API_KEY = os.environ.get('NEWSAPI_KEY')
 if not API_KEY:
     sys.exit('NEWSAPI_KEY environment variable is not set')
 
+# Vice's top-headlines feed is frozen on newsapi (stuck in 2020).
+# /v2/everything still returns fresh articles, sorted by publishedAt.
 response = requests.get(
-    'https://newsapi.org/v2/top-headlines',
-    params={'sources': 'vice-news', 'apiKey': API_KEY},
+    'https://newsapi.org/v2/everything',
+    params={'sources': 'vice-news', 'sortBy': 'publishedAt', 'apiKey': API_KEY},
     timeout=30,
 )
 response.raise_for_status()
