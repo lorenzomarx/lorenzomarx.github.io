@@ -1,45 +1,58 @@
 {
   "articles": [
     {
+      "author": "Lauren Weber",
+      "content": "Chick-fil-A is famous among fans for closing on Sundays out of respect for the Christian sabbath. Now the U.S. government is suing one of its franchisees, alleging it denied an employees request for \u2026 [+416 chars]",
+      "description": "The EEOC sues franchisee for religious discrimination, claiming it denied staffer\u2019s request to take off Saturdays",
+      "publishedAt": "2026-05-14T23:01:00Z",
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "title": "Sundays Are Sacred at Chick-fil-A. The U.S. Says a Worker\u2019s Saturday Sabbath Is, Too",
+      "url": "https://www.wsj.com/business/hospitality/sundays-are-sacred-at-chick-fil-a-the-u-s-says-a-workers-saturday-sabbath-is-too-8bf0cc83?mod=hp_lead_pos11",
+      "urlToImage": "https://images.wsj.net/im-67778151/social"
+    },
+    {
+      "author": "Molly Grace",
+      "content": "What services should retirees expect from a financial advisor?\r\nFinancial advisors can offer a wide variety of services, including comprehensive financial planning and asset management. They can also\u2026 [+11248 chars]",
+      "description": "Some of the best fiduciary financial advisors for retirees.",
+      "publishedAt": "2026-05-11T15:49:23Z",
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
+      "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=wsj_hp_buyside_pos1",
+      "urlToImage": "https://www.wsj.com/buyside/content-images/1ad70c45-8a42-4e6a-9d37-3d1abd0f49c0"
+    },
+    {
       "author": "Medea Giordano",
-      "content": "Everyone needs a reliable bag, especially those entering the workforce for the first time.\u00a0Dagne Dovers Allyn Tote is both attractive and functional, with a clever selection of pockets to aid organiz\u2026 [+690 chars]",
-      "description": "Gifts for life\u2019s next chapter.",
-      "publishedAt": "2026-05-05T20:28:07Z",
+      "content": "Brooklinens Super-Plush Turkish Cotton Bath Towel was initially a close second in our testing because of its buttery softness. I enjoyed using it, and it features a locker loop for easily hanging on \u2026 [+5041 chars]",
+      "description": "Luxe towels to upgrade your post-shower routine.",
+      "publishedAt": "2026-05-07T13:16:48Z",
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "title": "25 Gifts Every College Grad Will Appreciate",
-      "url": "https://www.wsj.com/buyside/gifts/gift-guides/graduation-gift-ideas?mod=wsj_hp_buyside_pos2",
-      "urlToImage": "https://www.wsj.com/buyside/content-images/e08c7d48-93c1-423b-8e8b-37b1d515cc2f"
+      "title": "The Best Bath Towels for Every Preference, From Plush and Spa Like to Quick-Drying Waffle Weave",
+      "url": "https://www.wsj.com/buyside/home-products-decor/bedroom/best-bath-towels?mod=wsj_hp_buyside_pos3",
+      "urlToImage": "https://www.wsj.com/buyside/content-images/db3ac596-435a-403c-9be4-27c234d33b0e"
     },
     {
-      "author": "Miranda Marquit",
-      "content": "What services do financial advisors offer?\r\nFinancial advisors offer a variety of services, ranging from planning and advice to portfolio management. Not all advisors offer investment management, how\u2026 [+14904 chars]",
-      "description": "Some of the best financial advisor firms to meet your 2026 goals",
-      "publishedAt": "2026-05-01T09:00:00Z",
+      "author": "Bob Haegele",
+      "content": "How the auto refinancing process works\r\nRefinancing a car replaces your existing auto loan with a new one, ideally with a lower interest rate or monthly payment. Many lenders pay off your old auto lo\u2026 [+1315 chars]",
+      "description": "Refinancing with good credit might save you money.",
+      "publishedAt": "2026-05-04T19:35:34Z",
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "title": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-      "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=wsj_hp_buyside_pos3",
-      "urlToImage": "https://www.wsj.com/buyside/content-images/a8ae897f-5089-409c-97ed-81063d36da0e"
-    },
-    {
-      "author": "Miranda Marquit, Emily Sherman",
-      "content": "When to reconsider auto loan refinancing\r\nRefinancing is not always a good financial move. Consider keeping your current loan in these situations:\r\n<ul><li>Interest rates havent dropped: Refinancing \u2026 [+4805 chars]",
-      "description": "Well-qualified borrowers can refinance below 5%",
-      "publishedAt": "2026-04-28T19:31:25Z",
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "title": "Best Auto Refinance Rates and Loans of May 2026",
-      "url": "https://www.wsj.com/buyside/personal-finance/auto-loans/auto-refinance-rates?mod=wsj_hp_buyside_pos1",
-      "urlToImage": "https://www.wsj.com/buyside/content-images/bf0e6b5e-0a1d-4397-842e-8e16c0366d26"
+      "title": "Best Auto Refinance Loans for Good Credit in May 2026",
+      "url": "https://www.wsj.com/buyside/personal-finance/auto-loans/best-auto-refinance-loans-good-credit?mod=wsj_hp_buyside_pos2",
+      "urlToImage": "https://www.wsj.com/buyside/content-images/f37b9897-1ae3-400c-8e08-4edbd7e166f0"
     }
   ],
   "status": "ok",
-  "totalResults": 3
+  "totalResults": 4
 }
