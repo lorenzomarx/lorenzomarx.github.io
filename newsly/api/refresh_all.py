@@ -40,11 +40,33 @@ SOURCES = [
 ]
 
 
+def load_dotenv() -> None:
+    """Load KEY=VALUE pairs from the repo-root .env if present.
+
+    Real environment variables take precedence (setdefault), so the Pi's
+    exported NEWSAPI_KEY still wins when this runs there. No dependency.
+    """
+    env_path = Path(__file__).resolve().parents[2] / '.env'
+    if not env_path.exists():
+        return
+    for raw in env_path.read_text(encoding='utf-8').splitlines():
+        line = raw.strip()
+        if not line or line.startswith('#') or '=' not in line:
+            continue
+        key, _, val = line.partition('=')
+        os.environ.setdefault(key.strip(), val.strip().strip('"').strip("'"))
+
+
 def main() -> int:
+    load_dotenv()
+
     if not os.environ.get('NEWSAPI_KEY'):
-        print('ERROR: NEWSAPI_KEY environment variable is not set.', file=sys.stderr)
-        print('  PowerShell: $env:NEWSAPI_KEY = "your-key"', file=sys.stderr)
-        print('  Bash:        export NEWSAPI_KEY=your-key', file=sys.stderr)
+        print('ERROR: NEWSAPI_KEY not set (no env var and no .env at repo root).', file=sys.stderr)
+        print('  Create a .env file at the repo root containing:', file=sys.stderr)
+        print('      NEWSAPI_KEY=your-key', file=sys.stderr)
+        print('  ...or set it for the session:', file=sys.stderr)
+        print('      PowerShell: $env:NEWSAPI_KEY = "your-key"', file=sys.stderr)
+        print('      Bash:        export NEWSAPI_KEY=your-key', file=sys.stderr)
         return 1
 
     base = Path(__file__).resolve().parent

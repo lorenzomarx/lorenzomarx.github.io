@@ -3,3 +3,9 @@
 # Local push helper (not for the deployed site)
 push.ps1
 push.bat
+
+# Secrets — never commit. Use .env.example as the template.
+.env
+
+# Claude Code session-local config
+.claude/
