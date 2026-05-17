@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#FDF2F8">
+    <title>Glitch &mdash; LMarx</title>
+    <link href="styles/main.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+</head>
+<body>
+
+    <nav class="brutal-nav">
+        <span class="nav-brand">GLITCH <span class="brand-tag">image</span></span>
+        <span class="nav-spacer"></span>
+        <a class="nav-home" href="../../index.html">&larr; Home</a>
+        <span id="clock" class="nav-clock"></span>
+    </nav>
+
+    <div class="paint-main">
+        <aside class="settings">
+            <details open>
+                <summary>Shapes</summary>
+                <div class="fields">
+                    <div class="tool-grid" id="tool-bar" role="toolbar" aria-label="Tools">
+                        <button type="button" data-tool="square" class="active">Square</button>
+                        <button type="button" data-tool="circle">Circle</button>
+                        <button type="button" data-tool="triangle">Triangle</button>
+                        <button type="button" data-tool="heart">Heart</button>
+                        <button type="button" data-tool="star">Star</button>
+                    </div>
+                </div>
+            </details>
+
+            <details open>
+                <summary>ASCII</summary>
+                <div class="fields">
+                    <div class="tool-grid ascii-grid" id="ascii-bar">
+                        <button type="button" data-tool="ascii-@" class="ascii">@</button>
+                        <button type="button" data-tool="ascii-#" class="ascii">#</button>
+                        <button type="button" data-tool="ascii-*" class="ascii">*</button>
+                        <button type="button" data-tool="ascii-&" class="ascii">&amp;</button>
+                        <button type="button" data-tool="ascii-%" class="ascii">%</button>
+                        <button type="button" data-tool="ascii-?" class="ascii">?</button>
+                    </div>
+                </div>
+            </details>
+
+            <details open>
+                <summary>Glitch</summary>
+                <div class="fields">
+                    <label class="field slider-row">
+                        <span>Size</span>
+                        <input type="range" id="size-slider" min="10" max="150" step="1" value="50">
+                        <span class="val" id="size-val">50</span>
+                    </label>
+                    <label class="field slider-row">
+                        <span>Offset</span>
+                        <input type="range" id="offset-slider" min="1" max="60" step="1" value="10">
+                        <span class="val" id="offset-val">10</span>
+                    </label>
+                </div>
+            </details>
+
+            <details open>
+                <summary>Source</summary>
+                <div class="fields">
+                    <label class="field">
+                        <span>Input</span>
+                        <select id="source-select">
+                            <option value="image">Image</option>
+                            <option value="camera">Camera</option>
+                        </select>
+                    </label>
+                </div>
+            </details>
+
+            <details>
+                <summary>Shortcuts</summary>
+                <div class="fields shortcuts">
+                    <div class="shortcut"><span class="key-tag">S</span> Save canvas</div>
+                    <div class="shortcut"><span class="key-tag">DEL</span> Reset canvas</div>
+                </div>
+            </details>
+        </aside>
+
+        <section class="stage">
+            <div id="myCanvas"></div>
+        </section>
+    </div>
+
+    <div class="action-row">
+        <button type="button" id="btn-save" class="btn">Save JPG</button>
+        <button type="button" id="btn-reset" class="btn alt">Reset</button>
+    </div>
+
+    <footer class="brutal-foot">
+        <span class="mark">GLITCH<span class="dot">.</span></span>
+        <span>P5.JS EXPERIMENT &mdash; 2026</span>
+    </footer>
+
+    <script src="sketch.js"></script>
+</body>
+</html>
