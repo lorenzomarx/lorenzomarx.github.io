@@ -59,5 +59,3 @@ Most scripts use the `/v2/top-headlines` endpoint. (Note: `/v1/` is deprecated a
 ## Security note
 
 API keys must never be committed to this repo. Use the `NEWSAPI_KEY` environment variable. If a key leaks into git history, rotate it via the newsapi.org dashboard.
-
-$env:NEWSAPI_KEY = "f71a099eb6744dbbbe096332ec1ac090"

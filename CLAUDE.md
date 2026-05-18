@@ -54,7 +54,7 @@ frozen). `/v1/` is dead — never use it.
   (auto-loads `.env`), then `push.bat`.
 - `newsly/api/SOURCES.md` — full catalog of newsapi sources by country/category.
 - `newsly/api/README.md` — Pi setup + source table.
-- 12 active sources; landing tiles + every source page's `.source-strip` are
+- 13 active sources; landing tiles + every source page's `.source-strip` are
   kept alphabetical and must all be updated together when adding/removing one.
 
 ## Structure

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "top-stories",
+    "title": "Top Stories",
+    "subtitle": "New Zealand Herald — Top Stories",
+    "description": "The top stories of the moment curated by the NZ Herald editorial team.",
+    "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&_website=nzh"
+  },
+  {
+    "id": "business",
+    "title": "Business",
+    "subtitle": "New Zealand Herald — Business",
+    "description": "Markets, economy, personal finance, and business opinion from NZ Herald.",
+    "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/business/?outputType=xml&_website=nzh"
+  },
+  {
+    "id": "sport",
+    "title": "Sport",
+    "subtitle": "New Zealand Herald — Sport",
+    "description": "Rugby, cricket, football, and all the latest sports news from NZ Herald.",
+    "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/sport/?outputType=xml&_website=nzh"
+  }
+]

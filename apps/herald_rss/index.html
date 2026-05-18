@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Herald RSS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root {
+      --bg: #FFFBE6; --surface: #FFFFFF; --text: #000000;
+      --text-muted: #333333; --text-light: #555555;
+      --red: #FF0000; --blue: #0000FF; --yellow: #FFEB3B; --green: #4ADE80;
+      --border: #000000; --shadow: 5px 5px 0 #000;
+      --font-heading: 'Syncopate', system-ui, sans-serif;
+      --font-body: 'Space Mono', monospace;
+    }
+    body { font-family: var(--font-body); background: var(--bg); color: var(--text); line-height: 1.6; min-height: 100vh; display: flex; flex-direction: column; }
+    header { max-width: 1200px; margin: 0 auto; padding: 2.5rem 1.5rem 2rem; border-bottom: 4px solid var(--border); width: 100%; }
+    header h1 { font-family: var(--font-heading); font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 700; letter-spacing: 0.05em; line-height: 1.1; text-transform: uppercase; }
+    header p { margin-top: 0.5rem; font-size: 0.8rem; font-weight: 700; color: var(--text-muted); letter-spacing: 0.1em; text-transform: uppercase; }
+    main { max-width: 1200px; margin: 0 auto; padding: 3rem 1.5rem 4rem; width: 100%; flex: 1; }
+    .feeds { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
+    @media (min-width: 640px) { .feeds { grid-template-columns: repeat(2, 1fr); } }
+    .feed-card { background: var(--surface); border: 3px solid var(--border); box-shadow: var(--shadow); padding: 2.5rem 2rem; text-decoration: none; color: inherit; cursor: pointer; display: flex; flex-direction: column; gap: 0.75rem; opacity: 0; transform: translateY(20px); animation: reveal 0.4s ease forwards; }
+    .feed-card:nth-child(1) { animation-delay: 0s; }
+    .feed-card:nth-child(2) { animation-delay: 0.1s; }
+    .feed-card:nth-child(3) { animation-delay: 0.2s; }
+    .feed-card:nth-child(4) { animation-delay: 0.3s; }
+    .feed-card:hover { box-shadow: 8px 8px 0 var(--green); transform: translate(-3px, -3px); }
+    .feed-card:focus { outline: 3px solid var(--red); outline-offset: 2px; }
+    .feed-card h2 { font-family: var(--font-heading); font-size: 1.2rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
+    .feed-card p { color: var(--text-muted); font-size: 0.85rem; }
+    .feed-card .arrow { margin-top: auto; color: var(--red); display: flex; align-items: center; gap: 0.4rem; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; }
+    @keyframes reveal { to { opacity: 1; transform: translateY(0); } }
+    @media (max-width: 639px) { header { padding: 1.5rem 1rem 1.25rem; } main { padding: 2rem 1rem 3rem; } }
+    @media (prefers-reduced-motion: reduce) { .feed-card { animation: none; opacity: 1; transform: none; } .feed-card:hover { transform: none; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Herald RSS</h1>
+    <p>New Zealand Herald — RSS Feed Reader</p>
+  </header>
+  <main>
+    <div class="feeds">
+      <a href="top-stories.html" class="feed-card">
+        <h2>Top Stories</h2>
+        <p>The top stories of the moment curated by the NZ Herald editorial team.</p>
+        <span class="arrow">
+          Read feed
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l9.2-9.2M17 17V8H8"/></svg>
+        </span>
+      </a>
+      <a href="business.html" class="feed-card">
+        <h2>Business</h2>
+        <p>Markets, economy, personal finance, and business opinion from NZ Herald.</p>
+        <span class="arrow">
+          Read feed
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l9.2-9.2M17 17V8H8"/></svg>
+        </span>
+      </a>
+      <a href="sport.html" class="feed-card">
+        <h2>Sport</h2>
+        <p>Rugby, cricket, football, and all the latest sports news from NZ Herald.</p>
+        <span class="arrow">
+          Read feed
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l9.2-9.2M17 17V8H8"/></svg>
+        </span>
+      </a>
+    </div>
+  </main>
+</body>
+</html>
