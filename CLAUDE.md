@@ -54,8 +54,26 @@ frozen). `/v1/` is dead — never use it.
   (auto-loads `.env`), then `push.bat`.
 - `newsly/api/SOURCES.md` — full catalog of newsapi sources by country/category.
 - `newsly/api/README.md` — Pi setup + source table.
-- 13 active sources; landing tiles + every source page's `.source-strip` are
-  kept alphabetical and must all be updated together when adding/removing one.
+- 13 active sources.
+
+### Adding (or removing) a source — do ALL of these, every time
+A "source" is more than a page. For source `<src>` in `newsly/api/<src>/`:
+1. **Page**: copy an existing brutalist source page (e.g. `bbcApi/index.html`),
+   never a legacy/old template. Update `<title>` (Title Case), the `· <SRC>`
+   brand, and mark its own `.source-strip` entry `class="active"`.
+2. **Data**: `<src>.py` fetches the correct newsapi source and writes
+   `<src>.json`; `weather.js` loads `.../api/<src>/<src>.json`. Run it once
+   (key set) so the JSON isn't stale.
+3. **Refresh script**: add `('<src>', '<src>.py')` to `refresh_all.py` SOURCES.
+4. **Nav rows**: add the source to the `.source-strip` on **every** source
+   page, not just the new one.
+5. **Homepage**: add a tile to `newsly/index.html` and bump the `NN FEEDS`
+   count.
+6. **Docs**: add a row to `newsly/api/README.md` and fix the source count above.
+
+`refresh_all.py` SOURCES, the homepage tiles, and every `.source-strip` stay in
+the **same alphabetical order** (by folder name). Removing a source = the same
+six places, in reverse.
 
 ## Structure
 - `index.html` — brutalist home: work grid + collapsible "Bits" dropdown.
