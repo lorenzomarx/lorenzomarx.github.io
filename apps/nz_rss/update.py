@@ -8,7 +8,8 @@ from xml.etree import ElementTree as ET
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 FEEDS_PATH = os.path.join(SCRIPT_DIR, "feeds.json")
-DATA_DIR = os.path.join(SCRIPT_DIR, "data")
+HERALD_DIR = os.path.join(SCRIPT_DIR, "nzherald")
+DATA_DIR = os.path.join(HERALD_DIR, "data")
 MAX_ARTICLES = 20
 RETENTION_DAYS = 3
 
@@ -158,7 +159,7 @@ def generate_feed_html(feed, articles):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" href="../../favicon.ico">
+  <link rel="shortcut icon" href="../../../favicon.ico">
   <title>Herald &middot; {e(feed['title'])} &mdash; LMarx</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -201,8 +202,8 @@ def generate_feed_html(feed, articles):
 </head>
 <body>
   <nav class="brutal-nav">
-    <a class="nav-back" href="index.html">&larr; All Feeds</a>
-    <a class="nav-brand" href="index.html">HERALD <span class="brand-source">&middot; {e(feed['title'])}</span></a>
+    <a class="nav-back" href="../index.html">&larr; All Feeds</a>
+    <a class="nav-brand" href="../index.html">HERALD <span class="brand-source">&middot; {e(feed['title'])}</span></a>
   </nav>
   <header class="page-head">
     <h1>{e(feed['title'])}</h1>
@@ -216,7 +217,7 @@ def generate_feed_html(feed, articles):
   </main>
   <footer class="brutal-foot">
     <span>HERALD<span class="dot">.</span></span>
-    <a href="../../newsly/index.html">&larr; Newsly</a>
+    <a href="../../../newsly/index.html">&larr; Newsly</a>
   </footer>
 </body>
 </html>"""
@@ -224,16 +225,9 @@ def generate_feed_html(feed, articles):
 
 def generate_index(feeds):
     e = html.escape
-    cards = []
+    items = []
     for feed in feeds:
-        cards.append(f"""      <a href="{e(feed['id'])}.html" class="feed-card">
-        <h2>{e(feed['title'])}</h2>
-        <p>{e(feed['description'])}</p>
-        <span class="arrow">
-          Read feed
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l9.2-9.2M17 17V8H8"/></svg>
-        </span>
-      </a>""")
+        items.append(f"""        <a class="drop-item" href="nzherald/{e(feed['id'])}.html">{e(feed['title'])}<span class="drop-arrow">&rarr;</span></a>""")
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -241,7 +235,7 @@ def generate_index(feeds):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="../../favicon.ico">
-  <title>Herald &mdash; LMarx</title>
+  <title>NZ News &mdash; LMarx</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
@@ -261,16 +255,18 @@ def generate_index(feeds):
     header.page-head {{ max-width:1200px; margin:0 auto; padding:2.5rem 1.5rem 2rem; border-bottom:4px solid var(--black); width:100%; }}
     header.page-head h1 {{ font-family:'Archivo',sans-serif; font-weight:900; font-size:clamp(2.5rem,8vw,6rem); line-height:0.85; letter-spacing:-0.04em; text-transform:uppercase; }}
     header.page-head p {{ margin-top:0.75rem; font-family:'Archivo',sans-serif; font-size:0.8rem; font-weight:700; color:var(--ink); letter-spacing:0.2em; text-transform:uppercase; }}
-    main {{ max-width:1200px; margin:0 auto; padding:3rem 1.5rem 4rem; width:100%; flex:1; }}
-    .feeds {{ display:grid; grid-template-columns:1fr; gap:4px; background:var(--black); border:4px solid var(--black); }}
-    @media (min-width:640px) {{ .feeds {{ grid-template-columns:repeat(2,1fr); }} }}
-    .feed-card {{ background:var(--cream); padding:2.5rem 2rem; color:inherit; cursor:pointer; display:flex; flex-direction:column; gap:0.75rem; min-height:220px; }}
-    .feed-card:hover {{ background:var(--cyan); color:var(--black); }}
-    .feed-card h2 {{ font-family:'Archivo',sans-serif; font-size:1.8rem; font-weight:900; letter-spacing:-0.02em; text-transform:uppercase; line-height:0.95; }}
-    .feed-card p {{ color:var(--ink); font-size:0.95rem; }}
-    .feed-card:hover p {{ color:var(--black); }}
-    .feed-card .arrow {{ margin-top:auto; color:var(--pink); display:flex; align-items:center; gap:0.4rem; font-family:'Archivo',sans-serif; font-size:0.8rem; font-weight:900; text-transform:uppercase; letter-spacing:0.1em; }}
-    .feed-card:hover .arrow {{ color:var(--black); }}
+    main {{ max-width:760px; margin:0 auto; padding:3rem 1.5rem 4rem; width:100%; flex:1; }}
+    .drop {{ border:4px solid var(--black); background:var(--cream); box-shadow:8px 8px 0 var(--black); }}
+    .drop-head {{ list-style:none; cursor:pointer; display:flex; align-items:center; justify-content:space-between; gap:1rem; padding:1.75rem 2rem; font-family:'Archivo',sans-serif; font-weight:900; font-size:clamp(1.6rem,4vw,2.5rem); text-transform:uppercase; letter-spacing:-0.02em; }}
+    .drop-head::-webkit-details-marker {{ display:none; }}
+    .drop-caret {{ flex:none; width:44px; height:44px; border:3px solid var(--black); display:grid; place-items:center; font-size:1.5rem; background:var(--cream); }}
+    .drop[open] .drop-caret, .drop-head:hover .drop-caret {{ background:var(--pink); color:var(--cream); }}
+    .drop-body {{ display:flex; flex-direction:column; border-top:4px solid var(--black); }}
+    .drop-item {{ display:flex; align-items:center; justify-content:space-between; gap:1rem; padding:1.25rem 2rem; font-family:'Archivo',sans-serif; font-weight:900; font-size:1.1rem; text-transform:uppercase; letter-spacing:0.02em; border-bottom:3px solid var(--black); }}
+    .drop-item:last-child {{ border-bottom:0; }}
+    .drop-item:hover {{ background:var(--pink); color:var(--cream); }}
+    .drop-arrow {{ color:var(--ink); }}
+    .drop-item:hover .drop-arrow {{ color:var(--cream); }}
     footer.brutal-foot {{ background:var(--black); color:var(--cream); font-family:'Archivo',sans-serif; font-weight:700; padding:1.5rem; display:flex; justify-content:space-between; align-items:center; font-size:0.9rem; letter-spacing:0.1em; text-transform:uppercase; }}
     footer.brutal-foot .dot {{ color:var(--pink); }}
     footer.brutal-foot a:hover {{ color:var(--cyan); }}
@@ -283,13 +279,19 @@ def generate_index(feeds):
     <a class="nav-brand" href="index.html">HERALD <span class="brand-source">&middot; RSS</span></a>
   </nav>
   <header class="page-head">
-    <h1>Herald</h1>
+    <h1>NZ News</h1>
     <p>New Zealand Herald &mdash; RSS Feeds</p>
   </header>
   <main>
-    <div class="feeds">
-{chr(10).join(cards)}
-    </div>
+    <details class="drop">
+      <summary class="drop-head">
+        <span>NZ Herald</span>
+        <span class="drop-caret">+</span>
+      </summary>
+      <div class="drop-body">
+{chr(10).join(items)}
+      </div>
+    </details>
   </main>
   <footer class="brutal-foot">
     <span>HERALD<span class="dot">.</span></span>
@@ -326,7 +328,7 @@ def main():
         save_data(fid, pruned)
 
         html_content = generate_feed_html(feed, pruned)
-        out_path = os.path.join(SCRIPT_DIR, f"{fid}.html")
+        out_path = os.path.join(HERALD_DIR, f"{fid}.html")
         with open(out_path, "w", encoding="utf-8") as f:
             f.write(html_content)
         print(f"[{fid}] Wrote {out_path}")
