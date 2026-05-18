@@ -164,43 +164,9 @@ def generate_feed_html(feed, articles):
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
-  <style>
-    *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
-    :root {{
-      --pink:#EC4899; --cyan:#06B6D4; --cream:#FDF2F8; --ink:#831843; --black:#0A0A0A;
-    }}
-    html,body {{ background:var(--cream); color:var(--black); font-family:'Space Grotesk',sans-serif; line-height:1.5; }}
-    a {{ color:inherit; text-decoration:none; }}
-    .brutal-nav {{ position:sticky; top:0; z-index:100; display:flex; align-items:stretch; justify-content:space-between; background:var(--cream); border-bottom:4px solid var(--black); font-family:'Archivo',sans-serif; font-weight:900; }}
-    .brutal-nav a {{ display:flex; align-items:center; padding:0 1.5rem; height:56px; }}
-    .nav-back {{ border-right:4px solid var(--black); text-transform:uppercase; letter-spacing:0.05em; font-size:0.9rem; }}
-    .nav-back:hover {{ background:var(--black); color:var(--cyan); }}
-    .nav-brand {{ font-size:1.25rem; letter-spacing:-0.02em; text-transform:uppercase; }}
-    .nav-brand .brand-source {{ color:var(--pink); margin-left:0.6rem; font-size:1rem; letter-spacing:0.12em; }}
-    header.page-head {{ max-width:1200px; margin:0 auto; padding:2.5rem 1.5rem 2rem; border-bottom:4px solid var(--black); }}
-    header.page-head h1 {{ font-family:'Archivo',sans-serif; font-weight:900; font-size:clamp(2.5rem,7vw,5rem); line-height:0.9; letter-spacing:-0.04em; text-transform:uppercase; }}
-    header.page-head p {{ margin-top:0.75rem; font-family:'Archivo',sans-serif; font-size:0.8rem; font-weight:700; color:var(--ink); letter-spacing:0.2em; text-transform:uppercase; }}
-    .updated {{ margin-top:0.4rem; font-size:0.8rem; color:var(--ink); }}
-    main {{ max-width:1200px; margin:0 auto; padding:2.5rem 1.5rem 4rem; }}
-    .grid {{ display:grid; grid-template-columns:1fr; gap:4px; background:var(--black); border:4px solid var(--black); }}
-    @media (min-width:640px) {{ .grid {{ grid-template-columns:repeat(2,1fr); }} }}
-    @media (min-width:1024px) {{ .grid {{ grid-template-columns:repeat(3,1fr); }} }}
-    .card {{ background:var(--cream); cursor:pointer; display:flex; flex-direction:column; color:inherit; }}
-    .card:hover {{ background:var(--pink); color:var(--cream); }}
-    .card-img {{ width:100%; height:220px; object-fit:cover; display:block; border-bottom:4px solid var(--black); }}
-    .card-body {{ padding:1.5rem; flex:1; display:flex; flex-direction:column; }}
-    .card-meta {{ font-family:'Archivo',sans-serif; font-size:0.7rem; font-weight:900; color:var(--ink); text-transform:uppercase; letter-spacing:0.15em; margin-bottom:0.6rem; }}
-    .card-title {{ font-family:'Archivo',sans-serif; font-size:1.1rem; font-weight:900; line-height:1.05; letter-spacing:-0.02em; margin-bottom:0.6rem; text-transform:uppercase; }}
-    .card-desc {{ font-size:0.9rem; color:var(--ink); line-height:1.5; flex:1; }}
-    .card-footer {{ margin-top:1.25rem; display:flex; align-items:center; justify-content:space-between; font-family:'Archivo',sans-serif; font-size:0.7rem; font-weight:900; color:var(--ink); text-transform:uppercase; letter-spacing:0.1em; }}
-    .card:hover .card-meta, .card:hover .card-desc, .card:hover .card-footer {{ color:var(--cream); }}
-    footer.brutal-foot {{ background:var(--black); color:var(--cream); font-family:'Archivo',sans-serif; font-weight:700; padding:1.5rem; display:flex; justify-content:space-between; align-items:center; font-size:0.9rem; letter-spacing:0.1em; text-transform:uppercase; }}
-    footer.brutal-foot .dot {{ color:var(--pink); }}
-    footer.brutal-foot a:hover {{ color:var(--cyan); }}
-    @media (max-width:639px) {{ header.page-head {{ padding:1.5rem 1rem 1.25rem; }} main {{ padding:1.25rem 1rem 3rem; }} .card-img {{ height:180px; }} }}
-  </style>
+  <link rel="stylesheet" href="../nzherald.css">
 </head>
-<body>
+<body class="nz-feed">
   <nav class="brutal-nav">
     <a class="nav-back" href="../index.html">&larr; All Feeds</a>
     <a class="nav-brand" href="../index.html">HERALD <span class="brand-source">&middot; {e(feed['title'])}</span></a>
@@ -239,41 +205,9 @@ def generate_index(feeds):
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
-  <style>
-    *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
-    :root {{
-      --pink:#EC4899; --cyan:#06B6D4; --cream:#FDF2F8; --ink:#831843; --black:#0A0A0A;
-    }}
-    html,body {{ background:var(--cream); color:var(--black); font-family:'Space Grotesk',sans-serif; line-height:1.5; min-height:100vh; display:flex; flex-direction:column; }}
-    a {{ color:inherit; text-decoration:none; }}
-    .brutal-nav {{ position:sticky; top:0; z-index:100; display:flex; align-items:stretch; justify-content:space-between; background:var(--cream); border-bottom:4px solid var(--black); font-family:'Archivo',sans-serif; font-weight:900; }}
-    .brutal-nav a {{ display:flex; align-items:center; padding:0 1.5rem; height:56px; }}
-    .nav-back {{ border-right:4px solid var(--black); text-transform:uppercase; letter-spacing:0.05em; font-size:0.9rem; }}
-    .nav-back:hover {{ background:var(--black); color:var(--cyan); }}
-    .nav-brand {{ font-size:1.25rem; letter-spacing:-0.02em; text-transform:uppercase; }}
-    .nav-brand .brand-source {{ color:var(--pink); margin-left:0.6rem; font-size:1rem; letter-spacing:0.12em; }}
-    header.page-head {{ max-width:1200px; margin:0 auto; padding:2.5rem 1.5rem 2rem; border-bottom:4px solid var(--black); width:100%; }}
-    header.page-head h1 {{ font-family:'Archivo',sans-serif; font-weight:900; font-size:clamp(2.5rem,8vw,6rem); line-height:0.85; letter-spacing:-0.04em; text-transform:uppercase; }}
-    header.page-head p {{ margin-top:0.75rem; font-family:'Archivo',sans-serif; font-size:0.8rem; font-weight:700; color:var(--ink); letter-spacing:0.2em; text-transform:uppercase; }}
-    main {{ max-width:760px; margin:0 auto; padding:3rem 1.5rem 4rem; width:100%; flex:1; }}
-    .drop {{ border:4px solid var(--black); background:var(--cream); box-shadow:8px 8px 0 var(--black); }}
-    .drop-head {{ list-style:none; cursor:pointer; display:flex; align-items:center; justify-content:space-between; gap:1rem; padding:1.75rem 2rem; font-family:'Archivo',sans-serif; font-weight:900; font-size:clamp(1.6rem,4vw,2.5rem); text-transform:uppercase; letter-spacing:-0.02em; }}
-    .drop-head::-webkit-details-marker {{ display:none; }}
-    .drop-caret {{ flex:none; width:44px; height:44px; border:3px solid var(--black); display:grid; place-items:center; font-size:1.5rem; background:var(--cream); }}
-    .drop[open] .drop-caret, .drop-head:hover .drop-caret {{ background:var(--pink); color:var(--cream); }}
-    .drop-body {{ display:flex; flex-direction:column; border-top:4px solid var(--black); }}
-    .drop-item {{ display:flex; align-items:center; justify-content:space-between; gap:1rem; padding:1.25rem 2rem; font-family:'Archivo',sans-serif; font-weight:900; font-size:1.1rem; text-transform:uppercase; letter-spacing:0.02em; border-bottom:3px solid var(--black); }}
-    .drop-item:last-child {{ border-bottom:0; }}
-    .drop-item:hover {{ background:var(--pink); color:var(--cream); }}
-    .drop-arrow {{ color:var(--ink); }}
-    .drop-item:hover .drop-arrow {{ color:var(--cream); }}
-    footer.brutal-foot {{ background:var(--black); color:var(--cream); font-family:'Archivo',sans-serif; font-weight:700; padding:1.5rem; display:flex; justify-content:space-between; align-items:center; font-size:0.9rem; letter-spacing:0.1em; text-transform:uppercase; }}
-    footer.brutal-foot .dot {{ color:var(--pink); }}
-    footer.brutal-foot a:hover {{ color:var(--cyan); }}
-    @media (max-width:639px) {{ header.page-head {{ padding:1.5rem 1rem 1.25rem; }} main {{ padding:2rem 1rem 3rem; }} }}
-  </style>
+  <link rel="stylesheet" href="nzherald.css">
 </head>
-<body>
+<body class="nz-hub">
   <nav class="brutal-nav">
     <a class="nav-back" href="../../newsly/index.html">&larr; Newsly</a>
     <a class="nav-brand" href="index.html">HERALD <span class="brand-source">&middot; RSS</span></a>
