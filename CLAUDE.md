@@ -54,7 +54,7 @@ frozen). `/v1/` is dead — never use it.
   (auto-loads `.env`), then `push.bat`.
 - `newsly/api/SOURCES.md` — full catalog of newsapi sources by country/category.
 - `newsly/api/README.md` — Pi setup + source table.
-- 13 active sources.
+- Active sources = whatever's in `refresh_all.py` SOURCES (no manual count to keep in sync).
 
 ### Adding (or removing) a source — do ALL of these, every time
 A "source" is more than a page. For source `<src>` in `newsly/api/<src>/`:
@@ -67,9 +67,8 @@ A "source" is more than a page. For source `<src>` in `newsly/api/<src>/`:
 3. **Refresh script**: add `('<src>', '<src>.py')` to `refresh_all.py` SOURCES.
 4. **Nav rows**: add the source to the `.source-strip` on **every** source
    page, not just the new one.
-5. **Homepage**: add a tile to `newsly/index.html` and bump the `NN FEEDS`
-   count.
-6. **Docs**: add a row to `newsly/api/README.md` and fix the source count above.
+5. **Homepage**: add a tile to `newsly/index.html`.
+6. **Docs**: add a row to `newsly/api/README.md`.
 
 `refresh_all.py` SOURCES, the homepage tiles, and every `.source-strip` stay in
 the **same alphabetical order** (by folder name). Removing a source = the same
