@@ -353,7 +353,7 @@ Known issues at last check:
 | ✓ | `bloomberg` | Bloomberg | `en` | Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring s… |
 |  | `business-insider` | Business Insider | `en` | Business Insider is a fast-growing business site with deep financial, media, tech, and other indu… |
 |  | `fortune` | Fortune | `en` | Fortune 500 Daily and Breaking Business News |
-| ✓ | `the-wall-street-journal` | The Wall Street Journal | `en` | WSJ online coverage of breaking news and current headlines from the US and around the world. Top … |
+|  | `the-wall-street-journal` | The Wall Street Journal | `en` | WSJ online coverage of breaking news and current headlines from the US and around the world. Top … |
 
 #### Entertainment
 

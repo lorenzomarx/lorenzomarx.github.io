@@ -14,7 +14,6 @@ const feeds = [
     "https://lorenzomarx.github.io/newsly/api/vice/vice.json",
     "https://lorenzomarx.github.io/newsly/api/washpost/washpost.json",
     "https://lorenzomarx.github.io/newsly/api/wired/wired.json",
-    "https://lorenzomarx.github.io/newsly/api/wsj/wsj.json",
 ];
 
 function setup() {

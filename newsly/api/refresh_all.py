@@ -36,7 +36,6 @@ SOURCES = [
     ('vice',         'vice.py'),
     ('washpost',     'washpost.py'),
     ('wired',        'wired.py'),
-    ('wsj',          'wsj.py'),
 ]
 
 

@@ -19,5 +19,34 @@
     "subtitle": "New Zealand Herald — Sport",
     "description": "Rugby, cricket, football, and all the latest sports news from NZ Herald.",
     "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/sport/?outputType=xml&_website=nzh"
+  },
+  {
+    "id": "world",
+    "title": "World",
+    "subtitle": "New Zealand Herald — World",
+    "description": "International news and global affairs from around the world via NZ Herald.",
+    "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/world/?outputType=xml&_website=nzh"
+  },
+  {
+    "id": "technology",
+    "title": "Technology",
+    "subtitle": "New Zealand Herald — Technology",
+    "description": "Tech news, gadgets, science and innovation from NZ Herald.",
+    "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/technology/?outputType=xml&_website=nzh"
+  },
+  {
+    "id": "photos",
+    "imageOnly": true,
+    "title": "Photos",
+    "subtitle": "New Zealand Herald — Photos",
+    "description": "Photo galleries and the day's images from NZ Herald.",
+    "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/photos/?outputType=xml&_website=nzh"
+  },
+  {
+    "id": "markets-with-madison",
+    "title": "Markets with Madison",
+    "subtitle": "New Zealand Herald — Markets with Madison",
+    "description": "Madison Reidy's markets and business interviews from NZ Herald.",
+    "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/business/markets-with-madison/?outputType=xml&_website=nzh"
   }
 ]

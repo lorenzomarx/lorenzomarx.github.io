@@ -50,7 +50,6 @@ Per-source Python scripts that hit [newsapi.org](https://newsapi.org) and write 
 | `vice`         | `vice-news`               | `everything`†      | `vice.json`              |
 | `washpost`     | `the-washington-post`     | `top-headlines`    | `washpost.json`          |
 | `wired`        | `wired`                   | `top-headlines`    | `wired.json`             |
-| `wsj`          | `the-wall-street-journal` | `top-headlines`    | `wsj.json`               |
 
 † `vice-news` is frozen on `/v2/top-headlines` (returns 2020 articles). The script uses `/v2/everything?sources=vice-news&sortBy=publishedAt` instead, which is still fresh.
 
