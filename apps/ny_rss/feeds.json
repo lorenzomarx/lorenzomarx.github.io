@@ -14,5 +14,21 @@
     "subtitle": "The New York Times — Most Shared",
     "description": "The most shared stories of the moment from The New York Times.",
     "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
+  },
+  {
+    "id": "nyt-us",
+    "group": "NY Times",
+    "title": "US",
+    "subtitle": "The New York Times — US",
+    "description": "US national news, politics and current affairs from The New York Times.",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+  },
+  {
+    "id": "nyt-realestate",
+    "group": "NY Times",
+    "title": "Real Estate",
+    "subtitle": "The New York Times — Real Estate",
+    "description": "Property, housing market and real estate news from The New York Times.",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml"
   }
 ]
