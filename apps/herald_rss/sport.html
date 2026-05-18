@@ -3,70 +3,71 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Herald RSS — Sport</title>
+  <link rel="shortcut icon" href="../../favicon.ico">
+  <title>Herald &middot; Sport &mdash; LMarx</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     :root {
-      --bg: #FFFBE6; --surface: #FFFFFF; --text: #000000;
-      --text-muted: #333333; --text-light: #555555;
-      --red: #FF0000; --blue: #0000FF; --yellow: #FFEB3B; --green: #4ADE80;
-      --border: #000000; --shadow: 5px 5px 0 #000;
-      --font-heading: 'Syncopate', system-ui, sans-serif;
-      --font-body: 'Space Mono', monospace;
+      --pink:#EC4899; --cyan:#06B6D4; --cream:#FDF2F8; --ink:#831843; --black:#0A0A0A;
     }
-    body { font-family: var(--font-body); background: var(--bg); color: var(--text); line-height: 1.6; }
-    header { max-width: 1200px; margin: 0 auto; padding: 2.5rem 1.5rem 2rem; border-bottom: 4px solid var(--border); }
-    header h1 { font-family: var(--font-heading); font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 700; letter-spacing: 0.05em; line-height: 1.1; text-transform: uppercase; }
-    header p { margin-top: 0.5rem; font-size: 0.8rem; font-weight: 700; color: var(--text-muted); letter-spacing: 0.1em; text-transform: uppercase; }
-    .updated { margin-top: 0.25rem; font-size: 0.75rem; color: var(--text-light); font-weight: 400; }
-    .back { display: inline-block; margin-top: 0.75rem; font-size: 0.8rem; font-weight: 700; color: var(--blue); text-decoration: none; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 2px solid var(--blue); }
-    .back:hover { color: var(--red); border-color: var(--red); }
-    main { max-width: 1200px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
-    .grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
-    @media (min-width: 640px) { .grid { grid-template-columns: repeat(2, 1fr); } }
-    @media (min-width: 1024px) {
-      .grid { grid-template-columns: repeat(3, 1fr); }
-      .grid .card:first-child { grid-column: 1 / -1; display: grid; grid-template-columns: 1fr 1fr; gap: 0; }
-      .grid .card:first-child .card-img { height: 100%; min-height: 360px; }
-      .grid .card:first-child .card-body { padding: 2rem; display: flex; flex-direction: column; justify-content: center; }
-      .grid .card:first-child .card-title { font-size: 1.4rem; }
-    }
-    .card { background: var(--surface); border: 3px solid var(--border); box-shadow: var(--shadow); cursor: pointer; display: flex; flex-direction: column; color: inherit; text-decoration: none; opacity: 0; transform: translateY(20px); animation: reveal 0.4s ease forwards; }
-    .card:hover { box-shadow: 8px 8px 0 var(--green); transform: translate(-3px, -3px); }
-    .card:focus { outline: 3px solid var(--blue); outline-offset: 2px; }
-    .card-img { width: 100%; height: 220px; object-fit: cover; display: block; background: #E4E4E7; border-bottom: 3px solid var(--border); }
-    .card-body { padding: 1.25rem; flex: 1; display: flex; flex-direction: column; }
-    .card-meta { font-size: 0.7rem; font-weight: 700; color: var(--red); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.5rem; }
-    .card-title { font-family: var(--font-heading); font-size: 1rem; font-weight: 700; line-height: 1.3; letter-spacing: 0.02em; margin-bottom: 0.5rem; text-transform: uppercase; }
-    .card-desc { font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; flex: 1; }
-    .card-footer { margin-top: 1rem; display: flex; align-items: center; justify-content: space-between; font-size: 0.7rem; font-weight: 700; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.05em; }
-    @keyframes reveal { to { opacity: 1; transform: translateY(0); } }
-    .card:nth-child(1) { animation-delay: 0s; }
-    .card:nth-child(2) { animation-delay: 0.05s; }
-    .card:nth-child(3) { animation-delay: 0.1s; }
-    .card:nth-child(4) { animation-delay: 0.15s; }
-    .card:nth-child(5) { animation-delay: 0.2s; }
-    .card:nth-child(6) { animation-delay: 0.25s; }
-    .card:nth-child(7) { animation-delay: 0.3s; }
-    .card:nth-child(8) { animation-delay: 0.35s; }
-    .card:nth-child(9) { animation-delay: 0.4s; }
-    .card:nth-child(10) { animation-delay: 0.45s; }
-    @media (max-width: 639px) { header { padding: 1.5rem 1rem 1.25rem; } main { padding: 1.25rem 1rem 3rem; } .card-img { height: 180px; } }
-    @media (prefers-reduced-motion: reduce) { .card { animation: none; opacity: 1; transform: none; } .card:hover { transform: none; } }
+    html,body { background:var(--cream); color:var(--black); font-family:'Space Grotesk',sans-serif; line-height:1.5; }
+    a { color:inherit; text-decoration:none; }
+    .brutal-nav { position:sticky; top:0; z-index:100; display:flex; align-items:stretch; justify-content:space-between; background:var(--cream); border-bottom:4px solid var(--black); font-family:'Archivo',sans-serif; font-weight:900; }
+    .brutal-nav a { display:flex; align-items:center; padding:0 1.5rem; height:56px; }
+    .nav-back { border-right:4px solid var(--black); text-transform:uppercase; letter-spacing:0.05em; font-size:0.9rem; }
+    .nav-back:hover { background:var(--black); color:var(--cyan); }
+    .nav-brand { font-size:1.25rem; letter-spacing:-0.02em; text-transform:uppercase; }
+    .nav-brand .brand-source { color:var(--pink); margin-left:0.6rem; font-size:1rem; letter-spacing:0.12em; }
+    header.page-head { max-width:1200px; margin:0 auto; padding:2.5rem 1.5rem 2rem; border-bottom:4px solid var(--black); }
+    header.page-head h1 { font-family:'Archivo',sans-serif; font-weight:900; font-size:clamp(2.5rem,7vw,5rem); line-height:0.9; letter-spacing:-0.04em; text-transform:uppercase; }
+    header.page-head p { margin-top:0.75rem; font-family:'Archivo',sans-serif; font-size:0.8rem; font-weight:700; color:var(--ink); letter-spacing:0.2em; text-transform:uppercase; }
+    .updated { margin-top:0.4rem; font-size:0.8rem; color:var(--ink); }
+    main { max-width:1200px; margin:0 auto; padding:2.5rem 1.5rem 4rem; }
+    .grid { display:grid; grid-template-columns:1fr; gap:4px; background:var(--black); border:4px solid var(--black); }
+    @media (min-width:640px) { .grid { grid-template-columns:repeat(2,1fr); } }
+    @media (min-width:1024px) { .grid { grid-template-columns:repeat(3,1fr); } }
+    .card { background:var(--cream); cursor:pointer; display:flex; flex-direction:column; color:inherit; }
+    .card:hover { background:var(--pink); color:var(--cream); }
+    .card-img { width:100%; height:220px; object-fit:cover; display:block; border-bottom:4px solid var(--black); }
+    .card-body { padding:1.5rem; flex:1; display:flex; flex-direction:column; }
+    .card-meta { font-family:'Archivo',sans-serif; font-size:0.7rem; font-weight:900; color:var(--ink); text-transform:uppercase; letter-spacing:0.15em; margin-bottom:0.6rem; }
+    .card-title { font-family:'Archivo',sans-serif; font-size:1.1rem; font-weight:900; line-height:1.05; letter-spacing:-0.02em; margin-bottom:0.6rem; text-transform:uppercase; }
+    .card-desc { font-size:0.9rem; color:var(--ink); line-height:1.5; flex:1; }
+    .card-footer { margin-top:1.25rem; display:flex; align-items:center; justify-content:space-between; font-family:'Archivo',sans-serif; font-size:0.7rem; font-weight:900; color:var(--ink); text-transform:uppercase; letter-spacing:0.1em; }
+    .card:hover .card-meta, .card:hover .card-desc, .card:hover .card-footer { color:var(--cream); }
+    footer.brutal-foot { background:var(--black); color:var(--cream); font-family:'Archivo',sans-serif; font-weight:700; padding:1.5rem; display:flex; justify-content:space-between; align-items:center; font-size:0.9rem; letter-spacing:0.1em; text-transform:uppercase; }
+    footer.brutal-foot .dot { color:var(--pink); }
+    footer.brutal-foot a:hover { color:var(--cyan); }
+    @media (max-width:639px) { header.page-head { padding:1.5rem 1rem 1.25rem; } main { padding:1.25rem 1rem 3rem; } .card-img { height:180px; } }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Herald RSS</h1>
+  <nav class="brutal-nav">
+    <a class="nav-back" href="index.html">&larr; All Feeds</a>
+    <a class="nav-brand" href="index.html">HERALD <span class="brand-source">&middot; Sport</span></a>
+  </nav>
+  <header class="page-head">
+    <h1>Sport</h1>
     <p>New Zealand Herald — Sport</p>
     <div class="updated">Updated Monday, 18 May 2026</div>
-    <a class="back" href="index.html">&larr; All feeds</a>
   </header>
   <main>
     <div class="grid">
+      <a class="card" href="https://www.nzherald.co.nz/sport/golf/pga-championship-furious-rory-mcilroy-in-x-rated-outburst-at-heckler/UG2A642N2RFOLMAPWXRWHDPLKM/" target="_blank" rel="noopener">
+        <img class="card-img" src="https://www.nzherald.co.nz/resizer/v2/KBFNO3TLB5GLFBIEFHGKILXOSY.jpg?auth=b981bc2c2d6708a504acd743948bbf51494a14f34d291be9a0144db978d5d0c4&amp;smart=true&amp;width=800&amp;height=600" alt="PGA Championship: Furious Rory McIlroy in X-rated outburst at heckler" loading="lazy">
+        <div class="card-body">
+          <div class="card-meta">James Corrigan</div>
+          <h2 class="card-title">PGA Championship: Furious Rory McIlroy in X-rated outburst at heckler</h2>
+          <p class="card-desc">Rory McIlroy told the fan to &#x27;shut the f*** up&#x27; after a loud &#x27;USA&#x27; chant.</p>
+          <div class="card-footer">
+            <time>18 May 2026</time>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l9.2-9.2M17 17V8H8"/></svg>
+          </div>
+        </div>
+      </a>
       <a class="card" href="https://www.nzherald.co.nz/rotorua-daily-post/news/michael-voss-breaks-hawkes-bay-marathon-record-in-napier-win/V5FRO74YTBFILIFI3IWUELDO6I/" target="_blank" rel="noopener">
         <img class="card-img" src="https://www.nzherald.co.nz/resizer/v2/HHPCWFGAD5BRPDNE2AVMPAV5UI.jpg?auth=f8ed13e0faee193555749663ec2c9b64119348b76d8a161eb36f5702dca487cb&amp;smart=true&amp;width=800&amp;height=600" alt="Rotorua’s Michael Voss breaks Hawke’s Bay Marathon record in Napier win" loading="lazy">
         <div class="card-body">
@@ -189,5 +190,9 @@
       </a>
     </div>
   </main>
+  <footer class="brutal-foot">
+    <span>HERALD<span class="dot">.</span></span>
+    <a href="../../newsly/index.html">&larr; Newsly</a>
+  </footer>
 </body>
 </html>

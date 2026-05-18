@@ -3,46 +3,51 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Herald RSS</title>
+  <link rel="shortcut icon" href="../../favicon.ico">
+  <title>Herald &mdash; LMarx</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     :root {
-      --bg: #FFFBE6; --surface: #FFFFFF; --text: #000000;
-      --text-muted: #333333; --text-light: #555555;
-      --red: #FF0000; --blue: #0000FF; --yellow: #FFEB3B; --green: #4ADE80;
-      --border: #000000; --shadow: 5px 5px 0 #000;
-      --font-heading: 'Syncopate', system-ui, sans-serif;
-      --font-body: 'Space Mono', monospace;
+      --pink:#EC4899; --cyan:#06B6D4; --cream:#FDF2F8; --ink:#831843; --black:#0A0A0A;
     }
-    body { font-family: var(--font-body); background: var(--bg); color: var(--text); line-height: 1.6; min-height: 100vh; display: flex; flex-direction: column; }
-    header { max-width: 1200px; margin: 0 auto; padding: 2.5rem 1.5rem 2rem; border-bottom: 4px solid var(--border); width: 100%; }
-    header h1 { font-family: var(--font-heading); font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 700; letter-spacing: 0.05em; line-height: 1.1; text-transform: uppercase; }
-    header p { margin-top: 0.5rem; font-size: 0.8rem; font-weight: 700; color: var(--text-muted); letter-spacing: 0.1em; text-transform: uppercase; }
-    main { max-width: 1200px; margin: 0 auto; padding: 3rem 1.5rem 4rem; width: 100%; flex: 1; }
-    .feeds { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
-    @media (min-width: 640px) { .feeds { grid-template-columns: repeat(2, 1fr); } }
-    .feed-card { background: var(--surface); border: 3px solid var(--border); box-shadow: var(--shadow); padding: 2.5rem 2rem; text-decoration: none; color: inherit; cursor: pointer; display: flex; flex-direction: column; gap: 0.75rem; opacity: 0; transform: translateY(20px); animation: reveal 0.4s ease forwards; }
-    .feed-card:nth-child(1) { animation-delay: 0s; }
-    .feed-card:nth-child(2) { animation-delay: 0.1s; }
-    .feed-card:nth-child(3) { animation-delay: 0.2s; }
-    .feed-card:nth-child(4) { animation-delay: 0.3s; }
-    .feed-card:hover { box-shadow: 8px 8px 0 var(--green); transform: translate(-3px, -3px); }
-    .feed-card:focus { outline: 3px solid var(--red); outline-offset: 2px; }
-    .feed-card h2 { font-family: var(--font-heading); font-size: 1.2rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
-    .feed-card p { color: var(--text-muted); font-size: 0.85rem; }
-    .feed-card .arrow { margin-top: auto; color: var(--red); display: flex; align-items: center; gap: 0.4rem; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; }
-    @keyframes reveal { to { opacity: 1; transform: translateY(0); } }
-    @media (max-width: 639px) { header { padding: 1.5rem 1rem 1.25rem; } main { padding: 2rem 1rem 3rem; } }
-    @media (prefers-reduced-motion: reduce) { .feed-card { animation: none; opacity: 1; transform: none; } .feed-card:hover { transform: none; } }
+    html,body { background:var(--cream); color:var(--black); font-family:'Space Grotesk',sans-serif; line-height:1.5; min-height:100vh; display:flex; flex-direction:column; }
+    a { color:inherit; text-decoration:none; }
+    .brutal-nav { position:sticky; top:0; z-index:100; display:flex; align-items:stretch; justify-content:space-between; background:var(--cream); border-bottom:4px solid var(--black); font-family:'Archivo',sans-serif; font-weight:900; }
+    .brutal-nav a { display:flex; align-items:center; padding:0 1.5rem; height:56px; }
+    .nav-back { border-right:4px solid var(--black); text-transform:uppercase; letter-spacing:0.05em; font-size:0.9rem; }
+    .nav-back:hover { background:var(--black); color:var(--cyan); }
+    .nav-brand { font-size:1.25rem; letter-spacing:-0.02em; text-transform:uppercase; }
+    .nav-brand .brand-source { color:var(--pink); margin-left:0.6rem; font-size:1rem; letter-spacing:0.12em; }
+    header.page-head { max-width:1200px; margin:0 auto; padding:2.5rem 1.5rem 2rem; border-bottom:4px solid var(--black); width:100%; }
+    header.page-head h1 { font-family:'Archivo',sans-serif; font-weight:900; font-size:clamp(2.5rem,8vw,6rem); line-height:0.85; letter-spacing:-0.04em; text-transform:uppercase; }
+    header.page-head p { margin-top:0.75rem; font-family:'Archivo',sans-serif; font-size:0.8rem; font-weight:700; color:var(--ink); letter-spacing:0.2em; text-transform:uppercase; }
+    main { max-width:1200px; margin:0 auto; padding:3rem 1.5rem 4rem; width:100%; flex:1; }
+    .feeds { display:grid; grid-template-columns:1fr; gap:4px; background:var(--black); border:4px solid var(--black); }
+    @media (min-width:640px) { .feeds { grid-template-columns:repeat(2,1fr); } }
+    .feed-card { background:var(--cream); padding:2.5rem 2rem; color:inherit; cursor:pointer; display:flex; flex-direction:column; gap:0.75rem; min-height:220px; }
+    .feed-card:hover { background:var(--cyan); color:var(--black); }
+    .feed-card h2 { font-family:'Archivo',sans-serif; font-size:1.8rem; font-weight:900; letter-spacing:-0.02em; text-transform:uppercase; line-height:0.95; }
+    .feed-card p { color:var(--ink); font-size:0.95rem; }
+    .feed-card:hover p { color:var(--black); }
+    .feed-card .arrow { margin-top:auto; color:var(--pink); display:flex; align-items:center; gap:0.4rem; font-family:'Archivo',sans-serif; font-size:0.8rem; font-weight:900; text-transform:uppercase; letter-spacing:0.1em; }
+    .feed-card:hover .arrow { color:var(--black); }
+    footer.brutal-foot { background:var(--black); color:var(--cream); font-family:'Archivo',sans-serif; font-weight:700; padding:1.5rem; display:flex; justify-content:space-between; align-items:center; font-size:0.9rem; letter-spacing:0.1em; text-transform:uppercase; }
+    footer.brutal-foot .dot { color:var(--pink); }
+    footer.brutal-foot a:hover { color:var(--cyan); }
+    @media (max-width:639px) { header.page-head { padding:1.5rem 1rem 1.25rem; } main { padding:2rem 1rem 3rem; } }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Herald RSS</h1>
-    <p>New Zealand Herald — RSS Feed Reader</p>
+  <nav class="brutal-nav">
+    <a class="nav-back" href="../../newsly/index.html">&larr; Newsly</a>
+    <a class="nav-brand" href="index.html">HERALD <span class="brand-source">&middot; RSS</span></a>
+  </nav>
+  <header class="page-head">
+    <h1>Herald</h1>
+    <p>New Zealand Herald &mdash; RSS Feeds</p>
   </header>
   <main>
     <div class="feeds">
@@ -72,5 +77,9 @@
       </a>
     </div>
   </main>
+  <footer class="brutal-foot">
+    <span>HERALD<span class="dot">.</span></span>
+    <a href="../../newsly/index.html">&larr; Newsly</a>
+  </footer>
 </body>
 </html>

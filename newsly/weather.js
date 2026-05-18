@@ -1,23 +1,54 @@
-const urlNews = "https://lorenzomarx.github.io/newsly/api/aljazApi/aljaz.json";
+// Featured · Random — a random article image (linked to its article) from a
+// random Newsly source. If a source returns no image it's skipped and another
+// is tried, so the panel is never left blank.
+const feeds = [
+    "https://lorenzomarx.github.io/newsly/api/aljazApi/aljaz.json",
+    "https://lorenzomarx.github.io/newsly/api/ap/ap.json",
+    "https://lorenzomarx.github.io/newsly/api/bbcApi/bbc.json",
+    "https://lorenzomarx.github.io/newsly/api/bbcSport/bbcsport.json",
+    "https://lorenzomarx.github.io/newsly/api/bloomberg/bloomberg.json",
+    "https://lorenzomarx.github.io/newsly/api/breaking_us/breaking_us.json",
+    "https://lorenzomarx.github.io/newsly/api/cnn/cnn.json",
+    "https://lorenzomarx.github.io/newsly/api/huffington/huff.json",
+    "https://lorenzomarx.github.io/newsly/api/techradar/techradar.json",
+    "https://lorenzomarx.github.io/newsly/api/vice/vice.json",
+    "https://lorenzomarx.github.io/newsly/api/washpost/washpost.json",
+    "https://lorenzomarx.github.io/newsly/api/wired/wired.json",
+    "https://lorenzomarx.github.io/newsly/api/wsj/wsj.json",
+];
 
 function setup() {
     noCanvas();
-    loadJSON(urlNews, gotData, showError);
+    tryFeeds(shuffle(feeds));
 }
 
-function gotData(data) {
-    const articles = (data && data.articles) || [];
-    if (!articles.length) {
+function tryFeeds(queue) {
+    if (!queue.length) {
         showError();
         return;
     }
-    const pick = articles[floor(random(articles.length))];
-    if (!pick.urlToImage) {
-        showError();
-        return;
-    }
-    const img = createImg(pick.urlToImage, pick.title || "Featured article");
-    img.parent('result');
+    loadJSON(
+        queue[0],
+        data => {
+            const withImages = (((data && data.articles) || [])
+                .filter(a => a && a.urlToImage));
+            if (!withImages.length) {
+                tryFeeds(queue.slice(1));
+                return;
+            }
+            const pick = random(withImages);
+            const img = createImg(pick.urlToImage, pick.title || "Featured article");
+            if (pick.url) {
+                const link = createA(pick.url, "", "_blank");
+                link.attribute("rel", "noopener");
+                link.parent("result");
+                img.parent(link);
+            } else {
+                img.parent("result");
+            }
+        },
+        () => tryFeeds(queue.slice(1))
+    );
 }
 
 function showError() {
