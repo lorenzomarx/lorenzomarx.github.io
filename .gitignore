@@ -10,3 +10,7 @@ push.bat
 # Claude Code session-local config
 .claude/
 CLAUDE.md
+
+# Python bytecode cache
+__pycache__/
+*.pyc
