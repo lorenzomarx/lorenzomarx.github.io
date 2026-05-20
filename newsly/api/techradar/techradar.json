@@ -1,30 +1,121 @@
 {
   "articles": [
     {
-      "author": "Demi Williams",
-      "content": "<ul><li>Steam tags have received a huge overhaul for discoverability purposes</li><li>Valve has added 17 new tags, removed 28, and some have been merged</li><li>Removed tags \"no longer serve a good p\u2026 [+3517 chars]",
-      "description": "Valve has made some huge changes to Steam's discoverability feature by introducing new tags, removing some, and merging a bunch from the digital storefront.",
-      "publishedAt": "2026-05-19T15:40:08Z",
+      "author": "Efosa Udinmwen",
+      "content": "<ul><li>Huawei-linked LineShine supercomputer crams 2.45 million Arm cores into one enormous AI cluster</li><li>Huawei's processors power one of China\u2019s largest AI computing installations today</li><\u2026 [+3387 chars]",
+      "description": "China\u2019s newest AI supercomputer skips GPUs entirely and still delivers staggering exaflop-level performance",
+      "publishedAt": "2026-05-19T19:20:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Steam gets huge tags overhaul for tailored recommendations and 'helping players identify the games that best fit their interests'",
-      "url": "https://www.techradar.com/gaming/steam-gets-huge-tags-overhaul-for-tailored-recommendations-and-helping-players-identify-the-games-that-best-fit-their-interests",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bx8fPhUoHLYdN39sZtNWZk-1920-80.jpg"
+      "title": "China unveils a CPU-only supercomputer capable of 1.54 exaflops \u2014 LineShine LX2 packs a frankly ridiculous 2.4 million Armv9 cores from Huawei",
+      "url": "https://www.techradar.com/pro/china-unveils-a-cpu-only-supercomputer-capable-of-1-54-exaflops-lineshine-lx2-packs-a-frankly-ridiculous-2-4-million-armv9-cores-from-huawei",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RkTyqhadQmCJFwLLP34XLL-1920-80.png"
     },
     {
-      "author": "Sead Fadilpa\u0161i\u0107",
-      "content": "<ul><li>A public GitHub repository called \u201cPrivate\u2011CISA\u201d exposed highly sensitive internal credentials and systems used by the US Cybersecurity and Infrastructure Security Agency</li><li>Security res\u2026 [+3097 chars]",
-      "description": "\"One of the most egregious government data leaks in recent history\"",
-      "publishedAt": "2026-05-19T15:20:00Z",
+      "author": "Hamish Hector",
+      "content": "<ul><li>Google announced Verify AI at Google I/O 2026</li><li>It allows Gemini to identify if and how content was altered by AI</li><li>Verify AI is being supported by Nvidia, OpenAI, and others</li>\u2026 [+2968 chars]",
+      "description": "\"Gemini, is this made by AI?\"",
+      "publishedAt": "2026-05-19T19:00:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "CISA contractor apparently leaked 'highly sensitive' government AWS keys on Github",
-      "url": "https://www.techradar.com/pro/security/cisa-contractor-apparently-leaked-highly-sensitive-government-aws-keys-on-github",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yga3LG7XiRJcCatEoQaGuG-2560-80.png"
+      "title": "Google Gemini's Verify AI might finally solve my online image trust issues \u2014 especially with support from Nvidia and OpenAI",
+      "url": "https://www.techradar.com/tech/google-geminis-verify-ai-might-finally-solve-my-online-image-trust-issues-especially-with-support-from-nvidia-and-openai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6zafLrb5gmaHroVyLndu4D-1920-80.jpg"
+    },
+    {
+      "author": "Rowan Davies",
+      "content": "<ul><li>YouTube is rolling out its likeness detection tool to all channel owners over age 18</li><li>It's designed to detect if your identity is being used in AI-generated content </li><li>You have t\u2026 [+3975 chars]",
+      "description": "YouTube's likeness detection tool is rolling out to all channel owners, but you need to submit government-issued ID to get started.",
+      "publishedAt": "2026-05-19T19:00:00Z",
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "title": "YouTube is rolling out its \u2018industry-first\u2019 likeness detection tool to all channel owners, and not just big content creators \u2014 but you\u2019ll need to share your government-issued ID if you want the added layer of protection",
+      "url": "https://www.techradar.com/computing/software/youtube-is-rolling-out-its-industry-first-likeness-detection-tool-to-all-channel-owners-and-not-just-big-content-creators-but-youll-need-to-share-your-government-issued-id-if-you-want-the-added-layer-of-protection",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wb76YN5qBHb9HsVX5coWLL-594-80.jpg"
+    },
+    {
+      "author": "Jason Cipriani",
+      "content": "Google Search has been around for decades, but even with updates along the way, nothing compares to the scale of what was unveiled today at Google I/O 2026, and it's all thanks to AI. Google revealed\u2026 [+6100 chars]",
+      "description": "Gemini is everywhere",
+      "publishedAt": "2026-05-19T18:59:03Z",
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "title": "Google Search is getting its biggest upgrade in decades \u2014 here are the 5 best new features",
+      "url": "https://www.techradar.com/computing/websites-apps/google-search-is-getting-its-biggest-upgrade-in-decades-here-are-the-5-best-new-features",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yjgDbaPyEXLe4J2E5FRFPi-1702-80.jpg"
+    },
+    {
+      "author": "Craig Hale",
+      "content": "<ul><li>Brands with no Trustpilot account only appeared in 1% of AI-generated answers</li><li>Review and trust platforms are the second-most cited source type</li><li>Relevance, recency and ranking a\u2026 [+4028 chars]",
+      "description": "Embracing customer reviews boosts visibility considerably, showing how engaging with customers where they are is even more important.",
+      "publishedAt": "2026-05-19T18:50:00Z",
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "title": "Is your business not showing up in AI overviews? Trustpilot thinks it could be because you're not doing this one thing",
+      "url": "https://www.techradar.com/pro/is-your-business-not-showing-up-in-ai-overviews-trustpilot-thinks-it-could-be-because-youre-not-doing-this-one-thing",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dhuaJQQCDzJk5vEgKP9hpj-1920-80.jpg"
+    },
+    {
+      "author": "Eric Hal Schwartz",
+      "content": "<ul><li>Google used I/O 2026 to unveil a sweeping expansion of Gemini.</li><li>Gemini is expanding across Search, Android, shopping, productivity, and AI agents.</li><li>New features like Gemini Spar\u2026 [+8760 chars]",
+      "description": "Google\u2019s AI future looks helpful, powerful, and slightly exhausting",
+      "publishedAt": "2026-05-19T18:33:24Z",
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "title": "Google I/O 2026 made one thing clear \u2014 Gemini is becoming impossible to avoid",
+      "url": "https://www.techradar.com/ai-platforms-assistants/google-i-o-2026-made-one-thing-clear-gemini-is-becoming-impossible-to-avoid",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vzs9QMhffCvzg2EWxjrjrJ-1920-80.jpg"
+    },
+    {
+      "author": "Hamish Hector",
+      "content": "<ul><li>Samsung's first XR glasses are here... kinda</li><li>Gentle Monster and Warby Parker are behind the designs</li><li>The glasses are launching later this year</li></ul>\r\nSamsung has lifted the\u2026 [+4320 chars]",
+      "description": "Google I/O showed us the first Samsung Android XR glasses",
+      "publishedAt": "2026-05-19T18:15:00Z",
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "title": "Warby Parker and Gentle Monster finally showed us their Samsung XR glasses \u2014 but forgot to tell us when they\u2019ll release, or how much they\u2019ll cost",
+      "url": "https://www.techradar.com/tech/warby-parker-and-gentle-monster-finally-showed-us-their-samsung-xr-glasses-but-forgot-to-tell-us-when-theyll-release-or-how-much-theyll-cost",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nZt9VNpjYqjnHRAmfETgBf-2000-80.png"
+    },
+    {
+      "author": "Jasmine Valentine",
+      "content": "Deborah (Jean Smart) is only one week away from disappearing from the public eye forever, and she needs to sell out Madison Square Gardens in order to fulfill her final career goal.\r\nI'm still not ov\u2026 [+1797 chars]",
+      "description": "Deborah is desperately trying to get her Madison Square Garden ticket sales moving, despite being tough graft. But when does Hacks season 5 episode 9 drop on HBO Max?",
+      "publishedAt": "2026-05-19T18:00:00Z",
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "title": "What is the release date for Hacks season 5 episode 9 on HBO Max?",
+      "url": "https://www.techradar.com/streaming/hbo-max/hacks-season-5-episode-9-release-date-time",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MyK6hnHJ32sbKjWJrFWqwG-1920-80.jpg"
+    },
+    {
+      "author": "Alex Blake",
+      "content": "<ul><li>Google has launched a new Universal Cart shopping tool</li><li>It works in the background to find deals and analyze your purchases</li><li>It\u2019s powered by Google\u2019s Gemini AI model</li></ul>\r\n\u2026 [+3388 chars]",
+      "description": "Google\u2019s new Universal Cart taps into AI to help you get better online shopping deals at checkout.",
+      "publishedAt": "2026-05-19T18:00:00Z",
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "title": "Google\u2019s Universal Cart uses Gemini AI to find deals and product restocks \u2014 and it might change the way you shop forever",
+      "url": "https://www.techradar.com/ai-platforms-assistants/googles-universal-cart-uses-gemini-ai-to-find-deals-and-product-restocks-and-it-might-change-the-way-you-shop-forever",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HN34rUK9GT9PvHDBsMUW24-1821-80.jpg"
     },
     {
       "author": "https://www.techradar.com/author/axel-metz",
@@ -38,97 +129,6 @@
       "title": "Google I/O 2026 \u2014 live updates from today's massive software showcase, with Gemini, Android XR and more expected to get big upgrades",
       "url": "https://www.techradar.com/news/live/google-io-2026-live",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/CEYUDbzfDtYAq3o6XeydjA-2000-80.jpg"
-    },
-    {
-      "author": "Demi Williams",
-      "content": "<ul><li>World of Tanks: HEAT launches on May 26 for PC, PS5, Xbox Series X, and Series S</li><li>The game also supports cross-platform play and progression</li><li>HEAT is a new standalone entry feat\u2026 [+2461 chars]",
-      "description": "Waragaming Group has announced that World of Tanks: HEAT, its new free-to-play vehicle shooter, will officially launch on May 26, 2026.",
-      "publishedAt": "2026-05-19T15:00:00Z",
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "title": "World of Tanks: HEAT, Wargaming's new standalone and free-to-play tactical vehicle shooter, officially launches later this month",
-      "url": "https://www.techradar.com/gaming/world-of-tanks-heat-wargamings-new-standalone-and-free-to-play-tactical-vehicle-shooter-officially-launches-later-this-month",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4M3Dpbn89DqWKZJDp7SKFT-1920-80.jpg"
-    },
-    {
-      "author": "Rene Millman",
-      "content": "<ul><li>Tor Project and Funding the Commons launch a Web3-native crowdfunding</li><li>The initiative seeks to support 10 internet freedom nonprofits</li><li>People can donate to projects using crypto\u2026 [+4097 chars]",
-      "description": "The Tor Project and Funding the Commons have launched a Web3-native campaign to financially support 10 crucial technologies",
-      "publishedAt": "2026-05-19T15:00:00Z",
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "title": "Worried about the future of the internet? Tor launches crypto-powered fundraising initiative to secure internet freedoms \u2014 and your vote matters more than your wallet size",
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/worried-about-the-future-of-the-internet-tor-launches-crypto-powered-fundraising-initiative-to-secure-internet-freedoms-and-your-vote-matters-more-than-your-wallet-size",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XqocWiCbn4bHGsGz6mgY-1200-80.png"
-    },
-    {
-      "author": "Sead Fadilpa\u0161i\u0107",
-      "content": "<ul><li>NYC Health + Hospitals confirms cyberattack exposed sensitive data on 1.8 million individuals</li><li>Stolen information includes medical records, government IDs, geolocation data, and biomet\u2026 [+3034 chars]",
-      "description": "Fingerprints and palm prints can never be changed, which makes this attack that much more dangerous.",
-      "publishedAt": "2026-05-19T14:25:00Z",
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "title": "NYC Health + Hospitals says mega data breach allowed hackers to steal personal data, medical records, and fingerprints scans of around 1.8 million people",
-      "url": "https://www.techradar.com/pro/security/nyc-health-hospitals-says-mega-data-breach-allowed-hackers-to-steal-personal-data-medical-records-and-fingerprints-scans-of-around-1-8-million-people",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q9CuKYNApUvqUvU9hG9G7N-1920-80.jpg"
-    },
-    {
-      "author": "Rene Millman",
-      "content": "<ul><li>A researcher found Mullvad's WireGuard exit IP may enable fingerprinting</li><li>Mullvad's co-founder confirmed an upcoming patch to address any issues</li><li>Mullvad will also re-evaluate i\u2026 [+3540 chars]",
-      "description": "A security researcher discovered that Mullvad\u2019s WireGuard exit IP assignments follow a predictable pattern, but the privacy-focused provider is already rolling out a fix.",
-      "publishedAt": "2026-05-19T14:16:51Z",
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "title": "'Some aspects are as we intended and some are not' \u2014 Mullvad addresses WireGuard exit-IP fingerprinting concern after researcher flags privacy risk",
-      "url": "https://www.techradar.com/vpn/vpn-services/some-aspects-are-as-we-intended-and-some-are-not-mullvad-addresses-wireguard-exit-ip-fingerprinting-concern-after-researcher-flags-privacy-risk",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JhREgRH5uPRCdcKqDqxEAH-2498-80.jpg"
-    },
-    {
-      "author": "Grace Dean, Jasmine Valentine",
-      "content": "Boys of Tommen: key information\r\n- Announced in February- No release date yet- Plot will be based on Chloe Walsh's first two books of the series- Eight episodes to be released- Poppy Cogan will be th\u2026 [+5359 chars]",
-      "description": "A TV adaptation of Boys of Tommen is officially on the way \u2013 here's everything we know so far, from release date prediction, trailer, possible cast, plot rumors and more.",
-      "publishedAt": "2026-02-23T14:57:48Z",
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "title": "Boys of Tommen \u2014 confirmed cast and everything we know so far about the Prime Video TV series adaptation",
-      "url": "https://www.techradar.com/streaming/amazon-prime-video/boys-of-tommen",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NT3wBNEZPhQTebDuDXAZ2Z-1920-80.jpg"
-    },
-    {
-      "author": "Grace Dean, Jasmine Valentine",
-      "content": "- Arriving on Prime Video on July 1, 2026- A prequel spinoff TV show of '00s movie, Legally Blonde- Lexi Minetree will star as Elle Woods- Plot will follow Elle Woods' high school years- First offici\u2026 [+5293 chars]",
-      "description": "Legally Blonde prequel Elle arrives on Prime Video this July. Here's everything we know so far, including release date, trailer and full cast.",
-      "publishedAt": "2025-06-29T11:00:00Z",
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "title": "Elle: release date, cast and everything we know about Prime Video's Legally Blonde prequel TV show",
-      "url": "https://www.techradar.com/streaming/amazon-prime-video/elle",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fwPwjLDWGgJePz3MUQd6sn-1320-80.jpg"
-    },
-    {
-      "author": "Mike Moore",
-      "content": "The AI Summit London\r\nJune 10th-11th, London\r\nHeading into its 10th annual edition, the Summit delivers cutting-edge insights, high\u2011value connections and strategies to accelerate AI\u2011driven growth \u2013 w\u2026 [+178 chars]",
-      "description": "Our list of the top tech events you need to know about",
-      "publishedAt": "2022-12-09T09:55:13Z",
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "title": "Top tech conferences: The ultimate tech events guide for May 2026",
-      "url": "https://www.techradar.com/news/top-tech-conferences-the-ultimate-tech-events-and-show-guide",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6pUX43m2FGXVS6dX8pvhnK-970-80.jpg"
     }
   ],
   "status": "ok",
