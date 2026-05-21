@@ -9,8 +9,8 @@ from xml.etree import ElementTree as ET
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 FEEDS_PATH = os.path.join(SCRIPT_DIR, "feeds.json")
-HERALD_DIR = os.path.join(SCRIPT_DIR, "nzherald")
-DATA_DIR = os.path.join(HERALD_DIR, "data")
+NYT_DIR = os.path.join(SCRIPT_DIR, "nytimes")
+DATA_DIR = os.path.join(NYT_DIR, "data")
 MAX_ARTICLES = 20
 RETENTION_DAYS = 3
 
@@ -161,16 +161,16 @@ def generate_feed_html(feed, articles, all_feeds):
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="../../../favicon.ico">
-    <title>NZ News &middot; {e(feed['title'])} &mdash; LMarx</title>
+    <link rel="shortcut icon" href="../../../../favicon.ico">
+    <title>NY Times &middot; {e(feed['title'])} &mdash; LMarx</title>
 
-    <link href="../../../newsly/news.css" rel="stylesheet">
+    <link href="../../../../newsly/news.css" rel="stylesheet">
 </head>
 <body>
 
     <nav class="brutal-nav">
-        <a class="nav-back" href="../index.html">&larr; NZ NEWS</a>
-        <a class="nav-brand" href="../index.html">NZ NEWS <span class="brand-source">&middot; {e(feed['title'])}</span></a>
+        <a class="nav-back" href="../index.html">&larr; NY TIMES</a>
+        <a class="nav-brand" href="../index.html">NY TIMES <span class="brand-source">&middot; {e(feed['title'])}</span></a>
     </nav>
 
     <nav class="source-strip">
@@ -184,7 +184,7 @@ def generate_feed_html(feed, articles, all_feeds):
     </section>
 
     <footer class="brutal-foot">
-        <div class="foot-mark">NZ NEWS<span class="dot">.</span></div>
+        <div class="foot-mark">NY TIMES<span class="dot">.</span></div>
         <a href="../index.html">&larr; All feeds</a>
     </footer>
 
@@ -196,15 +196,15 @@ def generate_feed_html(feed, articles, all_feeds):
 def generate_index(feeds):
     e = html.escape
 
-    # Bucket feeds by their "group" (default "NZ Herald"), first-seen order.
+    # Bucket feeds by their "group" (default "NY Times"), first-seen order.
     grouped = {}
     for feed in feeds:
-        grouped.setdefault(feed.get("group", "NZ Herald"), []).append(feed)
+        grouped.setdefault(feed.get("group", "NY Times"), []).append(feed)
 
     dropdowns = []
     for gname, gfeeds in grouped.items():
         links = "\n".join(
-            f"""        <a class="drop-item" href="nzherald/{e(f['id'])}.html">{e(f['title'])}<span class="drop-arrow">&rarr;</span></a>"""
+            f"""        <a class="drop-item" href="nytimes/{e(f['id'])}.html">{e(f['title'])}<span class="drop-arrow">&rarr;</span></a>"""
             for f in gfeeds
         )
         dropdowns.append(f"""    <details class="drop">
@@ -239,28 +239,28 @@ def generate_index(feeds):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" href="../../favicon.ico">
-  <title>NZ News &mdash; LMarx</title>
+  <link rel="shortcut icon" href="../../../favicon.ico">
+  <title>NY Times &mdash; LMarx</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="nzherald.css">
+  <link rel="stylesheet" href="nytimes.css">
 </head>
 <body class="nz-hub">
   <nav class="brutal-nav">
-    <a class="nav-back" href="../../newsly/index.html">&larr; Newsly</a>
-    <a class="nav-brand" href="index.html">HERALD <span class="brand-source">&middot; RSS</span></a>
+    <a class="nav-back" href="../../../newsly/index.html">&larr; Newsly</a>
+    <a class="nav-brand" href="index.html">NY TIMES <span class="brand-source">&middot; RSS</span></a>
   </nav>
   <header class="page-head">
-    <h1>NZ News</h1>
-    <p>New Zealand Herald &mdash; RSS Feeds</p>
+    <h1>NY Times</h1>
+    <p>The New York Times &mdash; RSS Feeds</p>
   </header>
   <main>
 {featured}{dropdowns_html}
   </main>
   <footer class="brutal-foot">
-    <span>HERALD<span class="dot">.</span></span>
-    <a href="../../newsly/index.html">&larr; Newsly</a>
+    <span>NY TIMES<span class="dot">.</span></span>
+    <a href="../../../newsly/index.html">&larr; Newsly</a>
   </footer>
 </body>
 </html>"""
@@ -293,7 +293,7 @@ def main():
         save_data(fid, pruned)
 
         html_content = generate_feed_html(feed, pruned, feeds)
-        out_path = os.path.join(HERALD_DIR, f"{fid}.html")
+        out_path = os.path.join(NYT_DIR, f"{fid}.html")
         with open(out_path, "w", encoding="utf-8") as f:
             f.write(html_content)
         print(f"[{fid}] Wrote {out_path}")
