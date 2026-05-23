@@ -24,7 +24,7 @@ REPO = Path(__file__).resolve().parent
 def jobs():
     """(label, script) pairs: newsapi first, then each apps/*_rss app."""
     yield ("Newsly newsapi sources", REPO / "newsly" / "api" / "refresh_all.py")
-    for update in sorted((REPO / "apps").glob("*_rss/update.py")):
+    for update in sorted((REPO / "dev" / "rss").glob("*_rss/update.py")):
         yield (f"RSS · {update.parent.name}", update)
 
 

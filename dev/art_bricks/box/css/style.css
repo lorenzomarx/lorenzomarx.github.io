@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,500');
+
+* {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Quicksand', sans-serif;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  font-weight: 500;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  font-size: 19vmin;
+  -webkit-transform: translateX(-50.3%) translateY(-52%);
+          transform: translateX(-50.3%) translateY(-52%);
+  cursor: pointer;
+}
+
+#dot {
+  color: #EA1066;
+  font-family: times-new-roman, serif;
+  font-size: 10vmin;
+}
+
+#js {
+  color: #AAA;
+  font-weight: 300;
+}
+
+p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(calc(-50% + 29.5vmin), calc(-50% - 3.8vmin));
+          transform: translate(calc(-50% + 29.5vmin), calc(-50% - 3.8vmin));
+  font-size: 3vmin;
+  font-weight: 300;
+  width: 12vmin;
+  text-align: center;
+  color: #777;
+  cursor: pointer;
+}
+
+h2 {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  font-size: 10vmin;
+  font-weight: 300;
+  box-sizing: border-box;
+  border: 0.4vmin dashed black;
+  border-radius: 200px;
+  background-color: #EEE;
+  padding: 0 6vmin;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+sup {
+  font-size: 6vmin;
+}
+
+h2:hover {
+  background-color: black;
+  border: 0.4vmin dashed white;
+  color: white;
+}

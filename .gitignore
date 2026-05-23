@@ -6,6 +6,7 @@ push.bat
 
 # Secrets — never commit. Use .env.example as the template.
 .env
+dev/art_bricks/config.js
 
 # Claude Code session-local config
 .claude/
