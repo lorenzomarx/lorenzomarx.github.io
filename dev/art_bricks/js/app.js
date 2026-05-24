@@ -47,8 +47,8 @@
   };
 
   var engine = Engine.create({
-    positionIterations: 10,
-    velocityIterations: 8,
+    positionIterations: 12,
+    velocityIterations: 10,
     constraintIterations: 4
   });
   engine.world.gravity.y = 1;
@@ -254,20 +254,31 @@
     if (changed) updateHud();
   });
 
-  // ── Settle to static ──
+  // ── Velocity damping ──
+  // Kill residual jitter without making bodies static.
+  // Bodies stay dynamic — grabbable, collidable, reactive — but
+  // micro-oscillations are squashed aggressively.
 
   Events.on(engine, 'afterUpdate', function () {
     for (var i = 0; i < pieces.length; i++) {
       var p = pieces[i];
       if (p.isStatic || p._grabbed) continue;
-      var speed = Math.sqrt(p.velocity.x * p.velocity.x + p.velocity.y * p.velocity.y);
-      if (speed < 0.3) {
-        p._restTicks = (p._restTicks || 0) + 1;
-      } else {
-        p._restTicks = 0;
+      var vx = p.velocity.x;
+      var vy = p.velocity.y;
+      var speed = Math.sqrt(vx * vx + vy * vy);
+      var av = Math.abs(p.angularVelocity);
+
+      if (speed < 0.5) {
+        var damp = 0.05;
+        Body.setVelocity(p, { x: vx * damp, y: vy * damp });
+      } else if (speed < 1.5) {
+        Body.setVelocity(p, { x: vx * 0.4, y: vy * 0.4 });
       }
-      if (p._restTicks > 30) {
-        Body.setStatic(p, true);
+
+      if (av < 0.01) {
+        Body.setAngularVelocity(p, 0);
+      } else if (av < 0.05) {
+        Body.setAngularVelocity(p, p.angularVelocity * 0.3);
       }
     }
   });
@@ -327,17 +338,10 @@
   render.mouse = mouse;
 
   Events.on(mouseConstraint, 'startdrag', function (e) {
-    if (e.body) {
-      e.body._grabbed = true;
-      e.body._restTicks = 0;
-      Body.setStatic(e.body, false);
-    }
+    if (e.body) e.body._grabbed = true;
   });
   Events.on(mouseConstraint, 'enddrag', function (e) {
-    if (e.body) {
-      e.body._grabbed = false;
-      e.body._restTicks = 0;
-    }
+    if (e.body) e.body._grabbed = false;
   });
 
   // ── Buttons ──
