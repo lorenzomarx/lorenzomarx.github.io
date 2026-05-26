@@ -1,0 +1,123 @@
+/* Flourish with Food — Design tokens
+ * Style: Soft UI Evolution (beauty / spa)
+ * Palette: warm cream + terracotta + sage (original Squarespace family, softened)
+ * Type: Lora (display) + Raleway (body)
+ */
+
+:root {
+  /* — Surface tones (warm cream family) ----------------------------- */
+  --color-paper:       #FAF6EE;   /* base — warm soft cream */
+  --color-paper-2:     #F2EADA;   /* sections / soft elevation */
+  --color-paper-3:     #E8DCC4;   /* cards, asides */
+  --color-paper-deep:  #DFCFB3;   /* deeper warm card */
+
+  /* — Ink (warm dark) ------------------------------------------------ */
+  --color-ink:         #2E211A;   /* primary text — warm near-black */
+  --color-ink-soft:    #4D3B2E;   /* secondary text */
+  --color-muted:       #8B7B68;   /* meta / labels */
+  --color-rule:        #DDD0B7;   /* soft hairline */
+  --color-rule-soft:   #E8DEC8;   /* lighter rule */
+
+  /* — Accents (terracotta + sage + gold) ----------------------------- */
+  --color-primary:     #B85C38;   /* terracotta — primary brand accent */
+  --color-primary-hi:  #9A4A29;   /* hover / pressed */
+  --color-primary-soft:#E8C7B6;   /* tint surface */
+  --color-sage:        #7B8C6F;   /* botanical / healing register */
+  --color-sage-hi:     #5F7158;
+  --color-sage-soft:   #D5DDC9;
+  --color-gold:        #C99A4E;   /* warm honey gold — quiet pop */
+  --color-gold-soft:   #EBD8B5;
+
+  /* — Semantic states ----------------------------------------------- */
+  --color-focus:       #B85C38;
+  --color-link:        #9A4A29;
+  --color-link-hover:  #7C3A1F;
+
+  /* — Typography ---------------------------------------------------- */
+  --font-display: "Lora", "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --font-body:    "Raleway", system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+
+  /* type scale — 1.25 ratio from 17px body */
+  --text-xs:   0.75rem;
+  --text-sm:   0.875rem;
+  --text-base: 1.0625rem;      /* 17px body */
+  --text-md:   1.25rem;
+  --text-lg:   1.5rem;
+  --text-xl:   1.875rem;
+  --text-2xl:  2.375rem;
+  --text-3xl:  3rem;
+  --text-display-s: clamp(2.25rem, 4vw + 1rem, 3.75rem);
+  --text-display:   clamp(2.75rem, 5vw + 1.25rem, 5rem);
+
+  --leading-tight:   1.12;
+  --leading-snug:    1.22;
+  --leading-comfort: 1.4;
+  --leading-body:    1.6;
+  --leading-prose:   1.72;
+
+  --tracking-tight:  -0.018em;
+  --tracking-snug:   -0.008em;
+  --tracking-normal: 0;
+  --tracking-wide:   0.04em;
+  --tracking-caps:   0.14em;
+
+  /* — Spacing scale (4pt base, generous) --------------------------- */
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs:  0.5rem;
+  --space-sm:  0.75rem;
+  --space-md:  1rem;
+  --space-lg:  1.5rem;
+  --space-xl:  2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --space-4xl: 9rem;
+
+  /* — Container widths --------------------------------------------- */
+  --container-narrow: 36rem;
+  --container-prose:  44rem;
+  --container-wide:   72rem;
+  --container-full:   80rem;
+
+  /* — Radii (soft, generous — spa) --------------------------------- */
+  --radius-sm:  6px;
+  --radius-md:  12px;
+  --radius-lg:  20px;
+  --radius-xl:  28px;
+  --radius-pill: 9999px;
+
+  /* — Shadows (soft, layered — Soft UI Evolution) ------------------ */
+  --shadow-xs:  0 1px 2px rgba(46, 33, 26, 0.05);
+  --shadow-sm:  0 4px 12px -4px rgba(46, 33, 26, 0.08),
+                0 1px 3px -1px rgba(46, 33, 26, 0.04);
+  --shadow-md:  0 10px 30px -8px rgba(46, 33, 26, 0.12),
+                0 3px 8px -3px rgba(46, 33, 26, 0.06);
+  --shadow-lg:  0 24px 56px -16px rgba(46, 33, 26, 0.18),
+                0 6px 14px -6px rgba(46, 33, 26, 0.08);
+  --shadow-inset: inset 0 1px 0 rgba(255, 255, 255, 0.5);
+
+  /* — Motion ------------------------------------------------------- */
+  --dur-instant: 80ms;
+  --dur-short:   180ms;
+  --dur-med:     260ms;
+  --dur-long:    420ms;
+
+  --ease-out:    cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in:     cubic-bezier(0.55, 0, 0.85, 0.5);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* — Z-index ------------------------------------------------------ */
+  --z-base:     1;
+  --z-raised:   10;
+  --z-sticky:   200;
+  --z-modal:    400;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-instant: 0ms;
+    --dur-short:   0ms;
+    --dur-med:     0ms;
+    --dur-long:    0ms;
+  }
+}

@@ -1,0 +1,132 @@
+/* Flourish with Food — Design system
+ * Style: Brutalist Claymorphism
+ * Palette: clay + terracotta + olive + deep brown
+ * Type: Clash Display (display) + DM Sans (body)
+ */
+
+:root {
+  /* — Surface tones (warm clay family) ------------------------------ */
+  --color-paper:       #F5EDE0;
+  --color-paper-2:     #EBE0CE;
+  --color-paper-3:     #DDD0B8;
+  --color-paper-deep:  #C4A882;
+
+  /* — Ink (earthy dark) ---------------------------------------------- */
+  --color-ink:         #2A1F14;
+  --color-ink-soft:    #4A3C2E;
+  --color-muted:       #7A6B58;
+  --color-rule:        #C4A882;
+  --color-rule-soft:   #DDD0B8;
+
+  /* — Accents (terracotta + olive + ochre) --------------------------- */
+  --color-primary:     #B85C38;
+  --color-primary-hi:  #9A4528;
+  --color-primary-soft:#E8B8A0;
+  --color-sage:        #6B7C52;
+  --color-sage-hi:     #4F5E3A;
+  --color-sage-soft:   #B8C8A0;
+  --color-gold:        #C49A4E;
+  --color-gold-soft:   #F0E0C0;
+
+  /* — Clay accent (the signature) ----------------------------------- */
+  --color-clay:        #C4956A;
+  --color-clay-hi:     #A87A50;
+  --color-clay-soft:   #E8D0B0;
+
+  /* — Semantic states ----------------------------------------------- */
+  --color-focus:       #B85C38;
+  --color-link:        #9A4528;
+  --color-link-hover:  #7A3518;
+
+  /* — Typography ---------------------------------------------------- */
+  --font-display: "Clash Display", "Impact", "Arial Black", sans-serif;
+  --font-body:    "DM Sans", "Helvetica Neue", Helvetica, sans-serif;
+
+  /* type scale — 1.3 ratio from 17px body (brutalist = bigger) */
+  --text-xs:   0.75rem;
+  --text-sm:   0.875rem;
+  --text-base: 1.0625rem;
+  --text-md:   1.25rem;
+  --text-lg:   1.5rem;
+  --text-xl:   2rem;
+  --text-2xl:  2.625rem;
+  --text-3xl:  3.5rem;
+  --text-display-s: clamp(2.5rem, 5vw + 1rem, 3.75rem);
+  --text-display:   clamp(3rem, 7vw + 1rem, 6rem);
+
+  --leading-tight:   1.0;
+  --leading-snug:    1.15;
+  --leading-comfort: 1.4;
+  --leading-body:    1.6;
+  --leading-prose:   1.7;
+
+  --tracking-tight:  -0.04em;
+  --tracking-snug:   -0.02em;
+  --tracking-normal: 0;
+  --tracking-wide:   0.05em;
+  --tracking-caps:   0.14em;
+
+  /* — Spacing scale ------------------------------------------------- */
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs:  0.5rem;
+  --space-sm:  0.75rem;
+  --space-md:  1rem;
+  --space-lg:  1.5rem;
+  --space-xl:  2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --space-4xl: 9rem;
+
+  /* — Container widths --------------------------------------------- */
+  --container-narrow: 36rem;
+  --container-prose:  44rem;
+  --container-wide:   72rem;
+  --container-full:   80rem;
+
+  /* — Radii (chunky clay) ------------------------------------------ */
+  --radius-sm:  8px;
+  --radius-md:  16px;
+  --radius-lg:  24px;
+  --radius-xl:  32px;
+  --radius-pill: 9999px;
+
+  /* — Shadows (brutalist clay — thick offset + inner glow) ---------- */
+  --shadow-clay:    6px 6px 0 var(--color-ink);
+  --shadow-clay-sm: 4px 4px 0 var(--color-ink);
+  --shadow-clay-lg: 10px 10px 0 var(--color-ink);
+  --shadow-inner:   inset 0 -4px 6px rgba(0,0,0,0.08),
+                    inset 0 2px 4px rgba(255,255,255,0.25);
+  --shadow-soft:    0 8px 24px -8px rgba(42, 31, 20, 0.2);
+
+  /* — Borders (thick, visible) ------------------------------------- */
+  --border: 3px solid var(--color-ink);
+  --border-thin: 2px solid var(--color-ink);
+
+  /* — Motion ------------------------------------------------------- */
+  --dur-instant: 60ms;
+  --dur-short:   120ms;
+  --dur-med:     200ms;
+  --dur-long:    350ms;
+
+  --ease-out:    cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in:     cubic-bezier(0.55, 0, 0.85, 0.5);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-squish: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+  /* — Z-index ------------------------------------------------------ */
+  --z-base:     1;
+  --z-raised:   10;
+  --z-sticky:   200;
+  --z-modal:    400;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-instant: 0ms;
+    --dur-short:   0ms;
+    --dur-med:     0ms;
+    --dur-long:    0ms;
+  }
+}

@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-NZ">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Contact &mdash; Flourish with Food</title>
+<meta name="description" content="Get in touch with Lynn Slovak for consultations, enquiries, or press." />
+<link rel="stylesheet" href="../css/design-system.css" />
+<link rel="stylesheet" href="../css/base.css" />
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead__inner">
+    <p class="masthead__issue">Real food &middot; Real recovery &middot; Northland, Aotearoa</p>
+    <a href="../index.html" class="masthead__wordmark" aria-label="Flourish with Food, home">Flourish with Food</a>
+    <nav class="masthead__nav" aria-label="Primary">
+      <a href="../index.html">Home</a>
+      <a href="../about/index.html">About</a>
+      <a href="../toolkit/index.html">Recovery Toolkit</a>
+      <a href="../book/index.html">The Book</a>
+      <a href="../meet-lynn/index.html">Meet Lynn</a>
+      <a href="../recipes/index.html">Recipes</a>
+      <a href="../articles/index.html">Articles</a>
+      <a href="../contact/index.html" aria-current="page">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container container-wide">
+
+  <article class="letter fade-up fade-up-1">
+
+    <p class="page-title__kicker">Get in touch</p>
+    <h1 class="letter__salutation">Hello.</h1>
+
+    <p>
+      For consultations, enquiries, or press opportunities &mdash; or if there&rsquo;s something you&rsquo;d love to
+      know more about &mdash; please feel free to reach out using the form below.
+    </p>
+    <p>
+      I read every message personally. I may not always be able to reply straight away, but I often use your questions
+      and feedback to guide future articles, recipes, and seasonal newsletter pieces.
+    </p>
+
+    <form action="#" method="post" aria-label="Contact form" class="contact-form">
+      <div class="field">
+        <label for="contact-name">Name</label>
+        <input id="contact-name" name="name" type="text" autocomplete="name" required />
+      </div>
+      <div class="field">
+        <label for="contact-email">Email address</label>
+        <input id="contact-email" name="email" type="email" autocomplete="email" required />
+      </div>
+      <div class="field">
+        <label for="contact-subject">What&rsquo;s this about?</label>
+        <select id="contact-subject" name="subject">
+          <option>A one-on-one consultation</option>
+          <option>A general question</option>
+          <option>Press, speaking, or media</option>
+          <option>Something else</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="contact-message">Message</label>
+        <textarea id="contact-message" name="message" rows="6" required></textarea>
+      </div>
+      <button class="btn btn--accent" type="submit">Send message</button>
+    </form>
+
+    <p class="letter__divider">* &nbsp; * &nbsp; *</p>
+
+    <p class="muted">
+      You can also find me on <a href="https://www.instagram.com/flourish.with.food/" rel="me noopener">Instagram</a>,
+      where I share seasonal snapshots from the kitchen and the farm.
+    </p>
+
+  </article>
+
+</main>
+
+<style>
+  .contact-form { display: grid; gap: var(--space-md); margin-block: var(--space-xl) var(--space-2xl); }
+  .field { display: grid; gap: var(--space-xs); }
+  .field label {
+    font-size: var(--text-sm);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+  .field input, .field select, .field textarea {
+    font: inherit;
+    color: var(--color-ink);
+    background: var(--color-paper);
+    border: var(--rule-hairline);
+    border-radius: var(--radius-sm);
+    padding: var(--space-sm) var(--space-md);
+    transition: border-color var(--dur-short) var(--ease-out);
+  }
+  .field textarea { resize: vertical; line-height: var(--leading-body); }
+  .field input:focus-visible,
+  .field select:focus-visible,
+  .field textarea:focus-visible {
+    border-color: var(--color-accent);
+    outline: 2px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+</style>
+
+<footer class="footer">
+  <div class="footer__inner">
+    <p class="footer__lede">Food really does have the power to change how you feel &mdash; sometimes dramatically.</p>
+    <p class="footer__pitch">
+      Sign up to receive seasonal recipes, recovery-nutrition insights, and the latest research on eating well
+      for health and healing, delivered straight to your inbox.
+    </p>
+    <form class="newsletter-form" action="#" method="post" aria-label="Newsletter signup">
+      <label class="sr-only" for="newsletter-email">Email address</label>
+      <input class="newsletter-form__input" id="newsletter-email" type="email" name="email"
+             placeholder="your@email" autocomplete="email" required />
+      <button class="btn btn--accent" type="submit">Sign up</button>
+    </form>
+    <div class="footer__meta">
+      <a class="footer__wordmark" href="../index.html">Flourish with Food</a>
+      <nav class="footer__links" aria-label="Footer">
+        <a href="../about/index.html">About</a>
+        <a href="../toolkit/index.html">Toolkit</a>
+        <a href="../recipes/index.html">Recipes</a>
+        <a href="../contact/index.html">Contact</a>
+        <a href="https://www.instagram.com/flourish.with.food/" rel="me noopener">Instagram</a>
+      </nav>
+      <span class="footer__copyright">&copy; 2026 Lynn Slovak</span>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
