@@ -2,42 +2,94 @@
   "articles": [
     {
       "author": "Wired",
-      "content": "Description: Group Number: Group Name: Ip Address: Username: Computer Name:",
-      "description": null,
-      "publishedAt": "2026-05-28T10:52:34.6787837Z",
+      "content": "The United States military has known for years that enemies could use location data to track troops phonesand its also long been aware of easy fixes for the problem. The Pentagon adopted almost none \u2026 [+5565 chars]",
+      "description": "Plus: A ransomware group is now stealing data in person, BusPatrol wants to hand its license plate surveillance data to the cops, and more.",
+      "publishedAt": "2026-05-30T10:30:00Z",
       "source": {
         "id": "wired",
         "name": "Wired"
       },
-      "title": "These Researchers Would Be in Africa Fighting Ebola&#8212;but Trump Cut Their Funding",
-      "url": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
-      "urlToImage": null
+      "title": "Cybercrime Crew Claims It Hacked Mike Lindell\u2019s MyPillow",
+      "url": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
+      "urlToImage": "https://media.wired.com/photos/6a19a265c7ec62d32a371ee8/191:100/w_1280,c_limit/GettyImages-2251407669.jpg"
     },
     {
       "author": "Wired",
-      "content": "Over time, the tech industry has developed and deployed variations on the fat-tree architecture. But the design has room for improvement. Its generally reliable, but also rigid, inefficient, and requ\u2026 [+2951 chars]",
-      "description": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+      "content": "The push to do so through chemical means is a response to the shortcomings of other strategies theyve tried. Traditional mechanical recycling through shredding and grinding causes fibers to break dow\u2026 [+3123 chars]",
+      "description": "The activewear giant has used chemical recycling to make jersey for 16 teams competing in the tournament. But the technique is unlikely to help solve fashion\u2019s waste issue.",
+      "publishedAt": "2026-05-30T08:30:00Z",
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "title": "Nike World Cup Uniforms Made of Recycled Textiles Won\u2019t Solve Fashion Waste",
+      "url": "https://www.wired.com/story/nike-recycled-world-cup-uniforms/",
+      "urlToImage": "https://media.wired.com/photos/6a18b5c0c7ec62d32a3712bc/191:100/w_1280,c_limit/Problem-Nike-Kits-Science-nike-football-2026-federation-kits-usa-home-1.jpg"
+    },
+    {
+      "author": "Wired",
+      "content": "Earlier this month, WIRED published an excerpt from Steve Rosenbaums buzzy new book, The Future of Truth, which looks at how artificial intelligence warps peoples sense of reality. Shortly thereafter\u2026 [+3544 chars]",
+      "description": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+      "publishedAt": "2026-05-29T16:30:00Z",
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "title": "We Asked the \u2018Future of Truth\u2019 Author to Explain How He Used AI. It Didn\u2019t Go Well",
+      "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
+      "urlToImage": "https://media.wired.com/photos/6a173332faa2148b4ab454b6/191:100/w_1280,c_limit/Business_AIBookAuthorUsedAItoWriteHisBook_v1.jpg"
+    },
+    {
+      "author": "Wired",
+      "content": "Blue Origin's giantNew Glenn rocket exploded on Thursday night during a hot-fire test on the launchpad, lighting up the skies around the launch site in Cape Canaveral, Florida. In a post on X, Blue O\u2026 [+2273 chars]",
+      "description": "The detonation of the New Glenn rocket resulted in a huge fireball in Florida and may have long-term implications for the company's ambitions.",
+      "publishedAt": "2026-05-29T13:22:27Z",
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "title": "Blue Origin Rocket Explodes in Fiery Setback",
+      "url": "https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/",
+      "urlToImage": "https://media.wired.com/photos/6a198bcf19d7dd93413aa792/191:100/w_1280,c_limit/2193560373"
+    },
+    {
+      "author": "Wired",
+      "content": "For nearly a decade, the Pentagon was warnedby its own contractors, analysts, and intelligence agenciesthat anyone with a credit card could buy a map of where American troops sleep, work, and store n\u2026 [+3789 chars]",
+      "description": "The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none\u2014and now says adversaries are using the data to target soldiers during a war.",
+      "publishedAt": "2026-05-28T16:59:33Z",
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "title": "The Pentagon Knew Enemies Could Track Troops\u2019 Phones for Years. Now They Are",
+      "url": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
+      "urlToImage": "https://media.wired.com/photos/6a18583bcf61ddb72176866e/191:100/w_1280,c_limit/Security_USMilitaryKnewofLocationDataDanger_v1.jpg"
+    },
+    {
+      "author": "Wired",
+      "content": "As the world struggles to contain the rapidly growing Ebola outbreak in the Democratic Republic of Congos Ituri province, a vital network of research centers has been unable to help on the ground. Th\u2026 [+3624 chars]",
+      "description": "The Centers for Research in Emerging Infectious Diseases were launched during the Covid-19 pandemic. The group lost its funding under Trump in part due to conspiracy theories.",
       "publishedAt": "2026-05-28T10:30:00Z",
       "source": {
         "id": "wired",
         "name": "Wired"
       },
-      "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
-      "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
-      "urlToImage": "https://media.wired.com/photos/6a173c117ababccb510cce19/191:100/w_1280,c_limit/Amazon-AI-Future-Business-Ratul-Giacomo-Sesh-in-front-of-RNG-racks3.jpg"
+      "title": "These Ebola Researchers Are Stuck in US Due to Trump\u2019s Funding Cuts",
+      "url": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
+      "urlToImage": "https://media.wired.com/photos/6a175018943fb12e8727ba87/191:100/w_1280,c_limit/Researchers-Would-Be-in-Africa-Fighting-Ebola-But-Trump-Cut-Funding-Science-2277731828.jpg"
     },
     {
       "author": "Wired",
-      "content": "The first week of the French Open has yielded as many major upsets (two) as people collapsing on the court due to sweltering conditions.\r\nWhile temperatures in Europe are extremely hot for this time \u2026 [+3607 chars]",
-      "description": "Meet the wet bulb globe temperature, the ominous measure that shows when it's too hot to go outside.",
-      "publishedAt": "2026-05-28T09:03:32Z",
+      "content": "We would not say that every single phishing message we observed was definitively caused by a direct compromise of the hotels own internal systems, the researcher says. Phishing messages could have be\u2026 [+3556 chars]",
+      "description": "Customer data from more than 350 hotels around the world may have been accessed as part of realistic reservation-hijacking scams.",
+      "publishedAt": "2026-05-28T10:00:00Z",
       "source": {
         "id": "wired",
         "name": "Wired"
       },
-      "title": "How Are French Open Players Dealing With the Paris Heat Wave?",
-      "url": "https://www.wired.com/story/why-its-almost-too-hot-to-play-tennis-at-the-french-open-2026/",
-      "urlToImage": "https://media.wired.com/photos/6a174615c9bffece4c2876e7/191:100/w_1280,c_limit/Why-Its-Almost-Too-Hot-French-Open-Science-2278478070.jpg"
+      "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
+      "url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
+      "urlToImage": "https://media.wired.com/photos/6a17087b865c7d5f3e4b2ae2/191:100/w_1280,c_limit/Security_HundredsofHotelsCompromisedbyHackersRunningBookingScams_v1.jpg"
     },
     {
       "author": "Wired",
@@ -67,68 +119,16 @@
     },
     {
       "author": "Wired",
-      "content": "A tiny blueoctopus that lives in the deep sea off the coast of the Gal\u00e1pagos Islands is so small that it can fit in the palm of a hand. And as a team of researchers coordinated by Chicago's Field Mus\u2026 [+2840 chars]",
-      "description": "An octopus about the size of a golf ball was first spotted in 2015 near Darwin Island. A new study gives it both a formal description and a name.",
-      "publishedAt": "2026-05-27T09:30:00Z",
+      "content": "The State Department doesnt seem to want anyone to know that it has an Office of Remigration.\r\nTheres no mention on the departments social media feeds or even on the official website. There arent man\u2026 [+3451 chars]",
+      "description": "The office was created a year ago and seemingly named for a far right European plan to expel minorities and immigrants from Western nations. It now works, a source says, with little to no oversight.",
+      "publishedAt": "2026-05-27T13:38:46Z",
       "source": {
         "id": "wired",
         "name": "Wired"
       },
-      "title": "A New Species of Tiny Octopus Was Discovered in the Gal\u00e1pagos Islands",
-      "url": "https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/",
-      "urlToImage": "https://media.wired.com/photos/6a15b828344eae09a00e395f/191:100/w_1280,c_limit/Low-Res_Screen%20Shot%202026-05-06%20at%202.16.22%20PM.jpg"
-    },
-    {
-      "author": "Wired",
-      "content": "After more than 2,000 hours of government-imposed connectivity blackouts, there were signs on Tuesday that Irans internet is coming backat least at very low levels.\r\nIrans more than 90 million citize\u2026 [+3778 chars]",
-      "description": "Some internet connectivity is returning in Iran after nearly 90 days offline, web monitoring groups say. But it isn\u2019t clear if the reconnection is permanent.",
-      "publishedAt": "2026-05-26T17:31:25Z",
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "title": "Internet Starts to Return in Iran After 3-Month Blackout",
-      "url": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/",
-      "urlToImage": "https://media.wired.com/photos/6a15bd58f8f995a9e399e728/191:100/w_1280,c_limit/GettyImages-2272247418.jpg"
-    },
-    {
-      "author": "Wired",
-      "content": "Nation state issues are very serious and very real, but criminal actors still make up the vast majority of incidents that organizations deal with and many of those incidents are quite serious, Hultqu\u2026 [+3136 chars]",
-      "description": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-      "publishedAt": "2026-05-25T10:30:00Z",
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
-      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-      "urlToImage": "https://media.wired.com/photos/6a0e3a04aa8901b570a25720/191:100/w_1280,c_limit/security_bug_gettyimages.jpg"
-    },
-    {
-      "author": "Wired",
-      "content": "A WIRED investigation this week found that a former Phoenix police officer who owns a company that offers firearms training to Immigration and Customs Enforcement was involved in six shootings, four \u2026 [+3893 chars]",
-      "description": "Plus: Google publishes a live exploit for an unpatched flaw, the feds arrest two men accused of creating thousands of nonconsensual deepfake nudes, and more.",
-      "publishedAt": "2026-05-23T10:30:00Z",
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "title": "The FBI Wants \u2018Near Real-Time\u2019 Access to US License Plate Readers",
-      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
-      "urlToImage": "https://media.wired.com/photos/6a10c43554ae2f8381915a7f/191:100/w_1280,c_limit/security_fbi_license_plate_data.jpg"
-    },
-    {
-      "author": "Wired",
-      "content": "Palantir hosted a hack week this spring to try to turn internal consternation over the companys work with the Department of Homeland Security (DHS) and Immigration and Customs Enforcement (ICE) into \u2026 [+3312 chars]",
-      "description": "The hackathon, held to build user-auditing tools for Palantir customers, comes as the company struggles to address employee concerns over its relationship with ICE.",
-      "publishedAt": "2026-05-21T17:44:42Z",
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "title": "Palantir Held Another \u2018Hack Week.\u2019 This Time, the Focus Was ICE",
-      "url": "https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/",
-      "urlToImage": "https://media.wired.com/photos/6a0e2b7526c9e97a2b5443cb/191:100/w_1280,c_limit/pol_palantir_GettyImages-2276544431.jpg"
+      "title": "The State Department Really Doesn\u2019t Want to Talk About the Office of Remigration",
+      "url": "https://www.wired.com/story/the-state-department-really-doesnt-want-to-talk-about-the-office-of-remigration/",
+      "urlToImage": "https://media.wired.com/photos/6a15f56ec231501f9b8b750d/191:100/w_1280,c_limit/GettyImages-2224716565.jpg"
     }
   ],
   "status": "ok",
