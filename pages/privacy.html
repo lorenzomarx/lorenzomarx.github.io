@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#FDF2F8">
+    <link rel="shortcut icon" href="../favicon.ico">
+    <title>Privacy &mdash; LMarx</title>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4H1JMR2QLW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4H1JMR2QLW');
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --pink:        #EC4899;
+            --cyan:        #06B6D4;
+            --cream:       #FDF2F8;
+            --ink:         #831843;
+            --black:       #0A0A0A;
+            --nav-h:       72px;
+            --shadow-sm:   4px 4px 0 var(--black);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        html, body {
+            background: var(--cream);
+            color: var(--black);
+            font-family: 'Space Grotesk', sans-serif;
+            overflow-x: hidden;
+        }
+
+        a { color: inherit; text-decoration: none; }
+
+        /* ====================== NAV ====================== */
+        nav.brutal-nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            background: var(--cream);
+            border-bottom: 4px solid var(--black);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            height: var(--nav-h);
+        }
+
+        .nav-back {
+            display: flex;
+            align-items: center;
+            padding: 0 1.75rem;
+            font-size: 1.05rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            color: var(--black);
+            border-right: 4px solid var(--black);
+        }
+        .nav-back:hover { background: var(--pink); color: var(--cream); }
+
+        .nav-spacer { flex: 1; }
+
+        .nav-brand {
+            display: flex;
+            align-items: center;
+            padding: 0 1.75rem;
+            font-size: 1.4rem;
+            letter-spacing: -0.02em;
+            color: var(--black);
+            border-left: 4px solid var(--black);
+        }
+
+        /* ====================== HERO ====================== */
+        .hero {
+            padding: 4rem 2.5rem 3rem;
+            border-bottom: 4px solid var(--black);
+        }
+
+        .kicker {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+            font-size: 0.9rem;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--ink);
+            display: inline-block;
+        }
+        .kicker::before {
+            content: "■ ";
+            color: var(--pink);
+        }
+
+        .hero-title {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(3rem, 9vw, 7rem);
+            line-height: 0.85;
+            letter-spacing: -0.05em;
+            color: var(--black);
+            text-transform: uppercase;
+            margin: 1.5rem 0;
+        }
+
+        .hero-title .accent {
+            color: var(--pink);
+            display: inline-block;
+            transform: rotate(-2deg);
+        }
+
+        .hero-sub {
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 500;
+            font-size: clamp(1rem, 1.4vw, 1.2rem);
+            line-height: 1.5;
+            max-width: 60ch;
+            color: var(--ink);
+            margin-top: 1rem;
+        }
+
+        .updated {
+            display: inline-block;
+            margin-top: 1.5rem;
+            padding: 0.5rem 0.85rem;
+            background: var(--cyan);
+            border: 3px solid var(--black);
+            box-shadow: var(--shadow-sm);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 0.8rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--black);
+        }
+
+        /* ====================== CONTENT ====================== */
+        main.policy {
+            max-width: 920px;
+            padding: 3rem 2.5rem 4rem;
+        }
+
+        section.policy-block {
+            margin-bottom: 3rem;
+        }
+
+        section.policy-block:last-child { margin-bottom: 0; }
+
+        h2.block-title {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(1.5rem, 3vw, 2.25rem);
+            letter-spacing: -0.02em;
+            text-transform: uppercase;
+            color: var(--black);
+            padding-bottom: 0.5rem;
+            border-bottom: 4px solid var(--black);
+            margin-bottom: 1.25rem;
+        }
+        h2.block-title .num {
+            color: var(--pink);
+            margin-right: 0.5rem;
+        }
+
+        .policy-block p,
+        .policy-block li {
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 400;
+            font-size: 1.05rem;
+            line-height: 1.6;
+            color: var(--black);
+            margin-bottom: 0.85rem;
+        }
+
+        .policy-block ul {
+            padding-left: 1.5rem;
+            margin-bottom: 0.85rem;
+        }
+        .policy-block li::marker { color: var(--pink); }
+
+        .policy-block strong {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            letter-spacing: 0.02em;
+        }
+
+        .policy-block a.inline {
+            color: var(--ink);
+            border-bottom: 2px solid var(--pink);
+            font-weight: 700;
+        }
+        .policy-block a.inline:hover { background: var(--pink); color: var(--cream); }
+
+        /* ====================== CONTACT CARD ====================== */
+        .contact-card {
+            margin-top: 1rem;
+            padding: 1.75rem;
+            background: var(--cream);
+            border: 4px solid var(--black);
+            box-shadow: var(--shadow-sm);
+        }
+        .contact-card .label {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: 0.75rem;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--ink);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .contact-card .addr {
+            font-family: 'Archivo', sans-serif;
+            font-weight: 900;
+            font-size: clamp(1.1rem, 2.5vw, 1.6rem);
+            letter-spacing: -0.01em;
+            color: var(--black);
+            word-break: break-all;
+        }
+        .contact-card .addr:hover { color: var(--pink); }
+
+        /* ====================== FOOTER ====================== */
+        footer.brutal-foot {
+            display: grid;
+            grid-template-columns: 1fr auto auto;
+            align-items: center;
+            background: var(--black);
+            color: var(--cream);
+            font-family: 'Archivo', sans-serif;
+            font-weight: 700;
+        }
+
+        footer .foot-mark {
+            padding: 1.5rem 2.5rem;
+            font-size: 1.5rem;
+            letter-spacing: -0.02em;
+            font-weight: 900;
+        }
+        footer .foot-mark .dot { color: var(--pink); }
+
+        footer .foot-link {
+            padding: 1.5rem 2rem;
+            border-left: 4px solid var(--cream);
+            font-size: 0.95rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--cream);
+        }
+        footer .foot-link:hover { background: var(--pink); color: var(--black); }
+
+        /* ====================== RESPONSIVE ====================== */
+        @media (max-width: 600px) {
+            .nav-back { padding: 0 1.1rem; font-size: 0.9rem; }
+            .nav-brand { font-size: 1.1rem; padding: 0 1.1rem; }
+            .hero { padding: 2.5rem 1.5rem 2rem; }
+            main.policy { padding: 2rem 1.5rem 3rem; }
+            footer.brutal-foot { grid-template-columns: 1fr; }
+            footer .foot-link { border-left: 0; border-top: 3px solid var(--cream); }
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="brutal-nav">
+        <a class="nav-back" href="../index.html">&larr; HOME</a>
+        <span class="nav-spacer"></span>
+        <a class="nav-brand" href="../index.html">LMarx</a>
+    </nav>
+
+    <section class="hero">
+        <span class="kicker">Legal &middot; The Boring Bit</span>
+        <h1 class="hero-title">Privacy<span class="accent">/Policy</span></h1>
+        <p class="hero-sub">
+            This site is a small personal portfolio. It collects very little, sells nothing, and tries to be straight with you about what happens when you visit. Here&rsquo;s the full breakdown.
+        </p>
+        <span class="updated">Last Updated &middot; June 2026</span>
+    </section>
+
+    <main class="policy">
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">01</span>Who Runs This Site</h2>
+            <p>
+                <strong>LMarx</strong> (Lorenz) operates <strong>lorenzomarx.github.io</strong> as a personal creative portfolio. The site is hosted by GitHub Pages and is a static site &mdash; there is no backend database, user accounts, or login system.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">02</span>What We Collect From You</h2>
+            <p>
+                When you visit the site we collect <strong>basic analytics</strong> via Google Analytics 4 (measurement ID <strong>G-4H1JMR2QLW</strong>). This is used to understand how many people visit and which pages they look at. The data covers things like:
+            </p>
+            <ul>
+                <li>Approximate location (country / region)</li>
+                <li>Device type, browser, and operating system</li>
+                <li>Pages viewed and time on page</li>
+                <li>How you arrived at the site (referrer)</li>
+            </ul>
+            <p>
+                Google Analytics may set cookies in your browser to do this. You can opt out at the source with the <a class="inline" href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">Google Analytics opt-out add-on</a> or by blocking cookies in your browser.
+            </p>
+            <p>
+                <strong>We do not</strong> collect your name, email, phone number, or any other personally identifying information unless you choose to email us directly.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">03</span>Instagram Content On This Site</h2>
+            <p>
+                Some pages display images from the operator&rsquo;s own public Instagram account, retrieved via the <strong>Meta Instagram Graph API</strong>. Only the account owner&rsquo;s posts are pulled, using a token issued to the account owner. We do not access, store, or display data belonging to any other Instagram user.
+            </p>
+            <p>
+                If you visit the site you are <strong>not</strong> required to log in to Meta or Instagram, and no Meta/Instagram cookies are set as a result of visiting this site. Images are served directly from this domain.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">04</span>Outbound Links And Embeds</h2>
+            <p>
+                The site links to and occasionally embeds content from third-party services &mdash; including Instagram, Mixcloud, SoundCloud, Eventbrite, Facebook events, and news publishers (via Newsly). When you click through or load embedded content, those services apply their own privacy policies and may set their own cookies. We have no control over what they collect.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">05</span>Cookies</h2>
+            <p>
+                The only cookies set by this site are Google Analytics cookies (described in section 02). Third-party embeds may set additional cookies if you interact with them. The site itself does not use cookies for anything else &mdash; no advertising, no tracking pixels, no fingerprinting.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">06</span>Data Retention And Sharing</h2>
+            <p>
+                Analytics data is retained according to <a class="inline" href="https://support.google.com/analytics/answer/7667196" target="_blank" rel="noopener">Google&rsquo;s default Google Analytics 4 retention</a>. We do not sell, rent, or otherwise share visitor data with any third party for marketing purposes.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">07</span>Your Rights</h2>
+            <p>
+                Depending on where you live (e.g. EU/UK under GDPR, California under CCPA), you may have the right to access, correct, or request deletion of any personal data the site holds about you. Because we don&rsquo;t collect personally identifying information beyond analytics, this typically means asking Google to remove your analytics data, or contacting us using the address below if you believe we hold something about you.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">08</span>Children</h2>
+            <p>
+                This site is not directed to children under 13, and we do not knowingly collect personal information from children. If you believe a child has provided personal information, please contact us and we will remove it.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">09</span>Changes To This Policy</h2>
+            <p>
+                If this policy is updated, the &ldquo;Last Updated&rdquo; date at the top of the page will change. Material changes will be flagged on the homepage where reasonable.
+            </p>
+        </section>
+
+        <section class="policy-block">
+            <h2 class="block-title"><span class="num">10</span>Contact</h2>
+            <p>
+                For any privacy questions, data requests, or to report a concern, email:
+            </p>
+            <a class="contact-card" href="mailto:marxthespot1234@gmail.com">
+                <span class="label">Privacy Contact</span>
+                <span class="addr">marxthespot1234@gmail.com</span>
+            </a>
+        </section>
+
+    </main>
+
+    <footer class="brutal-foot">
+        <div class="foot-mark">LMARX<span class="dot">.</span></div>
+        <a class="foot-link" href="../index.html">Home</a>
+        <a class="foot-link" href="contact.html">Say Hi</a>
+    </footer>
+
+</body>
+</html>
