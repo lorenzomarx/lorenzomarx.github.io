@@ -1,134 +1,134 @@
 {
   "articles": [
     {
-      "author": "Rene Millman",
-      "content": "<ul><li>NymVPN v2026.9 brings a streamlined interface, simplified entry/exit server selection, and a new color palette.</li><li>Post-quantum encryption keys are now enabled by default for all Fast Mo\u2026 [+4366 chars]",
-      "description": "The privacy-focused mixnet provider streamlines its interface while upgrading security features and bringing beta ad-blocking to iOS.",
-      "publishedAt": "2026-06-02T15:22:15Z",
+      "author": "Mike Moore",
+      "content": "<ul><li>Microsoft reveals seven new AI models</li></ul>\r\nMicrosoft\u2019s AI head has unveiled a host of new AI models from the company as it looks to encourage developers to keep pushing the boundaries o\u2026 [+3156 chars]",
+      "description": "Microsoft AI CEO Mustafa Suleyman reveals seven new AI models, has unsurprisingly high hopes for an AI-enabled future.",
+      "publishedAt": "2026-06-03T00:20:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Decentralized NymVPN rolls out post-quantum protections as standard alongside a massive redesign",
-      "url": "https://www.techradar.com/vpn/vpn-services/decentralized-nymvpn-rolls-out-post-quantum-protections-as-standard-alongside-a-massive-redesign",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qnQ2tEtJ6TtkitfgWpnWVU-759-80.png"
+      "title": "\u2018We need an AI that places humanity first\u2019: Microsoft AI CEO outlines hopes to build \u201chumanist superintelligence\u201d - and has seven new models to help him do it",
+      "url": "https://www.techradar.com/pro/we-need-an-ai-that-places-humanity-first-microsoft-ai-ceo-outlines-hopes-to-build-humanist-superintelligence-and-has-seven-new-models-to-help-him-do-it",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Exfn6GGMosu9RsGyuqaiDU-2560-80.jpg"
     },
     {
-      "author": "Craig Hale",
-      "content": "<ul><li>Ohio's tax exemption for data centers has been temporarily paused for new projects</li><li>The scheme was projected to cost $136m in 2025, but it cost nearly $1.6b</li><li>Hyperscalers invest\u2026 [+2374 chars]",
-      "description": "Tax exemptions for data centers in Ohio have cost over $1.5 billion in lost revenue.",
-      "publishedAt": "2026-06-02T15:00:00Z",
+      "author": "Leon Poultney",
+      "content": "<ul><li>Rivian\u2019s boss believes we will have eyes-off driving within 18 months</li><li>It will be the \u201cmost disruptive feature we\u2019ve seen\u201d, according to RJ Scaringe</li><li>But a new report suggests T\u2026 [+3889 chars]",
+      "description": "Rivian boss says Level 4 autonomous driving will arrive by 2030, but Tesla is struggling to convince its own employees that the technology is reliable",
+      "publishedAt": "2026-06-03T00:00:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Ohio suspends data center tax breaks after losing $1.5 billion in revenue \u2013 but ongoing projects will still get the benefits",
-      "url": "https://www.techradar.com/pro/ohio-suspends-data-center-tax-breaks-after-losing-usd1-5-billion-in-revenue-but-ongoing-projects-will-still-get-the-benefits",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SgFneigpp2fE8eGgUM3J6V-1275-80.jpg"
+      "title": "Rivian boss says Level 4 autonomous driving is \"much closer than people think\", but Tesla is struggling to convince its own employees that the technology is reliable",
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/rivian-boss-says-level-4-autonomous-driving-is-much-closer-than-people-think-but-tesla-is-struggling-to-convince-its-own-employees-that-the-technology-is-reliable",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/t6VzoFA8qRGZ9FVwM2rhPR-1920-80.jpg"
     },
     {
-      "author": "Jon Stapley",
-      "content": "<ul><li>The Camp Snap 2 is the latest screen-free digital compact camera, designed to provide a simple experience and film-like feel</li><li>It adds a new filter button, similar to the dial on the CS\u2026 [+4577 chars]",
-      "description": "It's not changed much, but the price is right and the upgrades are sensible.",
-      "publishedAt": "2026-06-02T15:00:00Z",
+      "author": "Efosa Udinmwen",
+      "content": "<ul><li>Email systems were never designed for autonomous machine workflows</li><li>Hostinger introduces webhook-first email for real-time automation processing</li><li>AI agents now trigger actions i\u2026 [+4071 chars]",
+      "description": "Traditional email systems struggle while Hostinger redesigns its infrastructure for AI agents needing instant automated workflow execution at scale",
+      "publishedAt": "2026-06-02T23:30:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Camp Snap returns with another ultra-cheap screen-free compact camera \u2014 and this is the new feature I\u2019m most excited about",
-      "url": "https://www.techradar.com/cameras/compact-cameras/camp-snap-returns-with-another-ultra-cheap-screen-free-compact-camera-and-this-is-the-new-feature-im-most-excited-about",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eFwQ5WZZ4yh4JyNrNo6vsL-2560-80.jpg"
+      "title": "'Stop duct-taping human email into machine workflows' \u2014 Hostinger unleashes Agentic Mail to fix the biggest bottleneck in AI automation",
+      "url": "https://www.techradar.com/pro/stop-duct-taping-human-email-into-machine-workflows-hostinger-unleashes-agentic-mail-to-fix-the-biggest-bottleneck-in-ai-automation",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fM8xCxm5Z8RmL2yHGbveFZ-1920-80.jpg"
     },
     {
-      "author": "Sead Fadilpa\u0161i\u0107",
-      "content": "<ul><li>Critical PAN\u2011OS flaw exploited in the wild</li><li>Authentication bypass enables unauthorized VPN access</li><li>CISA added CVE\u20112026\u20110257 to KEV catalog</li></ul>\r\nA recently discovered vulne\u2026 [+2546 chars]",
-      "description": "A recently discovered vulnerability has been spotted exploiting Palo Alto VPNs in the wild.",
-      "publishedAt": "2026-06-02T15:00:00Z",
+      "author": "Mike Moore",
+      "content": "<ul><li>Microsoft CEO looks to ease data center environmental fears</li><li>A \"new approach\" will help the company's facilities address concerns, Nadella says</li><li>Microsoft\u2019s Azure cloud business\u2026 [+3245 chars]",
+      "description": "Satya Nadella says Microsoft\u2019s Fairwater facility is its most efficient yet",
+      "publishedAt": "2026-06-02T23:05:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Rapid7 observes new Palo Alto VPN flaw exploited in the wild to bypass GlobalProtect authentication",
-      "url": "https://www.techradar.com/pro/security/rapid7-observes-new-palo-alto-vpn-flaw-exploited-in-the-wild-to-bypass-globalprotect-authentication",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jNA4KFmhg8oX9bYUYaaySG-1920-80.jpg"
+      "title": "'A new approach': Microsoft CEO claims its \"AI Superfactory\" will use the same amount of water each year as a neighborhood restaurant",
+      "url": "https://www.techradar.com/pro/a-new-approach-microsoft-ceo-claims-its-ai-superfactory-will-use-the-same-amount-of-water-each-year-as-a-neighborhood-restaurant",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xsUHPLeRsFd9xq6eLB2zFZ-2560-80.jpg"
     },
     {
-      "author": "https://www.techradar.com/author/mike-moore",
-      "content": "We're here on the ground in San Francisco for Microsoft Build 2026!\r\nIt's been a beautiful sunny weekend here in California, and we're all set for a packed few days, kicking off tomorrow with the ope\u2026 [+160 chars]",
-      "description": "We're live in San Francisco for day one of Microsoft Build 2026",
-      "publishedAt": "2026-06-02T14:48:41Z",
+      "author": "Johnny Dee, Marc McLaren",
+      "content": "Looking for a different day?\r\nA new Quordle puzzle appears at midnight each day for your time zone \u2013 which means that some people are always playing 'today's game' while others are playing 'yesterday\u2026 [+4060 chars]",
+      "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
+      "publishedAt": "2026-06-02T23:00:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Microsoft Build 2026 day one live \u2014 all the news and updates as it happens",
-      "url": "https://www.techradar.com/pro/live/microsoft-build-2026-live-all-the-updates-as-they-happen",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ypi7uwSG7GdBqYAq759XjS-2560-80.png"
+      "title": "Quordle hints and answers for Wednesday, June 3 (game #1591)",
+      "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-3-june-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg"
     },
     {
-      "author": "James Rogerson",
-      "content": "<ul><li>Smartphone shipments could drop by 13.9% this year</li><li>That would bring them to the lowest levels since 2013</li><li>The fall is largely thanks to rising memory prices</li></ul>\r\n2026 loo\u2026 [+2613 chars]",
-      "description": "The ongoing memory crisis risks eliminating low-cost smartphones, with the whole industry struggling as a result.",
-      "publishedAt": "2026-06-02T14:17:04Z",
+      "author": "Johnny Dee, Marc McLaren",
+      "content": "Looking for a different day?\r\nA new NYT Connections puzzle appears at midnight each day for your time zone \u2013 which means that some people are always playing 'today's game' while others are playing 'y\u2026 [+4458 chars]",
+      "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
+      "publishedAt": "2026-06-02T23:00:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Smartphone industry predicted to hit biggest low for 13 years thanks to memory crisis \u2014 and only Apple and Samsung are safe from extinction",
-      "url": "https://www.techradar.com/phones/smartphone-industry-predicted-to-hit-biggest-low-for-13-years-thanks-to-memory-crisis-and-only-apple-and-samsung-are-safe-from-extinction",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ed9BeejFJiSNWqPYPYTz6h-1920-80.jpg"
+      "title": "NYT Connections hints and answers for Wednesday, June 3 (game #1088)",
+      "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-3-june-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg"
     },
     {
-      "author": "Darren Allan",
-      "content": "<ul><li>Windows 11 search is getting two useful additions</li><li>Microsoft is fixing search so that it works better to locate files with long compound names</li><li>The search function will also sta\u2026 [+2980 chars]",
-      "description": "Microsoft is improving Windows search in a number of ways, and this is an important change.",
-      "publishedAt": "2026-06-02T13:58:17Z",
+      "author": "Johnny Dee, Marc McLaren",
+      "content": "Looking for a different day?\r\nA new NYT Strands puzzle appears at midnight each day for your time zone \u2013 which means that some people are always playing 'today's game' while others are playing 'yeste\u2026 [+2934 chars]",
+      "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
+      "publishedAt": "2026-06-02T23:00:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Windows 11 search is getting a fix for a glaring issue that really bugs me \u2014 and it's about time",
-      "url": "https://www.techradar.com/computing/windows/windows-11-search-is-getting-a-fix-for-a-glaring-issue-that-really-bugs-me-and-its-about-time",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/g9ufuu4EbkfF7nb45pnwud-1920-80.jpg"
+      "title": "NYT Strands hints and answers for Wednesday, June 3 (game #822)",
+      "url": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-3-june-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg"
     },
     {
-      "author": "Sead Fadilpa\u0161i\u0107",
-      "content": "<ul><li>Red Hat npm packages compromised with Mini Shai-Hulud variant</li><li>Attackers target GitHub secrets and cloud credentials</li><li>Copycat worm shows themed but similar tradecraft</li></ul>\r\u2026 [+2653 chars]",
-      "description": "The malicious npm packages are looking to steal credentials and propagate further.",
-      "publishedAt": "2026-06-02T13:55:00Z",
+      "author": "Efosa Udinmwen",
+      "content": "<ul><li>Ukraine deploys robotic units to reduce frontline soldier exposure</li><li>Ground robots now handle logistics and combat battlefield roles</li><li>Commanders see machines replacing nearly a t\u2026 [+3782 chars]",
+      "description": "Remote-controlled war machines are transforming Ukraine\u2019s frontlines as commanders rethink the role of human infantry entirely",
+      "publishedAt": "2026-06-02T22:20:00Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "Compromised Red Hat npm packages downloaded over 80,000 times in one week \u2013 supply chain attack still ongoing",
-      "url": "https://www.techradar.com/pro/security/compromised-red-hat-npm-packages-downloaded-over-80-000-times-in-one-week-supply-chain-attack-still-ongoing",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VsnoQAEmxjEvebB3dyY9Pj-2560-80.jpg"
+      "title": "'UGVs are the new future of warfare' \u2014 Inside the Ukrainian unit set to become the world's first military brigade where robots outnumber human soldiers",
+      "url": "https://www.techradar.com/pro/ugvs-are-the-new-future-of-warfare-inside-the-ukrainian-unit-set-to-become-the-worlds-first-military-brigade-where-robots-outnumber-human-soldiers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZmyGdAtxFDTkHEPxz9zzCd-1920-80.png"
     },
     {
-      "author": "Matt Evans",
-      "content": "<ul><li>Open ear headphones company Shokz is working on new products outside of bone conduction or sports headphones</li><li>These include smart glasses, in-ear AI assistants and hearing aid solution\u2026 [+4121 chars]",
-      "description": "Big changes for the sports headphones company",
-      "publishedAt": "2026-06-02T13:17:41Z",
+      "author": "Mike Moore",
+      "content": "<ul><li>Microsoft reveals Project Solara proof of concept for new AI devices</li><li>Portable devices allow AI agents to break into new form factors and use cases</li><li>Pilots are underway, but wid\u2026 [+2767 chars]",
+      "description": "Project Solara is giving AI agents a taste of freedom, and could bring them to every part of your life.",
+      "publishedAt": "2026-06-02T22:07:02Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "'For glasses specifically, we have already gone through several iterations' \u2014Shokz' CEO confirms the sports headphones company is working on AI smart glasses, hearing solutions and a 'record everything' AI-powered assistant for future headphones",
-      "url": "https://www.techradar.com/health-fitness/fitness-headphones/for-glasses-specifically-we-have-already-gone-through-several-iterations-shokz-ceo-confirms-the-sports-headphones-company-is-working-on-ai-smart-glasses-hearing-solutions-and-a-record-everything-ai-powered-assistant-for-future-headphones",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QnfM6BokAKc2DB8LHA7o6K-2033-80.jpg"
+      "title": "Is this 'the next computer'? Microsoft\u2019s Project Solara looks to break AI out of the PC and into the real world",
+      "url": "https://www.techradar.com/pro/is-this-the-next-computer-microsofts-project-solara-looks-to-break-ai-out-of-the-pc-and-into-the-real-world",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9L3ec27YHXHGvy7kLVe8zj-2560-80.jpg"
     },
     {
-      "author": "Jasmine Valentine",
-      "content": "Don't you just love the fact that The Chief Designer (Rhys Ifans) doesn't actually have a name? In Star City, only one thing matters... Soviet Union space domination.\r\nAs expected, no cost is too hig\u2026 [+1792 chars]",
-      "description": "Combine the Russian space race with spy espionage and you've got Apple TV's latest sci-fi series. But when does Star City episode 3 arrive on the streamer?",
-      "publishedAt": "2026-06-02T13:00:00Z",
+      "author": "Marc McLaren",
+      "content": "Looking for a different day?\r\nA new NYT Wordle puzzle appears at midnight each day for your time zone \u2013 which means that some people are always playing 'today's game' while others are playing 'yester\u2026 [+12835 chars]",
+      "description": "Find out what today's Wordle answer is plus get some hints to help you solve it",
+      "publishedAt": "2023-02-14T09:58:17Z",
       "source": {
         "id": "techradar",
         "name": "TechRadar"
       },
-      "title": "What is the release date of Star City episode 3 on Apple TV?",
-      "url": "https://www.techradar.com/streaming/apple-tv-plus/star-city-episode-3-release-date-time",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/c5hkmQRNT5UrXUjM7XETwX-1920-80.jpg"
+      "title": "NYT Wordle today \u2014 answer and my hints for game #1810, Wednesday, June 3",
+      "url": "https://www.techradar.com/news/wordle-today",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GRmNGYthK9oe5MY9rsRR7g-1920-80.jpg"
     }
   ],
   "status": "ok",

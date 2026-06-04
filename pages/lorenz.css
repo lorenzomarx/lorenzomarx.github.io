@@ -174,7 +174,7 @@ nav.brutal-nav {
 
 /* ====================== BIO PAGE ====================== */
 .bio-feature {
-    background: var(--black);
+    background: var(--cream);
     padding: 2.5rem;
     display: grid;
     place-items: center;
@@ -182,12 +182,9 @@ nav.brutal-nav {
 }
 .bio-feature img {
     width: 100%;
-    max-width: 540px;
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
-    border: 4px solid var(--cream);
-    box-shadow: 8px 8px 0 var(--pink);
-    background: var(--cream);
+    max-width: 1620px;
+    height: auto;
+    display: block;
 }
 
 .bio-table {
