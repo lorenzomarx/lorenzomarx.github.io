@@ -428,7 +428,19 @@ strong { color: var(--ink); font-weight: 600; }
 }
 
 .hero-inner {
-  max-width: 920px;
+  max-width: var(--max);
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  gap: 60px;
+  align-items: center;
+  margin-bottom: 64px;
+}
+
+.hero-content {
+  max-width: 640px;
 }
 
 /* Hero title — wrapper handles scroll-driven exit; words handle staggered entry. */
@@ -470,8 +482,133 @@ strong { color: var(--ink); font-weight: 600; }
   display: flex;
   gap: 14px;
   flex-wrap: wrap;
-  margin-bottom: 64px;
+  margin-bottom: 0;
 }
+
+/* Floating 3D card — adapted from 08-3d-hyperrealism premium-plan card.
+   Perspective lives on the wrapper, transform on the inner card. */
+.hero-card-wrap {
+  perspective: 1400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-card {
+  position: relative;
+  width: 320px;
+  height: 420px;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(145deg, #f0f3f7 0%, #dce0e5 100%);
+  transform-style: preserve-3d;
+  animation: float-3d 6s ease-in-out infinite;
+  box-shadow:
+    18px 18px 40px var(--shadow-dark),
+    -18px -18px 40px var(--shadow-light),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  will-change: transform;
+}
+
+@keyframes float-3d {
+  0%, 100% { transform: rotateY(-10deg) rotateX(5deg) translateY(0); }
+  50%      { transform: rotateY(10deg)  rotateX(-5deg) translateY(-20px); }
+}
+
+.hero-card-sheen {
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg,
+    rgba(255, 255, 255, 0.55) 0%,
+    rgba(255, 255, 255, 0.08) 35%,
+    transparent 60%);
+  pointer-events: none;
+}
+
+.hero-card-inner {
+  position: relative;
+  padding: 32px 30px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-card-badge {
+  width: 56px;
+  height: 56px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-light);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--accent);
+  box-shadow: var(--neu-out-sm);
+}
+.hero-card-badge svg { width: 26px; height: 26px; }
+
+.hero-card-eyebrow {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  margin: 0 0 6px;
+  font-weight: 600;
+}
+
+.hero-card-title {
+  font-size: 1.7rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  margin: 0 0 12px;
+  color: var(--ink);
+}
+
+.hero-card-desc {
+  font-size: 0.95rem;
+  color: var(--ink-2);
+  line-height: 1.55;
+  margin: 0 0 auto;
+}
+
+.hero-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 22px;
+  border-top: 1px solid rgba(40, 48, 58, 0.08);
+}
+
+.hero-card-stat strong {
+  display: block;
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  color: var(--accent);
+  line-height: 1.05;
+}
+.hero-card-stat span {
+  display: block;
+  margin-top: 2px;
+  font-size: 0.7rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+
+.hero-card-arrow {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+  background: var(--bg-light);
+  box-shadow: var(--neu-out-xs);
+}
+.hero-card-arrow svg { width: 18px; height: 18px; }
 
 .hero-stats {
   list-style: none;
@@ -844,6 +981,7 @@ strong { color: var(--ink); font-weight: 600; }
   .site-header, .site-header *, .logo-mark, .logo-text { transition: none !important; }
   .hero-title-wrap { opacity: 1 !important; transform: none !important; }
   .hero h1 .word { opacity: 1 !important; transform: none !important; animation: none !important; }
+  .hero-card { animation: none; transform: rotateY(-6deg) rotateX(3deg); }
 }
 
 /* ---------- Responsive ---------- */
@@ -863,12 +1001,16 @@ strong { color: var(--ink); font-weight: 600; }
   .industry-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .contact-grid { grid-template-columns: 1fr; gap: 40px; }
   .hero-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); padding: 16px; }
+
+  .hero-grid { grid-template-columns: 1fr; gap: 48px; margin-bottom: 56px; }
+  .hero-card { width: 280px; height: 380px; }
 }
 
 @media (max-width: 560px) {
   .container { padding: 0 16px; }
   .hero { padding: 60px 0 70px; }
   .hero-stats { padding: 14px; }
+  .hero-card-wrap { display: none; }
 
   .about, .capabilities, .partners, .process, .industries, .contact { padding: 70px 0; }
   .cards { grid-template-columns: 1fr; }
