@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en-NZ">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact &amp; Get a Quote — Hyper3D</title>
+  <meta name="description" content="Get a manufacturing quote from Hyper3D. Send your CAD file, drawing or sketch — quote returned in 24 hours. Email carter@hyper3d.co.nz or call +64 21 764 445." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css?v=19" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23141414'/%3E%3Cpath d='M16 5 L27 11 L27 21 L16 27 L5 21 L5 11 Z' stroke='%23FFD400' stroke-width='2' fill='none'/%3E%3C/svg%3E" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <a href="index.html" class="logo" aria-label="Hyper3D home">
+      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+        <rect width="32" height="32" rx="6" fill="#141414"/>
+        <path d="M16 5 L27 11 L27 21 L16 27 L5 21 L5 11 Z" stroke="#FFD400" stroke-width="2" fill="none"/>
+        <path d="M16 5 L16 17 M16 17 L5 11 M16 17 L27 11" stroke="#FFD400" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <span>HYPER3D</span>
+    </a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation"><span></span></label>
+    <nav class="nav" aria-label="Main">
+      <a href="index.html">Home</a>
+      <a href="capabilities/index.html">Capabilities</a>
+      <a href="industries.html">Industries</a>
+      <a href="materials.html">Materials</a>
+      <a href="about.html">About</a>
+      <a href="contact.html" class="nav-cta active">Get a Quote</a>
+    </nav>
+  </div>
+</header>
+
+<section class="page-hero">
+  <div class="container">
+    <span class="eyebrow">Get a Quote</span>
+    <h1>Send us your project.</h1>
+    <p>Quotes returned in 24 hours. No portals, no chasing — just a clear price, a firm lead time and free DFM feedback from a real engineer.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="contact-grid">
+
+      <div class="contact-info">
+        <h2>Talk to Carter directly.</h2>
+        <p class="muted">You'll be talking to Carter Algharaibeh — founder of Hyper3D. He runs every project from quote through to delivery.</p>
+
+        <dl>
+          <dt>Email</dt>
+          <dd><a href="mailto:carter@hyper3d.co.nz">carter@hyper3d.co.nz</a></dd>
+
+          <dt>Phone</dt>
+          <dd><a href="tel:+64217644445">+64 21 764 445</a></dd>
+
+          <dt>Hours</dt>
+          <dd>Monday–Friday, 8:30am – 5:30pm NZT<br />After-hours email always answered next business day</dd>
+
+          <dt>Location</dt>
+          <dd>New Zealand<br />Serving customers throughout NZ &amp; Australia</dd>
+        </dl>
+
+        <div style="margin-top: 40px; padding: 24px; background: var(--bg-soft); border-radius: var(--r-lg); border: 1px solid var(--border);">
+          <h3 style="margin-bottom: 12px; font-size: 1rem;">📎 What to include with your quote request</h3>
+          <ul style="margin: 0; color: var(--muted); font-size: 0.95rem;">
+            <li>STEP file or 2D drawing (PDF)</li>
+            <li>Quantity (or quantity range)</li>
+            <li>Material preference (or "open to suggestion")</li>
+            <li>Required finish (if any)</li>
+            <li>Target lead time</li>
+          </ul>
+          <p class="muted" style="margin: 16px 0 0; font-size: 0.9rem;">Don't have all of this? Don't worry. Send what you have — we'll work out the rest with you.</p>
+        </div>
+      </div>
+
+      <div>
+        <h2>Quote request form.</h2>
+        <p class="muted" style="margin-bottom: 24px;">Use the form below or email Carter directly with your files attached.</p>
+
+        <!-- WEB3FORMS — replace YOUR_ACCESS_KEY with the key from web3forms.com -->
+        <form action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" />
+          <input type="hidden" name="subject" value="New Hyper3D Quote Request" />
+          <input type="hidden" name="from_name" value="Hyper3D Website" />
+          <input type="checkbox" name="botcheck" style="display:none;" />
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Your name *</label>
+              <input type="text" id="name" name="name" required placeholder="Jane Smith" />
+            </div>
+            <div class="form-group">
+              <label for="company">Company</label>
+              <input type="text" id="company" name="company" placeholder="Acme Engineering Ltd" />
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="email">Email *</label>
+              <input type="email" id="email" name="email" required placeholder="jane@company.co.nz" />
+            </div>
+            <div class="form-group">
+              <label for="phone">Phone</label>
+              <input type="tel" id="phone" name="phone" placeholder="+64 21 ..." />
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="process">Process needed</label>
+              <select id="process" name="process">
+                <option value="">Not sure — please advise</option>
+                <option>CNC Machining</option>
+                <option>Sheet Metal Fabrication</option>
+                <option>Injection Moulding</option>
+                <option>Post-Finishing only</option>
+                <option>Multiple processes</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="quantity">Quantity</label>
+              <input type="text" id="quantity" name="quantity" placeholder="e.g. 1 prototype, 50, 1,000+" />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="message">Project details *</label>
+            <textarea id="message" name="message" rows="6" required placeholder="Tell us about your part — material, key tolerances, finish, target delivery date, anything we should know."></textarea>
+          </div>
+
+          <div class="form-group">
+            <label for="files">CAD file or drawing (link)</label>
+            <input type="text" id="files" name="files" placeholder="Dropbox / Google Drive / WeTransfer link" />
+            <p class="form-note">For larger CAD files, paste a shared link here — or email files directly to <a href="mailto:carter@hyper3d.co.nz">carter@hyper3d.co.nz</a> after submitting this form.</p>
+          </div>
+
+          <button type="submit" class="btn btn-dark" style="width: 100%; padding: 16px;">Send Quote Request</button>
+
+          <p class="form-note">By submitting this form you agree to be contacted about your enquiry. We'll never share your details or use your designs without your permission.</p>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="logo">
+          <svg width="32" height="32" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+            <rect width="32" height="32" rx="6" fill="#141414"/>
+            <path d="M16 5 L27 11 L27 21 L16 27 L5 21 L5 11 Z" stroke="#FFD400" stroke-width="2" fill="none"/>
+            <path d="M16 5 L16 17 M16 17 L5 11 M16 17 L27 11" stroke="#FFD400" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          <span>HYPER3D</span>
+        </div>
+        <p>Precision manufacturing for engineering teams across New Zealand and Australia. CNC machining, sheet metal, injection moulding and finishing — under one roof.</p>
+      </div>
+      <div>
+        <h4>Capabilities</h4>
+        <ul>
+          <li><a href="capabilities/cnc-machining.html">CNC Machining</a></li>
+          <li><a href="capabilities/sheet-metal.html">Sheet Metal</a></li>
+          <li><a href="capabilities/injection-moulding.html">Injection Moulding</a></li>
+          <li><a href="capabilities/post-finishing.html">Post-Finishing</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="about.html">About</a></li>
+          <li><a href="industries.html">Industries</a></li>
+          <li><a href="materials.html">Materials</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Get in touch</h4>
+        <ul>
+          <li><a href="mailto:carter@hyper3d.co.nz">carter@hyper3d.co.nz</a></li>
+          <li><a href="tel:+64217644445">+64 21 764 445</a></li>
+          <li>New Zealand</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© 2026 Hyper3D Limited. All rights reserved.</div>
+      <div>Engineered in Aotearoa.</div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
