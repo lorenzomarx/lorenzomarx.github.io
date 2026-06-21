@@ -81,8 +81,10 @@ def merge_articles(existing, fresh):
             old["description"] = article["description"]
             old["author"] = article["author"]
             old["imageUrl"] = article["imageUrl"]
+            old["lastSeen"] = now
         else:
             article["firstSeen"] = now
+            article["lastSeen"] = now
             by_link[article["link"]] = article
 
     return list(by_link.values())
@@ -92,10 +94,10 @@ def prune_articles(articles):
     cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
     kept = []
     for a in articles:
-        first_seen = a.get("firstSeen")
-        if first_seen:
+        stamp = a.get("lastSeen") or a.get("firstSeen")
+        if stamp:
             try:
-                seen_dt = datetime.fromisoformat(first_seen)
+                seen_dt = datetime.fromisoformat(stamp)
                 if seen_dt < cutoff:
                     continue
             except ValueError:
