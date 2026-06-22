@@ -1,0 +1,364 @@
+/* ==========================================================================
+   Style guide overlay — warm palette layered on top of main.css
+   New palette: pink→peach→yellow gradient, navy ink, orange accent.
+   Loads AFTER main.css so it wins on the cascade.
+   ========================================================================== */
+
+:root {
+  /* Core tokens (override main.css :root) */
+  --bg: #fff5eb;
+  --ink: #111638;
+  --ink-soft: #2a2f55;
+  --accent: #f76e1f;
+
+  /* New brand swatches from the style guide */
+  --brand-pink-light: #f9b6cf;
+  --brand-pink: #e063c3;
+  --brand-magenta: #cc40ac;
+  --brand-peach: #fab784;
+  --brand-peach-soft: #fbcf9d;
+  --brand-orange: #f76e1f;
+  --brand-yellow: #fbc571;
+  --brand-navy: #111638;
+
+  /* Signature gradient (pink → peach → yellow) */
+  --brand-gradient: linear-gradient(135deg, #f9b6cf 0%, #fba382 55%, #fbc571 100%);
+  --brand-gradient-soft: linear-gradient(135deg, #fde0ec 0%, #fcd9c0 55%, #fde2b9 100%);
+
+  /* Soften the brutalist drop shadows to match the warmer feel */
+  --drop: 6px 6px 0 0 var(--ink);
+  --drop-lg: 10px 10px 0 0 var(--ink);
+  --drop-sm: 4px 4px 0 0 var(--ink);
+}
+
+/* ----- BODY: warm cream base so any transparent section reads warm ----- */
+html, body {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+/* ----- HERO: pink → peach → yellow gradient, navy ink ----- */
+header {
+  background: var(--brand-gradient);
+  border-bottom: var(--bw) solid var(--ink);
+}
+
+.header-title.kinetic {
+  color: var(--ink);
+  text-shadow: 6px 6px 0 var(--brand-orange);
+}
+
+.kinetic .curve {
+  color: var(--brand-orange);
+  text-shadow:
+    -2px -2px 0 var(--ink),
+     2px -2px 0 var(--ink),
+    -2px  2px 0 var(--ink),
+     2px  2px 0 var(--ink),
+     6px  6px 0 var(--ink);
+}
+
+.brut-tape {
+  background: var(--ink);
+  color: var(--brand-yellow);
+  border-color: var(--ink);
+}
+
+.signin a {
+  color: var(--brand-yellow);
+  background: var(--ink);
+  border-color: var(--ink);
+}
+.signin a:hover { background: var(--brand-orange); color: #fff; }
+
+/* ----- NAVBAR: warm cream pill instead of stark white ----- */
+.navbar > .container { background: #fffaf3; }
+.navbar-brand:hover { background: var(--brand-orange); color: #fff; }
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  background: var(--ink) !important;
+  color: var(--brand-orange) !important;
+}
+
+/* ----- MARQUEE: orange ribbon with navy text (matches image 3) ----- */
+.brut-marquee {
+  background: var(--brand-orange);
+  border-top-color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+.brut-marquee-track { color: var(--ink); }
+
+/* ----- #be-the-first (The Ask): soft peach with navy text ----- */
+#be-the-first {
+  background: var(--brand-gradient-soft);
+  background-attachment: scroll;
+  border-bottom: var(--bw) solid var(--ink);
+}
+#be-the-first h2 {
+  color: var(--brand-orange);
+  text-shadow:
+    -1px -1px 0 var(--ink),
+     1px -1px 0 var(--ink),
+    -1px  1px 0 var(--ink),
+     1px  1px 0 var(--ink),
+     4px  4px 0 var(--ink);
+}
+#be-the-first .lead {
+  color: var(--ink);
+  background: #ffffff;
+  border-color: var(--ink);
+}
+
+/* ----- #pricing (The Reform): pink → peach gradient ----- */
+#pricing {
+  background: linear-gradient(180deg, #fbe2ea 0%, #fbcf9d 100%);
+  border-bottom: var(--bw) solid var(--ink);
+}
+#pricing h2.black { color: var(--ink); }
+#pricing p.black {
+  color: #ffffff;
+  background: var(--ink);
+  border-color: var(--ink);
+}
+
+.pricing-table { background: #ffffff; }
+
+.pricing-table .brut-num {
+  background: var(--ink);
+  color: var(--brand-orange);
+}
+
+/* Per-card colour-coding 01/02/03 — pink, peach, magenta */
+.pricing-container:nth-of-type(1) .pricing-table .headline { background: var(--brand-pink-light); }
+.pricing-container:nth-of-type(2) .pricing-table .headline { background: var(--brand-peach); }
+.pricing-container:nth-of-type(3) .pricing-table .headline { background: var(--brand-pink); }
+.pricing-table .headline { border-color: var(--ink); }
+.pricing-table .headline h5 { color: var(--ink); }
+
+.pricing-table .info { color: var(--ink); }
+
+/* ----- #invite (the quote section): dark navy with orange heading ----- */
+#invite {
+  background: var(--ink);
+  background-attachment: scroll;
+  border-bottom: var(--bw) solid var(--ink);
+}
+#invite h1 {
+  color: #ffffff;
+  text-shadow: 4px 4px 0 var(--brand-orange);
+}
+#invite h2 {
+  color: var(--ink);
+  background: var(--brand-orange);
+  border-color: var(--ink);
+}
+
+/* ----- #main-info (Sign / Aotearoa / Share tiles): peach base, white cards ----- */
+#main-info { background: var(--brand-gradient-soft); }
+
+.neu-contact-card { background: #ffffff; }
+
+.neu-contact-card h3 {
+  background: var(--brand-orange);
+  color: #ffffff;
+}
+
+.neu-contact-card .contact-link {
+  text-decoration-color: var(--brand-orange);
+}
+.neu-contact-card .contact-link:hover {
+  background: var(--brand-orange);
+  color: #ffffff;
+  text-decoration-color: var(--ink);
+}
+
+.neu-icon {
+  background: var(--brand-orange);
+  border-color: var(--ink);
+  color: #ffffff;
+}
+.neu-contact-card:hover .neu-icon {
+  background: var(--ink);
+  color: var(--brand-orange);
+}
+
+/* ----- BUTTONS: warm primary ----- */
+.btn-primary {
+  background-color: var(--brand-orange);
+  color: #ffffff;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--brand-magenta);
+  color: #ffffff;
+}
+
+/* ----- FOCUS RING in the new accent ----- */
+*:focus-visible { outline-color: var(--brand-orange); }
+
+/* ----- TEXT SELECTION ----- */
+::selection      { background: var(--ink); color: var(--brand-yellow); }
+::-moz-selection { background: var(--ink); color: var(--brand-yellow); }
+
+/* ==========================================================================
+   #share-kit — paste-up poster wall + share kit
+   ========================================================================== */
+
+#share-kit {
+  background: var(--brand-gradient-soft);
+  border-bottom: var(--bw) solid var(--ink);
+  padding: 100px 0 110px;
+}
+
+#share-kit h2.black {
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 56px;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+
+#share-kit p.black {
+  color: #ffffff;
+  background: var(--ink);
+  border: var(--bw) solid var(--ink);
+  display: inline-block;
+  padding: 6px 14px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.share-grid { margin-top: 28px; }
+
+.share-tile {
+  padding: 22px;
+  text-align: left;
+}
+
+.share-label {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 4px 10px;
+  background: var(--ink);
+  color: var(--brand-yellow);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.share-card {
+  position: relative;
+  background: #ffffff;
+  border: var(--bw) solid var(--ink);
+  box-shadow: var(--drop);
+  overflow: hidden;
+  transition: transform 120ms ease-out, box-shadow 120ms ease-out;
+  will-change: transform;
+}
+
+.share-card--r1 { transform: rotate(-1.5deg); }
+.share-card--r2 { transform: rotate(1deg); }
+.share-card--r3 { transform: rotate(-0.5deg); }
+.share-card--r4 { transform: rotate(2deg); }
+
+.share-card:hover,
+.share-card:focus-within {
+  transform: rotate(0deg) translate(-4px, -4px);
+  box-shadow: var(--drop-lg);
+}
+
+.share-card-image {
+  display: block;
+  line-height: 0;
+  cursor: zoom-in;
+}
+
+.share-card-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-bottom: var(--bw) solid var(--ink);
+}
+
+.share-card .share-download {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: var(--brand-orange);
+  color: #ffffff;
+  border: var(--bw) solid var(--ink);
+  padding: 6px 10px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  box-shadow: var(--drop-sm);
+  opacity: 0;
+  transform: translateY(-6px);
+  transition: opacity 140ms ease-out, transform 140ms ease-out, background 80ms linear;
+  z-index: 2;
+}
+
+.share-card:hover .share-download,
+.share-card:focus-within .share-download,
+.share-download:focus-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.share-download:hover {
+  background: var(--ink);
+  color: var(--brand-orange);
+}
+
+.share-actions {
+  margin-top: 36px;
+}
+
+#share-download-all {
+  background: var(--ink);
+  color: var(--brand-orange);
+  border: var(--bw) solid var(--ink);
+  box-shadow: var(--drop);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 18px 30px;
+  border-radius: 0;
+  transition: transform 80ms linear, box-shadow 80ms linear, background 80ms linear;
+}
+
+#share-download-all:hover,
+#share-download-all:focus {
+  background: var(--brand-orange);
+  color: #ffffff;
+  transform: translate(-3px, -3px);
+  box-shadow: var(--drop-lg);
+}
+
+/* Mobile: collapse rotations so cards don't clip and tap targets stay sane */
+@media (max-width: 767px) {
+  #share-kit { padding: 70px 0 80px; }
+  #share-kit h2.black { font-size: 34px; }
+  .share-tile { padding: 14px; }
+  .share-card--r1,
+  .share-card--r2,
+  .share-card--r3,
+  .share-card--r4 { transform: rotate(0deg); }
+  .share-card:hover,
+  .share-card:focus-within { transform: translate(-2px, -2px); }
+  /* Show download chip by default on touch devices — no hover to reveal */
+  .share-card .share-download { opacity: 1; transform: none; }
+}
