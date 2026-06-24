@@ -1,0 +1,109 @@
+:root {
+  --color-bg: #000000;
+  --color-text: #ffffff;
+  --color-text-muted: rgba(255, 255, 255, 0.5);
+  --color-text-subtle: rgba(255, 255, 255, 0.3);
+  --color-accent: #10b981;
+  --color-accent-glow: rgba(16, 185, 129, 0.35);
+  --font-body: 'Manrope', sans-serif;
+}
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  touch-action: none;
+  -webkit-tap-highlight-color: transparent;
+  cursor: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='48'%20viewBox='0%200%2048%2048'%3E%3Cg%20transform='rotate(45%2024%2024)'%3E%3Crect%20x='22'%20y='20'%20width='18'%20height='8'%20rx='3'%20fill='rgb(225,225,225)'%20stroke='rgb(30,30,30)'%20stroke-width='1'/%3E%3Cpolygon%20points='14,17%2014,31%2023,28%2023,20'%20fill='rgb(245,245,245)'%20stroke='rgb(30,30,30)'%20stroke-width='1'%20stroke-linejoin='round'/%3E%3Crect%20x='11.5'%20y='18'%20width='2.5'%20height='12'%20rx='1.2'%20fill='rgb(16,185,129)'/%3E%3Crect%20x='29'%20y='17.5'%20width='6'%20height='2.5'%20rx='1'%20fill='rgb(110,110,110)'/%3E%3C/g%3E%3C/svg%3E") 9 9, auto;
+}
+
+.main {
+  min-height: 100vh;
+  padding: clamp(40px, 8vw, 80px) clamp(16px, 5vw, 60px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chart {
+  width: 100%;
+  max-width: 960px;
+  display: flex;
+  flex-direction: column;
+  gap: clamp(0.85rem, 2.5vw, 1.75rem);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: clamp(46px, 12vw, 80px) 1fr;
+  align-items: center;
+  gap: clamp(0.85rem, 3vw, 2rem);
+}
+
+.acuity {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  color: var(--color-text-subtle);
+}
+
+.letters {
+  font-weight: 800;
+  font-size: var(--letter-size);
+  letter-spacing: 0.35em;
+  /* nudge text back to true center despite trailing letter-spacing */
+  text-indent: 0.35em;
+  line-height: 1;
+  text-align: center;
+  color: var(--color-text);
+  white-space: nowrap;
+}
+
+.marker-row {
+  margin-top: 0.5rem;
+}
+
+.marker-line {
+  display: block;
+  height: 4px;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  background: var(--color-accent);
+  border-radius: 2px;
+  box-shadow:
+    0 0 24px var(--color-accent-glow),
+    0 0 48px var(--color-accent-glow);
+}
+
+.empty-row {
+  min-height: clamp(0.9rem, 3vw, 1.25rem);
+}
+
+.light {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    circle at 50% 50%,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.4) 8.5%,
+    rgba(0, 0, 0, 0.6) 9.5%,
+    rgba(0, 0, 0, 0.9) 11%,
+    #000 15%,
+    #000 100%
+  );
+  z-index: 100;
+  pointer-events: none;
+}
