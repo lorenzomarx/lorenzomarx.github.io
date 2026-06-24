@@ -7,64 +7,176 @@
     <title>Flashlight hover effect</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
   </head>
 
   <body>
-    <div class="light"></div>
-    <div class="main">
-      <div class="chart">
 
-        <div class="row letters-row" style="--letter-size: clamp(5rem, 22vw, 15rem)">
-          <span class="acuity">20/200</span>
-          <span class="letters">G</span>
+    <!-- Section 1: flashlight eye-chart (scroll-locked on touch) -->
+    <section class="flashlight-section" id="flashlight">
+      <div class="light"></div>
+
+      <div class="main">
+        <div class="chart">
+
+          <div class="row letters-row" style="--letter-size: clamp(5rem, 22vw, 15rem)">
+            <span class="acuity">20/200</span>
+            <span class="letters">G</span>
+          </div>
+
+          <div class="row letters-row" style="--letter-size: clamp(3.25rem, 14vw, 9rem)">
+            <span class="acuity">20/100</span>
+            <span class="letters">O F</span>
+          </div>
+
+          <div class="row letters-row" style="--letter-size: clamp(2.5rem, 11vw, 6.5rem)">
+            <span class="acuity">20/70</span>
+            <span class="letters">U C K</span>
+          </div>
+
+          <div class="row letters-row" style="--letter-size: clamp(2rem, 9vw, 5rem)">
+            <span class="acuity">20/50</span>
+            <span class="letters">E A C H</span>
+          </div>
+
+          <div class="row letters-row" style="--letter-size: clamp(1.6rem, 7.2vw, 4rem)">
+            <span class="acuity">20/40</span>
+            <span class="letters">O T H E R</span>
+          </div>
+
+          <div class="row marker-row">
+            <span class="acuity">20/30</span>
+            <span class="marker-line"></span>
+          </div>
+
+          <div class="row empty-row"><span class="acuity">20/25</span></div>
+          <div class="row empty-row"><span class="acuity">20/20</span></div>
+          <div class="row empty-row"><span class="acuity">20/15</span></div>
+          <div class="row empty-row"><span class="acuity">20/10</span></div>
+
         </div>
-
-        <div class="row letters-row" style="--letter-size: clamp(3.25rem, 14vw, 9rem)">
-          <span class="acuity">20/100</span>
-          <span class="letters">O F</span>
-        </div>
-
-        <div class="row letters-row" style="--letter-size: clamp(2.5rem, 11vw, 6.5rem)">
-          <span class="acuity">20/70</span>
-          <span class="letters">U C K</span>
-        </div>
-
-        <div class="row letters-row" style="--letter-size: clamp(2rem, 9vw, 5rem)">
-          <span class="acuity">20/50</span>
-          <span class="letters">E A C H</span>
-        </div>
-
-        <div class="row letters-row" style="--letter-size: clamp(1.6rem, 7.2vw, 4rem)">
-          <span class="acuity">20/40</span>
-          <span class="letters">O T H E R</span>
-        </div>
-
-        <div class="row marker-row">
-          <span class="acuity">20/30</span>
-          <span class="marker-line"></span>
-        </div>
-
-        <div class="row empty-row">
-          <span class="acuity">20/25</span>
-        </div>
-
-        <div class="row empty-row">
-          <span class="acuity">20/20</span>
-        </div>
-
-        <div class="row empty-row">
-          <span class="acuity">20/15</span>
-        </div>
-
-        <div class="row empty-row">
-          <span class="acuity">20/10</span>
-        </div>
-
       </div>
-    </div>
 
+      <button class="scroll-down" id="scrollDown" aria-label="Scroll to the next section">
+        <span class="scroll-down-text">More</span>
+        <svg class="scroll-down-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </section>
+
+    <!-- Section 2: cards -->
+    <section class="cards-section" id="cards">
+      <canvas class="waves-canvas" aria-hidden="true"></canvas>
+      <div class="container">
+
+        <header class="section-header reveal">
+          <span class="section-eyebrow">Section 02</span>
+          <h2 class="section-title">Now that you can see clearly</h2>
+        </header>
+
+        <div class="cards-grid">
+
+          <article class="card reveal">
+            <div class="card-icon">&#9679;</div>
+            <span class="card-eyebrow">Feature 01</span>
+            <h3 class="card-title">Varius quam</h3>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus in hac habitasse platea dictumst.</p>
+            <span class="card-tag">Limited</span>
+          </article>
+
+          <article class="card reveal">
+            <div class="card-icon">&#9680;</div>
+            <span class="card-eyebrow">Feature 02</span>
+            <h3 class="card-title">Tellus integer</h3>
+            <p class="card-text">Semper eget duis at tellus at urna condimentum. Magnis dis parturient montes nascetur ridiculus.</p>
+            <span class="card-tag">Core</span>
+          </article>
+
+          <article class="card reveal">
+            <div class="card-icon">&#9671;</div>
+            <span class="card-eyebrow">Feature 03</span>
+            <h3 class="card-title">Pharetra massa</h3>
+            <p class="card-text">Mi eget mauris pharetra et ultrices neque ornare aenean. Viverra adipiscing at in tellus integer.</p>
+            <span class="card-tag">New</span>
+          </article>
+
+          <article class="card reveal">
+            <div class="card-icon">&#9723;</div>
+            <span class="card-eyebrow">Feature 04</span>
+            <h3 class="card-title">Tristique risus</h3>
+            <p class="card-text">Adipiscing tristique risus nec feugiat in fermentum posuere urna. Aenean et tortor at risus viverra.</p>
+            <span class="card-tag">Beta</span>
+          </article>
+
+          <article class="card reveal">
+            <div class="card-icon">&#9678;</div>
+            <span class="card-eyebrow">Feature 05</span>
+            <h3 class="card-title">Faucibus ornare</h3>
+            <p class="card-text">Faucibus in ornare quam viverra orci sagittis. Et pharetra pharetra massa massa ultricies mi quis.</p>
+            <span class="card-tag">Pro</span>
+          </article>
+
+          <article class="card reveal">
+            <div class="card-icon">&#9672;</div>
+            <span class="card-eyebrow">Feature 06</span>
+            <h3 class="card-title">Volutpat dictum</h3>
+            <p class="card-text">Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat mauris nunc.</p>
+            <span class="card-tag">Soon</span>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: agent profile card -->
+    <section class="agent-section" id="agent">
+      <div class="container">
+        <article class="agent-card">
+
+          <div class="agent-photo">
+            <span class="agent-photo-glow" aria-hidden="true"></span>
+            <span class="agent-ring agent-ring--outer" aria-hidden="true"></span>
+            <span class="agent-ring agent-ring--inner" aria-hidden="true"></span>
+            <div class="agent-photo-frame">
+              <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=600&h=600&fit=crop&q=80" alt="Portrait of Dr. Mara Iris, vision consultant">
+            </div>
+          </div>
+
+          <div class="agent-info">
+            <span class="agent-eyebrow">Your agent</span>
+            <h2 class="agent-name">Dr. Mara Iris</h2>
+            <p class="agent-role">Lead Vision Consultant</p>
+            <p class="agent-bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus in hac habitasse platea dictumst quisque. Semper eget duis at tellus at urna condimentum mattis enim.</p>
+
+            <div class="agent-stats">
+              <div class="agent-stat">
+                <span class="agent-stat-value">12+</span>
+                <span class="agent-stat-label">Years</span>
+              </div>
+              <div class="agent-stat">
+                <span class="agent-stat-value">4.9</span>
+                <span class="agent-stat-label">Rating</span>
+              </div>
+              <div class="agent-stat">
+                <span class="agent-stat-value">2k</span>
+                <span class="agent-stat-label">Patients</span>
+              </div>
+            </div>
+
+            <div class="agent-actions">
+              <button class="btn btn-primary">Book a consult</button>
+              <button class="btn btn-ghost">Message</button>
+            </div>
+          </div>
+
+        </article>
+      </div>
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
     <script src="./script.js"></script>
   </body>
 
