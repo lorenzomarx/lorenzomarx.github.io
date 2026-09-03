@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en-NZ">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kiwi Green Cleaners · Eco-friendly house washing in Auckland</title>
+  <meta name="description" content="Soft house washing, driveway, deck, fence, gutter, solar panel and window cleaning across Auckland. Eco-friendly products, fully insured, 5-star Google rated. Free quotes." />
+  <link rel="icon" href="site-audit/images/Kiwi-Green-Cleaners-Logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --cream: #FFF8EC;
+      --ink: #1B2A1F;
+      --muted: #4A5A4F;
+      --green: #38C15E;
+      --green-deep: #1E8A3C;
+      --green-dark: #146A2C;
+      --lime: #D4F531;
+      --sky: #7DD3FC;
+      --sky-deep: #0EA5E9;
+      --sun: #FFC93C;
+      --coral: #FF7A59;
+      --lilac: #C9B6FF;
+      --white: #FFFFFF;
+      --radius: 28px;
+      --radius-sm: 18px;
+      --border: 3px;
+      --clay: 0 10px 0 0 rgba(27,42,31,.12), 0 18px 30px -10px rgba(27,42,31,.25), inset 0 -6px 0 rgba(0,0,0,.08), inset 0 3px 0 rgba(255,255,255,.7);
+      --clay-sm: 0 6px 0 0 rgba(27,42,31,.12), 0 12px 20px -8px rgba(27,42,31,.22), inset 0 -4px 0 rgba(0,0,0,.08), inset 0 2px 0 rgba(255,255,255,.7);
+      --bounce: cubic-bezier(.34,1.56,.64,1);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: 'Nunito', system-ui, -apple-system, sans-serif;
+      font-size: 17px; line-height: 1.6;
+      color: var(--ink);
+      background:
+        radial-gradient(900px 500px at 10% -5%, rgba(212,245,49,.35), transparent 60%),
+        radial-gradient(800px 500px at 95% 10%, rgba(125,211,252,.4), transparent 60%),
+        var(--cream);
+    }
+    h1, h2, h3, .display { font-family: 'Fredoka', 'Nunito', sans-serif; font-weight: 700; line-height: 1.05; letter-spacing: -.01em; margin: 0; }
+    p { margin: 0; }
+    a { color: inherit; }
+    img { max-width: 100%; display: block; }
+    .wrap { width: min(1180px, 100% - 2rem); margin-inline: auto; }
+    .section { padding-block: clamp(3rem, 7vw, 6rem); }
+    .eyebrow { display: inline-block; font-weight: 800; font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: var(--green-dark); background: var(--lime); border: var(--border) solid var(--ink); border-radius: 999px; padding: .35em 1em; box-shadow: 0 4px 0 0 var(--ink); }
+    .h2 { font-size: clamp(2rem, 4.6vw, 3.4rem); margin-top: 1rem; }
+    .lead { color: var(--muted); font-size: 1.1rem; max-width: 60ch; margin-top: .9rem; font-weight: 500; }
+
+    /* ---------- Clay primitives ---------- */
+    .clay {
+      background: var(--white);
+      border: var(--border) solid var(--ink);
+      border-radius: var(--radius);
+      box-shadow: var(--clay);
+      position: relative;
+    }
+    .clay-sm { border-radius: var(--radius-sm); box-shadow: var(--clay-sm); }
+    .fill-green { background: var(--green); color: var(--white); }
+    .fill-green-deep { background: var(--green-deep); color: var(--white); }
+    .fill-lime { background: var(--lime); }
+    .fill-sky { background: var(--sky); }
+    .fill-sun { background: var(--sun); }
+    .fill-coral { background: var(--coral); color: var(--white); }
+    .fill-lilac { background: var(--lilac); }
+    .fill-cream { background: var(--cream); }
+
+    .btn {
+      display: inline-flex; align-items: center; gap: .55em;
+      font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: 1.05rem;
+      padding: .85em 1.5em; border-radius: 999px; text-decoration: none; cursor: pointer;
+      border: var(--border) solid var(--ink); color: var(--ink); background: var(--sun);
+      box-shadow: 0 6px 0 0 var(--ink), inset 0 -3px 0 rgba(0,0,0,.12), inset 0 2px 0 rgba(255,255,255,.6);
+      transition: transform .2s var(--bounce), box-shadow .2s var(--bounce), background-color .2s;
+      min-height: 48px;
+    }
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 0 0 var(--ink), inset 0 -3px 0 rgba(0,0,0,.12), inset 0 2px 0 rgba(255,255,255,.6); }
+    .btn:active { transform: translateY(4px); box-shadow: 0 2px 0 0 var(--ink), inset 0 -3px 0 rgba(0,0,0,.12); }
+    .btn:focus-visible, a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 4px solid var(--sky-deep); outline-offset: 3px; }
+    .btn-green { background: var(--green); color: var(--white); }
+    .btn-white { background: var(--white); }
+    .btn svg { width: 22px; height: 22px; flex: none; }
+
+    /* ---------- Nav ---------- */
+    .nav {
+      position: sticky; top: 1rem; z-index: 50;
+      width: min(1180px, 100% - 2rem); margin: 1rem auto 0;
+      display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+      padding: .6rem .75rem .6rem 1rem; border-radius: 999px;
+      background: rgba(255,255,255,.92); backdrop-filter: blur(8px);
+    }
+    /* Fixed strip behind the floating nav so content fades out instead of showing above the pill */
+    .nav-fade {
+      position: fixed; top: 0; left: 0; right: 0; height: 6.5rem; z-index: 40; pointer-events: none;
+      background: linear-gradient(to bottom, var(--cream) 0%, var(--cream) 45%, rgba(255,248,236,0) 100%);
+      -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
+      mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
+      backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+    }
+    .brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; font-family: 'Fredoka', sans-serif; font-weight: 700; font-size: 1.15rem; }
+    .brand img { width: 46px; height: 46px; border-radius: 50%; border: 2px solid var(--ink); background: var(--white); object-fit: cover; }
+    .nav ul { list-style: none; display: flex; gap: .25rem; margin: 0; padding: 0; }
+    .nav ul a { text-decoration: none; font-weight: 800; padding: .55em .9em; border-radius: 999px; transition: background-color .2s; }
+    .nav ul a:hover { background: var(--lime); }
+    .nav .btn { padding: .6em 1.2em; font-size: 1rem; }
+    @media (max-width: 860px) { .nav ul { display: none; } }
+
+    /* ---------- Hero bento ---------- */
+    .hero { padding-top: clamp(2rem, 5vw, 4rem); }
+    .bento { display: grid; gap: 1.1rem; grid-template-columns: repeat(12, 1fr); grid-auto-rows: minmax(120px, auto); }
+    .hero-main { grid-column: span 7; padding: clamp(1.5rem, 4vw, 3rem); display: flex; flex-direction: column; justify-content: center; gap: 1.2rem; overflow: hidden; }
+    .hero-main h1 { font-size: clamp(2.6rem, 6vw, 4.9rem); }
+    .hero-main h1 em { font-style: normal; color: var(--green-deep); background: linear-gradient(transparent 60%, var(--lime) 60%); padding-inline: .08em; }
+    .hero-main .lead { font-size: 1.2rem; }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: .4rem; }
+    .hero-img { grid-column: span 5; grid-row: span 2; overflow: hidden; min-height: 360px; padding: 0; }
+    .hero-img img { width: 100%; height: 100%; object-fit: cover; border-radius: calc(var(--radius) - var(--border)); }
+    .hero-img .tag { position: absolute; left: 1rem; bottom: 1rem; }
+    .tag { display: inline-flex; align-items: center; gap: .5em; font-family: 'Fredoka', sans-serif; font-weight: 600; padding: .5em 1em; border-radius: 999px; border: var(--border) solid var(--ink); background: var(--white); box-shadow: 0 4px 0 0 var(--ink); }
+    .stat { grid-column: span 3; padding: 1.3rem 1.4rem; display: flex; flex-direction: column; justify-content: center; gap: .25rem; }
+    .stat .big { font-family: 'Fredoka', sans-serif; font-weight: 700; font-size: clamp(2rem, 3.5vw, 2.8rem); line-height: 1; }
+    .stat .label { font-weight: 800; font-size: .9rem; opacity: .9; }
+    .stars { display: inline-flex; gap: 2px; }
+    .stars svg { width: 20px; height: 20px; fill: var(--sun); stroke: var(--ink); stroke-width: 1.5; }
+    .stat-eco { grid-column: span 4; }
+    .stat-eco .big { font-size: clamp(1.4rem, 2.4vw, 1.9rem); }
+    .marquee-block { grid-column: span 12; padding: .9rem 0; overflow: hidden; }
+    .marquee { display: flex; gap: 3rem; white-space: nowrap; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: 1.1rem; animation: scroll 28s linear infinite; width: max-content; }
+    .marquee span { display: inline-flex; align-items: center; gap: .6em; }
+    .marquee svg { width: 18px; height: 18px; }
+    @keyframes scroll { to { transform: translateX(-50%); } }
+    @media (max-width: 960px) {
+      .hero-main, .hero-img { grid-column: span 12; }
+      .hero-img { grid-row: auto; min-height: 280px; }
+      .stat { grid-column: span 6; }
+      .stat-eco { grid-column: span 12; }
+    }
+    @media (max-width: 560px) { .stat { grid-column: span 12; } }
+
+    /* ---------- Services ---------- */
+    .services-grid { display: grid; gap: 1.1rem; grid-template-columns: repeat(12, 1fr); margin-top: 2.2rem; }
+    .svc { grid-column: span 4; padding: 0; overflow: hidden; display: flex; flex-direction: column; text-decoration: none; transition: transform .25s var(--bounce); cursor: pointer; }
+    .svc:hover { transform: translateY(-6px) rotate(-.4deg); }
+    .svc.wide { grid-column: span 8; }
+    .svc figure { margin: 0; aspect-ratio: 16/9; overflow: hidden; border-bottom: var(--border) solid var(--ink); }
+    .svc.wide figure { aspect-ratio: 32/9; }
+    .svc figure img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
+    .svc:hover figure img { transform: scale(1.04); }
+    .svc-body { padding: 1.25rem 1.4rem 1.5rem; display: grid; grid-template-columns: auto 1fr; gap: .4rem 1rem; align-items: start; }
+    .svc-body h3 { font-size: 1.45rem; grid-column: 2; }
+    .svc-body p { grid-column: 2; color: var(--muted); font-weight: 500; font-size: .98rem; }
+    .icon { grid-row: span 2; width: 52px; height: 52px; border-radius: 16px; border: var(--border) solid var(--ink); display: grid; place-items: center; box-shadow: 0 4px 0 0 var(--ink); }
+    .icon svg { width: 26px; height: 26px; stroke: var(--ink); fill: none; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+    @media (max-width: 960px) { .svc, .svc.wide { grid-column: span 6; } .svc.wide figure { aspect-ratio: 16/9; } }
+    @media (max-width: 620px) { .svc, .svc.wide { grid-column: span 12; } }
+
+    /* ---------- Before / after ---------- */
+    .ba-grid { display: grid; gap: 1.1rem; grid-template-columns: 1.4fr 1fr; margin-top: 2.2rem; }
+    .ba-card { padding: 0; overflow: hidden; }
+    .ba-card img { width: 100%; height: 100%; object-fit: cover; border-radius: calc(var(--radius) - var(--border)); }
+    .ba-card .tag { position: absolute; top: 1rem; left: 1rem; }
+    .ba-copy { padding: clamp(1.4rem, 3vw, 2.4rem); display: flex; flex-direction: column; gap: 1rem; justify-content: center; }
+    .ba-copy h3 { font-size: 2rem; }
+    .ba-copy ul { margin: 0; padding: 0; list-style: none; display: grid; gap: .6rem; }
+    .ba-copy li { display: flex; gap: .7rem; align-items: flex-start; font-weight: 700; }
+    .ba-copy li svg { flex: none; width: 24px; height: 24px; margin-top: .1em; }
+    @media (max-width: 860px) { .ba-grid { grid-template-columns: 1fr; } }
+
+    /* ---------- Why us ---------- */
+    .why-grid { display: grid; gap: 1.1rem; grid-template-columns: repeat(4, 1fr); margin-top: 2.2rem; }
+    .why { padding: 1.4rem; display: flex; flex-direction: column; gap: .8rem; min-height: 190px; }
+    .why h3 { font-size: 1.3rem; }
+    .why p { font-weight: 600; font-size: .95rem; opacity: .9; }
+    .why .icon { grid-row: auto; }
+    @media (max-width: 960px) { .why-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 520px) { .why-grid { grid-template-columns: 1fr; } }
+
+    /* ---------- Reviews ---------- */
+    .reviews { columns: 3; column-gap: 1.1rem; margin-top: 2.2rem; }
+    .review { break-inside: avoid; margin-bottom: 1.1rem; padding: 1.4rem; display: flex; flex-direction: column; gap: .8rem; }
+    .review blockquote { margin: 0; font-weight: 600; font-size: 1.02rem; }
+    .review .who { display: flex; align-items: center; gap: .8rem; font-weight: 800; font-size: .95rem; }
+    .avatar { width: 42px; height: 42px; border-radius: 50%; border: 2.5px solid var(--ink); display: grid; place-items: center; font-family: 'Fredoka', sans-serif; font-weight: 700; flex: none; }
+    .review .date { color: var(--muted); font-weight: 600; font-size: .85rem; }
+    .review.feature { background: var(--green-deep); color: var(--white); }
+    .review.feature .date { color: rgba(255,255,255,.8); }
+    .review.feature blockquote { font-size: 1.12rem; }
+    .g-badge { display: inline-flex; align-items: center; gap: .5em; font-weight: 800; font-size: .85rem; }
+    .g-badge svg { width: 18px; height: 18px; }
+    @media (max-width: 960px) { .reviews { columns: 2; } }
+    @media (max-width: 620px) { .reviews { columns: 1; } }
+
+    /* ---------- About ---------- */
+    .about-grid { display: grid; gap: 1.1rem; grid-template-columns: 5fr 7fr; margin-top: 2.2rem; }
+    .about-photo { padding: 0; overflow: hidden; min-height: 360px; }
+    .about-photo img { width: 100%; height: 100%; object-fit: cover; object-position: 65% 40%; border-radius: calc(var(--radius) - var(--border)); }
+    .about-photo .tag { position: absolute; bottom: 1rem; left: 1rem; }
+    .about-copy { padding: clamp(1.5rem, 3.5vw, 2.6rem); display: flex; flex-direction: column; gap: 1rem; }
+    .about-copy h3 { font-size: 2rem; }
+    .about-copy p { color: var(--muted); font-weight: 500; }
+    .quote { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: 1.3rem; line-height: 1.3; padding: 1.2rem 1.4rem; margin-top: .4rem; }
+    @media (max-width: 860px) { .about-grid { grid-template-columns: 1fr; } }
+
+    /* ---------- Contact ---------- */
+    .contact-grid { display: grid; gap: 1.1rem; grid-template-columns: 6fr 6fr; margin-top: 2.2rem; }
+    .contact-card { padding: clamp(1.5rem, 3.5vw, 2.6rem); display: flex; flex-direction: column; gap: 1.2rem; }
+    .contact-card h3 { font-size: clamp(2rem, 4vw, 2.8rem); }
+    .contact-list { list-style: none; margin: 0; padding: 0; display: grid; gap: .8rem; }
+    .contact-list a, .contact-list span { display: flex; align-items: center; gap: .9rem; text-decoration: none; font-weight: 800; font-size: 1.1rem; }
+    .contact-list .icon { width: 46px; height: 46px; border-radius: 14px; }
+    form { display: grid; gap: .9rem; }
+    .field { display: grid; gap: .35rem; }
+    .field label { font-weight: 800; font-size: .92rem; }
+    .field input, .field textarea { font: inherit; font-weight: 600; padding: .8em 1em; border-radius: 16px; border: var(--border) solid var(--ink); background: var(--white); box-shadow: inset 0 3px 0 rgba(0,0,0,.06); min-height: 48px; width: 100%; }
+    .field textarea { min-height: 120px; resize: vertical; }
+    .two { display: grid; gap: .9rem; grid-template-columns: 1fr 1fr; }
+    @media (max-width: 860px) { .contact-grid { grid-template-columns: 1fr; } }
+    @media (max-width: 520px) { .two { grid-template-columns: 1fr; } }
+
+    /* ---------- Footer ---------- */
+    footer { padding: 2rem 0 3rem; }
+    .foot { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; padding: 1.2rem 1.6rem; font-weight: 700; font-size: .95rem; }
+    .foot a { text-decoration: none; }
+    .foot a:hover { text-decoration: underline; }
+
+    /* ---------- Motion ---------- */
+    .reveal { opacity: 0; transform: translateY(18px); transition: opacity .5s ease, transform .5s var(--bounce); }
+    .reveal.in { opacity: 1; transform: none; }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .marquee { animation: none; }
+      .reveal { opacity: 1; transform: none; transition: none; }
+      .svc:hover, .btn:hover { transform: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="nav-fade" aria-hidden="true"></div>
+  <nav class="nav clay clay-sm" aria-label="Main">
+    <a class="brand" href="#top">
+      <img src="site-audit/images/Kiwi-Green-Cleaners-Logo.png" alt="Kiwi Green Cleaners logo" />
+      Kiwi Green Cleaners
+    </a>
+    <ul>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#results">Results</a></li>
+      <li><a href="#reviews">Reviews</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+    <a class="btn" href="#contact">Free quote
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </a>
+  </nav>
+
+  <!-- ================= HERO ================= -->
+  <header id="top" class="wrap hero section">
+    <div class="bento">
+      <div class="clay hero-main reveal">
+        <span class="eyebrow">Milford · Auckland-wide</span>
+        <h1>Make your home <em>sparkle</em> the eco-friendly way.</h1>
+        <p class="lead">Soft house washing, driveways, decks, gutters, solar panels and windows. Biodegradable products, fully insured, and a founder who treats your place like his own.</p>
+        <div class="hero-actions">
+          <a class="btn btn-green" href="#contact">Get a free quote</a>
+          <a class="btn btn-white" href="#services">See services</a>
+        </div>
+      </div>
+
+      <figure class="clay hero-img reveal" style="margin:0">
+        <img src="site-audit/images/Front-house-wash.jpg" alt="Freshly soft-washed weatherboard house in Auckland" loading="eager" />
+        <span class="tag fill-lime">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+          Soft-wash safe
+        </span>
+      </figure>
+
+      <div class="clay stat fill-sun reveal">
+        <span class="stars" aria-label="5 out of 5 stars">
+          <svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg>
+          <svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg>
+          <svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg>
+          <svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg>
+          <svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg>
+        </span>
+        <span class="big">5.0</span>
+        <span class="label">Google rating, every review 5 stars</span>
+      </div>
+
+      <div class="clay stat fill-sky reveal">
+        <span class="big">100%</span>
+        <span class="label">Fully insured professionals</span>
+      </div>
+
+      <div class="clay stat stat-eco fill-green-deep reveal">
+        <span class="big">Kind to your garden</span>
+        <span class="label">Products that break down in nature, so nothing nasty ends up in your soil or the stormwater.</span>
+      </div>
+
+      <div class="clay clay-sm marquee-block fill-lime reveal" aria-hidden="true">
+        <div class="marquee">
+          <span>House washing</span><span>·</span><span>Driveway cleaning</span><span>·</span><span>Gutter cleaning</span><span>·</span><span>Deck cleaning</span><span>·</span><span>Fence cleaning</span><span>·</span><span>Solar panel cleaning</span><span>·</span><span>Window cleaning</span><span>·</span>
+          <span>House washing</span><span>·</span><span>Driveway cleaning</span><span>·</span><span>Gutter cleaning</span><span>·</span><span>Deck cleaning</span><span>·</span><span>Fence cleaning</span><span>·</span><span>Solar panel cleaning</span><span>·</span><span>Window cleaning</span><span>·</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ================= SERVICES ================= -->
+  <section id="services" class="wrap section">
+    <span class="eyebrow">What we do</span>
+    <h2 class="h2">Seven ways to bring your place back to life.</h2>
+    <p class="lead">Every job gets the same slow, careful attention. No rush in, rush out.</p>
+
+    <div class="services-grid">
+      <a class="clay svc wide reveal" href="#contact">
+        <figure><img src="site-audit/images/House-wash-background-photo-Kiwi-Green-Cleaners.jpg" alt="Exterior house wash in progress" loading="lazy" /></figure>
+        <div class="svc-body">
+          <span class="icon fill-sky"><svg viewBox="0 0 24 24"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-6h4v6"/></svg></span>
+          <h3>Exterior house washing</h3>
+          <p>Eco-friendly soft wash that lifts dirt, moss and mould without blasting your paint. Do it yearly and your weatherboards will thank you.</p>
+        </div>
+      </a>
+      <a class="clay svc reveal" href="#contact">
+        <figure><img src="site-audit/images/Driveway-Cleaning-1.jpg" alt="Concrete driveway being surface cleaned" loading="lazy" /></figure>
+        <div class="svc-body">
+          <span class="icon fill-sun"><svg viewBox="0 0 24 24"><path d="M4 20 20 4"/><path d="M4 12l8 8"/><path d="M12 4l8 8"/></svg></span>
+          <h3>Driveway cleaning</h3>
+          <p>Concrete, asphalt, brick or garden paths. Our surface cleaner strips grime without scarring the surface.</p>
+        </div>
+      </a>
+      <a class="clay svc reveal" href="#contact">
+        <figure><img src="site-audit/images/Gutter-cleaning-1.jpg" alt="Gutter being cleared of leaves" loading="lazy" /></figure>
+        <div class="svc-body">
+          <span class="icon fill-lilac"><svg viewBox="0 0 24 24"><path d="M3 8h18"/><path d="M5 8v4a7 7 0 0 0 14 0V8"/><path d="M12 19v3"/></svg></span>
+          <h3>Gutter cleaning</h3>
+          <p>Blocked gutters lead to roof leaks and foundation damage. We clear them before winter does its worst.</p>
+        </div>
+      </a>
+      <a class="clay svc reveal" href="#contact">
+        <figure><img src="site-audit/images/Deck-cleaning-before-after.jpg" alt="Timber deck, half cleaned to show the difference" loading="lazy" /></figure>
+        <div class="svc-body">
+          <span class="icon fill-coral"><svg viewBox="0 0 24 24"><path d="M3 6h18"/><path d="M3 12h18"/><path d="M3 18h18"/></svg></span>
+          <h3>Deck cleaning</h3>
+          <p>Remove algae, mould and slippery build-up, and protect the timber from rot and pricey repairs.</p>
+        </div>
+      </a>
+      <a class="clay svc reveal" href="#contact">
+        <figure><img src="site-audit/images/Fence-cleaning.jpg" alt="Wooden fence after soft washing" loading="lazy" /></figure>
+        <div class="svc-body">
+          <span class="icon fill-lime"><svg viewBox="0 0 24 24"><path d="M5 4v16"/><path d="M12 4v16"/><path d="M19 4v16"/><path d="M3 9h18"/><path d="M3 15h18"/></svg></span>
+          <h3>Fence cleaning</h3>
+          <p>A gentle soft wash restores the look, boosts curb appeal and helps your fence last longer.</p>
+        </div>
+      </a>
+      <a class="clay svc reveal" href="#contact">
+        <figure><img src="site-audit/images/Solar-panel-cleaning.jpg" alt="Rooftop solar panels being brushed clean" loading="lazy" /></figure>
+        <div class="svc-body">
+          <span class="icon fill-sun"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></span>
+          <h3>Solar panel cleaning</h3>
+          <p>Soft brushes, no harsh chemicals, no scratches. Keep every panel pulling in maximum energy.</p>
+        </div>
+      </a>
+      <a class="clay svc wide reveal" href="#contact">
+        <figure><img src="site-audit/images/Skylight.jpg" alt="Skylight and windows cleaned streak-free" loading="lazy" /></figure>
+        <div class="svc-body">
+          <span class="icon fill-sky"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M12 4v16"/><path d="M4 12h16"/></svg></span>
+          <h3>Window and skylight cleaning</h3>
+          <p>Your home looks newer and brighter in one visit. No streaks, no missed spots, no risky ladder work for you.</p>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <!-- ================= RESULTS ================= -->
+  <section id="results" class="wrap section">
+    <span class="eyebrow">Before and after</span>
+    <h2 class="h2">You won't believe how bad it was until it's clean.</h2>
+
+    <div class="ba-grid">
+      <figure class="clay ba-card reveal" style="margin:0; min-height: 380px;">
+        <img src="site-audit/images/Path-cleaning-before-after.jpg" alt="Garden path half cleaned, showing before and after" loading="lazy" />
+        <span class="tag fill-sun">Path clean, mid-job</span>
+      </figure>
+      <div class="clay ba-copy fill-lime reveal">
+        <h3>Most decks and paths in Auckland are quietly rotting.</h3>
+        <ul>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></svg>Rain, moisture and UV break timber down.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></svg>Mould and algae make surfaces dangerously slippery.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></svg>A regular clean is far cheaper than restoration.</li>
+        </ul>
+        <div><a class="btn" href="#contact">Book a clean</a></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= WHY US ================= -->
+  <section class="wrap section">
+    <span class="eyebrow">Why Kiwi Green</span>
+    <h2 class="h2">Local, insured, and genuinely green.</h2>
+
+    <div class="why-grid">
+      <div class="clay why fill-sun reveal">
+        <span class="icon" style="background:var(--white)"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <h3>5-star rated</h3>
+        <p>Every Google review so far is five stars. We'd like to keep it that way.</p>
+      </div>
+      <div class="clay why fill-sky reveal">
+        <span class="icon" style="background:var(--white)"><svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg></span>
+        <h3>Fully insured</h3>
+        <p>Professional gear, proper cover, and soft-wash methods that protect your surfaces.</p>
+      </div>
+      <div class="clay why fill-lime reveal">
+        <span class="icon" style="background:var(--white)"><svg viewBox="0 0 24 24"><path d="M11 20A7 7 0 0 1 4 13c0-5 4-9 9-9 4 0 7 3 7 7 0 5-4 9-9 9z"/><path d="M4 20 15 9"/></svg></span>
+        <h3>Eco-friendly</h3>
+        <p>Biodegradable cleaning solutions with minimal impact on your garden and the environment.</p>
+      </div>
+      <div class="clay why fill-lilac reveal">
+        <span class="icon" style="background:var(--white)"><svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+        <h3>Reliable comms</h3>
+        <p>Quick replies, free quotes, fair prices, and photos of anything on your roof that needs attention.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= REVIEWS ================= -->
+  <section id="reviews" class="wrap section">
+    <span class="eyebrow">What clients say</span>
+    <h2 class="h2">Nine reviews. Forty-five stars.</h2>
+    <p class="lead">Straight from Google. Nothing edited, nothing cherry-picked.</p>
+
+    <div class="reviews">
+      <article class="clay review feature reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>We own a large, high old wooden villa which is, I think, a house washer's nightmare with all the angles and nooks made by weatherboards and ornamentation. Njord cleaned it beautifully with an attention to detail we have not previously experienced. This was not a hasty rush in and then rush off to the next job. We will definitely engage him again next year.</blockquote>
+        <div class="who"><span class="avatar fill-sun" style="color:var(--ink)">TH</span><div>Tim Heath<br /><span class="date">June 2025 · Google</span></div></div>
+      </article>
+
+      <article class="clay review reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>We are absolutely thrilled with the job, the house and deck look fantastic. Njord was so thorough, detailed and efficient. He even took photos while he was up on the roof of any areas that may need maintenance attention. Very helpful as we cannot see from the ground!</blockquote>
+        <div class="who"><span class="avatar fill-lilac">FC</span><div>Francesca Caliari-Pearce<br /><span class="date">February 2025 · Google</span></div></div>
+      </article>
+
+      <article class="clay review reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>Njord provides professional, friendly service. Would not hesitate to recommend to friends in our neighbourhood. Will certainly contact Kiwi Green Cleaners again when needed.</blockquote>
+        <div class="who"><span class="avatar fill-sky">GA</span><div>Greg Anson<br /><span class="date">December 2025 · Google</span></div></div>
+      </article>
+
+      <article class="clay review fill-sky reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>Njord did a great job on our house and patio clean. He was super responsive to our request and I would recommend him if you are after someone to do a house wash.</blockquote>
+        <div class="who"><span class="avatar" style="background:var(--white)">SS</span><div>Suraj Sowki<br /><span class="date">December 2025 · Google</span></div></div>
+      </article>
+
+      <article class="clay review reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>Njord did a great job of our skylights. Quick, thorough, and reasonably priced. Was a pleasure to deal with, would recommend.</blockquote>
+        <div class="who"><span class="avatar fill-lime">TR</span><div>Trevor Reid<br /><span class="date">December 2025 · Google</span></div></div>
+      </article>
+
+      <article class="clay review fill-sun reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>Njord is a friendly, polite young man. He works quickly and efficiently and does a great job. We have used his services twice now and will continue to do so.</blockquote>
+        <div class="who"><span class="avatar" style="background:var(--white)">SG</span><div>Suzie Gurr<br /><span class="date">September 2025 · Google</span></div></div>
+      </article>
+
+      <article class="clay review reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>We had house and driveway done and were extremely satisfied with the result and price. Will use them again, highly recommended.</blockquote>
+        <div class="who"><span class="avatar fill-coral">RB</span><div>Richard Barker<br /><span class="date">June 2025 · Google</span></div></div>
+      </article>
+
+      <article class="clay review fill-lilac reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>Njord is a keen worker who goes out of his way to do the best possible job he can. Highly recommend him.</blockquote>
+        <div class="who"><span class="avatar" style="background:var(--white)">YB</span><div>Yolanda van den Bemd<br /><span class="date">October 2024 · Google</span></div></div>
+      </article>
+
+      <article class="clay review reveal">
+        <span class="stars" aria-label="5 stars"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.2 6.8.8-5 4.6 1.3 6.7L12 17.5l-6 3.3 1.3-6.7-5-4.6 6.8-.8z"/></svg></span>
+        <blockquote>Excellent service.</blockquote>
+        <div class="who"><span class="avatar fill-sun">RH</span><div>Roger Holmes<br /><span class="date">December 2025 · Google</span></div></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ================= ABOUT ================= -->
+  <section id="about" class="wrap section">
+    <span class="eyebrow">Meet the founder</span>
+    <h2 class="h2">Hi, I'm Njord.</h2>
+
+    <div class="about-grid">
+      <figure class="clay about-photo reveal" style="margin:0">
+        <img src="site-audit/images/Founder-Njord-Kiwi-Green-Cleaners.jpeg" alt="Njord, founder of Kiwi Green Cleaners, hiking in the mountains" loading="lazy" />
+        <span class="tag fill-sky">Founder · Kiwi Green Cleaners</span>
+      </figure>
+      <div class="clay about-copy reveal">
+        <h3>From the Dutch lowlands to Auckland's weatherboards.</h3>
+        <p>Originally from the Netherlands, Njord spent parts of his childhood in Christchurch and Wellington before heading back to Europe. In 2019 he returned to New Zealand for good, building a life around the outdoors, hard work, and helping people.</p>
+        <p>After a few different jobs he landed on a simple truth: there is something deeply satisfying about turning a tired, weathered property into one that looks its absolute best. That became Kiwi Green Cleaners.</p>
+        <p>Every job, from a house wash to a gutter clean, gets the same care. No rushing, and always protecting the surfaces being cleaned.</p>
+        <blockquote class="clay clay-sm quote fill-lime">"I treat every home as if it were my own. If I'm not happy with the result, the job isn't finished."</blockquote>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= CONTACT ================= -->
+  <section id="contact" class="wrap section">
+    <div class="contact-grid">
+      <div class="clay contact-card fill-green-deep reveal">
+        <span class="eyebrow">Free quote</span>
+        <h3>Ready for a fresh start?</h3>
+        <p style="font-weight:600; opacity:.95">Tell us what needs a clean and we'll come back with a price. We service all of Auckland from our base in Milford.</p>
+        <ul class="contact-list">
+          <li><a href="tel:+64223069803"><span class="icon fill-sun"><svg viewBox="0 0 24 24"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.9 2z"/></svg></span>022 306 9803</a></li>
+          <li><a href="mailto:support@kiwigreencleaners.nz"><span class="icon fill-sky"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></span>support@kiwigreencleaners.nz</a></li>
+          <li><span><span class="icon fill-lime"><svg viewBox="0 0 24 24"><path d="M12 22s7-7.5 7-12a7 7 0 0 0-14 0c0 4.5 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg></span>Milford, Auckland</span></li>
+        </ul>
+      </div>
+
+      <form class="clay contact-card reveal" action="#" method="post" onsubmit="event.preventDefault(); alert('Form wiring comes next. For now, email or call us.');">
+        <div class="two">
+          <div class="field"><label for="name">Name</label><input id="name" name="name" type="text" autocomplete="name" required /></div>
+          <div class="field"><label for="phone">Phone</label><input id="phone" name="phone" type="tel" autocomplete="tel" required /></div>
+        </div>
+        <div class="field"><label for="email">Email</label><input id="email" name="email" type="email" autocomplete="email" required /></div>
+        <div class="field"><label for="address">Property address</label><input id="address" name="address" type="text" autocomplete="street-address" /></div>
+        <div class="field"><label for="details">What needs cleaning?</label><textarea id="details" name="details" placeholder="e.g. Two-storey weatherboard house wash plus gutters"></textarea></div>
+        <div><button class="btn btn-green" type="submit">Send my request
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </button></div>
+      </form>
+    </div>
+  </section>
+
+  <footer class="wrap">
+    <div class="clay clay-sm foot fill-cream">
+      <span>© 2026 Kiwi Green Cleaners. All rights reserved.</span>
+      <span>Eco-friendly exterior cleaning · Auckland, NZ</span>
+      <a href="#top">Back to top ↑</a>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var els = document.querySelectorAll('.reveal');
+      if (!('IntersectionObserver' in window) || matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        els.forEach(function (e) { e.classList.add('in'); }); return;
+      }
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en, i) {
+          if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); }
+        });
+      }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+      els.forEach(function (e, i) { e.style.transitionDelay = (i % 4) * 60 + 'ms'; io.observe(e); });
+    })();
+  </script>
+</body>
+</html>
